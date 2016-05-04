@@ -1,0 +1,67 @@
+{
+  "id": 169568725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-4.601404,42.34119,-4.601404,42.34119",
+    "geom:latitude":42.34119,
+    "geom:longitude":-4.601404,
+    "iso:country":"ES",
+    "sg:address":"Calle de Rabi Don Sem Tob, 2",
+    "sg:city":"Carrion De Los Condes",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 979 88 05 11",
+    "sg:postcode":"34120",
+    "sg:province":"Palencia",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101773045,
+        85682815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BdDj2UWY55p6xZRplr4be_42.341190_-4.601404@1306269410"
+    },
+    "wof:country":"ES",
+    "wof:geomhash":"2afa842a731b764593f388e6eb1ff80b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "locality_id":101773045,
+            "neighbourhood_id":-1,
+            "region_id":85682815,
+            "venue_id":169568725
+        }
+    ],
+    "wof:id":169568725,
+    "wof:lastmodified":1449032609,
+    "wof:name":"Abad Gutierrez Donato",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [-4.601404,42.34119,-4.601404,42.34119],
+  "geometry": {"coordinates":[-4.601404,42.34119],"type":"Point"}
+}

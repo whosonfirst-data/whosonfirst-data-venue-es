@@ -1,0 +1,66 @@
+{
+  "id": 169581011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-17.799154,28.716579,-17.799154,28.716579",
+    "geom:latitude":28.716579,
+    "geom:longitude":-17.799154,
+    "iso:country":"ES",
+    "sg:address":"Plaz San Fernando, 3",
+    "sg:city":"Santa Cruz Palma",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 922 41 06 81",
+    "sg:postcode":"38700",
+    "sg:province":"Santa Cruz De Tenerife",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "102191581",
+        "85633129"
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LJjzDigSHnuV1rOk9NI3r_28.716579_-17.799154@1306269411"
+    },
+    "wof:country":"ES",
+    "wof:geomhash":"394e580e524d319f7831d0c26b5e814f",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191581",
+            "country_id":"85633129",
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":-1,
+            "venue_id":169581011
+        }
+    ],
+    "wof:id":169581011,
+    "wof:lastmodified":1449033382,
+    "wof:name":"Abdelrahman  Naamekhalil",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [-17.799154,28.716579,-17.799154,28.716579],
+  "geometry": {"coordinates":[-17.799154,28.716579],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169606099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"2.169433,41.397285,2.169433,41.397285",
+    "geom:latitude":41.397285,
+    "geom:longitude":2.169433,
+    "iso:country":"ES",
+    "sg:address":"Carrer de Valencia, 348",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Artes Gr\u00c1ficas, Artes Pl\u00c1sticas (curso)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 57 45 04",
+    "sg:postcode":"08009",
+    "sg:province":"Barcelona",
+    "sg:website":"www.abezeta.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863999,
+        85633129,
+        101748323,
+        85682663,
+        85864017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51hH78nHBAEtTVjtThMR0l_41.397285_2.169433@1306269411"
+    },
+    "wof:country":"ES",
+    "wof:geomhash":"128c2c8a32c19b41ee81d3d4c82344bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "locality_id":101748323,
+            "neighbourhood_id":85863999,
+            "region_id":85682663,
+            "venue_id":169606099
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "locality_id":101748323,
+            "neighbourhood_id":85864017,
+            "region_id":85682663,
+            "venue_id":169606099
+        }
+    ],
+    "wof:id":169606099,
+    "wof:lastmodified":1449033202,
+    "wof:name":"Abezeta S. A.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [2.169433,41.397285,2.169433,41.397285],
+  "geometry": {"coordinates":[2.169433,41.397285],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169566423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-0.462902,39.549206,-0.462902,39.549206",
+    "geom:latitude":39.549206,
+    "geom:longitude":-0.462902,
+    "iso:country":"ES",
+    "sg:address":"Av J De La Cierva Y Codorniu, 12",
+    "sg:city":"Parc Tecnologic",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 961 36 61 11",
+    "sg:postcode":"46980",
+    "sg:province":"Valencia",
+    "sg:tags":[
+        "salas",
+        "de",
+        "cine"
+    ],
+    "sg:website":"www.grupoabaco.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101776439,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2m7qJ8PiAIBkknTmaeQFb2_39.549206_-0.462902@1306269410"
+    },
+    "wof:country":"ES",
+    "wof:geomhash":"5cc7ef80b3df40f1ae34184242a8f30f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "locality_id":101776439,
+            "neighbourhood_id":-1,
+            "region_id":85682867,
+            "venue_id":169566423
+        }
+    ],
+    "wof:id":169566423,
+    "wof:lastmodified":1449032751,
+    "wof:name":"Abaco Xxi S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salas",
+        "de",
+        "cine"
+    ]
+},
+  "bbox": [-0.462902,39.549206,-0.462902,39.549206],
+  "geometry": {"coordinates":[-0.462902,39.549206],"type":"Point"}
+}

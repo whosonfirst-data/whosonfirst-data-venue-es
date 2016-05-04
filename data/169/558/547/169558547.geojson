@@ -1,0 +1,69 @@
+{
+  "id": 169558547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-3.663519,40.425488,-3.663519,40.425488",
+    "geom:latitude":40.425488,
+    "geom:longitude":-3.663519,
+    "iso:country":"ES",
+    "sg:address":"Pase Marques De Zafra, 38",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 55 71 60",
+    "sg:postcode":"28028",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ],
+    "sg:website":"www.01consulting.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863683,
+        85633129,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oQ5CNcXklx3xrI0Ia1O4y_40.425488_-3.663519@1306269410"
+    },
+    "wof:country":"ES",
+    "wof:geomhash":"053e4d832a053d37319f11f935e4e169",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "locality_id":101748283,
+            "neighbourhood_id":85863683,
+            "region_id":85682783,
+            "venue_id":169558547
+        }
+    ],
+    "wof:id":169558547,
+    "wof:lastmodified":1449033581,
+    "wof:name":"01 Consulting S.l.",
+    "wof:parent_id":85863683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ]
+},
+  "bbox": [-3.663519,40.425488,-3.663519,40.425488],
+  "geometry": {"coordinates":[-3.663519,40.425488],"type":"Point"}
+}

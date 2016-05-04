@@ -1,0 +1,67 @@
+{
+  "id": 169602019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"1.252166,41.115173,1.252166,41.115173",
+    "geom:latitude":41.115173,
+    "geom:longitude":1.252166,
+    "iso:country":"ES",
+    "sg:address":"Carrer de Unio (de La), 9",
+    "sg:city":"Tarragona",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 977 23 40 50",
+    "sg:postcode":"43001",
+    "sg:province":"Tarragona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101748269,
+        85682851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xHJga1LBVKMEoHJQc0130_41.115173_1.252166@1306269411"
+    },
+    "wof:country":"ES",
+    "wof:geomhash":"7dab9ee8c2447f6060a9923759ad9a40",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "locality_id":101748269,
+            "neighbourhood_id":-1,
+            "region_id":85682851,
+            "venue_id":169602019
+        }
+    ],
+    "wof:id":169602019,
+    "wof:lastmodified":1449034228,
+    "wof:name":"Abenbon S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [1.252166,41.115173,1.252166,41.115173],
+  "geometry": {"coordinates":[1.252166,41.115173],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 169671823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-3.357282,40.489513,-3.357282,40.489513",
+    "geom:latitude":40.489513,
+    "geom:longitude":-3.357282,
+    "iso:country":"ES",
+    "sg:address":"Calle de Juan De Borgo\u00d1a, 3",
+    "sg:city":"Alcala Henares",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 918 80 54 30",
+    "sg:postcode":"28805",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101748271,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kRfJdu7852FC3urcctb91_40.489513_-3.357282@1306269411"
+    },
+    "wof:country":"ES",
+    "wof:geomhash":"8b0736670b6175a83797294c291fe734",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "locality_id":101748271,
+            "neighbourhood_id":-1,
+            "region_id":85682783,
+            "venue_id":169671823
+        }
+    ],
+    "wof:id":169671823,
+    "wof:lastmodified":1449033453,
+    "wof:name":"Academia De Conductores Stop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-3.357282,40.489513,-3.357282,40.489513],
+  "geometry": {"coordinates":[-3.357282,40.489513],"type":"Point"}
+}

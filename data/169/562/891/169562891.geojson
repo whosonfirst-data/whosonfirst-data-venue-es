@@ -1,0 +1,68 @@
+{
+  "id": 169562891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-3.692214,40.425285,-3.692214,40.425285",
+    "geom:latitude":40.425285,
+    "geom:longitude":-3.692214,
+    "iso:country":"ES",
+    "sg:address":"Calle de Marques De La Ensenada, 16",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 19 23 98",
+    "sg:postcode":"28004",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863809,
+        85633129,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZFf7H6Yiig4aHPyfJxq3y_40.425285_-3.692214@1306269410"
+    },
+    "wof:country":"ES",
+    "wof:geomhash":"9e6e11b321c0e3956523f26c3b6aa18a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "locality_id":101748283,
+            "neighbourhood_id":85863809,
+            "region_id":85682783,
+            "venue_id":169562891
+        }
+    ],
+    "wof:id":169562891,
+    "wof:lastmodified":1449034437,
+    "wof:name":"4 M S.a.",
+    "wof:parent_id":85863809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [-3.692214,40.425285,-3.692214,40.425285],
+  "geometry": {"coordinates":[-3.692214,40.425285],"type":"Point"}
+}

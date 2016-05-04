@@ -1,0 +1,59 @@
+{
+  "id": 169671055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-5.659073,43.537659,-5.659073,43.537659",
+    "geom:latitude":43.537659,
+    "geom:longitude":-5.659073,
+    "iso:country":"ES",
+    "sg:address":"Calle de Cabrales, 53",
+    "sg:city":"Gijon",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 985 35 82 88",
+    "sg:postcode":"33201",
+    "sg:province":"Asturias",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799415,
+        85633129,
+        101748401,
+        85682805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63p4DPTT4WtGwgjVVKURxg_43.537659_-5.659073@1306269411"
+    },
+    "wof:country":"ES",
+    "wof:geomhash":"1598bc8918b9946415b84a7487ff0f4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "locality_id":101748401,
+            "neighbourhood_id":85799415,
+            "region_id":85682805,
+            "venue_id":169671055
+        }
+    ],
+    "wof:id":169671055,
+    "wof:lastmodified":1449033452,
+    "wof:name":"Academia De Conductores Del Norte S.l.",
+    "wof:parent_id":85799415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-5.659073,43.537659,-5.659073,43.537659],
+  "geometry": {"coordinates":[-5.659073,43.537659],"type":"Point"}
+}

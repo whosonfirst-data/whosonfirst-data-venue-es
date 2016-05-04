@@ -1,0 +1,67 @@
+{
+  "id": 169565993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-2.684408,42.839718,-2.684408,42.839718",
+    "geom:latitude":42.839718,
+    "geom:longitude":-2.684408,
+    "iso:country":"ES",
+    "sg:address":"Zaramaga Carrer de Carrer de Boulevard De Vitoria, 1",
+    "sg:city":"Vitoria-gasteiz",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 945 25 66 15",
+    "sg:postcode":"01013",
+    "sg:province":"\u00c1lava",
+    "sg:tags":[
+        "salas",
+        "de",
+        "cine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101748371,
+        85682615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TXQcmMoZOVK2fkMa69zVa_42.839718_-2.684408@1306269410"
+    },
+    "wof:country":"ES",
+    "wof:geomhash":"6c8f46d0fdef98099252f520d565eeb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "locality_id":101748371,
+            "neighbourhood_id":-1,
+            "region_id":85682615,
+            "venue_id":169565993
+        }
+    ],
+    "wof:id":169565993,
+    "wof:lastmodified":1449035665,
+    "wof:name":"Abaco Cine S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salas",
+        "de",
+        "cine"
+    ]
+},
+  "bbox": [-2.684408,42.839718,-2.684408,42.839718],
+  "geometry": {"coordinates":[-2.684408,42.839718],"type":"Point"}
+}

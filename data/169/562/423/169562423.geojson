@@ -1,0 +1,78 @@
+{
+  "id": 169562423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"2.158097,41.389324,2.158097,41.389324",
+    "geom:latitude":41.389324,
+    "geom:longitude":2.158097,
+    "iso:country":"ES",
+    "sg:address":"Carrer de Aribau, 75",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 51 23 48",
+    "sg:postcode":"08036",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "sg:website":"www.3punt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864021,
+        85633129,
+        101748323,
+        85682663,
+        85864017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_122HHZfPQrokOcYCFlZMiD_41.389324_2.158097@1306269410"
+    },
+    "wof:country":"ES",
+    "wof:geomhash":"150fcdc944fe071529f8350d0e606c1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "locality_id":101748323,
+            "neighbourhood_id":85864021,
+            "region_id":85682663,
+            "venue_id":169562423
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "locality_id":101748323,
+            "neighbourhood_id":85864017,
+            "region_id":85682663,
+            "venue_id":169562423
+        }
+    ],
+    "wof:id":169562423,
+    "wof:lastmodified":1449034434,
+    "wof:name":"3 Punt Galeria S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [2.158097,41.389324,2.158097,41.389324],
+  "geometry": {"coordinates":[2.158097,41.389324],"type":"Point"}
+}

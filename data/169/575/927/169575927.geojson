@@ -1,0 +1,67 @@
+{
+  "id": 169575927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"2.062788,41.466698,2.062788,41.466698",
+    "geom:latitude":41.466698,
+    "geom:longitude":2.062788,
+    "iso:country":"ES",
+    "sg:address":"Carrer de Toledo, 10",
+    "sg:city":"Mira-sol",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 935 83 61 38",
+    "sg:postcode":"08195",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "mercado",
+        "de",
+        "estudios"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101758785,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JrvdFf4vmI3jApQ1iLxgB_41.466698_2.062788@1306269410"
+    },
+    "wof:country":"ES",
+    "wof:geomhash":"c07afadb47d41d7f75c860fccf7b155a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "locality_id":101758785,
+            "neighbourhood_id":-1,
+            "region_id":85682663,
+            "venue_id":169575927
+        }
+    ],
+    "wof:id":169575927,
+    "wof:lastmodified":1449033642,
+    "wof:name":"Abante Y Pongiluppi S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mercado",
+        "de",
+        "estudios"
+    ]
+},
+  "bbox": [2.062788,41.466698,2.062788,41.466698],
+  "geometry": {"coordinates":[2.062788,41.466698],"type":"Point"}
+}

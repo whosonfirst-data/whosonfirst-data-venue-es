@@ -1,0 +1,59 @@
+{
+  "id": 169564525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"2.112645,41.359165,2.112645,41.359165",
+    "geom:latitude":41.359165,
+    "geom:longitude":2.112645,
+    "iso:country":"ES",
+    "sg:address":"Carrer de Miquel Romeu, 113",
+    "sg:city":"Hospitalet Llobregat",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 60 00 00",
+    "sg:postcode":"08907",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799585,
+        85633129,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79bd3Q4TrUlmwKFkJuzFfY_41.359165_2.112645@1306269410"
+    },
+    "wof:country":"ES",
+    "wof:geomhash":"eba2a722d08ccff60fd88527d1fbef54",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "locality_id":101748323,
+            "neighbourhood_id":85799585,
+            "region_id":85682663,
+            "venue_id":169564525
+        }
+    ],
+    "wof:id":169564525,
+    "wof:lastmodified":1449035764,
+    "wof:name":"A.a.a.b. Radio Taxi Barcelona Asociacion Autotaxis Area Barcelona",
+    "wof:parent_id":85799585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [2.112645,41.359165,2.112645,41.359165],
+  "geometry": {"coordinates":[2.112645,41.359165],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169566053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-0.261597,39.172977,-0.261597,39.172977",
+    "geom:latitude":39.172977,
+    "geom:longitude":-0.261597,
+    "iso:country":"ES",
+    "sg:address":"Carr Sueca, S/n",
+    "sg:city":"Cullera",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 961 72 59 48",
+    "sg:postcode":"46400",
+    "sg:province":"Valencia",
+    "sg:tags":[
+        "salas",
+        "de",
+        "cine"
+    ],
+    "sg:website":"www.cinesabaco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101777945,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_281exSU22Xvwcc17Kjpipm_39.172977_-0.261597@1306269410"
+    },
+    "wof:country":"ES",
+    "wof:geomhash":"471a9ff23cbdee30c58c19df03b163ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "locality_id":101777945,
+            "neighbourhood_id":-1,
+            "region_id":85682867,
+            "venue_id":169566053
+        }
+    ],
+    "wof:id":169566053,
+    "wof:lastmodified":1449032752,
+    "wof:name":"Abaco Cine S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salas",
+        "de",
+        "cine"
+    ]
+},
+  "bbox": [-0.261597,39.172977,-0.261597,39.172977],
+  "geometry": {"coordinates":[-0.261597,39.172977],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169662111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"1.980738,41.477348,1.980738,41.477348",
+    "geom:latitude":41.477348,
+    "geom:longitude":1.980738,
+    "iso:country":"ES",
+    "sg:address":"Carrer de Sant Miquel, 44",
+    "sg:city":"Castellbisbal",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 72 30 79",
+    "sg:postcode":"08755",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "organismos",
+        "control"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864241,
+        85633129,
+        101758749,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5e9Hxo4HRcPLmpIJEbXfyt_41.477348_1.980738@1306269411"
+    },
+    "wof:country":"ES",
+    "wof:geomhash":"6a2e4a2cc43af917de28a5a987e78670",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "locality_id":101758749,
+            "neighbourhood_id":85864241,
+            "region_id":85682663,
+            "venue_id":169662111
+        }
+    ],
+    "wof:id":169662111,
+    "wof:lastmodified":1449034924,
+    "wof:name":"Acabats Castell S.c.p.",
+    "wof:parent_id":85864241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organismos",
+        "control"
+    ]
+},
+  "bbox": [1.980738,41.477348,1.980738,41.477348],
+  "geometry": {"coordinates":[1.980738,41.477348],"type":"Point"}
+}

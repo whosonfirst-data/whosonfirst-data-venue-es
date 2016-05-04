@@ -1,0 +1,59 @@
+{
+  "id": 169564577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"2.11769,41.353878,2.11769,41.353878",
+    "geom:latitude":41.353878,
+    "geom:longitude":2.11769,
+    "iso:country":"ES",
+    "sg:address":"Av Carmen Amaya, 18",
+    "sg:city":"Hospitalet Llobregat",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 36 00 00",
+    "sg:postcode":"08902",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799585,
+        85633129,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FEAL55FokFBFrSJCMWgXR_41.353878_2.117690@1306269410"
+    },
+    "wof:country":"ES",
+    "wof:geomhash":"38cd5a37903aceec5e873438a06d08a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "locality_id":101748323,
+            "neighbourhood_id":85799585,
+            "region_id":85682663,
+            "venue_id":169564577
+        }
+    ],
+    "wof:id":169564577,
+    "wof:lastmodified":1449035765,
+    "wof:name":"A.a.a.b. Radio Taxi Barcelona Asociacion Autotaxis Area Barcelona",
+    "wof:parent_id":85799585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [2.11769,41.353878,2.11769,41.353878],
+  "geometry": {"coordinates":[2.11769,41.353878],"type":"Point"}
+}

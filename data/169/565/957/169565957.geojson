@@ -1,0 +1,68 @@
+{
+  "id": 169565957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-1.017586,37.609077,-1.017586,37.609077",
+    "geom:latitude":37.609077,
+    "geom:longitude":-1.017586,
+    "iso:country":"ES",
+    "sg:address":"Ctra Tentegorra, S/n",
+    "sg:city":"Cartagena",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 968 31 60 73",
+    "sg:postcode":"30205",
+    "sg:province":"Murcia",
+    "sg:tags":[
+        "salas",
+        "de",
+        "cine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799251,
+        85633129,
+        101748203,
+        85682791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CPi8nRsCCBrLvL13b9LPh_37.609077_-1.017586@1306269410"
+    },
+    "wof:country":"ES",
+    "wof:geomhash":"05fa084221539cdf94aed9890ee9a320",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "locality_id":101748203,
+            "neighbourhood_id":85799251,
+            "region_id":85682791,
+            "venue_id":169565957
+        }
+    ],
+    "wof:id":169565957,
+    "wof:lastmodified":1449035666,
+    "wof:name":"Abaco Cine S.l.",
+    "wof:parent_id":85799251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salas",
+        "de",
+        "cine"
+    ]
+},
+  "bbox": [-1.017586,37.609077,-1.017586,37.609077],
+  "geometry": {"coordinates":[-1.017586,37.609077],"type":"Point"}
+}

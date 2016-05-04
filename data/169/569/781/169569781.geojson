@@ -1,0 +1,58 @@
+{
+  "id": 169569781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-0.323597,41.292297,-0.323597,41.292297",
+    "geom:latitude":41.292297,
+    "geom:longitude":-0.323597,
+    "iso:country":"ES",
+    "sg:address":"Calle de Mayor, 23",
+    "sg:city":"Escatron",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 17 02 85",
+    "sg:postcode":"50790",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101776029,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Cn8W7QR3Rdp8pExx62bu7_41.292297_-0.323597@1306269410"
+    },
+    "wof:country":"ES",
+    "wof:geomhash":"78a3dd2537feda92e4774f2bf4eb2f9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "locality_id":101776029,
+            "neighbourhood_id":-1,
+            "region_id":85682891,
+            "venue_id":169569781
+        }
+    ],
+    "wof:id":169569781,
+    "wof:lastmodified":1449035829,
+    "wof:name":"Abadia Soriano Alfredo",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-0.323597,41.292297,-0.323597,41.292297],
+  "geometry": {"coordinates":[-0.323597,41.292297],"type":"Point"}
+}

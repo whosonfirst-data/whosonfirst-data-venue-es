@@ -1,0 +1,63 @@
+{
+  "id": 169617497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-3.685893,40.472618,-3.685893,40.472618",
+    "geom:latitude":40.472618,
+    "geom:longitude":-3.685893,
+    "iso:country":"ES",
+    "sg:address":"Calle de Mauricio Legendre, 31",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 14 40 19",
+    "sg:postcode":"28046",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863565,
+        85633129,
+        101748283,
+        85682783,
+        85863559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UCPDAfzcNdu4LzMSAxJPc_40.472618_-3.685893@1306269411"
+    },
+    "wof:country":"ES",
+    "wof:geomhash":"37773655bc5b54195307787ada13fc2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "locality_id":101748283,
+            "neighbourhood_id":85863565,
+            "region_id":85682783,
+            "venue_id":169617497
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "locality_id":101748283,
+            "neighbourhood_id":85863559,
+            "region_id":85682783,
+            "venue_id":169617497
+        }
+    ],
+    "wof:id":169617497,
+    "wof:lastmodified":1449032803,
+    "wof:name":"Abogacia Y Consultoria Centro Norte S.l.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-3.685893,40.472618,-3.685893,40.472618],
+  "geometry": {"coordinates":[-3.685893,40.472618],"type":"Point"}
+}

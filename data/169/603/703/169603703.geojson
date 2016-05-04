@@ -1,0 +1,67 @@
+{
+  "id": 169603703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-15.435125,28.139009,-15.435125,28.139009",
+    "geom:latitude":28.139009,
+    "geom:longitude":-15.435125,
+    "iso:country":"ES",
+    "sg:address":"Calle de Mariana De Pineda, 17",
+    "sg:city":"Palmas De Gran Canaria",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 928 26 53 61",
+    "sg:postcode":"35007",
+    "sg:province":"Las Palmas",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101748161,
+        85682821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mBkSljUbHNHnQCnha7Yd8_28.139009_-15.435125@1306269411"
+    },
+    "wof:country":"ES",
+    "wof:geomhash":"bf6ff3899e23dcf92dd818d656f92bb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "locality_id":101748161,
+            "neighbourhood_id":-1,
+            "region_id":85682821,
+            "venue_id":169603703
+        }
+    ],
+    "wof:id":169603703,
+    "wof:lastmodified":1449035452,
+    "wof:name":"Aberasturi Madrigal Maria Soledad",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [-15.435125,28.139009,-15.435125,28.139009],
+  "geometry": {"coordinates":[-15.435125,28.139009],"type":"Point"}
+}

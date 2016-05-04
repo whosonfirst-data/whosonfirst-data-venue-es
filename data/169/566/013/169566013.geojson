@@ -1,0 +1,66 @@
+{
+  "id": 169566013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-0.072361,39.975327,-0.072361,39.975327",
+    "geom:latitude":39.975327,
+    "geom:longitude":-0.072361,
+    "iso:country":"ES",
+    "sg:address":"Calle de Francia, De, S/n",
+    "sg:city":"Castellon De La Plana",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 964 24 78 01",
+    "sg:postcode":"12006",
+    "sg:province":"Castell\u00f3n",
+    "sg:tags":[
+        "salas",
+        "de",
+        "cine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85682685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4m9y2dFiu1Na3rRO5jfNyG_39.975327_-0.072361@1306269410"
+    },
+    "wof:country":"ES",
+    "wof:geomhash":"fd5f487f582131fc23a762f34c4f2789",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85682685,
+            "venue_id":169566013
+        }
+    ],
+    "wof:id":169566013,
+    "wof:lastmodified":1449032754,
+    "wof:name":"Abacocine S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salas",
+        "de",
+        "cine"
+    ]
+},
+  "bbox": [-0.072361,39.975327,-0.072361,39.975327],
+  "geometry": {"coordinates":[-0.072361,39.975327],"type":"Point"}
+}
