@@ -2,13 +2,14 @@
   "id": 169669993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.768899,37.881966,-4.768899,37.881966",
     "geom:latitude":37.881966,
     "geom:longitude":-4.768899,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Agustin Moreno, 37",
     "sg:city":"Cordoba",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169669993,
-    "wof:lastmodified":1449033057,
+    "wof:lastmodified":1466245187,
     "wof:name":"Academia Cordoba",
     "wof:parent_id":85863873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.768899,37.881966,-4.768899,37.881966],
+  "bbox": [
+    -4.768899,
+    37.881966,
+    -4.768899,
+    37.881966
+],
   "geometry": {"coordinates":[-4.768899,37.881966],"type":"Point"}
 }

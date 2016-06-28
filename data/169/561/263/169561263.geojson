@@ -2,13 +2,14 @@
   "id": 169561263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.012948,40.660156,-4.012948,40.660156",
     "geom:latitude":40.660156,
     "geom:longitude":-4.012948,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Talleres (de Los), 31",
     "sg:city":"Alpedrete",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169561263,
-    "wof:lastmodified":1449035020,
+    "wof:lastmodified":1466245099,
     "wof:name":"2miil Artesania Sanitaria Sl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.012948,40.660156,-4.012948,40.660156],
+  "bbox": [
+    -4.012948,
+    40.660156,
+    -4.012948,
+    40.660156
+],
   "geometry": {"coordinates":[-4.012948,40.660156],"type":"Point"}
 }

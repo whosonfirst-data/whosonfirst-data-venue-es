@@ -2,13 +2,14 @@
   "id": 169564187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.606709,36.015354,-5.606709,36.015354",
     "geom:latitude":36.015354,
     "geom:longitude":-5.606709,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Arapiles, 11",
     "sg:city":"Tarifa",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169564187,
-    "wof:lastmodified":1449035764,
+    "wof:lastmodified":1466245186,
     "wof:name":"A2 Grupo Sacoime S.l.u.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.606709,36.015354,-5.606709,36.015354],
+  "bbox": [
+    -5.606709,
+    36.015354,
+    -5.606709,
+    36.015354
+],
   "geometry": {"coordinates":[-5.606709,36.015354],"type":"Point"}
 }

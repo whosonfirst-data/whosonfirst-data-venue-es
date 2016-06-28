@@ -2,13 +2,14 @@
   "id": 169579487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.36609,39.476425,-0.36609,39.476425",
     "geom:latitude":39.476425,
     "geom:longitude":-0.36609,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Micer Masco, 2",
     "sg:city":"Valencia",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169579487,
-    "wof:lastmodified":1449033740,
+    "wof:lastmodified":1466245125,
     "wof:name":"Abbott Laboratories S.a.",
     "wof:parent_id":85864215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.36609,39.476425,-0.36609,39.476425],
+  "bbox": [
+    -0.36609,
+    39.476425,
+    -0.36609,
+    39.476425
+],
   "geometry": {"coordinates":[-0.36609,39.476425],"type":"Point"}
 }

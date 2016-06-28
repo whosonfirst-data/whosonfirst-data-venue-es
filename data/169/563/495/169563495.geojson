@@ -2,13 +2,14 @@
   "id": 169563495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.44269,40.976624,-0.44269,40.976624",
     "geom:latitude":40.976624,
     "geom:longitude":-0.44269,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda San Jorge, 97",
     "sg:city":"Andorra",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169563495,
-    "wof:lastmodified":1449032733,
+    "wof:lastmodified":1466245116,
     "wof:name":"7 Alimentacion S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.44269,40.976624,-0.44269,40.976624],
+  "bbox": [
+    -0.44269,
+    40.976624,
+    -0.44269,
+    40.976624
+],
   "geometry": {"coordinates":[-0.44269,40.976624],"type":"Point"}
 }

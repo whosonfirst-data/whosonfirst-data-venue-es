@@ -2,13 +2,14 @@
   "id": 169625281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.390689,39.450687,-0.390689,39.450687",
     "geom:latitude":39.450687,
     "geom:longitude":-0.390689,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Litografo Pascual Y Abad, 27",
     "sg:city":"Valencia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169625281,
-    "wof:lastmodified":1449036026,
+    "wof:lastmodified":1466245158,
     "wof:name":"Abordo Congelados S.l.",
     "wof:parent_id":85864205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.390689,39.450687,-0.390689,39.450687],
+  "bbox": [
+    -0.390689,
+    39.450687,
+    -0.390689,
+    39.450687
+],
   "geometry": {"coordinates":[-0.390689,39.450687],"type":"Point"}
 }

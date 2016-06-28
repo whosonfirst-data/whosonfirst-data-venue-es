@@ -2,13 +2,14 @@
   "id": 169643397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.637822,40.541809,-3.637822,40.541809",
     "geom:latitude":40.541809,
     "geom:longitude":-3.637822,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Marques De La Valdavia (del), 27",
     "sg:city":"Alcobendas",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169643397,
-    "wof:lastmodified":1449035522,
+    "wof:lastmodified":1466245166,
     "wof:name":"Abril Perez Maria Luisa",
     "wof:parent_id":85799389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.637822,40.541809,-3.637822,40.541809],
+  "bbox": [
+    -3.637822,
+    40.541809,
+    -3.637822,
+    40.541809
+],
   "geometry": {"coordinates":[-3.637822,40.541809],"type":"Point"}
 }

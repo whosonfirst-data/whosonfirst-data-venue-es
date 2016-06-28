@@ -2,13 +2,14 @@
   "id": 169686613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.533815,36.726418,-4.533815,36.726418",
     "geom:latitude":36.726418,
     "geom:longitude":-4.533815,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Camino De La Fresneda, S/n",
     "sg:city":"Campanillas",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169686613,
-    "wof:lastmodified":1449035156,
+    "wof:lastmodified":1466245229,
     "wof:name":"Agropecuaria Campanillas S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.533815,36.726418,-4.533815,36.726418],
+  "bbox": [
+    -4.533815,
+    36.726418,
+    -4.533815,
+    36.726418
+],
   "geometry": {"coordinates":[-4.533815,36.726418],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169563917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.81845,41.982143,2.81845,41.982143",
     "geom:latitude":41.982143,
     "geom:longitude":2.81845,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carr Santa Eugenia, 10",
     "sg:city":"Girona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169563917,
-    "wof:lastmodified":1449032733,
+    "wof:lastmodified":1466245124,
     "wof:name":"972 Disseny S.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.81845,41.982143,2.81845,41.982143],
+  "bbox": [
+    2.81845,
+    41.982143,
+    2.81845,
+    41.982143
+],
   "geometry": {"coordinates":[2.81845,41.982143],"type":"Point"}
 }

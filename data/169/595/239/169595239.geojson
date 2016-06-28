@@ -2,13 +2,14 @@
   "id": 169595239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.982718,41.28434,1.982718,41.28434",
     "geom:latitude":41.28434,
     "geom:longitude":1.982718,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Juan De La Cierva, 16",
     "sg:city":"Castelldefels",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169595239,
-    "wof:lastmodified":1449035635,
+    "wof:lastmodified":1466245137,
     "wof:name":"Abellan Vega Helena",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.982718,41.28434,1.982718,41.28434],
+  "bbox": [
+    1.982718,
+    41.28434,
+    1.982718,
+    41.28434
+],
   "geometry": {"coordinates":[1.982718,41.28434],"type":"Point"}
 }

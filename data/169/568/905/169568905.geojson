@@ -2,13 +2,14 @@
   "id": 169568905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.35,41.966667,-0.35,41.966667",
     "geom:latitude":41.966667,
     "geom:longitude":-0.35,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"La Lera, S/n",
     "sg:city":"Gra\u00f1en",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169568905,
-    "wof:lastmodified":1449032612,
+    "wof:lastmodified":1466245205,
     "wof:name":"Abadia Azagra Javier Francisco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.35,41.966667,-0.35,41.966667],
+  "bbox": [
+    -0.35,
+    41.966667,
+    -0.35,
+    41.966667
+],
   "geometry": {"coordinates":[-0.35,41.966667],"type":"Point"}
 }

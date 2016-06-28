@@ -2,13 +2,14 @@
   "id": 169666887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.639869,40.638092,-4.639869,40.638092",
     "geom:latitude":40.638092,
     "geom:longitude":-4.639869,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Plaz Teniente Arevalo, 4",
     "sg:city":"Avila",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169666887,
-    "wof:lastmodified":1449033899,
+    "wof:lastmodified":1466245181,
     "wof:name":"Academia Alpha Xxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.639869,40.638092,-4.639869,40.638092],
+  "bbox": [
+    -4.639869,
+    40.638092,
+    -4.639869,
+    40.638092
+],
   "geometry": {"coordinates":[-4.639869,40.638092],"type":"Point"}
 }

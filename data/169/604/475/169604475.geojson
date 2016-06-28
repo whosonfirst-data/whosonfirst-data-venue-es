@@ -2,13 +2,14 @@
   "id": 169604475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.977697,37.387798,-5.977697,37.387798",
     "geom:latitude":37.387798,
     "geom:longitude":-5.977697,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Buhaira (la), 5",
     "sg:city":"Sevilla",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169604475,
-    "wof:lastmodified":1449035570,
+    "wof:lastmodified":1466245144,
     "wof:name":"Abe S.cv",
     "wof:parent_id":85864161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "y"
     ]
 },
-  "bbox": [-5.977697,37.387798,-5.977697,37.387798],
+  "bbox": [
+    -5.977697,
+    37.387798,
+    -5.977697,
+    37.387798
+],
   "geometry": {"coordinates":[-5.977697,37.387798],"type":"Point"}
 }

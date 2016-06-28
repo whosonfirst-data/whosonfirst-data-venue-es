@@ -2,13 +2,14 @@
   "id": 169659727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.211158,41.42767,2.211158,41.42767",
     "geom:latitude":41.42767,
     "geom:longitude":2.211158,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Tibidabo, 36",
     "sg:city":"S. Adria Besos",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169659727,
-    "wof:lastmodified":1449033026,
+    "wof:lastmodified":1466245178,
     "wof:name":"Acabados Graficos Montmar S.a.",
     "wof:parent_id":85799179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.211158,41.42767,2.211158,41.42767],
+  "bbox": [
+    2.211158,
+    41.42767,
+    2.211158,
+    41.42767
+],
   "geometry": {"coordinates":[2.211158,41.42767],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169643639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.16674,41.401329,2.16674,41.401329",
     "geom:latitude":41.401329,
     "geom:longitude":2.16674,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Pg Sant Joan, 139",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169643639,
-    "wof:lastmodified":1449035524,
+    "wof:lastmodified":1466245168,
     "wof:name":"Abril Pinell Josep",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.16674,41.401329,2.16674,41.401329],
+  "bbox": [
+    2.16674,
+    41.401329,
+    2.16674,
+    41.401329
+],
   "geometry": {"coordinates":[2.16674,41.401329],"type":"Point"}
 }

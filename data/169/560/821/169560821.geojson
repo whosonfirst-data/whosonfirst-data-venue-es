@@ -2,13 +2,14 @@
   "id": 169560821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.872219,40.47541,-3.872219,40.47541",
     "geom:latitude":40.47541,
     "geom:longitude":-3.872219,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Reyes Catolicos, 6",
     "sg:city":"Majadahonda",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169560821,
-    "wof:lastmodified":1449035181,
+    "wof:lastmodified":1466245095,
     "wof:name":"27 Iso S.l.",
     "wof:parent_id":85863657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.872219,40.47541,-3.872219,40.47541],
+  "bbox": [
+    -3.872219,
+    40.47541,
+    -3.872219,
+    40.47541
+],
   "geometry": {"coordinates":[-3.872219,40.47541],"type":"Point"}
 }

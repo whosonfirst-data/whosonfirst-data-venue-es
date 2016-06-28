@@ -2,13 +2,14 @@
   "id": 169615487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.811281,43.402607,-5.811281,43.402607",
     "geom:latitude":43.402607,
     "geom:longitude":-5.811281,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Jose Tartiere, 10",
     "sg:city":"Lugones",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169615487,
-    "wof:lastmodified":1449033732,
+    "wof:lastmodified":1466245152,
     "wof:name":"Ablanedo Villa Manuel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.811281,43.402607,-5.811281,43.402607],
+  "bbox": [
+    -5.811281,
+    43.402607,
+    -5.811281,
+    43.402607
+],
   "geometry": {"coordinates":[-5.811281,43.402607],"type":"Point"}
 }

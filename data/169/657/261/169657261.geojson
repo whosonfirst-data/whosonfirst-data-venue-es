@@ -2,13 +2,14 @@
   "id": 169657261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-8.388874,42.249935,-8.388874,42.249935",
     "geom:latitude":42.249935,
     "geom:longitude":-8.388874,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Campo De Eiro, S/n",
     "sg:city":"Pereiras",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169657261,
-    "wof:lastmodified":1449033048,
+    "wof:lastmodified":1466245173,
     "wof:name":"Abx Logistics Espa\u00d1a S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-8.388874,42.249935,-8.388874,42.249935],
+  "bbox": [
+    -8.388874,
+    42.249935,
+    -8.388874,
+    42.249935
+],
   "geometry": {"coordinates":[-8.388874,42.249935],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169572193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.769386,38.138184,-0.769386,38.138184",
     "geom:latitude":38.138184,
     "geom:longitude":-0.769386,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Iglesia, 8",
     "sg:city":"Dolores",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169572193,
-    "wof:lastmodified":1449034704,
+    "wof:lastmodified":1466245099,
     "wof:name":"Abad Sanchis Susana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.769386,38.138184,-0.769386,38.138184],
+  "bbox": [
+    -0.769386,
+    38.138184,
+    -0.769386,
+    38.138184
+],
   "geometry": {"coordinates":[-0.769386,38.138184],"type":"Point"}
 }

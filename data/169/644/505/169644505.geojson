@@ -2,13 +2,14 @@
   "id": 169644505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.789958,37.879398,-4.789958,37.879398",
     "geom:latitude":37.879398,
     "geom:longitude":-4.789958,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Decano Fernandez De Castillejo, 1",
     "sg:city":"Cordoba",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169644505,
-    "wof:lastmodified":1449034578,
+    "wof:lastmodified":1466245168,
     "wof:name":"Abril Serrano Manuel",
     "wof:parent_id":85863883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.789958,37.879398,-4.789958,37.879398],
+  "bbox": [
+    -4.789958,
+    37.879398,
+    -4.789958,
+    37.879398
+],
   "geometry": {"coordinates":[-4.789958,37.879398],"type":"Point"}
 }

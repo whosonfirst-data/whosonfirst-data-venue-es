@@ -2,13 +2,14 @@
   "id": 169651955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.471391,36.701298,-4.471391,36.701298",
     "geom:latitude":36.701298,
     "geom:longitude":-4.471391,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Atenas, 41",
     "sg:city":"Malaga",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169651955,
-    "wof:lastmodified":1449033346,
+    "wof:lastmodified":1466245176,
     "wof:name":"Abs Tecnologias Del Agua S.a.",
     "wof:parent_id":85863535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.471391,36.701298,-4.471391,36.701298],
+  "bbox": [
+    -4.471391,
+    36.701298,
+    -4.471391,
+    36.701298
+],
   "geometry": {"coordinates":[-4.471391,36.701298],"type":"Point"}
 }

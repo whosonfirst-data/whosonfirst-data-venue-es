@@ -2,13 +2,14 @@
   "id": 169567685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.364026,36.722988,-4.364026,36.722988",
     "geom:latitude":36.722988,
     "geom:longitude":-4.364026,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Marcos Zapata, 13",
     "sg:city":"Malaga",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169567685,
-    "wof:lastmodified":1449035998,
+    "wof:lastmodified":1466245202,
     "wof:name":"Abad De Vega Fernando",
     "wof:parent_id":85863517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.364026,36.722988,-4.364026,36.722988],
+  "bbox": [
+    -4.364026,
+    36.722988,
+    -4.364026,
+    36.722988
+],
   "geometry": {"coordinates":[-4.364026,36.722988],"type":"Point"}
 }

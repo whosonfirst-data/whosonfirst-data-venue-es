@@ -2,13 +2,14 @@
   "id": 169643695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.702762,41.649113,-4.702762,41.649113",
     "geom:latitude":41.649113,
     "geom:longitude":-4.702762,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Mirlo, 57",
     "sg:city":"Valladolid",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169643695,
-    "wof:lastmodified":1449035521,
+    "wof:lastmodified":1466245169,
     "wof:name":"Abril Perez David",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.702762,41.649113,-4.702762,41.649113],
+  "bbox": [
+    -4.702762,
+    41.649113,
+    -4.702762,
+    41.649113
+],
   "geometry": {"coordinates":[-4.702762,41.649113],"type":"Point"}
 }

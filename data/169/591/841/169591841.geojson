@@ -2,13 +2,14 @@
   "id": 169591841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.792661,37.834476,-0.792661,37.834476",
     "geom:latitude":37.834476,
     "geom:longitude":-0.792661,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Doctor Artero Guirao, 113",
     "sg:city":"S. Pedro Pinatar",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169591841,
-    "wof:lastmodified":1449034450,
+    "wof:lastmodified":1466245138,
     "wof:name":"Abellan Lopez Maria Jose",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.792661,37.834476,-0.792661,37.834476],
+  "bbox": [
+    -0.792661,
+    37.834476,
+    -0.792661,
+    37.834476
+],
   "geometry": {"coordinates":[-0.792661,37.834476],"type":"Point"}
 }

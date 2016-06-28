@@ -2,13 +2,14 @@
   "id": 169576631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.835855,43.372845,-5.835855,43.372845",
     "geom:latitude":43.372845,
     "geom:longitude":-5.835855,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Bermudez De Castro, 66",
     "sg:city":"Oviedo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169576631,
-    "wof:lastmodified":1449035196,
+    "wof:lastmodified":1466245117,
     "wof:name":"Abarquero Garcia Elena",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.835855,43.372845,-5.835855,43.372845],
+  "bbox": [
+    -5.835855,
+    43.372845,
+    -5.835855,
+    43.372845
+],
   "geometry": {"coordinates":[-5.835855,43.372845],"type":"Point"}
 }

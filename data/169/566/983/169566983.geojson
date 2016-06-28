@@ -2,13 +2,14 @@
   "id": 169566983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.669789,43.287785,-5.669789,43.287785",
     "geom:latitude":43.287785,
     "geom:longitude":-5.669789,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Barr Poligono De Ria\u00d1o, 2",
     "sg:city":"Langreo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169566983,
-    "wof:lastmodified":1449032755,
+    "wof:lastmodified":1466245199,
     "wof:name":"Abad Antu\u00f1a Jose Ramon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.669789,43.287785,-5.669789,43.287785],
+  "bbox": [
+    -5.669789,
+    43.287785,
+    -5.669789,
+    43.287785
+],
   "geometry": {"coordinates":[-5.669789,43.287785],"type":"Point"}
 }

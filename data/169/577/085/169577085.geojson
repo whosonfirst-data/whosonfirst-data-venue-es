@@ -2,13 +2,14 @@
   "id": 169577085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.009655,37.377918,-6.009655,37.377918",
     "geom:latitude":37.377918,
     "geom:longitude":-6.009655,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Juan Diaz De Solis, 9",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169577085,
-    "wof:lastmodified":1449036065,
+    "wof:lastmodified":1466245111,
     "wof:name":"Abascal Garcia Enrique",
     "wof:parent_id":85864127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.009655,37.377918,-6.009655,37.377918],
+  "bbox": [
+    -6.009655,
+    37.377918,
+    -6.009655,
+    37.377918
+],
   "geometry": {"coordinates":[-6.009655,37.377918],"type":"Point"}
 }

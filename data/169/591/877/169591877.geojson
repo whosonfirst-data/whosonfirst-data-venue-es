@@ -2,13 +2,14 @@
   "id": 169591877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.183174,41.445156,2.183174,41.445156",
     "geom:latitude":41.445156,
     "geom:longitude":2.183174,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Flor De Neu, 65",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169591877,
-    "wof:lastmodified":1449034450,
+    "wof:lastmodified":1466245139,
     "wof:name":"Abellan Marina Jose",
     "wof:parent_id":85799517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.183174,41.445156,2.183174,41.445156],
+  "bbox": [
+    2.183174,
+    41.445156,
+    2.183174,
+    41.445156
+],
   "geometry": {"coordinates":[2.183174,41.445156],"type":"Point"}
 }

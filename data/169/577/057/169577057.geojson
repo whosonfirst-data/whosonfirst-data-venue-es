@@ -2,13 +2,14 @@
   "id": 169577057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.001424,43.049728,-3.001424,43.049728",
     "geom:latitude":43.049728,
     "geom:longitude":-3.001424,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Dionisio Aldama Kalea, 2",
     "sg:city":"Amurrio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169577057,
-    "wof:lastmodified":1449036066,
+    "wof:lastmodified":1466245110,
     "wof:name":"Abascal Escuza Santiago",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.001424,43.049728,-3.001424,43.049728],
+  "bbox": [
+    -3.001424,
+    43.049728,
+    -3.001424,
+    43.049728
+],
   "geometry": {"coordinates":[-3.001424,43.049728],"type":"Point"}
 }

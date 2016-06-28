@@ -2,13 +2,14 @@
   "id": 169568909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.883217,41.626614,-0.883217,41.626614",
     "geom:latitude":41.626614,
     "geom:longitude":-0.883217,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Lasierra Purroy, 119",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169568909,
-    "wof:lastmodified":1449032611,
+    "wof:lastmodified":1466245205,
     "wof:name":"Abadia Del Cuerpo Maria Del Carmen",
     "wof:parent_id":85863413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.883217,41.626614,-0.883217,41.626614],
+  "bbox": [
+    -0.883217,
+    41.626614,
+    -0.883217,
+    41.626614
+],
   "geometry": {"coordinates":[-0.883217,41.626614],"type":"Point"}
 }

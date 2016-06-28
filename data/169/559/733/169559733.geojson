@@ -2,13 +2,14 @@
   "id": 169559733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.46187,43.187122,-2.46187,43.187122",
     "geom:latitude":43.187122,
     "geom:longitude":-2.46187,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Iparragirre Kalea, 2",
     "sg:city":"Eibar",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169559733,
-    "wof:lastmodified":1449035236,
+    "wof:lastmodified":1466245130,
     "wof:name":"2000 Transmisiones Europa S. A.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.46187,43.187122,-2.46187,43.187122],
+  "bbox": [
+    -2.46187,
+    43.187122,
+    -2.46187,
+    43.187122
+],
   "geometry": {"coordinates":[-2.46187,43.187122],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169574091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-8.23081,43.485687,-8.23081,43.485687",
     "geom:latitude":43.485687,
     "geom:longitude":-8.23081,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Rua Maria, 19",
     "sg:city":"Ferrol",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169574091,
-    "wof:lastmodified":1449032661,
+    "wof:lastmodified":1466245101,
     "wof:name":"Abalo De Dios Isabel",
     "wof:parent_id":85799423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-8.23081,43.485687,-8.23081,43.485687],
+  "bbox": [
+    -8.23081,
+    43.485687,
+    -8.23081,
+    43.485687
+],
   "geometry": {"coordinates":[-8.23081,43.485687],"type":"Point"}
 }

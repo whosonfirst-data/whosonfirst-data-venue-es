@@ -2,13 +2,14 @@
   "id": 169564397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.619339,40.417362,-3.619339,40.417362",
     "geom:latitude":40.417362,
     "geom:longitude":-3.619339,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Ravena, 1",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169564397,
-    "wof:lastmodified":1449035762,
+    "wof:lastmodified":1466245187,
     "wof:name":"A4 Ingenieros Consultores S.l.",
     "wof:parent_id":85863705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.619339,40.417362,-3.619339,40.417362],
+  "bbox": [
+    -3.619339,
+    40.417362,
+    -3.619339,
+    40.417362
+],
   "geometry": {"coordinates":[-3.619339,40.417362],"type":"Point"}
 }

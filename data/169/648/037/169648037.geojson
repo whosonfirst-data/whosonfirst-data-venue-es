@@ -2,13 +2,14 @@
   "id": 169648037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.938021,35.276646,-2.938021,35.276646",
     "geom:latitude":35.276646,
     "geom:longitude":-2.938021,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Astilleros, General, S/n",
     "sg:city":"Melilla",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169648037,
-    "wof:lastmodified":1449033586,
+    "wof:lastmodified":1466245165,
     "wof:name":"Abselam Aldelkader Mohatar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.938021,35.276646,-2.938021,35.276646],
+  "bbox": [
+    -2.938021,
+    35.276646,
+    -2.938021,
+    35.276646
+],
   "geometry": {"coordinates":[-2.938021,35.276646],"type":"Point"}
 }

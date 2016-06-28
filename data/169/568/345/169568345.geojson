@@ -2,13 +2,14 @@
   "id": 169568345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.513954,39.849289,-0.513954,39.849289",
     "geom:latitude":39.849289,
     "geom:longitude":-0.513954,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Santuario, 32",
     "sg:city":"Altura",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169568345,
-    "wof:lastmodified":1449032614,
+    "wof:lastmodified":1466245204,
     "wof:name":"Abad Garcia Consuelo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.513954,39.849289,-0.513954,39.849289],
+  "bbox": [
+    -0.513954,
+    39.849289,
+    -0.513954,
+    39.849289
+],
   "geometry": {"coordinates":[-0.513954,39.849289],"type":"Point"}
 }

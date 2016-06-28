@@ -2,13 +2,14 @@
   "id": 169686749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.834909,41.761276,1.834909,41.761276",
     "geom:latitude":41.761276,
     "geom:longitude":1.834909,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctra Berga, Km. 0002,8",
     "sg:city":"S. Fruitos Bages",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169686749,
-    "wof:lastmodified":1449035156,
+    "wof:lastmodified":1466245230,
     "wof:name":"Agropecuaria Catalana Sociedad Cooperativa Limitada",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.834909,41.761276,1.834909,41.761276],
+  "bbox": [
+    1.834909,
+    41.761276,
+    1.834909,
+    41.761276
+],
   "geometry": {"coordinates":[1.834909,41.761276],"type":"Point"}
 }

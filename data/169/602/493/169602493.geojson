@@ -2,13 +2,14 @@
   "id": 169602493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.107853,38.684551,-4.107853,38.684551",
     "geom:latitude":38.684551,
     "geom:longitude":-4.107853,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Via Crucis, 9",
     "sg:city":"Puertollano",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169602493,
-    "wof:lastmodified":1449034229,
+    "wof:lastmodified":1466245144,
     "wof:name":"Abengozar Mu\u00f1oz Asdrubal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.107853,38.684551,-4.107853,38.684551],
+  "bbox": [
+    -4.107853,
+    38.684551,
+    -4.107853,
+    38.684551
+],
   "geometry": {"coordinates":[-4.107853,38.684551],"type":"Point"}
 }

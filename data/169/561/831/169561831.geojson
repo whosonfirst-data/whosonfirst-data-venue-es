@@ -2,13 +2,14 @@
   "id": 169561831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.715238,41.648354,-4.715238,41.648354",
     "geom:latitude":41.648354,
     "geom:longitude":-4.715238,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Marquesa De Esquilache, 2",
     "sg:city":"Valladolid",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169561831,
-    "wof:lastmodified":1449035021,
+    "wof:lastmodified":1466245104,
     "wof:name":"3ai+.d+.g A.i.e.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.715238,41.648354,-4.715238,41.648354],
+  "bbox": [
+    -4.715238,
+    41.648354,
+    -4.715238,
+    41.648354
+],
   "geometry": {"coordinates":[-4.715238,41.648354],"type":"Point"}
 }

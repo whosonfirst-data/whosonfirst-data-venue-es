@@ -2,13 +2,14 @@
   "id": 169645399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.106234,40.343212,-1.106234,40.343212",
     "geom:latitude":40.343212,
     "geom:longitude":-1.106234,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Mu\u00d1oz Degrain, 15",
     "sg:city":"Teruel",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169645399,
-    "wof:lastmodified":1449033004,
+    "wof:lastmodified":1466245168,
     "wof:name":"Abril Veses Domingo Miguel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.106234,40.343212,-1.106234,40.343212],
+  "bbox": [
+    -1.106234,
+    40.343212,
+    -1.106234,
+    40.343212
+],
   "geometry": {"coordinates":[-1.106234,40.343212],"type":"Point"}
 }

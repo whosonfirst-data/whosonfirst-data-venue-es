@@ -2,13 +2,14 @@
   "id": 169582589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.63886,40.453381,-3.63886,40.453381",
     "geom:latitude":40.453381,
     "geom:longitude":-3.63886,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Juan Belmonte, 12",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169582589,
-    "wof:lastmodified":1449034465,
+    "wof:lastmodified":1466245124,
     "wof:name":"Abeal S.a.",
     "wof:parent_id":85863623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.63886,40.453381,-3.63886,40.453381],
+  "bbox": [
+    -3.63886,
+    40.453381,
+    -3.63886,
+    40.453381
+],
   "geometry": {"coordinates":[-3.63886,40.453381],"type":"Point"}
 }

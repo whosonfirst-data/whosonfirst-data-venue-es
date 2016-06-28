@@ -2,13 +2,14 @@
   "id": 169656901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.001768,37.372116,-6.001768,37.372116",
     "geom:latitude":37.372116,
     "geom:longitude":-6.001768,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Crta Esclusa (zona Portuaria), S/n",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169656901,
-    "wof:lastmodified":1449034836,
+    "wof:lastmodified":1466245178,
     "wof:name":"Abx Logistics Espa\u00d1a S.a.",
     "wof:parent_id":85864133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.001768,37.372116,-6.001768,37.372116],
+  "bbox": [
+    -6.001768,
+    37.372116,
+    -6.001768,
+    37.372116
+],
   "geometry": {"coordinates":[-6.001768,37.372116],"type":"Point"}
 }

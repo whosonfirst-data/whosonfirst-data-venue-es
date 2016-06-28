@@ -2,13 +2,14 @@
   "id": 169562051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.176244,41.39518,2.176244,41.39518",
     "geom:latitude":41.39518,
     "geom:longitude":2.176244,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Pl Tetuan, 40",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169562051,
-    "wof:lastmodified":1449034436,
+    "wof:lastmodified":1466245096,
     "wof:name":"3d Health Research S.l.",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.176244,41.39518,2.176244,41.39518],
+  "bbox": [
+    2.176244,
+    41.39518,
+    2.176244,
+    41.39518
+],
   "geometry": {"coordinates":[2.176244,41.39518],"type":"Point"}
 }

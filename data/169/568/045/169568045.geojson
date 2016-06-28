@@ -2,13 +2,14 @@
   "id": 169568045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.415014,43.409157,-3.415014,43.409157",
     "geom:latitude":43.409157,
     "geom:longitude":-3.415014,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Jose Antonio, 10",
     "sg:city":"Laredo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169568045,
-    "wof:lastmodified":1449032611,
+    "wof:lastmodified":1466245203,
     "wof:name":"Abad Franco Jose Luis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.415014,43.409157,-3.415014,43.409157],
+  "bbox": [
+    -3.415014,
+    43.409157,
+    -3.415014,
+    43.409157
+],
   "geometry": {"coordinates":[-3.415014,43.409157],"type":"Point"}
 }

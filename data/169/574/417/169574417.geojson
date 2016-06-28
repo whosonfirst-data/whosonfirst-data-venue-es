@@ -2,13 +2,14 @@
   "id": 169574417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.119113,41.596897,-4.119113,41.596897",
     "geom:latitude":41.596897,
     "geom:longitude":-4.119113,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Capitan Rojas, 10",
     "sg:city":"Pe\u00f1afiel",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169574417,
-    "wof:lastmodified":1449032663,
+    "wof:lastmodified":1466245104,
     "wof:name":"Abalo Ramos Jose Antonio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.119113,41.596897,-4.119113,41.596897],
+  "bbox": [
+    -4.119113,
+    41.596897,
+    -4.119113,
+    41.596897
+],
   "geometry": {"coordinates":[-4.119113,41.596897],"type":"Point"}
 }

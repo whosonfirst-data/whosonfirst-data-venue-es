@@ -2,13 +2,14 @@
   "id": 169562379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.081237,41.469566,2.081237,41.469566",
     "geom:latitude":41.469566,
     "geom:longitude":2.081237,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Sant Antoni, 29",
     "sg:city":"S. Cugat Valles",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169562379,
-    "wof:lastmodified":1449034437,
+    "wof:lastmodified":1466245107,
     "wof:name":"3p Mobel 3 S. L.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.081237,41.469566,2.081237,41.469566],
+  "bbox": [
+    2.081237,
+    41.469566,
+    2.081237,
+    41.469566
+],
   "geometry": {"coordinates":[2.081237,41.469566],"type":"Point"}
 }

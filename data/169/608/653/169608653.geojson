@@ -2,13 +2,14 @@
   "id": 169608653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.006346,43.308525,-3.006346,43.308525",
     "geom:latitude":43.308525,
     "geom:longitude":-3.006346,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Plaz Conde De Valmaseda, 5",
     "sg:city":"Sestao",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169608653,
-    "wof:lastmodified":1449034081,
+    "wof:lastmodified":1466245147,
     "wof:name":"Abiega Amayra Maria Pilar",
     "wof:parent_id":85799675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.006346,43.308525,-3.006346,43.308525],
+  "bbox": [
+    -3.006346,
+    43.308525,
+    -3.006346,
+    43.308525
+],
   "geometry": {"coordinates":[-3.006346,43.308525],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169572773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.017408,41.572994,2.017408,41.572994",
     "geom:latitude":41.572994,
     "geom:longitude":2.017408,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Ample, 95",
     "sg:city":"Terrassa",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169572773,
-    "wof:lastmodified":1449034704,
+    "wof:lastmodified":1466245108,
     "wof:name":"Abad Villena Antonia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.017408,41.572994,2.017408,41.572994],
+  "bbox": [
+    2.017408,
+    41.572994,
+    2.017408,
+    41.572994
+],
   "geometry": {"coordinates":[2.017408,41.572994],"type":"Point"}
 }

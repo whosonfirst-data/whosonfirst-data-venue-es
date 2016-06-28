@@ -2,13 +2,14 @@
   "id": 169581011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-17.799154,28.716579,-17.799154,28.716579",
     "geom:latitude":28.716579,
     "geom:longitude":-17.799154,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Plaz San Fernando, 3",
     "sg:city":"Santa Cruz Palma",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169581011,
-    "wof:lastmodified":1449033382,
+    "wof:lastmodified":1466245217,
     "wof:name":"Abdelrahman  Naamekhalil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "peluqueros"
     ]
 },
-  "bbox": [-17.799154,28.716579,-17.799154,28.716579],
+  "bbox": [
+    -17.799154,
+    28.716579,
+    -17.799154,
+    28.716579
+],
   "geometry": {"coordinates":[-17.799154,28.716579],"type":"Point"}
 }

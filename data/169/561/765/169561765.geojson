@@ -2,13 +2,14 @@
   "id": 169561765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.64769,43.53529,-5.64769,43.53529",
     "geom:latitude":43.53529,
     "geom:longitude":-5.64769,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Pablo Iglesias, 92",
     "sg:city":"Gijon",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169561765,
-    "wof:lastmodified":1449035021,
+    "wof:lastmodified":1466245104,
     "wof:name":"3ai+.d+.g A.i.e.",
     "wof:parent_id":85799415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.64769,43.53529,-5.64769,43.53529],
+  "bbox": [
+    -5.64769,
+    43.53529,
+    -5.64769,
+    43.53529
+],
   "geometry": {"coordinates":[-5.64769,43.53529],"type":"Point"}
 }

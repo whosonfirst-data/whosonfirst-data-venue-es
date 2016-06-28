@@ -2,13 +2,14 @@
   "id": 169665253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.495043,36.868885,-2.495043,36.868885",
     "geom:latitude":36.868885,
     "geom:longitude":-2.495043,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Campogris, 25",
     "sg:city":"Almeria",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169665253,
-    "wof:lastmodified":1449033697,
+    "wof:lastmodified":1466245178,
     "wof:name":"Acacio Ufarte Rafael",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.495043,36.868885,-2.495043,36.868885],
+  "bbox": [
+    -2.495043,
+    36.868885,
+    -2.495043,
+    36.868885
+],
   "geometry": {"coordinates":[-2.495043,36.868885],"type":"Point"}
 }

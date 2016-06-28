@@ -2,13 +2,14 @@
   "id": 169644181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.88714,36.507603,-4.88714,36.507603",
     "geom:latitude":36.507603,
     "geom:longitude":-4.88714,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Miguel Cano, 11",
     "sg:city":"Marbella",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169644181,
-    "wof:lastmodified":1449034576,
+    "wof:lastmodified":1466245166,
     "wof:name":"Abril Rando Antonio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.88714,36.507603,-4.88714,36.507603],
+  "bbox": [
+    -4.88714,
+    36.507603,
+    -4.88714,
+    36.507603
+],
   "geometry": {"coordinates":[-4.88714,36.507603],"type":"Point"}
 }

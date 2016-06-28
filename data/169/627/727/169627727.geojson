@@ -2,13 +2,14 @@
   "id": 169627727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.716451,40.433121,-3.716451,40.433121",
     "geom:latitude":40.433121,
     "geom:longitude":-3.716451,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Melendez Valdes, 64",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169627727,
-    "wof:lastmodified":1449036042,
+    "wof:lastmodified":1466245159,
     "wof:name":"Abou Zeid Jorge",
     "wof:parent_id":85863655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.716451,40.433121,-3.716451,40.433121],
+  "bbox": [
+    -3.716451,
+    40.433121,
+    -3.716451,
+    40.433121
+],
   "geometry": {"coordinates":[-3.716451,40.433121],"type":"Point"}
 }

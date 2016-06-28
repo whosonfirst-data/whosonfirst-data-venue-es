@@ -2,13 +2,14 @@
   "id": 169645343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.72827,41.651691,-4.72827,41.651691",
     "geom:latitude":41.651691,
     "geom:longitude":-4.72827,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Plaz Mayor, 8",
     "sg:city":"Valladolid",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169645343,
-    "wof:lastmodified":1449033005,
+    "wof:lastmodified":1466245166,
     "wof:name":"Abril Vega Maria Del Mar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.72827,41.651691,-4.72827,41.651691],
+  "bbox": [
+    -4.72827,
+    41.651691,
+    -4.72827,
+    41.651691
+],
   "geometry": {"coordinates":[-4.72827,41.651691],"type":"Point"}
 }

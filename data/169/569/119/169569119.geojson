@@ -2,13 +2,14 @@
   "id": 169569119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.052063,41.383514,2.052063,41.383514",
     "geom:latitude":41.383514,
     "geom:longitude":2.052063,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Girona, 15",
     "sg:city":"Sant Feliu Llobregat",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169569119,
-    "wof:lastmodified":1449035831,
+    "wof:lastmodified":1466245206,
     "wof:name":"Abadia Lamarca Manuel",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.052063,41.383514,2.052063,41.383514],
+  "bbox": [
+    2.052063,
+    41.383514,
+    2.052063,
+    41.383514
+],
   "geometry": {"coordinates":[2.052063,41.383514],"type":"Point"}
 }

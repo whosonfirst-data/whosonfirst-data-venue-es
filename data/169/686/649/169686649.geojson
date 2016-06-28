@@ -2,13 +2,14 @@
   "id": 169686649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.993789,41.797916,0.993789,41.797916",
     "geom:latitude":41.797916,
     "geom:longitude":0.993789,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ptda Caparrella, 9",
     "sg:city":"Butsenit",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169686649,
-    "wof:lastmodified":1449035156,
+    "wof:lastmodified":1466245230,
     "wof:name":"Agropecuaria Caparrella S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.993789,41.797916,0.993789,41.797916],
+  "bbox": [
+    0.993789,
+    41.797916,
+    0.993789,
+    41.797916
+],
   "geometry": {"coordinates":[0.993789,41.797916],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169577891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.923333,43.259083,-2.923333,43.259083",
     "geom:latitude":43.259083,
     "geom:longitude":-2.923333,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Labegerie Mitxel, 2",
     "sg:city":"Bilbao",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169577891,
-    "wof:lastmodified":1449036067,
+    "wof:lastmodified":1466245127,
     "wof:name":"Abasolo Telleria Maria Lourdes",
     "wof:parent_id":85863961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.923333,43.259083,-2.923333,43.259083],
+  "bbox": [
+    -2.923333,
+    43.259083,
+    -2.923333,
+    43.259083
+],
   "geometry": {"coordinates":[-2.923333,43.259083],"type":"Point"}
 }

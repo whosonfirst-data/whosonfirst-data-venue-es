@@ -2,13 +2,14 @@
   "id": 169563283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.926959,43.26376,-2.926959,43.26376",
     "geom:latitude":43.26376,
     "geom:longitude":-2.926959,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Alam Mazarredo, 47",
     "sg:city":"Bilbao",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169563283,
-    "wof:lastmodified":1449032731,
+    "wof:lastmodified":1466245114,
     "wof:name":"6h Grupo Kreefth Informat Universa Sl",
     "wof:parent_id":85863979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.926959,43.26376,-2.926959,43.26376],
+  "bbox": [
+    -2.926959,
+    43.26376,
+    -2.926959,
+    43.26376
+],
   "geometry": {"coordinates":[-2.926959,43.26376],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169650273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.14236,41.39983,2.14236,41.39983",
     "geom:latitude":41.39983,
     "geom:longitude":2.14236,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Descartes, 14",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169650273,
-    "wof:lastmodified":1449034701,
+    "wof:lastmodified":1466245172,
     "wof:name":"Absolute Construction System S.a.",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.14236,41.39983,2.14236,41.39983],
+  "bbox": [
+    2.14236,
+    41.39983,
+    2.14236,
+    41.39983
+],
   "geometry": {"coordinates":[2.14236,41.39983],"type":"Point"}
 }

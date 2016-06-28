@@ -2,13 +2,14 @@
   "id": 169589075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.21036,37.558018,-2.21036,37.558018",
     "geom:latitude":37.558018,
     "geom:longitude":-2.21036,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Pase Mediterraneo (del), S/n",
     "sg:city":"Ventanicas-el Cantal",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169589075,
-    "wof:lastmodified":1449034447,
+    "wof:lastmodified":1466245222,
     "wof:name":"Abellan Berruezo Salvador Javier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.21036,37.558018,-2.21036,37.558018],
+  "bbox": [
+    -2.21036,
+    37.558018,
+    -2.21036,
+    37.558018
+],
   "geometry": {"coordinates":[-2.21036,37.558018],"type":"Point"}
 }

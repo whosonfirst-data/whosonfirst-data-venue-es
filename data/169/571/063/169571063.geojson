@@ -2,13 +2,14 @@
   "id": 169571063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.656486,37.225269,-3.656486,37.225269",
     "geom:latitude":37.225269,
     "geom:longitude":-3.656486,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Fray Bartolome De Las Casas, S/n",
     "sg:city":"Albolote",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169571063,
-    "wof:lastmodified":1449034946,
+    "wof:lastmodified":1466245207,
     "wof:name":"Abad Moles Francisca",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.656486,37.225269,-3.656486,37.225269],
+  "bbox": [
+    -3.656486,
+    37.225269,
+    -3.656486,
+    37.225269
+],
   "geometry": {"coordinates":[-3.656486,37.225269],"type":"Point"}
 }

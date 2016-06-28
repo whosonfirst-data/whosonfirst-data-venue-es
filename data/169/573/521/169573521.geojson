@@ -2,13 +2,14 @@
   "id": 169573521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.527184,39.467319,-3.527184,39.467319",
     "geom:latitude":39.467319,
     "geom:longitude":-3.527184,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Santa Ana, 72",
     "sg:city":"Madridejos",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169573521,
-    "wof:lastmodified":1449035116,
+    "wof:lastmodified":1466245211,
     "wof:name":"Abajo Recalde Juan De",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.527184,39.467319,-3.527184,39.467319],
+  "bbox": [
+    -3.527184,
+    39.467319,
+    -3.527184,
+    39.467319
+],
   "geometry": {"coordinates":[-3.527184,39.467319],"type":"Point"}
 }

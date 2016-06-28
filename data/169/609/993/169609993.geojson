@@ -2,13 +2,14 @@
   "id": 169609993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.198472,41.39386,2.198472,41.39386",
     "geom:latitude":41.39386,
     "geom:longitude":2.198472,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ptge General Bassols, 20",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169609993,
-    "wof:lastmodified":1449033920,
+    "wof:lastmodified":1466245153,
     "wof:name":"Abilla Y Pintado S. L.",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.198472,41.39386,2.198472,41.39386],
+  "bbox": [
+    2.198472,
+    41.39386,
+    2.198472,
+    41.39386
+],
   "geometry": {"coordinates":[2.198472,41.39386],"type":"Point"}
 }

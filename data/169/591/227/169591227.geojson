@@ -2,13 +2,14 @@
   "id": 169591227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.895038,37.816902,-0.895038,37.816902",
     "geom:latitude":37.816902,
     "geom:longitude":-0.895038,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Pino, S/n",
     "sg:city":"San Cayetano",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169591227,
-    "wof:lastmodified":1449034448,
+    "wof:lastmodified":1466245134,
     "wof:name":"Abellan Gomez Rafael",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.895038,37.816902,-0.895038,37.816902],
+  "bbox": [
+    -0.895038,
+    37.816902,
+    -0.895038,
+    37.816902
+],
   "geometry": {"coordinates":[-0.895038,37.816902],"type":"Point"}
 }

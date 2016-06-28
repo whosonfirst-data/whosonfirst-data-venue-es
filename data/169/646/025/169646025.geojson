@@ -2,13 +2,14 @@
   "id": 169646025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.868482,39.71986,2.868482,39.71986",
     "geom:latitude":39.71986,
     "geom:longitude":2.868482,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carr Nou, 28",
     "sg:city":"Lloseta",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169646025,
-    "wof:lastmodified":1449032608,
+    "wof:lastmodified":1466245225,
     "wof:name":"Abrines Borras Bartolome",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.868482,39.71986,2.868482,39.71986],
+  "bbox": [
+    2.868482,
+    39.71986,
+    2.868482,
+    39.71986
+],
   "geometry": {"coordinates":[2.868482,39.71986],"type":"Point"}
 }

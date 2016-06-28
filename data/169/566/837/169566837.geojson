@@ -2,13 +2,14 @@
   "id": 169566837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.126224,41.365463,2.126224,41.365463",
     "geom:latitude":41.365463,
     "geom:longitude":2.126224,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Comer\u00c7, 35",
     "sg:city":"Hospitalet Llobregat",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169566837,
-    "wof:lastmodified":1449032752,
+    "wof:lastmodified":1466245198,
     "wof:name":"Abad Alonso Maria Cristina",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.126224,41.365463,2.126224,41.365463],
+  "bbox": [
+    2.126224,
+    41.365463,
+    2.126224,
+    41.365463
+],
   "geometry": {"coordinates":[2.126224,41.365463],"type":"Point"}
 }

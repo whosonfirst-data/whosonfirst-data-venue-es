@@ -2,13 +2,14 @@
   "id": 169564467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.142569,41.388832,2.142569,41.388832",
     "geom:latitude":41.388832,
     "geom:longitude":2.142569,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Estan\u00e7a Calle, 161",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169564467,
-    "wof:lastmodified":1449035766,
+    "wof:lastmodified":1466245187,
     "wof:name":"A77 Servicios Y Contratas S.l.",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.142569,41.388832,2.142569,41.388832],
+  "bbox": [
+    2.142569,
+    41.388832,
+    2.142569,
+    41.388832
+],
   "geometry": {"coordinates":[2.142569,41.388832],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169574237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.780713,40.670383,-3.780713,40.670383",
     "geom:latitude":40.670383,
     "geom:longitude":-3.780713,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Almeria (de), 1",
     "sg:city":"Colmenar Viejo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169574237,
-    "wof:lastmodified":1449032662,
+    "wof:lastmodified":1466245210,
     "wof:name":"Abalo Garcia Antonio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.780713,40.670383,-3.780713,40.670383],
+  "bbox": [
+    -3.780713,
+    40.670383,
+    -3.780713,
+    40.670383
+],
   "geometry": {"coordinates":[-3.780713,40.670383],"type":"Point"}
 }

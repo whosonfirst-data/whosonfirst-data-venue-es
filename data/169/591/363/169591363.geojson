@@ -2,13 +2,14 @@
   "id": 169591363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.487076,38.345524,-0.487076,38.345524",
     "geom:latitude":38.345524,
     "geom:longitude":-0.487076,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Navas (las), 11",
     "sg:city":"Alacant",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169591363,
-    "wof:lastmodified":1449034451,
+    "wof:lastmodified":1466245135,
     "wof:name":"Abellan Iglesias Francisco Jose",
     "wof:parent_id":85864055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.487076,38.345524,-0.487076,38.345524],
+  "bbox": [
+    -0.487076,
+    38.345524,
+    -0.487076,
+    38.345524
+],
   "geometry": {"coordinates":[-0.487076,38.345524],"type":"Point"}
 }

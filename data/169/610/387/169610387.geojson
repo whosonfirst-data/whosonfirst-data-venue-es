@@ -2,13 +2,14 @@
   "id": 169610387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-8.636554,42.460167,-8.636554,42.460167",
     "geom:latitude":42.460167,
     "geom:longitude":-8.636554,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Arco(lerez), S/n",
     "sg:city":"Pontevedra",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169610387,
-    "wof:lastmodified":1449035910,
+    "wof:lastmodified":1466245147,
     "wof:name":"Abilleira Pazos Candido",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-8.636554,42.460167,-8.636554,42.460167],
+  "bbox": [
+    -8.636554,
+    42.460167,
+    -8.636554,
+    42.460167
+],
   "geometry": {"coordinates":[-8.636554,42.460167],"type":"Point"}
 }

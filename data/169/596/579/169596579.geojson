@@ -2,13 +2,14 @@
   "id": 169596579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-8.698633,42.253811,-8.698633,42.253811",
     "geom:latitude":42.253811,
     "geom:longitude":-8.698633,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Do\u00d1a Fermina, 4",
     "sg:city":"Vigo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169596579,
-    "wof:lastmodified":1449034370,
+    "wof:lastmodified":1466245139,
     "wof:name":"Abellas Rodriguez Justo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-8.698633,42.253811,-8.698633,42.253811],
+  "bbox": [
+    -8.698633,
+    42.253811,
+    -8.698633,
+    42.253811
+],
   "geometry": {"coordinates":[-8.698633,42.253811],"type":"Point"}
 }

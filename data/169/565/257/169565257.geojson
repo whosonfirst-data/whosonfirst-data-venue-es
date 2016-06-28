@@ -2,13 +2,14 @@
   "id": 169565257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.96335,36.498714,-4.96335,36.498714",
     "geom:latitude":36.498714,
     "geom:longitude":-4.96335,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Las Alamandas, S/n",
     "sg:city":"Nueva Andalucia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169565257,
-    "wof:lastmodified":1449035664,
+    "wof:lastmodified":1466245192,
     "wof:name":"Aarce  Richard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.96335,36.498714,-4.96335,36.498714],
+  "bbox": [
+    -4.96335,
+    36.498714,
+    -4.96335,
+    36.498714
+],
   "geometry": {"coordinates":[-4.96335,36.498714],"type":"Point"}
 }

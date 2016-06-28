@@ -2,13 +2,14 @@
   "id": 169591299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.272621,38.077168,-1.272621,38.077168",
     "geom:latitude":38.077168,
     "geom:longitude":-1.272621,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Francisco Rabal, 1",
     "sg:city":"Ceuti",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169591299,
-    "wof:lastmodified":1449034450,
+    "wof:lastmodified":1466245134,
     "wof:name":"Abellan Guerrero Maria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.272621,38.077168,-1.272621,38.077168],
+  "bbox": [
+    -1.272621,
+    38.077168,
+    -1.272621,
+    38.077168
+],
   "geometry": {"coordinates":[-1.272621,38.077168],"type":"Point"}
 }

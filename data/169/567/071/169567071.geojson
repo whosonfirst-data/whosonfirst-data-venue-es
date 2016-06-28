@@ -2,13 +2,14 @@
   "id": 169567071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.134773,41.4011,2.134773,41.4011",
     "geom:latitude":41.4011,
     "geom:longitude":2.134773,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Alacant, 25",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169567071,
-    "wof:lastmodified":1449035994,
+    "wof:lastmodified":1466245199,
     "wof:name":"Abad Bartolome Maria Del Carmen",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.134773,41.4011,2.134773,41.4011],
+  "bbox": [
+    2.134773,
+    41.4011,
+    2.134773,
+    41.4011
+],
   "geometry": {"coordinates":[2.134773,41.4011],"type":"Point"}
 }

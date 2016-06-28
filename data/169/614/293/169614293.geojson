@@ -2,13 +2,14 @@
   "id": 169614293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.602318,37.169956,-3.602318,37.169956",
     "geom:latitude":37.169956,
     "geom:longitude":-3.602318,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Pintor Zuloaga, 3",
     "sg:city":"Granada",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169614293,
-    "wof:lastmodified":1449036058,
+    "wof:lastmodified":1466245149,
     "wof:name":"Abkari  Abderrahim",
     "wof:parent_id":85863847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.602318,37.169956,-3.602318,37.169956],
+  "bbox": [
+    -3.602318,
+    37.169956,
+    -3.602318,
+    37.169956
+],
   "geometry": {"coordinates":[-3.602318,37.169956],"type":"Point"}
 }

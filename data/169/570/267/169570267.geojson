@@ -2,13 +2,14 @@
   "id": 169570267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.296786,41.851109,0.296786,41.851109",
     "geom:latitude":41.851109,
     "geom:longitude":0.296786,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Galileo, 2",
     "sg:city":"Binefar",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169570267,
-    "wof:lastmodified":1449034646,
+    "wof:lastmodified":1466245097,
     "wof:name":"Abad Llanas Maria Elena",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.296786,41.851109,0.296786,41.851109],
+  "bbox": [
+    0.296786,
+    41.851109,
+    0.296786,
+    41.851109
+],
   "geometry": {"coordinates":[0.296786,41.851109],"type":"Point"}
 }

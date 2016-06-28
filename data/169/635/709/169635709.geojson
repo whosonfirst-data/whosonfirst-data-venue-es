@@ -2,13 +2,14 @@
   "id": 169635709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.003427,43.31321,-2.003427,43.31321",
     "geom:latitude":43.31321,
     "geom:longitude":-2.003427,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Matia, 36",
     "sg:city":"Donostia-san Sebastian",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169635709,
-    "wof:lastmodified":1449034097,
+    "wof:lastmodified":1466245163,
     "wof:name":"Abrego Velasco Maria Luisa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.003427,43.31321,-2.003427,43.31321],
+  "bbox": [
+    -2.003427,
+    43.31321,
+    -2.003427,
+    43.31321
+],
   "geometry": {"coordinates":[-2.003427,43.31321],"type":"Point"}
 }

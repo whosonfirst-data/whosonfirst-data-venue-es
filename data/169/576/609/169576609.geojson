@@ -2,13 +2,14 @@
   "id": 169576609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.503767,43.363651,-2.503767,43.363651",
     "geom:latitude":43.363651,
     "geom:longitude":-2.503767,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Plaz Gamarra, 10",
     "sg:city":"Lekeitio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169576609,
-    "wof:lastmodified":1449035197,
+    "wof:lastmodified":1466245217,
     "wof:name":"Abaroa Guezuraga Juan Cruz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.503767,43.363651,-2.503767,43.363651],
+  "bbox": [
+    -2.503767,
+    43.363651,
+    -2.503767,
+    43.363651
+],
   "geometry": {"coordinates":[-2.503767,43.363651],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169587967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.921329,43.555065,-5.921329,43.555065",
     "geom:latitude":43.555065,
     "geom:longitude":-5.921329,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Rivero Del, 12",
     "sg:city":"Aviles",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169587967,
-    "wof:lastmodified":1449033823,
+    "wof:lastmodified":1466245140,
     "wof:name":"Abella Moran Jose",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.921329,43.555065,-5.921329,43.555065],
+  "bbox": [
+    -5.921329,
+    43.555065,
+    -5.921329,
+    43.555065
+],
   "geometry": {"coordinates":[-5.921329,43.555065],"type":"Point"}
 }

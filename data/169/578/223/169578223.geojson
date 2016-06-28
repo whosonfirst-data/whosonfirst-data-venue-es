@@ -2,13 +2,14 @@
   "id": 169578223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.200025,41.393982,2.200025,41.393982",
     "geom:latitude":41.393982,
     "geom:longitude":2.200025,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Av Icaria, 203",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169578223,
-    "wof:lastmodified":1449033519,
+    "wof:lastmodified":1466245217,
     "wof:name":"Abastecedora Catalana S.a.",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.200025,41.393982,2.200025,41.393982],
+  "bbox": [
+    2.200025,
+    41.393982,
+    2.200025,
+    41.393982
+],
   "geometry": {"coordinates":[2.200025,41.393982],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169578663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-16.577734,28.384089,-16.577734,28.384089",
     "geom:latitude":28.384089,
     "geom:longitude":-16.577734,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctra Zamora (la), 16",
     "sg:city":"Carrera",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169578663,
-    "wof:lastmodified":1449033520,
+    "wof:lastmodified":1466245127,
     "wof:name":"Abastos Canarias Alimentacion Y Congelado",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-16.577734,28.384089,-16.577734,28.384089],
+  "bbox": [
+    -16.577734,
+    28.384089,
+    -16.577734,
+    28.384089
+],
   "geometry": {"coordinates":[-16.577734,28.384089],"type":"Point"}
 }

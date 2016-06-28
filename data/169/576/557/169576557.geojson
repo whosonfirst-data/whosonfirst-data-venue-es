@@ -2,13 +2,14 @@
   "id": 169576557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.658688,40.400692,-3.658688,40.400692",
     "geom:latitude":40.400692,
     "geom:longitude":-3.658688,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Puerto De Cotos, 8",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169576557,
-    "wof:lastmodified":1449035198,
+    "wof:lastmodified":1466245116,
     "wof:name":"Abarquero Encinas Felix",
     "wof:parent_id":85863731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.658688,40.400692,-3.658688,40.400692],
+  "bbox": [
+    -3.658688,
+    40.400692,
+    -3.658688,
+    40.400692
+],
   "geometry": {"coordinates":[-3.658688,40.400692],"type":"Point"}
 }

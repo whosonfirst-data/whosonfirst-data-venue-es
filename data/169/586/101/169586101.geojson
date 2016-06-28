@@ -2,13 +2,14 @@
   "id": 169586101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.095976,41.326103,2.095976,41.326103",
     "geom:latitude":41.326103,
     "geom:longitude":2.095976,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Av Verge Montserrat, 99",
     "sg:city":"Prat Llobregat",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169586101,
-    "wof:lastmodified":1449035576,
+    "wof:lastmodified":1466245221,
     "wof:name":"Abella Aviles Neus",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.095976,41.326103,2.095976,41.326103],
+  "bbox": [
+    2.095976,
+    41.326103,
+    2.095976,
+    41.326103
+],
   "geometry": {"coordinates":[2.095976,41.326103],"type":"Point"}
 }

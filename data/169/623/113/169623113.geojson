@@ -2,13 +2,14 @@
   "id": 169623113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.257905,37.702057,-5.257905,37.702057",
     "geom:latitude":37.702057,
     "geom:longitude":-5.257905,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctra. Fuente Palmera, Km. 0001,0",
     "sg:city":"Palma Rio",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169623113,
-    "wof:lastmodified":1449034998,
+    "wof:lastmodified":1466245153,
     "wof:name":"Abonos Jimenez S.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.257905,37.702057,-5.257905,37.702057],
+  "bbox": [
+    -5.257905,
+    37.702057,
+    -5.257905,
+    37.702057
+],
   "geometry": {"coordinates":[-5.257905,37.702057],"type":"Point"}
 }

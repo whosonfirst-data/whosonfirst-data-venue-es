@@ -2,13 +2,14 @@
   "id": 169576969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.753666,43.200417,-3.753666,43.200417",
     "geom:latitude":43.200417,
     "geom:longitude":-3.753666,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Plaz Baco, 1",
     "sg:city":"Selaya",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169576969,
-    "wof:lastmodified":1449035195,
+    "wof:lastmodified":1466245126,
     "wof:name":"Abascal Diego Ramon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.753666,43.200417,-3.753666,43.200417],
+  "bbox": [
+    -3.753666,
+    43.200417,
+    -3.753666,
+    43.200417
+],
   "geometry": {"coordinates":[-3.753666,43.200417],"type":"Point"}
 }

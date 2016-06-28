@@ -2,13 +2,14 @@
   "id": 169622951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.480135,36.752777,-3.480135,36.752777",
     "geom:latitude":36.752777,
     "geom:longitude":-3.480135,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Pol Ind Ctra Almeria, 8",
     "sg:city":"Motril",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169622951,
-    "wof:lastmodified":1449035365,
+    "wof:lastmodified":1466245156,
     "wof:name":"Abonos Gutierrez S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.480135,36.752777,-3.480135,36.752777],
+  "bbox": [
+    -3.480135,
+    36.752777,
+    -3.480135,
+    36.752777
+],
   "geometry": {"coordinates":[-3.480135,36.752777],"type":"Point"}
 }

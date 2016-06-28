@@ -2,13 +2,14 @@
   "id": 169594567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.167277,37.97295,-1.167277,37.97295",
     "geom:latitude":37.97295,
     "geom:longitude":-1.167277,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctra Alcantarilla, 94",
     "sg:city":"Nonduermas",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169594567,
-    "wof:lastmodified":1449033165,
+    "wof:lastmodified":1466245137,
     "wof:name":"Abellan Ros Jose",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.167277,37.97295,-1.167277,37.97295],
+  "bbox": [
+    -1.167277,
+    37.97295,
+    -1.167277,
+    37.97295
+],
   "geometry": {"coordinates":[-1.167277,37.97295],"type":"Point"}
 }

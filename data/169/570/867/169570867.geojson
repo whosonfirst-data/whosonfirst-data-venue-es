@@ -2,13 +2,14 @@
   "id": 169570867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.98117,43.32021,-1.98117,43.32021",
     "geom:latitude":43.32021,
     "geom:longitude":-1.98117,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Idiakez, 10",
     "sg:city":"Donostia-san Sebastian",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169570867,
-    "wof:lastmodified":1449034646,
+    "wof:lastmodified":1466245212,
     "wof:name":"Abad Martinez Pedro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.98117,43.32021,-1.98117,43.32021],
+  "bbox": [
+    -1.98117,
+    43.32021,
+    -1.98117,
+    43.32021
+],
   "geometry": {"coordinates":[-1.98117,43.32021],"type":"Point"}
 }

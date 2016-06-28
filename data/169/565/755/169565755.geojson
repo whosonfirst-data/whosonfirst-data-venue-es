@@ -2,13 +2,14 @@
   "id": 169565755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-8.269356,43.249065,-8.269356,43.249065",
     "geom:latitude":43.249065,
     "geom:longitude":-8.269356,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"O Monte, S/n",
     "sg:city":"Monte",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169565755,
-    "wof:lastmodified":1449035663,
+    "wof:lastmodified":1466245194,
     "wof:name":"Aba Carro Jose Tirso",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-8.269356,43.249065,-8.269356,43.249065],
+  "bbox": [
+    -8.269356,
+    43.249065,
+    -8.269356,
+    43.249065
+],
   "geometry": {"coordinates":[-8.269356,43.249065],"type":"Point"}
 }

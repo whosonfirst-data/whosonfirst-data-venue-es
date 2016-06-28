@@ -2,13 +2,14 @@
   "id": 169628925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.641156,39.573605,2.641156,39.573605",
     "geom:latitude":39.573605,
     "geom:longitude":2.641156,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Fray Luis De Leon, 4",
     "sg:city":"Palma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169628925,
-    "wof:lastmodified":1449035332,
+    "wof:lastmodified":1466245163,
     "wof:name":"Abraham Sampol Miguel",
     "wof:parent_id":85864117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.641156,39.573605,2.641156,39.573605],
+  "bbox": [
+    2.641156,
+    39.573605,
+    2.641156,
+    39.573605
+],
   "geometry": {"coordinates":[2.641156,39.573605],"type":"Point"}
 }

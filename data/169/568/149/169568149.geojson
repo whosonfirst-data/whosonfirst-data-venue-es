@@ -2,13 +2,14 @@
   "id": 169568149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.993544,37.391861,-5.993544,37.391861",
     "geom:latitude":37.391861,
     "geom:longitude":-5.993544,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Cuna, 13",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169568149,
-    "wof:lastmodified":1449032609,
+    "wof:lastmodified":1466245203,
     "wof:name":"Abad Garces Rosa Maria",
     "wof:parent_id":85864155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.993544,37.391861,-5.993544,37.391861],
+  "bbox": [
+    -5.993544,
+    37.391861,
+    -5.993544,
+    37.391861
+],
   "geometry": {"coordinates":[-5.993544,37.391861],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169573251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.678958,43.317234,-2.678958,43.317234",
     "geom:latitude":43.317234,
     "geom:longitude":-2.678958,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Juan Calzada Kalea, 15",
     "sg:city":"Gernika-lumo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169573251,
-    "wof:lastmodified":1449035111,
+    "wof:lastmodified":1466245208,
     "wof:name":"Abaitua Gomeza Jose Ignacio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.678958,43.317234,-2.678958,43.317234],
+  "bbox": [
+    -2.678958,
+    43.317234,
+    -2.678958,
+    43.317234
+],
   "geometry": {"coordinates":[-2.678958,43.317234],"type":"Point"}
 }

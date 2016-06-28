@@ -2,13 +2,14 @@
   "id": 169641631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.791607,38.092239,-1.791607,38.092239",
     "geom:latitude":38.092239,
     "geom:longitude":-1.791607,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de San Gines, 1",
     "sg:city":"Cehegin",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169641631,
-    "wof:lastmodified":1449035169,
+    "wof:lastmodified":1466245169,
     "wof:name":"Abril Fernandez Juan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.791607,38.092239,-1.791607,38.092239],
+  "bbox": [
+    -1.791607,
+    38.092239,
+    -1.791607,
+    38.092239
+],
   "geometry": {"coordinates":[-1.791607,38.092239],"type":"Point"}
 }

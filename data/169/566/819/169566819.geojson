@@ -2,13 +2,14 @@
   "id": 169566819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.104996,36.674183,-6.104996,36.674183",
     "geom:latitude":36.674183,
     "geom:longitude":-6.104996,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Pase Delicias (las), 5",
     "sg:city":"Jerez De La Frontera",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169566819,
-    "wof:lastmodified":1449032752,
+    "wof:lastmodified":1466245198,
     "wof:name":"Abad Alfaro Francisco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.104996,36.674183,-6.104996,36.674183],
+  "bbox": [
+    -6.104996,
+    36.674183,
+    -6.104996,
+    36.674183
+],
   "geometry": {"coordinates":[-6.104996,36.674183],"type":"Point"}
 }

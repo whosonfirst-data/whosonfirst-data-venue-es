@@ -2,13 +2,14 @@
   "id": 169569737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.361956,42.520233,-0.361956,42.520233",
     "geom:latitude":42.520233,
     "geom:longitude":-0.361956,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Abad Banzo, 4",
     "sg:city":"Sabi\u00f1anigo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169569737,
-    "wof:lastmodified":1449035828,
+    "wof:lastmodified":1466245209,
     "wof:name":"Abadias Navarro Francisco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.361956,42.520233,-0.361956,42.520233],
+  "bbox": [
+    -0.361956,
+    42.520233,
+    -0.361956,
+    42.520233
+],
   "geometry": {"coordinates":[-0.361956,42.520233],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169610197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.03432,41.483452,2.03432,41.483452",
     "geom:latitude":41.483452,
     "geom:longitude":2.03432,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Gutenberg, 28",
     "sg:city":"Terrassa",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169610197,
-    "wof:lastmodified":1449035911,
+    "wof:lastmodified":1466245144,
     "wof:name":"Abillar Marques Mercedes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.03432,41.483452,2.03432,41.483452],
+  "bbox": [
+    2.03432,
+    41.483452,
+    2.03432,
+    41.483452
+],
   "geometry": {"coordinates":[2.03432,41.483452],"type":"Point"}
 }

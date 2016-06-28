@@ -2,13 +2,14 @@
   "id": 169565641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-15.56913,27.760326,-15.56913,27.760326",
     "geom:latitude":27.760326,
     "geom:longitude":-15.56913,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Pl Maspalomas, S/n",
     "sg:city":"S. Agustin-playa Ingles",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169565641,
-    "wof:lastmodified":1449035666,
+    "wof:lastmodified":1466245193,
     "wof:name":"Aazzouzi Mohaned Abdelkader",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-15.56913,27.760326,-15.56913,27.760326],
+  "bbox": [
+    -15.56913,
+    27.760326,
+    -15.56913,
+    27.760326
+],
   "geometry": {"coordinates":[-15.56913,27.760326],"type":"Point"}
 }

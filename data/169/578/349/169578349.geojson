@@ -2,13 +2,14 @@
   "id": 169578349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.798683,41.951595,2.798683,41.951595",
     "geom:latitude":41.951595,
     "geom:longitude":2.798683,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Raset, 157",
     "sg:city":"Vilablareix",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169578349,
-    "wof:lastmodified":1449033519,
+    "wof:lastmodified":1466245118,
     "wof:name":"Abastecedora Catalana S. A.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.798683,41.951595,2.798683,41.951595],
+  "bbox": [
+    2.798683,
+    41.951595,
+    2.798683,
+    41.951595
+],
   "geometry": {"coordinates":[2.798683,41.951595],"type":"Point"}
 }

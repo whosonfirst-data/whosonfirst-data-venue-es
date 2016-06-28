@@ -2,13 +2,14 @@
   "id": 169570315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-7.358536,43.660381,-7.358536,43.660381",
     "geom:latitude":43.660381,
     "geom:longitude":-7.358536,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Rua Pardo Bazan, 5",
     "sg:city":"Burela",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169570315,
-    "wof:lastmodified":1449034646,
+    "wof:lastmodified":1466245207,
     "wof:name":"Abad Lopez Ana Maria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-7.358536,43.660381,-7.358536,43.660381],
+  "bbox": [
+    -7.358536,
+    43.660381,
+    -7.358536,
+    43.660381
+],
   "geometry": {"coordinates":[-7.358536,43.660381],"type":"Point"}
 }

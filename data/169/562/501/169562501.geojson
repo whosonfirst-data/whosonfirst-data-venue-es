@@ -2,13 +2,14 @@
   "id": 169562501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.257393,41.946892,2.257393,41.946892",
     "geom:latitude":41.946892,
     "geom:longitude":2.257393,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Ripoll, 65",
     "sg:city":"Vic",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169562501,
-    "wof:lastmodified":1449034439,
+    "wof:lastmodified":1466245108,
     "wof:name":"3 Tam S.c.p",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.257393,41.946892,2.257393,41.946892],
+  "bbox": [
+    2.257393,
+    41.946892,
+    2.257393,
+    41.946892
+],
   "geometry": {"coordinates":[2.257393,41.946892],"type":"Point"}
 }

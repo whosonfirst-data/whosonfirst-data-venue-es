@@ -2,13 +2,14 @@
   "id": 169564823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.680645,41.856232,2.680645,41.856232",
     "geom:latitude":41.856232,
     "geom:longitude":2.680645,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carr Girona, S/n",
     "sg:city":"Santa Coloma De Farners",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169564823,
-    "wof:lastmodified":1449035764,
+    "wof:lastmodified":1466245190,
     "wof:name":"A.adria Gas Buta S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.680645,41.856232,2.680645,41.856232],
+  "bbox": [
+    2.680645,
+    41.856232,
+    2.680645,
+    41.856232
+],
   "geometry": {"coordinates":[2.680645,41.856232],"type":"Point"}
 }

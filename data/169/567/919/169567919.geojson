@@ -2,13 +2,14 @@
   "id": 169567919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.876566,41.656349,-0.876566,41.656349",
     "geom:latitude":41.656349,
     "geom:longitude":-0.876566,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Iglesia, 8",
     "sg:city":"Almunia De Do\u00e7a Godina",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169567919,
-    "wof:lastmodified":1449035994,
+    "wof:lastmodified":1466245203,
     "wof:name":"Abad Frances Manuel",
     "wof:parent_id":85863325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.876566,41.656349,-0.876566,41.656349],
+  "bbox": [
+    -0.876566,
+    41.656349,
+    -0.876566,
+    41.656349
+],
   "geometry": {"coordinates":[-0.876566,41.656349],"type":"Point"}
 }

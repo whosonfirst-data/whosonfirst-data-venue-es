@@ -2,13 +2,14 @@
   "id": 169559859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.695212,40.399971,-3.695212,40.399971",
     "geom:latitude":40.399971,
     "geom:longitude":-3.695212,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Ciudad Real, 5",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169559859,
-    "wof:lastmodified":1449035239,
+    "wof:lastmodified":1466245131,
     "wof:name":"2002 Azafatas Elian Sl",
     "wof:parent_id":85799161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.695212,40.399971,-3.695212,40.399971],
+  "bbox": [
+    -3.695212,
+    40.399971,
+    -3.695212,
+    40.399971
+],
   "geometry": {"coordinates":[-3.695212,40.399971],"type":"Point"}
 }

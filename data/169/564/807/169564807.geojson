@@ -2,13 +2,14 @@
   "id": 169564807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.114371,41.390663,2.114371,41.390663",
     "geom:latitude":41.390663,
     "geom:longitude":2.114371,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de L'abadessa Olzet, 1",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169564807,
-    "wof:lastmodified":1449035764,
+    "wof:lastmodified":1466245189,
     "wof:name":"Aa Electrolux Asistencia Tecnica Averias Servicio Tecnico Reparacion 001 Soh Cb",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.114371,41.390663,2.114371,41.390663],
+  "bbox": [
+    2.114371,
+    41.390663,
+    2.114371,
+    41.390663
+],
   "geometry": {"coordinates":[2.114371,41.390663],"type":"Point"}
 }

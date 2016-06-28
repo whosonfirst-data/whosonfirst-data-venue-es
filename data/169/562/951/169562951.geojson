@@ -2,13 +2,14 @@
   "id": 169562951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-15.707952,27.790773,-15.707952,27.790773",
     "geom:latitude":27.790773,
     "geom:longitude":-15.707952,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Tomas Roca Bosch, S/n",
     "sg:city":"Puerto Rico",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169562951,
-    "wof:lastmodified":1449034433,
+    "wof:lastmodified":1466245112,
     "wof:name":"4g Asesoramiento Y Gestion Pto Rico S.c.p.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-15.707952,27.790773,-15.707952,27.790773],
+  "bbox": [
+    -15.707952,
+    27.790773,
+    -15.707952,
+    27.790773
+],
   "geometry": {"coordinates":[-15.707952,27.790773],"type":"Point"}
 }

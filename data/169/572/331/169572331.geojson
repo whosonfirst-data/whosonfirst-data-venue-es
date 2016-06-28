@@ -2,13 +2,14 @@
   "id": 169572331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.681884,40.470047,-3.681884,40.470047",
     "geom:latitude":40.470047,
     "geom:longitude":-3.681884,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Poniente, 40",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169572331,
-    "wof:lastmodified":1449034707,
+    "wof:lastmodified":1466245210,
     "wof:name":"Abad Tejerina Paloma",
     "wof:parent_id":85863565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.681884,40.470047,-3.681884,40.470047],
+  "bbox": [
+    -3.681884,
+    40.470047,
+    -3.681884,
+    40.470047
+],
   "geometry": {"coordinates":[-3.681884,40.470047],"type":"Point"}
 }

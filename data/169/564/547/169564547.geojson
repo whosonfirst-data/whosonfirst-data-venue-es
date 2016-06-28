@@ -2,13 +2,14 @@
   "id": 169564547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.969319,38.875603,-6.969319,38.875603",
     "geom:latitude":38.875603,
     "geom:longitude":-6.969319,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Arcoaguero, 62",
     "sg:city":"Badajoz",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169564547,
-    "wof:lastmodified":1449035763,
+    "wof:lastmodified":1466245188,
     "wof:name":"A A2 Arquitectos Asociados S. A.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.969319,38.875603,-6.969319,38.875603],
+  "bbox": [
+    -6.969319,
+    38.875603,
+    -6.969319,
+    38.875603
+],
   "geometry": {"coordinates":[-6.969319,38.875603],"type":"Point"}
 }

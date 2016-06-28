@@ -2,13 +2,14 @@
   "id": 169576273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.478292,38.36039,-0.478292,38.36039",
     "geom:latitude":38.36039,
     "geom:longitude":-0.478292,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Doctor Bergez, 68",
     "sg:city":"Alacant",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169576273,
-    "wof:lastmodified":1449035197,
+    "wof:lastmodified":1466245110,
     "wof:name":"Abarca Piqueras Pompeyo",
     "wof:parent_id":85864065,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.478292,38.36039,-0.478292,38.36039],
+  "bbox": [
+    -0.478292,
+    38.36039,
+    -0.478292,
+    38.36039
+],
   "geometry": {"coordinates":[-0.478292,38.36039],"type":"Point"}
 }

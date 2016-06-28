@@ -2,13 +2,14 @@
   "id": 169559843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.125023,41.514706,2.125023,41.514706",
     "geom:latitude":41.514706,
     "geom:longitude":2.125023,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Pg Doctor Moragas, 182",
     "sg:city":"Barbera Valles",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169559843,
-    "wof:lastmodified":1449035238,
+    "wof:lastmodified":1466245131,
     "wof:name":"2001 Confort S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.125023,41.514706,2.125023,41.514706],
+  "bbox": [
+    2.125023,
+    41.514706,
+    2.125023,
+    41.514706
+],
   "geometry": {"coordinates":[2.125023,41.514706],"type":"Point"}
 }

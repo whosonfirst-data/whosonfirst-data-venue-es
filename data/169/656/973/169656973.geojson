@@ -2,13 +2,14 @@
   "id": 169656973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.981564,43.38203,-2.981564,43.38203",
     "geom:latitude":43.38203,
     "geom:longitude":-2.981564,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Ripa, 1",
     "sg:city":"Sopelana",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169656973,
-    "wof:lastmodified":1449034835,
+    "wof:lastmodified":1466245179,
     "wof:name":"A&b Vision",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.981564,43.38203,-2.981564,43.38203],
+  "bbox": [
+    -2.981564,
+    43.38203,
+    -2.981564,
+    43.38203
+],
   "geometry": {"coordinates":[-2.981564,43.38203],"type":"Point"}
 }

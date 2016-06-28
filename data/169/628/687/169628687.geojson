@@ -2,13 +2,14 @@
   "id": 169628687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.182584,41.385124,2.182584,41.385124",
     "geom:latitude":41.385124,
     "geom:longitude":2.182584,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Flassaders, 42",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169628687,
-    "wof:lastmodified":1449035334,
+    "wof:lastmodified":1466245161,
     "wof:name":"Abraham De Almau Maria Del Carmen",
     "wof:parent_id":85799173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.182584,41.385124,2.182584,41.385124],
+  "bbox": [
+    2.182584,
+    41.385124,
+    2.182584,
+    41.385124
+],
   "geometry": {"coordinates":[2.182584,41.385124],"type":"Point"}
 }

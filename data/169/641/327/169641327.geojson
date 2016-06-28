@@ -2,13 +2,14 @@
   "id": 169641327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.669931,38.050541,-1.669931,38.050541",
     "geom:latitude":38.050541,
     "geom:longitude":-1.669931,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Balsa, 20",
     "sg:city":"Bullas",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169641327,
-    "wof:lastmodified":1449035168,
+    "wof:lastmodified":1466245166,
     "wof:name":"Abril Escamez Manuel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.669931,38.050541,-1.669931,38.050541],
+  "bbox": [
+    -1.669931,
+    38.050541,
+    -1.669931,
+    38.050541
+],
   "geometry": {"coordinates":[-1.669931,38.050541],"type":"Point"}
 }

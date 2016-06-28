@@ -2,13 +2,14 @@
   "id": 169590513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.457153,36.847969,-2.457153,36.847969",
     "geom:latitude":36.847969,
     "geom:longitude":-2.457153,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Granada, 203",
     "sg:city":"Almeria",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169590513,
-    "wof:lastmodified":1449034655,
+    "wof:lastmodified":1466245136,
     "wof:name":"Abellan Garcia Maria Dolores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.457153,36.847969,-2.457153,36.847969],
+  "bbox": [
+    -2.457153,
+    36.847969,
+    -2.457153,
+    36.847969
+],
   "geometry": {"coordinates":[-2.457153,36.847969],"type":"Point"}
 }

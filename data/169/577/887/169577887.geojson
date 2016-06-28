@@ -2,13 +2,14 @@
   "id": 169577887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.04027,43.309582,-2.04027,43.309582",
     "geom:latitude":43.309582,
     "geom:longitude":-2.04027,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Pase Mikeletes De Los, 12",
     "sg:city":"Donostia-san Sebastian",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169577887,
-    "wof:lastmodified":1449036067,
+    "wof:lastmodified":1466245126,
     "wof:name":"Abasolo Gorostiza Mercedes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.04027,43.309582,-2.04027,43.309582],
+  "bbox": [
+    -2.04027,
+    43.309582,
+    -2.04027,
+    43.309582
+],
   "geometry": {"coordinates":[-2.04027,43.309582],"type":"Point"}
 }

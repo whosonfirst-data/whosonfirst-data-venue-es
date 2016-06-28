@@ -2,13 +2,14 @@
   "id": 169566843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.937697,43.251987,-2.937697,43.251987",
     "geom:latitude":43.251987,
     "geom:longitude":-2.937697,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Irala, 34",
     "sg:city":"Bilbao",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169566843,
-    "wof:lastmodified":1449032752,
+    "wof:lastmodified":1466245198,
     "wof:name":"Abad Alonso Pedro",
     "wof:parent_id":85863957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.937697,43.251987,-2.937697,43.251987],
+  "bbox": [
+    -2.937697,
+    43.251987,
+    -2.937697,
+    43.251987
+],
   "geometry": {"coordinates":[-2.937697,43.251987],"type":"Point"}
 }

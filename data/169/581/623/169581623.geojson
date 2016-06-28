@@ -2,13 +2,14 @@
   "id": 169581623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.614935,36.764275,-2.614935,36.764275",
     "geom:latitude":36.764275,
     "geom:longitude":-2.614935,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Gaviotas (las), 1",
     "sg:city":"Urbanizacion Roquetas De Mar",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169581623,
-    "wof:lastmodified":1449033382,
+    "wof:lastmodified":1466245123,
     "wof:name":"Abdilillah  Bourhil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.614935,36.764275,-2.614935,36.764275],
+  "bbox": [
+    -2.614935,
+    36.764275,
+    -2.614935,
+    36.764275
+],
   "geometry": {"coordinates":[-2.614935,36.764275],"type":"Point"}
 }

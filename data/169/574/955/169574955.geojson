@@ -2,13 +2,14 @@
   "id": 169574955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.904046,43.316456,-1.904046,43.316456",
     "geom:latitude":43.316456,
     "geom:longitude":-1.904046,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Astigarraga, 11",
     "sg:city":"Errenteria",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169574955,
-    "wof:lastmodified":1449032664,
+    "wof:lastmodified":1466245113,
     "wof:name":"Abal Remiseiro Adonis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.904046,43.316456,-1.904046,43.316456],
+  "bbox": [
+    -1.904046,
+    43.316456,
+    -1.904046,
+    43.316456
+],
   "geometry": {"coordinates":[-1.904046,43.316456],"type":"Point"}
 }

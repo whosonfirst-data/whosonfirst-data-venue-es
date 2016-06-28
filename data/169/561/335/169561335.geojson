@@ -2,13 +2,14 @@
   "id": 169561335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.327464,41.767811,-0.327464,41.767811",
     "geom:latitude":41.767811,
     "geom:longitude":-0.327464,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Pallaruelo, 3",
     "sg:city":"Lanaja",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169561335,
-    "wof:lastmodified":1449035021,
+    "wof:lastmodified":1466245100,
     "wof:name":"2 M S.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.327464,41.767811,-0.327464,41.767811],
+  "bbox": [
+    -0.327464,
+    41.767811,
+    -0.327464,
+    41.767811
+],
   "geometry": {"coordinates":[-0.327464,41.767811],"type":"Point"}
 }

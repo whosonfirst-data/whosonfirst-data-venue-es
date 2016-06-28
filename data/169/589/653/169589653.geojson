@@ -2,13 +2,14 @@
   "id": 169589653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.585776,37.406113,-1.585776,37.406113",
     "geom:latitude":37.406113,
     "geom:longitude":-1.585776,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Doctor Fleming, 4",
     "sg:city":"Aguilas",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169589653,
-    "wof:lastmodified":1449034445,
+    "wof:lastmodified":1466245137,
     "wof:name":"Abellaneda Giner Mariano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.585776,37.406113,-1.585776,37.406113],
+  "bbox": [
+    -1.585776,
+    37.406113,
+    -1.585776,
+    37.406113
+],
   "geometry": {"coordinates":[-1.585776,37.406113],"type":"Point"}
 }

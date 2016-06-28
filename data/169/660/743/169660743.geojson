@@ -2,13 +2,14 @@
   "id": 169660743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.016383,41.299297,2.016383,41.299297",
     "geom:latitude":41.299297,
     "geom:longitude":2.016383,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Vapor, 10",
     "sg:city":"Gava",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169660743,
-    "wof:lastmodified":1449035616,
+    "wof:lastmodified":1466245177,
     "wof:name":"Acabados Miranda E Hijos S. L.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.016383,41.299297,2.016383,41.299297],
+  "bbox": [
+    2.016383,
+    41.299297,
+    2.016383,
+    41.299297
+],
   "geometry": {"coordinates":[2.016383,41.299297],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169596677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.772761,43.247318,-5.772761,43.247318",
     "geom:latitude":43.247318,
     "geom:longitude":-5.772761,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Vital Aza Alvarez Buylla, 5",
     "sg:city":"Mieres",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169596677,
-    "wof:lastmodified":1449034372,
+    "wof:lastmodified":1466245140,
     "wof:name":"Abella Suarez Manuel Alberto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.772761,43.247318,-5.772761,43.247318],
+  "bbox": [
+    -5.772761,
+    43.247318,
+    -5.772761,
+    43.247318
+],
   "geometry": {"coordinates":[-5.772761,43.247318],"type":"Point"}
 }

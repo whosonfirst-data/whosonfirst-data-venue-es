@@ -2,13 +2,14 @@
   "id": 169562167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.176295,43.283558,-2.176295,43.283558",
     "geom:latitude":43.283558,
     "geom:longitude":-2.176295,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Bizkaia Kalea, 6",
     "sg:city":"Zarautz",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169562167,
-    "wof:lastmodified":1449034436,
+    "wof:lastmodified":1466245098,
     "wof:name":"3efe Estudio Empresarial Sl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.176295,43.283558,-2.176295,43.283558],
+  "bbox": [
+    -2.176295,
+    43.283558,
+    -2.176295,
+    43.283558
+],
   "geometry": {"coordinates":[-2.176295,43.283558],"type":"Point"}
 }

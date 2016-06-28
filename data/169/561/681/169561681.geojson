@@ -2,13 +2,14 @@
   "id": 169561681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.453135,38.6964,1.453135,38.6964",
     "geom:latitude":38.6964,
     "geom:longitude":1.453135,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carr Pla Del Rei, Des, 50",
     "sg:city":"S. Francesc Formentera",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169561681,
-    "wof:lastmodified":1449035021,
+    "wof:lastmodified":1466245103,
     "wof:name":"38 Grados Paralelo C.b.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.453135,38.6964,1.453135,38.6964],
+  "bbox": [
+    1.453135,
+    38.6964,
+    1.453135,
+    38.6964
+],
   "geometry": {"coordinates":[1.453135,38.6964],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169570153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.880586,41.654198,-0.880586,41.654198",
     "geom:latitude":41.654198,
     "geom:longitude":-0.880586,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Mendez Nu\u00d1ez, 4",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169570153,
-    "wof:lastmodified":1449034648,
+    "wof:lastmodified":1466245096,
     "wof:name":"Abad Lazaro Ana Cristina",
     "wof:parent_id":85863325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.880586,41.654198,-0.880586,41.654198],
+  "bbox": [
+    -0.880586,
+    41.654198,
+    -0.880586,
+    41.654198
+],
   "geometry": {"coordinates":[-0.880586,41.654198],"type":"Point"}
 }

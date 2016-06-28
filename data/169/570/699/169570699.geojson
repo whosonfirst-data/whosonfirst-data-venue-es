@@ -2,13 +2,14 @@
   "id": 169570699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.781809,38.387711,-0.781809,38.387711",
     "geom:latitude":38.387711,
     "geom:longitude":-0.781809,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Prje La Tejera, 23",
     "sg:city":"Novelda",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169570699,
-    "wof:lastmodified":1449034646,
+    "wof:lastmodified":1466245211,
     "wof:name":"Abadmar S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.781809,38.387711,-0.781809,38.387711],
+  "bbox": [
+    -0.781809,
+    38.387711,
+    -0.781809,
+    38.387711
+],
   "geometry": {"coordinates":[-0.781809,38.387711],"type":"Point"}
 }

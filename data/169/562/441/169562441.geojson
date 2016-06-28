@@ -2,13 +2,14 @@
   "id": 169562441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.287518,41.607502,2.287518,41.607502",
     "geom:latitude":41.607502,
     "geom:longitude":2.287518,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Rec, 8",
     "sg:city":"Granollers",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169562441,
-    "wof:lastmodified":1449034433,
+    "wof:lastmodified":1466245108,
     "wof:name":"3p Mobel 3 S. L.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.287518,41.607502,2.287518,41.607502],
+  "bbox": [
+    2.287518,
+    41.607502,
+    2.287518,
+    41.607502
+],
   "geometry": {"coordinates":[2.287518,41.607502],"type":"Point"}
 }

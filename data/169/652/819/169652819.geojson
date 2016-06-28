@@ -2,13 +2,14 @@
   "id": 169652819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.940627,35.295387,-2.940627,35.295387",
     "geom:latitude":35.295387,
     "geom:longitude":-2.940627,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Plaz Cordoba, 5",
     "sg:city":"Melilla",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169652819,
-    "wof:lastmodified":1449034807,
+    "wof:lastmodified":1466245175,
     "wof:name":"Abtelkader Amar Mustafa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.940627,35.295387,-2.940627,35.295387],
+  "bbox": [
+    -2.940627,
+    35.295387,
+    -2.940627,
+    35.295387
+],
   "geometry": {"coordinates":[-2.940627,35.295387],"type":"Point"}
 }

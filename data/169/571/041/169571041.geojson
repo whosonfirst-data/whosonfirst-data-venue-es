@@ -2,13 +2,14 @@
   "id": 169571041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.124311,39.399712,-3.124311,39.399712",
     "geom:latitude":39.399712,
     "geom:longitude":-3.124311,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Maestro Manzanares, 21",
     "sg:city":"Campo Criptana",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169571041,
-    "wof:lastmodified":1449034947,
+    "wof:lastmodified":1466245097,
     "wof:name":"Abad Minguez Jose Luis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.124311,39.399712,-3.124311,39.399712],
+  "bbox": [
+    -3.124311,
+    39.399712,
+    -3.124311,
+    39.399712
+],
   "geometry": {"coordinates":[-3.124311,39.399712],"type":"Point"}
 }

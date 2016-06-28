@@ -2,13 +2,14 @@
   "id": 169561657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.481006,38.345203,-0.481006,38.345203",
     "geom:latitude":38.345203,
     "geom:longitude":-0.481006,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avgd Llibertat (de La), 61",
     "sg:city":"Almafra",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169561657,
-    "wof:lastmodified":1449035019,
+    "wof:lastmodified":1466245103,
     "wof:name":"39 Internacional S.l.",
     "wof:parent_id":85864069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.481006,38.345203,-0.481006,38.345203],
+  "bbox": [
+    -0.481006,
+    38.345203,
+    -0.481006,
+    38.345203
+],
   "geometry": {"coordinates":[-0.481006,38.345203],"type":"Point"}
 }

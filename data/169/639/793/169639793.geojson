@@ -2,13 +2,14 @@
   "id": 169639793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.030947,39.981575,-0.030947,39.981575",
     "geom:latitude":39.981575,
     "geom:longitude":-0.030947,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Perez Dolz, 11",
     "sg:city":"Castellon",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169639793,
-    "wof:lastmodified":1449035950,
+    "wof:lastmodified":1466245167,
     "wof:name":"Abril Botia Cristobal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.030947,39.981575,-0.030947,39.981575],
+  "bbox": [
+    -0.030947,
+    39.981575,
+    -0.030947,
+    39.981575
+],
   "geometry": {"coordinates":[-0.030947,39.981575],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169576873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.672684,40.432796,-3.672684,40.432796",
     "geom:latitude":40.432796,
     "geom:longitude":-3.672684,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Francisco Silvela, 36",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169576873,
-    "wof:lastmodified":1449035195,
+    "wof:lastmodified":1466245123,
     "wof:name":"Abascal Diaz Alvaro",
     "wof:parent_id":85863805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.672684,40.432796,-3.672684,40.432796],
+  "bbox": [
+    -3.672684,
+    40.432796,
+    -3.672684,
+    40.432796
+],
   "geometry": {"coordinates":[-3.672684,40.432796],"type":"Point"}
 }

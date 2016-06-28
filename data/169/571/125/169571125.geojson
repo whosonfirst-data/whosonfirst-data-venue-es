@@ -2,13 +2,14 @@
   "id": 169571125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.169919,41.387917,2.169919,41.387917",
     "geom:latitude":41.387917,
     "geom:longitude":2.169919,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Gran Via De Lluis Companys, 160",
     "sg:city":"Premia Mar",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169571125,
-    "wof:lastmodified":1449034948,
+    "wof:lastmodified":1466245208,
     "wof:name":"Abad Mu\u00f1oz Marta",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.169919,41.387917,2.169919,41.387917],
+  "bbox": [
+    2.169919,
+    41.387917,
+    2.169919,
+    41.387917
+],
   "geometry": {"coordinates":[2.169919,41.387917],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169657561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.84076,41.717945,-0.84076,41.717945",
     "geom:latitude":41.717945,
     "geom:longitude":-0.84076,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Poli Ciudad Del Transporte, S/n",
     "sg:city":"San Juan De Mozarrifar",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169657561,
-    "wof:lastmodified":1449033050,
+    "wof:lastmodified":1466245175,
     "wof:name":"Abx Logistics Espa\u00f1a S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.84076,41.717945,-0.84076,41.717945],
+  "bbox": [
+    -0.84076,
+    41.717945,
+    -0.84076,
+    41.717945
+],
   "geometry": {"coordinates":[-0.84076,41.717945],"type":"Point"}
 }

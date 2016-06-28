@@ -2,13 +2,14 @@
   "id": 169567793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.119209,40.949429,-4.119209,40.949429",
     "geom:latitude":40.949429,
     "geom:longitude":-4.119209,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Barr Nuevo, 9",
     "sg:city":"Pradera Navalhorno",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169567793,
-    "wof:lastmodified":1449035994,
+    "wof:lastmodified":1466245202,
     "wof:name":"Abad Dorrego Pedro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.119209,40.949429,-4.119209,40.949429],
+  "bbox": [
+    -4.119209,
+    40.949429,
+    -4.119209,
+    40.949429
+],
   "geometry": {"coordinates":[-4.119209,40.949429],"type":"Point"}
 }

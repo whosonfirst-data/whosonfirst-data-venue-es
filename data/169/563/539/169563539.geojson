@@ -2,13 +2,14 @@
   "id": 169563539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.879156,41.632553,-0.879156,41.632553",
     "geom:latitude":41.632553,
     "geom:longitude":-0.879156,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Capitan Oroquieta, 4",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169563539,
-    "wof:lastmodified":1449032735,
+    "wof:lastmodified":1466245117,
     "wof:name":"7 Alimentacion S.a.",
     "wof:parent_id":85863385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.879156,41.632553,-0.879156,41.632553],
+  "bbox": [
+    -0.879156,
+    41.632553,
+    -0.879156,
+    41.632553
+],
   "geometry": {"coordinates":[-0.879156,41.632553],"type":"Point"}
 }

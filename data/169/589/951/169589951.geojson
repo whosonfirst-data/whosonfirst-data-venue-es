@@ -2,13 +2,14 @@
   "id": 169589951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.694577,37.681973,-1.694577,37.681973",
     "geom:latitude":37.681973,
     "geom:longitude":-1.694577,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Mayor, 18",
     "sg:city":"Lorca",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169589951,
-    "wof:lastmodified":1449034446,
+    "wof:lastmodified":1466245139,
     "wof:name":"Abellaneda Lario Pedro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.694577,37.681973,-1.694577,37.681973],
+  "bbox": [
+    -1.694577,
+    37.681973,
+    -1.694577,
+    37.681973
+],
   "geometry": {"coordinates":[-1.694577,37.681973],"type":"Point"}
 }

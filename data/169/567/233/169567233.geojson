@@ -2,13 +2,14 @@
   "id": 169567233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.682451,41.674892,-3.682451,41.674892",
     "geom:latitude":41.674892,
     "geom:longitude":-3.682451,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Moratin, 37",
     "sg:city":"Aranda Duero",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169567233,
-    "wof:lastmodified":1449035998,
+    "wof:lastmodified":1466245200,
     "wof:name":"Abad Cabrejas Jesus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.682451,41.674892,-3.682451,41.674892],
+  "bbox": [
+    -3.682451,
+    41.674892,
+    -3.682451,
+    41.674892
+],
   "geometry": {"coordinates":[-3.682451,41.674892],"type":"Point"}
 }

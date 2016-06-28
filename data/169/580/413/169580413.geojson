@@ -2,13 +2,14 @@
   "id": 169580413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.422443,43.320545,-2.422443,43.320545",
     "geom:latitude":43.320545,
     "geom:longitude":-2.422443,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Erribera, 11",
     "sg:city":"Ondarroa",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169580413,
-    "wof:lastmodified":1449034912,
+    "wof:lastmodified":1466245123,
     "wof:name":"Abdassi  Miloudi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.422443,43.320545,-2.422443,43.320545],
+  "bbox": [
+    -2.422443,
+    43.320545,
+    -2.422443,
+    43.320545
+],
   "geometry": {"coordinates":[-2.422443,43.320545],"type":"Point"}
 }

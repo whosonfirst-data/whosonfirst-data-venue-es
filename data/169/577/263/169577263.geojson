@@ -2,13 +2,14 @@
   "id": 169577263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.054876,37.541439,-6.054876,37.541439",
     "geom:latitude":37.541439,
     "geom:longitude":-6.054876,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Luis Pasteur, S/n",
     "sg:city":"Guillena",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169577263,
-    "wof:lastmodified":1449036070,
+    "wof:lastmodified":1466245215,
     "wof:name":"Abascal Jimenez Isabel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.054876,37.541439,-6.054876,37.541439],
+  "bbox": [
+    -6.054876,
+    37.541439,
+    -6.054876,
+    37.541439
+],
   "geometry": {"coordinates":[-6.054876,37.541439],"type":"Point"}
 }

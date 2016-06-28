@@ -2,13 +2,14 @@
   "id": 169623931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.934167,37.160633,-5.934167,37.160633",
     "geom:latitude":37.160633,
     "geom:longitude":-5.934167,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctra D Rodrigo, Km. 0005,0",
     "sg:city":"Palacios Y Villafranca",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169623931,
-    "wof:lastmodified":1449035000,
+    "wof:lastmodified":1466245159,
     "wof:name":"Abonos Organicos Sevilla S. A.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.934167,37.160633,-5.934167,37.160633],
+  "bbox": [
+    -5.934167,
+    37.160633,
+    -5.934167,
+    37.160633
+],
   "geometry": {"coordinates":[-5.934167,37.160633],"type":"Point"}
 }

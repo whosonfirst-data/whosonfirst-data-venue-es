@@ -2,13 +2,14 @@
   "id": 169567513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.532389,42.009647,-4.532389,42.009647",
     "geom:latitude":42.009647,
     "geom:longitude":-4.532389,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Don Sancho, 5",
     "sg:city":"Palencia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169567513,
-    "wof:lastmodified":1449035995,
+    "wof:lastmodified":1466245201,
     "wof:name":"Abad Cisneros Maria Josefa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.532389,42.009647,-4.532389,42.009647],
+  "bbox": [
+    -4.532389,
+    42.009647,
+    -4.532389,
+    42.009647
+],
   "geometry": {"coordinates":[-4.532389,42.009647],"type":"Point"}
 }

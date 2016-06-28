@@ -2,13 +2,14 @@
   "id": 169620135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.945836,43.261917,-2.945836,43.261917",
     "geom:latitude":43.261917,
     "geom:longitude":-2.945836,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Diaz De Haro Maria, 1",
     "sg:city":"Bilbao",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169620135,
-    "wof:lastmodified":1449035673,
+    "wof:lastmodified":1466245151,
     "wof:name":"Abogados Y Tecnicos Asociados S. A.",
     "wof:parent_id":85863925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.945836,43.261917,-2.945836,43.261917],
+  "bbox": [
+    -2.945836,
+    43.261917,
+    -2.945836,
+    43.261917
+],
   "geometry": {"coordinates":[-2.945836,43.261917],"type":"Point"}
 }

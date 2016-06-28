@@ -2,13 +2,14 @@
   "id": 169634479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.103276,38.536205,-0.103276,38.536205",
     "geom:latitude":38.536205,
     "geom:longitude":-0.103276,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Londres, 14",
     "sg:city":"Benidorm",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169634479,
-    "wof:lastmodified":1449034258,
+    "wof:lastmodified":1466245160,
     "wof:name":"Abraxas C.b.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.103276,38.536205,-0.103276,38.536205],
+  "bbox": [
+    -0.103276,
+    38.536205,
+    -0.103276,
+    38.536205
+],
   "geometry": {"coordinates":[-0.103276,38.536205],"type":"Point"}
 }

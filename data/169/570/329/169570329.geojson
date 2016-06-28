@@ -2,13 +2,14 @@
   "id": 169570329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.472069,40.436539,-3.472069,40.436539",
     "geom:latitude":40.436539,
     "geom:longitude":-3.472069,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Magdalena, 53",
     "sg:city":"Castillo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169570329,
-    "wof:lastmodified":1449034645,
+    "wof:lastmodified":1466245098,
     "wof:name":"Abad Lopez Maria",
     "wof:parent_id":85863709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.472069,40.436539,-3.472069,40.436539],
+  "bbox": [
+    -3.472069,
+    40.436539,
+    -3.472069,
+    40.436539
+],
   "geometry": {"coordinates":[-3.472069,40.436539],"type":"Point"}
 }

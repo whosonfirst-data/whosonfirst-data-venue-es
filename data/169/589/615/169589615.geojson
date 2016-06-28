@@ -2,13 +2,14 @@
   "id": 169589615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.49669,37.768032,-1.49669,37.768032",
     "geom:latitude":37.768032,
     "geom:longitude":-1.49669,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de General Asensio, 42",
     "sg:city":"Totana",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169589615,
-    "wof:lastmodified":1449034447,
+    "wof:lastmodified":1466245135,
     "wof:name":"Abellaneda Cuadrado Ana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.49669,37.768032,-1.49669,37.768032],
+  "bbox": [
+    -1.49669,
+    37.768032,
+    -1.49669,
+    37.768032
+],
   "geometry": {"coordinates":[-1.49669,37.768032],"type":"Point"}
 }

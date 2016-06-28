@@ -2,13 +2,14 @@
   "id": 169599521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.129887,37.983475,-1.129887,37.983475",
     "geom:latitude":37.983475,
     "geom:longitude":-1.129887,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctra Beniajan, Km. 0004,0",
     "sg:city":"Canute",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169599521,
-    "wof:lastmodified":1449034209,
+    "wof:lastmodified":1466245141,
     "wof:name":"Abellon Sanchez Domingo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.129887,37.983475,-1.129887,37.983475],
+  "bbox": [
+    -1.129887,
+    37.983475,
+    -1.129887,
+    37.983475
+],
   "geometry": {"coordinates":[-1.129887,37.983475],"type":"Point"}
 }

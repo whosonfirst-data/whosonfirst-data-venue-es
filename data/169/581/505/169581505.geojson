@@ -2,13 +2,14 @@
   "id": 169581505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.357319,35.899426,-5.357319,35.899426",
     "geom:latitude":35.899426,
     "geom:longitude":-5.357319,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Play Benitez, 20",
     "sg:city":"Ceuta",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169581505,
-    "wof:lastmodified":1449033382,
+    "wof:lastmodified":1466245121,
     "wof:name":"Abdeselam Mohamed Tuhami",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.357319,35.899426,-5.357319,35.899426],
+  "bbox": [
+    -5.357319,
+    35.899426,
+    -5.357319,
+    35.899426
+],
   "geometry": {"coordinates":[-5.357319,35.899426],"type":"Point"}
 }

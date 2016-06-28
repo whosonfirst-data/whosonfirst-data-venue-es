@@ -2,13 +2,14 @@
   "id": 169686425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.793201,38.110752,-5.793201,38.110752",
     "geom:latitude":38.110752,
     "geom:longitude":-5.793201,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Nuestra Se\u00d1ora De Guaditoca, S/n",
     "sg:city":"Guadalcanal",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169686425,
-    "wof:lastmodified":1449035156,
+    "wof:lastmodified":1466245229,
     "wof:name":"Agropecuaria Araime S.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.793201,38.110752,-5.793201,38.110752],
+  "bbox": [
+    -5.793201,
+    38.110752,
+    -5.793201,
+    38.110752
+],
   "geometry": {"coordinates":[-5.793201,38.110752],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169561109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.44119,41.535271,2.44119,41.535271",
     "geom:latitude":41.535271,
     "geom:longitude":2.44119,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Iluro, 37",
     "sg:city":"Mataro",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169561109,
-    "wof:lastmodified":1449035018,
+    "wof:lastmodified":1466245096,
     "wof:name":"2d S.c.p.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.44119,41.535271,2.44119,41.535271],
+  "bbox": [
+    2.44119,
+    41.535271,
+    2.44119,
+    41.535271
+],
   "geometry": {"coordinates":[2.44119,41.535271],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169637009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-16.248293,28.467772,-16.248293,28.467772",
     "geom:latitude":28.467772,
     "geom:longitude":-16.248293,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Villalba Hervas, 3",
     "sg:city":"Santa Cruz De Tenerife",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169637009,
-    "wof:lastmodified":1449032690,
+    "wof:lastmodified":1466245224,
     "wof:name":"Abreu Cruz Eduardo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-16.248293,28.467772,-16.248293,28.467772],
+  "bbox": [
+    -16.248293,
+    28.467772,
+    -16.248293,
+    28.467772
+],
   "geometry": {"coordinates":[-16.248293,28.467772],"type":"Point"}
 }

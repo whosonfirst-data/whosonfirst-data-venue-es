@@ -2,13 +2,14 @@
   "id": 169588837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.173837,41.397884,2.173837,41.397884",
     "geom:latitude":41.397884,
     "geom:longitude":2.173837,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Roger De Flor, 153",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169588837,
-    "wof:lastmodified":1449035307,
+    "wof:lastmodified":1466245140,
     "wof:name":"Abellan Blasco Alicia",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.173837,41.397884,2.173837,41.397884],
+  "bbox": [
+    2.173837,
+    41.397884,
+    2.173837,
+    41.397884
+],
   "geometry": {"coordinates":[2.173837,41.397884],"type":"Point"}
 }

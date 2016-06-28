@@ -2,13 +2,14 @@
   "id": 169567561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.38651,41.509525,2.38651,41.509525",
     "geom:latitude":41.509525,
     "geom:longitude":2.38651,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"M. Roca I Guardia, 96",
     "sg:city":"Vilassar",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169567561,
-    "wof:lastmodified":1449035994,
+    "wof:lastmodified":1466245201,
     "wof:name":"Abad Cornago Francisco Javier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.38651,41.509525,2.38651,41.509525],
+  "bbox": [
+    2.38651,
+    41.509525,
+    2.38651,
+    41.509525
+],
   "geometry": {"coordinates":[2.38651,41.509525],"type":"Point"}
 }

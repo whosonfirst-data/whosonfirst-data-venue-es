@@ -2,13 +2,14 @@
   "id": 169643055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.764734,40.65472,-3.764734,40.65472",
     "geom:latitude":40.65472,
     "geom:longitude":-3.764734,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Hiedra (de La), 20",
     "sg:city":"Colmenar Viejo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169643055,
-    "wof:lastmodified":1449035521,
+    "wof:lastmodified":1466245224,
     "wof:name":"Abril Legeren Carlos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.764734,40.65472,-3.764734,40.65472],
+  "bbox": [
+    -3.764734,
+    40.65472,
+    -3.764734,
+    40.65472
+],
   "geometry": {"coordinates":[-3.764734,40.65472],"type":"Point"}
 }

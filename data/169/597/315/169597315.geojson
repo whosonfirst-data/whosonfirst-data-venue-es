@@ -2,13 +2,14 @@
   "id": 169597315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.142312,41.073879,1.142312,41.073879",
     "geom:latitude":41.073879,
     "geom:longitude":1.142312,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Pg Jaume I (de), 31",
     "sg:city":"Salou",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169597315,
-    "wof:lastmodified":1449035926,
+    "wof:lastmodified":1466245139,
     "wof:name":"Abella Vidal Fidel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.142312,41.073879,1.142312,41.073879],
+  "bbox": [
+    1.142312,
+    41.073879,
+    1.142312,
+    41.073879
+],
   "geometry": {"coordinates":[1.142312,41.073879],"type":"Point"}
 }

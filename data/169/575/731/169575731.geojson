@@ -2,13 +2,14 @@
   "id": 169575731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.720008,41.641956,-4.720008,41.641956",
     "geom:latitude":41.641956,
     "geom:longitude":-4.720008,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Pase San Vicente, 38",
     "sg:city":"Valladolid",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169575731,
-    "wof:lastmodified":1449033643,
+    "wof:lastmodified":1466245217,
     "wof:name":"Abanico & Serrano C.b.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.720008,41.641956,-4.720008,41.641956],
+  "bbox": [
+    -4.720008,
+    41.641956,
+    -4.720008,
+    41.641956
+],
   "geometry": {"coordinates":[-4.720008,41.641956],"type":"Point"}
 }

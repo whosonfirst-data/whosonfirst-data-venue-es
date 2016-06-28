@@ -2,13 +2,14 @@
   "id": 169598195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.174645,41.390594,2.174645,41.390594",
     "geom:latitude":41.390594,
     "geom:longitude":2.174645,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Ausias Marc, 19",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169598195,
-    "wof:lastmodified":1449032859,
+    "wof:lastmodified":1466245138,
     "wof:name":"Abello Cami\u00f1a Maria Del Carmen",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.174645,41.390594,2.174645,41.390594],
+  "bbox": [
+    2.174645,
+    41.390594,
+    2.174645,
+    41.390594
+],
   "geometry": {"coordinates":[2.174645,41.390594],"type":"Point"}
 }

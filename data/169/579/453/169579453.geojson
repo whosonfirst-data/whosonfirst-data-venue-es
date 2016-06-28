@@ -2,13 +2,14 @@
   "id": 169579453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.421686,36.722767,-4.421686,36.722767",
     "geom:latitude":36.722767,
     "geom:longitude":-4.421686,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Comedias, 9",
     "sg:city":"Malaga",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169579453,
-    "wof:lastmodified":1449033741,
+    "wof:lastmodified":1466245124,
     "wof:name":"Abbott Laboratories S.a.",
     "wof:parent_id":85863505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.421686,36.722767,-4.421686,36.722767],
+  "bbox": [
+    -4.421686,
+    36.722767,
+    -4.421686,
+    36.722767
+],
   "geometry": {"coordinates":[-4.421686,36.722767],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169685849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.567383,40.444054,-3.567383,40.444054",
     "geom:latitude":40.444054,
     "geom:longitude":-3.567383,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Octubre, 40",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169685849,
-    "wof:lastmodified":1449035885,
+    "wof:lastmodified":1466245232,
     "wof:name":"Agronatur Ingenieros C.b.",
     "wof:parent_id":85863629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.567383,40.444054,-3.567383,40.444054],
+  "bbox": [
+    -3.567383,
+    40.444054,
+    -3.567383,
+    40.444054
+],
   "geometry": {"coordinates":[-3.567383,40.444054],"type":"Point"}
 }

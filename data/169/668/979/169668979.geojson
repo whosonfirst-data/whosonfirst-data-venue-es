@@ -2,13 +2,14 @@
   "id": 169668979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.10921,41.547787,2.10921,41.547787",
     "geom:latitude":41.547787,
     "geom:longitude":2.10921,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Borriana, 15",
     "sg:city":"Sabadell",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169668979,
-    "wof:lastmodified":1449034990,
+    "wof:lastmodified":1466245184,
     "wof:name":"Academia Catolica",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.10921,41.547787,2.10921,41.547787],
+  "bbox": [
+    2.10921,
+    41.547787,
+    2.10921,
+    41.547787
+],
   "geometry": {"coordinates":[2.10921,41.547787],"type":"Point"}
 }

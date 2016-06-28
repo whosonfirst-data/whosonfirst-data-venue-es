@@ -2,13 +2,14 @@
   "id": 169617127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.202841,41.409721,2.202841,41.409721",
     "geom:latitude":41.409721,
     "geom:longitude":2.202841,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Pere Iv, 303",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169617127,
-    "wof:lastmodified":1449032804,
+    "wof:lastmodified":1466245223,
     "wof:name":"Abo De Juan Juan Jose",
     "wof:parent_id":85864011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.202841,41.409721,2.202841,41.409721],
+  "bbox": [
+    2.202841,
+    41.409721,
+    2.202841,
+    41.409721
+],
   "geometry": {"coordinates":[2.202841,41.409721],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169610593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.197284,41.415089,2.197284,41.415089",
     "geom:latitude":41.415089,
     "geom:longitude":2.197284,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Concili De Trento, 130",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169610593,
-    "wof:lastmodified":1449035911,
+    "wof:lastmodified":1466245148,
     "wof:name":"Abina Kon S.c.p.",
     "wof:parent_id":85864011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.197284,41.415089,2.197284,41.415089],
+  "bbox": [
+    2.197284,
+    41.415089,
+    2.197284,
+    41.415089
+],
   "geometry": {"coordinates":[2.197284,41.415089],"type":"Point"}
 }

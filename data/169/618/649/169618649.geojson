@@ -2,13 +2,14 @@
   "id": 169618649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.717909,40.42672,-3.717909,40.42672",
     "geom:latitude":40.42672,
     "geom:longitude":-3.717909,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Ferraz, 15",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169618649,
-    "wof:lastmodified":1449034737,
+    "wof:lastmodified":1466245153,
     "wof:name":"Abogados Ferraz 15 C.b.",
     "wof:parent_id":85863669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.717909,40.42672,-3.717909,40.42672],
+  "bbox": [
+    -3.717909,
+    40.42672,
+    -3.717909,
+    40.42672
+],
   "geometry": {"coordinates":[-3.717909,40.42672],"type":"Point"}
 }

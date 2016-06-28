@@ -2,13 +2,14 @@
   "id": 169576683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.628367,43.168179,-2.628367,43.168179",
     "geom:latitude":43.168179,
     "geom:longitude":-2.628367,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Kurutziaga Kalea, 17",
     "sg:city":"Durango",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169576683,
-    "wof:lastmodified":1449035197,
+    "wof:lastmodified":1466245118,
     "wof:name":"Abarrategui Jainaga Jose Antonio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.628367,43.168179,-2.628367,43.168179],
+  "bbox": [
+    -2.628367,
+    43.168179,
+    -2.628367,
+    43.168179
+],
   "geometry": {"coordinates":[-2.628367,43.168179],"type":"Point"}
 }

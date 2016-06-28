@@ -2,13 +2,14 @@
   "id": 169586143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.571752,42.599876,-5.571752,42.599876",
     "geom:latitude":42.599876,
     "geom:longitude":-5.571752,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Plaz Espa\u00d1a, 1",
     "sg:city":"Veguellina Orbigo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169586143,
-    "wof:lastmodified":1449035576,
+    "wof:lastmodified":1466245221,
     "wof:name":"Abella Abella Miguel Angel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.571752,42.599876,-5.571752,42.599876],
+  "bbox": [
+    -5.571752,
+    42.599876,
+    -5.571752,
+    42.599876
+],
   "geometry": {"coordinates":[-5.571752,42.599876],"type":"Point"}
 }

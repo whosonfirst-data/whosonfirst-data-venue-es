@@ -2,13 +2,14 @@
   "id": 169573755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-8.6886,42.198627,-8.6886,42.198627",
     "geom:latitude":42.198627,
     "geom:longitude":-8.6886,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctra Bembrive, 131",
     "sg:city":"Baruxans",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169573755,
-    "wof:lastmodified":1449035113,
+    "wof:lastmodified":1466245107,
     "wof:name":"Abalde Costas Maria Victoria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-8.6886,42.198627,-8.6886,42.198627],
+  "bbox": [
+    -8.6886,
+    42.198627,
+    -8.6886,
+    42.198627
+],
   "geometry": {"coordinates":[-8.6886,42.198627],"type":"Point"}
 }

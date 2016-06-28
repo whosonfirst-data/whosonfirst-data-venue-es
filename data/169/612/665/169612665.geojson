@@ -2,13 +2,14 @@
   "id": 169612665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.802858,43.207954,-2.802858,43.207954",
     "geom:latitude":43.207954,
     "geom:longitude":-2.802858,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Elexalde Auzoa, 5",
     "sg:city":"Elexalde",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169612665,
-    "wof:lastmodified":1449034130,
+    "wof:lastmodified":1466245151,
     "wof:name":"Abio Uriarte Manuel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.802858,43.207954,-2.802858,43.207954],
+  "bbox": [
+    -2.802858,
+    43.207954,
+    -2.802858,
+    43.207954
+],
   "geometry": {"coordinates":[-2.802858,43.207954],"type":"Point"}
 }

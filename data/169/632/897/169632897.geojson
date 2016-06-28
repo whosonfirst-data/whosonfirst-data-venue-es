@@ -2,13 +2,14 @@
   "id": 169632897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.169919,41.387917,2.169919,41.387917",
     "geom:latitude":41.387917,
     "geom:longitude":2.169919,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Cami Sagraments, 26",
     "sg:city":"Poligon Sant Ermengol",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169632897,
-    "wof:lastmodified":1449034796,
+    "wof:lastmodified":1466245163,
     "wof:name":"Abrasivos Reunidos S.a.",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.169919,41.387917,2.169919,41.387917],
+  "bbox": [
+    2.169919,
+    41.387917,
+    2.169919,
+    41.387917
+],
   "geometry": {"coordinates":[2.169919,41.387917],"type":"Point"}
 }

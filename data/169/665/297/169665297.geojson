@@ -2,13 +2,14 @@
   "id": 169665297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.22603,36.597698,-6.22603,36.597698",
     "geom:latitude":36.597698,
     "geom:longitude":-6.22603,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Palacios, 20",
     "sg:city":"Puerto De Santa Maria",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169665297,
-    "wof:lastmodified":1449033697,
+    "wof:lastmodified":1466245179,
     "wof:name":"Acacon S.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.22603,36.597698,-6.22603,36.597698],
+  "bbox": [
+    -6.22603,
+    36.597698,
+    -6.22603,
+    36.597698
+],
   "geometry": {"coordinates":[-6.22603,36.597698],"type":"Point"}
 }

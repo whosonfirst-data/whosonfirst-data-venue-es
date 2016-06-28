@@ -2,13 +2,14 @@
   "id": 169678195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.946861,43.302479,-2.946861,43.302479",
     "geom:latitude":43.302479,
     "geom:longitude":-2.946861,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctra Bilbao-plentzia, 17",
     "sg:city":"Asua-lauroeta",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169678195,
-    "wof:lastmodified":1449034276,
+    "wof:lastmodified":1466245226,
     "wof:name":"Acv Espa\u00f1a S.a.",
     "wof:parent_id":85863939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.946861,43.302479,-2.946861,43.302479],
+  "bbox": [
+    -2.946861,
+    43.302479,
+    -2.946861,
+    43.302479
+],
   "geometry": {"coordinates":[-2.946861,43.302479],"type":"Point"}
 }

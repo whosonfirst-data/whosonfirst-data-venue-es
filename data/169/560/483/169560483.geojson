@@ -2,13 +2,14 @@
   "id": 169560483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.713599,40.24786,-3.713599,40.24786",
     "geom:latitude":40.24786,
     "geom:longitude":-3.713599,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Garzas, 1",
     "sg:city":"Pinto",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169560483,
-    "wof:lastmodified":1449035181,
+    "wof:lastmodified":1466245094,
     "wof:name":"20 20 Logistics Espa\u00d1a S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.713599,40.24786,-3.713599,40.24786],
+  "bbox": [
+    -3.713599,
+    40.24786,
+    -3.713599,
+    40.24786
+],
   "geometry": {"coordinates":[-3.713599,40.24786],"type":"Point"}
 }

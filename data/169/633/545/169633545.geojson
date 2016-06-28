@@ -2,13 +2,14 @@
   "id": 169633545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.106778,41.396885,1.106778,41.396885",
     "geom:latitude":41.396885,
     "geom:longitude":1.106778,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Pl Canos, 20",
     "sg:city":"Espluga Francoli",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169633545,
-    "wof:lastmodified":1449035937,
+    "wof:lastmodified":1466245161,
     "wof:name":"Abrasivos Roca S.c.p.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.106778,41.396885,1.106778,41.396885],
+  "bbox": [
+    1.106778,
+    41.396885,
+    1.106778,
+    41.396885
+],
   "geometry": {"coordinates":[1.106778,41.396885],"type":"Point"}
 }

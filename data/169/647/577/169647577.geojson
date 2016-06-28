@@ -2,13 +2,14 @@
   "id": 169647577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.42923,36.709564,-4.42923,36.709564",
     "geom:latitude":36.709564,
     "geom:longitude":-4.42923,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Donoso Cortes, 9",
     "sg:city":"Malaga",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169647577,
-    "wof:lastmodified":1449034241,
+    "wof:lastmodified":1466245170,
     "wof:name":"Abse Centro De Ense\u00d1anza Sociedad Limitada",
     "wof:parent_id":85863541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.42923,36.709564,-4.42923,36.709564],
+  "bbox": [
+    -4.42923,
+    36.709564,
+    -4.42923,
+    36.709564
+],
   "geometry": {"coordinates":[-4.42923,36.709564],"type":"Point"}
 }

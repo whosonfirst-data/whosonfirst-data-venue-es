@@ -2,13 +2,14 @@
   "id": 169565537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.163571,41.3736,2.163571,41.3736",
     "geom:latitude":41.3736,
     "geom:longitude":2.163571,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Margarit, 23",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169565537,
-    "wof:lastmodified":1449035664,
+    "wof:lastmodified":1466245193,
     "wof:name":"Abaas  Farhat",
     "wof:parent_id":85864037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.163571,41.3736,2.163571,41.3736],
+  "bbox": [
+    2.163571,
+    41.3736,
+    2.163571,
+    41.3736
+],
   "geometry": {"coordinates":[2.163571,41.3736],"type":"Point"}
 }

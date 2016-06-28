@@ -2,13 +2,14 @@
   "id": 169571825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.010858,40.007301,-3.010858,40.007301",
     "geom:latitude":40.007301,
     "geom:longitude":-3.010858,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de General Emilio Villaescusa, 20",
     "sg:city":"Tarancon",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169571825,
-    "wof:lastmodified":1449034944,
+    "wof:lastmodified":1466245109,
     "wof:name":"Abad Rius Jose Maria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.010858,40.007301,-3.010858,40.007301],
+  "bbox": [
+    -3.010858,
+    40.007301,
+    -3.010858,
+    40.007301
+],
   "geometry": {"coordinates":[-3.010858,40.007301],"type":"Point"}
 }

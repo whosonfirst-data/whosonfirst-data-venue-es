@@ -2,13 +2,14 @@
   "id": 169568047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.652744,40.425224,-3.652744,40.425224",
     "geom:latitude":40.425224,
     "geom:longitude":-3.652744,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Marques De Corbera, 39",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169568047,
-    "wof:lastmodified":1449032612,
+    "wof:lastmodified":1466245203,
     "wof:name":"Abad Fuente Manuel",
     "wof:parent_id":85863695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.652744,40.425224,-3.652744,40.425224],
+  "bbox": [
+    -3.652744,
+    40.425224,
+    -3.652744,
+    40.425224
+],
   "geometry": {"coordinates":[-3.652744,40.425224],"type":"Point"}
 }

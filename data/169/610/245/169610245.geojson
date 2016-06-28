@@ -2,13 +2,14 @@
   "id": 169610245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.619974,41.619236,0.619974,41.619236",
     "geom:latitude":41.619236,
     "geom:longitude":0.619974,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carr Llitera, 2",
     "sg:city":"Lleida",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169610245,
-    "wof:lastmodified":1449035910,
+    "wof:lastmodified":1466245145,
     "wof:name":"Abilla Torguet Clara",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.619974,41.619236,0.619974,41.619236],
+  "bbox": [
+    0.619974,
+    41.619236,
+    0.619974,
+    41.619236
+],
   "geometry": {"coordinates":[0.619974,41.619236],"type":"Point"}
 }

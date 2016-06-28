@@ -2,13 +2,14 @@
   "id": 169609127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.555158,39.26408,-1.555158,39.26408",
     "geom:latitude":39.26408,
     "geom:longitude":-1.555158,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Crt. Albacete, 1",
     "sg:city":"Fuentealbilla",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169609127,
-    "wof:lastmodified":1449033921,
+    "wof:lastmodified":1466245144,
     "wof:name":"Abietar Perez Amador",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.555158,39.26408,-1.555158,39.26408],
+  "bbox": [
+    -1.555158,
+    39.26408,
+    -1.555158,
+    39.26408
+],
   "geometry": {"coordinates":[-1.555158,39.26408],"type":"Point"}
 }

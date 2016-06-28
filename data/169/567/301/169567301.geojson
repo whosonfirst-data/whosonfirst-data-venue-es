@@ -2,13 +2,14 @@
   "id": 169567301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.773811,43.25161,-5.773811,43.25161",
     "geom:latitude":43.25161,
     "geom:longitude":-5.773811,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Doce De Octubre, 28",
     "sg:city":"Mieres",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169567301,
-    "wof:lastmodified":1449035992,
+    "wof:lastmodified":1466245200,
     "wof:name":"Abad Campo Francisco Javier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.773811,43.25161,-5.773811,43.25161],
+  "bbox": [
+    -5.773811,
+    43.25161,
+    -5.773811,
+    43.25161
+],
   "geometry": {"coordinates":[-5.773811,43.25161],"type":"Point"}
 }

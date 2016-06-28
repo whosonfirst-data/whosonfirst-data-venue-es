@@ -2,13 +2,14 @@
   "id": 169651235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-7.408292,37.213905,-7.408292,37.213905",
     "geom:latitude":37.213905,
     "geom:longitude":-7.408292,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Cristobal Colon, 18",
     "sg:city":"Ayamonte",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169651235,
-    "wof:lastmodified":1449033345,
+    "wof:lastmodified":1466245170,
     "wof:name":"Absolute Property Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-7.408292,37.213905,-7.408292,37.213905],
+  "bbox": [
+    -7.408292,
+    37.213905,
+    -7.408292,
+    37.213905
+],
   "geometry": {"coordinates":[-7.408292,37.213905],"type":"Point"}
 }

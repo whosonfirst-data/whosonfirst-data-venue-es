@@ -2,13 +2,14 @@
   "id": 169570175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.170985,41.394962,2.170985,41.394962",
     "geom:latitude":41.394962,
     "geom:longitude":2.170985,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Girona, 70",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169570175,
-    "wof:lastmodified":1449034648,
+    "wof:lastmodified":1466245207,
     "wof:name":"Abad Lluis Maria Teresa",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.170985,41.394962,2.170985,41.394962],
+  "bbox": [
+    2.170985,
+    41.394962,
+    2.170985,
+    41.394962
+],
   "geometry": {"coordinates":[2.170985,41.394962],"type":"Point"}
 }

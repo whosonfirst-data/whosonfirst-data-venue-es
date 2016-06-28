@@ -2,13 +2,14 @@
   "id": 169574053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-8.661445,42.736469,-8.661445,42.736469",
     "geom:latitude":42.736469,
     "geom:longitude":-8.661445,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Abastos, S/n",
     "sg:city":"Padron",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169574053,
-    "wof:lastmodified":1449032662,
+    "wof:lastmodified":1466245101,
     "wof:name":"Abal Mouri\u00f1o Manuel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-8.661445,42.736469,-8.661445,42.736469],
+  "bbox": [
+    -8.661445,
+    42.736469,
+    -8.661445,
+    42.736469
+],
   "geometry": {"coordinates":[-8.661445,42.736469],"type":"Point"}
 }

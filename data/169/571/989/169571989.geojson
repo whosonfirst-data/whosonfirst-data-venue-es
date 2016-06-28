@@ -2,13 +2,14 @@
   "id": 169571989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.665573,40.396336,-3.665573,40.396336",
     "geom:latitude":40.396336,
     "geom:longitude":-3.665573,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Albufera, 50",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169571989,
-    "wof:lastmodified":1449034948,
+    "wof:lastmodified":1466245214,
     "wof:name":"Abad Saiz Julio",
     "wof:parent_id":85799491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.665573,40.396336,-3.665573,40.396336],
+  "bbox": [
+    -3.665573,
+    40.396336,
+    -3.665573,
+    40.396336
+],
   "geometry": {"coordinates":[-3.665573,40.396336],"type":"Point"}
 }

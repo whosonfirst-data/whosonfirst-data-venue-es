@@ -2,13 +2,14 @@
   "id": 169578523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.437044,39.152485,-0.437044,39.152485",
     "geom:latitude":39.152485,
     "geom:longitude":-0.437044,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Piletes (les), 1",
     "sg:city":"Alzira",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169578523,
-    "wof:lastmodified":1449033520,
+    "wof:lastmodified":1466245123,
     "wof:name":"Abastecimiento Ribera U.t.e(acs-ocide U.t.e",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.437044,39.152485,-0.437044,39.152485],
+  "bbox": [
+    -0.437044,
+    39.152485,
+    -0.437044,
+    39.152485
+],
   "geometry": {"coordinates":[-0.437044,39.152485],"type":"Point"}
 }

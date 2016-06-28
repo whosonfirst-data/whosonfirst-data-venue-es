@@ -2,13 +2,14 @@
   "id": 169582529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.861101,41.255829,1.861101,41.255829",
     "geom:latitude":41.255829,
     "geom:longitude":1.861101,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Marques Montroig, 6",
     "sg:city":"Sitges",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169582529,
-    "wof:lastmodified":1449034465,
+    "wof:lastmodified":1466245123,
     "wof:name":"Abdullatif Lodhi Kairron",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.861101,41.255829,1.861101,41.255829],
+  "bbox": [
+    1.861101,
+    41.255829,
+    1.861101,
+    41.255829
+],
   "geometry": {"coordinates":[1.861101,41.255829],"type":"Point"}
 }

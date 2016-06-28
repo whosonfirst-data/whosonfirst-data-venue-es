@@ -2,13 +2,14 @@
   "id": 169655483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-8.408063,43.36285,-8.408063,43.36285",
     "geom:latitude":43.36285,
     "geom:longitude":-8.408063,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Juan Florez, 76",
     "sg:city":"Coru\u00d1a",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169655483,
-    "wof:lastmodified":1449034589,
+    "wof:lastmodified":1466245172,
     "wof:name":"Abuin Sanchez Maria Ermitas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-8.408063,43.36285,-8.408063,43.36285],
+  "bbox": [
+    -8.408063,
+    43.36285,
+    -8.408063,
+    43.36285
+],
   "geometry": {"coordinates":[-8.408063,43.36285],"type":"Point"}
 }

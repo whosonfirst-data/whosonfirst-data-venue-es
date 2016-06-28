@@ -2,13 +2,14 @@
   "id": 169560939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.770453,37.883381,-4.770453,37.883381",
     "geom:latitude":37.883381,
     "geom:longitude":-4.770453,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Plaz Valdelasgranas (de), 5",
     "sg:city":"Cordoba",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169560939,
-    "wof:lastmodified":1449035179,
+    "wof:lastmodified":1466245095,
     "wof:name":"2 Arquitectas, S.c.",
     "wof:parent_id":85863873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.770453,37.883381,-4.770453,37.883381],
+  "bbox": [
+    -4.770453,
+    37.883381,
+    -4.770453,
+    37.883381
+],
   "geometry": {"coordinates":[-4.770453,37.883381],"type":"Point"}
 }

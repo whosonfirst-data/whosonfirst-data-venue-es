@@ -2,13 +2,14 @@
   "id": 169564577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.11769,41.353878,2.11769,41.353878",
     "geom:latitude":41.353878,
     "geom:longitude":2.11769,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Av Carmen Amaya, 18",
     "sg:city":"Hospitalet Llobregat",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169564577,
-    "wof:lastmodified":1449035765,
+    "wof:lastmodified":1466245188,
     "wof:name":"A.a.a.b. Radio Taxi Barcelona Asociacion Autotaxis Area Barcelona",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.11769,41.353878,2.11769,41.353878],
+  "bbox": [
+    2.11769,
+    41.353878,
+    2.11769,
+    41.353878
+],
   "geometry": {"coordinates":[2.11769,41.353878],"type":"Point"}
 }

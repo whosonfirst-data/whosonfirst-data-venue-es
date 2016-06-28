@@ -2,13 +2,14 @@
   "id": 169572353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-7.019811,43.537376,-7.019811,43.537376",
     "geom:latitude":43.537376,
     "geom:longitude":-7.019811,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Trenor, S/n",
     "sg:city":"Figueras",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169572353,
-    "wof:lastmodified":1449034704,
+    "wof:lastmodified":1466245102,
     "wof:name":"Abad Si\u00f1eriz Ramon Tomas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-7.019811,43.537376,-7.019811,43.537376],
+  "bbox": [
+    -7.019811,
+    43.537376,
+    -7.019811,
+    43.537376
+],
   "geometry": {"coordinates":[-7.019811,43.537376],"type":"Point"}
 }

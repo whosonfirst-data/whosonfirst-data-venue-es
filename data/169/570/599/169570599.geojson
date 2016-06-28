@@ -2,13 +2,14 @@
   "id": 169570599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.777804,37.867531,-4.777804,37.867531",
     "geom:latitude":37.867531,
     "geom:longitude":-4.777804,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Ubeda, 20",
     "sg:city":"Cordoba",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169570599,
-    "wof:lastmodified":1449034646,
+    "wof:lastmodified":1466245102,
     "wof:name":"Abad Marquez Antonio",
     "wof:parent_id":85863871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.777804,37.867531,-4.777804,37.867531],
+  "bbox": [
+    -4.777804,
+    37.867531,
+    -4.777804,
+    37.867531
+],
   "geometry": {"coordinates":[-4.777804,37.867531],"type":"Point"}
 }

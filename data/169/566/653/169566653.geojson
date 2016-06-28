@@ -2,13 +2,14 @@
   "id": 169566653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.850262,43.443157,-3.850262,43.443157",
     "geom:latitude":43.443157,
     "geom:longitude":-3.850262,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Puerto De Raos, 5",
     "sg:city":"Santander",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169566653,
-    "wof:lastmodified":1449032751,
+    "wof:lastmodified":1466245197,
     "wof:name":"Abada Hondo-maya Vicente",
     "wof:parent_id":85799521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.850262,43.443157,-3.850262,43.443157],
+  "bbox": [
+    -3.850262,
+    43.443157,
+    -3.850262,
+    43.443157
+],
   "geometry": {"coordinates":[-3.850262,43.443157],"type":"Point"}
 }

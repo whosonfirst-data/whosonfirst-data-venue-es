@@ -2,13 +2,14 @@
   "id": 169597293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-8.800841,43.031898,-8.800841,43.031898",
     "geom:latitude":43.031898,
     "geom:longitude":-8.800841,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Santiago (de), 53",
     "sg:city":"Santa Comba",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169597293,
-    "wof:lastmodified":1449035923,
+    "wof:lastmodified":1466245138,
     "wof:name":"Abelleira Lago Maria Dolores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-8.800841,43.031898,-8.800841,43.031898],
+  "bbox": [
+    -8.800841,
+    43.031898,
+    -8.800841,
+    43.031898
+],
   "geometry": {"coordinates":[-8.800841,43.031898],"type":"Point"}
 }

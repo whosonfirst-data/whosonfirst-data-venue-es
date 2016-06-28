@@ -2,13 +2,14 @@
   "id": 169572907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.724212,40.313606,-3.724212,40.313606",
     "geom:latitude":40.313606,
     "geom:longitude":-3.724212,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Daoiz, 36",
     "sg:city":"Getafe",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169572907,
-    "wof:lastmodified":1449034707,
+    "wof:lastmodified":1466245110,
     "wof:name":"Abad Y Puche C.b.",
     "wof:parent_id":85863795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.724212,40.313606,-3.724212,40.313606],
+  "bbox": [
+    -3.724212,
+    40.313606,
+    -3.724212,
+    40.313606
+],
   "geometry": {"coordinates":[-3.724212,40.313606],"type":"Point"}
 }

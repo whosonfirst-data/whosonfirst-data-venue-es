@@ -2,13 +2,14 @@
   "id": 169662111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.980738,41.477348,1.980738,41.477348",
     "geom:latitude":41.477348,
     "geom:longitude":1.980738,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Sant Miquel, 44",
     "sg:city":"Castellbisbal",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169662111,
-    "wof:lastmodified":1449034924,
+    "wof:lastmodified":1466245225,
     "wof:name":"Acabats Castell S.c.p.",
     "wof:parent_id":85864241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "control"
     ]
 },
-  "bbox": [1.980738,41.477348,1.980738,41.477348],
+  "bbox": [
+    1.980738,
+    41.477348,
+    1.980738,
+    41.477348
+],
   "geometry": {"coordinates":[1.980738,41.477348],"type":"Point"}
 }

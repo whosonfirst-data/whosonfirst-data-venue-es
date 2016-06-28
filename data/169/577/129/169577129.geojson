@@ -2,13 +2,14 @@
   "id": 169577129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.924739,43.198917,-3.924739,43.198917",
     "geom:latitude":43.198917,
     "geom:longitude":-3.924739,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctra Gral, S/n",
     "sg:city":"Ontaneda",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169577129,
-    "wof:lastmodified":1449036067,
+    "wof:lastmodified":1466245215,
     "wof:name":"Abascal Fernandez Ladislao",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.924739,43.198917,-3.924739,43.198917],
+  "bbox": [
+    -3.924739,
+    43.198917,
+    -3.924739,
+    43.198917
+],
   "geometry": {"coordinates":[-3.924739,43.198917],"type":"Point"}
 }

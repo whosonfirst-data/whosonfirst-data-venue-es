@@ -2,13 +2,14 @@
   "id": 169601863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.882701,43.23645,-2.882701,43.23645",
     "geom:latitude":43.23645,
     "geom:longitude":-2.882701,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Agirre Lehendakaria, 75",
     "sg:city":"Urbi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169601863,
-    "wof:lastmodified":1449034148,
+    "wof:lastmodified":1466245145,
     "wof:name":"Abendibar Arteta I\u00f1aki",
     "wof:parent_id":85799203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.882701,43.23645,-2.882701,43.23645],
+  "bbox": [
+    -2.882701,
+    43.23645,
+    -2.882701,
+    43.23645
+],
   "geometry": {"coordinates":[-2.882701,43.23645],"type":"Point"}
 }

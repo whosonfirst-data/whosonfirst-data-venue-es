@@ -2,13 +2,14 @@
   "id": 169559471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.706357,40.419647,-3.706357,40.419647",
     "geom:latitude":40.419647,
     "geom:longitude":-3.706357,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Preciados, 29",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169559471,
-    "wof:lastmodified":1449035236,
+    "wof:lastmodified":1466245128,
     "wof:name":"1st Wanda Service",
     "wof:parent_id":85863667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.706357,40.419647,-3.706357,40.419647],
+  "bbox": [
+    -3.706357,
+    40.419647,
+    -3.706357,
+    40.419647
+],
   "geometry": {"coordinates":[-3.706357,40.419647],"type":"Point"}
 }

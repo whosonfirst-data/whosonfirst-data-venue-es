@@ -2,13 +2,14 @@
   "id": 169563373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.125417,41.527813,2.125417,41.527813",
     "geom:latitude":41.527813,
     "geom:longitude":2.125417,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Baygual, 28",
     "sg:city":"Sabadell",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169563373,
-    "wof:lastmodified":1449032732,
+    "wof:lastmodified":1466245115,
     "wof:name":"6tell Treball Educacio I Lleure Sccl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.125417,41.527813,2.125417,41.527813],
+  "bbox": [
+    2.125417,
+    41.527813,
+    2.125417,
+    41.527813
+],
   "geometry": {"coordinates":[2.125417,41.527813],"type":"Point"}
 }

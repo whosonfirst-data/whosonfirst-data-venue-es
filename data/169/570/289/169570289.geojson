@@ -2,13 +2,14 @@
   "id": 169570289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.7198,40.314659,-3.7198,40.314659",
     "geom:latitude":40.314659,
     "geom:longitude":-3.7198,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Espa\u00d1a, 47",
     "sg:city":"Getafe",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169570289,
-    "wof:lastmodified":1449034647,
+    "wof:lastmodified":1466245207,
     "wof:name":"Abad Lopez Jesus",
     "wof:parent_id":85863795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.7198,40.314659,-3.7198,40.314659],
+  "bbox": [
+    -3.7198,
+    40.314659,
+    -3.7198,
+    40.314659
+],
   "geometry": {"coordinates":[-3.7198,40.314659],"type":"Point"}
 }

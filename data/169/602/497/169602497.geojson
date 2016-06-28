@@ -2,13 +2,14 @@
   "id": 169602497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.880706,41.643452,-0.880706,41.643452",
     "geom:latitude":41.643452,
     "geom:longitude":-0.880706,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de General Sueiro, 49",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169602497,
-    "wof:lastmodified":1449034231,
+    "wof:lastmodified":1466245145,
     "wof:name":"Abenoza Fondon Gabriel Eduardo",
     "wof:parent_id":85863361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.880706,41.643452,-0.880706,41.643452],
+  "bbox": [
+    -0.880706,
+    41.643452,
+    -0.880706,
+    41.643452
+],
   "geometry": {"coordinates":[-0.880706,41.643452],"type":"Point"}
 }

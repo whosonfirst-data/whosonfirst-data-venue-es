@@ -2,13 +2,14 @@
   "id": 169677103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.249505,41.929787,2.249505,41.929787",
     "geom:latitude":41.929787,
     "geom:longitude":2.249505,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Morato (dels), 10",
     "sg:city":"Vic",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169677103,
-    "wof:lastmodified":1449033878,
+    "wof:lastmodified":1466245226,
     "wof:name":"Aceves Cuellar Ismael",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.249505,41.929787,2.249505,41.929787],
+  "bbox": [
+    2.249505,
+    41.929787,
+    2.249505,
+    41.929787
+],
   "geometry": {"coordinates":[2.249505,41.929787],"type":"Point"}
 }

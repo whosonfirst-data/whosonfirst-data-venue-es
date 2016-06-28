@@ -2,13 +2,14 @@
   "id": 169566603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.248388,41.114185,1.248388,41.114185",
     "geom:latitude":41.114185,
     "geom:longitude":1.248388,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Gasometre (del), 32",
     "sg:city":"Tarragona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169566603,
-    "wof:lastmodified":1449032755,
+    "wof:lastmodified":1466245197,
     "wof:name":"Abacus Sdad. Coop. Catalana Limitada",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.248388,41.114185,1.248388,41.114185],
+  "bbox": [
+    1.248388,
+    41.114185,
+    1.248388,
+    41.114185
+],
   "geometry": {"coordinates":[1.248388,41.114185],"type":"Point"}
 }

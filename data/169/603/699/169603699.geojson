@@ -2,13 +2,14 @@
   "id": 169603699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.790018,37.772793,-3.790018,37.772793",
     "geom:latitude":37.772793,
     "geom:longitude":-3.790018,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Cruz Roja Espa\u00d1ola, 6",
     "sg:city":"Jaen",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169603699,
-    "wof:lastmodified":1449035452,
+    "wof:lastmodified":1466245144,
     "wof:name":"Abercrom Desarrollos Inmobiliarios Slu",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.790018,37.772793,-3.790018,37.772793],
+  "bbox": [
+    -3.790018,
+    37.772793,
+    -3.790018,
+    37.772793
+],
   "geometry": {"coordinates":[-3.790018,37.772793],"type":"Point"}
 }

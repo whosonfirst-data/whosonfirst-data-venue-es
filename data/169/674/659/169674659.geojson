@@ -2,13 +2,14 @@
   "id": 169674659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.535732,41.222458,1.535732,41.222458",
     "geom:latitude":41.222458,
     "geom:longitude":1.535732,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Montserrat, 29",
     "sg:city":"Vendrell",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169674659,
-    "wof:lastmodified":1449035135,
+    "wof:lastmodified":1466245184,
     "wof:name":"Academia De Peluqueria Danmarc S.c.p",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.535732,41.222458,1.535732,41.222458],
+  "bbox": [
+    1.535732,
+    41.222458,
+    1.535732,
+    41.222458
+],
   "geometry": {"coordinates":[1.535732,41.222458],"type":"Point"}
 }

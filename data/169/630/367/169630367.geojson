@@ -2,13 +2,14 @@
   "id": 169630367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-16.411642,28.314121,-16.411642,28.314121",
     "geom:latitude":28.314121,
     "geom:longitude":-16.411642,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Santo Domingo, 28",
     "sg:city":"G\u00fcimar",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169630367,
-    "wof:lastmodified":1449033870,
+    "wof:lastmodified":1466245224,
     "wof:name":"Abrante Concepcion Alfredo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-16.411642,28.314121,-16.411642,28.314121],
+  "bbox": [
+    -16.411642,
+    28.314121,
+    -16.411642,
+    28.314121
+],
   "geometry": {"coordinates":[-16.411642,28.314121],"type":"Point"}
 }

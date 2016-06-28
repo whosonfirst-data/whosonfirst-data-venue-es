@@ -2,13 +2,14 @@
   "id": 169582327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.135828,41.382187,2.135828,41.382187",
     "geom:latitude":41.382187,
     "geom:longitude":2.135828,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Pl Centre, 11",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169582327,
-    "wof:lastmodified":1449034460,
+    "wof:lastmodified":1466245219,
     "wof:name":"Abdullach Butt Mohammad",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.135828,41.382187,2.135828,41.382187],
+  "bbox": [
+    2.135828,
+    41.382187,
+    2.135828,
+    41.382187
+],
   "geometry": {"coordinates":[2.135828,41.382187],"type":"Point"}
 }

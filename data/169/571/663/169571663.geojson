@@ -2,13 +2,14 @@
   "id": 169571663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.14251,41.399933,2.14251,41.399933",
     "geom:latitude":41.399933,
     "geom:longitude":2.14251,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Descartes, 12",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169571663,
-    "wof:lastmodified":1449034949,
+    "wof:lastmodified":1466245212,
     "wof:name":"Abad Ramos Antonio",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.14251,41.399933,2.14251,41.399933],
+  "bbox": [
+    2.14251,
+    41.399933,
+    2.14251,
+    41.399933
+],
   "geometry": {"coordinates":[2.14251,41.399933],"type":"Point"}
 }

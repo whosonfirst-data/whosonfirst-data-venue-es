@@ -2,13 +2,14 @@
   "id": 169573303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.903538,42.304726,-5.903538,42.304726",
     "geom:latitude":42.304726,
     "geom:longitude":-5.903538,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de General Benavides, 37",
     "sg:city":"Ba\u00d1eza",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169573303,
-    "wof:lastmodified":1449035113,
+    "wof:lastmodified":1466245100,
     "wof:name":"Abajo Ares Federico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.903538,42.304726,-5.903538,42.304726],
+  "bbox": [
+    -5.903538,
+    42.304726,
+    -5.903538,
+    42.304726
+],
   "geometry": {"coordinates":[-5.903538,42.304726],"type":"Point"}
 }

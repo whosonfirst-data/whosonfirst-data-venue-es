@@ -2,13 +2,14 @@
   "id": 169622107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.243231,39.960445,-0.243231,39.960445",
     "geom:latitude":39.960445,
     "geom:longitude":-0.243231,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctra Viver-puerto Burriana, Km. 0003,5",
     "sg:city":"Onda",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169622107,
-    "wof:lastmodified":1449035364,
+    "wof:lastmodified":1466245223,
     "wof:name":"Abonir S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.243231,39.960445,-0.243231,39.960445],
+  "bbox": [
+    -0.243231,
+    39.960445,
+    -0.243231,
+    39.960445
+],
   "geometry": {"coordinates":[-0.243231,39.960445],"type":"Point"}
 }

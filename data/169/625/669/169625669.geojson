@@ -2,13 +2,14 @@
   "id": 169625669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.893525,41.64653,-0.893525,41.64653",
     "geom:latitude":41.64653,
     "geom:longitude":-0.893525,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Carmen, 28",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169625669,
-    "wof:lastmodified":1449036022,
+    "wof:lastmodified":1466245161,
     "wof:name":"Abos Arcada Coral",
     "wof:parent_id":85863341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.893525,41.64653,-0.893525,41.64653],
+  "bbox": [
+    -0.893525,
+    41.64653,
+    -0.893525,
+    41.64653
+],
   "geometry": {"coordinates":[-0.893525,41.64653],"type":"Point"}
 }

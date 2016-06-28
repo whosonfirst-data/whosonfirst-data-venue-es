@@ -2,13 +2,14 @@
   "id": 169599147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-8.444372,43.345085,-8.444372,43.345085",
     "geom:latitude":43.345085,
     "geom:longitude":-8.444372,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Rua Bilbao, 6",
     "sg:city":"Meicende",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169599147,
-    "wof:lastmodified":1449034210,
+    "wof:lastmodified":1466245139,
     "wof:name":"Abellon Carro Arturo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-8.444372,43.345085,-8.444372,43.345085],
+  "bbox": [
+    -8.444372,
+    43.345085,
+    -8.444372,
+    43.345085
+],
   "geometry": {"coordinates":[-8.444372,43.345085],"type":"Point"}
 }

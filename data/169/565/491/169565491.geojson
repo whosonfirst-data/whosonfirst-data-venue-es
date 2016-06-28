@@ -2,13 +2,14 @@
   "id": 169565491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.877263,37.61937,-0.877263,37.61937",
     "geom:latitude":37.61937,
     "geom:longitude":-0.877263,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Beatas, 18",
     "sg:city":"Union",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169565491,
-    "wof:lastmodified":1449035664,
+    "wof:lastmodified":1466245193,
     "wof:name":"Aa Vv De La Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.877263,37.61937,-0.877263,37.61937],
+  "bbox": [
+    -0.877263,
+    37.61937,
+    -0.877263,
+    37.61937
+],
   "geometry": {"coordinates":[-0.877263,37.61937],"type":"Point"}
 }

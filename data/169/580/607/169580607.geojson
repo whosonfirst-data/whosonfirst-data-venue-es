@@ -2,13 +2,14 @@
   "id": 169580607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-16.548935,28.417809,-16.548935,28.417809",
     "geom:latitude":28.417809,
     "geom:longitude":-16.548935,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Santo Domingo, 12",
     "sg:city":"Puerto Cruz",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169580607,
-    "wof:lastmodified":1449034911,
+    "wof:lastmodified":1466245220,
     "wof:name":"Abdel-kader Al-lal Abdel Lah",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-16.548935,28.417809,-16.548935,28.417809],
+  "bbox": [
+    -16.548935,
+    28.417809,
+    -16.548935,
+    28.417809
+],
   "geometry": {"coordinates":[-16.548935,28.417809],"type":"Point"}
 }

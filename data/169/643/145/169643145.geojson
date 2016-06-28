@@ -2,13 +2,14 @@
   "id": 169643145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.721311,38.184834,-1.721311,38.184834",
     "geom:latitude":38.184834,
     "geom:longitude":-1.721311,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Vereda, 11",
     "sg:city":"Valentin",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169643145,
-    "wof:lastmodified":1449035521,
+    "wof:lastmodified":1466245165,
     "wof:name":"Abril Losa Teresa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.721311,38.184834,-1.721311,38.184834],
+  "bbox": [
+    -1.721311,
+    38.184834,
+    -1.721311,
+    38.184834
+],
   "geometry": {"coordinates":[-1.721311,38.184834],"type":"Point"}
 }

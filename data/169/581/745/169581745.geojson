@@ -2,13 +2,14 @@
   "id": 169581745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-14.347721,28.049835,-14.347721,28.049835",
     "geom:latitude":28.049835,
     "geom:longitude":-14.347721,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Playa Paradiso, 8",
     "sg:city":"Morro Jable",
     "sg:classifiers":[],
@@ -27,14 +28,20 @@
     "wof:geomhash":"3fc735b4dae369fd56b16858366a81a9",
     "wof:hierarchy":[],
     "wof:id":169581745,
-    "wof:lastmodified":1449033382,
+    "wof:lastmodified":1466245124,
     "wof:name":"Abdeselam Mohatar Laksir Hakim",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-14.347721,28.049835,-14.347721,28.049835],
+  "bbox": [
+    -14.347721,
+    28.049835,
+    -14.347721,
+    28.049835
+],
   "geometry": {"coordinates":[-14.347721,28.049835],"type":"Point"}
 }

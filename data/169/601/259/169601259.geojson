@@ -2,13 +2,14 @@
   "id": 169601259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-7.576188,43.013588,-7.576188,43.013588",
     "geom:latitude":43.013588,
     "geom:longitude":-7.576188,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Rond Muralla (da), 112",
     "sg:city":"Lugo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169601259,
-    "wof:lastmodified":1449034146,
+    "wof:lastmodified":1466245140,
     "wof:name":"Abel Taboada Olga",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-7.576188,43.013588,-7.576188,43.013588],
+  "bbox": [
+    -7.576188,
+    43.013588,
+    -7.576188,
+    43.013588
+],
   "geometry": {"coordinates":[-7.576188,43.013588],"type":"Point"}
 }

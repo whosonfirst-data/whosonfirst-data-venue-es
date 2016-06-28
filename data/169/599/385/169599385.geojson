@@ -2,13 +2,14 @@
   "id": 169599385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.154366,41.40081,2.154366,41.40081",
     "geom:latitude":41.40081,
     "geom:longitude":2.154366,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Gran De Gracia, 106",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169599385,
-    "wof:lastmodified":1449034206,
+    "wof:lastmodified":1466245141,
     "wof:name":"Abello Pla Eulalia",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.154366,41.40081,2.154366,41.40081],
+  "bbox": [
+    2.154366,
+    41.40081,
+    2.154366,
+    41.40081
+],
   "geometry": {"coordinates":[2.154366,41.40081],"type":"Point"}
 }

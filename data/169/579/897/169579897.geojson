@@ -2,13 +2,14 @@
   "id": 169579897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.420961,36.719311,-4.420961,36.719311",
     "geom:latitude":36.719311,
     "geom:longitude":-4.420961,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Bolsa, 3",
     "sg:city":"Malaga",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169579897,
-    "wof:lastmodified":1449033741,
+    "wof:lastmodified":1466245132,
     "wof:name":"Abc Infantil S.c.",
     "wof:parent_id":85863491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.420961,36.719311,-4.420961,36.719311],
+  "bbox": [
+    -4.420961,
+    36.719311,
+    -4.420961,
+    36.719311
+],
   "geometry": {"coordinates":[-4.420961,36.719311],"type":"Point"}
 }

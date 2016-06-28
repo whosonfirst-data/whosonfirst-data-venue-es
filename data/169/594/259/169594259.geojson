@@ -2,13 +2,14 @@
   "id": 169594259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.214535,37.974861,-1.214535,37.974861",
     "geom:latitude":37.974861,
     "geom:longitude":-1.214535,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Pedro Nogueroles Roche, S/n",
     "sg:city":"Alcantarilla",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169594259,
-    "wof:lastmodified":1449033163,
+    "wof:lastmodified":1466245135,
     "wof:name":"Abellan Riquelme Juan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.214535,37.974861,-1.214535,37.974861],
+  "bbox": [
+    -1.214535,
+    37.974861,
+    -1.214535,
+    37.974861
+],
   "geometry": {"coordinates":[-1.214535,37.974861],"type":"Point"}
 }

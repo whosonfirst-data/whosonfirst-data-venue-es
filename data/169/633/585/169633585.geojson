@@ -2,13 +2,14 @@
   "id": 169633585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.298209,41.647877,2.298209,41.647877",
     "geom:latitude":41.647877,
     "geom:longitude":2.298209,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Alemanya (pol Ind Pla Llerona), S/n",
     "sg:city":"Llerona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169633585,
-    "wof:lastmodified":1449035939,
+    "wof:lastmodified":1466245161,
     "wof:name":"Abrasivos Sait Espa\u00f1a S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.298209,41.647877,2.298209,41.647877],
+  "bbox": [
+    2.298209,
+    41.647877,
+    2.298209,
+    41.647877
+],
   "geometry": {"coordinates":[2.298209,41.647877],"type":"Point"}
 }

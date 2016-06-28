@@ -2,13 +2,14 @@
   "id": 169567867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-7.973955,41.956608,-7.973955,41.956608",
     "geom:latitude":41.956608,
     "geom:longitude":-7.973955,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Mugueimes, S/n",
     "sg:city":"Mugueimes",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169567867,
-    "wof:lastmodified":1449035994,
+    "wof:lastmodified":1466245203,
     "wof:name":"Abades Alvarez Constantino Jose",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-7.973955,41.956608,-7.973955,41.956608],
+  "bbox": [
+    -7.973955,
+    41.956608,
+    -7.973955,
+    41.956608
+],
   "geometry": {"coordinates":[-7.973955,41.956608],"type":"Point"}
 }

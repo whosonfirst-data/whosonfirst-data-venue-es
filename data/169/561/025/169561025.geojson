@@ -2,13 +2,14 @@
   "id": 169561025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.682264,40.422241,-3.682264,40.422241",
     "geom:latitude":40.422241,
     "geom:longitude":-3.682264,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Villanueva, 39",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169561025,
-    "wof:lastmodified":1449035020,
+    "wof:lastmodified":1466245091,
     "wof:name":"2cs Producciones S.a.",
     "wof:parent_id":85863809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.682264,40.422241,-3.682264,40.422241],
+  "bbox": [
+    -3.682264,
+    40.422241,
+    -3.682264,
+    40.422241
+],
   "geometry": {"coordinates":[-3.682264,40.422241],"type":"Point"}
 }

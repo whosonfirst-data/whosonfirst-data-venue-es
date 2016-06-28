@@ -2,13 +2,14 @@
   "id": 169566931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.776088,43.251324,-5.776088,43.251324",
     "geom:latitude":43.251324,
     "geom:longitude":-5.776088,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Armando Palacio Valdes, 2",
     "sg:city":"Mieres",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169566931,
-    "wof:lastmodified":1449032755,
+    "wof:lastmodified":1466245199,
     "wof:name":"Abad Alvarez Jesus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.776088,43.251324,-5.776088,43.251324],
+  "bbox": [
+    -5.776088,
+    43.251324,
+    -5.776088,
+    43.251324
+],
   "geometry": {"coordinates":[-5.776088,43.251324],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169571409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.00119,41.656693,-1.00119,41.656693",
     "geom:latitude":41.656693,
     "geom:longitude":-1.00119,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Lago De Barbarisa (miralbueno), 10",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169571409,
-    "wof:lastmodified":1449034947,
+    "wof:lastmodified":1466245102,
     "wof:name":"Abad Parriego Ignacio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.00119,41.656693,-1.00119,41.656693],
+  "bbox": [
+    -1.00119,
+    41.656693,
+    -1.00119,
+    41.656693
+],
   "geometry": {"coordinates":[-1.00119,41.656693],"type":"Point"}
 }

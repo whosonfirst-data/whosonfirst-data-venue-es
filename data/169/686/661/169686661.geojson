@@ -2,13 +2,14 @@
   "id": 169686661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.689996,40.435211,-3.689996,40.435211",
     "geom:latitude":40.435211,
     "geom:longitude":-3.689996,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Pase General Martinez Campos, 51",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169686661,
-    "wof:lastmodified":1449035160,
+    "wof:lastmodified":1466245189,
     "wof:name":"Agropecuaria Casa Pacheco S.c.",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.689996,40.435211,-3.689996,40.435211],
+  "bbox": [
+    -3.689996,
+    40.435211,
+    -3.689996,
+    40.435211
+],
   "geometry": {"coordinates":[-3.689996,40.435211],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169684843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.675443,36.753574,-2.675443,36.753574",
     "geom:latitude":36.753574,
     "geom:longitude":-2.675443,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Cruce Del Solanillo, Km. 0001,0",
     "sg:city":"Mojonera",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169684843,
-    "wof:lastmodified":1449033510,
+    "wof:lastmodified":1466245185,
     "wof:name":"Agrolumar S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.675443,36.753574,-2.675443,36.753574],
+  "bbox": [
+    -2.675443,
+    36.753574,
+    -2.675443,
+    36.753574
+],
   "geometry": {"coordinates":[-2.675443,36.753574],"type":"Point"}
 }

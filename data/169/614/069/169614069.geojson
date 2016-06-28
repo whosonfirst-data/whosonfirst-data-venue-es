@@ -2,13 +2,14 @@
   "id": 169614069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.892209,41.655281,-0.892209,41.655281",
     "geom:latitude":41.655281,
     "geom:longitude":-0.892209,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Plaz Portillo, 3",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169614069,
-    "wof:lastmodified":1449036059,
+    "wof:lastmodified":1466245148,
     "wof:name":"Abizanda Rodes Angel",
     "wof:parent_id":85863323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.892209,41.655281,-0.892209,41.655281],
+  "bbox": [
+    -0.892209,
+    41.655281,
+    -0.892209,
+    41.655281
+],
   "geometry": {"coordinates":[-0.892209,41.655281],"type":"Point"}
 }

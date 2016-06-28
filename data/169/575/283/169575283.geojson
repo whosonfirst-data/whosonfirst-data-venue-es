@@ -2,13 +2,14 @@
   "id": 169575283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.189566,41.431412,2.189566,41.431412",
     "geom:latitude":41.431412,
     "geom:longitude":2.189566,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Doctor Santpon\u00c7, 2",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169575283,
-    "wof:lastmodified":1449033641,
+    "wof:lastmodified":1466245109,
     "wof:name":"Abanco Pla Angel",
     "wof:parent_id":85863995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.189566,41.431412,2.189566,41.431412],
+  "bbox": [
+    2.189566,
+    41.431412,
+    2.189566,
+    41.431412
+],
   "geometry": {"coordinates":[2.189566,41.431412],"type":"Point"}
 }

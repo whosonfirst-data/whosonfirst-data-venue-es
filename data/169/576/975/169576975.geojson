@@ -2,13 +2,14 @@
   "id": 169576975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.85571,43.362705,-5.85571,43.362705",
     "geom:latitude":43.362705,
     "geom:longitude":-5.85571,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Cervantes, 10",
     "sg:city":"Oviedo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169576975,
-    "wof:lastmodified":1449035197,
+    "wof:lastmodified":1466245220,
     "wof:name":"Abascal Donate E Izquierdo Cdad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.85571,43.362705,-5.85571,43.362705],
+  "bbox": [
+    -5.85571,
+    43.362705,
+    -5.85571,
+    43.362705
+],
   "geometry": {"coordinates":[-5.85571,43.362705],"type":"Point"}
 }

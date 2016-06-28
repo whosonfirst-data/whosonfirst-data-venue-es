@@ -2,13 +2,14 @@
   "id": 169573019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.033573,41.3484,2.033573,41.3484",
     "geom:latitude":41.3484,
     "geom:longitude":2.033573,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Rossello, 26",
     "sg:city":"S. Boi Llobregat",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169573019,
-    "wof:lastmodified":1449035114,
+    "wof:lastmodified":1466245207,
     "wof:name":"Abad Zamora Encarnacion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.033573,41.3484,2.033573,41.3484],
+  "bbox": [
+    2.033573,
+    41.3484,
+    2.033573,
+    41.3484
+],
   "geometry": {"coordinates":[2.033573,41.3484],"type":"Point"}
 }

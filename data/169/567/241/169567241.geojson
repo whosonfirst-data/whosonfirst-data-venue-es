@@ -2,13 +2,14 @@
   "id": 169567241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.068837,41.587185,-3.068837,41.587185",
     "geom:latitude":41.587185,
     "geom:longitude":-3.068837,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de General Alvarez De Castro, 1",
     "sg:city":"Burgo Osma",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169567241,
-    "wof:lastmodified":1449035998,
+    "wof:lastmodified":1466245200,
     "wof:name":"Abad Cabrerizo Francisco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.068837,41.587185,-3.068837,41.587185],
+  "bbox": [
+    -3.068837,
+    41.587185,
+    -3.068837,
+    41.587185
+],
   "geometry": {"coordinates":[-3.068837,41.587185],"type":"Point"}
 }

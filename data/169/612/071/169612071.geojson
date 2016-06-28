@@ -2,13 +2,14 @@
   "id": 169612071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.631175,41.616459,0.631175,41.616459",
     "geom:latitude":41.616459,
     "geom:longitude":0.631175,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avgd Segre, 5",
     "sg:city":"Lleida",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169612071,
-    "wof:lastmodified":1449034130,
+    "wof:lastmodified":1466245223,
     "wof:name":"Abio Gorrita Joaquin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.631175,41.616459,0.631175,41.616459],
+  "bbox": [
+    0.631175,
+    41.616459,
+    0.631175,
+    41.616459
+],
   "geometry": {"coordinates":[0.631175,41.616459],"type":"Point"}
 }

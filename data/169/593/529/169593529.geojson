@@ -2,13 +2,14 @@
   "id": 169593529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.956531,37.739002,-0.956531,37.739002",
     "geom:latitude":37.739002,
     "geom:longitude":-0.956531,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Fontes, 62",
     "sg:city":"Torre-pacheco",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169593529,
-    "wof:lastmodified":1449034877,
+    "wof:lastmodified":1466245135,
     "wof:name":"Abellan Ortiz Alberto Ramon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.956531,37.739002,-0.956531,37.739002],
+  "bbox": [
+    -0.956531,
+    37.739002,
+    -0.956531,
+    37.739002
+],
   "geometry": {"coordinates":[-0.956531,37.739002],"type":"Point"}
 }

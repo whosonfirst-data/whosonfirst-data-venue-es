@@ -2,13 +2,14 @@
   "id": 169561995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.498576,39.562313,-0.498576,39.562313",
     "geom:latitude":39.562313,
     "geom:longitude":-0.498576,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctra. Valencia-ademuz, Km. 0013,0",
     "sg:city":"S. Antonio Benageber",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169561995,
-    "wof:lastmodified":1449035021,
+    "wof:lastmodified":1466245107,
     "wof:name":"3-c Fotografia Industrial Y Publicitaria S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.498576,39.562313,-0.498576,39.562313],
+  "bbox": [
+    -0.498576,
+    39.562313,
+    -0.498576,
+    39.562313
+],
   "geometry": {"coordinates":[-0.498576,39.562313],"type":"Point"}
 }

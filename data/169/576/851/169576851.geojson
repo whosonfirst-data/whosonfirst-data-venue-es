@@ -2,13 +2,14 @@
   "id": 169576851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.470066,40.302151,-3.470066,40.302151",
     "geom:latitude":40.302151,
     "geom:longitude":-3.470066,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Aluminio, 8",
     "sg:city":"Arganda",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169576851,
-    "wof:lastmodified":1449035197,
+    "wof:lastmodified":1466245123,
     "wof:name":"Abascal Abascal Rafael",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "fundiciones"
     ]
 },
-  "bbox": [-3.470066,40.302151,-3.470066,40.302151],
+  "bbox": [
+    -3.470066,
+    40.302151,
+    -3.470066,
+    40.302151
+],
   "geometry": {"coordinates":[-3.470066,40.302151],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169657921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.3194,35.888882,-5.3194,35.888882",
     "geom:latitude":35.888882,
     "geom:longitude":-5.3194,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Gomez Marcelo, 1",
     "sg:city":"Ceuta",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169657921,
-    "wof:lastmodified":1449033051,
+    "wof:lastmodified":1466245177,
     "wof:name":"Abylatrans S. A. L.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.3194,35.888882,-5.3194,35.888882],
+  "bbox": [
+    -5.3194,
+    35.888882,
+    -5.3194,
+    35.888882
+],
   "geometry": {"coordinates":[-5.3194,35.888882],"type":"Point"}
 }

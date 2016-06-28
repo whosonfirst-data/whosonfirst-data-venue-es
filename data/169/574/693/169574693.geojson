@@ -2,13 +2,14 @@
   "id": 169574693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.603042,37.172371,-3.603042,37.172371",
     "geom:latitude":37.172371,
     "geom:longitude":-3.603042,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Solarillo De Gracia, 4",
     "sg:city":"Granada",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169574693,
-    "wof:lastmodified":1449032661,
+    "wof:lastmodified":1466245213,
     "wof:name":"Abalos Mu\u00f1oz Gema Dolores",
     "wof:parent_id":85863841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.603042,37.172371,-3.603042,37.172371],
+  "bbox": [
+    -3.603042,
+    37.172371,
+    -3.603042,
+    37.172371
+],
   "geometry": {"coordinates":[-3.603042,37.172371],"type":"Point"}
 }

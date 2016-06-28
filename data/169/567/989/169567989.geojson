@@ -2,13 +2,14 @@
   "id": 169567989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.373408,41.473804,-1.373408,41.473804",
     "geom:latitude":41.473804,
     "geom:longitude":-1.373408,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Jose Maria Contin, 33",
     "sg:city":"Almunia De Do\u00e7a Godina",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169567989,
-    "wof:lastmodified":1449035995,
+    "wof:lastmodified":1466245203,
     "wof:name":"Abad Frances Gregorio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.373408,41.473804,-1.373408,41.473804],
+  "bbox": [
+    -1.373408,
+    41.473804,
+    -1.373408,
+    41.473804
+],
   "geometry": {"coordinates":[-1.373408,41.473804],"type":"Point"}
 }

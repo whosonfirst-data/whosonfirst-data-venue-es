@@ -2,13 +2,14 @@
   "id": 169685583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.396003,38.20359,-1.396003,38.20359",
     "geom:latitude":38.20359,
     "geom:longitude":-1.396003,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Jose Echegaray, 12",
     "sg:city":"Abaran",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169685583,
-    "wof:lastmodified":1449035886,
+    "wof:lastmodified":1466245232,
     "wof:name":"Agrometodos S.a",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.396003,38.20359,-1.396003,38.20359],
+  "bbox": [
+    -1.396003,
+    38.20359,
+    -1.396003,
+    38.20359
+],
   "geometry": {"coordinates":[-1.396003,38.20359],"type":"Point"}
 }

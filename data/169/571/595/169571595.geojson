@@ -2,13 +2,14 @@
   "id": 169571595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.545939,37.386272,-6.545939,37.386272",
     "geom:latitude":37.386272,
     "geom:longitude":-6.545939,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de San Cristobal, 67",
     "sg:city":"Palma Condado",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169571595,
-    "wof:lastmodified":1449034949,
+    "wof:lastmodified":1466245105,
     "wof:name":"Abad Pinto Manuel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.545939,37.386272,-6.545939,37.386272],
+  "bbox": [
+    -6.545939,
+    37.386272,
+    -6.545939,
+    37.386272
+],
   "geometry": {"coordinates":[-6.545939,37.386272],"type":"Point"}
 }

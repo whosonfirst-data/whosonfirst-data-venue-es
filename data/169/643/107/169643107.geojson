@@ -2,13 +2,14 @@
   "id": 169643107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.287393,37.981255,-4.287393,37.981255",
     "geom:latitude":37.981255,
     "geom:longitude":-4.287393,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Caldereros, 12",
     "sg:city":"Villa Rio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169643107,
-    "wof:lastmodified":1449035521,
+    "wof:lastmodified":1466245164,
     "wof:name":"Abril Lozano Francisco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.287393,37.981255,-4.287393,37.981255],
+  "bbox": [
+    -4.287393,
+    37.981255,
+    -4.287393,
+    37.981255
+],
   "geometry": {"coordinates":[-4.287393,37.981255],"type":"Point"}
 }

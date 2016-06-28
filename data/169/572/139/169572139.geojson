@@ -2,13 +2,14 @@
   "id": 169572139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.892583,41.643635,-0.892583,41.643635",
     "geom:latitude":41.643635,
     "geom:longitude":-0.892583,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Pase Fernando El Catolico, 6",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169572139,
-    "wof:lastmodified":1449034703,
+    "wof:lastmodified":1466245207,
     "wof:name":"Abad Sanz Victor",
     "wof:parent_id":85863341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.892583,41.643635,-0.892583,41.643635],
+  "bbox": [
+    -0.892583,
+    41.643635,
+    -0.892583,
+    41.643635
+],
   "geometry": {"coordinates":[-0.892583,41.643635],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169573573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.181228,38.965294,-0.181228,38.965294",
     "geom:latitude":38.965294,
     "geom:longitude":-0.181228,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carr Major, 66",
     "sg:city":"Gandia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169573573,
-    "wof:lastmodified":1449035116,
+    "wof:lastmodified":1466245211,
     "wof:name":"Abajo Sanz Ana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.181228,38.965294,-0.181228,38.965294],
+  "bbox": [
+    -0.181228,
+    38.965294,
+    -0.181228,
+    38.965294
+],
   "geometry": {"coordinates":[-0.181228,38.965294],"type":"Point"}
 }

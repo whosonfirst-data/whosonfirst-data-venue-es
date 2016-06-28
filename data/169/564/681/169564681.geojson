@@ -2,13 +2,14 @@
   "id": 169564681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.755255,40.405262,-3.755255,40.405262",
     "geom:latitude":40.405262,
     "geom:longitude":-3.755255,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Villagarcia, 17",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169564681,
-    "wof:lastmodified":1449035764,
+    "wof:lastmodified":1466245189,
     "wof:name":"A.a. Cartografos",
     "wof:parent_id":85863769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.755255,40.405262,-3.755255,40.405262],
+  "bbox": [
+    -3.755255,
+    40.405262,
+    -3.755255,
+    40.405262
+],
   "geometry": {"coordinates":[-3.755255,40.405262],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169577389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.88684,41.646427,-0.88684,41.646427",
     "geom:latitude":41.646427,
     "geom:longitude":-0.88684,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Gran Via, 9",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169577389,
-    "wof:lastmodified":1449036067,
+    "wof:lastmodified":1466245114,
     "wof:name":"Abascal Ruiz Juan Antonio",
     "wof:parent_id":85863361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.88684,41.646427,-0.88684,41.646427],
+  "bbox": [
+    -0.88684,
+    41.646427,
+    -0.88684,
+    41.646427
+],
   "geometry": {"coordinates":[-0.88684,41.646427],"type":"Point"}
 }

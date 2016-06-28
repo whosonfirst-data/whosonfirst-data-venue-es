@@ -2,13 +2,14 @@
   "id": 169580971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.107726,41.156212,1.107726,41.156212",
     "geom:latitude":41.156212,
     "geom:longitude":1.107726,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Aveni Saint George, 1719",
     "sg:city":"Reus",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169580971,
-    "wof:lastmodified":1449034914,
+    "wof:lastmodified":1466245136,
     "wof:name":"Abdel Rahman Othman Othman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.107726,41.156212,1.107726,41.156212],
+  "bbox": [
+    1.107726,
+    41.156212,
+    1.107726,
+    41.156212
+],
   "geometry": {"coordinates":[1.107726,41.156212],"type":"Point"}
 }

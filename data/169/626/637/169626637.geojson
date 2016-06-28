@@ -2,13 +2,14 @@
   "id": 169626637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.389003,39.423077,-0.389003,39.423077",
     "geom:latitude":39.423077,
     "geom:longitude":-0.389003,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Albufera, 6",
     "sg:city":"Alfafar",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169626637,
-    "wof:lastmodified":1449035968,
+    "wof:lastmodified":1466245159,
     "wof:name":"Abouchita  Abdelaziz",
     "wof:parent_id":85864197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.389003,39.423077,-0.389003,39.423077],
+  "bbox": [
+    -0.389003,
+    39.423077,
+    -0.389003,
+    39.423077
+],
   "geometry": {"coordinates":[-0.389003,39.423077],"type":"Point"}
 }

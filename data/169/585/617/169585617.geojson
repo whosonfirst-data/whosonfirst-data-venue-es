@@ -2,13 +2,14 @@
   "id": 169585617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-8.872511,42.695801,-8.872511,42.695801",
     "geom:latitude":42.695801,
     "geom:longitude":-8.872511,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Vieite De Abaixo(ferreira), 1",
     "sg:city":"Vieite De Abaixo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169585617,
-    "wof:lastmodified":1449034883,
+    "wof:lastmodified":1466245221,
     "wof:name":"Abelenda Lema Emilio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-8.872511,42.695801,-8.872511,42.695801],
+  "bbox": [
+    -8.872511,
+    42.695801,
+    -8.872511,
+    42.695801
+],
   "geometry": {"coordinates":[-8.872511,42.695801],"type":"Point"}
 }

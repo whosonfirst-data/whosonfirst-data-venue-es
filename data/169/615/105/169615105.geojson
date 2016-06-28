@@ -2,13 +2,14 @@
   "id": 169615105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.655941,43.534927,-5.655941,43.534927",
     "geom:latitude":43.534927,
     "geom:longitude":-5.655941,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Campo Sagrado, 37",
     "sg:city":"Gijon",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169615105,
-    "wof:lastmodified":1449033732,
+    "wof:lastmodified":1466245148,
     "wof:name":"Ablanedo Uria Jose Manuel",
     "wof:parent_id":85799415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.655941,43.534927,-5.655941,43.534927],
+  "bbox": [
+    -5.655941,
+    43.534927,
+    -5.655941,
+    43.534927
+],
   "geometry": {"coordinates":[-5.655941,43.534927],"type":"Point"}
 }

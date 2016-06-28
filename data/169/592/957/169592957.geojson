@@ -2,13 +2,14 @@
   "id": 169592957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.2034,39.567093,-1.2034,39.567093",
     "geom:latitude":39.567093,
     "geom:longitude":-1.2034,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Canonigo Mu\u00d1oz, 27",
     "sg:city":"Utiel",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169592957,
-    "wof:lastmodified":1449034584,
+    "wof:lastmodified":1466245140,
     "wof:name":"Abellan Monsalve Lucio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.2034,39.567093,-1.2034,39.567093],
+  "bbox": [
+    -1.2034,
+    39.567093,
+    -1.2034,
+    39.567093
+],
   "geometry": {"coordinates":[-1.2034,39.567093],"type":"Point"}
 }

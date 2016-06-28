@@ -2,13 +2,14 @@
   "id": 169582505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.756632,41.638157,-4.756632,41.638157",
     "geom:latitude":41.638157,
     "geom:longitude":-4.756632,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Hernando De Acu\u00d1a, 8",
     "sg:city":"Valladolid",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169582505,
-    "wof:lastmodified":1449034466,
+    "wof:lastmodified":1466245123,
     "wof:name":"Abdul Rahim Muwannas Mohammed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.756632,41.638157,-4.756632,41.638157],
+  "bbox": [
+    -4.756632,
+    41.638157,
+    -4.756632,
+    41.638157
+],
   "geometry": {"coordinates":[-4.756632,41.638157],"type":"Point"}
 }

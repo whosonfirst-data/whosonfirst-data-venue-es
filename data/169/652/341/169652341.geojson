@@ -2,13 +2,14 @@
   "id": 169652341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.365157,38.939426,-6.365157,38.939426",
     "geom:latitude":38.939426,
     "geom:longitude":-6.365157,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Urb El Prado, 6",
     "sg:city":"Merida",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169652341,
-    "wof:lastmodified":1449034810,
+    "wof:lastmodified":1466245171,
     "wof:name":"Abs Tecnologias Del Agua S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.365157,38.939426,-6.365157,38.939426],
+  "bbox": [
+    -6.365157,
+    38.939426,
+    -6.365157,
+    38.939426
+],
   "geometry": {"coordinates":[-6.365157,38.939426],"type":"Point"}
 }

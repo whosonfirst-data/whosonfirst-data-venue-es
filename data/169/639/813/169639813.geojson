@@ -2,13 +2,14 @@
   "id": 169639813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.691663,38.23016,-1.691663,38.23016",
     "geom:latitude":38.23016,
     "geom:longitude":-1.691663,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ca\u00f1ada Castillo, 20",
     "sg:city":"Calasparra",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169639813,
-    "wof:lastmodified":1449035950,
+    "wof:lastmodified":1466245168,
     "wof:name":"Abril Bermudez Jose",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.691663,38.23016,-1.691663,38.23016],
+  "bbox": [
+    -1.691663,
+    38.23016,
+    -1.691663,
+    38.23016
+],
   "geometry": {"coordinates":[-1.691663,38.23016],"type":"Point"}
 }

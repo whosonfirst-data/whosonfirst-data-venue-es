@@ -2,13 +2,14 @@
   "id": 169585241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-8.409961,43.365108,-8.409961,43.365108",
     "geom:latitude":43.365108,
     "geom:longitude":-8.409961,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Magistrado Manuel Artime, S/n",
     "sg:city":"Coru\u00d1a",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169585241,
-    "wof:lastmodified":1449034886,
+    "wof:lastmodified":1466245220,
     "wof:name":"Abeleira Ma\u00f1ana Jose",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-8.409961,43.365108,-8.409961,43.365108],
+  "bbox": [
+    -8.409961,
+    43.365108,
+    -8.409961,
+    43.365108
+],
   "geometry": {"coordinates":[-8.409961,43.365108],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169579199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.98896,37.387554,-5.98896,37.387554",
     "geom:latitude":37.387554,
     "geom:longitude":-5.98896,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Madre De Dios, 8",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169579199,
-    "wof:lastmodified":1449033738,
+    "wof:lastmodified":1466245117,
     "wof:name":"Abbantum S.l.",
     "wof:parent_id":85864169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.98896,37.387554,-5.98896,37.387554],
+  "bbox": [
+    -5.98896,
+    37.387554,
+    -5.98896,
+    37.387554
+],
   "geometry": {"coordinates":[-5.98896,37.387554],"type":"Point"}
 }

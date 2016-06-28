@@ -2,13 +2,14 @@
   "id": 169574503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.643847,40.478077,-3.643847,40.478077",
     "geom:latitude":40.478077,
     "geom:longitude":-3.643847,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Santa Virgilia, 5",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169574503,
-    "wof:lastmodified":1449032667,
+    "wof:lastmodified":1466245212,
     "wof:name":"Abalos Culebras Luis",
     "wof:parent_id":85863583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.643847,40.478077,-3.643847,40.478077],
+  "bbox": [
+    -3.643847,
+    40.478077,
+    -3.643847,
+    40.478077
+],
   "geometry": {"coordinates":[-3.643847,40.478077],"type":"Point"}
 }

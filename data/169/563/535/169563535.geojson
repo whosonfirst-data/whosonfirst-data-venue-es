@@ -2,13 +2,14 @@
   "id": 169563535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.919566,41.646404,-0.919566,41.646404",
     "geom:latitude":41.646404,
     "geom:longitude":-0.919566,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Oceano Atlantico, 1",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169563535,
-    "wof:lastmodified":1449032732,
+    "wof:lastmodified":1466245117,
     "wof:name":"7 Alimentacion S.a.",
     "wof:parent_id":85863433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.919566,41.646404,-0.919566,41.646404],
+  "bbox": [
+    -0.919566,
+    41.646404,
+    -0.919566,
+    41.646404
+],
   "geometry": {"coordinates":[-0.919566,41.646404],"type":"Point"}
 }

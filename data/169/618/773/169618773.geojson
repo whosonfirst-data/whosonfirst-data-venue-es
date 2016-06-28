@@ -2,13 +2,14 @@
   "id": 169618773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.422812,36.715839,-4.422812,36.715839",
     "geom:latitude":36.715839,
     "geom:longitude":-4.422812,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Barroso, 6",
     "sg:city":"Malaga",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169618773,
-    "wof:lastmodified":1449034736,
+    "wof:lastmodified":1466245154,
     "wof:name":"Abogados Financieros Y Tributarios S.a.",
     "wof:parent_id":85863491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.422812,36.715839,-4.422812,36.715839],
+  "bbox": [
+    -4.422812,
+    36.715839,
+    -4.422812,
+    36.715839
+],
   "geometry": {"coordinates":[-4.422812,36.715839],"type":"Point"}
 }

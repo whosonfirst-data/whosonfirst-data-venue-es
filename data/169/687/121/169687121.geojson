@@ -2,13 +2,14 @@
   "id": 169687121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.681209,41.79969,-4.681209,41.79969",
     "geom:latitude":41.79969,
     "geom:longitude":-4.681209,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Luga Barranca, S/n",
     "sg:city":"Corcos",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169687121,
-    "wof:lastmodified":1449033609,
+    "wof:lastmodified":1466245227,
     "wof:name":"Agropecuaria De La Barranca S. A.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.681209,41.79969,-4.681209,41.79969],
+  "bbox": [
+    -4.681209,
+    41.79969,
+    -4.681209,
+    41.79969
+],
   "geometry": {"coordinates":[-4.681209,41.79969],"type":"Point"}
 }

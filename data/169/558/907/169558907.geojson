@@ -2,13 +2,14 @@
   "id": 169558907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.901517,41.255535,1.901517,41.255535",
     "geom:latitude":41.255535,
     "geom:longitude":1.901517,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Castellot, 14",
     "sg:city":"Garraf",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169558907,
-    "wof:lastmodified":1449033581,
+    "wof:lastmodified":1466245092,
     "wof:name":"123 Atria S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.901517,41.255535,1.901517,41.255535],
+  "bbox": [
+    1.901517,
+    41.255535,
+    1.901517,
+    41.255535
+],
   "geometry": {"coordinates":[1.901517,41.255535],"type":"Point"}
 }

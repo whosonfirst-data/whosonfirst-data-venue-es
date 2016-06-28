@@ -2,13 +2,14 @@
   "id": 169645269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.049191,43.351654,-4.049191,43.351654",
     "geom:latitude":43.351654,
     "geom:longitude":-4.049191,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Jose Maria Pereda, 45",
     "sg:city":"Torrelavega",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169645269,
-    "wof:lastmodified":1449033004,
+    "wof:lastmodified":1466245166,
     "wof:name":"Abril Tosantos Bego\u00f1a",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.049191,43.351654,-4.049191,43.351654],
+  "bbox": [
+    -4.049191,
+    43.351654,
+    -4.049191,
+    43.351654
+],
   "geometry": {"coordinates":[-4.049191,43.351654],"type":"Point"}
 }

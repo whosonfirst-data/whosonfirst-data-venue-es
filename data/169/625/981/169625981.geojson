@@ -2,13 +2,14 @@
   "id": 169625981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.126729,41.402851,2.126729,41.402851",
     "geom:latitude":41.402851,
     "geom:longitude":2.126729,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Pg Bonanova, 69",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169625981,
-    "wof:lastmodified":1449036026,
+    "wof:lastmodified":1466245163,
     "wof:name":"Abos Fanlo Pascual",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.126729,41.402851,2.126729,41.402851],
+  "bbox": [
+    2.126729,
+    41.402851,
+    2.126729,
+    41.402851
+],
   "geometry": {"coordinates":[2.126729,41.402851],"type":"Point"}
 }

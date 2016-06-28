@@ -2,13 +2,14 @@
   "id": 169625805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.499787,39.696301,-3.499787,39.696301",
     "geom:latitude":39.696301,
     "geom:longitude":-3.499787,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctra. Andalucia, Km. 0098,5",
     "sg:city":"Tembleque",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169625805,
-    "wof:lastmodified":1449036023,
+    "wof:lastmodified":1466245162,
     "wof:name":"Aborga Gestion S.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.499787,39.696301,-3.499787,39.696301],
+  "bbox": [
+    -3.499787,
+    39.696301,
+    -3.499787,
+    39.696301
+],
   "geometry": {"coordinates":[-3.499787,39.696301],"type":"Point"}
 }

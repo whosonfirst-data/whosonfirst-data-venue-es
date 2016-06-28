@@ -2,13 +2,14 @@
   "id": 169578833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.780339,37.885891,-4.780339,37.885891",
     "geom:latitude":37.885891,
     "geom:longitude":-4.780339,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Jose Cruz Conde, 9",
     "sg:city":"Cordoba",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169578833,
-    "wof:lastmodified":1449033519,
+    "wof:lastmodified":1466245129,
     "wof:name":"Abaurre Albelda Joaquin",
     "wof:parent_id":85863895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.780339,37.885891,-4.780339,37.885891],
+  "bbox": [
+    -4.780339,
+    37.885891,
+    -4.780339,
+    37.885891
+],
   "geometry": {"coordinates":[-4.780339,37.885891],"type":"Point"}
 }

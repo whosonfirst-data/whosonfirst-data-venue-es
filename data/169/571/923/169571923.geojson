@@ -2,13 +2,14 @@
   "id": 169571923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.663498,40.447952,-3.663498,40.447952",
     "geom:latitude":40.447952,
     "geom:longitude":-3.663498,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Martin Machio, 10",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169571923,
-    "wof:lastmodified":1449034948,
+    "wof:lastmodified":1466245214,
     "wof:name":"Abad Roson Gregorio",
     "wof:parent_id":85799435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.663498,40.447952,-3.663498,40.447952],
+  "bbox": [
+    -3.663498,
+    40.447952,
+    -3.663498,
+    40.447952
+],
   "geometry": {"coordinates":[-3.663498,40.447952],"type":"Point"}
 }

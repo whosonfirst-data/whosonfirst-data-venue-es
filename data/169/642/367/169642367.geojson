@@ -2,13 +2,14 @@
   "id": 169642367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.180047,41.396633,2.180047,41.396633",
     "geom:latitude":41.396633,
     "geom:longitude":2.180047,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Sicilia, 188",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169642367,
-    "wof:lastmodified":1449032878,
+    "wof:lastmodified":1466245166,
     "wof:name":"Abril Iglesias Cayetano",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.180047,41.396633,2.180047,41.396633],
+  "bbox": [
+    2.180047,
+    41.396633,
+    2.180047,
+    41.396633
+],
   "geometry": {"coordinates":[2.180047,41.396633],"type":"Point"}
 }

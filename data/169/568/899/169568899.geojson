@@ -2,13 +2,14 @@
   "id": 169568899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-7.361765,43.660164,-7.361765,43.660164",
     "geom:latitude":43.660164,
     "geom:longitude":-7.361765,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Arcadio Pardi\u00d1as, 81",
     "sg:city":"Burela",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169568899,
-    "wof:lastmodified":1449032613,
+    "wof:lastmodified":1466245205,
     "wof:name":"Abadi Abadi Assad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-7.361765,43.660164,-7.361765,43.660164],
+  "bbox": [
+    -7.361765,
+    43.660164,
+    -7.361765,
+    43.660164
+],
   "geometry": {"coordinates":[-7.361765,43.660164],"type":"Point"}
 }

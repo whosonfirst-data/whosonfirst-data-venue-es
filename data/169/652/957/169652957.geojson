@@ -2,13 +2,14 @@
   "id": 169652957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.12581,41.484291,2.12581,41.484291",
     "geom:latitude":41.484291,
     "geom:longitude":2.12581,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Rond Can Fatjo, 19",
     "sg:city":"Cerdanyola Valles",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169652957,
-    "wof:lastmodified":1449034810,
+    "wof:lastmodified":1466245177,
     "wof:name":"Abt Ingenieria Y Consultoria Medioambiental S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.12581,41.484291,2.12581,41.484291],
+  "bbox": [
+    2.12581,
+    41.484291,
+    2.12581,
+    41.484291
+],
   "geometry": {"coordinates":[2.12581,41.484291],"type":"Point"}
 }

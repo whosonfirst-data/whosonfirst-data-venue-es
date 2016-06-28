@@ -2,13 +2,14 @@
   "id": 169580981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.231362,39.624668,-1.231362,39.624668",
     "geom:latitude":39.624668,
     "geom:longitude":-1.231362,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Cesareo Marco Yague, 20",
     "sg:city":"Utiel",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169580981,
-    "wof:lastmodified":1449034917,
+    "wof:lastmodified":1466245137,
     "wof:name":"Abdelrahman Musa Mazuz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.231362,39.624668,-1.231362,39.624668],
+  "bbox": [
+    -1.231362,
+    39.624668,
+    -1.231362,
+    39.624668
+],
   "geometry": {"coordinates":[-1.231362,39.624668],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169579115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.961209,43.276867,-2.961209,43.276867",
     "geom:latitude":43.276867,
     "geom:longitude":-2.961209,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Navarro Villoslada, 2",
     "sg:city":"Bilbao",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169579115,
-    "wof:lastmodified":1449033738,
+    "wof:lastmodified":1466245114,
     "wof:name":"Abbai  Javier Ugalde  Asteinza",
     "wof:parent_id":85863941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.961209,43.276867,-2.961209,43.276867],
+  "bbox": [
+    -2.961209,
+    43.276867,
+    -2.961209,
+    43.276867
+],
   "geometry": {"coordinates":[-2.961209,43.276867],"type":"Point"}
 }

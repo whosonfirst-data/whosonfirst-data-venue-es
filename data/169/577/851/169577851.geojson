@@ -2,13 +2,14 @@
   "id": 169577851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.721977,43.419521,-2.721977,43.419521",
     "geom:latitude":43.419521,
     "geom:longitude":-2.721977,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Lope Diaz De Haro, 9",
     "sg:city":"Bermeo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169577851,
-    "wof:lastmodified":1449036066,
+    "wof:lastmodified":1466245125,
     "wof:name":"Abasolo Bilbao Jose Manuel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.721977,43.419521,-2.721977,43.419521],
+  "bbox": [
+    -2.721977,
+    43.419521,
+    -2.721977,
+    43.419521
+],
   "geometry": {"coordinates":[-2.721977,43.419521],"type":"Point"}
 }

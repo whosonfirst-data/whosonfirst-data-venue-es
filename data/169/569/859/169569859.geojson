@@ -2,13 +2,14 @@
   "id": 169569859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.085649,41.144375,1.085649,41.144375",
     "geom:latitude":41.144375,
     "geom:longitude":1.085649,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctra Vinyols, Km. 0005,3",
     "sg:city":"Riudoms",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169569859,
-    "wof:lastmodified":1449035831,
+    "wof:lastmodified":1466245209,
     "wof:name":"Abadias Sierra Jose Luis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.085649,41.144375,1.085649,41.144375],
+  "bbox": [
+    1.085649,
+    41.144375,
+    1.085649,
+    41.144375
+],
   "geometry": {"coordinates":[1.085649,41.144375],"type":"Point"}
 }

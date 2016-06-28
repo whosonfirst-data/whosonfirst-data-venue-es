@@ -2,13 +2,14 @@
   "id": 169589495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.112708,38.613758,-1.112708,38.613758",
     "geom:latitude":38.613758,
     "geom:longitude":-1.112708,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Historiador Miguel Ortu\u00d1o, 42",
     "sg:city":"Yecla",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169589495,
-    "wof:lastmodified":1449034448,
+    "wof:lastmodified":1466245135,
     "wof:name":"Abellan Castillo Maria Carmen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.112708,38.613758,-1.112708,38.613758],
+  "bbox": [
+    -1.112708,
+    38.613758,
+    -1.112708,
+    38.613758
+],
   "geometry": {"coordinates":[-1.112708,38.613758],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169561743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.08329,40.033421,-6.08329,40.033421",
     "geom:latitude":40.033421,
     "geom:longitude":-6.08329,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de San Calixto, 8",
     "sg:city":"Plasencia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169561743,
-    "wof:lastmodified":1449035020,
+    "wof:lastmodified":1466245103,
     "wof:name":"3ai+.d+.g A.i.e.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.08329,40.033421,-6.08329,40.033421],
+  "bbox": [
+    -6.08329,
+    40.033421,
+    -6.08329,
+    40.033421
+],
   "geometry": {"coordinates":[-6.08329,40.033421],"type":"Point"}
 }

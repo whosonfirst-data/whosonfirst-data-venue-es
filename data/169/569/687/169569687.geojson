@@ -2,13 +2,14 @@
   "id": 169569687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.43648,41.729885,0.43648,41.729885",
     "geom:latitude":41.729885,
     "geom:longitude":0.43648,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carr Maragall, 24",
     "sg:city":"Almacelles",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169569687,
-    "wof:lastmodified":1449035830,
+    "wof:lastmodified":1466245208,
     "wof:name":"Abadias Aran Antonia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.43648,41.729885,0.43648,41.729885],
+  "bbox": [
+    0.43648,
+    41.729885,
+    0.43648,
+    41.729885
+],
   "geometry": {"coordinates":[0.43648,41.729885],"type":"Point"}
 }

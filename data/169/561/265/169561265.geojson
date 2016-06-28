@@ -2,13 +2,14 @@
   "id": 169561265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.845781,38.984528,-1.845781,38.984528",
     "geom:latitude":38.984528,
     "geom:longitude":-1.845781,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Almansa, 13",
     "sg:city":"Albacete",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169561265,
-    "wof:lastmodified":1449035018,
+    "wof:lastmodified":1466245099,
     "wof:name":"2mil Sofas Seleccion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.845781,38.984528,-1.845781,38.984528],
+  "bbox": [
+    -1.845781,
+    38.984528,
+    -1.845781,
+    38.984528
+],
   "geometry": {"coordinates":[-1.845781,38.984528],"type":"Point"}
 }

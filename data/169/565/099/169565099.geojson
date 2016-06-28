@@ -2,13 +2,14 @@
   "id": 169565099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.175982,41.403316,2.175982,41.403316",
     "geom:latitude":41.403316,
     "geom:longitude":2.175982,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Marina, 258",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169565099,
-    "wof:lastmodified":1449035664,
+    "wof:lastmodified":1466245191,
     "wof:name":"Aamirmi  Mohamed",
     "wof:parent_id":85864013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.175982,41.403316,2.175982,41.403316],
+  "bbox": [
+    2.175982,
+    41.403316,
+    2.175982,
+    41.403316
+],
   "geometry": {"coordinates":[2.175982,41.403316],"type":"Point"}
 }

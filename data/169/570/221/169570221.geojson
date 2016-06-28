@@ -2,13 +2,14 @@
   "id": 169570221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.886334,40.839672,-1.886334,40.839672",
     "geom:latitude":40.839672,
     "geom:longitude":-1.886334,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Chorro, 10",
     "sg:city":"Molina",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169570221,
-    "wof:lastmodified":1449034646,
+    "wof:lastmodified":1466245207,
     "wof:name":"Abad Larriba Ana Maria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.886334,40.839672,-1.886334,40.839672],
+  "bbox": [
+    -1.886334,
+    40.839672,
+    -1.886334,
+    40.839672
+],
   "geometry": {"coordinates":[-1.886334,40.839672],"type":"Point"}
 }

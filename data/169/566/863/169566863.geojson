@@ -2,13 +2,14 @@
   "id": 169566863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.390194,41.506046,2.390194,41.506046",
     "geom:latitude":41.506046,
     "geom:longitude":2.390194,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Narcis Monturiol (de), 60",
     "sg:city":"Vilassar De Mar",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169566863,
-    "wof:lastmodified":1449032754,
+    "wof:lastmodified":1466245198,
     "wof:name":"Abadal Martin Jose",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.390194,41.506046,2.390194,41.506046],
+  "bbox": [
+    2.390194,
+    41.506046,
+    2.390194,
+    41.506046
+],
   "geometry": {"coordinates":[2.390194,41.506046],"type":"Point"}
 }

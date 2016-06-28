@@ -2,13 +2,14 @@
   "id": 169564539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-16.728985,28.069725,-16.728985,28.069725",
     "geom:latitude":28.069725,
     "geom:longitude":-16.728985,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Venezuela, 14",
     "sg:city":"Playa Americas",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169564539,
-    "wof:lastmodified":1449035765,
+    "wof:lastmodified":1466245188,
     "wof:name":"A-5 Sociedad Cooperativa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-16.728985,28.069725,-16.728985,28.069725],
+  "bbox": [
+    -16.728985,
+    28.069725,
+    -16.728985,
+    28.069725
+],
   "geometry": {"coordinates":[-16.728985,28.069725],"type":"Point"}
 }

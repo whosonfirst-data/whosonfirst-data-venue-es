@@ -2,13 +2,14 @@
   "id": 169572169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.645647,39.571888,2.645647,39.571888",
     "geom:latitude":39.571888,
     "geom:longitude":2.645647,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Av Jaume Iii, 8",
     "sg:city":"Palma",
     "sg:classifiers":[],
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169572169,
-    "wof:lastmodified":1449034706,
+    "wof:lastmodified":1466245207,
     "wof:name":"Abadsa S.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.645647,39.571888,2.645647,39.571888],
+  "bbox": [
+    2.645647,
+    39.571888,
+    2.645647,
+    39.571888
+],
   "geometry": {"coordinates":[2.645647,39.571888],"type":"Point"}
 }

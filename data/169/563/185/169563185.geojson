@@ -2,13 +2,14 @@
   "id": 169563185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.664557,42.816425,-1.664557,42.816425",
     "geom:latitude":42.816425,
     "geom:longitude":-1.664557,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Monasterio Fitero, 18",
     "sg:city":"Iru\u00f1a",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169563185,
-    "wof:lastmodified":1449032732,
+    "wof:lastmodified":1466245113,
     "wof:name":"601 Producciones Audiovisuales Sociedad Limitada",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.664557,42.816425,-1.664557,42.816425],
+  "bbox": [
+    -1.664557,
+    42.816425,
+    -1.664557,
+    42.816425
+],
   "geometry": {"coordinates":[-1.664557,42.816425],"type":"Point"}
 }

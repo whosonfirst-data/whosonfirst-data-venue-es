@@ -2,13 +2,14 @@
   "id": 169561537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.009455,41.571545,2.009455,41.571545",
     "geom:latitude":41.571545,
     "geom:longitude":2.009455,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctra Rellinars, 30",
     "sg:city":"Terrassa",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169561537,
-    "wof:lastmodified":1449035019,
+    "wof:lastmodified":1466245101,
     "wof:name":"30 Terrassa (08225",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.009455,41.571545,2.009455,41.571545],
+  "bbox": [
+    2.009455,
+    41.571545,
+    2.009455,
+    41.571545
+],
   "geometry": {"coordinates":[2.009455,41.571545],"type":"Point"}
 }

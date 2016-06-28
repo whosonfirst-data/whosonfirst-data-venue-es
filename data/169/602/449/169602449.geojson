@@ -2,13 +2,14 @@
   "id": 169602449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.721068,40.465801,-3.721068,40.465801",
     "geom:latitude":40.465801,
     "geom:longitude":-3.721068,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de San Gerardo, 8",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169602449,
-    "wof:lastmodified":1449034230,
+    "wof:lastmodified":1466245144,
     "wof:name":"Abenojar Ruiz Julio",
     "wof:parent_id":85799627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.721068,40.465801,-3.721068,40.465801],
+  "bbox": [
+    -3.721068,
+    40.465801,
+    -3.721068,
+    40.465801
+],
   "geometry": {"coordinates":[-3.721068,40.465801],"type":"Point"}
 }

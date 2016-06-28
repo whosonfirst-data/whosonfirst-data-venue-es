@@ -2,13 +2,14 @@
   "id": 169577265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.743484,43.342033,-3.743484,43.342033",
     "geom:latitude":43.342033,
     "geom:longitude":-3.743484,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Camilo Alonso Vega, 41",
     "sg:city":"Lierganes",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169577265,
-    "wof:lastmodified":1449036065,
+    "wof:lastmodified":1466245113,
     "wof:name":"Abascal Lavin Estrella",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.743484,43.342033,-3.743484,43.342033],
+  "bbox": [
+    -3.743484,
+    43.342033,
+    -3.743484,
+    43.342033
+],
   "geometry": {"coordinates":[-3.743484,43.342033],"type":"Point"}
 }

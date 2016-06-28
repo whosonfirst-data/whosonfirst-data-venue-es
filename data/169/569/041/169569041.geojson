@@ -2,13 +2,14 @@
   "id": 169569041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.190196,41.917591,0.190196,41.917591",
     "geom:latitude":41.917591,
     "geom:longitude":0.190196,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Fonz, 27",
     "sg:city":"Monzon",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169569041,
-    "wof:lastmodified":1449035830,
+    "wof:lastmodified":1466245205,
     "wof:name":"Abadia E Hijos S.c",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.190196,41.917591,0.190196,41.917591],
+  "bbox": [
+    0.190196,
+    41.917591,
+    0.190196,
+    41.917591
+],
   "geometry": {"coordinates":[0.190196,41.917591],"type":"Point"}
 }

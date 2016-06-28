@@ -2,13 +2,14 @@
   "id": 169573513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.699718,40.333858,-3.699718,40.333858",
     "geom:latitude":40.333858,
     "geom:longitude":-3.699718,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Principal, 13",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169573513,
-    "wof:lastmodified":1449035116,
+    "wof:lastmodified":1466245211,
     "wof:name":"Abajo Segarra Gerardo",
     "wof:parent_id":85799667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.699718,40.333858,-3.699718,40.333858],
+  "bbox": [
+    -3.699718,
+    40.333858,
+    -3.699718,
+    40.333858
+],
   "geometry": {"coordinates":[-3.699718,40.333858],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169619649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.881286,41.654526,-0.881286,41.654526",
     "geom:latitude":41.654526,
     "geom:longitude":-0.881286,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Torre Nueva, 33",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169619649,
-    "wof:lastmodified":1449033282,
+    "wof:lastmodified":1466245155,
     "wof:name":"Abogados Torrenueva S.c.",
     "wof:parent_id":85863325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.881286,41.654526,-0.881286,41.654526],
+  "bbox": [
+    -0.881286,
+    41.654526,
+    -0.881286,
+    41.654526
+],
   "geometry": {"coordinates":[-0.881286,41.654526],"type":"Point"}
 }

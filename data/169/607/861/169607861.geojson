@@ -2,13 +2,14 @@
   "id": 169607861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.895373,41.647606,-0.895373,41.647606",
     "geom:latitude":41.647606,
     "geom:longitude":-0.895373,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Burgos, 12",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169607861,
-    "wof:lastmodified":1449033125,
+    "wof:lastmodified":1466245149,
     "wof:name":"Abian Se\u00f1alada Placido",
     "wof:parent_id":85863341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.895373,41.647606,-0.895373,41.647606],
+  "bbox": [
+    -0.895373,
+    41.647606,
+    -0.895373,
+    41.647606
+],
   "geometry": {"coordinates":[-0.895373,41.647606],"type":"Point"}
 }

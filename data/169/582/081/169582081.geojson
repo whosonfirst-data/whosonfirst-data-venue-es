@@ -2,13 +2,14 @@
   "id": 169582081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.101727,38.607792,-1.101727,38.607792",
     "geom:latitude":38.607792,
     "geom:longitude":-1.101727,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Pinoso, Km. 0001,0",
     "sg:city":"Yecla",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169582081,
-    "wof:lastmodified":1449034465,
+    "wof:lastmodified":1466245118,
     "wof:name":"Abdon Y Lucas S. L.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.101727,38.607792,-1.101727,38.607792],
+  "bbox": [
+    -1.101727,
+    38.607792,
+    -1.101727,
+    38.607792
+],
   "geometry": {"coordinates":[-1.101727,38.607792],"type":"Point"}
 }

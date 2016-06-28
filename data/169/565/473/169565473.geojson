@@ -2,13 +2,14 @@
   "id": 169565473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.93866,35.292679,-2.93866,35.292679",
     "geom:latitude":35.292679,
     "geom:longitude":-2.93866,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Juan Carlos I, Rey, 2",
     "sg:city":"Melilla",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169565473,
-    "wof:lastmodified":1449035664,
+    "wof:lastmodified":1466245193,
     "wof:name":"A.auditest Sur S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.93866,35.292679,-2.93866,35.292679],
+  "bbox": [
+    -2.93866,
+    35.292679,
+    -2.93866,
+    35.292679
+],
   "geometry": {"coordinates":[-2.93866,35.292679],"type":"Point"}
 }

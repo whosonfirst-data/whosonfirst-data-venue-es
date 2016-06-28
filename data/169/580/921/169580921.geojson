@@ -2,13 +2,14 @@
   "id": 169580921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-15.72217,27.796947,-15.72217,27.796947",
     "geom:latitude":27.796947,
     "geom:longitude":-15.72217,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Pl Amadores, S/n",
     "sg:city":"Puerto Rico",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169580921,
-    "wof:lastmodified":1449034914,
+    "wof:lastmodified":1466245135,
     "wof:name":"Abdel Nour El Ber Elias",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-15.72217,27.796947,-15.72217,27.796947],
+  "bbox": [
+    -15.72217,
+    27.796947,
+    -15.72217,
+    27.796947
+],
   "geometry": {"coordinates":[-15.72217,27.796947],"type":"Point"}
 }

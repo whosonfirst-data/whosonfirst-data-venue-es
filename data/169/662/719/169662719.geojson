@@ -2,13 +2,14 @@
   "id": 169662719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-15.441852,27.84984,-15.441852,27.84984",
     "geom:latitude":27.84984,
     "geom:longitude":-15.441852,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Canarias, 235",
     "sg:city":"Vecindario",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169662719,
-    "wof:lastmodified":1449034919,
+    "wof:lastmodified":1466245179,
     "wof:name":"Acabani Melhem Souleiman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-15.441852,27.84984,-15.441852,27.84984],
+  "bbox": [
+    -15.441852,
+    27.84984,
+    -15.441852,
+    27.84984
+],
   "geometry": {"coordinates":[-15.441852,27.84984],"type":"Point"}
 }

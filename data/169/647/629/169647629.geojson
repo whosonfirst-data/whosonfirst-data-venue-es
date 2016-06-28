@@ -2,13 +2,14 @@
   "id": 169647629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.514495,36.747051,-3.514495,36.747051",
     "geom:latitude":36.747051,
     "geom:longitude":-3.514495,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Deposito, 3",
     "sg:city":"Motril",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169647629,
-    "wof:lastmodified":1449034241,
+    "wof:lastmodified":1466245171,
     "wof:name":"Abruza  Osvaldo Jose",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.514495,36.747051,-3.514495,36.747051],
+  "bbox": [
+    -3.514495,
+    36.747051,
+    -3.514495,
+    36.747051
+],
   "geometry": {"coordinates":[-3.514495,36.747051],"type":"Point"}
 }

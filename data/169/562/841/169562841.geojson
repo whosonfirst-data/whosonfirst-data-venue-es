@@ -2,13 +2,14 @@
   "id": 169562841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.464518,40.467049,0.464518,40.467049",
     "geom:latitude":40.467049,
     "geom:longitude":0.464518,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctra Nacional 340, Km. 1050,3",
     "sg:city":"Vinaros",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169562841,
-    "wof:lastmodified":1449034434,
+    "wof:lastmodified":1466245111,
     "wof:name":"4 Colors Cooperativa Valenciana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.464518,40.467049,0.464518,40.467049],
+  "bbox": [
+    0.464518,
+    40.467049,
+    0.464518,
+    40.467049
+],
   "geometry": {"coordinates":[0.464518,40.467049],"type":"Point"}
 }

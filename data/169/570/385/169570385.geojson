@@ -2,13 +2,14 @@
   "id": 169570385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-7.858556,42.323368,-7.858556,42.323368",
     "geom:latitude":42.323368,
     "geom:longitude":-7.858556,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Rua Ramon Puga, 29",
     "sg:city":"Ourense",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169570385,
-    "wof:lastmodified":1449034645,
+    "wof:lastmodified":1466245099,
     "wof:name":"Abad Lopez Lourdes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-7.858556,42.323368,-7.858556,42.323368],
+  "bbox": [
+    -7.858556,
+    42.323368,
+    -7.858556,
+    42.323368
+],
   "geometry": {"coordinates":[-7.858556,42.323368],"type":"Point"}
 }

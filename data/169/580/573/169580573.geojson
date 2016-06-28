@@ -2,13 +2,14 @@
   "id": 169580573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.024767,43.324459,-3.024767,43.324459",
     "geom:latitude":43.324459,
     "geom:longitude":-3.024767,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Mugakoa, 13",
     "sg:city":"Portugalete",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169580573,
-    "wof:lastmodified":1449034914,
+    "wof:lastmodified":1466245220,
     "wof:name":"Abdel Kadel Benrejdal Derradji",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.024767,43.324459,-3.024767,43.324459],
+  "bbox": [
+    -3.024767,
+    43.324459,
+    -3.024767,
+    43.324459
+],
   "geometry": {"coordinates":[-3.024767,43.324459],"type":"Point"}
 }

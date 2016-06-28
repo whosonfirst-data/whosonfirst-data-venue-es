@@ -2,13 +2,14 @@
   "id": 169567819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-15.438417,28.10745,-15.438417,28.10745",
     "geom:latitude":28.10745,
     "geom:longitude":-15.438417,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Do\u00d1a Perfecta, 205",
     "sg:city":"Palmas De Gran Canaria",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169567819,
-    "wof:lastmodified":1449035993,
+    "wof:lastmodified":1466245202,
     "wof:name":"Abad Duque Luis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-15.438417,28.10745,-15.438417,28.10745],
+  "bbox": [
+    -15.438417,
+    28.10745,
+    -15.438417,
+    28.10745
+],
   "geometry": {"coordinates":[-15.438417,28.10745],"type":"Point"}
 }

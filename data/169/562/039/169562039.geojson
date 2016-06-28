@@ -2,13 +2,14 @@
   "id": 169562039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.624258,40.456818,-3.624258,40.456818",
     "geom:latitude":40.456818,
     "geom:longitude":-3.624258,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Machupichu, 11",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169562039,
-    "wof:lastmodified":1449034436,
+    "wof:lastmodified":1466245096,
     "wof:name":"3 De 7 Sociedad Civil",
     "wof:parent_id":85863625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.624258,40.456818,-3.624258,40.456818],
+  "bbox": [
+    -3.624258,
+    40.456818,
+    -3.624258,
+    40.456818
+],
   "geometry": {"coordinates":[-3.624258,40.456818],"type":"Point"}
 }

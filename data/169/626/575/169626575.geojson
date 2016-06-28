@@ -2,13 +2,14 @@
   "id": 169626575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.729774,40.309277,-3.729774,40.309277",
     "geom:latitude":40.309277,
     "geom:longitude":-3.729774,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Ramon Y Cajal, 4",
     "sg:city":"Getafe",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169626575,
-    "wof:lastmodified":1449035970,
+    "wof:lastmodified":1466245158,
     "wof:name":"Abou Alchamlatt Kassem Ali",
     "wof:parent_id":85863795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.729774,40.309277,-3.729774,40.309277],
+  "bbox": [
+    -3.729774,
+    40.309277,
+    -3.729774,
+    40.309277
+],
   "geometry": {"coordinates":[-3.729774,40.309277],"type":"Point"}
 }

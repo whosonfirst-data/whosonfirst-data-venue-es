@@ -2,13 +2,14 @@
   "id": 169684913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.982017,37.613811,-0.982017,37.613811",
     "geom:latitude":37.613811,
     "geom:longitude":-0.982017,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctra Torre Pacheco, Km. 0003,0",
     "sg:city":"Dolores",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169684913,
-    "wof:lastmodified":1449033511,
+    "wof:lastmodified":1466245187,
     "wof:name":"Agromark 96 S.a.",
     "wof:parent_id":85799251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.982017,37.613811,-0.982017,37.613811],
+  "bbox": [
+    -0.982017,
+    37.613811,
+    -0.982017,
+    37.613811
+],
   "geometry": {"coordinates":[-0.982017,37.613811],"type":"Point"}
 }

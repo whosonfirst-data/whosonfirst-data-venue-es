@@ -2,13 +2,14 @@
   "id": 169594429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.322156,38.47678,-1.322156,38.47678",
     "geom:latitude":38.47678,
     "geom:longitude":-1.322156,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Yecla (de), 2",
     "sg:city":"Jumilla",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169594429,
-    "wof:lastmodified":1449033165,
+    "wof:lastmodified":1466245136,
     "wof:name":"Abellan Risue\u00f1o Angel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.322156,38.47678,-1.322156,38.47678],
+  "bbox": [
+    -1.322156,
+    38.47678,
+    -1.322156,
+    38.47678
+],
   "geometry": {"coordinates":[-1.322156,38.47678],"type":"Point"}
 }

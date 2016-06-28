@@ -2,13 +2,14 @@
   "id": 169566137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.695187,40.450237,-3.695187,40.450237",
     "geom:latitude":40.450237,
     "geom:longitude":-3.695187,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Orense, 18",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169566137,
-    "wof:lastmodified":1449032756,
+    "wof:lastmodified":1466245195,
     "wof:name":"Abaco Ingenieros S.a.",
     "wof:parent_id":85863621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.695187,40.450237,-3.695187,40.450237],
+  "bbox": [
+    -3.695187,
+    40.450237,
+    -3.695187,
+    40.450237
+],
   "geometry": {"coordinates":[-3.695187,40.450237],"type":"Point"}
 }

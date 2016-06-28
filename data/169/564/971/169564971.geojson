@@ -2,13 +2,14 @@
   "id": 169564971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-15.429405,28.14617,-15.429405,28.14617",
     "geom:latitude":28.14617,
     "geom:longitude":-15.429405,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Gran Canaria, 1",
     "sg:city":"Palmas De Gran Canaria",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169564971,
-    "wof:lastmodified":1449035764,
+    "wof:lastmodified":1466245190,
     "wof:name":"Aage Hempel International S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-15.429405,28.14617,-15.429405,28.14617],
+  "bbox": [
+    -15.429405,
+    28.14617,
+    -15.429405,
+    28.14617
+],
   "geometry": {"coordinates":[-15.429405,28.14617],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169573139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.797149,43.341106,-1.797149,43.341106",
     "geom:latitude":43.341106,
     "geom:longitude":-1.797149,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Pase Colon, 36",
     "sg:city":"Irun",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169573139,
-    "wof:lastmodified":1449035112,
+    "wof:lastmodified":1466245208,
     "wof:name":"Abaigar Castro Barbara",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.797149,43.341106,-1.797149,43.341106],
+  "bbox": [
+    -1.797149,
+    43.341106,
+    -1.797149,
+    43.341106
+],
   "geometry": {"coordinates":[-1.797149,43.341106],"type":"Point"}
 }

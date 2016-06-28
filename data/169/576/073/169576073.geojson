@@ -2,13 +2,14 @@
   "id": 169576073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.096888,43.319313,-3.096888,43.319313",
     "geom:latitude":43.319313,
     "geom:longitude":-3.096888,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Mortuero, S/n",
     "sg:city":"Carreras",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169576073,
-    "wof:lastmodified":1449035195,
+    "wof:lastmodified":1466245213,
     "wof:name":"Abanto Club Sociedad Deportiva",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.096888,43.319313,-3.096888,43.319313],
+  "bbox": [
+    -3.096888,
+    43.319313,
+    -3.096888,
+    43.319313
+],
   "geometry": {"coordinates":[-3.096888,43.319313],"type":"Point"}
 }

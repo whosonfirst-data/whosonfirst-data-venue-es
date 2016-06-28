@@ -2,13 +2,14 @@
   "id": 169576673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.488721,43.066475,-2.488721,43.066475",
     "geom:latitude":43.066475,
     "geom:longitude":-2.488721,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Seber Altube Plaza, 8",
     "sg:city":"Arrasate",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169576673,
-    "wof:lastmodified":1449035198,
+    "wof:lastmodified":1466245218,
     "wof:name":"Abarrategui Dominguez Jose Antonio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.488721,43.066475,-2.488721,43.066475],
+  "bbox": [
+    -2.488721,
+    43.066475,
+    -2.488721,
+    43.066475
+],
   "geometry": {"coordinates":[-2.488721,43.066475],"type":"Point"}
 }

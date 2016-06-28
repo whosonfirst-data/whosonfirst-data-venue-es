@@ -2,13 +2,14 @@
   "id": 169673839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.001686,43.342808,-3.001686,43.342808",
     "geom:latitude":43.342808,
     "geom:longitude":-3.001686,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Udaberria, 10",
     "sg:city":"Getxo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169673839,
-    "wof:lastmodified":1449033959,
+    "wof:lastmodified":1466245226,
     "wof:name":"Academia De Ingles Mc Grogans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.001686,43.342808,-3.001686,43.342808],
+  "bbox": [
+    -3.001686,
+    43.342808,
+    -3.001686,
+    43.342808
+],
   "geometry": {"coordinates":[-3.001686,43.342808],"type":"Point"}
 }

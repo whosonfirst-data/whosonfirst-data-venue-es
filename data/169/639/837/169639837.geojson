@@ -2,13 +2,14 @@
   "id": 169639837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.445582,41.560291,2.445582,41.560291",
     "geom:latitude":41.560291,
     "geom:longitude":2.445582,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Rond Doctor Turro, 16",
     "sg:city":"Mataro",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169639837,
-    "wof:lastmodified":1449035949,
+    "wof:lastmodified":1466245168,
     "wof:name":"Abril Bodas S.c .p.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.445582,41.560291,2.445582,41.560291],
+  "bbox": [
+    2.445582,
+    41.560291,
+    2.445582,
+    41.560291
+],
   "geometry": {"coordinates":[2.445582,41.560291],"type":"Point"}
 }

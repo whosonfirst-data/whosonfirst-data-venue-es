@@ -2,13 +2,14 @@
   "id": 169659259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.138562,41.389618,2.138562,41.389618",
     "geom:latitude":41.389618,
     "geom:longitude":2.138562,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Taquigraf Garriga, 156",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169659259,
-    "wof:lastmodified":1449033027,
+    "wof:lastmodified":1466245174,
     "wof:name":"Acabados De Obras Y Construcciones S.a.",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.138562,41.389618,2.138562,41.389618],
+  "bbox": [
+    2.138562,
+    41.389618,
+    2.138562,
+    41.389618
+],
   "geometry": {"coordinates":[2.138562,41.389618],"type":"Point"}
 }

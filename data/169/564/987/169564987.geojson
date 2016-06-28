@@ -2,13 +2,14 @@
   "id": 169564987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.33378,35.886887,-5.33378,35.886887",
     "geom:latitude":35.886887,
     "geom:longitude":-5.33378,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Francisco Leria Y Ortiz Saracho, S/n",
     "sg:city":"Ceuta",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169564987,
-    "wof:lastmodified":1449035766,
+    "wof:lastmodified":1466245190,
     "wof:name":"Aaiad Mohamed Hassan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.33378,35.886887,-5.33378,35.886887],
+  "bbox": [
+    -5.33378,
+    35.886887,
+    -5.33378,
+    35.886887
+],
   "geometry": {"coordinates":[-5.33378,35.886887],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169685875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.07769,39.664879,3.07769,39.664879",
     "geom:latitude":39.664879,
     "geom:longitude":3.07769,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carr Pujolet, Des, 20",
     "sg:city":"Maria De La Salut",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169685875,
-    "wof:lastmodified":1449035887,
+    "wof:lastmodified":1466245233,
     "wof:name":"Agronatura S.a.t. Ba-01",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.07769,39.664879,3.07769,39.664879],
+  "bbox": [
+    3.07769,
+    39.664879,
+    3.07769,
+    39.664879
+],
   "geometry": {"coordinates":[3.07769,39.664879],"type":"Point"}
 }

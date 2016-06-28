@@ -2,13 +2,14 @@
   "id": 169570561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.942374,43.260124,-2.942374,43.260124",
     "geom:latitude":43.260124,
     "geom:longitude":-2.942374,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Bolivar Simon, 11",
     "sg:city":"Bilbao",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169570561,
-    "wof:lastmodified":1449034647,
+    "wof:lastmodified":1466245101,
     "wof:name":"Abad Marcos Isabel",
     "wof:parent_id":85863925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.942374,43.260124,-2.942374,43.260124],
+  "bbox": [
+    -2.942374,
+    43.260124,
+    -2.942374,
+    43.260124
+],
   "geometry": {"coordinates":[-2.942374,43.260124],"type":"Point"}
 }

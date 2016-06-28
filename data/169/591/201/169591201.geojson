@@ -2,13 +2,14 @@
   "id": 169591201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.565288,39.54768,-0.565288,39.54768",
     "geom:latitude":39.54768,
     "geom:longitude":-0.565288,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Eusebio Benedito, 21",
     "sg:city":"Riba-roja Turia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169591201,
-    "wof:lastmodified":1449034452,
+    "wof:lastmodified":1466245133,
     "wof:name":"Abellan Gonzalez Adrian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.565288,39.54768,-0.565288,39.54768],
+  "bbox": [
+    -0.565288,
+    39.54768,
+    -0.565288,
+    39.54768
+],
   "geometry": {"coordinates":[-0.565288,39.54768],"type":"Point"}
 }

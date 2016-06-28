@@ -2,13 +2,14 @@
   "id": 169637633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-16.551611,28.414667,-16.551611,28.414667",
     "geom:latitude":28.414667,
     "geom:longitude":-16.551611,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Cupido, 17",
     "sg:city":"Puerto Cruz",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169637633,
-    "wof:lastmodified":1449032690,
+    "wof:lastmodified":1466245164,
     "wof:name":"Abreu Hernandez Juana Rosa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-16.551611,28.414667,-16.551611,28.414667],
+  "bbox": [
+    -16.551611,
+    28.414667,
+    -16.551611,
+    28.414667
+],
   "geometry": {"coordinates":[-16.551611,28.414667],"type":"Point"}
 }

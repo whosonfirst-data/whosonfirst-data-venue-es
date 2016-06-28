@@ -2,13 +2,14 @@
   "id": 169577291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.667394,43.372128,-3.667394,43.372128",
     "geom:latitude":43.372128,
     "geom:longitude":-3.667394,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Barr Sedillo (el), S/n",
     "sg:city":"Entrambasaguas",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169577291,
-    "wof:lastmodified":1449036065,
+    "wof:lastmodified":1466245216,
     "wof:name":"Abascal Lavin Jose Ignacio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.667394,43.372128,-3.667394,43.372128],
+  "bbox": [
+    -3.667394,
+    43.372128,
+    -3.667394,
+    43.372128
+],
   "geometry": {"coordinates":[-3.667394,43.372128],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169567841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-7.559738,43.012054,-7.559738,43.012054",
     "geom:latitude":43.012054,
     "geom:longitude":-7.559738,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Rua Nova, 48",
     "sg:city":"Lugo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169567841,
-    "wof:lastmodified":1449035992,
+    "wof:lastmodified":1466245202,
     "wof:name":"Abad Eiriz Jesus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-7.559738,43.012054,-7.559738,43.012054],
+  "bbox": [
+    -7.559738,
+    43.012054,
+    -7.559738,
+    43.012054
+],
   "geometry": {"coordinates":[-7.559738,43.012054],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169648513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.278903,36.509731,-6.278903,36.509731",
     "geom:latitude":36.509731,
     "geom:longitude":-6.278903,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Ana De Viya, 38",
     "sg:city":"Cadiz",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169648513,
-    "wof:lastmodified":1449033584,
+    "wof:lastmodified":1466245171,
     "wof:name":"Abs Europe Ltd",
     "wof:parent_id":85799573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.278903,36.509731,-6.278903,36.509731],
+  "bbox": [
+    -6.278903,
+    36.509731,
+    -6.278903,
+    36.509731
+],
   "geometry": {"coordinates":[-6.278903,36.509731],"type":"Point"}
 }

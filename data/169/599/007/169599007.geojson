@@ -2,13 +2,14 @@
   "id": 169599007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.246992,41.114536,1.246992,41.114536",
     "geom:latitude":41.114536,
     "geom:longitude":1.246992,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"M. Central, S/n",
     "sg:city":"Tarragona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169599007,
-    "wof:lastmodified":1449034211,
+    "wof:lastmodified":1466245223,
     "wof:name":"Abello Hierro Alberto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.246992,41.114536,1.246992,41.114536],
+  "bbox": [
+    1.246992,
+    41.114536,
+    1.246992,
+    41.114536
+],
   "geometry": {"coordinates":[1.246992,41.114536],"type":"Point"}
 }

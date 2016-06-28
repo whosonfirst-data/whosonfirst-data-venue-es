@@ -2,13 +2,14 @@
   "id": 169602583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.968616,37.614616,-0.968616,37.614616",
     "geom:latitude":37.614616,
     "geom:longitude":-0.968616,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Marco Aurelio, 60",
     "sg:city":"Torreciega",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169602583,
-    "wof:lastmodified":1449034229,
+    "wof:lastmodified":1466245146,
     "wof:name":"Abenza Alvarez Salvador",
     "wof:parent_id":85799251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.968616,37.614616,-0.968616,37.614616],
+  "bbox": [
+    -0.968616,
+    37.614616,
+    -0.968616,
+    37.614616
+],
   "geometry": {"coordinates":[-0.968616,37.614616],"type":"Point"}
 }

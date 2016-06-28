@@ -2,13 +2,14 @@
   "id": 169638807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.190662,41.421692,2.190662,41.421692",
     "geom:latitude":41.421692,
     "geom:longitude":2.190662,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Ciutat D'elx, 23",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169638807,
-    "wof:lastmodified":1449032864,
+    "wof:lastmodified":1466245168,
     "wof:name":"Abril Altes Jaime",
     "wof:parent_id":85864003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.190662,41.421692,2.190662,41.421692],
+  "bbox": [
+    2.190662,
+    41.421692,
+    2.190662,
+    41.421692
+],
   "geometry": {"coordinates":[2.190662,41.421692],"type":"Point"}
 }

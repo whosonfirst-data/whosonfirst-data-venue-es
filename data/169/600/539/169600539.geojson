@@ -2,13 +2,14 @@
   "id": 169600539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.16574,41.429409,2.16574,41.429409",
     "geom:latitude":41.429409,
     "geom:longitude":2.16574,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Petrarca, 26",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169600539,
-    "wof:lastmodified":1449032973,
+    "wof:lastmodified":1466245144,
     "wof:name":"Abel Onteniente Guzman",
     "wof:parent_id":85799399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.16574,41.429409,2.16574,41.429409],
+  "bbox": [
+    2.16574,
+    41.429409,
+    2.16574,
+    41.429409
+],
   "geometry": {"coordinates":[2.16574,41.429409],"type":"Point"}
 }

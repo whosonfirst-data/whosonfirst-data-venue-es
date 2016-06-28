@@ -2,13 +2,14 @@
   "id": 169585823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-8.80282,43.033264,-8.80282,43.033264",
     "geom:latitude":43.033264,
     "geom:longitude":-8.80282,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Santiago (de), 21",
     "sg:city":"Santa Comba",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169585823,
-    "wof:lastmodified":1449034888,
+    "wof:lastmodified":1466245221,
     "wof:name":"Abelenda Varela Ricardo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-8.80282,43.033264,-8.80282,43.033264],
+  "bbox": [
+    -8.80282,
+    43.033264,
+    -8.80282,
+    43.033264
+],
   "geometry": {"coordinates":[-8.80282,43.033264],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169568329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.970057,43.249969,-2.970057,43.249969",
     "geom:latitude":43.249969,
     "geom:longitude":-2.970057,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Poza Licenciado, 50",
     "sg:city":"Bilbao",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169568329,
-    "wof:lastmodified":1449032609,
+    "wof:lastmodified":1466245204,
     "wof:name":"Abad Garcia Monica",
     "wof:parent_id":85863983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.970057,43.249969,-2.970057,43.249969],
+  "bbox": [
+    -2.970057,
+    43.249969,
+    -2.970057,
+    43.249969
+],
   "geometry": {"coordinates":[-2.970057,43.249969],"type":"Point"}
 }

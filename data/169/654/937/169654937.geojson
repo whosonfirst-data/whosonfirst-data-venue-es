@@ -2,13 +2,14 @@
   "id": 169654937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-8.794599,42.645992,-8.794599,42.645992",
     "geom:latitude":42.645992,
     "geom:longitude":-8.794599,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Brion(leiro), S/n",
     "sg:city":"Brion",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169654937,
-    "wof:lastmodified":1449033792,
+    "wof:lastmodified":1466245176,
     "wof:name":"Abuin Lopez Luis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-8.794599,42.645992,-8.794599,42.645992],
+  "bbox": [
+    -8.794599,
+    42.645992,
+    -8.794599,
+    42.645992
+],
   "geometry": {"coordinates":[-8.794599,42.645992],"type":"Point"}
 }

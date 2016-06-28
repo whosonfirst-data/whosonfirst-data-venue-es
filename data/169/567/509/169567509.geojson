@@ -2,13 +2,14 @@
   "id": 169567509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.435212,38.782272,-0.435212,38.782272",
     "geom:latitude":38.782272,
     "geom:longitude":-0.435212,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Pau (la), 53",
     "sg:city":"Muro Alcoy",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169567509,
-    "wof:lastmodified":1449035992,
+    "wof:lastmodified":1466245201,
     "wof:name":"Abad Climent Jesus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.435212,38.782272,-0.435212,38.782272],
+  "bbox": [
+    -0.435212,
+    38.782272,
+    -0.435212,
+    38.782272
+],
   "geometry": {"coordinates":[-0.435212,38.782272],"type":"Point"}
 }

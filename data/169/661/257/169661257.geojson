@@ -2,13 +2,14 @@
   "id": 169661257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.107421,41.548618,2.107421,41.548618",
     "geom:latitude":41.548618,
     "geom:longitude":2.107421,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Riu Ripoll, S/n",
     "sg:city":"Sabadell",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169661257,
-    "wof:lastmodified":1449035598,
+    "wof:lastmodified":1466245176,
     "wof:name":"Acabados Tintoretto S.a.",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.107421,41.548618,2.107421,41.548618],
+  "bbox": [
+    2.107421,
+    41.548618,
+    2.107421,
+    41.548618
+],
   "geometry": {"coordinates":[2.107421,41.548618],"type":"Point"}
 }

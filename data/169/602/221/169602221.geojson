@@ -2,13 +2,14 @@
   "id": 169602221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.883872,41.637753,-0.883872,41.637753",
     "geom:latitude":41.637753,
     "geom:longitude":-0.883872,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Luis Sallenave, 11",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169602221,
-    "wof:lastmodified":1449034228,
+    "wof:lastmodified":1466245141,
     "wof:name":"Abenia Morer Noelia",
     "wof:parent_id":85863385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.883872,41.637753,-0.883872,41.637753],
+  "bbox": [
+    -0.883872,
+    41.637753,
+    -0.883872,
+    41.637753
+],
   "geometry": {"coordinates":[-0.883872,41.637753],"type":"Point"}
 }

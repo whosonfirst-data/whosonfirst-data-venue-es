@@ -2,13 +2,14 @@
   "id": 169568675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.014484,38.235085,-6.014484,38.235085",
     "geom:latitude":38.235085,
     "geom:longitude":-6.014484,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Caleros, 36",
     "sg:city":"Llerena",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169568675,
-    "wof:lastmodified":1449032612,
+    "wof:lastmodified":1466245205,
     "wof:name":"Abad Gonzalez Antonio Luis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.014484,38.235085,-6.014484,38.235085],
+  "bbox": [
+    -6.014484,
+    38.235085,
+    -6.014484,
+    38.235085
+],
   "geometry": {"coordinates":[-6.014484,38.235085],"type":"Point"}
 }

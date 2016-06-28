@@ -2,13 +2,14 @@
   "id": 169568803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.824719,41.986385,2.824719,41.986385",
     "geom:latitude":41.986385,
     "geom:longitude":2.824719,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carr Ballesteries, 38",
     "sg:city":"Girona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169568803,
-    "wof:lastmodified":1449032613,
+    "wof:lastmodified":1466245205,
     "wof:name":"Abadia Abella Montse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.824719,41.986385,2.824719,41.986385],
+  "bbox": [
+    2.824719,
+    41.986385,
+    2.824719,
+    41.986385
+],
   "geometry": {"coordinates":[2.824719,41.986385],"type":"Point"}
 }

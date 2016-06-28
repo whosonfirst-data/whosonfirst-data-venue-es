@@ -2,13 +2,14 @@
   "id": 169580725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.938081,35.281197,-2.938081,35.281197",
     "geom:latitude":35.281197,
     "geom:longitude":-2.938081,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Casa\u00d1a, Teniente, 1",
     "sg:city":"Melilla",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169580725,
-    "wof:lastmodified":1449034913,
+    "wof:lastmodified":1466245130,
     "wof:name":"Abdelkader Mohamed Mustafa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.938081,35.281197,-2.938081,35.281197],
+  "bbox": [
+    -2.938081,
+    35.281197,
+    -2.938081,
+    35.281197
+],
   "geometry": {"coordinates":[-2.938081,35.281197],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169599945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.833111,43.511143,-6.833111,43.511143",
     "geom:latitude":43.511143,
     "geom:longitude":-6.833111,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Costapina La, S/n",
     "sg:city":"Cerredo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169599945,
-    "wof:lastmodified":1449034204,
+    "wof:lastmodified":1466245144,
     "wof:name":"Abello Rodriguez Florentino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.833111,43.511143,-6.833111,43.511143],
+  "bbox": [
+    -6.833111,
+    43.511143,
+    -6.833111,
+    43.511143
+],
   "geometry": {"coordinates":[-6.833111,43.511143],"type":"Point"}
 }

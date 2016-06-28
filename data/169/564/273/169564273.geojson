@@ -2,13 +2,14 @@
   "id": 169564273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.060811,38.719048,0.060811,38.719048",
     "geom:latitude":38.719048,
     "geom:longitude":0.060811,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Av Europa, 21",
     "sg:city":"Benissa",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169564273,
-    "wof:lastmodified":1449035764,
+    "wof:lastmodified":1466245186,
     "wof:name":"A2z Properties Spain Cb",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.060811,38.719048,0.060811,38.719048],
+  "bbox": [
+    0.060811,
+    38.719048,
+    0.060811,
+    38.719048
+],
   "geometry": {"coordinates":[0.060811,38.719048],"type":"Point"}
 }

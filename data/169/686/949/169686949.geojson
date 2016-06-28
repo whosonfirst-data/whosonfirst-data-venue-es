@@ -2,13 +2,14 @@
   "id": 169686949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.795053,41.626038,-4.795053,41.626038",
     "geom:latitude":41.626038,
     "geom:longitude":-4.795053,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Carretera De Salamanca, Km. 0131,0",
     "sg:city":"Arroyo De La Encomienda",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169686949,
-    "wof:lastmodified":1449035155,
+    "wof:lastmodified":1466245231,
     "wof:name":"Agropecuaria Coto Almaraz S. A.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.795053,41.626038,-4.795053,41.626038],
+  "bbox": [
+    -4.795053,
+    41.626038,
+    -4.795053,
+    41.626038
+],
   "geometry": {"coordinates":[-4.795053,41.626038],"type":"Point"}
 }

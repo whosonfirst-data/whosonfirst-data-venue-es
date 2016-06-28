@@ -2,13 +2,14 @@
   "id": 169560381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.070107,41.350018,2.070107,41.350018",
     "geom:latitude":41.350018,
     "geom:longitude":2.070107,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Verge De Montserrat, 13",
     "sg:city":"Cornella Llobregat",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169560381,
-    "wof:lastmodified":1449035179,
+    "wof:lastmodified":1466245093,
     "wof:name":"2007 Fruitas Del Sol Solet S.l.",
     "wof:parent_id":85799283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.070107,41.350018,2.070107,41.350018],
+  "bbox": [
+    2.070107,
+    41.350018,
+    2.070107,
+    41.350018
+],
   "geometry": {"coordinates":[2.070107,41.350018],"type":"Point"}
 }

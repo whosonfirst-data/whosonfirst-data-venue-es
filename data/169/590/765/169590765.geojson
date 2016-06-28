@@ -2,13 +2,14 @@
   "id": 169590765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"4.259062,39.889385,4.259062,39.889385",
     "geom:latitude":39.889385,
     "geom:longitude":4.259062,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carr Rovellada De Baix, 74",
     "sg:city":"Mao",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169590765,
-    "wof:lastmodified":1449034655,
+    "wof:lastmodified":1466245138,
     "wof:name":"Abellan Gelabert Maria Del Carmen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [4.259062,39.889385,4.259062,39.889385],
+  "bbox": [
+    4.259062,
+    39.889385,
+    4.259062,
+    39.889385
+],
   "geometry": {"coordinates":[4.259062,39.889385],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169574565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.550755,36.583817,-4.550755,36.583817",
     "geom:latitude":36.583817,
     "geom:longitude":-4.550755,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Urb Torrequebrada, S/n",
     "sg:city":"Torrequebrada",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169574565,
-    "wof:lastmodified":1449032667,
+    "wof:lastmodified":1466245107,
     "wof:name":"Abalos Berrocal Alejandro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.550755,36.583817,-4.550755,36.583817],
+  "bbox": [
+    -4.550755,
+    36.583817,
+    -4.550755,
+    36.583817
+],
   "geometry": {"coordinates":[-4.550755,36.583817],"type":"Point"}
 }

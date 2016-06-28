@@ -2,13 +2,14 @@
   "id": 169570619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.775972,37.882343,-4.775972,37.882343",
     "geom:latitude":37.882343,
     "geom:longitude":-4.775972,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Huerto San Pedro El Real, S/n",
     "sg:city":"Cordoba",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169570619,
-    "wof:lastmodified":1449034645,
+    "wof:lastmodified":1466245210,
     "wof:name":"Abad Martin Jose Antonio",
     "wof:parent_id":85863873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.775972,37.882343,-4.775972,37.882343],
+  "bbox": [
+    -4.775972,
+    37.882343,
+    -4.775972,
+    37.882343
+],
   "geometry": {"coordinates":[-4.775972,37.882343],"type":"Point"}
 }

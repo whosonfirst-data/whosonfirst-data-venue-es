@@ -2,13 +2,14 @@
   "id": 169604587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.132443,41.380856,2.132443,41.380856",
     "geom:latitude":41.380856,
     "geom:longitude":2.132443,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Av Madrid, 171",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169604587,
-    "wof:lastmodified":1449035571,
+    "wof:lastmodified":1466245146,
     "wof:name":"Abetas S.l.",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.132443,41.380856,2.132443,41.380856],
+  "bbox": [
+    2.132443,
+    41.380856,
+    2.132443,
+    41.380856
+],
   "geometry": {"coordinates":[2.132443,41.380856],"type":"Point"}
 }

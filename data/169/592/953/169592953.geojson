@@ -2,13 +2,14 @@
   "id": 169592953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.107031,37.973904,-4.107031,37.973904",
     "geom:latitude":37.973904,
     "geom:longitude":-4.107031,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Andalucia, 46",
     "sg:city":"Arjonilla",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169592953,
-    "wof:lastmodified":1449034585,
+    "wof:lastmodified":1466245139,
     "wof:name":"Abellan Millan Jose Antonio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.107031,37.973904,-4.107031,37.973904],
+  "bbox": [
+    -4.107031,
+    37.973904,
+    -4.107031,
+    37.973904
+],
   "geometry": {"coordinates":[-4.107031,37.973904],"type":"Point"}
 }

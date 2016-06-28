@@ -2,13 +2,14 @@
   "id": 169594571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.106627,37.991848,-1.106627,37.991848",
     "geom:latitude":37.991848,
     "geom:longitude":-1.106627,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Mayor, 31",
     "sg:city":"Puente Tocinos",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169594571,
-    "wof:lastmodified":1449033167,
+    "wof:lastmodified":1466245138,
     "wof:name":"Abellan Ros Jose",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.106627,37.991848,-1.106627,37.991848],
+  "bbox": [
+    -1.106627,
+    37.991848,
+    -1.106627,
+    37.991848
+],
   "geometry": {"coordinates":[-1.106627,37.991848],"type":"Point"}
 }

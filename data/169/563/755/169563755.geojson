@@ -2,13 +2,14 @@
   "id": 169563755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.192587,41.393997,2.192587,41.393997",
     "geom:latitude":41.393997,
     "geom:longitude":2.192587,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Llull, 57",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169563755,
-    "wof:lastmodified":1449032732,
+    "wof:lastmodified":1466245120,
     "wof:name":"95 Artepan S.l.",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.192587,41.393997,2.192587,41.393997],
+  "bbox": [
+    2.192587,
+    41.393997,
+    2.192587,
+    41.393997
+],
   "geometry": {"coordinates":[2.192587,41.393997],"type":"Point"}
 }

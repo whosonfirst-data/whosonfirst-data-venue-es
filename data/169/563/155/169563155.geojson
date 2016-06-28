@@ -2,13 +2,14 @@
   "id": 169563155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.832655,40.299114,-3.832655,40.299114",
     "geom:latitude":40.299114,
     "geom:longitude":-3.832655,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Pablo Iglesias, 22",
     "sg:city":"Loranca",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169563155,
-    "wof:lastmodified":1449032733,
+    "wof:lastmodified":1466245113,
     "wof:name":"5asec S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.832655,40.299114,-3.832655,40.299114],
+  "bbox": [
+    -3.832655,
+    40.299114,
+    -3.832655,
+    40.299114
+],
   "geometry": {"coordinates":[-3.832655,40.299114],"type":"Point"}
 }

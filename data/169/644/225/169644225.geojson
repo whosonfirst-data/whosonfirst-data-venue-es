@@ -2,13 +2,14 @@
   "id": 169644225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.606218,37.174404,-3.606218,37.174404",
     "geom:latitude":37.174404,
     "geom:longitude":-3.606218,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Trajano, 1",
     "sg:city":"Granada",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169644225,
-    "wof:lastmodified":1449034576,
+    "wof:lastmodified":1466245166,
     "wof:name":"Abril Sanchez Arturo",
     "wof:parent_id":85863841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.606218,37.174404,-3.606218,37.174404],
+  "bbox": [
+    -3.606218,
+    37.174404,
+    -3.606218,
+    37.174404
+],
   "geometry": {"coordinates":[-3.606218,37.174404],"type":"Point"}
 }

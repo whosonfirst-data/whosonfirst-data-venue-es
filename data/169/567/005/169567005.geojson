@@ -2,13 +2,14 @@
   "id": 169567005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.037213,37.347775,-6.037213,37.347775",
     "geom:latitude":37.347775,
     "geom:longitude":-6.037213,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Oceano Indico, 31",
     "sg:city":"Mairena Aljarafe",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169567005,
-    "wof:lastmodified":1449035998,
+    "wof:lastmodified":1466245199,
     "wof:name":"Abad Baena Maria Del Carmen",
     "wof:parent_id":85864135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.037213,37.347775,-6.037213,37.347775],
+  "bbox": [
+    -6.037213,
+    37.347775,
+    -6.037213,
+    37.347775
+],
   "geometry": {"coordinates":[-6.037213,37.347775],"type":"Point"}
 }

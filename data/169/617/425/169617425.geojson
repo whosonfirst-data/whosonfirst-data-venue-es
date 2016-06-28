@@ -2,13 +2,14 @@
   "id": 169617425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.79727,42.703625,0.79727,42.703625",
     "geom:latitude":42.703625,
     "geom:longitude":0.79727,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ticos, 6",
     "sg:city":"Vielha",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169617425,
-    "wof:lastmodified":1449032799,
+    "wof:lastmodified":1466245151,
     "wof:name":"Abocam Abogados Val D'aran 2003 S.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.79727,42.703625,0.79727,42.703625],
+  "bbox": [
+    0.79727,
+    42.703625,
+    0.79727,
+    42.703625
+],
   "geometry": {"coordinates":[0.79727,42.703625],"type":"Point"}
 }

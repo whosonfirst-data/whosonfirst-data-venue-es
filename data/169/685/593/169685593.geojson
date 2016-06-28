@@ -2,13 +2,14 @@
   "id": 169685593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.844905,41.7827,0.844905,41.7827",
     "geom:latitude":41.7827,
     "geom:longitude":0.844905,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carr Barceloneta, 20",
     "sg:city":"Rapita",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169685593,
-    "wof:lastmodified":1449035887,
+    "wof:lastmodified":1466245192,
     "wof:name":"Agrometodos S. A.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.844905,41.7827,0.844905,41.7827],
+  "bbox": [
+    0.844905,
+    41.7827,
+    0.844905,
+    41.7827
+],
   "geometry": {"coordinates":[0.844905,41.7827],"type":"Point"}
 }

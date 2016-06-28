@@ -2,13 +2,14 @@
   "id": 169668653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-8.231794,43.485306,-8.231794,43.485306",
     "geom:latitude":43.485306,
     "geom:longitude":-8.231794,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Rua Maria, 74",
     "sg:city":"Ferrol",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169668653,
-    "wof:lastmodified":1449034988,
+    "wof:lastmodified":1466245182,
     "wof:name":"Academia Britonia S. C.",
     "wof:parent_id":85799423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-8.231794,43.485306,-8.231794,43.485306],
+  "bbox": [
+    -8.231794,
+    43.485306,
+    -8.231794,
+    43.485306
+],
   "geometry": {"coordinates":[-8.231794,43.485306],"type":"Point"}
 }

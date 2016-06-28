@@ -2,13 +2,14 @@
   "id": 169582511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.519478,36.746658,-3.519478,36.746658",
     "geom:latitude":36.746658,
     "geom:longitude":-3.519478,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Cruz De Conchas, 11",
     "sg:city":"Motril",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169582511,
-    "wof:lastmodified":1449034464,
+    "wof:lastmodified":1466245219,
     "wof:name":"Abdul-rahim Rashid Rashio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.519478,36.746658,-3.519478,36.746658],
+  "bbox": [
+    -3.519478,
+    36.746658,
+    -3.519478,
+    36.746658
+],
   "geometry": {"coordinates":[-3.519478,36.746658],"type":"Point"}
 }

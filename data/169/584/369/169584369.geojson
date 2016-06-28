@@ -2,13 +2,14 @@
   "id": 169584369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.498005,36.710682,-4.498005,36.710682",
     "geom:latitude":36.710682,
     "geom:longitude":-4.498005,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Pase Tilos Los, 23",
     "sg:city":"Malaga",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169584369,
-    "wof:lastmodified":1449033039,
+    "wof:lastmodified":1466245127,
     "wof:name":"Abela Dominguez Maria Auxiliadora",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.498005,36.710682,-4.498005,36.710682],
+  "bbox": [
+    -4.498005,
+    36.710682,
+    -4.498005,
+    36.710682
+],
   "geometry": {"coordinates":[-4.498005,36.710682],"type":"Point"}
 }

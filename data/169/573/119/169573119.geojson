@@ -2,13 +2,14 @@
   "id": 169573119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.554149,41.72945,0.554149,41.72945",
     "geom:latitude":41.72945,
     "geom:longitude":0.554149,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Cra. Vall D'aran, Km. 0014,6",
     "sg:city":"Alguaire",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169573119,
-    "wof:lastmodified":1449035115,
+    "wof:lastmodified":1466245098,
     "wof:name":"Abaigar Amoros Jesus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.554149,41.72945,0.554149,41.72945],
+  "bbox": [
+    0.554149,
+    41.72945,
+    0.554149,
+    41.72945
+],
   "geometry": {"coordinates":[0.554149,41.72945],"type":"Point"}
 }

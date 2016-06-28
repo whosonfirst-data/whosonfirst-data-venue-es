@@ -2,13 +2,14 @@
   "id": 169576275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.099506,38.869812,-1.099506,38.869812",
     "geom:latitude":38.869812,
     "geom:longitude":-1.099506,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Aniceto Coloma, 8",
     "sg:city":"Almansa",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169576275,
-    "wof:lastmodified":1449035197,
+    "wof:lastmodified":1466245110,
     "wof:name":"Abarca Gascon Juan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.099506,38.869812,-1.099506,38.869812],
+  "bbox": [
+    -1.099506,
+    38.869812,
+    -1.099506,
+    38.869812
+],
   "geometry": {"coordinates":[-1.099506,38.869812],"type":"Point"}
 }

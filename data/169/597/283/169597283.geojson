@@ -2,13 +2,14 @@
   "id": 169597283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-7.562328,43.016266,-7.562328,43.016266",
     "geom:latitude":43.016266,
     "geom:longitude":-7.562328,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Rua Cami\u00d1o Real (do), 57",
     "sg:city":"Lugo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169597283,
-    "wof:lastmodified":1449035922,
+    "wof:lastmodified":1466245138,
     "wof:name":"Abelleira Barreiro Maria Del Carmen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-7.562328,43.016266,-7.562328,43.016266],
+  "bbox": [
+    -7.562328,
+    43.016266,
+    -7.562328,
+    43.016266
+],
   "geometry": {"coordinates":[-7.562328,43.016266],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169570355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.889614,41.642254,-0.889614,41.642254",
     "geom:latitude":41.642254,
     "geom:longitude":-0.889614,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Moriones, 9",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169570355,
-    "wof:lastmodified":1449034646,
+    "wof:lastmodified":1466245099,
     "wof:name":"Abad Lopez Maria Isabel",
     "wof:parent_id":85863361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.889614,41.642254,-0.889614,41.642254],
+  "bbox": [
+    -0.889614,
+    41.642254,
+    -0.889614,
+    41.642254
+],
   "geometry": {"coordinates":[-0.889614,41.642254],"type":"Point"}
 }

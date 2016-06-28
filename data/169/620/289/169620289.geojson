@@ -2,13 +2,14 @@
   "id": 169620289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.489966,38.344528,-0.489966,38.344528",
     "geom:latitude":38.344528,
     "geom:longitude":-0.489966,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Poeta Vila Y Blanco, 1",
     "sg:city":"Alacant",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169620289,
-    "wof:lastmodified":1449035675,
+    "wof:lastmodified":1466245153,
     "wof:name":"Abogados Y Urbanistas Asoc.urbalaw Sc",
     "wof:parent_id":85864055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.489966,38.344528,-0.489966,38.344528],
+  "bbox": [
+    -0.489966,
+    38.344528,
+    -0.489966,
+    38.344528
+],
   "geometry": {"coordinates":[-0.489966,38.344528],"type":"Point"}
 }

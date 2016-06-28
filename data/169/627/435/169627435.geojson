@@ -2,13 +2,14 @@
   "id": 169627435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-15.425939,28.112936,-15.425939,28.112936",
     "geom:latitude":28.112936,
     "geom:longitude":-15.425939,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Padre Claret, 19",
     "sg:city":"Palmas De Gran Canaria",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169627435,
-    "wof:lastmodified":1449036044,
+    "wof:lastmodified":1466245156,
     "wof:name":"Aboumedlej Suarez Eduardo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-15.425939,28.112936,-15.425939,28.112936],
+  "bbox": [
+    -15.425939,
+    28.112936,
+    -15.425939,
+    28.112936
+],
   "geometry": {"coordinates":[-15.425939,28.112936],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169593919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.51105,41.121449,-0.51105,41.121449",
     "geom:latitude":41.121449,
     "geom:longitude":-0.51105,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Teruel (de), 2",
     "sg:city":"Albalate Arzobispo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169593919,
-    "wof:lastmodified":1449034878,
+    "wof:lastmodified":1466245138,
     "wof:name":"Abellan Pellicero Aurora",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.51105,41.121449,-0.51105,41.121449],
+  "bbox": [
+    -0.51105,
+    41.121449,
+    -0.51105,
+    41.121449
+],
   "geometry": {"coordinates":[-0.51105,41.121449],"type":"Point"}
 }

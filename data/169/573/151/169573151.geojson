@@ -2,13 +2,14 @@
   "id": 169573151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.849802,42.57679,-2.849802,42.57679",
     "geom:latitude":42.57679,
     "geom:longitude":-2.849802,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Virgen De La Vega, 31",
     "sg:city":"Haro",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169573151,
-    "wof:lastmodified":1449035111,
+    "wof:lastmodified":1466245208,
     "wof:name":"Abaigar Martinez Miguel Angel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.849802,42.57679,-2.849802,42.57679],
+  "bbox": [
+    -2.849802,
+    42.57679,
+    -2.849802,
+    42.57679
+],
   "geometry": {"coordinates":[-2.849802,42.57679],"type":"Point"}
 }

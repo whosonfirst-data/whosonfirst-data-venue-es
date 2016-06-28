@@ -2,13 +2,14 @@
   "id": 169686345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.245457,41.119015,1.245457,41.119015",
     "geom:latitude":41.119015,
     "geom:longitude":1.245457,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Cami Moli, S/n",
     "sg:city":"Barbera Conca",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169686345,
-    "wof:lastmodified":1449035158,
+    "wof:lastmodified":1466245228,
     "wof:name":"Agropecuaria Alt Camp S. A.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.245457,41.119015,1.245457,41.119015],
+  "bbox": [
+    1.245457,
+    41.119015,
+    1.245457,
+    41.119015
+],
   "geometry": {"coordinates":[1.245457,41.119015],"type":"Point"}
 }

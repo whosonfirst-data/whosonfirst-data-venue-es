@@ -2,13 +2,14 @@
   "id": 169604521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.930148,43.2565,-2.930148,43.2565",
     "geom:latitude":43.2565,
     "geom:longitude":-2.930148,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de San Francisco, 61",
     "sg:city":"Bilbao",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169604521,
-    "wof:lastmodified":1449035572,
+    "wof:lastmodified":1466245145,
     "wof:name":"Abeso Micha Beatriz",
     "wof:parent_id":85863957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.930148,43.2565,-2.930148,43.2565],
+  "bbox": [
+    -2.930148,
+    43.2565,
+    -2.930148,
+    43.2565
+],
   "geometry": {"coordinates":[-2.930148,43.2565],"type":"Point"}
 }

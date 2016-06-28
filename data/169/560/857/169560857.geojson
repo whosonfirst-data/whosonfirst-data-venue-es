@@ -2,13 +2,14 @@
   "id": 169560857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.953893,37.258698,-6.953893,37.258698",
     "geom:latitude":37.258698,
     "geom:longitude":-6.953893,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Puerto, S/n",
     "sg:city":"Huelva",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169560857,
-    "wof:lastmodified":1449035180,
+    "wof:lastmodified":1466245095,
     "wof:name":"25 Horas C.b.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.953893,37.258698,-6.953893,37.258698],
+  "bbox": [
+    -6.953893,
+    37.258698,
+    -6.953893,
+    37.258698
+],
   "geometry": {"coordinates":[-6.953893,37.258698],"type":"Point"}
 }

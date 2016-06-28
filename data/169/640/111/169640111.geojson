@@ -2,13 +2,14 @@
   "id": 169640111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.168577,41.626682,2.168577,41.626682",
     "geom:latitude":41.626682,
     "geom:longitude":2.168577,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Av Pi I Margall, 132",
     "sg:city":"Caldes Montbui",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169640111,
-    "wof:lastmodified":1449034104,
+    "wof:lastmodified":1466245164,
     "wof:name":"Abril Collderram Saul",
     "wof:parent_id":85799453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.168577,41.626682,2.168577,41.626682],
+  "bbox": [
+    2.168577,
+    41.626682,
+    2.168577,
+    41.626682
+],
   "geometry": {"coordinates":[2.168577,41.626682],"type":"Point"}
 }

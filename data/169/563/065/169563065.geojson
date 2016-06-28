@@ -2,13 +2,14 @@
   "id": 169563065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.890133,41.671772,-0.890133,41.671772",
     "geom:latitude":41.671772,
     "geom:longitude":-0.890133,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Maria Zambrano, 39",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169563065,
-    "wof:lastmodified":1449032734,
+    "wof:lastmodified":1466245104,
     "wof:name":"5 A Sec Espa\u00d1a Sa",
     "wof:parent_id":85863309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.890133,41.671772,-0.890133,41.671772],
+  "bbox": [
+    -0.890133,
+    41.671772,
+    -0.890133,
+    41.671772
+],
   "geometry": {"coordinates":[-0.890133,41.671772],"type":"Point"}
 }

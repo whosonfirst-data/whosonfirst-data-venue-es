@@ -2,13 +2,14 @@
   "id": 169570597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.558297,38.194832,-0.558297,38.194832",
     "geom:latitude":38.194832,
     "geom:longitude":-0.558297,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Ramon Y Cajal, S/n",
     "sg:city":"Santa Pola",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169570597,
-    "wof:lastmodified":1449034646,
+    "wof:lastmodified":1466245102,
     "wof:name":"Abad Manarel Juan Bautista",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.558297,38.194832,-0.558297,38.194832],
+  "bbox": [
+    -0.558297,
+    38.194832,
+    -0.558297,
+    38.194832
+],
   "geometry": {"coordinates":[-0.558297,38.194832],"type":"Point"}
 }

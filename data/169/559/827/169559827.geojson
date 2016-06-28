@@ -2,13 +2,14 @@
   "id": 169559827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.893959,41.542652,1.893959,41.542652",
     "geom:latitude":41.542652,
     "geom:longitude":1.893959,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Rbla Catalunya, 21",
     "sg:city":"Olesa Montserrat",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169559827,
-    "wof:lastmodified":1449035237,
+    "wof:lastmodified":1466245131,
     "wof:name":"2001 Com Llar Vostra Sl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.893959,41.542652,1.893959,41.542652],
+  "bbox": [
+    1.893959,
+    41.542652,
+    1.893959,
+    41.542652
+],
   "geometry": {"coordinates":[1.893959,41.542652],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169583145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.997446,37.85149,-4.997446,37.85149",
     "geom:latitude":37.85149,
     "geom:longitude":-4.997446,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Trac, S/n",
     "sg:city":"Almodovar",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169583145,
-    "wof:lastmodified":1449035265,
+    "wof:lastmodified":1466245118,
     "wof:name":"Abecera S.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.997446,37.85149,-4.997446,37.85149],
+  "bbox": [
+    -4.997446,
+    37.85149,
+    -4.997446,
+    37.85149
+],
   "geometry": {"coordinates":[-4.997446,37.85149],"type":"Point"}
 }

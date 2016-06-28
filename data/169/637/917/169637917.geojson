@@ -2,13 +2,14 @@
   "id": 169637917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-16.419945,28.47443,-16.419945,28.47443",
     "geom:latitude":28.47443,
     "geom:longitude":-16.419945,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctra General Del Norte, 39",
     "sg:city":"Montillo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169637917,
-    "wof:lastmodified":1449032689,
+    "wof:lastmodified":1466245165,
     "wof:name":"Abreu Mesa Lorenzo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-16.419945,28.47443,-16.419945,28.47443],
+  "bbox": [
+    -16.419945,
+    28.47443,
+    -16.419945,
+    28.47443
+],
   "geometry": {"coordinates":[-16.419945,28.47443],"type":"Point"}
 }

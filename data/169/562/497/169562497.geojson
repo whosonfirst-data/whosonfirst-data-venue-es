@@ -2,13 +2,14 @@
   "id": 169562497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.701787,41.339554,1.701787,41.339554",
     "geom:latitude":41.339554,
     "geom:longitude":1.701787,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Josep Tarradellas, 21",
     "sg:city":"Vilafranca Penedes",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169562497,
-    "wof:lastmodified":1449034439,
+    "wof:lastmodified":1466245108,
     "wof:name":"3 Sis Informatica I Comunicacions Stat Coop C Ltda",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.701787,41.339554,1.701787,41.339554],
+  "bbox": [
+    1.701787,
+    41.339554,
+    1.701787,
+    41.339554
+],
   "geometry": {"coordinates":[1.701787,41.339554],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169618705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.6603,43.389244,-5.6603,43.389244",
     "geom:latitude":43.389244,
     "geom:longitude":-5.6603,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Parroco Fernandez Pedrera, 12",
     "sg:city":"Pola De Siero",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169618705,
-    "wof:lastmodified":1449034738,
+    "wof:lastmodified":1466245154,
     "wof:name":"Abogados Cb Martinez Bra\u00f1a Y Parrondo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.6603,43.389244,-5.6603,43.389244],
+  "bbox": [
+    -5.6603,
+    43.389244,
+    -5.6603,
+    43.389244
+],
   "geometry": {"coordinates":[-5.6603,43.389244],"type":"Point"}
 }

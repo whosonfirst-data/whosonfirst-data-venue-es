@@ -2,13 +2,14 @@
   "id": 169636957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-7.327333,37.203846,-7.327333,37.203846",
     "geom:latitude":37.203846,
     "geom:longitude":-7.327333,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Mercado, 10",
     "sg:city":"Isla Cristina",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169636957,
-    "wof:lastmodified":1449033989,
+    "wof:lastmodified":1466245164,
     "wof:name":"Abreu Carro Jose",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-7.327333,37.203846,-7.327333,37.203846],
+  "bbox": [
+    -7.327333,
+    37.203846,
+    -7.327333,
+    37.203846
+],
   "geometry": {"coordinates":[-7.327333,37.203846],"type":"Point"}
 }

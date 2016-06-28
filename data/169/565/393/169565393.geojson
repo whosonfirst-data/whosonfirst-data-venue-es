@@ -2,13 +2,14 @@
   "id": 169565393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.436672,36.728874,-4.436672,36.728874",
     "geom:latitude":36.728874,
     "geom:longitude":-4.436672,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Segismundo Moret, 40",
     "sg:city":"Malaga",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169565393,
-    "wof:lastmodified":1449035663,
+    "wof:lastmodified":1466245193,
     "wof:name":"A.a.t S.l. Ortopedia",
     "wof:parent_id":85863455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.436672,36.728874,-4.436672,36.728874],
+  "bbox": [
+    -4.436672,
+    36.728874,
+    -4.436672,
+    36.728874
+],
   "geometry": {"coordinates":[-4.436672,36.728874],"type":"Point"}
 }

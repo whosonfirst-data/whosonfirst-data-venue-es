@@ -2,13 +2,14 @@
   "id": 169567521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.217284,41.53933,2.217284,41.53933",
     "geom:latitude":41.53933,
     "geom:longitude":2.217284,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Madrid, 27",
     "sg:city":"Mollet Valles",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169567521,
-    "wof:lastmodified":1449035998,
+    "wof:lastmodified":1466245201,
     "wof:name":"Abad Colas Antonio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.217284,41.53933,2.217284,41.53933],
+  "bbox": [
+    2.217284,
+    41.53933,
+    2.217284,
+    41.53933
+],
   "geometry": {"coordinates":[2.217284,41.53933],"type":"Point"}
 }

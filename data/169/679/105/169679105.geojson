@@ -2,13 +2,14 @@
   "id": 169679105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.362102,41.639347,2.362102,41.639347",
     "geom:latitude":41.639347,
     "geom:longitude":2.362102,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Doctor Klein, 166",
     "sg:city":"Cardedeu",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169679105,
-    "wof:lastmodified":1449034807,
+    "wof:lastmodified":1466245226,
     "wof:name":"Adelantado Gimeno Ferran",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.362102,41.639347,2.362102,41.639347],
+  "bbox": [
+    2.362102,
+    41.639347,
+    2.362102,
+    41.639347
+],
   "geometry": {"coordinates":[2.362102,41.639347],"type":"Point"}
 }

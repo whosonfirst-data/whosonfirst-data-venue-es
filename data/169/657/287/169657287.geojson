@@ -2,13 +2,14 @@
   "id": 169657287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-15.394657,28.026426,-15.394657,28.026426",
     "geom:latitude":28.026426,
     "geom:longitude":-15.394657,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Chip (el), 5",
     "sg:city":"Valle De Jinamar",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169657287,
-    "wof:lastmodified":1449033047,
+    "wof:lastmodified":1466245173,
     "wof:name":"Abx Logistics Espa\u00d1a S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-15.394657,28.026426,-15.394657,28.026426],
+  "bbox": [
+    -15.394657,
+    28.026426,
+    -15.394657,
+    28.026426
+],
   "geometry": {"coordinates":[-15.394657,28.026426],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169579285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.665802,40.449673,-3.665802,40.449673",
     "geom:latitude":40.449673,
     "geom:longitude":-3.665802,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Lopez De Hoyos, 210",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169579285,
-    "wof:lastmodified":1449033738,
+    "wof:lastmodified":1466245120,
     "wof:name":"Abbey Broadcasting Productions S. A.",
     "wof:parent_id":85799435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.665802,40.449673,-3.665802,40.449673],
+  "bbox": [
+    -3.665802,
+    40.449673,
+    -3.665802,
+    40.449673
+],
   "geometry": {"coordinates":[-3.665802,40.449673],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169568437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.882856,41.932766,-2.882856,41.932766",
     "geom:latitude":41.932766,
     "geom:longitude":-2.882856,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Soria, S/n",
     "sg:city":"Covaleda",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169568437,
-    "wof:lastmodified":1449032612,
+    "wof:lastmodified":1466245204,
     "wof:name":"Abad Garcia Octavio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.882856,41.932766,-2.882856,41.932766],
+  "bbox": [
+    -2.882856,
+    41.932766,
+    -2.882856,
+    41.932766
+],
   "geometry": {"coordinates":[-2.882856,41.932766],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169587807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.773718,40.375443,-3.773718,40.375443",
     "geom:latitude":40.375443,
     "geom:longitude":-3.773718,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Osa De La Vega, 11",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169587807,
-    "wof:lastmodified":1449033820,
+    "wof:lastmodified":1466245139,
     "wof:name":"Abellan Alcaide Jesus",
     "wof:parent_id":85863787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.773718,40.375443,-3.773718,40.375443],
+  "bbox": [
+    -3.773718,
+    40.375443,
+    -3.773718,
+    40.375443
+],
   "geometry": {"coordinates":[-3.773718,40.375443],"type":"Point"}
 }

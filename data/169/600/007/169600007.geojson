@@ -2,13 +2,14 @@
   "id": 169600007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.615992,36.553459,-4.615992,36.553459",
     "geom:latitude":36.553459,
     "geom:longitude":-4.615992,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Santa Gema, 2",
     "sg:city":"Fuengirola",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169600007,
-    "wof:lastmodified":1449032971,
+    "wof:lastmodified":1466245223,
     "wof:name":"Abello Ruiz Agua E Industria S.l.u.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.615992,36.553459,-4.615992,36.553459],
+  "bbox": [
+    -4.615992,
+    36.553459,
+    -4.615992,
+    36.553459
+],
   "geometry": {"coordinates":[-4.615992,36.553459],"type":"Point"}
 }

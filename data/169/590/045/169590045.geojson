@@ -2,13 +2,14 @@
   "id": 169590045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.13716,41.606213,2.13716,41.606213",
     "geom:latitude":41.606213,
     "geom:longitude":2.13716,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Rec, 3",
     "sg:city":"Sentmenat",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169590045,
-    "wof:lastmodified":1449034656,
+    "wof:lastmodified":1466245222,
     "wof:name":"Abellan Gamero Elisabeth",
     "wof:parent_id":85799453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "juego"
     ]
 },
-  "bbox": [2.13716,41.606213,2.13716,41.606213],
+  "bbox": [
+    2.13716,
+    41.606213,
+    2.13716,
+    41.606213
+],
   "geometry": {"coordinates":[2.13716,41.606213],"type":"Point"}
 }

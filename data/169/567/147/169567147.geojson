@@ -2,13 +2,14 @@
   "id": 169567147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.645108,40.406506,-3.645108,40.406506",
     "geom:latitude":40.406506,
     "geom:longitude":-3.645108,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Camino De Los Vinateros, 152",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169567147,
-    "wof:lastmodified":1449035995,
+    "wof:lastmodified":1466245199,
     "wof:name":"Abad Bretones Matilde",
     "wof:parent_id":85863715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.645108,40.406506,-3.645108,40.406506],
+  "bbox": [
+    -3.645108,
+    40.406506,
+    -3.645108,
+    40.406506
+],
   "geometry": {"coordinates":[-3.645108,40.406506],"type":"Point"}
 }

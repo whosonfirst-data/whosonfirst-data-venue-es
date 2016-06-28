@@ -2,13 +2,14 @@
   "id": 169573699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-8.648053,42.43362,-8.648053,42.43362",
     "geom:latitude":42.43362,
     "geom:longitude":-8.648053,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Cm\u00d1o Laxe, 69",
     "sg:city":"Laxe",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169573699,
-    "wof:lastmodified":1449035111,
+    "wof:lastmodified":1466245106,
     "wof:name":"Abalde Alonso Jose",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-8.648053,42.43362,-8.648053,42.43362],
+  "bbox": [
+    -8.648053,
+    42.43362,
+    -8.648053,
+    42.43362
+],
   "geometry": {"coordinates":[-8.648053,42.43362],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169568221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.131489,41.081867,1.131489,41.081867",
     "geom:latitude":41.081867,
     "geom:longitude":1.131489,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Barcelona (de), 65",
     "sg:city":"Salou",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169568221,
-    "wof:lastmodified":1449032612,
+    "wof:lastmodified":1466245203,
     "wof:name":"Abad Gallart Josefina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.131489,41.081867,1.131489,41.081867],
+  "bbox": [
+    1.131489,
+    41.081867,
+    1.131489,
+    41.081867
+],
   "geometry": {"coordinates":[1.131489,41.081867],"type":"Point"}
 }

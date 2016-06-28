@@ -2,13 +2,14 @@
   "id": 169575775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.892403,41.648167,-0.892403,41.648167",
     "geom:latitude":41.648167,
     "geom:longitude":-0.892403,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Pase Teruel, 38",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169575775,
-    "wof:lastmodified":1449033642,
+    "wof:lastmodified":1466245117,
     "wof:name":"Abanses Lopez Alberto",
     "wof:parent_id":85863341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.892403,41.648167,-0.892403,41.648167],
+  "bbox": [
+    -0.892403,
+    41.648167,
+    -0.892403,
+    41.648167
+],
   "geometry": {"coordinates":[-0.892403,41.648167],"type":"Point"}
 }

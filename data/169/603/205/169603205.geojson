@@ -2,13 +2,14 @@
   "id": 169603205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.789869,38.476162,-0.789869,38.476162",
     "geom:latitude":38.476162,
     "geom:longitude":-0.789869,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Jose Martinez Gonzalez, 16",
     "sg:city":"Elda",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169603205,
-    "wof:lastmodified":1449035454,
+    "wof:lastmodified":1466245141,
     "wof:name":"Abenza Ortega Emilio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.789869,38.476162,-0.789869,38.476162],
+  "bbox": [
+    -0.789869,
+    38.476162,
+    -0.789869,
+    38.476162
+],
   "geometry": {"coordinates":[-0.789869,38.476162],"type":"Point"}
 }

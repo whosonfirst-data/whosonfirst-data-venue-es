@@ -2,13 +2,14 @@
   "id": 169577687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.175597,41.405239,2.175597,41.405239",
     "geom:latitude":41.405239,
     "geom:longitude":2.175597,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Lepant, 292",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169577687,
-    "wof:lastmodified":1449036065,
+    "wof:lastmodified":1466245219,
     "wof:name":"Abashina  Ekaterina",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.175597,41.405239,2.175597,41.405239],
+  "bbox": [
+    2.175597,
+    41.405239,
+    2.175597,
+    41.405239
+],
   "geometry": {"coordinates":[2.175597,41.405239],"type":"Point"}
 }

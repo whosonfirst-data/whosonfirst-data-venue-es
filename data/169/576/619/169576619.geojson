@@ -2,13 +2,14 @@
   "id": 169576619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.406462,41.849758,-4.406462,41.849758",
     "geom:latitude":41.849758,
     "geom:longitude":-4.406462,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Matias Mena, S/n",
     "sg:city":"Cevico De La Torre",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169576619,
-    "wof:lastmodified":1449035195,
+    "wof:lastmodified":1466245217,
     "wof:name":"Abarquero Coloma Santiago",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.406462,41.849758,-4.406462,41.849758],
+  "bbox": [
+    -4.406462,
+    41.849758,
+    -4.406462,
+    41.849758
+],
   "geometry": {"coordinates":[-4.406462,41.849758],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169568393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.450886,36.841301,-2.450886,36.841301",
     "geom:latitude":36.841301,
     "geom:longitude":-2.450886,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Blas Infante (de), 64",
     "sg:city":"Almeria",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169568393,
-    "wof:lastmodified":1449032613,
+    "wof:lastmodified":1466245204,
     "wof:name":"Abad Garcia Maria Dolores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.450886,36.841301,-2.450886,36.841301],
+  "bbox": [
+    -2.450886,
+    36.841301,
+    -2.450886,
+    36.841301
+],
   "geometry": {"coordinates":[-2.450886,36.841301],"type":"Point"}
 }

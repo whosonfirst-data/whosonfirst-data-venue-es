@@ -2,13 +2,14 @@
   "id": 169619623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.77783,37.885441,-4.77783,37.885441",
     "geom:latitude":37.885441,
     "geom:longitude":-4.77783,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Alfonso Xiii, 12",
     "sg:city":"Cordoba",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169619623,
-    "wof:lastmodified":1449033283,
+    "wof:lastmodified":1466245155,
     "wof:name":"Abogados Sanchez Y Garcia C.b",
     "wof:parent_id":85863901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.77783,37.885441,-4.77783,37.885441],
+  "bbox": [
+    -4.77783,
+    37.885441,
+    -4.77783,
+    37.885441
+],
   "geometry": {"coordinates":[-4.77783,37.885441],"type":"Point"}
 }

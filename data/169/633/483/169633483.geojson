@@ -2,13 +2,14 @@
   "id": 169633483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.780752,40.283115,-3.780752,40.283115",
     "geom:latitude":40.283115,
     "geom:longitude":-3.780752,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Eduardo Torroja (de), 31",
     "sg:city":"Fuenlabrada",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169633483,
-    "wof:lastmodified":1449035939,
+    "wof:lastmodified":1466245161,
     "wof:name":"Abrasivos Saga S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.780752,40.283115,-3.780752,40.283115],
+  "bbox": [
+    -3.780752,
+    40.283115,
+    -3.780752,
+    40.283115
+],
   "geometry": {"coordinates":[-3.780752,40.283115],"type":"Point"}
 }

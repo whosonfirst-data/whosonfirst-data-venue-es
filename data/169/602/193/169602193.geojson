@@ -2,13 +2,14 @@
   "id": 169602193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.872518,41.662556,-0.872518,41.662556",
     "geom:latitude":41.662556,
     "geom:longitude":-0.872518,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de San Juan De La Pe\u00d1a, 24",
     "sg:city":"Zaragoza",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169602193,
-    "wof:lastmodified":1449034226,
+    "wof:lastmodified":1466245141,
     "wof:name":"Abenia Dobato Jose Miguel",
     "wof:parent_id":85863305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.872518,41.662556,-0.872518,41.662556],
+  "bbox": [
+    -0.872518,
+    41.662556,
+    -0.872518,
+    41.662556
+],
   "geometry": {"coordinates":[-0.872518,41.662556],"type":"Point"}
 }

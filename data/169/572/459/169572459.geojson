@@ -2,13 +2,14 @@
   "id": 169572459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.395524,38.42345,-0.395524,38.42345",
     "geom:latitude":38.42345,
     "geom:longitude":-0.395524,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Alcalde Vicente Gomis Ramos, 6",
     "sg:city":"Campello",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169572459,
-    "wof:lastmodified":1449034706,
+    "wof:lastmodified":1466245104,
     "wof:name":"Abad Terol Antonio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.395524,38.42345,-0.395524,38.42345],
+  "bbox": [
+    -0.395524,
+    38.42345,
+    -0.395524,
+    38.42345
+],
   "geometry": {"coordinates":[-0.395524,38.42345],"type":"Point"}
 }

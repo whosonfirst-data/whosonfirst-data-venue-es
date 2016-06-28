@@ -2,13 +2,14 @@
   "id": 169586839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.441002,41.728062,0.441002,41.728062",
     "geom:latitude":41.728062,
     "geom:longitude":0.441002,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Major, 90",
     "sg:city":"Almacelles",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169586839,
-    "wof:lastmodified":1449035576,
+    "wof:lastmodified":1466245136,
     "wof:name":"Abella Galindo Miguel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.441002,41.728062,0.441002,41.728062],
+  "bbox": [
+    0.441002,
+    41.728062,
+    0.441002,
+    41.728062
+],
   "geometry": {"coordinates":[0.441002,41.728062],"type":"Point"}
 }

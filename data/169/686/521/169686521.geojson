@@ -2,13 +2,14 @@
   "id": 169686521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.789557,38.36478,-6.789557,38.36478",
     "geom:latitude":38.36478,
     "geom:longitude":-6.789557,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Doctor Alcaraz, 21",
     "sg:city":"Valle De Santa Ana",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169686521,
-    "wof:lastmodified":1449035159,
+    "wof:lastmodified":1466245229,
     "wof:name":"Agropecuaria Blazquez S. A.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.789557,38.36478,-6.789557,38.36478],
+  "bbox": [
+    -6.789557,
+    38.36478,
+    -6.789557,
+    38.36478
+],
   "geometry": {"coordinates":[-6.789557,38.36478],"type":"Point"}
 }

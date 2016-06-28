@@ -2,13 +2,14 @@
   "id": 169568533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.209558,37.972275,-1.209558,37.972275",
     "geom:latitude":37.972275,
     "geom:longitude":-1.209558,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Cura (del), 1",
     "sg:city":"Alcantarilla",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169568533,
-    "wof:lastmodified":1449032609,
+    "wof:lastmodified":1466245204,
     "wof:name":"Abad Garrido Tomas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.209558,37.972275,-1.209558,37.972275],
+  "bbox": [
+    -1.209558,
+    37.972275,
+    -1.209558,
+    37.972275
+],
   "geometry": {"coordinates":[-1.209558,37.972275],"type":"Point"}
 }

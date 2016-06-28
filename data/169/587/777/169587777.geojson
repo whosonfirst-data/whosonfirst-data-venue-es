@@ -2,13 +2,14 @@
   "id": 169587777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.021987,41.566978,2.021987,41.566978",
     "geom:latitude":41.566978,
     "geom:longitude":2.021987,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Prat De La Riba, 85",
     "sg:city":"Terrassa",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169587777,
-    "wof:lastmodified":1449033821,
+    "wof:lastmodified":1466245139,
     "wof:name":"Abella Mascarilla Montserrat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.021987,41.566978,2.021987,41.566978],
+  "bbox": [
+    2.021987,
+    41.566978,
+    2.021987,
+    41.566978
+],
   "geometry": {"coordinates":[2.021987,41.566978],"type":"Point"}
 }

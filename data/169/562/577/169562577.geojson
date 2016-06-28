@@ -2,13 +2,14 @@
   "id": 169562577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.462486,36.839195,-2.462486,36.839195",
     "geom:latitude":36.839195,
     "geom:longitude":-2.462486,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Reyes Catolicos, 12",
     "sg:city":"Almeria",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169562577,
-    "wof:lastmodified":1449034438,
+    "wof:lastmodified":1466245109,
     "wof:name":"400 Gallinas C.b.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.462486,36.839195,-2.462486,36.839195],
+  "bbox": [
+    -2.462486,
+    36.839195,
+    -2.462486,
+    36.839195
+],
   "geometry": {"coordinates":[-2.462486,36.839195],"type":"Point"}
 }

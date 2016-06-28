@@ -2,13 +2,14 @@
   "id": 169590521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.055839,37.978123,-1.055839,37.978123",
     "geom:latitude":37.978123,
     "geom:longitude":-1.055839,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Alfonso Xiii, 17",
     "sg:city":"Torreaguera",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169590521,
-    "wof:lastmodified":1449034656,
+    "wof:lastmodified":1466245136,
     "wof:name":"Abellan Garcia Josefa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.055839,37.978123,-1.055839,37.978123],
+  "bbox": [
+    -1.055839,
+    37.978123,
+    -1.055839,
+    37.978123
+],
   "geometry": {"coordinates":[-1.055839,37.978123],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169662275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.842678,43.234058,-2.842678,43.234058",
     "geom:latitude":43.234058,
     "geom:longitude":-2.842678,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Bizkai, 15",
     "sg:city":"Galdakao",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169662275,
-    "wof:lastmodified":1449034921,
+    "wof:lastmodified":1466245176,
     "wof:name":"A. Caballer, S.a",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.842678,43.234058,-2.842678,43.234058],
+  "bbox": [
+    -2.842678,
+    43.234058,
+    -2.842678,
+    43.234058
+],
   "geometry": {"coordinates":[-2.842678,43.234058],"type":"Point"}
 }

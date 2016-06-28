@@ -2,13 +2,14 @@
   "id": 169570471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-7.890666,43.180096,-7.890666,43.180096",
     "geom:latitude":43.180096,
     "geom:longitude":-7.890666,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de General Franco, 9",
     "sg:city":"Guitiriz",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169570471,
-    "wof:lastmodified":1449034646,
+    "wof:lastmodified":1466245100,
     "wof:name":"Abad Lopez Maria Sambra",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-7.890666,43.180096,-7.890666,43.180096],
+  "bbox": [
+    -7.890666,
+    43.180096,
+    -7.890666,
+    43.180096
+],
   "geometry": {"coordinates":[-7.890666,43.180096],"type":"Point"}
 }

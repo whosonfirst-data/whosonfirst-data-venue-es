@@ -2,13 +2,14 @@
   "id": 169564901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.638422,37.47287,-5.638422,37.47287",
     "geom:latitude":37.47287,
     "geom:longitude":-5.638422,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Martin Lopez, 6",
     "sg:city":"Carmona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169564901,
-    "wof:lastmodified":1449035764,
+    "wof:lastmodified":1466245190,
     "wof:name":"A.a.f.e. Mentales San Juan Grande",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.638422,37.47287,-5.638422,37.47287],
+  "bbox": [
+    -5.638422,
+    37.47287,
+    -5.638422,
+    37.47287
+],
   "geometry": {"coordinates":[-5.638422,37.47287],"type":"Point"}
 }

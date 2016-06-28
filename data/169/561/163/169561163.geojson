@@ -2,13 +2,14 @@
   "id": 169561163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.931877,37.406986,-5.931877,37.406986",
     "geom:latitude":37.406986,
     "geom:longitude":-5.931877,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Innovacion, S/n",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169561163,
-    "wof:lastmodified":1449035021,
+    "wof:lastmodified":1466245097,
     "wof:name":"2 J.v. Sociedad Civil",
     "wof:parent_id":85799527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.931877,37.406986,-5.931877,37.406986],
+  "bbox": [
+    -5.931877,
+    37.406986,
+    -5.931877,
+    37.406986
+],
   "geometry": {"coordinates":[-5.931877,37.406986],"type":"Point"}
 }

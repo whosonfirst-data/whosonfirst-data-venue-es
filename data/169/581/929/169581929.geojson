@@ -2,13 +2,14 @@
   "id": 169581929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.656638,39.288128,-1.656638,39.288128",
     "geom:latitude":39.288128,
     "geom:longitude":-1.656638,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carretera De Navas, S/n",
     "sg:city":"Cenizate",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169581929,
-    "wof:lastmodified":1449033381,
+    "wof:lastmodified":1466245126,
     "wof:name":"Abdon Catalan Lazaro Y Carmen Catalan Lazaro C.b.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.656638,39.288128,-1.656638,39.288128],
+  "bbox": [
+    -1.656638,
+    39.288128,
+    -1.656638,
+    39.288128
+],
   "geometry": {"coordinates":[-1.656638,39.288128],"type":"Point"}
 }

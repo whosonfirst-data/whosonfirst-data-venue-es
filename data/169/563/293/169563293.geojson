@@ -2,13 +2,14 @@
   "id": 169563293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.822152,41.727203,1.822152,41.727203",
     "geom:latitude":41.727203,
     "geom:longitude":1.822152,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Carrio, 3",
     "sg:city":"Manresa",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169563293,
-    "wof:lastmodified":1449032732,
+    "wof:lastmodified":1466245114,
     "wof:name":"6tell Treball Educacio I Lleure Sccl",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.822152,41.727203,1.822152,41.727203],
+  "bbox": [
+    1.822152,
+    41.727203,
+    1.822152,
+    41.727203
+],
   "geometry": {"coordinates":[1.822152,41.727203],"type":"Point"}
 }

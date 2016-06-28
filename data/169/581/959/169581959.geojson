@@ -2,13 +2,14 @@
   "id": 169581959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.701958,40.594208,-3.701958,40.594208",
     "geom:latitude":40.594208,
     "geom:longitude":-3.701958,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Sect Islas, 40",
     "sg:city":"Tres Cantos",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169581959,
-    "wof:lastmodified":1449033382,
+    "wof:lastmodified":1466245127,
     "wof:name":"Abdon Cuenca S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.701958,40.594208,-3.701958,40.594208],
+  "bbox": [
+    -3.701958,
+    40.594208,
+    -3.701958,
+    40.594208
+],
   "geometry": {"coordinates":[-3.701958,40.594208],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169614731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.812498,41.236488,1.812498,41.236488",
     "geom:latitude":41.236488,
     "geom:longitude":1.812498,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Sant Sebastia, 49",
     "sg:city":"Sitges",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169614731,
-    "wof:lastmodified":1449036060,
+    "wof:lastmodified":1466245153,
     "wof:name":"Abkarovits Salzbrenner Juan Roberto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.812498,41.236488,1.812498,41.236488],
+  "bbox": [
+    1.812498,
+    41.236488,
+    1.812498,
+    41.236488
+],
   "geometry": {"coordinates":[1.812498,41.236488],"type":"Point"}
 }

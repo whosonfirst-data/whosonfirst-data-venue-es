@@ -2,13 +2,14 @@
   "id": 169600147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.110301,41.158203,1.110301,41.158203",
     "geom:latitude":41.158203,
     "geom:longitude":1.110301,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Roig, 22",
     "sg:city":"Reus",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169600147,
-    "wof:lastmodified":1449032971,
+    "wof:lastmodified":1466245140,
     "wof:name":"Abello Teixell Jose",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.110301,41.158203,1.110301,41.158203],
+  "bbox": [
+    1.110301,
+    41.158203,
+    1.110301,
+    41.158203
+],
   "geometry": {"coordinates":[1.110301,41.158203],"type":"Point"}
 }

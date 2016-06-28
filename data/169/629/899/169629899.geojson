@@ -2,13 +2,14 @@
   "id": 169629899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.125258,41.359436,2.125258,41.359436",
     "geom:latitude":41.359436,
     "geom:longitude":2.125258,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Independencia, 76",
     "sg:city":"Hospitalet Llobregat",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169629899,
-    "wof:lastmodified":1449035186,
+    "wof:lastmodified":1466245163,
     "wof:name":"Abrams  David",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.125258,41.359436,2.125258,41.359436],
+  "bbox": [
+    2.125258,
+    41.359436,
+    2.125258,
+    41.359436
+],
   "geometry": {"coordinates":[2.125258,41.359436],"type":"Point"}
 }

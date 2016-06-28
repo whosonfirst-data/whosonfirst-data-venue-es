@@ -2,13 +2,14 @@
   "id": 169574495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.65189,40.43726,-3.65189,40.43726",
     "geom:latitude":40.43726,
     "geom:longitude":-3.65189,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Virgen De La Monjia, 3",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169574495,
-    "wof:lastmodified":1449032663,
+    "wof:lastmodified":1466245106,
     "wof:name":"Abalos Culebras Antonio",
     "wof:parent_id":85863637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.65189,40.43726,-3.65189,40.43726],
+  "bbox": [
+    -3.65189,
+    40.43726,
+    -3.65189,
+    40.43726
+],
   "geometry": {"coordinates":[-3.65189,40.43726],"type":"Point"}
 }

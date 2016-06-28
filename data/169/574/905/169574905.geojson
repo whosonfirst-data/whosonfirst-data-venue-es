@@ -2,13 +2,14 @@
   "id": 169574905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.977803,43.321869,-1.977803,43.321869",
     "geom:latitude":43.321869,
     "geom:longitude":-1.977803,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Pase Ramon Maria Lili, 8",
     "sg:city":"Donostia-san Sebastian",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169574905,
-    "wof:lastmodified":1449032664,
+    "wof:lastmodified":1466245112,
     "wof:name":"Abalos Vazquez Jose Manuel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.977803,43.321869,-1.977803,43.321869],
+  "bbox": [
+    -1.977803,
+    43.321869,
+    -1.977803,
+    43.321869
+],
   "geometry": {"coordinates":[-1.977803,43.321869],"type":"Point"}
 }

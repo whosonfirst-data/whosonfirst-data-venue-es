@@ -2,13 +2,14 @@
   "id": 169581055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.017895,36.750286,-3.017895,36.750286",
     "geom:latitude":36.750286,
     "geom:longitude":-3.017895,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Libro, S/n",
     "sg:city":"Adra",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169581055,
-    "wof:lastmodified":1449033381,
+    "wof:lastmodified":1466245218,
     "wof:name":"Abderax S.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.017895,36.750286,-3.017895,36.750286],
+  "bbox": [
+    -3.017895,
+    36.750286,
+    -3.017895,
+    36.750286
+],
   "geometry": {"coordinates":[-3.017895,36.750286],"type":"Point"}
 }

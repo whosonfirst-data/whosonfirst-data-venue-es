@@ -2,13 +2,14 @@
   "id": 169626949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.769365,40.330578,-3.769365,40.330578",
     "geom:latitude":40.330578,
     "geom:longitude":-3.769365,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Ordo\u00d1ez, 40",
     "sg:city":"Leganes",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169626949,
-    "wof:lastmodified":1449035970,
+    "wof:lastmodified":1466245163,
     "wof:name":"Aboulaich Aboulaich Fatima",
     "wof:parent_id":85863785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.769365,40.330578,-3.769365,40.330578],
+  "bbox": [
+    -3.769365,
+    40.330578,
+    -3.769365,
+    40.330578
+],
   "geometry": {"coordinates":[-3.769365,40.330578],"type":"Point"}
 }

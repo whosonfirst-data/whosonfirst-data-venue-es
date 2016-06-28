@@ -2,13 +2,14 @@
   "id": 169619179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.159292,38.535595,-0.159292,38.535595",
     "geom:latitude":38.535595,
     "geom:longitude":-0.159292,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Puerto Rico, 13",
     "sg:city":"Benidorm",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169619179,
-    "wof:lastmodified":1449033284,
+    "wof:lastmodified":1466245150,
     "wof:name":"Abogados Fuentes S.c",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.159292,38.535595,-0.159292,38.535595],
+  "bbox": [
+    -0.159292,
+    38.535595,
+    -0.159292,
+    38.535595
+],
   "geometry": {"coordinates":[-0.159292,38.535595],"type":"Point"}
 }

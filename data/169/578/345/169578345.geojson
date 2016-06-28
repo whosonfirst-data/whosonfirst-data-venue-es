@@ -2,13 +2,14 @@
   "id": 169578345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.376805,39.470238,-0.376805,39.470238",
     "geom:latitude":39.470238,
     "geom:longitude":-0.376805,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Arquitecto Salvador Pascual Gimeno, Km. 0342,4",
     "sg:city":"Quart Poblet",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169578345,
-    "wof:lastmodified":1449033521,
+    "wof:lastmodified":1466245117,
     "wof:name":"Abastecedora Catalana S. A.",
     "wof:parent_id":85864217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.376805,39.470238,-0.376805,39.470238],
+  "bbox": [
+    -0.376805,
+    39.470238,
+    -0.376805,
+    39.470238
+],
   "geometry": {"coordinates":[-0.376805,39.470238],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169569939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.678589,40.438732,-3.678589,40.438732",
     "geom:latitude":40.438732,
     "geom:longitude":-3.678589,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Francisco Silvela, 104",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169569939,
-    "wof:lastmodified":1449035831,
+    "wof:lastmodified":1466245210,
     "wof:name":"Abadin Delgado Francisco",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.678589,40.438732,-3.678589,40.438732],
+  "bbox": [
+    -3.678589,
+    40.438732,
+    -3.678589,
+    40.438732
+],
   "geometry": {"coordinates":[-3.678589,40.438732],"type":"Point"}
 }

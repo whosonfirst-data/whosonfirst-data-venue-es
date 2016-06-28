@@ -2,13 +2,14 @@
   "id": 169607065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.862388,38.988567,-1.862388,38.988567",
     "geom:latitude":38.988567,
     "geom:longitude":-1.862388,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Doctor Collado Pi\u00d1a, 68",
     "sg:city":"Albacete",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169607065,
-    "wof:lastmodified":1449033125,
+    "wof:lastmodified":1466245223,
     "wof:name":"Abia Cuchillo Andres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.862388,38.988567,-1.862388,38.988567],
+  "bbox": [
+    -1.862388,
+    38.988567,
+    -1.862388,
+    38.988567
+],
   "geometry": {"coordinates":[-1.862388,38.988567],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169569213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.826805,41.768475,-0.826805,41.768475",
     "geom:latitude":41.768475,
     "geom:longitude":-0.826805,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Zurita, 5",
     "sg:city":"Villanueva Gallego",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169569213,
-    "wof:lastmodified":1449035829,
+    "wof:lastmodified":1466245206,
     "wof:name":"Abadia Lope Alberto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.826805,41.768475,-0.826805,41.768475],
+  "bbox": [
+    -0.826805,
+    41.768475,
+    -0.826805,
+    41.768475
+],
   "geometry": {"coordinates":[-0.826805,41.768475],"type":"Point"}
 }

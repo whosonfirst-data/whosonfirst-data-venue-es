@@ -2,13 +2,14 @@
   "id": 169560663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.659708,40.459244,-3.659708,40.459244",
     "geom:latitude":40.459244,
     "geom:longitude":-3.659708,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Arturo Soria, 200",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169560663,
-    "wof:lastmodified":1449035180,
+    "wof:lastmodified":1466245094,
     "wof:name":"24hrs Logistics Leiderdrop",
     "wof:parent_id":85863597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.659708,40.459244,-3.659708,40.459244],
+  "bbox": [
+    -3.659708,
+    40.459244,
+    -3.659708,
+    40.459244
+],
   "geometry": {"coordinates":[-3.659708,40.459244],"type":"Point"}
 }

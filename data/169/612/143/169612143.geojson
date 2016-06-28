@@ -2,13 +2,14 @@
   "id": 169612143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.582417,42.042736,-0.582417,42.042736",
     "geom:latitude":42.042736,
     "geom:longitude":-0.582417,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Pedro Saputo, 19",
     "sg:city":"Almudevar",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169612143,
-    "wof:lastmodified":1449034133,
+    "wof:lastmodified":1466245148,
     "wof:name":"Abiol Sanz Jose Antonio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.582417,42.042736,-0.582417,42.042736],
+  "bbox": [
+    -0.582417,
+    42.042736,
+    -0.582417,
+    42.042736
+],
   "geometry": {"coordinates":[-0.582417,42.042736],"type":"Point"}
 }

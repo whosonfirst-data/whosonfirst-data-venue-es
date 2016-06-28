@@ -2,13 +2,14 @@
   "id": 169585189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-7.763402,43.046894,-7.763402,43.046894",
     "geom:latitude":43.046894,
     "geom:longitude":-7.763402,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Plaz Espa\u00d1a, 8",
     "sg:city":"Friol",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169585189,
-    "wof:lastmodified":1449034888,
+    "wof:lastmodified":1466245127,
     "wof:name":"Abeledo Seren Maria Jose",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-7.763402,43.046894,-7.763402,43.046894],
+  "bbox": [
+    -7.763402,
+    43.046894,
+    -7.763402,
+    43.046894
+],
   "geometry": {"coordinates":[-7.763402,43.046894],"type":"Point"}
 }

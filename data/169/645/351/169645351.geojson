@@ -2,13 +2,14 @@
   "id": 169645351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-8.395969,43.37149,-8.395969,43.37149",
     "geom:latitude":43.37149,
     "geom:longitude":-8.395969,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Viladoniga, 122",
     "sg:city":"Viladoniga",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169645351,
-    "wof:lastmodified":1449033006,
+    "wof:lastmodified":1466245167,
     "wof:name":"Abril Velasco Angel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-8.395969,43.37149,-8.395969,43.37149],
+  "bbox": [
+    -8.395969,
+    43.37149,
+    -8.395969,
+    43.37149
+],
   "geometry": {"coordinates":[-8.395969,43.37149],"type":"Point"}
 }

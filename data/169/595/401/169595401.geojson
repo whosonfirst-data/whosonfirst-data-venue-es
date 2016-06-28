@@ -2,13 +2,14 @@
   "id": 169595401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.127316,37.984753,-1.127316,37.984753",
     "geom:latitude":37.984753,
     "geom:longitude":-1.127316,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Isidoro De La Cierva, 8",
     "sg:city":"San Juan",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169595401,
-    "wof:lastmodified":1449035637,
+    "wof:lastmodified":1466245139,
     "wof:name":"Abellan Zamora Angel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.127316,37.984753,-1.127316,37.984753],
+  "bbox": [
+    -1.127316,
+    37.984753,
+    -1.127316,
+    37.984753
+],
   "geometry": {"coordinates":[-1.127316,37.984753],"type":"Point"}
 }

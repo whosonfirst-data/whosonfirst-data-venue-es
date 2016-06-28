@@ -2,13 +2,14 @@
   "id": 169628599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.164572,41.387852,2.164572,41.387852",
     "geom:latitude":41.387852,
     "geom:longitude":2.164572,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Balmes, 26",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169628599,
-    "wof:lastmodified":1449035333,
+    "wof:lastmodified":1466245160,
     "wof:name":"Abr-action Consulting S.a.",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.164572,41.387852,2.164572,41.387852],
+  "bbox": [
+    2.164572,
+    41.387852,
+    2.164572,
+    41.387852
+],
   "geometry": {"coordinates":[2.164572,41.387852],"type":"Point"}
 }

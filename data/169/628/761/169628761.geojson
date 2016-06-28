@@ -2,13 +2,14 @@
   "id": 169628761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.624958,39.561554,2.624958,39.561554",
     "geom:latitude":39.561554,
     "geom:longitude":2.624958,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Av Joan Miro, 62",
     "sg:city":"Palma",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169628761,
-    "wof:lastmodified":1449035334,
+    "wof:lastmodified":1466245161,
     "wof:name":"Abraham Homobono Francisco Javier",
     "wof:parent_id":85864109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.624958,39.561554,2.624958,39.561554],
+  "bbox": [
+    2.624958,
+    39.561554,
+    2.624958,
+    39.561554
+],
   "geometry": {"coordinates":[2.624958,39.561554],"type":"Point"}
 }

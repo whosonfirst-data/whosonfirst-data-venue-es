@@ -2,13 +2,14 @@
   "id": 169670775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.109415,40.933838,-4.109415,40.933838",
     "geom:latitude":40.933838,
     "geom:longitude":-4.109415,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctra San Rafael, S/n",
     "sg:city":"Segovia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169670775,
-    "wof:lastmodified":1449033187,
+    "wof:lastmodified":1466245183,
     "wof:name":"Academia De Artilleria Poligono De Baterias",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.109415,40.933838,-4.109415,40.933838],
+  "bbox": [
+    -4.109415,
+    40.933838,
+    -4.109415,
+    40.933838
+],
   "geometry": {"coordinates":[-4.109415,40.933838],"type":"Point"}
 }

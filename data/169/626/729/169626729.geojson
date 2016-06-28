@@ -2,13 +2,14 @@
   "id": 169626729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.693838,36.732769,-3.693838,36.732769",
     "geom:latitude":36.732769,
     "geom:longitude":-3.693838,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Urb Vista Verde, 6",
     "sg:city":"Almu\u00f1ecar",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169626729,
-    "wof:lastmodified":1449035971,
+    "wof:lastmodified":1466245160,
     "wof:name":"Abosol S.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.693838,36.732769,-3.693838,36.732769],
+  "bbox": [
+    -3.693838,
+    36.732769,
+    -3.693838,
+    36.732769
+],
   "geometry": {"coordinates":[-3.693838,36.732769],"type":"Point"}
 }

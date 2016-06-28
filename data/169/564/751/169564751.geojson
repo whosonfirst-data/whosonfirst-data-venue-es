@@ -2,13 +2,14 @@
   "id": 169564751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.042598,41.94392,3.042598,41.94392",
     "geom:latitude":41.94392,
     "geom:longitude":3.042598,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carr Mesures, 5",
     "sg:city":"Bisbal D'emporda",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169564751,
-    "wof:lastmodified":1449035763,
+    "wof:lastmodified":1466245189,
     "wof:name":"Aachrak  Joussef",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.042598,41.94392,3.042598,41.94392],
+  "bbox": [
+    3.042598,
+    41.94392,
+    3.042598,
+    41.94392
+],
   "geometry": {"coordinates":[3.042598,41.94392],"type":"Point"}
 }

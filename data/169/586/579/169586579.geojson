@@ -2,13 +2,14 @@
   "id": 169586579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.136891,41.081238,1.136891,41.081238",
     "geom:latitude":41.081238,
     "geom:longitude":1.136891,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Tarragona (de), 4",
     "sg:city":"Salou",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169586579,
-    "wof:lastmodified":1449035572,
+    "wof:lastmodified":1466245133,
     "wof:name":"Abella Castellvi Maria Rosario",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.136891,41.081238,1.136891,41.081238],
+  "bbox": [
+    1.136891,
+    41.081238,
+    1.136891,
+    41.081238
+],
   "geometry": {"coordinates":[1.136891,41.081238],"type":"Point"}
 }

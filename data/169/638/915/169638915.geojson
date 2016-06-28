@@ -2,13 +2,14 @@
   "id": 169638915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.425347,41.53838,2.425347,41.53838",
     "geom:latitude":41.53838,
     "geom:longitude":2.425347,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Rossello, 52",
     "sg:city":"Mataro",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169638915,
-    "wof:lastmodified":1449032871,
+    "wof:lastmodified":1466245169,
     "wof:name":"Abril Abril Ana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.425347,41.53838,2.425347,41.53838],
+  "bbox": [
+    2.425347,
+    41.53838,
+    2.425347,
+    41.53838
+],
   "geometry": {"coordinates":[2.425347,41.53838],"type":"Point"}
 }

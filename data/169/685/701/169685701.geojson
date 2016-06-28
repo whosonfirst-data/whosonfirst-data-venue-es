@@ -2,13 +2,14 @@
   "id": 169685701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.004196,41.720211,1.004196,41.720211",
     "geom:latitude":41.720211,
     "geom:longitude":1.004196,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carr Bonaire Boldu, 5",
     "sg:city":"Boldu",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169685701,
-    "wof:lastmodified":1449035887,
+    "wof:lastmodified":1466245232,
     "wof:name":"Agromorera S.c.t.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.004196,41.720211,1.004196,41.720211],
+  "bbox": [
+    1.004196,
+    41.720211,
+    1.004196,
+    41.720211
+],
   "geometry": {"coordinates":[1.004196,41.720211],"type":"Point"}
 }

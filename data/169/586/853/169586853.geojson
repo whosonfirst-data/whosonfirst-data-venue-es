@@ -2,13 +2,14 @@
   "id": 169586853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.660672,40.41058,-3.660672,40.41058",
     "geom:latitude":40.41058,
     "geom:longitude":-3.660672,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Camino De Los Vinateros, 8",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169586853,
-    "wof:lastmodified":1449035576,
+    "wof:lastmodified":1466245136,
     "wof:name":"Abella Gavela Blanca",
     "wof:parent_id":85863693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.660672,40.41058,-3.660672,40.41058],
+  "bbox": [
+    -3.660672,
+    40.41058,
+    -3.660672,
+    40.41058
+],
   "geometry": {"coordinates":[-3.660672,40.41058],"type":"Point"}
 }

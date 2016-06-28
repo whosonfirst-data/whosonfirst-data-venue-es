@@ -2,13 +2,14 @@
   "id": 169606441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.092074,41.520943,2.092074,41.520943",
     "geom:latitude":41.520943,
     "geom:longitude":2.092074,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Tagomago, 5",
     "sg:city":"S. Quirze Valles",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169606441,
-    "wof:lastmodified":1449033200,
+    "wof:lastmodified":1466245143,
     "wof:name":"Abezeta S. A.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.092074,41.520943,2.092074,41.520943],
+  "bbox": [
+    2.092074,
+    41.520943,
+    2.092074,
+    41.520943
+],
   "geometry": {"coordinates":[2.092074,41.520943],"type":"Point"}
 }

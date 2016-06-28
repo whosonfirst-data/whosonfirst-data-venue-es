@@ -2,13 +2,14 @@
   "id": 169561867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.74171,41.510063,-5.74171,41.510063",
     "geom:latitude":41.510063,
     "geom:longitude":-5.74171,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Tres Cruces, 11",
     "sg:city":"Zamora",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169561867,
-    "wof:lastmodified":1449035019,
+    "wof:lastmodified":1466245105,
     "wof:name":"3ai+.d+.g A.i.e.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.74171,41.510063,-5.74171,41.510063],
+  "bbox": [
+    -5.74171,
+    41.510063,
+    -5.74171,
+    41.510063
+],
   "geometry": {"coordinates":[-5.74171,41.510063],"type":"Point"}
 }

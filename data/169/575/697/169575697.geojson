@@ -2,13 +2,14 @@
   "id": 169575697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.461239,39.45874,-0.461239,39.45874",
     "geom:latitude":39.45874,
     "geom:longitude":-0.461239,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de San Francisco, 23",
     "sg:city":"Alaquas",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169575697,
-    "wof:lastmodified":1449033642,
+    "wof:lastmodified":1466245115,
     "wof:name":"Abanicos Gedart C.b.",
     "wof:parent_id":85864219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.461239,39.45874,-0.461239,39.45874],
+  "bbox": [
+    -0.461239,
+    39.45874,
+    -0.461239,
+    39.45874
+],
   "geometry": {"coordinates":[-0.461239,39.45874],"type":"Point"}
 }

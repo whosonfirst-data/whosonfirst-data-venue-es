@@ -2,13 +2,14 @@
   "id": 169627511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-14.353637,28.060625,-14.353637,28.060625",
     "geom:latitude":28.060625,
     "geom:longitude":-14.353637,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Perez Galdos, 146",
     "sg:city":"Morro Jable",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169627511,
-    "wof:lastmodified":1449036042,
+    "wof:lastmodified":1466245157,
     "wof:name":"Abou-medlej Suarez Maria Del Pino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-14.353637,28.060625,-14.353637,28.060625],
+  "bbox": [
+    -14.353637,
+    28.060625,
+    -14.353637,
+    28.060625
+],
   "geometry": {"coordinates":[-14.353637,28.060625],"type":"Point"}
 }

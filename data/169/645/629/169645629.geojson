@@ -2,13 +2,14 @@
   "id": 169645629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.995005,37.389473,-5.995005,37.389473",
     "geom:latitude":37.389473,
     "geom:longitude":-5.995005,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Tetuan, 1",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169645629,
-    "wof:lastmodified":1449033004,
+    "wof:lastmodified":1466245169,
     "wof:name":"Abrimport S.l.",
     "wof:parent_id":85864165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.995005,37.389473,-5.995005,37.389473],
+  "bbox": [
+    -5.995005,
+    37.389473,
+    -5.995005,
+    37.389473
+],
   "geometry": {"coordinates":[-5.995005,37.389473],"type":"Point"}
 }

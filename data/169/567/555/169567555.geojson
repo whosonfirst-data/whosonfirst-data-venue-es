@@ -2,13 +2,14 @@
   "id": 169567555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.236306,41.451977,2.236306,41.451977",
     "geom:latitude":41.451977,
     "geom:longitude":2.236306,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carr Felip Ii, 10",
     "sg:city":"Badalona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169567555,
-    "wof:lastmodified":1449035995,
+    "wof:lastmodified":1466245201,
     "wof:name":"Abad Cubero Maria De Los Angeles",
     "wof:parent_id":85799485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.236306,41.451977,2.236306,41.451977],
+  "bbox": [
+    2.236306,
+    41.451977,
+    2.236306,
+    41.451977
+],
   "geometry": {"coordinates":[2.236306,41.451977],"type":"Point"}
 }

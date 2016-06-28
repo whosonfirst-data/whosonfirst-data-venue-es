@@ -2,13 +2,14 @@
   "id": 169589633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.588804,40.032597,-3.588804,40.032597",
     "geom:latitude":40.032597,
     "geom:longitude":-3.588804,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Cuarteles (de Los), 124",
     "sg:city":"Aranjuez",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169589633,
-    "wof:lastmodified":1449034450,
+    "wof:lastmodified":1466245136,
     "wof:name":"Abellan Del Vas Maria Del Carmen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.588804,40.032597,-3.588804,40.032597],
+  "bbox": [
+    -3.588804,
+    40.032597,
+    -3.588804,
+    40.032597
+],
   "geometry": {"coordinates":[-3.588804,40.032597],"type":"Point"}
 }

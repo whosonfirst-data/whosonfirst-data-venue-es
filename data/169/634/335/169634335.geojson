@@ -2,13 +2,14 @@
   "id": 169634335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.037269,43.310852,-3.037269,43.310852",
     "geom:latitude":43.310852,
     "geom:longitude":-3.037269,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Urioste, 145",
     "sg:city":"Urioste",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169634335,
-    "wof:lastmodified":1449034257,
+    "wof:lastmodified":1466245159,
     "wof:name":"Abratrans S.l",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.037269,43.310852,-3.037269,43.310852],
+  "bbox": [
+    -3.037269,
+    43.310852,
+    -3.037269,
+    43.310852
+],
   "geometry": {"coordinates":[-3.037269,43.310852],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169567239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-8.206262,43.483177,-8.206262,43.483177",
     "geom:latitude":43.483177,
     "geom:longitude":-8.206262,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Rua Vila Do Conde, 11",
     "sg:city":"Ferrol",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169567239,
-    "wof:lastmodified":1449035993,
+    "wof:lastmodified":1466245200,
     "wof:name":"Abad Calvo Antonio",
     "wof:parent_id":85799423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-8.206262,43.483177,-8.206262,43.483177],
+  "bbox": [
+    -8.206262,
+    43.483177,
+    -8.206262,
+    43.483177
+],
   "geometry": {"coordinates":[-8.206262,43.483177],"type":"Point"}
 }

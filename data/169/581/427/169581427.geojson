@@ -2,13 +2,14 @@
   "id": 169581427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.329613,35.88953,-5.329613,35.88953",
     "geom:latitude":35.88953,
     "geom:longitude":-5.329613,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Ejercito Espa\u00d1ol, 11",
     "sg:city":"Ceuta",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169581427,
-    "wof:lastmodified":1449033381,
+    "wof:lastmodified":1466245120,
     "wof:name":"Abdeselam Chaib Mustafa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.329613,35.88953,-5.329613,35.88953],
+  "bbox": [
+    -5.329613,
+    35.88953,
+    -5.329613,
+    35.88953
+],
   "geometry": {"coordinates":[-5.329613,35.88953],"type":"Point"}
 }

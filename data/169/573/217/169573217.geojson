@@ -2,13 +2,14 @@
   "id": 169573217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.076232,41.358192,2.076232,41.358192",
     "geom:latitude":41.358192,
     "geom:longitude":2.076232,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Bonestar, 58",
     "sg:city":"Cornella Llobregat",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169573217,
-    "wof:lastmodified":1449035115,
+    "wof:lastmodified":1466245208,
     "wof:name":"Abajo Alonso Julian",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.076232,41.358192,2.076232,41.358192],
+  "bbox": [
+    2.076232,
+    41.358192,
+    2.076232,
+    41.358192
+],
   "geometry": {"coordinates":[2.076232,41.358192],"type":"Point"}
 }

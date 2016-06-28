@@ -2,13 +2,14 @@
   "id": 169578197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.07862,41.361324,2.07862,41.361324",
     "geom:latitude":41.361324,
     "geom:longitude":2.07862,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Mossen Andreu, 26",
     "sg:city":"Cornella Llobregat",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169578197,
-    "wof:lastmodified":1449033520,
+    "wof:lastmodified":1466245217,
     "wof:name":"Abastecedora Catalana S. A.",
     "wof:parent_id":85799591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.07862,41.361324,2.07862,41.361324],
+  "bbox": [
+    2.07862,
+    41.361324,
+    2.07862,
+    41.361324
+],
   "geometry": {"coordinates":[2.07862,41.361324],"type":"Point"}
 }

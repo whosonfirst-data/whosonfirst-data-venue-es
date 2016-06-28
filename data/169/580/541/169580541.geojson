@@ -2,13 +2,14 @@
   "id": 169580541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.767998,38.141716,-0.767998,38.141716",
     "geom:latitude":38.141716,
     "geom:longitude":-0.767998,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Alcalde Jose Rodriguez, 3",
     "sg:city":"Dolores",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169580541,
-    "wof:lastmodified":1449034912,
+    "wof:lastmodified":1466245220,
     "wof:name":"Abdeljabbar Ismail Rabia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.767998,38.141716,-0.767998,38.141716],
+  "bbox": [
+    -0.767998,
+    38.141716,
+    -0.767998,
+    38.141716
+],
   "geometry": {"coordinates":[-0.767998,38.141716],"type":"Point"}
 }

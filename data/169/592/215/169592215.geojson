@@ -2,13 +2,14 @@
   "id": 169592215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.703116,40.433857,-3.703116,40.433857",
     "geom:latitude":40.433857,
     "geom:longitude":-3.703116,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Eloy Gonzalo, 8",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169592215,
-    "wof:lastmodified":1449034584,
+    "wof:lastmodified":1466245133,
     "wof:name":"Abellan Martinez Jose Luis",
     "wof:parent_id":85863661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.703116,40.433857,-3.703116,40.433857],
+  "bbox": [
+    -3.703116,
+    40.433857,
+    -3.703116,
+    40.433857
+],
   "geometry": {"coordinates":[-3.703116,40.433857],"type":"Point"}
 }

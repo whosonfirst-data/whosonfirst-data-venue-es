@@ -2,13 +2,14 @@
   "id": 169672245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.316561,35.891712,-5.316561,35.891712",
     "geom:latitude":35.891712,
     "geom:longitude":-5.316561,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Espa\u00d1a, 5",
     "sg:city":"Ceuta",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169672245,
-    "wof:lastmodified":1449032890,
+    "wof:lastmodified":1466245181,
     "wof:name":"Academia De Conductores Y Servicios De Ceuta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.316561,35.891712,-5.316561,35.891712],
+  "bbox": [
+    -5.316561,
+    35.891712,
+    -5.316561,
+    35.891712
+],
   "geometry": {"coordinates":[-5.316561,35.891712],"type":"Point"}
 }

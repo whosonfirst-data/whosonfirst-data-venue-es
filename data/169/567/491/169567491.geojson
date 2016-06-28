@@ -2,13 +2,14 @@
   "id": 169567491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.198983,40.623878,-3.198983,40.623878",
     "geom:latitude":40.623878,
     "geom:longitude":-3.198983,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Francisco Aritio, 156",
     "sg:city":"Guadalajara",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169567491,
-    "wof:lastmodified":1449035993,
+    "wof:lastmodified":1466245201,
     "wof:name":"Abad Chicharro Roberto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.198983,40.623878,-3.198983,40.623878],
+  "bbox": [
+    -3.198983,
+    40.623878,
+    -3.198983,
+    40.623878
+],
   "geometry": {"coordinates":[-3.198983,40.623878],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169644795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.796925,38.092079,-1.796925,38.092079",
     "geom:latitude":38.092079,
     "geom:longitude":-1.796925,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Valle Inclan, 4",
     "sg:city":"Cehegin",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169644795,
-    "wof:lastmodified":1449034575,
+    "wof:lastmodified":1466245170,
     "wof:name":"Abril Sanchez Maria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.796925,38.092079,-1.796925,38.092079],
+  "bbox": [
+    -1.796925,
+    38.092079,
+    -1.796925,
+    38.092079
+],
   "geometry": {"coordinates":[-1.796925,38.092079],"type":"Point"}
 }

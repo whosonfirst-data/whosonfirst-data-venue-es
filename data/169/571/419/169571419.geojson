@@ -2,13 +2,14 @@
   "id": 169571419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.112696,40.946041,-4.112696,40.946041",
     "geom:latitude":40.946041,
     "geom:longitude":-4.112696,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Ca\u00d1uelos (los), 9",
     "sg:city":"Segovia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169571419,
-    "wof:lastmodified":1449034949,
+    "wof:lastmodified":1466245103,
     "wof:name":"Abad Pascual Nicomedes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.112696,40.946041,-4.112696,40.946041],
+  "bbox": [
+    -4.112696,
+    40.946041,
+    -4.112696,
+    40.946041
+],
   "geometry": {"coordinates":[-4.112696,40.946041],"type":"Point"}
 }

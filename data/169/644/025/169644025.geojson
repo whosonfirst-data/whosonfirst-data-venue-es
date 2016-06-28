@@ -2,13 +2,14 @@
   "id": 169644025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.410471,39.530964,-0.410471,39.530964",
     "geom:latitude":39.530964,
     "geom:longitude":-0.410471,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Urb Villas (las), 7",
     "sg:city":"Rocafort",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169644025,
-    "wof:lastmodified":1449034578,
+    "wof:lastmodified":1466245224,
     "wof:name":"Abril Raga Isabel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.410471,39.530964,-0.410471,39.530964],
+  "bbox": [
+    -0.410471,
+    39.530964,
+    -0.410471,
+    39.530964
+],
   "geometry": {"coordinates":[-0.410471,39.530964],"type":"Point"}
 }

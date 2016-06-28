@@ -2,13 +2,14 @@
   "id": 169669067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.952783,37.25597,-6.952783,37.25597",
     "geom:latitude":37.25597,
     "geom:longitude":-6.952783,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Hernan Cortes, 1",
     "sg:city":"Huelva",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169669067,
-    "wof:lastmodified":1449033055,
+    "wof:lastmodified":1466245179,
     "wof:name":"Academia Britanica Y Casa Internacional Cordoba S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.952783,37.25597,-6.952783,37.25597],
+  "bbox": [
+    -6.952783,
+    37.25597,
+    -6.952783,
+    37.25597
+],
   "geometry": {"coordinates":[-6.952783,37.25597],"type":"Point"}
 }

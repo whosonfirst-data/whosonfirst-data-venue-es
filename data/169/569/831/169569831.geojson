@@ -2,13 +2,14 @@
   "id": 169569831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.194583,41.910549,0.194583,41.910549",
     "geom:latitude":41.910549,
     "geom:longitude":0.194583,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Joaquin Costa, 21",
     "sg:city":"Monzon",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169569831,
-    "wof:lastmodified":1449035830,
+    "wof:lastmodified":1466245209,
     "wof:name":"Abadias Salinas Maria Angeles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.194583,41.910549,0.194583,41.910549],
+  "bbox": [
+    0.194583,
+    41.910549,
+    0.194583,
+    41.910549
+],
   "geometry": {"coordinates":[0.194583,41.910549],"type":"Point"}
 }

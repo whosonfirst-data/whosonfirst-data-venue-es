@@ -2,13 +2,14 @@
   "id": 169593685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.597552,36.804119,-2.597552,36.804119",
     "geom:latitude":36.804119,
     "geom:longitude":-2.597552,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctra Alicun (de), 396",
     "sg:city":"Parador Hortichuelas",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169593685,
-    "wof:lastmodified":1449034879,
+    "wof:lastmodified":1466245136,
     "wof:name":"Abellan Padilla Maria Carmen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.597552,36.804119,-2.597552,36.804119],
+  "bbox": [
+    -2.597552,
+    36.804119,
+    -2.597552,
+    36.804119
+],
   "geometry": {"coordinates":[-2.597552,36.804119],"type":"Point"}
 }

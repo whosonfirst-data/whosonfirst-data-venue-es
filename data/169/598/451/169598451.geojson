@@ -2,13 +2,14 @@
   "id": 169598451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.702488,40.429363,-3.702488,40.429363",
     "geom:latitude":40.429363,
     "geom:longitude":-3.702488,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Fuencarral, 114",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169598451,
-    "wof:lastmodified":1449032858,
+    "wof:lastmodified":1466245141,
     "wof:name":"Abello Gallo Maria Teresa",
     "wof:parent_id":85863661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.702488,40.429363,-3.702488,40.429363],
+  "bbox": [
+    -3.702488,
+    40.429363,
+    -3.702488,
+    40.429363
+],
   "geometry": {"coordinates":[-3.702488,40.429363],"type":"Point"}
 }

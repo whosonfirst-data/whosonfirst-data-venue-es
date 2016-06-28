@@ -2,13 +2,14 @@
   "id": 169582031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.475904,36.705009,-4.475904,36.705009",
     "geom:latitude":36.705009,
     "geom:longitude":-4.475904,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Veracruz, 72",
     "sg:city":"Malaga",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169582031,
-    "wof:lastmodified":1449034463,
+    "wof:lastmodified":1466245117,
     "wof:name":"Abdourahmane  Diarra",
     "wof:parent_id":85863535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.475904,36.705009,-4.475904,36.705009],
+  "bbox": [
+    -4.475904,
+    36.705009,
+    -4.475904,
+    36.705009
+],
   "geometry": {"coordinates":[-4.475904,36.705009],"type":"Point"}
 }

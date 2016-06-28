@@ -2,13 +2,14 @@
   "id": 169635125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.008256,38.981602,-4.008256,38.981602",
     "geom:latitude":38.981602,
     "geom:longitude":-4.008256,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctra Carretera Carrion (poligono Industrial), S/n",
     "sg:city":"Ciudad Real",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169635125,
-    "wof:lastmodified":1449034101,
+    "wof:lastmodified":1466245159,
     "wof:name":"Abrego Automoviles S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.008256,38.981602,-4.008256,38.981602],
+  "bbox": [
+    -4.008256,
+    38.981602,
+    -4.008256,
+    38.981602
+],
   "geometry": {"coordinates":[-4.008256,38.981602],"type":"Point"}
 }

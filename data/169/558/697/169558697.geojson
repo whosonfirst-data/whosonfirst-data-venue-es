@@ -2,13 +2,14 @@
   "id": 169558697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.791626,39.281181,-2.791626,39.281181",
     "geom:latitude":39.281181,
     "geom:longitude":-2.791626,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Arenas De San Juan, 17",
     "sg:city":"Socuellamos",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169558697,
-    "wof:lastmodified":1449033581,
+    "wof:lastmodified":1466245091,
     "wof:name":"100 Por 100 Cay. S.l.u.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.791626,39.281181,-2.791626,39.281181],
+  "bbox": [
+    -2.791626,
+    39.281181,
+    -2.791626,
+    39.281181
+],
   "geometry": {"coordinates":[-2.791626,39.281181],"type":"Point"}
 }

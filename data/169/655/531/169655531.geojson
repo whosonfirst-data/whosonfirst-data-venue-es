@@ -2,13 +2,14 @@
   "id": 169655531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.154882,41.427025,2.154882,41.427025",
     "geom:latitude":41.427025,
     "geom:longitude":2.154882,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Serrallonga, 5",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169655531,
-    "wof:lastmodified":1449034587,
+    "wof:lastmodified":1466245173,
     "wof:name":"Abuja Nieto Maria Jose",
     "wof:parent_id":85799399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.154882,41.427025,2.154882,41.427025],
+  "bbox": [
+    2.154882,
+    41.427025,
+    2.154882,
+    41.427025
+],
   "geometry": {"coordinates":[2.154882,41.427025],"type":"Point"}
 }

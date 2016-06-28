@@ -2,13 +2,14 @@
   "id": 169640651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.68511,43.297207,-5.68511,43.297207",
     "geom:latitude":43.297207,
     "geom:longitude":-5.68511,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Capitan Alonso Nart, 11",
     "sg:city":"Langreo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169640651,
-    "wof:lastmodified":1449034101,
+    "wof:lastmodified":1466245167,
     "wof:name":"Abril Cue Maria Jesus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.68511,43.297207,-5.68511,43.297207],
+  "bbox": [
+    -5.68511,
+    43.297207,
+    -5.68511,
+    43.297207
+],
   "geometry": {"coordinates":[-5.68511,43.297207],"type":"Point"}
 }

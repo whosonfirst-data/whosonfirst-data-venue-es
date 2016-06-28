@@ -2,13 +2,14 @@
   "id": 169684953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.765034,39.528931,2.765034,39.528931",
     "geom:latitude":39.528931,
     "geom:longitude":2.765034,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctra. Militar, S/n",
     "sg:city":"S'aranjassa",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169684953,
-    "wof:lastmodified":1449033511,
+    "wof:lastmodified":1466245228,
     "wof:name":"Agromarin Sat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.765034,39.528931,2.765034,39.528931],
+  "bbox": [
+    2.765034,
+    39.528931,
+    2.765034,
+    39.528931
+],
   "geometry": {"coordinates":[2.765034,39.528931],"type":"Point"}
 }

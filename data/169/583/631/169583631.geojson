@@ -2,13 +2,14 @@
   "id": 169583631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.046656,40.053047,0.046656,40.053047",
     "geom:latitude":40.053047,
     "geom:longitude":0.046656,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Aptos. Benisol, S/n",
     "sg:city":"Benicassim",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169583631,
-    "wof:lastmodified":1449035266,
+    "wof:lastmodified":1466245122,
     "wof:name":"Abego Lavernia Elena",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.046656,40.053047,0.046656,40.053047],
+  "bbox": [
+    0.046656,
+    40.053047,
+    0.046656,
+    40.053047
+],
   "geometry": {"coordinates":[0.046656,40.053047],"type":"Point"}
 }

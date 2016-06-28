@@ -2,13 +2,14 @@
   "id": 169604473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.283637,36.716022,-4.283637,36.716022",
     "geom:latitude":36.716022,
     "geom:longitude":-4.283637,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Sierra De Las Nieves, 15",
     "sg:city":"Rincon Victoria",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169604473,
-    "wof:lastmodified":1449035568,
+    "wof:lastmodified":1466245144,
     "wof:name":"Aberturas Vila Damian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.283637,36.716022,-4.283637,36.716022],
+  "bbox": [
+    -4.283637,
+    36.716022,
+    -4.283637,
+    36.716022
+],
   "geometry": {"coordinates":[-4.283637,36.716022],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169564781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.545889,40.42981,-3.545889,40.42981",
     "geom:latitude":40.42981,
     "geom:longitude":-3.545889,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Jose Garate (de), S/n",
     "sg:city":"Coslada",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169564781,
-    "wof:lastmodified":1449035764,
+    "wof:lastmodified":1466245189,
     "wof:name":"Aaelectric Servicios S.l.",
     "wof:parent_id":85863631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.545889,40.42981,-3.545889,40.42981],
+  "bbox": [
+    -3.545889,
+    40.42981,
+    -3.545889,
+    40.42981
+],
   "geometry": {"coordinates":[-3.545889,40.42981],"type":"Point"}
 }

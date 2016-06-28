@@ -2,13 +2,14 @@
   "id": 169659589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.277813,41.693348,2.277813,41.693348",
     "geom:latitude":41.693348,
     "geom:longitude":2.277813,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Pol. Ind. Congost, 8",
     "sg:city":"La Garriga",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169659589,
-    "wof:lastmodified":1449033029,
+    "wof:lastmodified":1466245177,
     "wof:name":"Acabados Del Valles S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.277813,41.693348,2.277813,41.693348],
+  "bbox": [
+    2.277813,
+    41.693348,
+    2.277813,
+    41.693348
+],
   "geometry": {"coordinates":[2.277813,41.693348],"type":"Point"}
 }

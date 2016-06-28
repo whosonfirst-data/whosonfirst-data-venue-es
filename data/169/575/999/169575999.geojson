@@ -2,13 +2,14 @@
   "id": 169575999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.047633,41.331844,2.047633,41.331844",
     "geom:latitude":41.331844,
     "geom:longitude":2.047633,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Asturies, 8",
     "sg:city":"S. Boi Llobregat",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169575999,
-    "wof:lastmodified":1449033642,
+    "wof:lastmodified":1466245124,
     "wof:name":"Abantia Mantenimiento S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.047633,41.331844,2.047633,41.331844],
+  "bbox": [
+    2.047633,
+    41.331844,
+    2.047633,
+    41.331844
+],
   "geometry": {"coordinates":[2.047633,41.331844],"type":"Point"}
 }

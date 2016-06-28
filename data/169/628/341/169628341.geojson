@@ -2,13 +2,14 @@
   "id": 169628341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-8.411569,43.36528,-8.411569,43.36528",
     "geom:latitude":43.36528,
     "geom:longitude":-8.411569,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Plaz Lugo, 1",
     "sg:city":"Coru\u00d1a",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169628341,
-    "wof:lastmodified":1449035334,
+    "wof:lastmodified":1466245156,
     "wof:name":"Aboy Garcia Maria Esther",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-8.411569,43.36528,-8.411569,43.36528],
+  "bbox": [
+    -8.411569,
+    43.36528,
+    -8.411569,
+    43.36528
+],
   "geometry": {"coordinates":[-8.411569,43.36528],"type":"Point"}
 }

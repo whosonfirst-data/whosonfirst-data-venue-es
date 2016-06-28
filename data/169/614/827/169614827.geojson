@@ -2,13 +2,14 @@
   "id": 169614827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.662693,43.542599,-5.662693,43.542599",
     "geom:latitude":43.542599,
     "geom:longitude":-5.662693,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Instituto, 23",
     "sg:city":"Gijon",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169614827,
-    "wof:lastmodified":1449036057,
+    "wof:lastmodified":1466245153,
     "wof:name":"Ablanedo Iglesias Juan Carlos",
     "wof:parent_id":85799415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.662693,43.542599,-5.662693,43.542599],
+  "bbox": [
+    -5.662693,
+    43.542599,
+    -5.662693,
+    43.542599
+],
   "geometry": {"coordinates":[-5.662693,43.542599],"type":"Point"}
 }

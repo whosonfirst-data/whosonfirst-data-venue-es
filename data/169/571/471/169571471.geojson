@@ -2,13 +2,14 @@
   "id": 169571471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.872108,41.677044,-0.872108,41.677044",
     "geom:latitude":41.677044,
     "geom:longitude":-0.872108,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de San Juan De La Pe\u00d1a, 181",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169571471,
-    "wof:lastmodified":1449034947,
+    "wof:lastmodified":1466245211,
     "wof:name":"Abad Perez Sofia",
     "wof:parent_id":85863293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.872108,41.677044,-0.872108,41.677044],
+  "bbox": [
+    -0.872108,
+    41.677044,
+    -0.872108,
+    41.677044
+],
   "geometry": {"coordinates":[-0.872108,41.677044],"type":"Point"}
 }

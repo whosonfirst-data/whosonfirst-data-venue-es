@@ -2,13 +2,14 @@
   "id": 169638851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.038892,37.196476,-4.038892,37.196476",
     "geom:latitude":37.196476,
     "geom:longitude":-4.038892,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Alemania(p I La Catalana), 15",
     "sg:city":"Huetor-tajar",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169638851,
-    "wof:lastmodified":1449032867,
+    "wof:lastmodified":1466245169,
     "wof:name":"Abrhametal S.c.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.038892,37.196476,-4.038892,37.196476],
+  "bbox": [
+    -4.038892,
+    37.196476,
+    -4.038892,
+    37.196476
+],
   "geometry": {"coordinates":[-4.038892,37.196476],"type":"Point"}
 }

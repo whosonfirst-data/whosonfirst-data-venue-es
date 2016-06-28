@@ -2,13 +2,14 @@
   "id": 169673005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.748452,36.666,-4.748452,36.666",
     "geom:latitude":36.666,
     "geom:longitude":-4.748452,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Andalucia, S/n",
     "sg:city":"Coin",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169673005,
-    "wof:lastmodified":1449033959,
+    "wof:lastmodified":1466245226,
     "wof:name":"Academia De Estudios Duarte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.748452,36.666,-4.748452,36.666],
+  "bbox": [
+    -4.748452,
+    36.666,
+    -4.748452,
+    36.666
+],
   "geometry": {"coordinates":[-4.748452,36.666],"type":"Point"}
 }

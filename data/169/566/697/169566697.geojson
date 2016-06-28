@@ -2,13 +2,14 @@
   "id": 169566697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.794623,40.284245,-3.794623,40.284245",
     "geom:latitude":40.284245,
     "geom:longitude":-3.794623,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Leganes (de), 1",
     "sg:city":"Fuenlabrada",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169566697,
-    "wof:lastmodified":1449032753,
+    "wof:lastmodified":1466245198,
     "wof:name":"Abad Aguado Juan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.794623,40.284245,-3.794623,40.284245],
+  "bbox": [
+    -3.794623,
+    40.284245,
+    -3.794623,
+    40.284245
+],
   "geometry": {"coordinates":[-3.794623,40.284245],"type":"Point"}
 }

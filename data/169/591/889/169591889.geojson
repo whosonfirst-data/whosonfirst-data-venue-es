@@ -2,13 +2,14 @@
   "id": 169591889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.384827,39.541912,2.384827,39.541912",
     "geom:latitude":39.541912,
     "geom:longitude":2.384827,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Cami Sant Carles, 6",
     "sg:city":"Port D'andratx",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":169591889,
-    "wof:lastmodified":1449034449,
+    "wof:lastmodified":1466245139,
     "wof:name":"Abellan Lopez Aurelio Santos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "y"
     ]
 },
-  "bbox": [2.384827,39.541912,2.384827,39.541912],
+  "bbox": [
+    2.384827,
+    39.541912,
+    2.384827,
+    39.541912
+],
   "geometry": {"coordinates":[2.384827,39.541912],"type":"Point"}
 }

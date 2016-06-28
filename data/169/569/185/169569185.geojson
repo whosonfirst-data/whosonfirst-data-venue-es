@@ -2,13 +2,14 @@
   "id": 169569185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.126474,41.047134,-0.126474,41.047134",
     "geom:latitude":41.047134,
     "geom:longitude":-0.126474,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Miguel Fleta, 27",
     "sg:city":"Alca\u00f1iz",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169569185,
-    "wof:lastmodified":1449035829,
+    "wof:lastmodified":1466245096,
     "wof:name":"Abadia Gil Celia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.126474,41.047134,-0.126474,41.047134],
+  "bbox": [
+    -0.126474,
+    41.047134,
+    -0.126474,
+    41.047134
+],
   "geometry": {"coordinates":[-0.126474,41.047134],"type":"Point"}
 }

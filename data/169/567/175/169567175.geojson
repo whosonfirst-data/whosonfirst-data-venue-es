@@ -2,13 +2,14 @@
   "id": 169567175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.930615,41.69635,-3.930615,41.69635",
     "geom:latitude":41.69635,
     "geom:longitude":-3.930615,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Las Cruces, 15",
     "sg:city":"Roa",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169567175,
-    "wof:lastmodified":1449035995,
+    "wof:lastmodified":1466245200,
     "wof:name":"Abad Bombin Adolfo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.930615,41.69635,-3.930615,41.69635],
+  "bbox": [
+    -3.930615,
+    41.69635,
+    -3.930615,
+    41.69635
+],
   "geometry": {"coordinates":[-3.930615,41.69635],"type":"Point"}
 }

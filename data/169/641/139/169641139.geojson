@@ -2,13 +2,14 @@
   "id": 169641139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.03305,40.547131,-1.03305,40.547131",
     "geom:latitude":40.547131,
     "geom:longitude":-1.03305,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Granero, 5",
     "sg:city":"Alfambra",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169641139,
-    "wof:lastmodified":1449035169,
+    "wof:lastmodified":1466245164,
     "wof:name":"Abril Dolz Francisco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.03305,40.547131,-1.03305,40.547131],
+  "bbox": [
+    -1.03305,
+    40.547131,
+    -1.03305,
+    40.547131
+],
   "geometry": {"coordinates":[-1.03305,40.547131],"type":"Point"}
 }

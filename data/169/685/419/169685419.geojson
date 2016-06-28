@@ -2,13 +2,14 @@
   "id": 169685419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.467922,36.840164,-2.467922,36.840164",
     "geom:latitude":36.840164,
     "geom:longitude":-2.467922,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"S. Grazalema (p I La Gangosa), 33",
     "sg:city":"Parador Hortichuelas",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169685419,
-    "wof:lastmodified":1449035889,
+    "wof:lastmodified":1466245231,
     "wof:name":"Agromecu Cb",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.467922,36.840164,-2.467922,36.840164],
+  "bbox": [
+    -2.467922,
+    36.840164,
+    -2.467922,
+    36.840164
+],
   "geometry": {"coordinates":[-2.467922,36.840164],"type":"Point"}
 }

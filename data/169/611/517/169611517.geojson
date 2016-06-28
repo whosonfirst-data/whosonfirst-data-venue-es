@@ -2,13 +2,14 @@
   "id": 169611517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.877387,41.65266,-0.877387,41.65266",
     "geom:latitude":41.65266,
     "geom:longitude":-0.877387,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de San Jorge, 9",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169611517,
-    "wof:lastmodified":1449035262,
+    "wof:lastmodified":1466245148,
     "wof:name":"Abio Berdala Jose Luis",
     "wof:parent_id":85863329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.877387,41.65266,-0.877387,41.65266],
+  "bbox": [
+    -0.877387,
+    41.65266,
+    -0.877387,
+    41.65266
+],
   "geometry": {"coordinates":[-0.877387,41.65266],"type":"Point"}
 }

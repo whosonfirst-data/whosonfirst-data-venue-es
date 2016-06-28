@@ -2,13 +2,14 @@
   "id": 169587035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.158892,41.437279,2.158892,41.437279",
     "geom:latitude":41.437279,
     "geom:longitude":2.158892,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Hedilla, 110",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169587035,
-    "wof:lastmodified":1449033821,
+    "wof:lastmodified":1466245222,
     "wof:name":"Abella Gonzalez Antonio",
     "wof:parent_id":85799399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.158892,41.437279,2.158892,41.437279],
+  "bbox": [
+    2.158892,
+    41.437279,
+    2.158892,
+    41.437279
+],
   "geometry": {"coordinates":[2.158892,41.437279],"type":"Point"}
 }

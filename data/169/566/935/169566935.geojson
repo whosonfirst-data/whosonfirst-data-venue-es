@@ -2,13 +2,14 @@
   "id": 169566935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.88501,41.668213,-0.88501,41.668213",
     "geom:latitude":41.668213,
     "geom:longitude":-0.88501,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Flora Tristan, 13",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169566935,
-    "wof:lastmodified":1449032754,
+    "wof:lastmodified":1466245199,
     "wof:name":"Abad Anzano Evelia",
     "wof:parent_id":85863309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.88501,41.668213,-0.88501,41.668213],
+  "bbox": [
+    -0.88501,
+    41.668213,
+    -0.88501,
+    41.668213
+],
   "geometry": {"coordinates":[-0.88501,41.668213],"type":"Point"}
 }

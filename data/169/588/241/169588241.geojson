@@ -2,13 +2,14 @@
   "id": 169588241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.501674,37.769039,-1.501674,37.769039",
     "geom:latitude":37.769039,
     "geom:longitude":-1.501674,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de General Aznar, 15",
     "sg:city":"Totana",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169588241,
-    "wof:lastmodified":1449035310,
+    "wof:lastmodified":1466245133,
     "wof:name":"Abellan Almagro Maria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.501674,37.769039,-1.501674,37.769039],
+  "bbox": [
+    -1.501674,
+    37.769039,
+    -1.501674,
+    37.769039
+],
   "geometry": {"coordinates":[-1.501674,37.769039],"type":"Point"}
 }

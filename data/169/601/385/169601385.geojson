@@ -2,13 +2,14 @@
   "id": 169601385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.058405,43.089649,-3.058405,43.089649",
     "geom:latitude":43.089649,
     "geom:longitude":-3.058405,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctra. Ibaguen, 1",
     "sg:city":"Zuaza",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169601385,
-    "wof:lastmodified":1449034147,
+    "wof:lastmodified":1466245141,
     "wof:name":"Abeltzain Sdad. Coop. Ltda. De Servicio Veterinarios",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.058405,43.089649,-3.058405,43.089649],
+  "bbox": [
+    -3.058405,
+    43.089649,
+    -3.058405,
+    43.089649
+],
   "geometry": {"coordinates":[-3.058405,43.089649],"type":"Point"}
 }

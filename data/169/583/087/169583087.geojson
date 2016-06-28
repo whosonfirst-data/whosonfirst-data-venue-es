@@ -2,13 +2,14 @@
   "id": 169583087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-13.868193,28.500584,-13.868193,28.500584",
     "geom:latitude":28.500584,
     "geom:longitude":-13.868193,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Murillo, 8",
     "sg:city":"Pto. Rosario",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169583087,
-    "wof:lastmodified":1449035265,
+    "wof:lastmodified":1466245217,
     "wof:name":"Abece Fuerteventura S.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-13.868193,28.500584,-13.868193,28.500584],
+  "bbox": [
+    -13.868193,
+    28.500584,
+    -13.868193,
+    28.500584
+],
   "geometry": {"coordinates":[-13.868193,28.500584],"type":"Point"}
 }

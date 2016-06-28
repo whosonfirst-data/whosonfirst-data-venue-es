@@ -2,13 +2,14 @@
   "id": 169685515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.963756,37.239494,-3.963756,37.239494",
     "geom:latitude":37.239494,
     "geom:longitude":-3.963756,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctra. Tocon, S/n",
     "sg:city":"Villanueva Mesia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169685515,
-    "wof:lastmodified":1449035884,
+    "wof:lastmodified":1466245231,
     "wof:name":"Agromesia S.c.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.963756,37.239494,-3.963756,37.239494],
+  "bbox": [
+    -3.963756,
+    37.239494,
+    -3.963756,
+    37.239494
+],
   "geometry": {"coordinates":[-3.963756,37.239494],"type":"Point"}
 }

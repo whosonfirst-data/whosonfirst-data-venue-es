@@ -2,13 +2,14 @@
   "id": 169570135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.681575,40.424717,-3.681575,40.424717",
     "geom:latitude":40.424717,
     "geom:longitude":-3.681575,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Castello, 25",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169570135,
-    "wof:lastmodified":1449034645,
+    "wof:lastmodified":1466245206,
     "wof:name":"Abad Lara Maria Luisa",
     "wof:parent_id":85863675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.681575,40.424717,-3.681575,40.424717],
+  "bbox": [
+    -3.681575,
+    40.424717,
+    -3.681575,
+    40.424717
+],
   "geometry": {"coordinates":[-3.681575,40.424717],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169596041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.221746,41.304508,1.221746,41.304508",
     "geom:latitude":41.304508,
     "geom:longitude":1.221746,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Francesc Guma Ferran, 17",
     "sg:city":"Valls",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169596041,
-    "wof:lastmodified":1449034372,
+    "wof:lastmodified":1466245136,
     "wof:name":"Abella Rovira Joan Ramon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.221746,41.304508,1.221746,41.304508],
+  "bbox": [
+    1.221746,
+    41.304508,
+    1.221746,
+    41.304508
+],
   "geometry": {"coordinates":[1.221746,41.304508],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169598245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.50514,39.198185,-0.50514,39.198185",
     "geom:latitude":39.198185,
     "geom:longitude":-0.50514,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carr Calvo Acacio, 14",
     "sg:city":"Alcudia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169598245,
-    "wof:lastmodified":1449032861,
+    "wof:lastmodified":1466245139,
     "wof:name":"Abel Lledo Joaquin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.50514,39.198185,-0.50514,39.198185],
+  "bbox": [
+    -0.50514,
+    39.198185,
+    -0.50514,
+    39.198185
+],
   "geometry": {"coordinates":[-0.50514,39.198185],"type":"Point"}
 }

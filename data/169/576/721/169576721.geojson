@@ -2,13 +2,14 @@
   "id": 169576721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.653667,43.041557,-2.653667,43.041557",
     "geom:latitude":43.041557,
     "geom:longitude":-2.653667,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Samartoi, 4",
     "sg:city":"Otxandio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169576721,
-    "wof:lastmodified":1449035200,
+    "wof:lastmodified":1466245119,
     "wof:name":"Abarrategui Jainaga Jose Antonio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.653667,43.041557,-2.653667,43.041557],
+  "bbox": [
+    -2.653667,
+    43.041557,
+    -2.653667,
+    43.041557
+],
   "geometry": {"coordinates":[-2.653667,43.041557],"type":"Point"}
 }

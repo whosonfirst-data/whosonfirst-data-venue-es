@@ -2,13 +2,14 @@
   "id": 169566771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.168575,40.634167,-3.168575,40.634167",
     "geom:latitude":40.634167,
     "geom:longitude":-3.168575,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Plaz Davalos, 8",
     "sg:city":"Guadalajara",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169566771,
-    "wof:lastmodified":1449032753,
+    "wof:lastmodified":1466245198,
     "wof:name":"Abad Alejandre Urbano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.168575,40.634167,-3.168575,40.634167],
+  "bbox": [
+    -3.168575,
+    40.634167,
+    -3.168575,
+    40.634167
+],
   "geometry": {"coordinates":[-3.168575,40.634167],"type":"Point"}
 }

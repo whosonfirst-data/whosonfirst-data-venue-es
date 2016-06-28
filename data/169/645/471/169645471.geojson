@@ -2,13 +2,14 @@
   "id": 169645471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.176587,41.534588,2.176587,41.534588",
     "geom:latitude":41.534588,
     "geom:longitude":2.176587,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Anselm Clave, 25",
     "sg:city":"Santa Perpetua De Mogoda",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169645471,
-    "wof:lastmodified":1449033003,
+    "wof:lastmodified":1466245168,
     "wof:name":"Abril Villalba Jose",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.176587,41.534588,2.176587,41.534588],
+  "bbox": [
+    2.176587,
+    41.534588,
+    2.176587,
+    41.534588
+],
   "geometry": {"coordinates":[2.176587,41.534588],"type":"Point"}
 }

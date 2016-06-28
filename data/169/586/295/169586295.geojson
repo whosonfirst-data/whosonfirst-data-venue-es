@@ -2,13 +2,14 @@
   "id": 169586295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.855302,43.362202,-5.855302,43.362202",
     "geom:latitude":43.362202,
     "geom:longitude":-5.855302,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Marques De Teverga, 3",
     "sg:city":"Oviedo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169586295,
-    "wof:lastmodified":1449035576,
+    "wof:lastmodified":1466245130,
     "wof:name":"Abella Arratibel Alvaro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.855302,43.362202,-5.855302,43.362202],
+  "bbox": [
+    -5.855302,
+    43.362202,
+    -5.855302,
+    43.362202
+],
   "geometry": {"coordinates":[-5.855302,43.362202],"type":"Point"}
 }

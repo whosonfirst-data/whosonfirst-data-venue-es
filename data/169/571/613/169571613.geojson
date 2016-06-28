@@ -2,13 +2,14 @@
   "id": 169571613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.529875,43.474171,-3.529875,43.474171",
     "geom:latitude":43.474171,
     "geom:longitude":-3.529875,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Carmen (el), 6",
     "sg:city":"Noja",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169571613,
-    "wof:lastmodified":1449034946,
+    "wof:lastmodified":1466245106,
     "wof:name":"Abad Pierola Jose Antonio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.529875,43.474171,-3.529875,43.474171],
+  "bbox": [
+    -3.529875,
+    43.474171,
+    -3.529875,
+    43.474171
+],
   "geometry": {"coordinates":[-3.529875,43.474171],"type":"Point"}
 }

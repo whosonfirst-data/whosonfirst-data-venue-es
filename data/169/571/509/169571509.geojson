@@ -2,13 +2,14 @@
   "id": 169571509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.738285,41.639751,-4.738285,41.639751",
     "geom:latitude":41.639751,
     "geom:longitude":-4.738285,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Pase Zorrilla, 96",
     "sg:city":"Valladolid",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169571509,
-    "wof:lastmodified":1449034944,
+    "wof:lastmodified":1466245105,
     "wof:name":"Abad Perez Maria Adela",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.738285,41.639751,-4.738285,41.639751],
+  "bbox": [
+    -4.738285,
+    41.639751,
+    -4.738285,
+    41.639751
+],
   "geometry": {"coordinates":[-4.738285,41.639751],"type":"Point"}
 }

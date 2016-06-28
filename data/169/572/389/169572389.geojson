@@ -2,13 +2,14 @@
   "id": 169572389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.941321,43.259167,-2.941321,43.259167",
     "geom:latitude":43.259167,
     "geom:longitude":-2.941321,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Alam Areilza Doctor, 42",
     "sg:city":"Bilbao",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169572389,
-    "wof:lastmodified":1449034706,
+    "wof:lastmodified":1466245103,
     "wof:name":"Abad Theron Bego\u00f1a",
     "wof:parent_id":85863927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.941321,43.259167,-2.941321,43.259167],
+  "bbox": [
+    -2.941321,
+    43.259167,
+    -2.941321,
+    43.259167
+],
   "geometry": {"coordinates":[-2.941321,43.259167],"type":"Point"}
 }

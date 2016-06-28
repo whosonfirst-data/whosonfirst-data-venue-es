@@ -2,13 +2,14 @@
   "id": 169569471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.972141,43.316502,-1.972141,43.316502",
     "geom:latitude":43.316502,
     "geom:longitude":-1.972141,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Virgen Del Carmen, 5",
     "sg:city":"Donostia-san Sebastian",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169569471,
-    "wof:lastmodified":1449035831,
+    "wof:lastmodified":1466245207,
     "wof:name":"Abadia Perusqui Francisca",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.972141,43.316502,-1.972141,43.316502],
+  "bbox": [
+    -1.972141,
+    43.316502,
+    -1.972141,
+    43.316502
+],
   "geometry": {"coordinates":[-1.972141,43.316502],"type":"Point"}
 }

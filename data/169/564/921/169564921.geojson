@@ -2,13 +2,14 @@
   "id": 169564921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.853867,43.356377,-5.853867,43.356377",
     "geom:latitude":43.356377,
     "geom:longitude":-5.853867,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Perez De La Sala, 53",
     "sg:city":"Oviedo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169564921,
-    "wof:lastmodified":1449035764,
+    "wof:lastmodified":1466245190,
     "wof:name":"Aaf S. A.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.853867,43.356377,-5.853867,43.356377],
+  "bbox": [
+    -5.853867,
+    43.356377,
+    -5.853867,
+    43.356377
+],
   "geometry": {"coordinates":[-5.853867,43.356377],"type":"Point"}
 }

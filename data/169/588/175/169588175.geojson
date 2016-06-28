@@ -2,13 +2,14 @@
   "id": 169588175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.107038,38.609871,-1.107038,38.609871",
     "geom:latitude":38.609871,
     "geom:longitude":-1.107038,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Arcipreste Esteban Diaz, 54",
     "sg:city":"Yecla",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169588175,
-    "wof:lastmodified":1449035311,
+    "wof:lastmodified":1466245132,
     "wof:name":"Abellan Aleman Asociado S.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.107038,38.609871,-1.107038,38.609871],
+  "bbox": [
+    -1.107038,
+    38.609871,
+    -1.107038,
+    38.609871
+],
   "geometry": {"coordinates":[-1.107038,38.609871],"type":"Point"}
 }

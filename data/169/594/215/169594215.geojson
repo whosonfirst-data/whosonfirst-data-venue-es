@@ -2,13 +2,14 @@
   "id": 169594215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.134258,37.986633,-1.134258,37.986633",
     "geom:latitude":37.986633,
     "geom:longitude":-1.134258,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Cuesta Magdalena, 2",
     "sg:city":"Murcia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169594215,
-    "wof:lastmodified":1449033165,
+    "wof:lastmodified":1466245135,
     "wof:name":"Abellan Rios Antonio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.134258,37.986633,-1.134258,37.986633],
+  "bbox": [
+    -1.134258,
+    37.986633,
+    -1.134258,
+    37.986633
+],
   "geometry": {"coordinates":[-1.134258,37.986633],"type":"Point"}
 }

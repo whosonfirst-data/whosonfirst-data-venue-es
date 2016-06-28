@@ -2,13 +2,14 @@
   "id": 169627835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-15.447056,28.059021,-15.447056,28.059021",
     "geom:latitude":28.059021,
     "geom:longitude":-15.447056,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Cruz De Morera, 77",
     "sg:city":"San Francisco De Paula",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169627835,
-    "wof:lastmodified":1449036042,
+    "wof:lastmodified":1466245161,
     "wof:name":"Aboumedlej Suarez Eduardo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-15.447056,28.059021,-15.447056,28.059021],
+  "bbox": [
+    -15.447056,
+    28.059021,
+    -15.447056,
+    28.059021
+],
   "geometry": {"coordinates":[-15.447056,28.059021],"type":"Point"}
 }

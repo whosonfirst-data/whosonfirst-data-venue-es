@@ -2,13 +2,14 @@
   "id": 169571469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.667516,40.44804,-3.667516,40.44804",
     "geom:latitude":40.44804,
     "geom:longitude":-3.667516,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de San Nazario, 2",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169571469,
-    "wof:lastmodified":1449034948,
+    "wof:lastmodified":1466245104,
     "wof:name":"Abad Perez Piedad",
     "wof:parent_id":85799435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.667516,40.44804,-3.667516,40.44804],
+  "bbox": [
+    -3.667516,
+    40.44804,
+    -3.667516,
+    40.44804
+],
   "geometry": {"coordinates":[-3.667516,40.44804],"type":"Point"}
 }

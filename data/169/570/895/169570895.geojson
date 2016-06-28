@@ -2,13 +2,14 @@
   "id": 169570895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.225023,36.599556,-6.225023,36.599556",
     "geom:latitude":36.599556,
     "geom:longitude":-6.225023,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Virgen De Los Milagros, 81",
     "sg:city":"Puerto De Santa Maria",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169570895,
-    "wof:lastmodified":1449034646,
+    "wof:lastmodified":1466245212,
     "wof:name":"Abad Martinez Yolanda",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.225023,36.599556,-6.225023,36.599556],
+  "bbox": [
+    -6.225023,
+    36.599556,
+    -6.225023,
+    36.599556
+],
   "geometry": {"coordinates":[-6.225023,36.599556],"type":"Point"}
 }

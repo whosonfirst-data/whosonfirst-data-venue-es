@@ -2,13 +2,14 @@
   "id": 169686193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.132749,36.937721,-2.132749,36.937721",
     "geom:latitude":36.937721,
     "geom:longitude":-2.132749,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"S. Y Leche, S/n",
     "sg:city":"Campohermoso",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169686193,
-    "wof:lastmodified":1449035154,
+    "wof:lastmodified":1466245228,
     "wof:name":"Agro Organics S.c.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.132749,36.937721,-2.132749,36.937721],
+  "bbox": [
+    -2.132749,
+    36.937721,
+    -2.132749,
+    36.937721
+],
   "geometry": {"coordinates":[-2.132749,36.937721],"type":"Point"}
 }

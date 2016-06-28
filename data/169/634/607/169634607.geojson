@@ -2,13 +2,14 @@
   "id": 169634607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.023289,43.069344,-3.023289,43.069344",
     "geom:latitude":43.069344,
     "geom:longitude":-3.023289,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Poligono Industrial Ayala, S/n",
     "sg:city":"Murga",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169634607,
-    "wof:lastmodified":1449034256,
+    "wof:lastmodified":1466245161,
     "wof:name":"Abrazaderas Del Norte S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.023289,43.069344,-3.023289,43.069344],
+  "bbox": [
+    -3.023289,
+    43.069344,
+    -3.023289,
+    43.069344
+],
   "geometry": {"coordinates":[-3.023289,43.069344],"type":"Point"}
 }

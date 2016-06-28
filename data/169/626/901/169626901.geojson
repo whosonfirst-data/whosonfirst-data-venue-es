@@ -2,13 +2,14 @@
   "id": 169626901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.463311,36.837727,-2.463311,36.837727",
     "geom:latitude":36.837727,
     "geom:longitude":-2.463311,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Paseo De Almeria, 53",
     "sg:city":"Almeria",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169626901,
-    "wof:lastmodified":1449035971,
+    "wof:lastmodified":1466245162,
     "wof:name":"Abotroc Cb",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.463311,36.837727,-2.463311,36.837727],
+  "bbox": [
+    -2.463311,
+    36.837727,
+    -2.463311,
+    36.837727
+],
   "geometry": {"coordinates":[-2.463311,36.837727],"type":"Point"}
 }

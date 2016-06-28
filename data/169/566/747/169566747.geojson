@@ -2,13 +2,14 @@
   "id": 169566747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.485833,37.689125,-4.485833,37.689125",
     "geom:latitude":37.689125,
     "geom:longitude":-4.485833,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Mucho Trigo, 45",
     "sg:city":"Castro Rio",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169566747,
-    "wof:lastmodified":1449032752,
+    "wof:lastmodified":1466245198,
     "wof:name":"Abad Alcantara Juan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.485833,37.689125,-4.485833,37.689125],
+  "bbox": [
+    -4.485833,
+    37.689125,
+    -4.485833,
+    37.689125
+],
   "geometry": {"coordinates":[-4.485833,37.689125],"type":"Point"}
 }

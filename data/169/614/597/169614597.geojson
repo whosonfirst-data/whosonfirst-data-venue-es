@@ -2,13 +2,14 @@
   "id": 169614597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.19763,41.415359,2.19763,41.415359",
     "geom:latitude":41.415359,
     "geom:longitude":2.19763,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Concili De Trento, 136",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169614597,
-    "wof:lastmodified":1449036060,
+    "wof:lastmodified":1466245152,
     "wof:name":"Abla",
     "wof:parent_id":85864011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.19763,41.415359,2.19763,41.415359],
+  "bbox": [
+    2.19763,
+    41.415359,
+    2.19763,
+    41.415359
+],
   "geometry": {"coordinates":[2.19763,41.415359],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169599551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.144889,41.406658,2.144889,41.406658",
     "geom:latitude":41.406658,
     "geom:longitude":2.144889,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Escipio, 34",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169599551,
-    "wof:lastmodified":1449034205,
+    "wof:lastmodified":1466245142,
     "wof:name":"Abello Romeu Juan",
     "wof:parent_id":85863989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.144889,41.406658,2.144889,41.406658],
+  "bbox": [
+    2.144889,
+    41.406658,
+    2.144889,
+    41.406658
+],
   "geometry": {"coordinates":[2.144889,41.406658],"type":"Point"}
 }

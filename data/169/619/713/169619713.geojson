@@ -2,13 +2,14 @@
   "id": 169619713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.485882,38.344318,-0.485882,38.344318",
     "geom:latitude":38.344318,
     "geom:longitude":-0.485882,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Gerona, 19",
     "sg:city":"Alacant",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169619713,
-    "wof:lastmodified":1449033285,
+    "wof:lastmodified":1466245156,
     "wof:name":"Abogados Trivium S.c.",
     "wof:parent_id":85864067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.485882,38.344318,-0.485882,38.344318],
+  "bbox": [
+    -0.485882,
+    38.344318,
+    -0.485882,
+    38.344318
+],
   "geometry": {"coordinates":[-0.485882,38.344318],"type":"Point"}
 }

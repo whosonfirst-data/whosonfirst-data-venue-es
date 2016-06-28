@@ -2,13 +2,14 @@
   "id": 169571581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.465385,38.70908,-0.465385,38.70908",
     "geom:latitude":38.70908,
     "geom:longitude":-0.465385,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"C/ Arquebisbe Domenech, 13",
     "sg:city":"Alcoi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169571581,
-    "wof:lastmodified":1449034947,
+    "wof:lastmodified":1466245211,
     "wof:name":"Abad Pico Maria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.465385,38.70908,-0.465385,38.70908],
+  "bbox": [
+    -0.465385,
+    38.70908,
+    -0.465385,
+    38.70908
+],
   "geometry": {"coordinates":[-0.465385,38.70908],"type":"Point"}
 }

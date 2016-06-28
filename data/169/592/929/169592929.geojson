@@ -2,13 +2,14 @@
   "id": 169592929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.462852,36.836933,-2.462852,36.836933",
     "geom:latitude":36.836933,
     "geom:longitude":-2.462852,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de General Tamayo, 12",
     "sg:city":"Almeria",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169592929,
-    "wof:lastmodified":1449034584,
+    "wof:lastmodified":1466245138,
     "wof:name":"Abellan Mochon Jose Juan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.462852,36.836933,-2.462852,36.836933],
+  "bbox": [
+    -2.462852,
+    36.836933,
+    -2.462852,
+    36.836933
+],
   "geometry": {"coordinates":[-2.462852,36.836933],"type":"Point"}
 }

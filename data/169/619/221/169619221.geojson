@@ -2,13 +2,14 @@
   "id": 169619221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.441979,42.464073,-2.441979,42.464073",
     "geom:latitude":42.464073,
     "geom:longitude":-2.441979,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Calvo Sotelo, 22",
     "sg:city":"Logro\u00f1o",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169619221,
-    "wof:lastmodified":1449033282,
+    "wof:lastmodified":1466245151,
     "wof:name":"Abogados Gomez Y Asensio S.c",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.441979,42.464073,-2.441979,42.464073],
+  "bbox": [
+    -2.441979,
+    42.464073,
+    -2.441979,
+    42.464073
+],
   "geometry": {"coordinates":[-2.441979,42.464073],"type":"Point"}
 }

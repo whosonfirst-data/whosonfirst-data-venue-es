@@ -2,13 +2,14 @@
   "id": 169685647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.876566,41.656349,-0.876566,41.656349",
     "geom:latitude":41.656349,
     "geom:longitude":-0.876566,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carretera De Sari\u00f1ena, Km. 0025,5",
     "sg:city":"Leci\u00d1ena",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169685647,
-    "wof:lastmodified":1449035886,
+    "wof:lastmodified":1466245232,
     "wof:name":"Agromonegros S.a.",
     "wof:parent_id":85863325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.876566,41.656349,-0.876566,41.656349],
+  "bbox": [
+    -0.876566,
+    41.656349,
+    -0.876566,
+    41.656349
+],
   "geometry": {"coordinates":[-0.876566,41.656349],"type":"Point"}
 }

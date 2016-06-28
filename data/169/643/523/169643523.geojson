@@ -2,13 +2,14 @@
   "id": 169643523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.626846,37.236504,-3.626846,37.236504",
     "geom:latitude":37.236504,
     "geom:longitude":-3.626846,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Caseria De Fonseca, 12",
     "sg:city":"Peligros",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169643523,
-    "wof:lastmodified":1449035524,
+    "wof:lastmodified":1466245167,
     "wof:name":"Abril Milena Juan Manuel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.626846,37.236504,-3.626846,37.236504],
+  "bbox": [
+    -3.626846,
+    37.236504,
+    -3.626846,
+    37.236504
+],
   "geometry": {"coordinates":[-3.626846,37.236504],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169634267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.269907,41.600349,2.269907,41.600349",
     "geom:latitude":41.600349,
     "geom:longitude":2.269907,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Severo Ochoa, 44",
     "sg:city":"Granollers",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169634267,
-    "wof:lastmodified":1449034257,
+    "wof:lastmodified":1466245159,
     "wof:name":"Abratools S.a",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.269907,41.600349,2.269907,41.600349],
+  "bbox": [
+    2.269907,
+    41.600349,
+    2.269907,
+    41.600349
+],
   "geometry": {"coordinates":[2.269907,41.600349],"type":"Point"}
 }

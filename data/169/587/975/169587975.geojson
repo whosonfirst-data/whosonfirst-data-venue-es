@@ -2,13 +2,14 @@
   "id": 169587975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.090381,39.283878,-5.090381,39.283878",
     "geom:latitude":39.283878,
     "geom:longitude":-5.090381,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Siberia, 44",
     "sg:city":"Castilblanco",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169587975,
-    "wof:lastmodified":1449033823,
+    "wof:lastmodified":1466245140,
     "wof:name":"Abellan Abellan Ramon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.090381,39.283878,-5.090381,39.283878],
+  "bbox": [
+    -5.090381,
+    39.283878,
+    -5.090381,
+    39.283878
+],
   "geometry": {"coordinates":[-5.090381,39.283878],"type":"Point"}
 }

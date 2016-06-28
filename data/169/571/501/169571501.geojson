@@ -2,13 +2,14 @@
   "id": 169571501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.712917,40.438217,-3.712917,40.438217",
     "geom:latitude":40.438217,
     "geom:longitude":-3.712917,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Guzman El Bueno, 70",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169571501,
-    "wof:lastmodified":1449034947,
+    "wof:lastmodified":1466245211,
     "wof:name":"Abad Picazo Francisco David",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.712917,40.438217,-3.712917,40.438217],
+  "bbox": [
+    -3.712917,
+    40.438217,
+    -3.712917,
+    40.438217
+],
   "geometry": {"coordinates":[-3.712917,40.438217],"type":"Point"}
 }

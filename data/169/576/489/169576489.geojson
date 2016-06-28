@@ -2,13 +2,14 @@
   "id": 169576489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.131044,43.348179,-5.131044,43.348179",
     "geom:latitude":43.348179,
     "geom:longitude":-5.131044,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Castilla, 18",
     "sg:city":"Cangas Onis",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169576489,
-    "wof:lastmodified":1449035198,
+    "wof:lastmodified":1466245216,
     "wof:name":"Abaria Suero Aranzazu",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.131044,43.348179,-5.131044,43.348179],
+  "bbox": [
+    -5.131044,
+    43.348179,
+    -5.131044,
+    43.348179
+],
   "geometry": {"coordinates":[-5.131044,43.348179],"type":"Point"}
 }

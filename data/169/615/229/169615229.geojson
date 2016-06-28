@@ -2,13 +2,14 @@
   "id": 169615229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.67786,40.457771,-3.67786,40.457771",
     "geom:latitude":40.457771,
     "geom:longitude":-3.67786,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Bolivia, 24",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169615229,
-    "wof:lastmodified":1449033734,
+    "wof:lastmodified":1466245149,
     "wof:name":"Ablange S.a.",
     "wof:parent_id":85799237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.67786,40.457771,-3.67786,40.457771],
+  "bbox": [
+    -3.67786,
+    40.457771,
+    -3.67786,
+    40.457771
+],
   "geometry": {"coordinates":[-3.67786,40.457771],"type":"Point"}
 }

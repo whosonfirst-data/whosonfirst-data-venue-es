@@ -2,13 +2,14 @@
   "id": 169559097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.284565,41.608795,2.284565,41.608795",
     "geom:latitude":41.608795,
     "geom:longitude":2.284565,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Pompeu Fabra, S/n",
     "sg:city":"Granollers",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169559097,
-    "wof:lastmodified":1449035237,
+    "wof:lastmodified":1466245090,
     "wof:name":"17-10 Distribuciones S.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.284565,41.608795,2.284565,41.608795],
+  "bbox": [
+    2.284565,
+    41.608795,
+    2.284565,
+    41.608795
+],
   "geometry": {"coordinates":[2.284565,41.608795],"type":"Point"}
 }

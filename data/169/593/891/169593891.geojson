@@ -2,13 +2,14 @@
   "id": 169593891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.781384,37.88657,-4.781384,37.88657",
     "geom:latitude":37.88657,
     "geom:longitude":-4.781384,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Conde De Robledo, 3",
     "sg:city":"Cordoba",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169593891,
-    "wof:lastmodified":1449034877,
+    "wof:lastmodified":1466245137,
     "wof:name":"Abellan Raigon Maria De Lourdes",
     "wof:parent_id":85863895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.781384,37.88657,-4.781384,37.88657],
+  "bbox": [
+    -4.781384,
+    37.88657,
+    -4.781384,
+    37.88657
+],
   "geometry": {"coordinates":[-4.781384,37.88657],"type":"Point"}
 }

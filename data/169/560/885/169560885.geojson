@@ -2,13 +2,14 @@
   "id": 169560885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.879636,41.651344,-0.879636,41.651344",
     "geom:latitude":41.651344,
     "geom:longitude":-0.879636,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Blancas, 4",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169560885,
-    "wof:lastmodified":1449035180,
+    "wof:lastmodified":1466245095,
     "wof:name":"27 Nahuales Sl",
     "wof:parent_id":85863349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.879636,41.651344,-0.879636,41.651344],
+  "bbox": [
+    -0.879636,
+    41.651344,
+    -0.879636,
+    41.651344
+],
   "geometry": {"coordinates":[-0.879636,41.651344],"type":"Point"}
 }

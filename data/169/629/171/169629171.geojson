@@ -2,13 +2,14 @@
   "id": 169629171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.332767,38.781086,-1.332767,38.781086",
     "geom:latitude":38.781086,
     "geom:longitude":-1.332767,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctra. Fuentealamo, S/n",
     "sg:city":"Montealegre Castillo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169629171,
-    "wof:lastmodified":1449035186,
+    "wof:lastmodified":1466245157,
     "wof:name":"Abraham Garcia S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.332767,38.781086,-1.332767,38.781086],
+  "bbox": [
+    -1.332767,
+    38.781086,
+    -1.332767,
+    38.781086
+],
   "geometry": {"coordinates":[-1.332767,38.781086],"type":"Point"}
 }

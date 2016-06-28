@@ -2,13 +2,14 @@
   "id": 169575861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.131448,41.322556,2.131448,41.322556",
     "geom:latitude":41.322556,
     "geom:longitude":2.131448,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Lletra D De La Zona Franca, 28",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169575861,
-    "wof:lastmodified":1449033642,
+    "wof:lastmodified":1466245120,
     "wof:name":"Abantia Mantenimiento S.a.",
     "wof:parent_id":85799225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.131448,41.322556,2.131448,41.322556],
+  "bbox": [
+    2.131448,
+    41.322556,
+    2.131448,
+    41.322556
+],
   "geometry": {"coordinates":[2.131448,41.322556],"type":"Point"}
 }

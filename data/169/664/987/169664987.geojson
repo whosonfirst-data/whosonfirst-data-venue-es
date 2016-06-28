@@ -2,13 +2,14 @@
   "id": 169664987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.286815,36.715282,-4.286815,36.715282",
     "geom:latitude":36.715282,
     "geom:longitude":-4.286815,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Mediterraneo (del), 157",
     "sg:city":"Rincon Victoria",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169664987,
-    "wof:lastmodified":1449033913,
+    "wof:lastmodified":1466245182,
     "wof:name":"Acacio Gonzalez Antonio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.286815,36.715282,-4.286815,36.715282],
+  "bbox": [
+    -4.286815,
+    36.715282,
+    -4.286815,
+    36.715282
+],
   "geometry": {"coordinates":[-4.286815,36.715282],"type":"Point"}
 }

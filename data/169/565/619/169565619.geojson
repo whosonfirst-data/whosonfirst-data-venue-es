@@ -2,13 +2,14 @@
   "id": 169565619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-15.583739,28.090631,-15.583739,28.090631",
     "geom:latitude":28.090631,
     "geom:longitude":-15.583739,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Tunte (de), 85",
     "sg:city":"San Fernando",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169565619,
-    "wof:lastmodified":1449035664,
+    "wof:lastmodified":1466245193,
     "wof:name":"Aazzouzi Mohamed Said",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-15.583739,28.090631,-15.583739,28.090631],
+  "bbox": [
+    -15.583739,
+    28.090631,
+    -15.583739,
+    28.090631
+],
   "geometry": {"coordinates":[-15.583739,28.090631],"type":"Point"}
 }

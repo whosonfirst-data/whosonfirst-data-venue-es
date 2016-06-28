@@ -2,13 +2,14 @@
   "id": 169605445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.266116,41.569744,2.266116,41.569744",
     "geom:latitude":41.569744,
     "geom:longitude":2.266116,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Can Cabanyes (pol Calle de Gordi), 59",
     "sg:city":"Granollers",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169605445,
-    "wof:lastmodified":1449034287,
+    "wof:lastmodified":1466245142,
     "wof:name":"Abet Laminati S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.266116,41.569744,2.266116,41.569744],
+  "bbox": [
+    2.266116,
+    41.569744,
+    2.266116,
+    41.569744
+],
   "geometry": {"coordinates":[2.266116,41.569744],"type":"Point"}
 }

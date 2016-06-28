@@ -2,13 +2,14 @@
   "id": 169626273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.876566,41.656349,-0.876566,41.656349",
     "geom:latitude":41.656349,
     "geom:longitude":-0.876566,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Don Cipriano Gonzalez, 21",
     "sg:city":"Puebla Alfinden",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169626273,
-    "wof:lastmodified":1449035969,
+    "wof:lastmodified":1466245156,
     "wof:name":"Abos Murillo Luis",
     "wof:parent_id":85863325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.876566,41.656349,-0.876566,41.656349],
+  "bbox": [
+    -0.876566,
+    41.656349,
+    -0.876566,
+    41.656349
+],
   "geometry": {"coordinates":[-0.876566,41.656349],"type":"Point"}
 }

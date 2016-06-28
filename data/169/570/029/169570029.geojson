@@ -2,13 +2,14 @@
   "id": 169570029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.459672,40.907272,0.459672,40.907272",
     "geom:latitude":40.907272,
     "geom:longitude":0.459672,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Av. Terres De L'ebre, 22",
     "sg:city":"Xerta",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169570029,
-    "wof:lastmodified":1449034645,
+    "wof:lastmodified":1466245206,
     "wof:name":"Abadie Seara Tere",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.459672,40.907272,0.459672,40.907272],
+  "bbox": [
+    0.459672,
+    40.907272,
+    0.459672,
+    40.907272
+],
   "geometry": {"coordinates":[0.459672,40.907272],"type":"Point"}
 }

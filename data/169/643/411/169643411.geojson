@@ -2,13 +2,14 @@
   "id": 169643411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.145502,41.490757,2.145502,41.490757",
     "geom:latitude":41.490757,
     "geom:longitude":2.145502,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Av Primavera, 11",
     "sg:city":"Cerdanyola Valles",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169643411,
-    "wof:lastmodified":1449035522,
+    "wof:lastmodified":1466245166,
     "wof:name":"Abril Picon Montserrat",
     "wof:parent_id":85799639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.145502,41.490757,2.145502,41.490757],
+  "bbox": [
+    2.145502,
+    41.490757,
+    2.145502,
+    41.490757
+],
   "geometry": {"coordinates":[2.145502,41.490757],"type":"Point"}
 }

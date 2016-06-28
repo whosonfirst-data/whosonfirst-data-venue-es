@@ -2,13 +2,14 @@
   "id": 169560253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.927263,38.986095,-3.927263,38.986095",
     "geom:latitude":38.986095,
     "geom:longitude":-3.927263,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Crta. Nal. 420, S/n",
     "sg:city":"Argamasilla Calatrava",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169560253,
-    "wof:lastmodified":1449035181,
+    "wof:lastmodified":1466245093,
     "wof:name":"2004 Godisa S.l..u.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.927263,38.986095,-3.927263,38.986095],
+  "bbox": [
+    -3.927263,
+    38.986095,
+    -3.927263,
+    38.986095
+],
   "geometry": {"coordinates":[-3.927263,38.986095],"type":"Point"}
 }

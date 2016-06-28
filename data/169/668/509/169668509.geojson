@@ -2,13 +2,14 @@
   "id": 169668509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.969731,38.877129,-6.969731,38.877129",
     "geom:latitude":38.877129,
     "geom:longitude":-6.969731,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Ramon Albarran, 13",
     "sg:city":"Badajoz",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169668509,
-    "wof:lastmodified":1449034989,
+    "wof:lastmodified":1466245181,
     "wof:name":"Academia Bellini",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.969731,38.877129,-6.969731,38.877129],
+  "bbox": [
+    -6.969731,
+    38.877129,
+    -6.969731,
+    38.877129
+],
   "geometry": {"coordinates":[-6.969731,38.877129],"type":"Point"}
 }

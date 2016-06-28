@@ -2,13 +2,14 @@
   "id": 169580513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-15.607659,27.769728,-15.607659,27.769728",
     "geom:latitude":27.769728,
     "geom:longitude":-15.607659,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de San Salvador, 16",
     "sg:city":"Tablero",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169580513,
-    "wof:lastmodified":1449034914,
+    "wof:lastmodified":1466245220,
     "wof:name":"Abdelhafid  Khlifi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-15.607659,27.769728,-15.607659,27.769728],
+  "bbox": [
+    -15.607659,
+    27.769728,
+    -15.607659,
+    27.769728
+],
   "geometry": {"coordinates":[-15.607659,27.769728],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169582557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-16.259619,28.468279,-16.259619,28.468279",
     "geom:latitude":28.468279,
     "geom:longitude":-16.259619,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Anselmo J Benitez, 6",
     "sg:city":"Santa Cruz De Tenerife",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169582557,
-    "wof:lastmodified":1449034465,
+    "wof:lastmodified":1466245124,
     "wof:name":"Abdul-razzak  Huneidi Al",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-16.259619,28.468279,-16.259619,28.468279],
+  "bbox": [
+    -16.259619,
+    28.468279,
+    -16.259619,
+    28.468279
+],
   "geometry": {"coordinates":[-16.259619,28.468279],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169563943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.151047,41.390308,2.151047,41.390308",
     "geom:latitude":41.390308,
     "geom:longitude":2.151047,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Corsega, 195",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169563943,
-    "wof:lastmodified":1449032731,
+    "wof:lastmodified":1466245125,
     "wof:name":"99,9 Porciento De Origens.l.",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.151047,41.390308,2.151047,41.390308],
+  "bbox": [
+    2.151047,
+    41.390308,
+    2.151047,
+    41.390308
+],
   "geometry": {"coordinates":[2.151047,41.390308],"type":"Point"}
 }

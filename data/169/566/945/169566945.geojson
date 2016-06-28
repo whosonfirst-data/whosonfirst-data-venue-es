@@ -2,13 +2,14 @@
   "id": 169566945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.641357,40.396976,-3.641357,40.396976",
     "geom:latitude":40.396976,
     "geom:longitude":-3.641357,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Tacona, 13",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169566945,
-    "wof:lastmodified":1449032752,
+    "wof:lastmodified":1466245199,
     "wof:name":"Abad Arias Victorina",
     "wof:parent_id":85863715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.641357,40.396976,-3.641357,40.396976],
+  "bbox": [
+    -3.641357,
+    40.396976,
+    -3.641357,
+    40.396976
+],
   "geometry": {"coordinates":[-3.641357,40.396976],"type":"Point"}
 }

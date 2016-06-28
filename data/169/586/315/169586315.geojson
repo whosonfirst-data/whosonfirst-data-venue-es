@@ -2,13 +2,14 @@
   "id": 169586315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.960389,43.572723,-5.960389,43.572723",
     "geom:latitude":43.572723,
     "geom:longitude":-5.960389,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Principe Asturias, 13",
     "sg:city":"Salinas",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169586315,
-    "wof:lastmodified":1449035576,
+    "wof:lastmodified":1466245131,
     "wof:name":"Abella Arratibel Gonzalo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.960389,43.572723,-5.960389,43.572723],
+  "bbox": [
+    -5.960389,
+    43.572723,
+    -5.960389,
+    43.572723
+],
   "geometry": {"coordinates":[-5.960389,43.572723],"type":"Point"}
 }

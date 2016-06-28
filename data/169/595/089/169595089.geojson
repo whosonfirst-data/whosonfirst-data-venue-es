@@ -2,13 +2,14 @@
   "id": 169595089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.414345,38.234314,-1.414345,38.234314",
     "geom:latitude":38.234314,
     "geom:longitude":-1.414345,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Abaran, 34",
     "sg:city":"Cieza",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169595089,
-    "wof:lastmodified":1449035634,
+    "wof:lastmodified":1466245136,
     "wof:name":"Abellan Semitiel Maria Piedad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.414345,38.234314,-1.414345,38.234314],
+  "bbox": [
+    -1.414345,
+    38.234314,
+    -1.414345,
+    38.234314
+],
   "geometry": {"coordinates":[-1.414345,38.234314],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169661467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.37104,42.782459,-1.37104,42.782459",
     "geom:latitude":42.782459,
     "geom:longitude":-1.37104,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctra. Pamplona, S/n",
     "sg:city":"Agoitz",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169661467,
-    "wof:lastmodified":1449035600,
+    "wof:lastmodified":1466245177,
     "wof:name":"Acabados T Color Sal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.37104,42.782459,-1.37104,42.782459],
+  "bbox": [
+    -1.37104,
+    42.782459,
+    -1.37104,
+    42.782459
+],
   "geometry": {"coordinates":[-1.37104,42.782459],"type":"Point"}
 }

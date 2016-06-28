@@ -2,13 +2,14 @@
   "id": 169580625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-16.827547,28.201929,-16.827547,28.201929",
     "geom:latitude":28.201929,
     "geom:longitude":-16.827547,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Pescadores (los), 12",
     "sg:city":"Alcala",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169580625,
-    "wof:lastmodified":1449034917,
+    "wof:lastmodified":1466245220,
     "wof:name":"Abdelhamyd Montesinos Zarifa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-16.827547,28.201929,-16.827547,28.201929],
+  "bbox": [
+    -16.827547,
+    28.201929,
+    -16.827547,
+    28.201929
+],
   "geometry": {"coordinates":[-16.827547,28.201929],"type":"Point"}
 }

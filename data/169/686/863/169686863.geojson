@@ -2,13 +2,14 @@
   "id": 169686863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.347522,41.28801,-4.347522,41.28801",
     "geom:latitude":41.28801,
     "geom:longitude":-4.347522,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Cam. Navas De Oro, S/n",
     "sg:city":"Chatun",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169686863,
-    "wof:lastmodified":1449035156,
+    "wof:lastmodified":1466245230,
     "wof:name":"Agropecuaria Coca Sl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.347522,41.28801,-4.347522,41.28801],
+  "bbox": [
+    -4.347522,
+    41.28801,
+    -4.347522,
+    41.28801
+],
   "geometry": {"coordinates":[-4.347522,41.28801],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169577699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.15479,41.38163,2.15479,41.38163",
     "geom:latitude":41.38163,
     "geom:longitude":2.15479,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Viladomat, 140",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169577699,
-    "wof:lastmodified":1449036065,
+    "wof:lastmodified":1466245122,
     "wof:name":"Abas Ingles Luis Javier",
     "wof:parent_id":85864027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.15479,41.38163,2.15479,41.38163],
+  "bbox": [
+    2.15479,
+    41.38163,
+    2.15479,
+    41.38163
+],
   "geometry": {"coordinates":[2.15479,41.38163],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169572113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.761328,40.387802,-3.761328,40.387802",
     "geom:latitude":40.387802,
     "geom:longitude":-3.761328,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Maqueda, 135",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169572113,
-    "wof:lastmodified":1449034707,
+    "wof:lastmodified":1466245207,
     "wof:name":"Abad Sanz Alvaro Javier",
     "wof:parent_id":85863817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.761328,40.387802,-3.761328,40.387802],
+  "bbox": [
+    -3.761328,
+    40.387802,
+    -3.761328,
+    40.387802
+],
   "geometry": {"coordinates":[-3.761328,40.387802],"type":"Point"}
 }

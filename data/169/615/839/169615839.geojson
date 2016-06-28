@@ -2,13 +2,14 @@
   "id": 169615839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.801234,40.296867,-3.801234,40.296867",
     "geom:latitude":40.296867,
     "geom:longitude":-3.801234,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Provincias (de Las), 18",
     "sg:city":"Fuenlabrada",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169615839,
-    "wof:lastmodified":1449033735,
+    "wof:lastmodified":1466245155,
     "wof:name":"Ablange S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.801234,40.296867,-3.801234,40.296867],
+  "bbox": [
+    -3.801234,
+    40.296867,
+    -3.801234,
+    40.296867
+],
   "geometry": {"coordinates":[-3.801234,40.296867],"type":"Point"}
 }

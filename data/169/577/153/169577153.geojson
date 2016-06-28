@@ -2,13 +2,14 @@
   "id": 169577153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.406611,43.348644,-3.406611,43.348644",
     "geom:latitude":43.348644,
     "geom:longitude":-3.406611,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Crta Cerbiago, S/n",
     "sg:city":"Ampuero",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169577153,
-    "wof:lastmodified":1449036066,
+    "wof:lastmodified":1466245215,
     "wof:name":"Abascal Fuentecilla Juan Manuel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.406611,43.348644,-3.406611,43.348644],
+  "bbox": [
+    -3.406611,
+    43.348644,
+    -3.406611,
+    43.348644
+],
   "geometry": {"coordinates":[-3.406611,43.348644],"type":"Point"}
 }

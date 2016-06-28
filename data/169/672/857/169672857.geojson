@@ -2,13 +2,14 @@
   "id": 169672857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.055963,41.365776,2.055963,41.365776",
     "geom:latitude":41.365776,
     "geom:longitude":2.055963,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Baltasar D'espanya, S/n",
     "sg:city":"S. Joan Despi",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169672857,
-    "wof:lastmodified":1449032889,
+    "wof:lastmodified":1466245184,
     "wof:name":"Academia De Idiomas Big Ben S.c.p.",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.055963,41.365776,2.055963,41.365776],
+  "bbox": [
+    2.055963,
+    41.365776,
+    2.055963,
+    41.365776
+],
   "geometry": {"coordinates":[2.055963,41.365776],"type":"Point"}
 }

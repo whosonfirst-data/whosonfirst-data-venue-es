@@ -2,13 +2,14 @@
   "id": 169638167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.969936,37.37569,-5.969936,37.37569",
     "geom:latitude":37.37569,
     "geom:longitude":-5.969936,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Ramon Y Cajal, 29",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169638167,
-    "wof:lastmodified":1449032867,
+    "wof:lastmodified":1466245163,
     "wof:name":"Abreu Pi\u00f1ero Juan",
     "wof:parent_id":85864187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.969936,37.37569,-5.969936,37.37569],
+  "bbox": [
+    -5.969936,
+    37.37569,
+    -5.969936,
+    37.37569
+],
   "geometry": {"coordinates":[-5.969936,37.37569],"type":"Point"}
 }

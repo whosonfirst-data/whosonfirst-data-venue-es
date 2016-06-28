@@ -2,13 +2,14 @@
   "id": 169607741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.901152,41.650421,-0.901152,41.650421",
     "geom:latitude":41.650421,
     "geom:longitude":-0.901152,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Unceta, 71",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169607741,
-    "wof:lastmodified":1449033121,
+    "wof:lastmodified":1466245148,
     "wof:name":"Abian Garcia Manuel",
     "wof:parent_id":85863345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.901152,41.650421,-0.901152,41.650421],
+  "bbox": [
+    -0.901152,
+    41.650421,
+    -0.901152,
+    41.650421
+],
   "geometry": {"coordinates":[-0.901152,41.650421],"type":"Point"}
 }

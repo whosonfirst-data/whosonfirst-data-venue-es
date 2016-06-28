@@ -2,13 +2,14 @@
   "id": 169581359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.203549,37.384209,-6.203549,37.384209",
     "geom:latitude":37.384209,
     "geom:longitude":-6.203549,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Julian Romero, 21",
     "sg:city":"Sanlucar Mayor",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169581359,
-    "wof:lastmodified":1449033379,
+    "wof:lastmodified":1466245119,
     "wof:name":"Abdesalan Garcia Mariam",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.203549,37.384209,-6.203549,37.384209],
+  "bbox": [
+    -6.203549,
+    37.384209,
+    -6.203549,
+    37.384209
+],
   "geometry": {"coordinates":[-6.203549,37.384209],"type":"Point"}
 }

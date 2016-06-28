@@ -2,13 +2,14 @@
   "id": 169584613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-7.863888,42.340981,-7.863888,42.340981",
     "geom:latitude":42.340981,
     "geom:longitude":-7.863888,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Rua Parque De San Lazaro, 11",
     "sg:city":"Ourense",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169584613,
-    "wof:lastmodified":1449033038,
+    "wof:lastmodified":1466245129,
     "wof:name":"Abelairas Portome\u00f1e Jose",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-7.863888,42.340981,-7.863888,42.340981],
+  "bbox": [
+    -7.863888,
+    42.340981,
+    -7.863888,
+    42.340981
+],
   "geometry": {"coordinates":[-7.863888,42.340981],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169560865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.870046,40.484722,-3.870046,40.484722",
     "geom:latitude":40.484722,
     "geom:longitude":-3.870046,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Lanzarote, 39",
     "sg:city":"Rozas De Madrid",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169560865,
-    "wof:lastmodified":1449035181,
+    "wof:lastmodified":1466245095,
     "wof:name":"27 Iso S.l. Proimagen",
     "wof:parent_id":85863613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.870046,40.484722,-3.870046,40.484722],
+  "bbox": [
+    -3.870046,
+    40.484722,
+    -3.870046,
+    40.484722
+],
   "geometry": {"coordinates":[-3.870046,40.484722],"type":"Point"}
 }

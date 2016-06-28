@@ -2,13 +2,14 @@
   "id": 169576547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.267137,43.181896,-2.267137,43.181896",
     "geom:latitude":43.181896,
     "geom:longitude":-2.267137,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Jose Artetxe Kalea, 10",
     "sg:city":"Azpeitia",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169576547,
-    "wof:lastmodified":1449035195,
+    "wof:lastmodified":1466245217,
     "wof:name":"Abarisqueta Olaizola Bernarda",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.267137,43.181896,-2.267137,43.181896],
+  "bbox": [
+    -2.267137,
+    43.181896,
+    -2.267137,
+    43.181896
+],
   "geometry": {"coordinates":[-2.267137,43.181896],"type":"Point"}
 }

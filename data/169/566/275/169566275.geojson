@@ -2,13 +2,14 @@
   "id": 169566275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.641125,43.172401,-2.641125,43.172401",
     "geom:latitude":43.172401,
     "geom:longitude":-2.641125,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Sasikoa Kalea, 30",
     "sg:city":"Durango",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169566275,
-    "wof:lastmodified":1449032753,
+    "wof:lastmodified":1466245196,
     "wof:name":"Abaco Peritaciones Sl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.641125,43.172401,-2.641125,43.172401],
+  "bbox": [
+    -2.641125,
+    43.172401,
+    -2.641125,
+    43.172401
+],
   "geometry": {"coordinates":[-2.641125,43.172401],"type":"Point"}
 }

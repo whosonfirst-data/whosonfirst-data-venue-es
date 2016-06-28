@@ -2,13 +2,14 @@
   "id": 169602329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.698137,40.310547,-3.698137,40.310547",
     "geom:latitude":40.310547,
     "geom:longitude":-3.698137,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Impresores, 29",
     "sg:city":"Getafe",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169602329,
-    "wof:lastmodified":1449034228,
+    "wof:lastmodified":1466245143,
     "wof:name":"Abenojar Martinez Dolores",
     "wof:parent_id":85863795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.698137,40.310547,-3.698137,40.310547],
+  "bbox": [
+    -3.698137,
+    40.310547,
+    -3.698137,
+    40.310547
+],
   "geometry": {"coordinates":[-3.698137,40.310547],"type":"Point"}
 }

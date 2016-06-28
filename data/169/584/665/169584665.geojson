@@ -2,13 +2,14 @@
   "id": 169584665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-7.553737,43.012596,-7.553737,43.012596",
     "geom:latitude":43.012596,
     "geom:longitude":-7.553737,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Rua Nicomedes Pastor Diaz, 4",
     "sg:city":"Lugo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169584665,
-    "wof:lastmodified":1449033038,
+    "wof:lastmodified":1466245130,
     "wof:name":"Abelairas Rivas Manuel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-7.553737,43.012596,-7.553737,43.012596],
+  "bbox": [
+    -7.553737,
+    43.012596,
+    -7.553737,
+    43.012596
+],
   "geometry": {"coordinates":[-7.553737,43.012596],"type":"Point"}
 }

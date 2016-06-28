@@ -2,13 +2,14 @@
   "id": 169595031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.04755,38.060986,-1.04755,38.060986",
     "geom:latitude":38.060986,
     "geom:longitude":-1.04755,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Cuatro Esquinas, 89",
     "sg:city":"Santomera",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169595031,
-    "wof:lastmodified":1449035635,
+    "wof:lastmodified":1466245136,
     "wof:name":"Abellan Sanchez Maria Dolores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.04755,38.060986,-1.04755,38.060986],
+  "bbox": [
+    -1.04755,
+    38.060986,
+    -1.04755,
+    38.060986
+],
   "geometry": {"coordinates":[-1.04755,38.060986],"type":"Point"}
 }

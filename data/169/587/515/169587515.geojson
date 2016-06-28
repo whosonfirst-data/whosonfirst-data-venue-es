@@ -2,13 +2,14 @@
   "id": 169587515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.481266,40.541306,0.481266,40.541306",
     "geom:latitude":40.541306,
     "geom:longitude":0.481266,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Ramon Y Cajal, 40",
     "sg:city":"Alcanar",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169587515,
-    "wof:lastmodified":1449033821,
+    "wof:lastmodified":1466245135,
     "wof:name":"Abella Juan Inmaculada",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.481266,40.541306,0.481266,40.541306],
+  "bbox": [
+    0.481266,
+    40.541306,
+    0.481266,
+    40.541306
+],
   "geometry": {"coordinates":[0.481266,40.541306],"type":"Point"}
 }

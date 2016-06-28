@@ -2,13 +2,14 @@
   "id": 169582621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.471737,41.765472,-2.471737,41.765472",
     "geom:latitude":41.765472,
     "geom:longitude":-2.471737,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Sagunto, 14",
     "sg:city":"Soria",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169582621,
-    "wof:lastmodified":1449034467,
+    "wof:lastmodified":1466245219,
     "wof:name":"Abdul Razzak Abdel Latif Mohamed-mahmoud",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.471737,41.765472,-2.471737,41.765472],
+  "bbox": [
+    -2.471737,
+    41.765472,
+    -2.471737,
+    41.765472
+],
   "geometry": {"coordinates":[-2.471737,41.765472],"type":"Point"}
 }

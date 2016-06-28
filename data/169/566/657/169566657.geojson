@@ -2,13 +2,14 @@
   "id": 169566657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.645765,39.581738,2.645765,39.581738",
     "geom:latitude":39.581738,
     "geom:longitude":2.645765,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Jose Alemany Vich, 6",
     "sg:city":"Palma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169566657,
-    "wof:lastmodified":1449032751,
+    "wof:lastmodified":1466245197,
     "wof:name":"Abad Aibar S.c.",
     "wof:parent_id":85864097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.645765,39.581738,2.645765,39.581738],
+  "bbox": [
+    2.645765,
+    39.581738,
+    2.645765,
+    39.581738
+],
   "geometry": {"coordinates":[2.645765,39.581738],"type":"Point"}
 }

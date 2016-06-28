@@ -2,13 +2,14 @@
   "id": 169584023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.53042,40.429111,-3.53042,40.429111",
     "geom:latitude":40.429111,
     "geom:longitude":-3.53042,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Virgen Del Templo (de La), 24",
     "sg:city":"San Fernando De Henares",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169584023,
-    "wof:lastmodified":1449033040,
+    "wof:lastmodified":1466245219,
     "wof:name":"Abejaro Ruiz Victoria",
     "wof:parent_id":85863709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.53042,40.429111,-3.53042,40.429111],
+  "bbox": [
+    -3.53042,
+    40.429111,
+    -3.53042,
+    40.429111
+],
   "geometry": {"coordinates":[-3.53042,40.429111],"type":"Point"}
 }

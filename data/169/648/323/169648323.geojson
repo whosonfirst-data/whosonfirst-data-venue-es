@@ -2,13 +2,14 @@
   "id": 169648323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.694261,40.459599,-3.694261,40.459599",
     "geom:latitude":40.459599,
     "geom:longitude":-3.694261,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Orense, 58",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169648323,
-    "wof:lastmodified":1449033583,
+    "wof:lastmodified":1466245169,
     "wof:name":"Abs Europe Limited Sucursal En Espa\u00f1a",
     "wof:parent_id":85863603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.694261,40.459599,-3.694261,40.459599],
+  "bbox": [
+    -3.694261,
+    40.459599,
+    -3.694261,
+    40.459599
+],
   "geometry": {"coordinates":[-3.694261,40.459599],"type":"Point"}
 }

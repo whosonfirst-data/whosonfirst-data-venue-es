@@ -2,13 +2,14 @@
   "id": 169687123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.960598,38.786728,-6.960598,38.786728",
     "geom:latitude":38.786728,
     "geom:longitude":-6.960598,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctra Valverde, Km. 0014,0",
     "sg:city":"Badajoz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169687123,
-    "wof:lastmodified":1449033608,
+    "wof:lastmodified":1466245186,
     "wof:name":"Agropecuaria De La Diputacion S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.960598,38.786728,-6.960598,38.786728],
+  "bbox": [
+    -6.960598,
+    38.786728,
+    -6.960598,
+    38.786728
+],
   "geometry": {"coordinates":[-6.960598,38.786728],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169608329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.808396,41.238644,1.808396,41.238644",
     "geom:latitude":41.238644,
     "geom:longitude":1.808396,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Av Artur Carbonell, S/n",
     "sg:city":"Sitges",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169608329,
-    "wof:lastmodified":1449034084,
+    "wof:lastmodified":1466245144,
     "wof:name":"Abia Paniagua Felix",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.808396,41.238644,1.808396,41.238644],
+  "bbox": [
+    1.808396,
+    41.238644,
+    1.808396,
+    41.238644
+],
   "geometry": {"coordinates":[1.808396,41.238644],"type":"Point"}
 }

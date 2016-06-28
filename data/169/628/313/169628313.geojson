@@ -2,13 +2,14 @@
   "id": 169628313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-13.652215,28.920618,-13.652215,28.920618",
     "geom:latitude":28.920618,
     "geom:longitude":-13.652215,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Palangre, 13",
     "sg:city":"Puerto Del Carmen",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169628313,
-    "wof:lastmodified":1449035331,
+    "wof:lastmodified":1466245224,
     "wof:name":"Aboy Alpuin Asesor Tecnico Lboral S.c.p.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-13.652215,28.920618,-13.652215,28.920618],
+  "bbox": [
+    -13.652215,
+    28.920618,
+    -13.652215,
+    28.920618
+],
   "geometry": {"coordinates":[-13.652215,28.920618],"type":"Point"}
 }

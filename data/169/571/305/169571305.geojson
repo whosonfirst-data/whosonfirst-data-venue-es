@@ -2,13 +2,14 @@
   "id": 169571305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.208263,41.41457,2.208263,41.41457",
     "geom:latitude":41.41457,
     "geom:longitude":2.208263,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Josep Pla, 152",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169571305,
-    "wof:lastmodified":1449034947,
+    "wof:lastmodified":1466245209,
     "wof:name":"Abad Pareja Fernando",
     "wof:parent_id":85864011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.208263,41.41457,2.208263,41.41457],
+  "bbox": [
+    2.208263,
+    41.41457,
+    2.208263,
+    41.41457
+],
   "geometry": {"coordinates":[2.208263,41.41457],"type":"Point"}
 }

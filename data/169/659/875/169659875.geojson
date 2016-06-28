@@ -2,13 +2,14 @@
   "id": 169659875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.082801,41.539078,2.082801,41.539078",
     "geom:latitude":41.539078,
     "geom:longitude":2.082801,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Moianes, 3",
     "sg:city":"S. Quirze Valles",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169659875,
-    "wof:lastmodified":1449033029,
+    "wof:lastmodified":1466245179,
     "wof:name":"Acabados De Superficies Metalicas Guemar S.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.082801,41.539078,2.082801,41.539078],
+  "bbox": [
+    2.082801,
+    41.539078,
+    2.082801,
+    41.539078
+],
   "geometry": {"coordinates":[2.082801,41.539078],"type":"Point"}
 }

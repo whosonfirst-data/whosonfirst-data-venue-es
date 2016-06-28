@@ -2,13 +2,14 @@
   "id": 169586879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.169973,41.399368,2.169973,41.399368",
     "geom:latitude":41.399368,
     "geom:longitude":2.169973,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Mallorca, 333",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169586879,
-    "wof:lastmodified":1449035573,
+    "wof:lastmodified":1466245137,
     "wof:name":"Abella Gibert Delfin",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.169973,41.399368,2.169973,41.399368],
+  "bbox": [
+    2.169973,
+    41.399368,
+    2.169973,
+    41.399368
+],
   "geometry": {"coordinates":[2.169973,41.399368],"type":"Point"}
 }

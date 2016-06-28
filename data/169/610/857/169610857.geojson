@@ -2,13 +2,14 @@
   "id": 169610857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.695403,40.412979,-3.695403,40.412979",
     "geom:latitude":40.412979,
     "geom:longitude":-3.695403,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Huertas, 72",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169610857,
-    "wof:lastmodified":1449035910,
+    "wof:lastmodified":1466245150,
     "wof:name":"Abing S.a.",
     "wof:parent_id":85863685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.695403,40.412979,-3.695403,40.412979],
+  "bbox": [
+    -3.695403,
+    40.412979,
+    -3.695403,
+    40.412979
+],
   "geometry": {"coordinates":[-3.695403,40.412979],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169631071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-16.715504,28.369148,-16.715504,28.369148",
     "geom:latitude":28.369148,
     "geom:longitude":-16.715504,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de San Agustin, 78",
     "sg:city":"Icod De Los Vinos",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169631071,
-    "wof:lastmodified":1449033708,
+    "wof:lastmodified":1466245157,
     "wof:name":"Abrantes Luis Miguel Angel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-16.715504,28.369148,-16.715504,28.369148],
+  "bbox": [
+    -16.715504,
+    28.369148,
+    -16.715504,
+    28.369148
+],
   "geometry": {"coordinates":[-16.715504,28.369148],"type":"Point"}
 }

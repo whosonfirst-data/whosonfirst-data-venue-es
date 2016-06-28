@@ -2,13 +2,14 @@
   "id": 169614345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.131359,41.048004,-0.131359,41.048004",
     "geom:latitude":41.048004,
     "geom:longitude":-0.131359,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Caldereros, 31",
     "sg:city":"Alca\u00f1iz",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169614345,
-    "wof:lastmodified":1449036061,
+    "wof:lastmodified":1466245150,
     "wof:name":"Abizanda Morraja Jose Antonio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.131359,41.048004,-0.131359,41.048004],
+  "bbox": [
+    -0.131359,
+    41.048004,
+    -0.131359,
+    41.048004
+],
   "geometry": {"coordinates":[-0.131359,41.048004],"type":"Point"}
 }

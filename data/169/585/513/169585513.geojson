@@ -2,13 +2,14 @@
   "id": 169585513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-8.7755,42.617664,-8.7755,42.617664",
     "geom:latitude":42.617664,
     "geom:longitude":-8.7755,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Rua Valentin Viqueira, 20",
     "sg:city":"Vilagarcia",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169585513,
-    "wof:lastmodified":1449034888,
+    "wof:lastmodified":1466245221,
     "wof:name":"Abelenda Ba\u00f1os Ramon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-8.7755,42.617664,-8.7755,42.617664],
+  "bbox": [
+    -8.7755,
+    42.617664,
+    -8.7755,
+    42.617664
+],
   "geometry": {"coordinates":[-8.7755,42.617664],"type":"Point"}
 }

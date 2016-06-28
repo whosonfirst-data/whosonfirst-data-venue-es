@@ -2,13 +2,14 @@
   "id": 169637433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-16.31432,28.483154,-16.31432,28.483154",
     "geom:latitude":28.483154,
     "geom:longitude":-16.31432,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Elias Serra Rafols, S/n",
     "sg:city":"San Cristobal De La Laguna",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169637433,
-    "wof:lastmodified":1449032686,
+    "wof:lastmodified":1466245162,
     "wof:name":"Abreu Gonzalez Juan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-16.31432,28.483154,-16.31432,28.483154],
+  "bbox": [
+    -16.31432,
+    28.483154,
+    -16.31432,
+    28.483154
+],
   "geometry": {"coordinates":[-16.31432,28.483154],"type":"Point"}
 }

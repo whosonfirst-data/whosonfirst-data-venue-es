@@ -2,13 +2,14 @@
   "id": 169583295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.009865,37.387745,-6.009865,37.387745",
     "geom:latitude":37.387745,
     "geom:longitude":-6.009865,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Plaz Virgen De La Amargura, 5",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169583295,
-    "wof:lastmodified":1449035266,
+    "wof:lastmodified":1466245120,
     "wof:name":"A.b.educacional Sport S.l.",
     "wof:parent_id":85799631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.009865,37.387745,-6.009865,37.387745],
+  "bbox": [
+    -6.009865,
+    37.387745,
+    -6.009865,
+    37.387745
+],
   "geometry": {"coordinates":[-6.009865,37.387745],"type":"Point"}
 }

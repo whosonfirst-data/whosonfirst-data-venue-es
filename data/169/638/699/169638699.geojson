@@ -2,13 +2,14 @@
   "id": 169638699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-8.411524,43.365307,-8.411524,43.365307",
     "geom:latitude":43.365307,
     "geom:longitude":-8.411524,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Jose Luis Perez Cepeda, 5",
     "sg:city":"Coru\u00d1a",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169638699,
-    "wof:lastmodified":1449032865,
+    "wof:lastmodified":1466245167,
     "wof:name":"Abreu Rolo Abelardo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-8.411524,43.365307,-8.411524,43.365307],
+  "bbox": [
+    -8.411524,
+    43.365307,
+    -8.411524,
+    43.365307
+],
   "geometry": {"coordinates":[-8.411524,43.365307],"type":"Point"}
 }

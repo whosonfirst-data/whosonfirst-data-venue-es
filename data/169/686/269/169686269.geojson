@@ -2,13 +2,14 @@
   "id": 169686269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.168227,41.22047,0.168227,41.22047",
     "geom:latitude":41.22047,
     "geom:longitude":0.168227,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Plaz Espa\u00d1a, 2",
     "sg:city":"Fabara",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169686269,
-    "wof:lastmodified":1449035156,
+    "wof:lastmodified":1466245228,
     "wof:name":"Agropanillo Sl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.168227,41.22047,0.168227,41.22047],
+  "bbox": [
+    0.168227,
+    41.22047,
+    0.168227,
+    41.22047
+],
   "geometry": {"coordinates":[0.168227,41.22047],"type":"Point"}
 }

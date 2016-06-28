@@ -2,13 +2,14 @@
   "id": 169608583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.725431,41.649361,-4.725431,41.649361",
     "geom:latitude":41.649361,
     "geom:longitude":-4.725431,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Montero Calvo, 28",
     "sg:city":"Valladolid",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169608583,
-    "wof:lastmodified":1449034083,
+    "wof:lastmodified":1466245147,
     "wof:name":"Abia Vega Raquel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.725431,41.649361,-4.725431,41.649361],
+  "bbox": [
+    -4.725431,
+    41.649361,
+    -4.725431,
+    41.649361
+],
   "geometry": {"coordinates":[-4.725431,41.649361],"type":"Point"}
 }

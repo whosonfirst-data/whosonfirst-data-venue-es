@@ -2,13 +2,14 @@
   "id": 169686707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.887899,38.985874,-1.887899,38.985874",
     "geom:latitude":38.985874,
     "geom:longitude":-1.887899,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctra Jaen, S/n",
     "sg:city":"Bacariza",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169686707,
-    "wof:lastmodified":1449035159,
+    "wof:lastmodified":1466245230,
     "wof:name":"Agropecuaria Casa De Las Monjas S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.887899,38.985874,-1.887899,38.985874],
+  "bbox": [
+    -1.887899,
+    38.985874,
+    -1.887899,
+    38.985874
+],
   "geometry": {"coordinates":[-1.887899,38.985874],"type":"Point"}
 }

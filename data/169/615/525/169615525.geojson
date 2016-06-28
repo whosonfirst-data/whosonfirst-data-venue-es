@@ -2,13 +2,14 @@
   "id": 169615525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.702571,40.432976,-3.702571,40.432976",
     "geom:latitude":40.432976,
     "geom:longitude":-3.702571,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Jordan, 12",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169615525,
-    "wof:lastmodified":1449033734,
+    "wof:lastmodified":1466245153,
     "wof:name":"Ablanque C.b.",
     "wof:parent_id":85863661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.702571,40.432976,-3.702571,40.432976],
+  "bbox": [
+    -3.702571,
+    40.432976,
+    -3.702571,
+    40.432976
+],
   "geometry": {"coordinates":[-3.702571,40.432976],"type":"Point"}
 }

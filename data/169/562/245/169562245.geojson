@@ -2,13 +2,14 @@
   "id": 169562245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.224629,39.660686,-0.224629,39.660686",
     "geom:latitude":39.660686,
     "geom:longitude":-0.224629,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Nueve De Octubre, 15",
     "sg:city":"Puerto",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169562245,
-    "wof:lastmodified":1449034438,
+    "wof:lastmodified":1466245099,
     "wof:name":"3 Ilef S.l.u.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.224629,39.660686,-0.224629,39.660686],
+  "bbox": [
+    -0.224629,
+    39.660686,
+    -0.224629,
+    39.660686
+],
   "geometry": {"coordinates":[-0.224629,39.660686],"type":"Point"}
 }

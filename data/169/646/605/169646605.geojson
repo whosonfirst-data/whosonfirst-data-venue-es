@@ -2,13 +2,14 @@
   "id": 169646605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.880287,43.236889,-2.880287,43.236889",
     "geom:latitude":43.236889,
     "geom:longitude":-2.880287,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Frantzisko Kortabarria, 2",
     "sg:city":"Arizgoiti",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169646605,
-    "wof:lastmodified":1449032607,
+    "wof:lastmodified":1466245170,
     "wof:name":"Abrisqueta Barruetabe\u00f1a Maria Bego\u00f1a",
     "wof:parent_id":85799203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.880287,43.236889,-2.880287,43.236889],
+  "bbox": [
+    -2.880287,
+    43.236889,
+    -2.880287,
+    43.236889
+],
   "geometry": {"coordinates":[-2.880287,43.236889],"type":"Point"}
 }

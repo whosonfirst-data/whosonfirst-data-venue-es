@@ -2,13 +2,14 @@
   "id": 169570903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.603247,37.175171,-3.603247,37.175171",
     "geom:latitude":37.175171,
     "geom:longitude":-3.603247,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Puentezuelas, 51",
     "sg:city":"Granada",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169570903,
-    "wof:lastmodified":1449034646,
+    "wof:lastmodified":1466245212,
     "wof:name":"Abad Menor Angela",
     "wof:parent_id":85863841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.603247,37.175171,-3.603247,37.175171],
+  "bbox": [
+    -3.603247,
+    37.175171,
+    -3.603247,
+    37.175171
+],
   "geometry": {"coordinates":[-3.603247,37.175171],"type":"Point"}
 }

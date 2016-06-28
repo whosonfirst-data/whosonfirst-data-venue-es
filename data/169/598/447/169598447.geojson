@@ -2,13 +2,14 @@
   "id": 169598447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.316098,41.48106,2.316098,41.48106",
     "geom:latitude":41.48106,
     "geom:longitude":2.316098,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Pg Roman Fabra, 22",
     "sg:city":"Masnou",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169598447,
-    "wof:lastmodified":1449032859,
+    "wof:lastmodified":1466245141,
     "wof:name":"Abello Avellaneda Maria Dolores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.316098,41.48106,2.316098,41.48106],
+  "bbox": [
+    2.316098,
+    41.48106,
+    2.316098,
+    41.48106
+],
   "geometry": {"coordinates":[2.316098,41.48106],"type":"Point"}
 }

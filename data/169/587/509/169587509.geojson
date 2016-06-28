@@ -2,13 +2,14 @@
   "id": 169587509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.16516,40.633858,-3.16516,40.633858",
     "geom:latitude":40.633858,
     "geom:longitude":-3.16516,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Plaz General Prim, 1",
     "sg:city":"Guadalajara",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169587509,
-    "wof:lastmodified":1449033821,
+    "wof:lastmodified":1466245135,
     "wof:name":"Abella Lobato Jose Manuel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.16516,40.633858,-3.16516,40.633858],
+  "bbox": [
+    -3.16516,
+    40.633858,
+    -3.16516,
+    40.633858
+],
   "geometry": {"coordinates":[-3.16516,40.633858],"type":"Point"}
 }

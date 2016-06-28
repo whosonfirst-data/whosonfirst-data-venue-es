@@ -2,13 +2,14 @@
   "id": 169592439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.668761,41.621677,2.668761,41.621677",
     "geom:latitude":41.621677,
     "geom:longitude":2.668761,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Garbi, 260",
     "sg:city":"Pineda Mar",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169592439,
-    "wof:lastmodified":1449034582,
+    "wof:lastmodified":1466245135,
     "wof:name":"Abellan Mateo Rosa Maria",
     "wof:parent_id":85799549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.668761,41.621677,2.668761,41.621677],
+  "bbox": [
+    2.668761,
+    41.621677,
+    2.668761,
+    41.621677
+],
   "geometry": {"coordinates":[2.668761,41.621677],"type":"Point"}
 }

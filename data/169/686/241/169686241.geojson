@@ -2,13 +2,14 @@
   "id": 169686241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.408898,42.140102,-0.408898,42.140102",
     "geom:latitude":42.140102,
     "geom:longitude":-0.408898,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Sepes Poligono, S/n",
     "sg:city":"Huesca",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169686241,
-    "wof:lastmodified":1449035158,
+    "wof:lastmodified":1466245228,
     "wof:name":"Agropal S.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.408898,42.140102,-0.408898,42.140102],
+  "bbox": [
+    -0.408898,
+    42.140102,
+    -0.408898,
+    42.140102
+],
   "geometry": {"coordinates":[-0.408898,42.140102],"type":"Point"}
 }

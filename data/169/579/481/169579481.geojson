@@ -2,13 +2,14 @@
   "id": 169579481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.931488,41.661156,-0.931488,41.661156",
     "geom:latitude":41.661156,
     "geom:longitude":-0.931488,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Ibon Trigoniero, 10",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169579481,
-    "wof:lastmodified":1449033741,
+    "wof:lastmodified":1466245219,
     "wof:name":"Abbott Laboratories S.a.",
     "wof:parent_id":85863315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.931488,41.661156,-0.931488,41.661156],
+  "bbox": [
+    -0.931488,
+    41.661156,
+    -0.931488,
+    41.661156
+],
   "geometry": {"coordinates":[-0.931488,41.661156],"type":"Point"}
 }

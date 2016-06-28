@@ -2,13 +2,14 @@
   "id": 169567541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.987891,43.300804,-2.987891,43.300804",
     "geom:latitude":43.300804,
     "geom:longitude":-2.987891,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Murrieta, 1",
     "sg:city":"San Vicente De Barakaldo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169567541,
-    "wof:lastmodified":1449035993,
+    "wof:lastmodified":1466245201,
     "wof:name":"Abad Crespo Manuel",
     "wof:parent_id":85799675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.987891,43.300804,-2.987891,43.300804],
+  "bbox": [
+    -2.987891,
+    43.300804,
+    -2.987891,
+    43.300804
+],
   "geometry": {"coordinates":[-2.987891,43.300804],"type":"Point"}
 }

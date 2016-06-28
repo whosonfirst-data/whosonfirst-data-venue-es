@@ -2,13 +2,14 @@
   "id": 169671629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.938108,38.981945,-3.938108,38.981945",
     "geom:latitude":38.981945,
     "geom:longitude":-3.938108,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Jose De Ribera, 3",
     "sg:city":"Ciudad Real",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169671629,
-    "wof:lastmodified":1449033453,
+    "wof:lastmodified":1466245182,
     "wof:name":"Academia De Conductores Pio Xii S.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.938108,38.981945,-3.938108,38.981945],
+  "bbox": [
+    -3.938108,
+    38.981945,
+    -3.938108,
+    38.981945
+],
   "geometry": {"coordinates":[-3.938108,38.981945],"type":"Point"}
 }

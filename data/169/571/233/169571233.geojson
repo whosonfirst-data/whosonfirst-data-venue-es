@@ -2,13 +2,14 @@
   "id": 169571233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.557335,38.957878,-1.557335,38.957878",
     "geom:latitude":38.957878,
     "geom:longitude":-1.557335,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Federico Saez, 11",
     "sg:city":"Hoya-gonzalo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169571233,
-    "wof:lastmodified":1449034948,
+    "wof:lastmodified":1466245209,
     "wof:name":"Abad Nu\u00f1ez Juan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.557335,38.957878,-1.557335,38.957878],
+  "bbox": [
+    -1.557335,
+    38.957878,
+    -1.557335,
+    38.957878
+],
   "geometry": {"coordinates":[-1.557335,38.957878],"type":"Point"}
 }

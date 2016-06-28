@@ -2,13 +2,14 @@
   "id": 169657177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.541926,40.437309,-3.541926,40.437309",
     "geom:latitude":40.437309,
     "geom:longitude":-3.541926,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Industria (de La), 52",
     "sg:city":"Coslada",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169657177,
-    "wof:lastmodified":1449033050,
+    "wof:lastmodified":1466245172,
     "wof:name":"Abx Logistics Espa\u00f1a S.a.",
     "wof:parent_id":85863631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.541926,40.437309,-3.541926,40.437309],
+  "bbox": [
+    -3.541926,
+    40.437309,
+    -3.541926,
+    40.437309
+],
   "geometry": {"coordinates":[-3.541926,40.437309],"type":"Point"}
 }

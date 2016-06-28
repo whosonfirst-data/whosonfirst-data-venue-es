@@ -2,13 +2,14 @@
   "id": 169621383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.032491,39.988487,-0.032491,39.988487",
     "geom:latitude":39.988487,
     "geom:longitude":-0.032491,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Rafalafena, 19",
     "sg:city":"Castellon",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169621383,
-    "wof:lastmodified":1449035559,
+    "wof:lastmodified":1466245152,
     "wof:name":"Abolengo Decoracion S. L.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.032491,39.988487,-0.032491,39.988487],
+  "bbox": [
+    -0.032491,
+    39.988487,
+    -0.032491,
+    39.988487
+],
   "geometry": {"coordinates":[-0.032491,39.988487],"type":"Point"}
 }

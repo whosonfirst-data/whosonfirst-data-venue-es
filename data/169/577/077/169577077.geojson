@@ -2,13 +2,14 @@
   "id": 169577077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.407776,41.381233,-5.407776,41.381233",
     "geom:latitude":41.381233,
     "geom:longitude":-5.407776,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Jose Antonio, 2",
     "sg:city":"Toro",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169577077,
-    "wof:lastmodified":1449036064,
+    "wof:lastmodified":1466245111,
     "wof:name":"Abascal Fernandez Adoracion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.407776,41.381233,-5.407776,41.381233],
+  "bbox": [
+    -5.407776,
+    41.381233,
+    -5.407776,
+    41.381233
+],
   "geometry": {"coordinates":[-5.407776,41.381233],"type":"Point"}
 }

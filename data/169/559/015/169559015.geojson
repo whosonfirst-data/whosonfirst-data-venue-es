@@ -2,13 +2,14 @@
   "id": 169559015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.018996,39.877094,3.018996,39.877094",
     "geom:latitude":39.877094,
     "geom:longitude":3.018996,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Via Argentina, 1",
     "sg:city":"Pollen\u00e7a",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169559015,
-    "wof:lastmodified":1449035237,
+    "wof:lastmodified":1466245090,
     "wof:name":"1550 Mdl C.b.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.018996,39.877094,3.018996,39.877094],
+  "bbox": [
+    3.018996,
+    39.877094,
+    3.018996,
+    39.877094
+],
   "geometry": {"coordinates":[3.018996,39.877094],"type":"Point"}
 }

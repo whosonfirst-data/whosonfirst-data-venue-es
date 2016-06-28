@@ -2,13 +2,14 @@
   "id": 169566677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.170727,41.393459,2.170727,41.393459",
     "geom:latitude":41.393459,
     "geom:longitude":2.170727,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Bruc, 68",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169566677,
-    "wof:lastmodified":1449032752,
+    "wof:lastmodified":1466245198,
     "wof:name":"Abadal Berini Joaquin",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.170727,41.393459,2.170727,41.393459],
+  "bbox": [
+    2.170727,
+    41.393459,
+    2.170727,
+    41.393459
+],
   "geometry": {"coordinates":[2.170727,41.393459],"type":"Point"}
 }

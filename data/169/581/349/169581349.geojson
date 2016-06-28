@@ -2,13 +2,14 @@
   "id": 169581349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.509583,36.603306,-4.509583,36.603306",
     "geom:latitude":36.603306,
     "geom:longitude":-4.509583,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Salvador Allende, 50",
     "sg:city":"Torremolinos",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169581349,
-    "wof:lastmodified":1449033381,
+    "wof:lastmodified":1466245119,
     "wof:name":"Abderrihim  Benzekri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.509583,36.603306,-4.509583,36.603306],
+  "bbox": [
+    -4.509583,
+    36.603306,
+    -4.509583,
+    36.603306
+],
   "geometry": {"coordinates":[-4.509583,36.603306],"type":"Point"}
 }

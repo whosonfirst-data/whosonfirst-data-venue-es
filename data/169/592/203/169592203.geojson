@@ -2,13 +2,14 @@
   "id": 169592203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.038762,38.023907,-1.038762,38.023907",
     "geom:latitude":38.023907,
     "geom:longitude":-1.038762,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctra Alquerias, S/n",
     "sg:city":"Raal",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169592203,
-    "wof:lastmodified":1449034584,
+    "wof:lastmodified":1466245133,
     "wof:name":"Abellan Lucas Maria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.038762,38.023907,-1.038762,38.023907],
+  "bbox": [
+    -1.038762,
+    38.023907,
+    -1.038762,
+    38.023907
+],
   "geometry": {"coordinates":[-1.038762,38.023907],"type":"Point"}
 }

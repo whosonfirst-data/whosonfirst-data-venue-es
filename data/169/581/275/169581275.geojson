@@ -2,13 +2,14 @@
   "id": 169581275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-16.551636,28.415274,-16.551636,28.415274",
     "geom:latitude":28.415274,
     "geom:longitude":-16.551636,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Doctor Ingram, 14",
     "sg:city":"Puerto Cruz",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169581275,
-    "wof:lastmodified":1449033380,
+    "wof:lastmodified":1466245218,
     "wof:name":"Abderraman Labrador Soraya",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-16.551636,28.415274,-16.551636,28.415274],
+  "bbox": [
+    -16.551636,
+    28.415274,
+    -16.551636,
+    28.415274
+],
   "geometry": {"coordinates":[-16.551636,28.415274],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169572515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.010051,40.007153,-3.010051,40.007153",
     "geom:latitude":40.007153,
     "geom:longitude":-3.010051,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de General Emilio Villaescusa, 18",
     "sg:city":"Tarancon",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169572515,
-    "wof:lastmodified":1449034703,
+    "wof:lastmodified":1466245104,
     "wof:name":"Abad Valencia Maria Teresa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.010051,40.007153,-3.010051,40.007153],
+  "bbox": [
+    -3.010051,
+    40.007153,
+    -3.010051,
+    40.007153
+],
   "geometry": {"coordinates":[-3.010051,40.007153],"type":"Point"}
 }

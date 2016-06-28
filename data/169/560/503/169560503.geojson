@@ -2,13 +2,14 @@
   "id": 169560503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.455367,39.545734,-0.455367,39.545734",
     "geom:latitude":39.545734,
     "geom:longitude":-0.455367,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Leonardo Da Vinci, 10",
     "sg:city":"Parc Tecnologic",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169560503,
-    "wof:lastmodified":1449035182,
+    "wof:lastmodified":1466245094,
     "wof:name":"2020 Spi S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.455367,39.545734,-0.455367,39.545734],
+  "bbox": [
+    -0.455367,
+    39.545734,
+    -0.455367,
+    39.545734
+],
   "geometry": {"coordinates":[-0.455367,39.545734],"type":"Point"}
 }

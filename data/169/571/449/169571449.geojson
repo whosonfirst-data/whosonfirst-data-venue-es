@@ -2,13 +2,14 @@
   "id": 169571449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.807987,40.316402,-0.807987,40.316402",
     "geom:latitude":40.316402,
     "geom:longitude":-0.807987,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Larga, 5",
     "sg:city":"Cabra De Mora",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169571449,
-    "wof:lastmodified":1449034948,
+    "wof:lastmodified":1466245104,
     "wof:name":"Abad Pastor Eugenio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.807987,40.316402,-0.807987,40.316402],
+  "bbox": [
+    -0.807987,
+    40.316402,
+    -0.807987,
+    40.316402
+],
   "geometry": {"coordinates":[-0.807987,40.316402],"type":"Point"}
 }

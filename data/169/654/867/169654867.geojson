@@ -2,13 +2,14 @@
   "id": 169654867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-7.551219,43.006466,-7.551219,43.006466",
     "geom:latitude":43.006466,
     "geom:longitude":-7.551219,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Rua San Roque, 161",
     "sg:city":"Lugo",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169654867,
-    "wof:lastmodified":1449033792,
+    "wof:lastmodified":1466245175,
     "wof:name":"Abuin Gonzalez Felisa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-7.551219,43.006466,-7.551219,43.006466],
+  "bbox": [
+    -7.551219,
+    43.006466,
+    -7.551219,
+    43.006466
+],
   "geometry": {"coordinates":[-7.551219,43.006466],"type":"Point"}
 }

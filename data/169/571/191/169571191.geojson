@@ -2,13 +2,14 @@
   "id": 169571191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.122069,38.613312,-1.122069,38.613312",
     "geom:latitude":38.613312,
     "geom:longitude":-1.122069,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Ramblizo, 16",
     "sg:city":"Yecla",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169571191,
-    "wof:lastmodified":1449034946,
+    "wof:lastmodified":1466245100,
     "wof:name":"Abad Mu\u00f1oz Consuelo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.122069,38.613312,-1.122069,38.613312],
+  "bbox": [
+    -1.122069,
+    38.613312,
+    -1.122069,
+    38.613312
+],
   "geometry": {"coordinates":[-1.122069,38.613312],"type":"Point"}
 }

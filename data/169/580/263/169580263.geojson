@@ -2,13 +2,14 @@
   "id": 169580263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.150997,41.401695,2.150997,41.401695",
     "geom:latitude":41.401695,
     "geom:longitude":2.150997,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Av Princep D'asturies, 7",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169580263,
-    "wof:lastmodified":1449034918,
+    "wof:lastmodified":1466245118,
     "wof:name":"Abc Tecno S.l.",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.150997,41.401695,2.150997,41.401695],
+  "bbox": [
+    2.150997,
+    41.401695,
+    2.150997,
+    41.401695
+],
   "geometry": {"coordinates":[2.150997,41.401695],"type":"Point"}
 }

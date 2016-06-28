@@ -2,13 +2,14 @@
   "id": 169585739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-8.6562,43.025677,-8.6562,43.025677",
     "geom:latitude":43.025677,
     "geom:longitude":-8.6562,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Rua Arcai, S/n",
     "sg:city":"Bembibre",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169585739,
-    "wof:lastmodified":1449034887,
+    "wof:lastmodified":1466245221,
     "wof:name":"Abelenda Oreiro Jose Maria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-8.6562,43.025677,-8.6562,43.025677],
+  "bbox": [
+    -8.6562,
+    43.025677,
+    -8.6562,
+    43.025677
+],
   "geometry": {"coordinates":[-8.6562,43.025677],"type":"Point"}
 }

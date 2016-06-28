@@ -2,13 +2,14 @@
   "id": 169576103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.54127,40.42532,-3.54127,40.42532",
     "geom:latitude":40.42532,
     "geom:longitude":-3.54127,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Jesus De San Antonio (de), 17",
     "sg:city":"Coslada",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169576103,
-    "wof:lastmodified":1449035197,
+    "wof:lastmodified":1466245108,
     "wof:name":"Abarca Asesores S.l.",
     "wof:parent_id":85863631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.54127,40.42532,-3.54127,40.42532],
+  "bbox": [
+    -3.54127,
+    40.42532,
+    -3.54127,
+    40.42532
+],
   "geometry": {"coordinates":[-3.54127,40.42532],"type":"Point"}
 }

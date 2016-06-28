@@ -2,13 +2,14 @@
   "id": 169619297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.647861,39.570297,2.647861,39.570297",
     "geom:latitude":39.570297,
     "geom:longitude":2.647861,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Can Puigdorfila, 2",
     "sg:city":"Palma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169619297,
-    "wof:lastmodified":1449033282,
+    "wof:lastmodified":1466245152,
     "wof:name":"Abogados Pastor Riera Valles Y Asociados S.l.",
     "wof:parent_id":85864117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.647861,39.570297,2.647861,39.570297],
+  "bbox": [
+    2.647861,
+    39.570297,
+    2.647861,
+    39.570297
+],
   "geometry": {"coordinates":[2.647861,39.570297],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169626401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.034048,41.489773,2.034048,41.489773",
     "geom:latitude":41.489773,
     "geom:longitude":2.034048,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Magi Ramentol, 13",
     "sg:city":"Rubi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169626401,
-    "wof:lastmodified":1449035973,
+    "wof:lastmodified":1466245157,
     "wof:name":"Abos Moreno Alberto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.034048,41.489773,2.034048,41.489773],
+  "bbox": [
+    2.034048,
+    41.489773,
+    2.034048,
+    41.489773
+],
   "geometry": {"coordinates":[2.034048,41.489773],"type":"Point"}
 }

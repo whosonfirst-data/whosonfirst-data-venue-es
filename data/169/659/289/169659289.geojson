@@ -2,13 +2,14 @@
   "id": 169659289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.140253,41.389854,2.140253,41.389854",
     "geom:latitude":41.389854,
     "geom:longitude":2.140253,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Trav Corts, 365",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169659289,
-    "wof:lastmodified":1449033030,
+    "wof:lastmodified":1466245174,
     "wof:name":"Acabados De Obras Y Construcciones S.a.",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.140253,41.389854,2.140253,41.389854],
+  "bbox": [
+    2.140253,
+    41.389854,
+    2.140253,
+    41.389854
+],
   "geometry": {"coordinates":[2.140253,41.389854],"type":"Point"}
 }

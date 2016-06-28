@@ -2,13 +2,14 @@
   "id": 169628375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.664033,40.966789,-5.664033,40.966789",
     "geom:latitude":40.966789,
     "geom:longitude":-5.664033,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Brocense, 2",
     "sg:city":"Salamanca",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169628375,
-    "wof:lastmodified":1449035331,
+    "wof:lastmodified":1466245156,
     "wof:name":"Aboy Lorenzo Carlos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.664033,40.966789,-5.664033,40.966789],
+  "bbox": [
+    -5.664033,
+    40.966789,
+    -5.664033,
+    40.966789
+],
   "geometry": {"coordinates":[-5.664033,40.966789],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169585845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.893865,41.543667,1.893865,41.543667",
     "geom:latitude":41.543667,
     "geom:longitude":1.893865,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Anselm Clave, 147",
     "sg:city":"Olesa Montserrat",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169585845,
-    "wof:lastmodified":1449034885,
+    "wof:lastmodified":1466245221,
     "wof:name":"Abelgira Navarro Nicolas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.893865,41.543667,1.893865,41.543667],
+  "bbox": [
+    1.893865,
+    41.543667,
+    1.893865,
+    41.543667
+],
   "geometry": {"coordinates":[1.893865,41.543667],"type":"Point"}
 }

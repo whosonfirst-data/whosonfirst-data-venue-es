@@ -2,13 +2,14 @@
   "id": 169576259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.296257,41.632656,2.296257,41.632656",
     "geom:latitude":41.632656,
     "geom:longitude":2.296257,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Av. Sagrera (la Sagrera), 26",
     "sg:city":"Corro D'avall",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169576259,
-    "wof:lastmodified":1449035194,
+    "wof:lastmodified":1466245214,
     "wof:name":"Abarca Galera Jose",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.296257,41.632656,2.296257,41.632656],
+  "bbox": [
+    2.296257,
+    41.632656,
+    2.296257,
+    41.632656
+],
   "geometry": {"coordinates":[2.296257,41.632656],"type":"Point"}
 }

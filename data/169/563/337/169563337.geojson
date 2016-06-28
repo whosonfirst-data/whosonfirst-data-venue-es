@@ -2,13 +2,14 @@
   "id": 169563337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.632047,40.533485,-3.632047,40.533485",
     "geom:latitude":40.533485,
     "geom:longitude":-3.632047,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Vega (de La), 18",
     "sg:city":"Alcobendas",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169563337,
-    "wof:lastmodified":1449032732,
+    "wof:lastmodified":1466245115,
     "wof:name":"6 X 6 Producciones Fotograficas S.c.",
     "wof:parent_id":85799389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.632047,40.533485,-3.632047,40.533485],
+  "bbox": [
+    -3.632047,
+    40.533485,
+    -3.632047,
+    40.533485
+],
   "geometry": {"coordinates":[-3.632047,40.533485],"type":"Point"}
 }

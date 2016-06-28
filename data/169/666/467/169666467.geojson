@@ -2,13 +2,14 @@
   "id": 169666467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.313477,43.086731,-2.313477,43.086731",
     "geom:latitude":43.086731,
     "geom:longitude":-2.313477,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Labeaga Kalea, 40 A",
     "sg:city":"Urretxu",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169666467,
-    "wof:lastmodified":1449033899,
+    "wof:lastmodified":1466245179,
     "wof:name":"Academia Ain Ingles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.313477,43.086731,-2.313477,43.086731],
+  "bbox": [
+    -2.313477,
+    43.086731,
+    -2.313477,
+    43.086731
+],
   "geometry": {"coordinates":[-2.313477,43.086731],"type":"Point"}
 }

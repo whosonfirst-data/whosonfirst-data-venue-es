@@ -2,13 +2,14 @@
   "id": 169558919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-8.355075,43.311378,-8.355075,43.311378",
     "geom:latitude":43.311378,
     "geom:longitude":-8.355075,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Rua Barcala, 4",
     "sg:city":"Temple",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169558919,
-    "wof:lastmodified":1449033581,
+    "wof:lastmodified":1466245092,
     "wof:name":"1 2 3 Servicio Rapido S.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-8.355075,43.311378,-8.355075,43.311378],
+  "bbox": [
+    -8.355075,
+    43.311378,
+    -8.355075,
+    43.311378
+],
   "geometry": {"coordinates":[-8.355075,43.311378],"type":"Point"}
 }

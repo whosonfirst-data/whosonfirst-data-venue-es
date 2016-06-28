@@ -2,13 +2,14 @@
   "id": 169630937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-16.778675,28.211157,-16.778675,28.211157",
     "geom:latitude":28.211157,
     "geom:longitude":-16.778675,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Mentidero (el), 26",
     "sg:city":"Guia Isora",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169630937,
-    "wof:lastmodified":1449033868,
+    "wof:lastmodified":1466245160,
     "wof:name":"Abrante Rodriguez Cipriano",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-16.778675,28.211157,-16.778675,28.211157],
+  "bbox": [
+    -16.778675,
+    28.211157,
+    -16.778675,
+    28.211157
+],
   "geometry": {"coordinates":[-16.778675,28.211157],"type":"Point"}
 }

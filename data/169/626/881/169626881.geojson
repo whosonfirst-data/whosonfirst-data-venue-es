@@ -2,13 +2,14 @@
   "id": 169626881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.145439,41.392052,2.145439,41.392052",
     "geom:latitude":41.392052,
     "geom:longitude":2.145439,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Comte D'urgell, 259",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169626881,
-    "wof:lastmodified":1449035970,
+    "wof:lastmodified":1466245161,
     "wof:name":"Abou-jeib Deklbab Haissam",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.145439,41.392052,2.145439,41.392052],
+  "bbox": [
+    2.145439,
+    41.392052,
+    2.145439,
+    41.392052
+],
   "geometry": {"coordinates":[2.145439,41.392052],"type":"Point"}
 }

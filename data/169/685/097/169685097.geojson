@@ -2,13 +2,14 @@
   "id": 169685097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.634631,41.674244,0.634631,41.674244",
     "geom:latitude":41.674244,
     "geom:longitude":0.634631,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Afores, S/n",
     "sg:city":"Torre-serona",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169685097,
-    "wof:lastmodified":1449035886,
+    "wof:lastmodified":1466245228,
     "wof:name":"Agro Massot S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.634631,41.674244,0.634631,41.674244],
+  "bbox": [
+    0.634631,
+    41.674244,
+    0.634631,
+    41.674244
+],
   "geometry": {"coordinates":[0.634631,41.674244],"type":"Point"}
 }

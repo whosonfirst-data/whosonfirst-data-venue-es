@@ -2,13 +2,14 @@
   "id": 169655685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-8.788285,42.68174,-8.788285,42.68174",
     "geom:latitude":42.68174,
     "geom:longitude":-8.788285,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Devesa, 26",
     "sg:city":"Rianxo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169655685,
-    "wof:lastmodified":1449034589,
+    "wof:lastmodified":1466245174,
     "wof:name":"Abuin Tubio Josefina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-8.788285,42.68174,-8.788285,42.68174],
+  "bbox": [
+    -8.788285,
+    42.68174,
+    -8.788285,
+    42.68174
+],
   "geometry": {"coordinates":[-8.788285,42.68174],"type":"Point"}
 }

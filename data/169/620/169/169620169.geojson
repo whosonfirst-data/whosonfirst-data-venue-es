@@ -2,13 +2,14 @@
   "id": 169620169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.490229,39.851051,-0.490229,39.851051",
     "geom:latitude":39.851051,
     "geom:longitude":-0.490229,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Obispo Canubio, 9",
     "sg:city":"Segorbe",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169620169,
-    "wof:lastmodified":1449035674,
+    "wof:lastmodified":1466245152,
     "wof:name":"Abogados Y Asesores Veritas Sl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.490229,39.851051,-0.490229,39.851051],
+  "bbox": [
+    -0.490229,
+    39.851051,
+    -0.490229,
+    39.851051
+],
   "geometry": {"coordinates":[-0.490229,39.851051],"type":"Point"}
 }

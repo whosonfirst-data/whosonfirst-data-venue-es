@@ -2,13 +2,14 @@
   "id": 169568961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.414642,43.034328,-2.414642,43.034328",
     "geom:latitude":43.034328,
     "geom:longitude":-2.414642,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Aita Madina Kalea, 1",
     "sg:city":"O\u00f1ati",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169568961,
-    "wof:lastmodified":1449032614,
+    "wof:lastmodified":1466245205,
     "wof:name":"Abadia Canonigos De O\u00f1ati",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.414642,43.034328,-2.414642,43.034328],
+  "bbox": [
+    -2.414642,
+    43.034328,
+    -2.414642,
+    43.034328
+],
   "geometry": {"coordinates":[-2.414642,43.034328],"type":"Point"}
 }

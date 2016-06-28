@@ -2,13 +2,14 @@
   "id": 169668357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.010652,43.34787,-3.010652,43.34787",
     "geom:latitude":43.34787,
     "geom:longitude":-3.010652,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Basagoiti, 42",
     "sg:city":"Getxo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169668357,
-    "wof:lastmodified":1449034990,
+    "wof:lastmodified":1466245179,
     "wof:name":"Academia Behal Idiomas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.010652,43.34787,-3.010652,43.34787],
+  "bbox": [
+    -3.010652,
+    43.34787,
+    -3.010652,
+    43.34787
+],
   "geometry": {"coordinates":[-3.010652,43.34787],"type":"Point"}
 }

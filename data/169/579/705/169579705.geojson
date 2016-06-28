@@ -2,13 +2,14 @@
   "id": 169579705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.284012,36.516674,-6.284012,36.516674",
     "geom:latitude":36.516674,
     "geom:longitude":-6.284012,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Gabriel Matute, 4",
     "sg:city":"Cadiz",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169579705,
-    "wof:lastmodified":1449033742,
+    "wof:lastmodified":1466245222,
     "wof:name":"Abc Dental C.b.",
     "wof:parent_id":85799573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.284012,36.516674,-6.284012,36.516674],
+  "bbox": [
+    -6.284012,
+    36.516674,
+    -6.284012,
+    36.516674
+],
   "geometry": {"coordinates":[-6.284012,36.516674],"type":"Point"}
 }

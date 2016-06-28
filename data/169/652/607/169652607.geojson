@@ -2,13 +2,14 @@
   "id": 169652607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.662601,43.309494,-2.662601,43.309494",
     "geom:latitude":43.309494,
     "geom:longitude":-2.662601,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Barr Mendieta, S/n",
     "sg:city":"Mendieta",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169652607,
-    "wof:lastmodified":1449034807,
+    "wof:lastmodified":1466245173,
     "wof:name":"Abs Tecnologias Del Agua S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.662601,43.309494,-2.662601,43.309494],
+  "bbox": [
+    -2.662601,
+    43.309494,
+    -2.662601,
+    43.309494
+],
   "geometry": {"coordinates":[-2.662601,43.309494],"type":"Point"}
 }

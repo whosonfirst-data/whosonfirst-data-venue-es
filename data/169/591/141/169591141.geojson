@@ -2,13 +2,14 @@
   "id": 169591141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.108168,41.355968,2.108168,41.355968",
     "geom:latitude":41.355968,
     "geom:longitude":2.108168,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctra Mig, 97",
     "sg:city":"Hospitalet Llobregat",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169591141,
-    "wof:lastmodified":1449034450,
+    "wof:lastmodified":1466245132,
     "wof:name":"Abellan Hermanos S. A.",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.108168,41.355968,2.108168,41.355968],
+  "bbox": [
+    2.108168,
+    41.355968,
+    2.108168,
+    41.355968
+],
   "geometry": {"coordinates":[2.108168,41.355968],"type":"Point"}
 }

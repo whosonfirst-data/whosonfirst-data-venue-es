@@ -2,13 +2,14 @@
   "id": 169573493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.721076,41.660606,-4.721076,41.660606",
     "geom:latitude":41.660606,
     "geom:longitude":-4.721076,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Cardenal Cisneros, 1",
     "sg:city":"Valladolid",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169573493,
-    "wof:lastmodified":1449035113,
+    "wof:lastmodified":1466245210,
     "wof:name":"Abajo Monroy Daniel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.721076,41.660606,-4.721076,41.660606],
+  "bbox": [
+    -4.721076,
+    41.660606,
+    -4.721076,
+    41.660606
+],
   "geometry": {"coordinates":[-4.721076,41.660606],"type":"Point"}
 }

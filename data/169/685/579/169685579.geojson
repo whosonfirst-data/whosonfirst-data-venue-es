@@ -2,13 +2,14 @@
   "id": 169685579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.661434,37.982857,-0.661434,37.982857",
     "geom:latitude":37.982857,
     "geom:longitude":-0.661434,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Doctor Mariano Ruiz Canovas, 40",
     "sg:city":"Torrevieja",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169685579,
-    "wof:lastmodified":1449035885,
+    "wof:lastmodified":1466245232,
     "wof:name":"Agrometodos S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.661434,37.982857,-0.661434,37.982857],
+  "bbox": [
+    -0.661434,
+    37.982857,
+    -0.661434,
+    37.982857
+],
   "geometry": {"coordinates":[-0.661434,37.982857],"type":"Point"}
 }

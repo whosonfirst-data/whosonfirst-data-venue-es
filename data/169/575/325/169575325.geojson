@@ -2,13 +2,14 @@
   "id": 169575325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.109243,41.152916,1.109243,41.152916",
     "geom:latitude":41.152916,
     "geom:longitude":1.109243,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Rava Robuster, 41",
     "sg:city":"Reus",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169575325,
-    "wof:lastmodified":1449033640,
+    "wof:lastmodified":1466245110,
     "wof:name":"Abancens Perez Rosa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.109243,41.152916,1.109243,41.152916],
+  "bbox": [
+    1.109243,
+    41.152916,
+    1.109243,
+    41.152916
+],
   "geometry": {"coordinates":[1.109243,41.152916],"type":"Point"}
 }

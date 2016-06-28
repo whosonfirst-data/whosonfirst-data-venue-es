@@ -2,13 +2,14 @@
   "id": 169603861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.209844,40.820908,-4.209844,40.820908",
     "geom:latitude":40.820908,
     "geom:longitude":-4.209844,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Las Cercas, S/n",
     "sg:city":"Otero Herreros",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169603861,
-    "wof:lastmodified":1449035455,
+    "wof:lastmodified":1466245146,
     "wof:name":"Aberdonia S L",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.209844,40.820908,-4.209844,40.820908],
+  "bbox": [
+    -4.209844,
+    40.820908,
+    -4.209844,
+    40.820908
+],
   "geometry": {"coordinates":[-4.209844,40.820908],"type":"Point"}
 }

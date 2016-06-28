@@ -2,13 +2,14 @@
   "id": 169602231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.883921,41.65398,-0.883921,41.65398",
     "geom:latitude":41.65398,
     "geom:longitude":-0.883921,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Coso, 14",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169602231,
-    "wof:lastmodified":1449034228,
+    "wof:lastmodified":1466245142,
     "wof:name":"Abenia Lasauca Fernando",
     "wof:parent_id":85863323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.883921,41.65398,-0.883921,41.65398],
+  "bbox": [
+    -0.883921,
+    41.65398,
+    -0.883921,
+    41.65398
+],
   "geometry": {"coordinates":[-0.883921,41.65398],"type":"Point"}
 }

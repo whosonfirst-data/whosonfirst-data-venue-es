@@ -2,13 +2,14 @@
   "id": 169642499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.435555,36.73177,-4.435555,36.73177",
     "geom:latitude":36.73177,
     "geom:longitude":-4.435555,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Pepe Santiago, 21",
     "sg:city":"Malaga",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169642499,
-    "wof:lastmodified":1449032876,
+    "wof:lastmodified":1466245167,
     "wof:name":"Abrilimp S.l. Servicios Y Limpieza",
     "wof:parent_id":85863455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.435555,36.73177,-4.435555,36.73177],
+  "bbox": [
+    -4.435555,
+    36.73177,
+    -4.435555,
+    36.73177
+],
   "geometry": {"coordinates":[-4.435555,36.73177],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169638207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-16.320122,28.487835,-16.320122,28.487835",
     "geom:latitude":28.487835,
     "geom:longitude":-16.320122,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Seis De Diciembre, S/n",
     "sg:city":"San Cristobal De La Laguna",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169638207,
-    "wof:lastmodified":1449032867,
+    "wof:lastmodified":1466245164,
     "wof:name":"Abreu Perez Rafael",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-16.320122,28.487835,-16.320122,28.487835],
+  "bbox": [
+    -16.320122,
+    28.487835,
+    -16.320122,
+    28.487835
+],
   "geometry": {"coordinates":[-16.320122,28.487835],"type":"Point"}
 }

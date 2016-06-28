@@ -2,13 +2,14 @@
   "id": 169569893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.429866,39.465919,-0.429866,39.465919",
     "geom:latitude":39.465919,
     "geom:longitude":-0.429866,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avgd Del Cami Nou, 78",
     "sg:city":"Xirivella",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169569893,
-    "wof:lastmodified":1449035831,
+    "wof:lastmodified":1466245102,
     "wof:name":"Abad Iba\u00f1ez Jose Victoriano",
     "wof:parent_id":85864219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.429866,39.465919,-0.429866,39.465919],
+  "bbox": [
+    -0.429866,
+    39.465919,
+    -0.429866,
+    39.465919
+],
   "geometry": {"coordinates":[-0.429866,39.465919],"type":"Point"}
 }

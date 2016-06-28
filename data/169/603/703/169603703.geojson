@@ -2,13 +2,14 @@
   "id": 169603703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-15.435125,28.139009,-15.435125,28.139009",
     "geom:latitude":28.139009,
     "geom:longitude":-15.435125,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Mariana De Pineda, 17",
     "sg:city":"Palmas De Gran Canaria",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169603703,
-    "wof:lastmodified":1449035452,
+    "wof:lastmodified":1466245145,
     "wof:name":"Aberasturi Madrigal Maria Soledad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "peluqueros"
     ]
 },
-  "bbox": [-15.435125,28.139009,-15.435125,28.139009],
+  "bbox": [
+    -15.435125,
+    28.139009,
+    -15.435125,
+    28.139009
+],
   "geometry": {"coordinates":[-15.435125,28.139009],"type":"Point"}
 }

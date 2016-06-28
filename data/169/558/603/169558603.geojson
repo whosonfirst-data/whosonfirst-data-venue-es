@@ -2,13 +2,14 @@
   "id": 169558603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.363079,41.515381,2.363079,41.515381",
     "geom:latitude":41.515381,
     "geom:longitude":2.363079,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Riera Targa, 55",
     "sg:city":"Vilassar Dalt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169558603,
-    "wof:lastmodified":1449033582,
+    "wof:lastmodified":1466245091,
     "wof:name":"08 Dinamic Display S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.363079,41.515381,2.363079,41.515381],
+  "bbox": [
+    2.363079,
+    41.515381,
+    2.363079,
+    41.515381
+],
   "geometry": {"coordinates":[2.363079,41.515381],"type":"Point"}
 }

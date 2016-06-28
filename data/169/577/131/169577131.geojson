@@ -2,13 +2,14 @@
   "id": 169577131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.92723,43.199612,-3.92723,43.199612",
     "geom:latitude":43.199612,
     "geom:longitude":-3.92723,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Av. Generalisimo, 23",
     "sg:city":"Alceda",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169577131,
-    "wof:lastmodified":1449036064,
+    "wof:lastmodified":1466245111,
     "wof:name":"Abascal Fernandez Policarpo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.92723,43.199612,-3.92723,43.199612],
+  "bbox": [
+    -3.92723,
+    43.199612,
+    -3.92723,
+    43.199612
+],
   "geometry": {"coordinates":[-3.92723,43.199612],"type":"Point"}
 }

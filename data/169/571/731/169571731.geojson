@@ -2,13 +2,14 @@
   "id": 169571731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.152566,41.375603,2.152566,41.375603",
     "geom:latitude":41.375603,
     "geom:longitude":2.152566,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Av Mistral, 68",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169571731,
-    "wof:lastmodified":1449034947,
+    "wof:lastmodified":1466245108,
     "wof:name":"Abad Reyes Minerva",
     "wof:parent_id":85864027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.152566,41.375603,2.152566,41.375603],
+  "bbox": [
+    2.152566,
+    41.375603,
+    2.152566,
+    41.375603
+],
   "geometry": {"coordinates":[2.152566,41.375603],"type":"Point"}
 }

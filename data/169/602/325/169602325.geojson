@@ -2,13 +2,14 @@
   "id": 169602325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.218357,39.39365,-3.218357,39.39365",
     "geom:latitude":39.39365,
     "geom:longitude":-3.218357,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de General Prim, 24",
     "sg:city":"Alcazar S. Juan",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169602325,
-    "wof:lastmodified":1449034228,
+    "wof:lastmodified":1466245143,
     "wof:name":"Abengozar Muela Jesus Cristobal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.218357,39.39365,-3.218357,39.39365],
+  "bbox": [
+    -3.218357,
+    39.39365,
+    -3.218357,
+    39.39365
+],
   "geometry": {"coordinates":[-3.218357,39.39365],"type":"Point"}
 }

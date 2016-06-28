@@ -2,13 +2,14 @@
   "id": 169568447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.534533,43.544819,-6.534533,43.544819",
     "geom:latitude":43.544819,
     "geom:longitude":-6.534533,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Parroco Camino, 23",
     "sg:city":"Luarca",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169568447,
-    "wof:lastmodified":1449032611,
+    "wof:lastmodified":1466245204,
     "wof:name":"Abad Garcia Santiago",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.534533,43.544819,-6.534533,43.544819],
+  "bbox": [
+    -6.534533,
+    43.544819,
+    -6.534533,
+    43.544819
+],
   "geometry": {"coordinates":[-6.534533,43.544819],"type":"Point"}
 }

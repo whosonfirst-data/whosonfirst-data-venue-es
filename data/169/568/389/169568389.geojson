@@ -2,13 +2,14 @@
   "id": 169568389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.688702,40.350399,-3.688702,40.350399",
     "geom:latitude":40.350399,
     "geom:longitude":-3.688702,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Encarnacion Oviol, 30",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169568389,
-    "wof:lastmodified":1449032613,
+    "wof:lastmodified":1466245204,
     "wof:name":"Abad Garcia Saturnino",
     "wof:parent_id":85799667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.688702,40.350399,-3.688702,40.350399],
+  "bbox": [
+    -3.688702,
+    40.350399,
+    -3.688702,
+    40.350399
+],
   "geometry": {"coordinates":[-3.688702,40.350399],"type":"Point"}
 }

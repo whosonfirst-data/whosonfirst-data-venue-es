@@ -2,13 +2,14 @@
   "id": 169575911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.376805,39.470238,-0.376805,39.470238",
     "geom:latitude":39.470238,
     "geom:longitude":-0.376805,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carr Riu Vinalopo, 93",
     "sg:city":"Pai I Capellans",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169575911,
-    "wof:lastmodified":1449033642,
+    "wof:lastmodified":1466245122,
     "wof:name":"Abantia Mantenimiento S.a.",
     "wof:parent_id":85864217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.376805,39.470238,-0.376805,39.470238],
+  "bbox": [
+    -0.376805,
+    39.470238,
+    -0.376805,
+    39.470238
+],
   "geometry": {"coordinates":[-0.376805,39.470238],"type":"Point"}
 }

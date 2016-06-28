@@ -2,13 +2,14 @@
   "id": 169686439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.459632,41.953766,0.459632,41.953766",
     "geom:latitude":41.953766,
     "geom:longitude":0.459632,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Partida La Fonteta, S/n",
     "sg:city":"Baells",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169686439,
-    "wof:lastmodified":1449035156,
+    "wof:lastmodified":1466245229,
     "wof:name":"Agropecuaria Baells S.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.459632,41.953766,0.459632,41.953766],
+  "bbox": [
+    0.459632,
+    41.953766,
+    0.459632,
+    41.953766
+],
   "geometry": {"coordinates":[0.459632,41.953766],"type":"Point"}
 }

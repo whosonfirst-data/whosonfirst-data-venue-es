@@ -2,13 +2,14 @@
   "id": 169563421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.92224,41.650951,-0.92224,41.650951",
     "geom:latitude":41.650951,
     "geom:longitude":-0.92224,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Progreso Espa\u00d1ol, 2",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169563421,
-    "wof:lastmodified":1449032732,
+    "wof:lastmodified":1466245116,
     "wof:name":"7 Alimentacion 7 S.a.",
     "wof:parent_id":85863433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.92224,41.650951,-0.92224,41.650951],
+  "bbox": [
+    -0.92224,
+    41.650951,
+    -0.92224,
+    41.650951
+],
   "geometry": {"coordinates":[-0.92224,41.650951],"type":"Point"}
 }

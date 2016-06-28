@@ -2,13 +2,14 @@
   "id": 169633163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.670066,40.39386,-3.670066,40.39386",
     "geom:latitude":40.39386,
     "geom:longitude":-3.670066,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Monte Perdido, 34",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169633163,
-    "wof:lastmodified":1449035940,
+    "wof:lastmodified":1466245157,
     "wof:name":"Abrasivos Saga S. A.",
     "wof:parent_id":85799491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.670066,40.39386,-3.670066,40.39386],
+  "bbox": [
+    -3.670066,
+    40.39386,
+    -3.670066,
+    40.39386
+],
   "geometry": {"coordinates":[-3.670066,40.39386],"type":"Point"}
 }

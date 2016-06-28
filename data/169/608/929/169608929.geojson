@@ -2,13 +2,14 @@
   "id": 169608929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.17953,41.379772,2.17953,41.379772",
     "geom:latitude":41.379772,
     "geom:longitude":2.17953,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Ample, 12",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169608929,
-    "wof:lastmodified":1449034083,
+    "wof:lastmodified":1466245149,
     "wof:name":"Abigador  Marcelo Ramon",
     "wof:parent_id":85864033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.17953,41.379772,2.17953,41.379772],
+  "bbox": [
+    2.17953,
+    41.379772,
+    2.17953,
+    41.379772
+],
   "geometry": {"coordinates":[2.17953,41.379772],"type":"Point"}
 }

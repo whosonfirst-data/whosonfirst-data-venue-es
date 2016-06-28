@@ -2,13 +2,14 @@
   "id": 169560611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.148651,39.765453,3.148651,39.765453",
     "geom:latitude":39.765453,
     "geom:longitude":3.148651,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carr Cervantes, 24",
     "sg:city":"Ca'n Picafort",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169560611,
-    "wof:lastmodified":1449035181,
+    "wof:lastmodified":1466245094,
     "wof:name":"20 De Marzo De 1997",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.148651,39.765453,3.148651,39.765453],
+  "bbox": [
+    3.148651,
+    39.765453,
+    3.148651,
+    39.765453
+],
   "geometry": {"coordinates":[3.148651,39.765453],"type":"Point"}
 }

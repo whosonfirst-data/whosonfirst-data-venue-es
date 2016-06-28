@@ -2,13 +2,14 @@
   "id": 169575983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.68289,40.451145,-3.68289,40.451145",
     "geom:latitude":40.451145,
     "geom:longitude":-3.68289,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Cidacos, 10",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169575983,
-    "wof:lastmodified":1449033643,
+    "wof:lastmodified":1466245124,
     "wof:name":"Aba N.v.",
     "wof:parent_id":85863651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.68289,40.451145,-3.68289,40.451145],
+  "bbox": [
+    -3.68289,
+    40.451145,
+    -3.68289,
+    40.451145
+],
   "geometry": {"coordinates":[-3.68289,40.451145],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169578989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.761242,37.393559,-4.761242,37.393559",
     "geom:latitude":37.393559,
     "geom:longitude":-4.761242,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Estacion (de La), 63",
     "sg:city":"Puente-genil",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169578989,
-    "wof:lastmodified":1449033520,
+    "wof:lastmodified":1466245133,
     "wof:name":"Abaurre Morales Federico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.761242,37.393559,-4.761242,37.393559],
+  "bbox": [
+    -4.761242,
+    37.393559,
+    -4.761242,
+    37.393559
+],
   "geometry": {"coordinates":[-4.761242,37.393559],"type":"Point"}
 }

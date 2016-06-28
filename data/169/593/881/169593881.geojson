@@ -2,13 +2,14 @@
   "id": 169593881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.712682,38.89159,-3.712682,38.89159",
     "geom:latitude":38.89159,
     "geom:longitude":-3.712682,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Rond Santo Domingo, 29",
     "sg:city":"Almagro",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169593881,
-    "wof:lastmodified":1449034876,
+    "wof:lastmodified":1466245137,
     "wof:name":"Abellan Pedrero Beatriz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.712682,38.89159,-3.712682,38.89159],
+  "bbox": [
+    -3.712682,
+    38.89159,
+    -3.712682,
+    38.89159
+],
   "geometry": {"coordinates":[-3.712682,38.89159],"type":"Point"}
 }

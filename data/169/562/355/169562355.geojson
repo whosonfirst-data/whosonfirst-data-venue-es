@@ -2,13 +2,14 @@
   "id": 169562355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.144121,41.402924,2.144121,41.402924",
     "geom:latitude":41.402924,
     "geom:longitude":2.144121,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Balmes, 323",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169562355,
-    "wof:lastmodified":1449034433,
+    "wof:lastmodified":1466245107,
     "wof:name":"3p Mobel 3 S. L.",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.144121,41.402924,2.144121,41.402924],
+  "bbox": [
+    2.144121,
+    41.402924,
+    2.144121,
+    41.402924
+],
   "geometry": {"coordinates":[2.144121,41.402924],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169579627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.642467,41.349468,-1.642467,41.349468",
     "geom:latitude":41.349468,
     "geom:longitude":-1.642467,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Rubio Vergara (de Los), 7",
     "sg:city":"Calatayud",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169579627,
-    "wof:lastmodified":1449033743,
+    "wof:lastmodified":1466245221,
     "wof:name":"Abboubi  Cherkaoui",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.642467,41.349468,-1.642467,41.349468],
+  "bbox": [
+    -1.642467,
+    41.349468,
+    -1.642467,
+    41.349468
+],
   "geometry": {"coordinates":[-1.642467,41.349468],"type":"Point"}
 }

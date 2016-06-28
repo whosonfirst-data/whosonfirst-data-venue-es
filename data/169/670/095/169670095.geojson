@@ -2,13 +2,14 @@
   "id": 169670095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-8.400079,43.376255,-8.400079,43.376255",
     "geom:latitude":43.376255,
     "geom:longitude":-8.400079,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Ramon Del Cueto, 23",
     "sg:city":"Coru\u00d1a",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169670095,
-    "wof:lastmodified":1449033184,
+    "wof:lastmodified":1466245179,
     "wof:name":"Academia Cervantes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-8.400079,43.376255,-8.400079,43.376255],
+  "bbox": [
+    -8.400079,
+    43.376255,
+    -8.400079,
+    43.376255
+],
   "geometry": {"coordinates":[-8.400079,43.376255],"type":"Point"}
 }

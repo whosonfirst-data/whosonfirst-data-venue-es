@@ -2,13 +2,14 @@
   "id": 169569085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.798834,42.338863,-1.798834,42.338863",
     "geom:latitude":42.338863,
     "geom:longitude":-1.798834,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Irurzun, 21",
     "sg:city":"Peralta",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169569085,
-    "wof:lastmodified":1449035829,
+    "wof:lastmodified":1466245206,
     "wof:name":"Abadia Ferrero Estrella",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.798834,42.338863,-1.798834,42.338863],
+  "bbox": [
+    -1.798834,
+    42.338863,
+    -1.798834,
+    42.338863
+],
   "geometry": {"coordinates":[-1.798834,42.338863],"type":"Point"}
 }

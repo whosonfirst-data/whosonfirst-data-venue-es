@@ -2,13 +2,14 @@
   "id": 169653835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.691485,42.343193,-3.691485,42.343193",
     "geom:latitude":42.343193,
     "geom:longitude":-3.691485,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Plaz Bilbao, 2",
     "sg:city":"Burgos",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169653835,
-    "wof:lastmodified":1449032916,
+    "wof:lastmodified":1466245175,
     "wof:name":"A. Bueno S. L.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.691485,42.343193,-3.691485,42.343193],
+  "bbox": [
+    -3.691485,
+    42.343193,
+    -3.691485,
+    42.343193
+],
   "geometry": {"coordinates":[-3.691485,42.343193],"type":"Point"}
 }

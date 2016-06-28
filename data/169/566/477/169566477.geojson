@@ -2,13 +2,14 @@
   "id": 169566477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.7792,39.426174,-0.7792,39.426174",
     "geom:latitude":39.426174,
     "geom:longitude":-0.7792,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctra Godelleta, Km. 0001,2",
     "sg:city":"Bu\u00f1ol",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169566477,
-    "wof:lastmodified":1449032751,
+    "wof:lastmodified":1466245197,
     "wof:name":"Abacrisa Manipulados Del Papel S. A.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.7792,39.426174,-0.7792,39.426174],
+  "bbox": [
+    -0.7792,
+    39.426174,
+    -0.7792,
+    39.426174
+],
   "geometry": {"coordinates":[-0.7792,39.426174],"type":"Point"}
 }

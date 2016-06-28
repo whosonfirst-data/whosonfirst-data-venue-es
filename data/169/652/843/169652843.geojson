@@ -2,13 +2,14 @@
   "id": 169652843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.883583,41.655621,-0.883583,41.655621",
     "geom:latitude":41.655621,
     "geom:longitude":-0.883583,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Cesar Augusto, 73",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169652843,
-    "wof:lastmodified":1449034807,
+    "wof:lastmodified":1466245176,
     "wof:name":"Abud Zafra Nora Maria",
     "wof:parent_id":85863307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.883583,41.655621,-0.883583,41.655621],
+  "bbox": [
+    -0.883583,
+    41.655621,
+    -0.883583,
+    41.655621
+],
   "geometry": {"coordinates":[-0.883583,41.655621],"type":"Point"}
 }

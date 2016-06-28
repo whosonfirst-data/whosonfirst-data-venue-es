@@ -2,13 +2,14 @@
   "id": 169582475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.380923,40.481815,-3.380923,40.481815",
     "geom:latitude":40.481815,
     "geom:longitude":-3.380923,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Suiza, 23",
     "sg:city":"Alcala Henares",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169582475,
-    "wof:lastmodified":1449034464,
+    "wof:lastmodified":1466245122,
     "wof:name":"Abdulla Abdulla Bassam",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.380923,40.481815,-3.380923,40.481815],
+  "bbox": [
+    -3.380923,
+    40.481815,
+    -3.380923,
+    40.481815
+],
   "geometry": {"coordinates":[-3.380923,40.481815],"type":"Point"}
 }

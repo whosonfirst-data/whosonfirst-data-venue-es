@@ -2,13 +2,14 @@
   "id": 169566463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.074322,41.357151,2.074322,41.357151",
     "geom:latitude":41.357151,
     "geom:longitude":2.074322,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Bellaterra, 41",
     "sg:city":"Cornella Llobregat",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169566463,
-    "wof:lastmodified":1449032753,
+    "wof:lastmodified":1466245197,
     "wof:name":"Abacus Sdad. Coop. Catalana Limitada",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.074322,41.357151,2.074322,41.357151],
+  "bbox": [
+    2.074322,
+    41.357151,
+    2.074322,
+    41.357151
+],
   "geometry": {"coordinates":[2.074322,41.357151],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169640079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.78522,39.425228,-0.78522,39.425228",
     "geom:latitude":39.425228,
     "geom:longitude":-0.78522,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Rafael Ridaura, 16",
     "sg:city":"Bu\u00f1ol",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169640079,
-    "wof:lastmodified":1449034102,
+    "wof:lastmodified":1466245163,
     "wof:name":"Abril Carrascosa Isabel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.78522,39.425228,-0.78522,39.425228],
+  "bbox": [
+    -0.78522,
+    39.425228,
+    -0.78522,
+    39.425228
+],
   "geometry": {"coordinates":[-0.78522,39.425228],"type":"Point"}
 }

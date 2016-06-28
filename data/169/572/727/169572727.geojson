@@ -2,13 +2,14 @@
   "id": 169572727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.437519,38.750488,-0.437519,38.750488",
     "geom:latitude":38.750488,
     "geom:longitude":-0.437519,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Ctra Pego, S/n",
     "sg:city":"Muro Alcoy",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169572727,
-    "wof:lastmodified":1449034704,
+    "wof:lastmodified":1466245212,
     "wof:name":"Abad Vila S.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.437519,38.750488,-0.437519,38.750488],
+  "bbox": [
+    -0.437519,
+    38.750488,
+    -0.437519,
+    38.750488
+],
   "geometry": {"coordinates":[-0.437519,38.750488],"type":"Point"}
 }

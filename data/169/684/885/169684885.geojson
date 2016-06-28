@@ -2,13 +2,14 @@
   "id": 169684885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.676782,38.261646,-5.676782,38.261646",
     "geom:latitude":38.261646,
     "geom:longitude":-5.676782,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Carolina Coronado, 6",
     "sg:city":"Azuaga",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169684885,
-    "wof:lastmodified":1449033509,
+    "wof:lastmodified":1466245227,
     "wof:name":"Agromaquinaria Moruno Sl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.676782,38.261646,-5.676782,38.261646],
+  "bbox": [
+    -5.676782,
+    38.261646,
+    -5.676782,
+    38.261646
+],
   "geometry": {"coordinates":[-5.676782,38.261646],"type":"Point"}
 }

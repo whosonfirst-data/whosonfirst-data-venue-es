@@ -2,13 +2,14 @@
   "id": 169585139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-8.055388,43.334549,-8.055388,43.334549",
     "geom:latitude":43.334549,
     "geom:longitude":-8.055388,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Lamelas-vilacha, 5",
     "sg:city":"Monfero-rebordelo",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169585139,
-    "wof:lastmodified":1449034884,
+    "wof:lastmodified":1466245126,
     "wof:name":"Abeledo Paz Emilia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-8.055388,43.334549,-8.055388,43.334549],
+  "bbox": [
+    -8.055388,
+    43.334549,
+    -8.055388,
+    43.334549
+],
   "geometry": {"coordinates":[-8.055388,43.334549],"type":"Point"}
 }

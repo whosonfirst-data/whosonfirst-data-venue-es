@@ -2,13 +2,14 @@
   "id": 169570625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.960464,37.39452,-5.960464,37.39452",
     "geom:latitude":37.39452,
     "geom:longitude":-5.960464,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Jerusalen, 35",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169570625,
-    "wof:lastmodified":1449034647,
+    "wof:lastmodified":1466245103,
     "wof:name":"Abad Martin De Eugenio Maria Del Pilar",
     "wof:parent_id":85864157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.960464,37.39452,-5.960464,37.39452],
+  "bbox": [
+    -5.960464,
+    37.39452,
+    -5.960464,
+    37.39452
+],
   "geometry": {"coordinates":[-5.960464,37.39452],"type":"Point"}
 }

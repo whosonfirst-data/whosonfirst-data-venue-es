@@ -2,13 +2,14 @@
   "id": 169569361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.689251,42.275501,-0.689251,42.275501",
     "geom:latitude":42.275501,
     "geom:longitude":-0.689251,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Plaz Ramon Y Cajal, 11",
     "sg:city":"Ayerbe",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169569361,
-    "wof:lastmodified":1449035831,
+    "wof:lastmodified":1466245206,
     "wof:name":"Abadiano Rebollo Javier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.689251,42.275501,-0.689251,42.275501],
+  "bbox": [
+    -0.689251,
+    42.275501,
+    -0.689251,
+    42.275501
+],
   "geometry": {"coordinates":[-0.689251,42.275501],"type":"Point"}
 }

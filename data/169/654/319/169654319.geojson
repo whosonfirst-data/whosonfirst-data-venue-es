@@ -2,13 +2,14 @@
   "id": 169654319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.703208,43.246849,-1.703208,43.246849",
     "geom:latitude":43.246849,
     "geom:longitude":-1.703208,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Beheko Plaza, 8",
     "sg:city":"Lesaka",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169654319,
-    "wof:lastmodified":1449033791,
+    "wof:lastmodified":1466245172,
     "wof:name":"Abuin Arrasate De\u00f1e",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.703208,43.246849,-1.703208,43.246849],
+  "bbox": [
+    -1.703208,
+    43.246849,
+    -1.703208,
+    43.246849
+],
   "geometry": {"coordinates":[-1.703208,43.246849],"type":"Point"}
 }

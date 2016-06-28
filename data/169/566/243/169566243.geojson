@@ -2,13 +2,14 @@
   "id": 169566243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.228586,41.454765,2.228586,41.454765",
     "geom:latitude":41.454765,
     "geom:longitude":2.228586,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carr M Moreno Maurici, 35",
     "sg:city":"Badalona",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169566243,
-    "wof:lastmodified":1449032753,
+    "wof:lastmodified":1466245196,
     "wof:name":"Abaco S.cv.",
     "wof:parent_id":85799179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.228586,41.454765,2.228586,41.454765],
+  "bbox": [
+    2.228586,
+    41.454765,
+    2.228586,
+    41.454765
+],
   "geometry": {"coordinates":[2.228586,41.454765],"type":"Point"}
 }

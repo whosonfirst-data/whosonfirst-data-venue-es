@@ -2,13 +2,14 @@
   "id": 169635575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.791972,43.340504,-1.791972,43.340504",
     "geom:latitude":43.340504,
     "geom:longitude":-1.791972,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Republica Argentina, 8",
     "sg:city":"Irun",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169635575,
-    "wof:lastmodified":1449034099,
+    "wof:lastmodified":1466245161,
     "wof:name":"Abrego Perez Jesus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.791972,43.340504,-1.791972,43.340504],
+  "bbox": [
+    -1.791972,
+    43.340504,
+    -1.791972,
+    43.340504
+],
   "geometry": {"coordinates":[-1.791972,43.340504],"type":"Point"}
 }

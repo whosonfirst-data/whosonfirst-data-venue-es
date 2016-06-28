@@ -2,13 +2,14 @@
   "id": 169687091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.970284,38.878597,-6.970284,38.878597",
     "geom:latitude":38.878597,
     "geom:longitude":-6.970284,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Crta. Jerez De Los Caballeros, Km. 0089,5",
     "sg:city":"Fregenal Sierra",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169687091,
-    "wof:lastmodified":1449033607,
+    "wof:lastmodified":1466245227,
     "wof:name":"Agropecuaria Dehesa De Pajares S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.970284,38.878597,-6.970284,38.878597],
+  "bbox": [
+    -6.970284,
+    38.878597,
+    -6.970284,
+    38.878597
+],
   "geometry": {"coordinates":[-6.970284,38.878597],"type":"Point"}
 }

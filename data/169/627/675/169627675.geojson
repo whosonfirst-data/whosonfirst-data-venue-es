@@ -2,13 +2,14 @@
   "id": 169627675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-15.433453,28.166534,-15.433453,28.166534",
     "geom:latitude":28.166534,
     "geom:longitude":-15.433453,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Miguel Hernandez Febles, 49",
     "sg:city":"Palmas De Gran Canaria",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169627675,
-    "wof:lastmodified":1449036042,
+    "wof:lastmodified":1466245158,
     "wof:name":"Abou-medlej Padron Carmelo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-15.433453,28.166534,-15.433453,28.166534],
+  "bbox": [
+    -15.433453,
+    28.166534,
+    -15.433453,
+    28.166534
+],
   "geometry": {"coordinates":[-15.433453,28.166534],"type":"Point"}
 }

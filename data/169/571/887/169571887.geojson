@@ -2,13 +2,14 @@
   "id": 169571887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.782703,43.395947,-5.782703,43.395947",
     "geom:latitude":43.395947,
     "geom:longitude":-5.782703,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Naon, 36",
     "sg:city":"Viella",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169571887,
-    "wof:lastmodified":1449034948,
+    "wof:lastmodified":1466245110,
     "wof:name":"Abad Rodriguez Rodrigo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.782703,43.395947,-5.782703,43.395947],
+  "bbox": [
+    -5.782703,
+    43.395947,
+    -5.782703,
+    43.395947
+],
   "geometry": {"coordinates":[-5.782703,43.395947],"type":"Point"}
 }

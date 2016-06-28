@@ -2,13 +2,14 @@
   "id": 169581919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.423996,36.719501,-4.423996,36.719501",
     "geom:latitude":36.719501,
     "geom:longitude":-4.423996,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Plaz Felix Saenz, 2",
     "sg:city":"Malaga",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169581919,
-    "wof:lastmodified":1449033381,
+    "wof:lastmodified":1466245126,
     "wof:name":"Abdoul Razak Tajaldin",
     "wof:parent_id":85863491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.423996,36.719501,-4.423996,36.719501],
+  "bbox": [
+    -4.423996,
+    36.719501,
+    -4.423996,
+    36.719501
+],
   "geometry": {"coordinates":[-4.423996,36.719501],"type":"Point"}
 }

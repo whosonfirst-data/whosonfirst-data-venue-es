@@ -2,13 +2,14 @@
   "id": 169567683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.642413,39.576538,2.642413,39.576538",
     "geom:latitude":39.576538,
     "geom:longitude":2.642413,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Rafael Rodriguez M, 5",
     "sg:city":"Palma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169567683,
-    "wof:lastmodified":1449035995,
+    "wof:lastmodified":1466245202,
     "wof:name":"Abad Diaz Julia",
     "wof:parent_id":85864097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.642413,39.576538,2.642413,39.576538],
+  "bbox": [
+    2.642413,
+    39.576538,
+    2.642413,
+    39.576538
+],
   "geometry": {"coordinates":[2.642413,39.576538],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169650949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-15.438874,28.121981,-15.438874,28.121981",
     "geom:latitude":28.121981,
     "geom:longitude":-15.438874,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Concejal Garcia Feo, 30",
     "sg:city":"Palmas De Gran Canaria",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169650949,
-    "wof:lastmodified":1449034701,
+    "wof:lastmodified":1466245175,
     "wof:name":"Absolute Marketing And Events",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-15.438874,28.121981,-15.438874,28.121981],
+  "bbox": [
+    -15.438874,
+    28.121981,
+    -15.438874,
+    28.121981
+],
   "geometry": {"coordinates":[-15.438874,28.121981],"type":"Point"}
 }

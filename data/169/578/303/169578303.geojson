@@ -2,13 +2,14 @@
   "id": 169578303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.801909,41.976643,2.801909,41.976643",
     "geom:latitude":41.976643,
     "geom:longitude":2.801909,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carr Santa Eugenia, 220",
     "sg:city":"Girona",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169578303,
-    "wof:lastmodified":1449033518,
+    "wof:lastmodified":1466245117,
     "wof:name":"Abastecedora Catalana S. A.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.801909,41.976643,2.801909,41.976643],
+  "bbox": [
+    2.801909,
+    41.976643,
+    2.801909,
+    41.976643
+],
   "geometry": {"coordinates":[2.801909,41.976643],"type":"Point"}
 }

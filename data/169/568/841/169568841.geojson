@@ -2,13 +2,14 @@
   "id": 169568841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.983526,43.326687,-2.983526,43.326687",
     "geom:latitude":43.326687,
     "geom:longitude":-2.983526,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Ikea, 49",
     "sg:city":"Leioa",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169568841,
-    "wof:lastmodified":1449032610,
+    "wof:lastmodified":1466245205,
     "wof:name":"Abadia Arana Francisco Javier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.983526,43.326687,-2.983526,43.326687],
+  "bbox": [
+    -2.983526,
+    43.326687,
+    -2.983526,
+    43.326687
+],
   "geometry": {"coordinates":[-2.983526,43.326687],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169560991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.8237,41.981796,2.8237,41.981796",
     "geom:latitude":41.981796,
     "geom:longitude":2.8237,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Afores, S/n",
     "sg:city":"Sta. Coloma Farners",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169560991,
-    "wof:lastmodified":1449035180,
+    "wof:lastmodified":1466245095,
     "wof:name":"29 Ecologica S.l. Unipersonal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.8237,41.981796,2.8237,41.981796],
+  "bbox": [
+    2.8237,
+    41.981796,
+    2.8237,
+    41.981796
+],
   "geometry": {"coordinates":[2.8237,41.981796],"type":"Point"}
 }

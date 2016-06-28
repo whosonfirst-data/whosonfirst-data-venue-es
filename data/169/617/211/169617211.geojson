@@ -2,13 +2,14 @@
   "id": 169617211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.632344,43.16853,-2.632344,43.16853",
     "geom:latitude":43.16853,
     "geom:longitude":-2.632344,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Calle de Zumalakarregi Kalea, 6",
     "sg:city":"Durango",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169617211,
-    "wof:lastmodified":1449032800,
+    "wof:lastmodified":1466245149,
     "wof:name":"Abnitec Export Consortium S.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.632344,43.16853,-2.632344,43.16853],
+  "bbox": [
+    -2.632344,
+    43.16853,
+    -2.632344,
+    43.16853
+],
   "geometry": {"coordinates":[-2.632344,43.16853],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169563127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.914135,41.657372,-0.914135,41.657372",
     "geom:latitude":41.657372,
     "geom:longitude":-0.914135,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Avda Navarra, 180",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169563127,
-    "wof:lastmodified":1449032734,
+    "wof:lastmodified":1466245113,
     "wof:name":"5asec S.a.",
     "wof:parent_id":85863319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.914135,41.657372,-0.914135,41.657372],
+  "bbox": [
+    -0.914135,
+    41.657372,
+    -0.914135,
+    41.657372
+],
   "geometry": {"coordinates":[-0.914135,41.657372],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169628811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.641275,39.57457,2.641275,39.57457",
     "geom:latitude":39.57457,
     "geom:longitude":2.641275,
     "iso:country":"ES",
+    "mz:hierarchy_label":1,
     "sg:address":"Carrer de Ruiz De Alda, 2",
     "sg:city":"Palma",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169628811,
-    "wof:lastmodified":1449035334,
+    "wof:lastmodified":1466245162,
     "wof:name":"Abraham Oliver Miguel Angel",
     "wof:parent_id":85864117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.641275,39.57457,2.641275,39.57457],
+  "bbox": [
+    2.641275,
+    39.57457,
+    2.641275,
+    39.57457
+],
   "geometry": {"coordinates":[2.641275,39.57457],"type":"Point"}
 }
