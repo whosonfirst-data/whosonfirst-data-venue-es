@@ -1,0 +1,65 @@
+{
+  "id": 990910119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8182777762,37.7742118835,-0.8182777762,37.7742118835",
+    "geom:latitude":37.774212,
+    "geom:longitude":-0.818278,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Aeropuerto De San Javier, S/n",
+    "sg:city":"San Javier",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aeropuertos Y Servicios Aeroportuarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 968 19 50 27",
+    "sg:postcode":"30730",
+    "sg:province":"Murcia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102545761,
+        85682791,
+        102191581,
+        404339397,
+        85633129,
+        404227389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZN2ChtMKMlFOwD8UchnTs_37.774212_-0.818278@1306269415"
+    },
+    "wof:country":"ES",
+    "wof:created":1472509577,
+    "wof:geomhash":"245e38e390cef2ee88023f67bfec6d02",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545761,
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339397,
+            "macroregion_id":404227389,
+            "region_id":85682791,
+            "venue_id":990910119
+        }
+    ],
+    "wof:id":990910119,
+    "wof:lastmodified":1472509577,
+    "wof:name":"Air Berlin Delegacion Espa\u00f1a",
+    "wof:parent_id":102545761,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8182777762,
+    37.7742118835,
+    -0.8182777762,
+    37.7742118835
+],
+  "geometry": {"coordinates":[-0.8182777762,37.7742118835],"type":"Point"}
+}

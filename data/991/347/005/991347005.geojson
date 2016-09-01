@@ -1,0 +1,59 @@
+{
+  "id": 991347005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.8826534748,43.2304496765,-2.8826534748,43.2304496765",
+    "geom:latitude":43.23045,
+    "geom:longitude":-2.882653,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Doktor Jose Garai, 5",
+    "sg:city":"Arizgoiti",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cl\u00cdnicas M\u00c9dicas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 26 23 97",
+    "sg:postcode":"48970",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799203,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pn3ugJ0V6GgQYwIWbt9EC_43.230450_-2.882653@1306269473"
+    },
+    "wof:country":"ES",
+    "wof:created":1472544942,
+    "wof:geomhash":"aa0300707892f9ec28909c717f553ba8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799203,
+            "region_id":85682879,
+            "venue_id":991347005
+        }
+    ],
+    "wof:id":991347005,
+    "wof:lastmodified":1472544942,
+    "wof:name":"Clinica Columbia S.a.",
+    "wof:parent_id":85799203,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.8826534748,
+    43.2304496765,
+    -2.8826534748,
+    43.2304496765
+],
+  "geometry": {"coordinates":[-2.8826534748,43.2304496765],"type":"Point"}
+}

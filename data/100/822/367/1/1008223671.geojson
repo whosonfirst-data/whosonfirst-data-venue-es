@@ -1,0 +1,65 @@
+{
+  "id": 1008223671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.349296093,36.1618461609,-5.349296093,36.1618461609",
+    "geom:latitude":36.161846,
+    "geom:longitude":-5.349296,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Pablo, 14",
+    "sg:city":"Linea De La Concepcion",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 956 76 64 45",
+    "sg:postcode":"11300",
+    "sg:province":"C\u00e1diz",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "85633167",
+        85794121,
+        "102191581",
+        "85633159",
+        101753853,
+        85684619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62dmcDHZnBhvmQfnQOzXJx_36.161846_-5.349296@1306269625"
+    },
+    "wof:country":"ES",
+    "wof:created":1472613706,
+    "wof:geomhash":"4d874224dc62fe161e740f2a46d6bb01",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "dependency_id":"85633167",
+            "locality_id":101753853,
+            "neighbourhood_id":85794121,
+            "region_id":85684619,
+            "venue_id":1008223671
+        }
+    ],
+    "wof:id":1008223671,
+    "wof:lastmodified":1472613706,
+    "wof:name":"Perez Tenorio Jorge",
+    "wof:parent_id":85794121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.349296093,
+    36.1618461609,
+    -5.349296093,
+    36.1618461609
+],
+  "geometry": {"coordinates":[-5.349296093,36.1618461609],"type":"Point"}
+}

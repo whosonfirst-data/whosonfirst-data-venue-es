@@ -1,0 +1,60 @@
+{
+  "id": 1008670085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6175270081,40.545955658,-3.6175270081,40.545955658",
+    "geom:latitude":40.545956,
+    "geom:longitude":-3.617527,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Matapi\u00d1onera, S/n",
+    "sg:city":"San Sebastian De Los Reyes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asociaciones Y Clubs Deportivos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 51 86 54",
+    "sg:postcode":"28700",
+    "sg:province":"Madrid",
+    "sg:website":"www.udesanse.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863585,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12WIIttRR5Edl8xywBYOLG_40.545956_-3.617527@1306269685"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637207,
+    "wof:geomhash":"247c60952c1da67a8ed8cbe29afecb7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863585,
+            "region_id":85682783,
+            "venue_id":1008670085
+        }
+    ],
+    "wof:id":1008670085,
+    "wof:lastmodified":1472637207,
+    "wof:name":"Union Deportiva San Sebastian De Los Reyes",
+    "wof:parent_id":85863585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6175270081,
+    40.545955658,
+    -3.6175270081,
+    40.545955658
+],
+  "geometry": {"coordinates":[-3.6175270081,40.545955658],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 991535413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8772640228,41.6729812622,-0.8772640228,41.6729812622",
+    "geom:latitude":41.672981,
+    "geom:longitude":-0.877264,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pablo Ruiz Picasso, 10",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 52 42 22",
+    "sg:postcode":"50015",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "organismos",
+        "control"
+    ],
+    "sg:website":"www.eca.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863297,
+        85682891,
+        85863293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bQILcAGHTNvMs2xwrfbOw_41.672981_-0.877264@1306269498"
+    },
+    "wof:country":"ES",
+    "wof:created":1472556271,
+    "wof:geomhash":"8db985660bbd2a22e079e7bea6e11aa3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863297,
+            "region_id":85682891,
+            "venue_id":991535413
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863293,
+            "region_id":85682891,
+            "venue_id":991535413
+        }
+    ],
+    "wof:id":991535413,
+    "wof:lastmodified":1472556271,
+    "wof:name":"Eca,entidad Colaboradora De La Administracion S.a.u.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organismos",
+        "control"
+    ]
+},
+  "bbox": [
+    -0.8772640228,
+    41.6729812622,
+    -0.8772640228,
+    41.6729812622
+],
+  "geometry": {"coordinates":[-0.8772640228,41.6729812622],"type":"Point"}
+}

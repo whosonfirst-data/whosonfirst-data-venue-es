@@ -1,0 +1,64 @@
+{
+  "id": 1008571309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.8230149746,41.7252006531,1.8230149746,41.7252006531",
+    "geom:latitude":41.725201,
+    "geom:longitude":1.823015,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Jaume I, 13",
+    "sg:city":"Manresa",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 938 72 79 50",
+    "sg:postcode":"08241",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cpIQi13KQRm7bqtEGgxdn_41.725201_1.823015@1306269671"
+    },
+    "wof:country":"ES",
+    "wof:created":1472633021,
+    "wof:geomhash":"7090f63c993866685a00756885999ddc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008571309
+        }
+    ],
+    "wof:id":1008571309,
+    "wof:lastmodified":1472633021,
+    "wof:name":"Summun Sccl",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.8230149746,
+    41.7252006531,
+    1.8230149746,
+    41.7252006531
+],
+  "geometry": {"coordinates":[1.8230149746,41.7252006531],"type":"Point"}
+}

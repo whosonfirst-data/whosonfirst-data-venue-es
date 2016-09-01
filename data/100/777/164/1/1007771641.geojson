@@ -1,0 +1,81 @@
+{
+  "id": 1007771641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6446049213,39.5709533691,2.6446049213,39.5709533691",
+    "geom:latitude":39.570953,
+    "geom:longitude":2.644605,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sant Feliu, 18",
+    "sg:city":"Palma",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 49 53 27",
+    "sg:postcode":"07012",
+    "sg:province":"Islas Baleares",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864117,
+        102191581,
+        404330817,
+        85633129,
+        404227367,
+        101748237,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1apii3j4JfPSbrmpP1M4By_39.570953_2.644605@1306269566"
+    },
+    "wof:country":"ES",
+    "wof:created":1472584839,
+    "wof:geomhash":"12898d071d7a3fa9f76fa6d3a7aac768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864117,
+            "region_id":85682647,
+            "venue_id":1007771641
+        }
+    ],
+    "wof:id":1007771641,
+    "wof:lastmodified":1472584839,
+    "wof:name":"Kunstmann  Waltraud",
+    "wof:parent_id":85864117,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    2.6446049213,
+    39.5709533691,
+    2.6446049213,
+    39.5709533691
+],
+  "geometry": {"coordinates":[2.6446049213,39.5709533691],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1008213333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.095099926,41.3231086731,2.095099926,41.3231086731",
+    "geom:latitude":41.323109,
+    "geom:longitude":2.0951,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Catalunya, 22",
+    "sg:city":"Prat Llobregat",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 79 99 53",
+    "sg:postcode":"08820",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799585,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QDcVQHb3eDSdir3EUgzen_41.323109_2.095100@1306269624"
+    },
+    "wof:country":"ES",
+    "wof:created":1472612578,
+    "wof:geomhash":"2cb10360ca38ffb1481b14a3d8b88b9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799585,
+            "region_id":85682663,
+            "venue_id":1008213333
+        }
+    ],
+    "wof:id":1008213333,
+    "wof:lastmodified":1472612578,
+    "wof:name":"Perez Garcia Mari Carmen",
+    "wof:parent_id":85799585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.095099926,
+    41.3231086731,
+    2.095099926,
+    41.3231086731
+],
+  "geometry": {"coordinates":[2.095099926,41.3231086731],"type":"Point"}
+}

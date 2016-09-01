@@ -1,0 +1,63 @@
+{
+  "id": 1008250117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.5971519947,39.5513267517,2.5971519947,39.5513267517",
+    "geom:latitude":39.551327,
+    "geom:longitude":2.597152,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Cabo Mateu Coch, 6",
+    "sg:city":"Sant Agusti",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ingeniero",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 40 11 85",
+    "sg:postcode":"07015",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748237,
+        85864109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QhswG4SX5vYWtARu5re1o_39.551327_2.597152@1306269629"
+    },
+    "wof:country":"ES",
+    "wof:created":1472615986,
+    "wof:geomhash":"311b8c360668515aefe190df43ae4beb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748237,
+            "neighbourhood_id":85864109,
+            "region_id":-1,
+            "venue_id":1008250117
+        }
+    ],
+    "wof:id":1008250117,
+    "wof:lastmodified":1472615986,
+    "wof:name":"Planas De Teresa Miguel",
+    "wof:parent_id":85864109,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.5971519947,
+    39.5513267517,
+    2.5971519947,
+    39.5513267517
+],
+  "geometry": {"coordinates":[2.5971519947,39.5513267517],"type":"Point"}
+}

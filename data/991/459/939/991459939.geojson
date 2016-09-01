@@ -1,0 +1,79 @@
+{
+  "id": 991459939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6839249134,40.429725647,-3.6839249134,40.429725647",
+    "geom:latitude":40.429726,
+    "geom:longitude":-3.683925,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Velazquez, 63",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 24 71 00",
+    "sg:postcode":"28...",
+    "sg:province":"Madrid",
+    "sg:website":"www.cuatrecasas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863673,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VLCbaBomlbNNjpuWVGi7Q_40.429726_-3.683925@1306269488"
+    },
+    "wof:country":"ES",
+    "wof:created":1472552245,
+    "wof:geomhash":"12402d62a6ef2ed2b7d7ebc4aa4754ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863673,
+            "region_id":85682783,
+            "venue_id":991459939
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863675,
+            "region_id":85682783,
+            "venue_id":991459939
+        }
+    ],
+    "wof:id":991459939,
+    "wof:lastmodified":1472552245,
+    "wof:name":"Cuatrecasas Abogados Srl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6839249134,
+    40.429725647,
+    -3.6839249134,
+    40.429725647
+],
+  "geometry": {"coordinates":[-3.6839249134,40.429725647],"type":"Point"}
+}

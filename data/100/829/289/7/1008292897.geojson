@@ -1,0 +1,59 @@
+{
+  "id": 1008292897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6063289642,37.1649093628,-3.6063289642,37.1649093628",
+    "geom:latitude":37.164909,
+    "geom:longitude":-3.606329,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Profesor Agustin Escribano, S/n",
+    "sg:city":"Granada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Puertas Autom\u00c1ticas, Puertas De Garaje",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 25 46 87",
+    "sg:postcode":"18004",
+    "sg:province":"Granada",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863847,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gPRF0DBhBopsDXrhY60HT_37.164909_-3.606329@1306269634"
+    },
+    "wof:country":"ES",
+    "wof:created":1472618432,
+    "wof:geomhash":"1c12d4131321dc7c70133ba2dcf53cc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863847,
+            "region_id":85682731,
+            "venue_id":1008292897
+        }
+    ],
+    "wof:id":1008292897,
+    "wof:lastmodified":1472618432,
+    "wof:name":"Puertas Automaticas Electro-fer",
+    "wof:parent_id":85863847,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6063289642,
+    37.1649093628,
+    -3.6063289642,
+    37.1649093628
+],
+  "geometry": {"coordinates":[-3.6063289642,37.1649093628],"type":"Point"}
+}

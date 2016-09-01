@@ -1,0 +1,59 @@
+{
+  "id": 1008573533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8174059391,40.3458709717,-3.8174059391,40.3458709717",
+    "geom:latitude":40.345871,
+    "geom:longitude":-3.817406,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Sapporo, 8",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 10 88 87",
+    "sg:postcode":"28923",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_039nQ7hWirD8G0KSk2Qjpw_40.345871_-3.817406@1306269672"
+    },
+    "wof:country":"ES",
+    "wof:created":1472633130,
+    "wof:geomhash":"bc861f29b5e8ddc0b53c71d994f1f353",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008573533
+        }
+    ],
+    "wof:id":1008573533,
+    "wof:lastmodified":1472633130,
+    "wof:name":"Supermercados De Alimentacion De Madrid",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8174059391,
+    40.3458709717,
+    -3.8174059391,
+    40.3458709717
+],
+  "geometry": {"coordinates":[-3.8174059391,40.3458709717],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1008391117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6852419376,40.4250030518,-3.6852419376,40.4250030518",
+    "geom:latitude":40.425003,
+    "geom:longitude":-3.685242,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Lagasca, 42",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Tea Room",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 75 57 41",
+    "sg:postcode":"28001",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "snack"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863809,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33lmy4FbdjFCiQCQo3UbMq_40.425003_-3.685242@1306269647"
+    },
+    "wof:country":"ES",
+    "wof:created":1472625369,
+    "wof:geomhash":"4e07dc8c2caf433bdac3f4e32554e57d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863809,
+            "region_id":85682783,
+            "venue_id":1008391117
+        }
+    ],
+    "wof:id":1008391117,
+    "wof:lastmodified":1472625369,
+    "wof:name":"Rodriguez Valle Vicenta",
+    "wof:parent_id":85863809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snack"
+    ]
+},
+  "bbox": [
+    -3.6852419376,
+    40.4250030518,
+    -3.6852419376,
+    40.4250030518
+],
+  "geometry": {"coordinates":[-3.6852419376,40.4250030518],"type":"Point"}
+}

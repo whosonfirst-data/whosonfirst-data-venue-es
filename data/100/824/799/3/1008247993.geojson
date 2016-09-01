@@ -1,0 +1,67 @@
+{
+  "id": 1008247993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1378839016,41.4057502747,2.1378839016,41.4057502747",
+    "geom:latitude":41.40575,
+    "geom:longitude":2.137884,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Teodora Lamadrid, 3",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pizzer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 18 94 27",
+    "sg:postcode":"08022",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863989,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GBuvPMFbQ8F39sxRNGm9y_41.405750_2.137884@1306269628"
+    },
+    "wof:country":"ES",
+    "wof:created":1472615855,
+    "wof:geomhash":"13108337f57f6f448658223bf503c783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863989,
+            "region_id":85682663,
+            "venue_id":1008247993
+        }
+    ],
+    "wof:id":1008247993,
+    "wof:lastmodified":1472615855,
+    "wof:name":"Pizzeria Verona",
+    "wof:parent_id":85863989,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1378839016,
+    41.4057502747,
+    2.1378839016,
+    41.4057502747
+],
+  "geometry": {"coordinates":[2.1378839016,41.4057502747],"type":"Point"}
+}

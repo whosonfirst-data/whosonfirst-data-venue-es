@@ -1,0 +1,78 @@
+{
+  "id": 1008702349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.7764139175,37.8856391907,-4.7764139175,37.8856391907",
+    "geom:latitude":37.885639,
+    "geom:longitude":-4.776414,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Alfaros, 3",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electricidad: Instaladores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 47 47 03",
+    "sg:postcode":"14001",
+    "sg:province":"C\u00f3rdoba",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863895,
+        102191581,
+        404333687,
+        85633129,
+        404227361,
+        101748233,
+        85682697,
+        85863901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7S5PWn1reH3Xpf1TQuj1BF_37.885639_-4.776414@1306269689"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638631,
+    "wof:geomhash":"9767db22370ce36586335184fce80992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863895,
+            "region_id":85682697,
+            "venue_id":1008702349
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863901,
+            "region_id":85682697,
+            "venue_id":1008702349
+        }
+    ],
+    "wof:id":1008702349,
+    "wof:lastmodified":1472638631,
+    "wof:name":"Velasco Garcia Rafael",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7764139175,
+    37.8856391907,
+    -4.7764139175,
+    37.8856391907
+],
+  "geometry": {"coordinates":[-4.7764139175,37.8856391907],"type":"Point"}
+}

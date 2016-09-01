@@ -1,0 +1,61 @@
+{
+  "id": 991371027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5768721104,40.4742279053,-3.5768721104,40.4742279053",
+    "geom:latitude":40.474228,
+    "geom:longitude":-3.576872,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Jubilado, 7",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Internados & Ense\u00d1anza Privada",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 05 56 05",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        102545773,
+        85863587,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CIgrHwLuWr76vv4cYedDR_40.474228_-3.576872@1306269477"
+    },
+    "wof:country":"ES",
+    "wof:created":1472546743,
+    "wof:geomhash":"50213de4347c50c02bb9bafd19bf592a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545773,
+            "country_id":85633129,
+            "neighbourhood_id":85863587,
+            "region_id":85682783,
+            "venue_id":991371027
+        }
+    ],
+    "wof:id":991371027,
+    "wof:lastmodified":1472546743,
+    "wof:name":"Colegio San Pedro Apostol",
+    "wof:parent_id":102545773,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5768721104,
+    40.4742279053,
+    -3.5768721104,
+    40.4742279053
+],
+  "geometry": {"coordinates":[-3.5768721104,40.4742279053],"type":"Point"}
+}

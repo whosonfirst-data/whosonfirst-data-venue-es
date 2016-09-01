@@ -1,0 +1,72 @@
+{
+  "id": 991874375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.899463892,43.4392051697,-3.899463892,43.4392051697",
+    "geom:latitude":43.439205,
+    "geom:longitude":-3.899464,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Fernando, S/n",
+    "sg:city":"Santa Cruz De Bezana",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 58 22 70",
+    "sg:postcode":"39100",
+    "sg:province":"Cantabria",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799521,
+        102191581,
+        404342209,
+        85633129,
+        404227371,
+        101748391,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12pnwQULU6bkrQNYGRfyXg_43.439205_-3.899464@1306269544"
+    },
+    "wof:country":"ES",
+    "wof:created":1472576146,
+    "wof:geomhash":"fd9971baf7824d2d85a4e0376c97ec8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342209,
+            "locality_id":101748391,
+            "macroregion_id":404227371,
+            "neighbourhood_id":85799521,
+            "region_id":85682833,
+            "venue_id":991874375
+        }
+    ],
+    "wof:id":991874375,
+    "wof:lastmodified":1472576146,
+    "wof:name":"Gutierrez Toca Jose Manuel",
+    "wof:parent_id":85799521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.899463892,
+    43.4392051697,
+    -3.899463892,
+    43.4392051697
+],
+  "geometry": {"coordinates":[-3.899463892,43.4392051697],"type":"Point"}
+}

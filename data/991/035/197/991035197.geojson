@@ -1,0 +1,70 @@
+{
+  "id": 991035197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.6121706963,42.6011695862,-5.6121706963,42.6011695862",
+    "geom:latitude":42.60117,
+    "geom:longitude":-5.612171,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"La Rosa, 1",
+    "sg:city":"Trobajo Camino",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 987 80 10 10",
+    "sg:postcode":"24010",
+    "sg:province":"Le\u00f3n",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102545723,
+        85682765,
+        102191581,
+        404337427,
+        85633129,
+        404227373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_309BY2LkWfuhLeSrT7W01f_42.601170_-5.612171@1306269432"
+    },
+    "wof:country":"ES",
+    "wof:created":1472521822,
+    "wof:geomhash":"ee62ece7db76529237999cb9a2e77cda",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545723,
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404337427,
+            "macroregion_id":404227373,
+            "region_id":85682765,
+            "venue_id":991035197
+        }
+    ],
+    "wof:id":991035197,
+    "wof:lastmodified":1472521822,
+    "wof:name":"Asociacion De Radio Taxis De San Andres Del Rabanedo",
+    "wof:parent_id":102545723,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.6121706963,
+    42.6011695862,
+    -5.6121706963,
+    42.6011695862
+],
+  "geometry": {"coordinates":[-5.6121706963,42.6011695862],"type":"Point"}
+}

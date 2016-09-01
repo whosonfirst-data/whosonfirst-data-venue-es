@@ -1,0 +1,78 @@
+{
+  "id": 1008045871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1554019451,41.3749008179,2.1554019451,41.3749008179",
+    "geom:latitude":41.374901,
+    "geom:longitude":2.155402,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Paral.lel, 173",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electricidad: Instaladores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 23 51 83",
+    "sg:postcode":"08004",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864037,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hZuFbBBPnI3JITM897MLF_41.374901_2.155402@1306269600"
+    },
+    "wof:country":"ES",
+    "wof:created":1472597161,
+    "wof:geomhash":"041729372306f271cf168a609352d9de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864037,
+            "region_id":85682663,
+            "venue_id":1008045871
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864027,
+            "region_id":85682663,
+            "venue_id":1008045871
+        }
+    ],
+    "wof:id":1008045871,
+    "wof:lastmodified":1472597161,
+    "wof:name":"Moreno Mozo Jesus",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1554019451,
+    41.3749008179,
+    2.1554019451,
+    41.3749008179
+],
+  "geometry": {"coordinates":[2.1554019451,41.3749008179],"type":"Point"}
+}

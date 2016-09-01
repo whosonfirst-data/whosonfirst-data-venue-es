@@ -1,0 +1,59 @@
+{
+  "id": 1008091999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.4669210911,40.4460334778,-3.4669210911,40.4460334778",
+    "geom:latitude":40.446033,
+    "geom:longitude":-3.466921,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Titanio, 1",
+    "sg:city":"Torrejon Ardoz",
+    "sg:classifiers":[],
+    "sg:orig_category":"Venta, Montaje De Neum\u00c1ticos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 56 29 06",
+    "sg:postcode":"28850",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863709,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RrHzwcfwBTUe918Sz3vfx_40.446033_-3.466921@1306269607"
+    },
+    "wof:country":"ES",
+    "wof:created":1472599172,
+    "wof:geomhash":"172c454d119bfac43b09bbe1b079a9cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863709,
+            "region_id":85682783,
+            "venue_id":1008091999
+        }
+    ],
+    "wof:id":1008091999,
+    "wof:lastmodified":1472599172,
+    "wof:name":"Neumaticos Palomar S.l.",
+    "wof:parent_id":85863709,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.4669210911,
+    40.4460334778,
+    -3.4669210911,
+    40.4460334778
+],
+  "geometry": {"coordinates":[-3.4669210911,40.4460334778],"type":"Point"}
+}

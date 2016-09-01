@@ -1,0 +1,74 @@
+{
+  "id": 1008247449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6488449574,39.5719680786,2.6488449574,39.5719680786",
+    "geom:latitude":39.571968,
+    "geom:longitude":2.648845,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Caputxines, 4",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Quincaller\u00cda (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 21 41 83",
+    "sg:postcode":"07003",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864085,
+        85682647,
+        85864097,
+        102191581,
+        404330817,
+        404227367,
+        101748237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ow16faU3qQYT3npeqqEh1_39.571968_2.648845@1306269628"
+    },
+    "wof:country":"ES",
+    "wof:created":1472615814,
+    "wof:geomhash":"42d130318c4c9d17ca5d5ba9bb748a57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864085,
+            "region_id":85682647,
+            "venue_id":1008247449
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864097,
+            "region_id":85682647,
+            "venue_id":1008247449
+        }
+    ],
+    "wof:id":1008247449,
+    "wof:lastmodified":1472615814,
+    "wof:name":"Piza Enriquez Vanessa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6488449574,
+    39.5719680786,
+    2.6488449574,
+    39.5719680786
+],
+  "geometry": {"coordinates":[2.6488449574,39.5719680786],"type":"Point"}
+}

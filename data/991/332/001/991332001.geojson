@@ -1,0 +1,81 @@
+{
+  "id": 991332001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4949499965,38.3467712402,-0.4949499965,38.3467712402",
+    "geom:latitude":38.346771,
+    "geom:longitude":-0.49495,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Tato, 6",
+    "sg:city":"Alacant",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 92 20 07",
+    "sg:postcode":"03005",
+    "sg:province":"Alicante",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864055,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PJsNbCSOxMnWjP5rxTfln_38.346771_-0.494950@1306269471"
+    },
+    "wof:country":"ES",
+    "wof:created":1472544125,
+    "wof:geomhash":"77647331f0db91b1bce8609f5390955b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864055,
+            "region_id":85682625,
+            "venue_id":991332001
+        }
+    ],
+    "wof:id":991332001,
+    "wof:lastmodified":1472544125,
+    "wof:name":"Chapi Chapo C.b.",
+    "wof:parent_id":85864055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [
+    -0.4949499965,
+    38.3467712402,
+    -0.4949499965,
+    38.3467712402
+],
+  "geometry": {"coordinates":[-0.4949499965,38.3467712402],"type":"Point"}
+}

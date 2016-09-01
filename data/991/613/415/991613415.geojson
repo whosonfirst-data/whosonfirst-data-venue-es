@@ -1,0 +1,78 @@
+{
+  "id": 991613415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6745629311,40.481716156,-3.6745629311,40.481716156",
+    "geom:latitude":40.481716,
+    "geom:longitude":-3.674563,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pastora Imperio, 3",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Comit\u00c9s De Organizaci\u00d3n De Exposiciones, Ferias, Salones",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 67 28 99",
+    "sg:postcode":"28036",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863567,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qv6COZo6DOfsgGNZY00J6_40.481716_-3.674563@1306269509"
+    },
+    "wof:country":"ES",
+    "wof:created":1472560216,
+    "wof:geomhash":"2e04f94b3ec8753f3d618735f1427130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863567,
+            "region_id":85682783,
+            "venue_id":991613415
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863565,
+            "region_id":85682783,
+            "venue_id":991613415
+        }
+    ],
+    "wof:id":991613415,
+    "wof:lastmodified":1472560216,
+    "wof:name":"Expodec S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6745629311,
+    40.481716156,
+    -3.6745629311,
+    40.481716156
+],
+  "geometry": {"coordinates":[-3.6745629311,40.481716156],"type":"Point"}
+}

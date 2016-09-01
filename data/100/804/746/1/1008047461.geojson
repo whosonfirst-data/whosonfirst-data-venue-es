@@ -1,0 +1,77 @@
+{
+  "id": 1008047461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4820300043,38.3440513611,-0.4820300043,38.3440513611",
+    "geom:latitude":38.344051,
+    "geom:longitude":-0.48203,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Fernando, 13",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Notarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 21 49 83",
+    "sg:postcode":"03002",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864067,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625,
+        85864069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33iE2RGQolNILNjJw7Y6lR_38.344051_-0.482030@1306269601"
+    },
+    "wof:country":"ES",
+    "wof:created":1472597227,
+    "wof:geomhash":"dc74a84d81ad22a0a3af22384176ee19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864067,
+            "region_id":85682625,
+            "venue_id":1008047461
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748211,
+            "neighbourhood_id":85864069,
+            "region_id":-1,
+            "venue_id":1008047461
+        }
+    ],
+    "wof:id":1008047461,
+    "wof:lastmodified":1472597227,
+    "wof:name":"Moreno Sa\u00f1udo Jose",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4820300043,
+    38.3440513611,
+    -0.4820300043,
+    38.3440513611
+],
+  "geometry": {"coordinates":[-0.4820300043,38.3440513611],"type":"Point"}
+}

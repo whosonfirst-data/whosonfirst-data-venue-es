@@ -1,0 +1,59 @@
+{
+  "id": 1007714347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.8288830519,41.7245483398,1.8288830519,41.7245483398",
+    "geom:latitude":41.724548,
+    "geom:longitude":1.828883,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Baixada De La Seu, 2",
+    "sg:city":"Manresa",
+    "sg:classifiers":[],
+    "sg:orig_category":"Procuradores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 938 72 86 73",
+    "sg:postcode":"08241",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2i7u8g1EmICjQ5KPg0EgKq_41.724548_1.828883@1306269558"
+    },
+    "wof:country":"ES",
+    "wof:created":1472581676,
+    "wof:geomhash":"1df4df0b101530bcd308b5206706dd9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1007714347
+        }
+    ],
+    "wof:id":1007714347,
+    "wof:lastmodified":1472581676,
+    "wof:name":"I%ustre Co%egi De Procuradors Dels Tribunals De Manresa",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.8288830519,
+    41.7245483398,
+    1.8288830519,
+    41.7245483398
+],
+  "geometry": {"coordinates":[1.8288830519,41.7245483398],"type":"Point"}
+}

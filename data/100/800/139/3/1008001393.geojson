@@ -1,0 +1,59 @@
+{
+  "id": 1008001393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4867737889,38.3524932861,-0.4867737889,38.3524932861",
+    "geom:latitude":38.352493,
+    "geom:longitude":-0.486774,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Capitan Amador, 9",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Psic\u00d3logos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 25 60 95",
+    "sg:postcode":"03004",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864065,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cwVzjL6yquqhjhUd2bsfu_38.352493_-0.486774@1306269595"
+    },
+    "wof:country":"ES",
+    "wof:created":1472595253,
+    "wof:geomhash":"e0c865f8190c50c64f2efaa34424ecfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864065,
+            "region_id":85682625,
+            "venue_id":1008001393
+        }
+    ],
+    "wof:id":1008001393,
+    "wof:lastmodified":1472595253,
+    "wof:name":"Minguez Gallego Fernando Antonio",
+    "wof:parent_id":85864065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4867737889,
+    38.3524932861,
+    -0.4867737889,
+    38.3524932861
+],
+  "geometry": {"coordinates":[-0.4867737889,38.3524932861],"type":"Point"}
+}

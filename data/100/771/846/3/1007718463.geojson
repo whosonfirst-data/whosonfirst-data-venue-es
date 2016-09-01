@@ -1,0 +1,78 @@
+{
+  "id": 1007718463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9282889366,43.2622680664,-2.9282889366,43.2622680664",
+    "geom:latitude":43.262268,
+    "geom:longitude":-2.928289,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ledesma, 12",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pod\u00d3logos: Pedicuros",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 05 00 50",
+    "sg:postcode":"48001",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863923,
+        102191581,
+        404345949,
+        85633129,
+        404227393,
+        101748385,
+        85682879,
+        85863957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qUqRpC9wDR554geFXn4HB_43.262268_-2.928289@1306269559"
+    },
+    "wof:country":"ES",
+    "wof:created":1472581884,
+    "wof:geomhash":"f6a3762fef108184ddb5554c04049f9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345949,
+            "locality_id":101748385,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863923,
+            "region_id":85682879,
+            "venue_id":1007718463
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345949,
+            "locality_id":101748385,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863957,
+            "region_id":85682879,
+            "venue_id":1007718463
+        }
+    ],
+    "wof:id":1007718463,
+    "wof:lastmodified":1472581884,
+    "wof:name":"Jaime Moral Malagon",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9282889366,
+    43.2622680664,
+    -2.9282889366,
+    43.2622680664
+],
+  "geometry": {"coordinates":[-2.9282889366,43.2622680664],"type":"Point"}
+}

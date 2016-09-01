@@ -1,0 +1,80 @@
+{
+  "id": 990906841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0756115913,41.3649406433,2.0756115913,41.3649406433",
+    "geom:latitude":41.364941,
+    "geom:longitude":2.075612,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Lluis Domenech I Muntaner, 6",
+    "sg:city":"Esplugues Llobregat",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c9dicos: Cirug\u00cda Urol\u00d3gica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 71 03 07",
+    "sg:postcode":"08950",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799381,
+        102191581,
+        404331349,
+        85633129,
+        404227379,
+        101758769,
+        85682663,
+        85799591,
+        404331371,
+        101758753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5agMCgHS4W4tafILUjCSrf_41.364941_2.075612@1306269415"
+    },
+    "wof:country":"ES",
+    "wof:created":1472509280,
+    "wof:geomhash":"3009bcf1b3511ad90531b3f3d9be73d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331349,
+            "locality_id":101758769,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799381,
+            "region_id":85682663,
+            "venue_id":990906841
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331371,
+            "locality_id":101758753,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799591,
+            "region_id":85682663,
+            "venue_id":990906841
+        }
+    ],
+    "wof:id":990906841,
+    "wof:lastmodified":1472509280,
+    "wof:name":"Aguilo Lucia Fernando",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0756115913,
+    41.3649406433,
+    2.0756115913,
+    41.3649406433
+],
+  "geometry": {"coordinates":[2.0756115913,41.3649406433],"type":"Point"}
+}

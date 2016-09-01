@@ -1,0 +1,78 @@
+{
+  "id": 1008556265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8764070272,41.6316947937,-0.8764070272,41.6316947937",
+    "geom:latitude":41.631695,
+    "geom:longitude":-0.876407,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Huerta, 9",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Chapa Y Pintura Veh\u00cdculos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 37 41 76",
+    "sg:postcode":"50007",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863413,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891,
+        85863385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NcFMHlNnFS0u4YHmQXDWO_41.631695_-0.876407@1306269669"
+    },
+    "wof:country":"ES",
+    "wof:created":1472632390,
+    "wof:geomhash":"ef83bc6f9f33b96b09dd797c3419bdca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863413,
+            "region_id":85682891,
+            "venue_id":1008556265
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863385,
+            "region_id":85682891,
+            "venue_id":1008556265
+        }
+    ],
+    "wof:id":1008556265,
+    "wof:lastmodified":1472632390,
+    "wof:name":"Soto Lahoz Enrique",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8764070272,
+    41.6316947937,
+    -0.8764070272,
+    41.6316947937
+],
+  "geometry": {"coordinates":[-0.8764070272,41.6316947937],"type":"Point"}
+}

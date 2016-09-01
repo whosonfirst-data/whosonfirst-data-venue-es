@@ -1,0 +1,67 @@
+{
+  "id": 1008185019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7124536037,40.4317398071,-3.7124536037,40.4317398071",
+    "geom:latitude":40.43174,
+    "geom:longitude":-3.712454,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Rodriguez San Pedro, 35",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 49 34 77",
+    "sg:postcode":"28015",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863659,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v4oD3J30ehGPyQArN5QZm_40.431740_-3.712454@1306269619"
+    },
+    "wof:country":"ES",
+    "wof:created":1472606016,
+    "wof:geomhash":"4fee7068619019ded9431446617d8b08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863659,
+            "region_id":85682783,
+            "venue_id":1008185019
+        }
+    ],
+    "wof:id":1008185019,
+    "wof:lastmodified":1472606016,
+    "wof:name":"Pascual Sanchez-gijon Maria Esperanza",
+    "wof:parent_id":85863659,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7124536037,
+    40.4317398071,
+    -3.7124536037,
+    40.4317398071
+],
+  "geometry": {"coordinates":[-3.7124536037,40.4317398071],"type":"Point"}
+}

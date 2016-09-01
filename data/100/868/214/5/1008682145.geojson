@@ -1,0 +1,74 @@
+{
+  "id": 1008682145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.4265460968,36.7394828796,-4.4265460968,36.7394828796",
+    "geom:latitude":36.739483,
+    "geom:longitude":-4.426546,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Doctor Ros Alferez, 7",
+    "sg:city":"Torre Mar",
+    "sg:classifiers":[],
+    "sg:orig_category":"Carnicer\u00cdas, Carnicer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 54 61 64",
+    "sg:postcode":"29740",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863495,
+        85682787,
+        85863487,
+        102191581,
+        404339241,
+        404227361,
+        101748185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39qxg0uFDXWaV6w1O3vGPb_36.739483_-4.426546@1306269686"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637711,
+    "wof:geomhash":"f6b33c07c9b685561c7754c7484b3184",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863495,
+            "region_id":85682787,
+            "venue_id":1008682145
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863487,
+            "region_id":85682787,
+            "venue_id":1008682145
+        }
+    ],
+    "wof:id":1008682145,
+    "wof:lastmodified":1472637711,
+    "wof:name":"Valderrama Robles Miguel Angel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4265460968,
+    36.7394828796,
+    -4.4265460968,
+    36.7394828796
+],
+  "geometry": {"coordinates":[-4.4265460968,36.7394828796],"type":"Point"}
+}

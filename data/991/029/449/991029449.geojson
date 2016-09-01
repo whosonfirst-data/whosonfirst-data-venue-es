@@ -1,0 +1,74 @@
+{
+  "id": 991029449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8125686646,43.4608573914,-3.8125686646,43.4608573914",
+    "geom:latitude":43.460857,
+    "geom:longitude":-3.812569,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Monte Caloca, S/n",
+    "sg:city":"Santander",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asociaciones Humanitarias, De Cooperaci\u00d3n, De Acci\u00d3n Social",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 21 09 16",
+    "sg:postcode":"39008",
+    "sg:province":"Cantabria",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799303,
+        85682833,
+        85799521,
+        102191581,
+        404342209,
+        404227371,
+        101748391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aKyinTZHqUm4w6BRcY4bB_43.460857_-3.812569@1306269431"
+    },
+    "wof:country":"ES",
+    "wof:created":1472521440,
+    "wof:geomhash":"7835b932e05d7f7502d7fb1e7c557e94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799303,
+            "region_id":85682833,
+            "venue_id":991029449
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342209,
+            "locality_id":101748391,
+            "macroregion_id":404227371,
+            "neighbourhood_id":85799521,
+            "region_id":85682833,
+            "venue_id":991029449
+        }
+    ],
+    "wof:id":991029449,
+    "wof:lastmodified":1472521440,
+    "wof:name":"Asociacion Cantabria Acoge",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8125686646,
+    43.4608573914,
+    -3.8125686646,
+    43.4608573914
+],
+  "geometry": {"coordinates":[-3.8125686646,43.4608573914],"type":"Point"}
+}

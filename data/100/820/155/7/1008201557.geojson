@@ -1,0 +1,81 @@
+{
+  "id": 1008201557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6526119709,41.613948822,2.6526119709,41.613948822",
+    "geom:latitude":41.613949,
+    "geom:longitude":2.652612,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Joan Maragall, 9",
+    "sg:city":"Calella",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 69 52 54",
+    "sg:postcode":"08370",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799549,
+        102191581,
+        404331245,
+        85633129,
+        404227379,
+        101828575,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78HWChZo1fbdVzurIpt0Yx_41.613949_2.652612@1306269622"
+    },
+    "wof:country":"ES",
+    "wof:created":1472609890,
+    "wof:geomhash":"642c1c0c628dcb522a1193a5e52869c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331245,
+            "locality_id":101828575,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799549,
+            "region_id":85682663,
+            "venue_id":1008201557
+        }
+    ],
+    "wof:id":1008201557,
+    "wof:lastmodified":1472609890,
+    "wof:name":"Pemarvat S. A.",
+    "wof:parent_id":85799549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [
+    2.6526119709,
+    41.613948822,
+    2.6526119709,
+    41.613948822
+],
+  "geometry": {"coordinates":[2.6526119709,41.613948822],"type":"Point"}
+}

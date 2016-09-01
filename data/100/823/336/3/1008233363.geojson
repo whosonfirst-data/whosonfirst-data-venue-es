@@ -1,0 +1,59 @@
+{
+  "id": 1008233363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6395850182,40.5515060425,-3.6395850182,40.5515060425",
+    "geom:latitude":40.551506,
+    "geom:longitude":-3.639585,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Madrid (de), 57",
+    "sg:city":"Alcobendas",
+    "sg:classifiers":[],
+    "sg:orig_category":"Quincaller\u00cda (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 51 80 20",
+    "sg:postcode":"28100",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34G92iJCyEXeYQJMut7QLN_40.551506_-3.639585@1306269626"
+    },
+    "wof:country":"ES",
+    "wof:created":1472614145,
+    "wof:geomhash":"ed6a7a59a4bc71e3e87d9ffb6c7ef34b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1008233363
+        }
+    ],
+    "wof:id":1008233363,
+    "wof:lastmodified":1472614145,
+    "wof:name":"Pe\u00f1a Fresnillo Marcial",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6395850182,
+    40.5515060425,
+    -3.6395850182,
+    40.5515060425
+],
+  "geometry": {"coordinates":[-3.6395850182,40.5515060425],"type":"Point"}
+}

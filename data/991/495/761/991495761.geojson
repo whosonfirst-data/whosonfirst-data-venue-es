@@ -1,0 +1,81 @@
+{
+  "id": 991495761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7820942402,40.4578018188,-3.7820942402,40.4578018188",
+    "geom:latitude":40.457802,
+    "geom:longitude":-3.782094,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Berenisa, 28",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 07 93 15",
+    "sg:postcode":"28023",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799153,
+        102191581,
+        404338935,
+        85633129,
+        404227387,
+        101748291,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cVxhSFNsw1EWH0YiGKDe9_40.457802_-3.782094@1306269493"
+    },
+    "wof:country":"ES",
+    "wof:created":1472554180,
+    "wof:geomhash":"467a1fdd028f006810e8f9a1bc273c48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338935,
+            "locality_id":101748291,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799153,
+            "region_id":85682783,
+            "venue_id":991495761
+        }
+    ],
+    "wof:id":991495761,
+    "wof:lastmodified":1472554180,
+    "wof:name":"Diaz Gil Juan",
+    "wof:parent_id":85799153,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.7820942402,
+    40.4578018188,
+    -3.7820942402,
+    40.4578018188
+],
+  "geometry": {"coordinates":[-3.7820942402,40.4578018188],"type":"Point"}
+}

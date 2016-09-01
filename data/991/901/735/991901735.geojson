@@ -1,0 +1,78 @@
+{
+  "id": 991901735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7076172829,40.43409729,-3.7076172829,40.43409729",
+    "geom:latitude":40.434097,
+    "geom:longitude":-3.707617,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Fernando El Catolico, 10",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 47 70 20",
+    "sg:postcode":"28015",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863661,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d1VGcwm6AcQqOZ9ryNH3e_40.434097_-3.707617@1306269547"
+    },
+    "wof:country":"ES",
+    "wof:created":1472577611,
+    "wof:geomhash":"78a2525883bc7cf83eafb86b12249042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863661,
+            "region_id":85682783,
+            "venue_id":991901735
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863653,
+            "region_id":85682783,
+            "venue_id":991901735
+        }
+    ],
+    "wof:id":991901735,
+    "wof:lastmodified":1472577611,
+    "wof:name":"Herranz Conde Laura",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7076172829,
+    40.43409729,
+    -3.7076172829,
+    40.43409729
+],
+  "geometry": {"coordinates":[-3.7076172829,40.43409729],"type":"Point"}
+}

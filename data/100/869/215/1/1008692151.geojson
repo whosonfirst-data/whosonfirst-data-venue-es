@@ -1,0 +1,59 @@
+{
+  "id": 1008692151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8239500523,40.3441505432,-3.8239500523,40.3441505432",
+    "geom:latitude":40.344151,
+    "geom:longitude":-3.82395,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Juan, 11",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pintura, Barniz, Productos Asimilables (fabricaci\u00d3n, Al Por Mayor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 44 27 11",
+    "sg:postcode":"28921",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DLoimRVsSOwqPpInp9eJg_40.344151_-3.823950@1306269687"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638165,
+    "wof:geomhash":"4e7ecd6ec91abdfc2f558b2eb0e288bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008692151
+        }
+    ],
+    "wof:id":1008692151,
+    "wof:lastmodified":1472638165,
+    "wof:name":"Vaquero Tellez Ricardo",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8239500523,
+    40.3441505432,
+    -3.8239500523,
+    40.3441505432
+],
+  "geometry": {"coordinates":[-3.8239500523,40.3441505432],"type":"Point"}
+}

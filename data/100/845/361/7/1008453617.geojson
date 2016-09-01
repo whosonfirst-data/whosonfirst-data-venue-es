@@ -1,0 +1,59 @@
+{
+  "id": 1008453617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.4314608574,36.7408256531,-4.4314608574,36.7408256531",
+    "geom:latitude":36.740826,
+    "geom:longitude":-4.431461,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ebro, S/n",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 30 23 23",
+    "sg:postcode":"29011",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863495,
+        85682787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PYtTQiuwtL3r0djFPuDNl_36.740826_-4.431461@1306269656"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628068,
+    "wof:geomhash":"b680d209e657246e75aa9cd1ff3738f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863495,
+            "region_id":85682787,
+            "venue_id":1008453617
+        }
+    ],
+    "wof:id":1008453617,
+    "wof:lastmodified":1472628068,
+    "wof:name":"Sanchez-ibarg\u00fcen Morente Luis",
+    "wof:parent_id":85863495,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4314608574,
+    36.7408256531,
+    -4.4314608574,
+    36.7408256531
+],
+  "geometry": {"coordinates":[-4.4314608574,36.7408256531],"type":"Point"}
+}

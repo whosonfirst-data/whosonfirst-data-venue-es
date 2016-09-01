@@ -1,0 +1,59 @@
+{
+  "id": 1008629233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4187729955,38.3582649231,-0.4187729955,38.3582649231",
+    "geom:latitude":38.358265,
+    "geom:longitude":-0.418773,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Boga, 17",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c9dicos: Estomatolog\u00cda",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 16 35 79",
+    "sg:postcode":"03540",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864061,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RXs4viWLcfogpgLANr4x0_38.358265_-0.418773@1306269679"
+    },
+    "wof:country":"ES",
+    "wof:created":1472635519,
+    "wof:geomhash":"c5402f0f90a5622fd93db400430fa14e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864061,
+            "region_id":85682625,
+            "venue_id":1008629233
+        }
+    ],
+    "wof:id":1008629233,
+    "wof:lastmodified":1472635519,
+    "wof:name":"Tomas Adrian Rafael",
+    "wof:parent_id":85864061,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4187729955,
+    38.3582649231,
+    -0.4187729955,
+    38.3582649231
+],
+  "geometry": {"coordinates":[-0.4187729955,38.3582649231],"type":"Point"}
+}

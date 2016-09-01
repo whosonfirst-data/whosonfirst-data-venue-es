@@ -1,0 +1,73 @@
+{
+  "id": 1007915083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1343319416,41.4293212891,2.1343319416,41.4293212891",
+    "geom:latitude":41.429321,
+    "geom:longitude":2.134332,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Olvan, 8",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 17 31 75",
+    "sg:postcode":"08035",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "mercado",
+        "de",
+        "estudios"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799471,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rIMUdabWEQ13B2qSKKfda_41.429321_2.134332@1306269584"
+    },
+    "wof:country":"ES",
+    "wof:created":1472591538,
+    "wof:geomhash":"00029b8d5675b7d9b6d478e2572aa5ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799471,
+            "region_id":85682663,
+            "venue_id":1007915083
+        }
+    ],
+    "wof:id":1007915083,
+    "wof:lastmodified":1472591538,
+    "wof:name":"Martin Ansias Luz Maria",
+    "wof:parent_id":85799471,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mercado",
+        "de",
+        "estudios"
+    ]
+},
+  "bbox": [
+    2.1343319416,
+    41.4293212891,
+    2.1343319416,
+    41.4293212891
+],
+  "geometry": {"coordinates":[2.1343319416,41.4293212891],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1008100041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1351149082,41.4091873169,2.1351149082,41.4091873169",
+    "geom:latitude":41.409187,
+    "geom:longitude":2.135115,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pg Sant Gervasi, 26",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Puertas Y Portales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 17 87 65",
+    "sg:postcode":"08022",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863989,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QuJpIvk8LOLVRLLOzT70J_41.409187_2.135115@1306269608"
+    },
+    "wof:country":"ES",
+    "wof:created":1472599531,
+    "wof:geomhash":"ed0c671640148b4db4896cfadb0af517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863989,
+            "region_id":85682663,
+            "venue_id":1008100041
+        }
+    ],
+    "wof:id":1008100041,
+    "wof:lastmodified":1472599531,
+    "wof:name":"Nora Pakman Cecilia",
+    "wof:parent_id":85863989,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1351149082,
+    41.4091873169,
+    2.1351149082,
+    41.4091873169
+],
+  "geometry": {"coordinates":[2.1351149082,41.4091873169],"type":"Point"}
+}

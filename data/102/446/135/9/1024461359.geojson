@@ -1,0 +1,67 @@
+{
+  "id": 1024461359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1197080612,41.3771286011,2.1197080612,41.3771286011",
+    "geom:latitude":41.377129,
+    "geom:longitude":2.119708,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Pintor Tapiro, 2",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 34 86 90",
+    "sg:postcode":"08028",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799283,
+        102191581,
+        404331105,
+        85633129,
+        404227379,
+        101748333,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O3VCE29LBMpGb1PMocFum_41.377129_2.119708@1306269693"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639959,
+    "wof:geomhash":"54262c7faa7146ee6cd73a6f85cee960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331105,
+            "locality_id":101748333,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799283,
+            "region_id":85682663,
+            "venue_id":1024461359
+        }
+    ],
+    "wof:id":1024461359,
+    "wof:lastmodified":1472639959,
+    "wof:name":"Villalba Martin Manuel",
+    "wof:parent_id":85799283,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1197080612,
+    41.3771286011,
+    2.1197080612,
+    41.3771286011
+],
+  "geometry": {"coordinates":[2.1197080612,41.3771286011],"type":"Point"}
+}

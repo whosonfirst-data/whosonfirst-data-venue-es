@@ -1,0 +1,87 @@
+{
+  "id": 1007934485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6943099499,41.6289901733,2.6943099499,41.6289901733",
+    "geom:latitude":41.62899,
+    "geom:longitude":2.69431,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sant Antoni, 89",
+    "sg:city":"Pineda Mar",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 62 54 57",
+    "sg:postcode":"08397",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "accesorios",
+        "para",
+        "bares",
+        "cervecer\u00cdas",
+        "caf\u00c9s",
+        "y"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799549,
+        102191581,
+        404331245,
+        85633129,
+        404227379,
+        101828575,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jdOIdyPsb3kvJUwyd5G0v_41.628990_2.694310@1306269587"
+    },
+    "wof:country":"ES",
+    "wof:created":1472592448,
+    "wof:geomhash":"8d1f6b13a0ca4e328e791a5cb2ab9b54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331245,
+            "locality_id":101828575,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799549,
+            "region_id":85682663,
+            "venue_id":1007934485
+        }
+    ],
+    "wof:id":1007934485,
+    "wof:lastmodified":1472592448,
+    "wof:name":"Martinez Ruiz Juan",
+    "wof:parent_id":85799549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accesorios",
+        "para",
+        "bares",
+        "cervecer\u00cdas",
+        "caf\u00c9s",
+        "y"
+    ]
+},
+  "bbox": [
+    2.6943099499,
+    41.6289901733,
+    2.6943099499,
+    41.6289901733
+],
+  "geometry": {"coordinates":[2.6943099499,41.6289901733],"type":"Point"}
+}

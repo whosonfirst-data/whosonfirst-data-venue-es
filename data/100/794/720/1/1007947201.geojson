@@ -1,0 +1,67 @@
+{
+  "id": 1007947201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6979262829,40.4099464417,-3.6979262829,40.4099464417",
+    "geom:latitude":40.409946,
+    "geom:longitude":-3.697926,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Salitre, 9",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Plomeros",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 27 59 19",
+    "sg:postcode":"28012",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863793,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OtgGg1G0vdp4tLNKoobhT_40.409946_-3.697926@1306269588"
+    },
+    "wof:country":"ES",
+    "wof:created":1472593018,
+    "wof:geomhash":"1be26c1f44173463572f8394454e8a0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863793,
+            "region_id":85682783,
+            "venue_id":1007947201
+        }
+    ],
+    "wof:id":1007947201,
+    "wof:lastmodified":1472593018,
+    "wof:name":"Martin Soto Cruz",
+    "wof:parent_id":85863793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6979262829,
+    40.4099464417,
+    -3.6979262829,
+    40.4099464417
+],
+  "geometry": {"coordinates":[-3.6979262829,40.4099464417],"type":"Point"}
+}

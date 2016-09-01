@@ -1,0 +1,79 @@
+{
+  "id": 1007702895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6315031052,40.4269485474,-3.6315031052,40.4269485474",
+    "geom:latitude":40.426949,
+    "geom:longitude":-3.631503,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Betancunia, 1",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Organismos De Reclutamiento",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 32 04 05",
+    "sg:postcode":"28017",
+    "sg:province":"Madrid",
+    "sg:website":"www.inter-logos.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799553,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wkScjXmNdYdCrwXn9TiD0_40.426949_-3.631503@1306269557"
+    },
+    "wof:country":"ES",
+    "wof:created":1472581109,
+    "wof:geomhash":"5dddf53f02b1e9508aef9cf0ae688039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799553,
+            "region_id":85682783,
+            "venue_id":1007702895
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863697,
+            "region_id":85682783,
+            "venue_id":1007702895
+        }
+    ],
+    "wof:id":1007702895,
+    "wof:lastmodified":1472581109,
+    "wof:name":"Inter Logos Outsourcing S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6315031052,
+    40.4269485474,
+    -3.6315031052,
+    40.4269485474
+],
+  "geometry": {"coordinates":[-3.6315031052,40.4269485474],"type":"Point"}
+}

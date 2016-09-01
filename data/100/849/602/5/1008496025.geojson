@@ -1,0 +1,79 @@
+{
+  "id": 1008496025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7479159832,40.3795318604,-3.7479159832,40.3795318604",
+    "geom:latitude":40.379532,
+    "geom:longitude":-3.747916,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Salvador Del Mundo, 5",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Prot\u00c9sicos Dentales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 61 88 22",
+    "sg:postcode":"28025",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863819,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863781,
+        101753743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DLmDfvJtF6sM82LsMLHi0_40.379532_-3.747916@1306269661"
+    },
+    "wof:country":"ES",
+    "wof:created":1472629829,
+    "wof:geomhash":"41bbc69d2bba374848cb3392af821e03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863819,
+            "region_id":85682783,
+            "venue_id":1008496025
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101753743,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863781,
+            "region_id":85682783,
+            "venue_id":1008496025
+        }
+    ],
+    "wof:id":1008496025,
+    "wof:lastmodified":1472629829,
+    "wof:name":"Selec Bari S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7479159832,
+    40.3795318604,
+    -3.7479159832,
+    40.3795318604
+],
+  "geometry": {"coordinates":[-3.7479159832,40.3795318604],"type":"Point"}
+}

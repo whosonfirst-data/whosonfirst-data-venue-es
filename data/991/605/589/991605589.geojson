@@ -1,0 +1,72 @@
+{
+  "id": 991605589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9171638489,37.3886985779,-5.9171638489,37.3886985779",
+    "geom:latitude":37.388699,
+    "geom:longitude":-5.917164,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pl Olimpica, S/n",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 47 60 60",
+    "sg:postcode":"41020",
+    "sg:province":"Sevilla",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799535,
+        102191581,
+        404342947,
+        85633129,
+        404227361,
+        101748225,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vuxmSJWiRYwcsaAPdn7Zn_37.388699_-5.917164@1306269508"
+    },
+    "wof:country":"ES",
+    "wof:created":1472559847,
+    "wof:geomhash":"47a6269034b358500c3a2c84a283f60b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85799535,
+            "region_id":85682841,
+            "venue_id":991605589
+        }
+    ],
+    "wof:id":991605589,
+    "wof:lastmodified":1472559847,
+    "wof:name":"Eurotaxis De Sevilla Sociedad Cooperativa Andaluza",
+    "wof:parent_id":85799535,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.9171638489,
+    37.3886985779,
+    -5.9171638489,
+    37.3886985779
+],
+  "geometry": {"coordinates":[-5.9171638489,37.3886985779],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 991312117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6525969505,39.5858192444,2.6525969505,39.5858192444",
+    "geom:latitude":39.585819,
+    "geom:longitude":2.652597,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Joan Capo, 2",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros De Educaci\u00d3n Especial",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 75 31 58",
+    "sg:postcode":"07010",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864091,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61vNH6PnShpv0huI60ufV3_39.585819_2.652597@1306269469"
+    },
+    "wof:country":"ES",
+    "wof:created":1472543209,
+    "wof:geomhash":"198742bc82f00e0fc78b63ffe9126e0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":991312117
+        }
+    ],
+    "wof:id":991312117,
+    "wof:lastmodified":1472543209,
+    "wof:name":"Centre Educacio D'aduls Camp Rodo",
+    "wof:parent_id":85864091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6525969505,
+    39.5858192444,
+    2.6525969505,
+    39.5858192444
+],
+  "geometry": {"coordinates":[2.6525969505,39.5858192444],"type":"Point"}
+}

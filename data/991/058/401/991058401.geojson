@@ -1,0 +1,78 @@
+{
+  "id": 991058401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6584553719,40.3932685852,-3.6584553719,40.3932685852",
+    "geom:latitude":40.393269,
+    "geom:longitude":-3.658455,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Dolores Folgueras, 8",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agentes, Concesionarios Y Sucursales De Veh\u00cdculos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 78 97 54",
+    "sg:postcode":"28038",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863721,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OBM1PpYBmL7ES7IFibH26_40.393269_-3.658455@1306269435"
+    },
+    "wof:country":"ES",
+    "wof:created":1472523529,
+    "wof:geomhash":"5d7b6f9bf8efc2ec441aa8c1760da445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863721,
+            "region_id":85682783,
+            "venue_id":991058401
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863733,
+            "region_id":85682783,
+            "venue_id":991058401
+        }
+    ],
+    "wof:id":991058401,
+    "wof:lastmodified":1472523529,
+    "wof:name":"Autogarman S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6584553719,
+    40.3932685852,
+    -3.6584553719,
+    40.3932685852
+],
+  "geometry": {"coordinates":[-3.6584553719,40.3932685852],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 991760037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8834139705,41.6691017151,-0.8834139705,41.6691017151",
+    "geom:latitude":41.669102,
+    "geom:longitude":-0.883414,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Rafael Alberti, 6",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros De Salud",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 51 29 05",
+    "sg:postcode":"50015",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863309,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lv2elOBvwlsPXgkS0hAeD_41.669102_-0.883414@1306269528"
+    },
+    "wof:country":"ES",
+    "wof:created":1472569011,
+    "wof:geomhash":"8363298e9f5acc1662f11b07b0f26640",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863309,
+            "region_id":85682891,
+            "venue_id":991760037
+        }
+    ],
+    "wof:id":991760037,
+    "wof:lastmodified":1472569011,
+    "wof:name":"Garcia Ramon Maria Teresa",
+    "wof:parent_id":85863309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8834139705,
+    41.6691017151,
+    -0.8834139705,
+    41.6691017151
+],
+  "geometry": {"coordinates":[-0.8834139705,41.6691017151],"type":"Point"}
+}

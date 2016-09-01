@@ -1,0 +1,59 @@
+{
+  "id": 1008412345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5621569157,40.4262466431,-3.5621569157,40.4262466431",
+    "geom:latitude":40.426247,
+    "geom:longitude":-3.562157,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Dr Mara\u00d1on (del), 3",
+    "sg:city":"Coslada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Carburadores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 72 94 19",
+    "sg:postcode":"28820",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863629,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46JjxxoC1eIRcS02IUh4Yf_40.426247_-3.562157@1306269650"
+    },
+    "wof:country":"ES",
+    "wof:created":1472626354,
+    "wof:geomhash":"22071185e115c90db056753458f8d053",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863629,
+            "region_id":85682783,
+            "venue_id":1008412345
+        }
+    ],
+    "wof:id":1008412345,
+    "wof:lastmodified":1472626354,
+    "wof:name":"Ruano Martinez Jose Juan",
+    "wof:parent_id":85863629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5621569157,
+    40.4262466431,
+    -3.5621569157,
+    40.4262466431
+],
+  "geometry": {"coordinates":[-3.5621569157,40.4262466431],"type":"Point"}
+}

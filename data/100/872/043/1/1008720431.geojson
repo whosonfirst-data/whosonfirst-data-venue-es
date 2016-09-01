@@ -1,0 +1,81 @@
+{
+  "id": 1008720431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6478209496,40.3898582458,-3.6478209496,40.3898582458",
+    "geom:latitude":40.389858,
+    "geom:longitude":-3.647821,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Diego Manchado, 50",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 80 13 88",
+    "sg:postcode":"28038",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799645,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GGySnmvKNxHmzU7YVk5wy_40.389858_-3.647821@1306269691"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639451,
+    "wof:geomhash":"bf9c4ff7038dec219fade7a18940d44d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799645,
+            "region_id":85682783,
+            "venue_id":1008720431
+        }
+    ],
+    "wof:id":1008720431,
+    "wof:lastmodified":1472639451,
+    "wof:name":"Vicente Gutierrez Carlos",
+    "wof:parent_id":85799645,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.6478209496,
+    40.3898582458,
+    -3.6478209496,
+    40.3898582458
+],
+  "geometry": {"coordinates":[-3.6478209496,40.3898582458],"type":"Point"}
+}

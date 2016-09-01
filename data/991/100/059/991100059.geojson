@@ -1,0 +1,59 @@
+{
+  "id": 991100059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5002410412,40.4535484314,-3.5002410412,40.4535484314",
+    "geom:latitude":40.453548,
+    "geom:longitude":-3.500241,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Castilla (de), 26",
+    "sg:city":"Poligono De San Fernando De Henares",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 56 43 24",
+    "sg:postcode":"28830",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863631,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XGDGVr8jeQlfjzYbdPLCC_40.453548_-3.500241@1306269440"
+    },
+    "wof:country":"ES",
+    "wof:created":1472526818,
+    "wof:geomhash":"9fc1b52dde2661022faffa1a10b990dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863631,
+            "region_id":85682783,
+            "venue_id":991100059
+        }
+    ],
+    "wof:id":991100059,
+    "wof:lastmodified":1472526818,
+    "wof:name":"Banco Espa\u00d1ol De Credito S.a.",
+    "wof:parent_id":85863631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5002410412,
+    40.4535484314,
+    -3.5002410412,
+    40.4535484314
+],
+  "geometry": {"coordinates":[-3.5002410412,40.4535484314],"type":"Point"}
+}

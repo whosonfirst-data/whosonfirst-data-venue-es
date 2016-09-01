@@ -1,0 +1,67 @@
+{
+  "id": 1008503787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7092900276,40.4156951904,-3.7092900276,40.4156951904",
+    "geom:latitude":40.415695,
+    "geom:longitude":-3.70929,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz San Miguel, 8",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 48 15 40",
+    "sg:postcode":"28005",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863747,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NaqZu3FRAh6dXZY76RVtm_40.415695_-3.709290@1306269662"
+    },
+    "wof:country":"ES",
+    "wof:created":1472630183,
+    "wof:geomhash":"7ec3a0c3d0c70a41b1d81fe57f47bfa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863747,
+            "region_id":85682783,
+            "venue_id":1008503787
+        }
+    ],
+    "wof:id":1008503787,
+    "wof:lastmodified":1472630183,
+    "wof:name":"Serrano Alberca Maria Antonia",
+    "wof:parent_id":85863747,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7092900276,
+    40.4156951904,
+    -3.7092900276,
+    40.4156951904
+],
+  "geometry": {"coordinates":[-3.7092900276,40.4156951904],"type":"Point"}
+}

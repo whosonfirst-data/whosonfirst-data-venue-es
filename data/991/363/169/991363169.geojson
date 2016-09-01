@@ -1,0 +1,74 @@
+{
+  "id": 991363169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.5158669949,38.349773407,-0.5158669949,38.349773407",
+    "geom:latitude":38.349773,
+    "geom:longitude":-0.515867,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Victor De La Serna, 37",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Internados & Ense\u00d1anza Privada",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 10 24 55",
+    "sg:postcode":"03006",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864049,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625,
+        85864051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZkwC38RHoB4MGjeUrLgX6_38.349773_-0.515867@1306269476"
+    },
+    "wof:country":"ES",
+    "wof:created":1472546119,
+    "wof:geomhash":"c017b0a0ac2d4f21c0a26736305a73ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864049,
+            "region_id":85682625,
+            "venue_id":991363169
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864051,
+            "region_id":85682625,
+            "venue_id":991363169
+        }
+    ],
+    "wof:id":991363169,
+    "wof:lastmodified":1472546119,
+    "wof:name":"Colegio Juan Xiii",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.5158669949,
+    38.349773407,
+    -0.5158669949,
+    38.349773407
+],
+  "geometry": {"coordinates":[-0.5158669949,38.349773407],"type":"Point"}
+}

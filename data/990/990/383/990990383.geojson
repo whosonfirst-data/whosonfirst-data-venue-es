@@ -1,0 +1,74 @@
+{
+  "id": 990990383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.372386992,39.4873771667,-0.372386992,39.4873771667",
+    "geom:latitude":39.487377,
+    "geom:longitude":-0.372387,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Maximiliano Thous, 37",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Molduras, Junquillos, Listones Y Molduras Perforadas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 66 08 08",
+    "sg:postcode":"46009",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864223,
+        102191581,
+        404345361,
+        85633129,
+        404227381,
+        101748241,
+        85682867,
+        85864225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ur2bgzqkqztJlBfq5Ivxa_39.487377_-0.372387@1306269426"
+    },
+    "wof:country":"ES",
+    "wof:created":1472518394,
+    "wof:geomhash":"5c2167262c124fe92d9b76e6c8fb5f59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345361,
+            "locality_id":101748241,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864223,
+            "region_id":85682867,
+            "venue_id":990990383
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864225,
+            "region_id":85682867,
+            "venue_id":990990383
+        }
+    ],
+    "wof:id":990990383,
+    "wof:lastmodified":1472518394,
+    "wof:name":"Aragones Sanchis Jose",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.372386992,
+    39.4873771667,
+    -0.372386992,
+    39.4873771667
+],
+  "geometry": {"coordinates":[-0.372386992,39.4873771667],"type":"Point"}
+}

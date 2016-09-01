@@ -1,0 +1,60 @@
+{
+  "id": 1008088993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6999049187,40.2959022522,-3.6999049187,40.2959022522",
+    "geom:latitude":40.295902,
+    "geom:longitude":-3.699905,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Gutemberg, S/n",
+    "sg:city":"Getafe",
+    "sg:classifiers":[],
+    "sg:orig_category":"Embalajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 96 69 11",
+    "sg:postcode":"28906",
+    "sg:province":"Madrid",
+    "sg:website":"www.nefab.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Dm74X3hivnnBE9LVHMnFn_40.295902_-3.699905@1306269606"
+    },
+    "wof:country":"ES",
+    "wof:created":1472599047,
+    "wof:geomhash":"9b27d3009dacd8548b7e43c35ef46784",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1008088993
+        }
+    ],
+    "wof:id":1008088993,
+    "wof:lastmodified":1472599047,
+    "wof:name":"Nefab S.a.",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6999049187,
+    40.2959022522,
+    -3.6999049187,
+    40.2959022522
+],
+  "geometry": {"coordinates":[-3.6999049187,40.2959022522],"type":"Point"}
+}

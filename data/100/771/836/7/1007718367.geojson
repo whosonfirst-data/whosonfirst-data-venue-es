@@ -1,0 +1,64 @@
+{
+  "id": 1007718367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7341709137,40.4828567505,-3.7341709137,40.4828567505",
+    "geom:latitude":40.482857,
+    "geom:longitude":-3.734171,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Rosalia De Castro, 51",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alimentaci\u00d3n General (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 16 64 35",
+    "sg:postcode":"28035",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85682783,
+        102191581,
+        85633129,
+        101748283,
+        85863557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bu85hnXzbuQW1FiYuRx2U_40.482857_-3.734171@1306269559"
+    },
+    "wof:country":"ES",
+    "wof:created":1472581879,
+    "wof:geomhash":"a79a3d820e870136fe1e1ecaee1b6040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748283,
+            "neighbourhood_id":85863557,
+            "region_id":85682783,
+            "venue_id":1007718367
+        }
+    ],
+    "wof:id":1007718367,
+    "wof:lastmodified":1472581879,
+    "wof:name":"Jaime Ferrer Y Asociados Sl",
+    "wof:parent_id":85863557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7341709137,
+    40.4828567505,
+    -3.7341709137,
+    40.4828567505
+],
+  "geometry": {"coordinates":[-3.7341709137,40.4828567505],"type":"Point"}
+}

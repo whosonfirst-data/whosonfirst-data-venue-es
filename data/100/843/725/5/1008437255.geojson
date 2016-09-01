@@ -1,0 +1,81 @@
+{
+  "id": 1008437255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6076419353,37.1785545349,-3.6076419353,37.1785545349",
+    "geom:latitude":37.178555,
+    "geom:longitude":-3.607642,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Madre Riquelme, 1",
+    "sg:city":"Granada",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 29 46 07",
+    "sg:postcode":"18001",
+    "sg:province":"Granada",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863841,
+        102191581,
+        404335211,
+        85633129,
+        404227361,
+        101748197,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tvWQFHVMTaXi13BNn2yRN_37.178555_-3.607642@1306269653"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627473,
+    "wof:geomhash":"250beb5c5500f0b004fcdeda4ac587ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404335211,
+            "locality_id":101748197,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863841,
+            "region_id":85682731,
+            "venue_id":1008437255
+        }
+    ],
+    "wof:id":1008437255,
+    "wof:lastmodified":1472627473,
+    "wof:name":"Salazar Martin Pablo Daniel",
+    "wof:parent_id":85863841,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.6076419353,
+    37.1785545349,
+    -3.6076419353,
+    37.1785545349
+],
+  "geometry": {"coordinates":[-3.6076419353,37.1785545349],"type":"Point"}
+}

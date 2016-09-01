@@ -1,0 +1,67 @@
+{
+  "id": 1008553519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7130839825,40.4367980957,-3.7130839825,40.4367980957",
+    "geom:latitude":40.436798,
+    "geom:longitude":-3.713084,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Guzman El Bueno, 75",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 43 21 96",
+    "sg:postcode":"28015",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863655,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SPz8hhsOTmYowSc8U5jdp_40.436798_-3.713084@1306269669"
+    },
+    "wof:country":"ES",
+    "wof:created":1472632258,
+    "wof:geomhash":"7a32099655032b4e3bb843c770fcba28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863655,
+            "region_id":85682783,
+            "venue_id":1008553519
+        }
+    ],
+    "wof:id":1008553519,
+    "wof:lastmodified":1472632258,
+    "wof:name":"Soriano Calvo Gilberto",
+    "wof:parent_id":85863655,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7130839825,
+    40.4367980957,
+    -3.7130839825,
+    40.4367980957
+],
+  "geometry": {"coordinates":[-3.7130839825,40.4367980957],"type":"Point"}
+}

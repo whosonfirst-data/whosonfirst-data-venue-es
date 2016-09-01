@@ -1,0 +1,78 @@
+{
+  "id": 1008089123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7039759159,40.4143447876,-3.7039759159,40.4143447876",
+    "geom:latitude":40.414345,
+    "geom:longitude":-3.703976,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Est. Atocha, 13",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Juegos Y Juguetes (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 27 13 46",
+    "sg:postcode":"28045",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863793,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6i75eTBHRdmbmahC34gj6v_40.414345_-3.703976@1306269606"
+    },
+    "wof:country":"ES",
+    "wof:created":1472599053,
+    "wof:geomhash":"6de56615f9ea0a93ca12435964a45c30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863793,
+            "region_id":85682783,
+            "venue_id":1008089123
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863685,
+            "region_id":85682783,
+            "venue_id":1008089123
+        }
+    ],
+    "wof:id":1008089123,
+    "wof:lastmodified":1472599053,
+    "wof:name":"Negocios Infantiles S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7039759159,
+    40.4143447876,
+    -3.7039759159,
+    40.4143447876
+],
+  "geometry": {"coordinates":[-3.7039759159,40.4143447876],"type":"Point"}
+}

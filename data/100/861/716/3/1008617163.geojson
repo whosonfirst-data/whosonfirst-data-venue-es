@@ -1,0 +1,67 @@
+{
+  "id": 1008617163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.219408989,41.4129180908,2.219408989,41.4129180908",
+    "geom:latitude":41.412918,
+    "geom:longitude":2.219409,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Moll Princep D'espanya, S/n",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Barcos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 98 64 00",
+    "sg:postcode":"08...",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864011,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eZvGtHAvsEmlenoDDQOvr_41.412918_2.219409@1306269677"
+    },
+    "wof:country":"ES",
+    "wof:created":1472635016,
+    "wof:geomhash":"f7d3e0f49cfc93255525d3e142a0d618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864011,
+            "region_id":85682663,
+            "venue_id":1008617163
+        }
+    ],
+    "wof:id":1008617163,
+    "wof:lastmodified":1472635016,
+    "wof:name":"Terminal Catalunya S.a.",
+    "wof:parent_id":85864011,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.219408989,
+    41.4129180908,
+    2.219408989,
+    41.4129180908
+],
+  "geometry": {"coordinates":[2.219408989,41.4129180908],"type":"Point"}
+}

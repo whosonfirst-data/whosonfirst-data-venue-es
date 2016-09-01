@@ -1,0 +1,74 @@
+{
+  "id": 1008121103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3882234097,39.4870910645,-0.3882234097,39.4870910645",
+    "geom:latitude":39.487091,
+    "geom:longitude":-0.388223,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Doctor Nicasio Benlloch, 1",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agentes, Concesionarios Y Sucursales De Veh\u00cdculos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 49 76 29",
+    "sg:postcode":"46009",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864223,
+        102191581,
+        404345361,
+        85633129,
+        404227381,
+        101748241,
+        85682867,
+        85864227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Z9OjJaLGMGA6csmbt27Ec_39.487091_-0.388223@1306269611"
+    },
+    "wof:country":"ES",
+    "wof:created":1472600438,
+    "wof:geomhash":"7afc3e4f3a31cb82bbe66d44bc340688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345361,
+            "locality_id":101748241,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864223,
+            "region_id":85682867,
+            "venue_id":1008121103
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864227,
+            "region_id":85682867,
+            "venue_id":1008121103
+        }
+    ],
+    "wof:id":1008121103,
+    "wof:lastmodified":1472600438,
+    "wof:name":"Olivares Tebar Roberto",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3882234097,
+    39.4870910645,
+    -0.3882234097,
+    39.4870910645
+],
+  "geometry": {"coordinates":[-0.3882234097,39.4870910645],"type":"Point"}
+}

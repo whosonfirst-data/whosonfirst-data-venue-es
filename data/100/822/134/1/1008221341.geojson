@@ -1,0 +1,59 @@
+{
+  "id": 1008221341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3945530057,39.4547538757,-0.3945530057,39.4547538757",
+    "geom:latitude":39.454754,
+    "geom:longitude":-0.394553,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Juan De Garay, 46",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Delegados, Agentes De Tr\u00c1nsito, Auxiliares De Transporte Internacional",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 77 33 92",
+    "sg:postcode":"46017",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864205,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fQy4vyFpoMZ4NVxB3qlrC_39.454754_-0.394553@1306269625"
+    },
+    "wof:country":"ES",
+    "wof:created":1472613446,
+    "wof:geomhash":"2fd00f880caa8d3d214c7380fb6fa969",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864205,
+            "region_id":85682867,
+            "venue_id":1008221341
+        }
+    ],
+    "wof:id":1008221341,
+    "wof:lastmodified":1472613446,
+    "wof:name":"Perez Rico Juan Angel",
+    "wof:parent_id":85864205,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3945530057,
+    39.4547538757,
+    -0.3945530057,
+    39.4547538757
+],
+  "geometry": {"coordinates":[-0.3945530057,39.4547538757],"type":"Point"}
+}

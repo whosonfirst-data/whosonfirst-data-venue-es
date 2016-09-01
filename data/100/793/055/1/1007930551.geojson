@@ -1,0 +1,64 @@
+{
+  "id": 1007930551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.7966179848,37.8748970032,-4.7966179848,37.8748970032",
+    "geom:latitude":37.874897,
+    "geom:longitude":-4.796618,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Virgen De Los Dolores, 3",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 23 26 39",
+    "sg:postcode":"14004",
+    "sg:province":"C\u00f3rdoba",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863887,
+        85682697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76uMfqKC1rEFz1By1banXZ_37.874897_-4.796618@1306269586"
+    },
+    "wof:country":"ES",
+    "wof:created":1472592259,
+    "wof:geomhash":"6d8ea72a16bf96df041f0ff060054eeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863887,
+            "region_id":85682697,
+            "venue_id":1007930551
+        }
+    ],
+    "wof:id":1007930551,
+    "wof:lastmodified":1472592259,
+    "wof:name":"Martinez Moreno Tomas",
+    "wof:parent_id":85863887,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7966179848,
+    37.8748970032,
+    -4.7966179848,
+    37.8748970032
+],
+  "geometry": {"coordinates":[-4.7966179848,37.8748970032],"type":"Point"}
+}

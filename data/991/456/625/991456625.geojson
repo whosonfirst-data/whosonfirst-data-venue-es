@@ -1,0 +1,64 @@
+{
+  "id": 991456625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.7531471252,37.8993606567,-4.7531471252,37.8993606567",
+    "geom:latitude":37.899361,
+    "geom:longitude":-4.753147,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Arcos De La Frontera, 22",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 44 20 95",
+    "sg:postcode":"14014",
+    "sg:province":"C\u00f3rdoba",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863909,
+        85682697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43Nqt3A8P9FfxWTqPHvCUz_37.899361_-4.753147@1306269488"
+    },
+    "wof:country":"ES",
+    "wof:created":1472552043,
+    "wof:geomhash":"d15f29d938ea9a7b49af279e376f2a3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863909,
+            "region_id":85682697,
+            "venue_id":991456625
+        }
+    ],
+    "wof:id":991456625,
+    "wof:lastmodified":1472552043,
+    "wof:name":"Cruz Guzman Rafael",
+    "wof:parent_id":85863909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7531471252,
+    37.8993606567,
+    -4.7531471252,
+    37.8993606567
+],
+  "geometry": {"coordinates":[-4.7531471252,37.8993606567],"type":"Point"}
+}

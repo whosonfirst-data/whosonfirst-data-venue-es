@@ -1,0 +1,60 @@
+{
+  "id": 1007855177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6757910252,39.5959129333,2.6757910252,39.5959129333",
+    "geom:latitude":39.595913,
+    "geom:longitude":2.675791,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Ter, 27",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aeropuertos Y Servicios Aeroportuarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 47 29 15",
+    "sg:postcode":"07009",
+    "sg:province":"Islas Baleares",
+    "sg:website":"www.lte.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864091,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uqX67OKqa7apnnsqOh1qI_39.595913_2.675791@1306269577"
+    },
+    "wof:country":"ES",
+    "wof:created":1472588954,
+    "wof:geomhash":"15bdfcc08dfb033f00d1b61cfd8abc0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":1007855177
+        }
+    ],
+    "wof:id":1007855177,
+    "wof:lastmodified":1472588954,
+    "wof:name":"Lte International Airways S.a.",
+    "wof:parent_id":85864091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6757910252,
+    39.5959129333,
+    2.6757910252,
+    39.5959129333
+],
+  "geometry": {"coordinates":[2.6757910252,39.5959129333],"type":"Point"}
+}

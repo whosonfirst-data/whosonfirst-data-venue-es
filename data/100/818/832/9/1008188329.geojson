@@ -1,0 +1,78 @@
+{
+  "id": 1008188329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6254909039,40.431022644,-3.6254909039,40.431022644",
+    "geom:latitude":40.431023,
+    "geom:longitude":-3.625491,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Virgen De La Oliva, 51",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Librer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 27 33 77",
+    "sg:postcode":"28037",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863641,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2huyyKnw9CK5C9CZ6n5k0n_40.431023_-3.625491@1306269620"
+    },
+    "wof:country":"ES",
+    "wof:created":1472606866,
+    "wof:geomhash":"cf500c50bceffd64fc6c35e6539f1bc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863641,
+            "region_id":85682783,
+            "venue_id":1008188329
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863701,
+            "region_id":85682783,
+            "venue_id":1008188329
+        }
+    ],
+    "wof:id":1008188329,
+    "wof:lastmodified":1472606866,
+    "wof:name":"Pastrana Domingo Alberto",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6254909039,
+    40.431022644,
+    -3.6254909039,
+    40.431022644
+],
+  "geometry": {"coordinates":[-3.6254909039,40.431022644],"type":"Point"}
+}

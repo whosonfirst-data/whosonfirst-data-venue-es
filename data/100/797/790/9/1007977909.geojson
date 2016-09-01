@@ -1,0 +1,61 @@
+{
+  "id": 1007977909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5914480686,40.4506950378,-3.5914480686,40.4506950378",
+    "geom:latitude":40.450695,
+    "geom:longitude":-3.591448,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pinos De Osuna, 2",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias Y Agentes Comerciales, Representantes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 42 69 60",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        102545773,
+        85863587,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4l2rZSUyDUCDQRbTslR8y1_40.450695_-3.591448@1306269592"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594285,
+    "wof:geomhash":"7ae20e76149cf3d229ea07759e7cbbac",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545773,
+            "country_id":85633129,
+            "neighbourhood_id":85863587,
+            "region_id":85682783,
+            "venue_id":1007977909
+        }
+    ],
+    "wof:id":1007977909,
+    "wof:lastmodified":1472594285,
+    "wof:name":"Mendez Garcia Lorenzo Carlos",
+    "wof:parent_id":102545773,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5914480686,
+    40.4506950378,
+    -3.5914480686,
+    40.4506950378
+],
+  "geometry": {"coordinates":[-3.5914480686,40.4506950378],"type":"Point"}
+}

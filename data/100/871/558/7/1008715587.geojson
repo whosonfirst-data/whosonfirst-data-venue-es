@@ -1,0 +1,60 @@
+{
+  "id": 1008715587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6554179192,39.5810508728,2.6554179192,39.5810508728",
+    "geom:latitude":39.581051,
+    "geom:longitude":2.655418,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pl Alexander Fleming, 3",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 20 18 11",
+    "sg:postcode":"07004",
+    "sg:province":"Islas Baleares",
+    "sg:website":"www.viajesmajorica.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864091,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nnlcE73jwTNB1BTtDCOWX_39.581051_2.655418@1306269691"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639252,
+    "wof:geomhash":"cfb763d060814a21c5fc876efafcf05c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":1008715587
+        }
+    ],
+    "wof:id":1008715587,
+    "wof:lastmodified":1472639252,
+    "wof:name":"Viajes Majorica S.a.",
+    "wof:parent_id":85864091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6554179192,
+    39.5810508728,
+    2.6554179192,
+    39.5810508728
+],
+  "geometry": {"coordinates":[2.6554179192,39.5810508728],"type":"Point"}
+}

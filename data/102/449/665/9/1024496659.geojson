@@ -1,0 +1,70 @@
+{
+  "id": 1024496659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8874201,41.6820833,-0.8874201,41.6820833",
+    "geom:latitude":41.682083,
+    "geom:longitude":-0.88742,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Maria de luna 11",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"50017",
+    "sg:tags":[
+        "smmart",
+        "social-media-marketing"
+    ],
+    "sg:website":"http://www.cierzo-development.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863297,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GEL69sHzHIHG99tdAgYj7_41.682083_-0.887420@1308163240"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641476,
+    "wof:geomhash":"47fca31a7cfb120646b01fea82f68abe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863297,
+            "region_id":85682891,
+            "venue_id":1024496659
+        }
+    ],
+    "wof:id":1024496659,
+    "wof:lastmodified":1472641476,
+    "wof:name":"Cierzo Development",
+    "wof:parent_id":85863297,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smmart",
+        "social-media-marketing"
+    ]
+},
+  "bbox": [
+    -0.8874201,
+    41.6820833,
+    -0.8874201,
+    41.6820833
+],
+  "geometry": {"coordinates":[-0.8874201,41.6820833],"type":"Point"}
+}

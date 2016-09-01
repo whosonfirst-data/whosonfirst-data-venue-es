@@ -1,0 +1,59 @@
+{
+  "id": 1007931615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.768930912,40.3306121826,-3.768930912,40.3306121826",
+    "geom:latitude":40.330612,
+    "geom:longitude":-3.768931,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Juan Mu\u00d1oz, 41",
+    "sg:city":"Leganes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tiendas De Grano, Frutas Y Legumbres Secas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 94 43 75",
+    "sg:postcode":"28911",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863785,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dtA25olmt6s9Bkbdz8qlB_40.330612_-3.768931@1306269586"
+    },
+    "wof:country":"ES",
+    "wof:created":1472592307,
+    "wof:geomhash":"b692547ad3f996e2f48522a410f9de76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863785,
+            "region_id":85682783,
+            "venue_id":1007931615
+        }
+    ],
+    "wof:id":1007931615,
+    "wof:lastmodified":1472592307,
+    "wof:name":"Martinez Palacios Pablo Fernando",
+    "wof:parent_id":85863785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.768930912,
+    40.3306121826,
+    -3.768930912,
+    40.3306121826
+],
+  "geometry": {"coordinates":[-3.768930912,40.3306121826],"type":"Point"}
+}

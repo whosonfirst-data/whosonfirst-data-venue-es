@@ -1,0 +1,67 @@
+{
+  "id": 1008009281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6499295235,40.4705810547,-3.6499295235,40.4705810547",
+    "geom:latitude":40.470581,
+    "geom:longitude":-3.64993,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Biosca, 2",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 63 98 60",
+    "sg:postcode":"28043",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863583,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2X9ogfGFazyAWgqj1UdYl8_40.470581_-3.649930@1306269596"
+    },
+    "wof:country":"ES",
+    "wof:created":1472595584,
+    "wof:geomhash":"92328e03781e7aac990c95d164c85223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863583,
+            "region_id":85682783,
+            "venue_id":1008009281
+        }
+    ],
+    "wof:id":1008009281,
+    "wof:lastmodified":1472595584,
+    "wof:name":"Mittelbrunn Garcia Margarita",
+    "wof:parent_id":85863583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6499295235,
+    40.4705810547,
+    -3.6499295235,
+    40.4705810547
+],
+  "geometry": {"coordinates":[-3.6499295235,40.4705810547],"type":"Point"}
+}

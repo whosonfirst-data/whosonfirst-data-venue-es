@@ -1,0 +1,60 @@
+{
+  "id": 1008711947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8043038845,40.352771759,-3.8043038845,40.352771759",
+    "geom:latitude":40.352772,
+    "geom:longitude":-3.804304,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av. Libertad, 35",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 19 52 77",
+    "sg:postcode":"28925",
+    "sg:province":"Madrid",
+    "sg:website":"www.viajescrisol.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13nGFusdNUYF9ixLqAskvB_40.352772_-3.804304@1306269690"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639079,
+    "wof:geomhash":"4185e1a6d5a4ed65bdd621b19b0b0dba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008711947
+        }
+    ],
+    "wof:id":1008711947,
+    "wof:lastmodified":1472639079,
+    "wof:name":"Viajes Crisol S A",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8043038845,
+    40.352771759,
+    -3.8043038845,
+    40.352771759
+],
+  "geometry": {"coordinates":[-3.8043038845,40.352771759],"type":"Point"}
+}

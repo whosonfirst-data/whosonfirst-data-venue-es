@@ -1,0 +1,64 @@
+{
+  "id": 991056569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2398478985,41.4473457336,2.2398478985,41.4473457336",
+    "geom:latitude":41.447346,
+    "geom:longitude":2.239848,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carr Baldomer Sola, 9",
+    "sg:city":"Badalona",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 98 82 47",
+    "sg:postcode":"08912",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799485,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wMJkZ5fGwBgSmWxFrX4dY_41.447346_2.239848@1306269435"
+    },
+    "wof:country":"ES",
+    "wof:created":1472523390,
+    "wof:geomhash":"e048a8233d23458cc4044baadb4db0de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799485,
+            "region_id":85682663,
+            "venue_id":991056569
+        }
+    ],
+    "wof:id":991056569,
+    "wof:lastmodified":1472523390,
+    "wof:name":"Auto Escuela Joventut C.b.",
+    "wof:parent_id":85799485,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2398478985,
+    41.4473457336,
+    2.2398478985,
+    41.4473457336
+],
+  "geometry": {"coordinates":[2.2398478985,41.4473457336],"type":"Point"}
+}

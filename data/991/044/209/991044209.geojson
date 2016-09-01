@@ -1,0 +1,64 @@
+{
+  "id": 991044209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1083240509,41.5551872253,2.1083240509,41.5551872253",
+    "geom:latitude":41.555187,
+    "geom:longitude":2.108324,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sant Maties, 91",
+    "sg:city":"Sabadell",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 16 62 62",
+    "sg:postcode":"08208",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32kbbivvA5vghs9ZycChIE_41.555187_2.108324@1306269433"
+    },
+    "wof:country":"ES",
+    "wof:created":1472522506,
+    "wof:geomhash":"28dee6c5ea86293e1b3c23a887e501af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":991044209
+        }
+    ],
+    "wof:id":991044209,
+    "wof:lastmodified":1472522506,
+    "wof:name":"Associacio Comarcal Autonoma De Taxistes",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1083240509,
+    41.5551872253,
+    2.1083240509,
+    41.5551872253
+],
+  "geometry": {"coordinates":[2.1083240509,41.5551872253],"type":"Point"}
+}

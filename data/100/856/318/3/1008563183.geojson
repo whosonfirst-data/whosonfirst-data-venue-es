@@ -1,0 +1,59 @@
+{
+  "id": 1008563183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.8242750168,41.7236747742,1.8242750168,41.7236747742",
+    "geom:latitude":41.723675,
+    "geom:longitude":1.824275,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Vilanova, 8",
+    "sg:city":"Manresa",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mercer\u00cda, Lencer\u00cda (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 938 72 53 32",
+    "sg:postcode":"08241",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68N0MUIKuVALrmJLMCBrO0_41.723675_1.824275@1306269670"
+    },
+    "wof:country":"ES",
+    "wof:created":1472632688,
+    "wof:geomhash":"87472d7e6773afa3e4cd45bca33c2c4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008563183
+        }
+    ],
+    "wof:id":1008563183,
+    "wof:lastmodified":1472632688,
+    "wof:name":"Suarez Ferres Ramon",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.8242750168,
+    41.7236747742,
+    1.8242750168,
+    41.7236747742
+],
+  "geometry": {"coordinates":[1.8242750168,41.7236747742],"type":"Point"}
+}

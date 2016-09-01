@@ -1,0 +1,73 @@
+{
+  "id": 1008371323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5779919624,40.4734458923,-3.5779919624,40.4734458923",
+    "geom:latitude":40.473446,
+    "geom:longitude":-3.577992,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda General, 2",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 05 47 08",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863589,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dH4SONXyi02ycschWlV6r_40.473446_-3.577992@1306269645"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624418,
+    "wof:geomhash":"d60d2152f2b0c4893e4a4549d1bc5f94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863589,
+            "region_id":85682783,
+            "venue_id":1008371323
+        }
+    ],
+    "wof:id":1008371323,
+    "wof:lastmodified":1472624418,
+    "wof:name":"Rodelas Medina Santiago",
+    "wof:parent_id":85863589,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.5779919624,
+    40.4734458923,
+    -3.5779919624,
+    40.4734458923
+],
+  "geometry": {"coordinates":[-3.5779919624,40.4734458923],"type":"Point"}
+}

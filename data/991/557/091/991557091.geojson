@@ -1,0 +1,59 @@
+{
+  "id": 991557091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4860790074,38.3583297729,-0.4860790074,38.3583297729",
+    "geom:latitude":38.35833,
+    "geom:longitude":-0.486079,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ingeniero Sanchiz Pujalte, 19",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicio De Salud",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 25 06 82",
+    "sg:postcode":"03010",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864065,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SfZlYsKb3KRz34sAWx1Xl_38.358330_-0.486079@1306269501"
+    },
+    "wof:country":"ES",
+    "wof:created":1472557442,
+    "wof:geomhash":"0582837868936290a7de6257194c4199",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864065,
+            "region_id":85682625,
+            "venue_id":991557091
+        }
+    ],
+    "wof:id":991557091,
+    "wof:lastmodified":1472557442,
+    "wof:name":"El Mundo Del Fontanero S.l.",
+    "wof:parent_id":85864065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4860790074,
+    38.3583297729,
+    -0.4860790074,
+    38.3583297729
+],
+  "geometry": {"coordinates":[-0.4860790074,38.3583297729],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1008168991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.925303936,43.2586708069,-2.925303936,43.2586708069",
+    "geom:latitude":43.258671,
+    "geom:longitude":-2.925304,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Nueva, S/n",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aparcamientos (infraestructuras, Accesorios)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 15 25 88",
+    "sg:postcode":"48005",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863961,
+        102191581,
+        404345949,
+        85633129,
+        404227393,
+        101748385,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5o2R9AjI3sIMM1PGpoauGQ_43.258671_-2.925304@1306269617"
+    },
+    "wof:country":"ES",
+    "wof:created":1472603796,
+    "wof:geomhash":"78f0c7314e5eee6f96e63bcf1417d7bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345949,
+            "locality_id":101748385,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863961,
+            "region_id":85682879,
+            "venue_id":1008168991
+        }
+    ],
+    "wof:id":1008168991,
+    "wof:lastmodified":1472603796,
+    "wof:name":"Parking Arenal",
+    "wof:parent_id":85863961,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.925303936,
+    43.2586708069,
+    -2.925303936,
+    43.2586708069
+],
+  "geometry": {"coordinates":[-2.925303936,43.2586708069],"type":"Point"}
+}

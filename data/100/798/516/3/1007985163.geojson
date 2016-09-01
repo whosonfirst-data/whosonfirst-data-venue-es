@@ -1,0 +1,59 @@
+{
+  "id": 1007985163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6063849926,37.2086372375,-3.6063849926,37.2086372375",
+    "geom:latitude":37.208637,
+    "geom:longitude":-3.606385,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pintor Joaquin Capulino Jauregui, 12",
+    "sg:city":"Granada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Dibujos Animados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 15 57 46",
+    "sg:postcode":"18013",
+    "sg:province":"Granada",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799289,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xDmSxk9QXVw5z8gDerxcb_37.208637_-3.606385@1306269593"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594530,
+    "wof:geomhash":"5aa1b446d8e764c64257d7c98849d3e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799289,
+            "region_id":85682731,
+            "venue_id":1007985163
+        }
+    ],
+    "wof:id":1007985163,
+    "wof:lastmodified":1472594530,
+    "wof:name":"Mercado Romero Mercedes",
+    "wof:parent_id":85799289,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6063849926,
+    37.2086372375,
+    -3.6063849926,
+    37.2086372375
+],
+  "geometry": {"coordinates":[-3.6063849926,37.2086372375],"type":"Point"}
+}

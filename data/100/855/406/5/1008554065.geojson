@@ -1,0 +1,67 @@
+{
+  "id": 1008554065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1635479927,41.402885437,2.1635479927,41.402885437",
+    "geom:latitude":41.402885,
+    "geom:longitude":2.163548,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sant Antoni Maria Claret, 8",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Muebles, Minoristas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 58 44 13",
+    "sg:postcode":"08037",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863999,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qGpHXld8NRSqL3haPY7Bg_41.402885_2.163548@1306269669"
+    },
+    "wof:country":"ES",
+    "wof:created":1472632279,
+    "wof:geomhash":"a015c733db25084b39dc91b2ae2b6a43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863999,
+            "region_id":85682663,
+            "venue_id":1008554065
+        }
+    ],
+    "wof:id":1008554065,
+    "wof:lastmodified":1472632279,
+    "wof:name":"Soriano Ros Juan",
+    "wof:parent_id":85863999,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1635479927,
+    41.402885437,
+    2.1635479927,
+    41.402885437
+],
+  "geometry": {"coordinates":[2.1635479927,41.402885437],"type":"Point"}
+}

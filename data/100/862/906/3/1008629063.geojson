@@ -1,0 +1,79 @@
+{
+  "id": 1008629063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8845530152,41.6512832642,-0.8845530152,41.6512832642",
+    "geom:latitude":41.651283,
+    "geom:longitude":-0.884553,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Azoque, 64",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Peritos En Seguros",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 30 17 47",
+    "sg:postcode":"50004",
+    "sg:province":"Zaragoza",
+    "sg:website":"www.isabeltolosa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863323,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891,
+        85863361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4u26nJTWCffCOQ7AR8HF0I_41.651283_-0.884553@1306269679"
+    },
+    "wof:country":"ES",
+    "wof:created":1472635513,
+    "wof:geomhash":"82e572e4b69d3c0543a22a003357ff97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863323,
+            "region_id":85682891,
+            "venue_id":1008629063
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863361,
+            "region_id":85682891,
+            "venue_id":1008629063
+        }
+    ],
+    "wof:id":1008629063,
+    "wof:lastmodified":1472635513,
+    "wof:name":"Tolosa Pardinilla Maria Isabel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8845530152,
+    41.6512832642,
+    -0.8845530152,
+    41.6512832642
+],
+  "geometry": {"coordinates":[-0.8845530152,41.6512832642],"type":"Point"}
+}

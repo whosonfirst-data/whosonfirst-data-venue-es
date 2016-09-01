@@ -1,0 +1,72 @@
+{
+  "id": 1008694977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9473171234,37.3756523132,-5.9473171234,37.3756523132",
+    "geom:latitude":37.375652,
+    "geom:longitude":-5.947317,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Nescania, 8",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 66 06 29",
+    "sg:postcode":"41006",
+    "sg:province":"Sevilla",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799231,
+        102191581,
+        404342827,
+        85633129,
+        404227361,
+        101753675,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Oz7tHpMKigTEj0qyrX4In_37.375652_-5.947317@1306269688"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638284,
+    "wof:geomhash":"f20f39fb709c704cef058d88c0231a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342827,
+            "locality_id":101753675,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85799231,
+            "region_id":85682841,
+            "venue_id":1008694977
+        }
+    ],
+    "wof:id":1008694977,
+    "wof:lastmodified":1472638284,
+    "wof:name":"Vazquez Alvarez Carlos",
+    "wof:parent_id":85799231,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.9473171234,
+    37.3756523132,
+    -5.9473171234,
+    37.3756523132
+],
+  "geometry": {"coordinates":[-5.9473171234,37.3756523132],"type":"Point"}
+}

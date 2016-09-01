@@ -1,0 +1,78 @@
+{
+  "id": 991872615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6774010658,40.4301185608,-3.6774010658,40.4301185608",
+    "geom:latitude":40.430119,
+    "geom:longitude":-3.677401,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Jose Ortega Y Gasset, 49",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros De Coordinaci\u00d3n",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 02 83 65",
+    "sg:postcode":"28006",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863805,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EYUr3MCMhXVEZLaTidqW0_40.430119_-3.677401@1306269543"
+    },
+    "wof:country":"ES",
+    "wof:created":1472576045,
+    "wof:geomhash":"e8e08e74fea501e24ac5a2e239b4174b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863805,
+            "region_id":85682783,
+            "venue_id":991872615
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863673,
+            "region_id":85682783,
+            "venue_id":991872615
+        }
+    ],
+    "wof:id":991872615,
+    "wof:lastmodified":1472576045,
+    "wof:name":"Gutierrez Lopez Matilde",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6774010658,
+    40.4301185608,
+    -3.6774010658,
+    40.4301185608
+],
+  "geometry": {"coordinates":[-3.6774010658,40.4301185608],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 991056229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4408810139,39.5049362183,-0.4408810139,39.5049362183",
+    "geom:latitude":39.504936,
+    "geom:longitude":-0.440881,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"C/ Salvador Ferrandis Luna, 19",
+    "sg:city":"Paterna",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 961 38 87 68",
+    "sg:postcode":"46980",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799211,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XFLtQzTARlAHs7X8UgytZ_39.504936_-0.440881@1306269435"
+    },
+    "wof:country":"ES",
+    "wof:created":1472523368,
+    "wof:geomhash":"7af046d1aae128d80b1bfb7496af3fe2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799211,
+            "region_id":85682867,
+            "venue_id":991056229
+        }
+    ],
+    "wof:id":991056229,
+    "wof:lastmodified":1472523368,
+    "wof:name":"Auto-escuela Europaterna S.l.",
+    "wof:parent_id":85799211,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4408810139,
+    39.5049362183,
+    -0.4408810139,
+    39.5049362183
+],
+  "geometry": {"coordinates":[-0.4408810139,39.5049362183],"type":"Point"}
+}

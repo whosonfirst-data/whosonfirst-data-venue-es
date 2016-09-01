@@ -1,0 +1,72 @@
+{
+  "id": 1007862103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8926420212,41.6553535461,-0.8926420212,41.6553535461",
+    "geom:latitude":41.655354,
+    "geom:longitude":-0.892642,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Portillo, 5",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 43 74 16",
+    "sg:postcode":"50004",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863323,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gIlSGs1nhSXgYkMDhOZ2D_41.655354_-0.892642@1306269578"
+    },
+    "wof:country":"ES",
+    "wof:created":1472589315,
+    "wof:geomhash":"88642347c7b95aac995c78683fb06087",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863323,
+            "region_id":85682891,
+            "venue_id":1007862103
+        }
+    ],
+    "wof:id":1007862103,
+    "wof:lastmodified":1472589315,
+    "wof:name":"Lusilla Bellido Antonio",
+    "wof:parent_id":85863323,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8926420212,
+    41.6553535461,
+    -0.8926420212,
+    41.6553535461
+],
+  "geometry": {"coordinates":[-0.8926420212,41.6553535461],"type":"Point"}
+}

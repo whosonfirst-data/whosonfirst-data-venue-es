@@ -1,0 +1,72 @@
+{
+  "id": 1008695839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1858029366,41.4320602417,2.1858029366,41.4320602417",
+    "geom:latitude":41.43206,
+    "geom:longitude":2.185803,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Castellbell, 2",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 11 43 05",
+    "sg:postcode":"08030",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863995,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HKQcwM36H2Dk4QiuNhzqg_41.432060_2.185803@1306269688"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638324,
+    "wof:geomhash":"53b1d8dec8306b29273c28e5bb9e4a53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863995,
+            "region_id":85682663,
+            "venue_id":1008695839
+        }
+    ],
+    "wof:id":1008695839,
+    "wof:lastmodified":1472638324,
+    "wof:name":"Vazquez Fernandez Enrique",
+    "wof:parent_id":85863995,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1858029366,
+    41.4320602417,
+    2.1858029366,
+    41.4320602417
+],
+  "geometry": {"coordinates":[2.1858029366,41.4320602417],"type":"Point"}
+}

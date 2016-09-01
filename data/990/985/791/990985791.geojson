@@ -1,0 +1,59 @@
+{
+  "id": 990985791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8312089443,40.3437423706,-3.8312089443,40.3437423706",
+    "geom:latitude":40.343742,
+    "geom:longitude":-3.831209,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Cerrajon, 1",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aparcamientos (infraestructuras, Accesorios)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 44 00 02",
+    "sg:postcode":"28921",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1e6MnHwak4VC2VbgopvuTC_40.343742_-3.831209@1306269425"
+    },
+    "wof:country":"ES",
+    "wof:created":1472518108,
+    "wof:geomhash":"93c5de75384a5b96ffd856a64bd083bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":990985791
+        }
+    ],
+    "wof:id":990985791,
+    "wof:lastmodified":1472518108,
+    "wof:name":"A P C C Sociedad Cooperativa Limitada",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8312089443,
+    40.3437423706,
+    -3.8312089443,
+    40.3437423706
+],
+  "geometry": {"coordinates":[-3.8312089443,40.3437423706],"type":"Point"}
+}

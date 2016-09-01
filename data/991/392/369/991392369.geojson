@@ -1,0 +1,78 @@
+{
+  "id": 991392369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.708796978,40.3887481689,-3.708796978,40.3887481689",
+    "geom:latitude":40.388748,
+    "geom:longitude":-3.708797,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de General Marva, 24",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ense\u00d1anza Secundaria: Colegios Y Escuelas Privadas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 69 16 54",
+    "sg:postcode":"28026",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863751,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ray4wRbErPYjvXztdb1qY_40.388748_-3.708797@1306269479"
+    },
+    "wof:country":"ES",
+    "wof:created":1472548268,
+    "wof:geomhash":"397dd257cdc53535733575ec765389d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863751,
+            "region_id":85682783,
+            "venue_id":991392369
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863757,
+            "region_id":85682783,
+            "venue_id":991392369
+        }
+    ],
+    "wof:id":991392369,
+    "wof:lastmodified":1472548268,
+    "wof:name":"Comunidad Autonoma De Madrid-centros De Educacion",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.708796978,
+    40.3887481689,
+    -3.708796978,
+    40.3887481689
+],
+  "geometry": {"coordinates":[-3.708796978,40.3887481689],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 991819013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7210819721,40.3853034973,-3.7210819721,40.3853034973",
+    "geom:latitude":40.385303,
+    "geom:longitude":-3.721082,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Oporto, 18",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 69 74 13",
+    "sg:postcode":"28019",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863759,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A2WfB0sQsPn7lm7FLsJ4u_40.385303_-3.721082@1306269536"
+    },
+    "wof:country":"ES",
+    "wof:created":1472572983,
+    "wof:geomhash":"a64134439397dc771bab69481b273971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863759,
+            "region_id":85682783,
+            "venue_id":991819013
+        }
+    ],
+    "wof:id":991819013,
+    "wof:lastmodified":1472572983,
+    "wof:name":"Gonzalez Baranco Alberto",
+    "wof:parent_id":85863759,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7210819721,
+    40.3853034973,
+    -3.7210819721,
+    40.3853034973
+],
+  "geometry": {"coordinates":[-3.7210819721,40.3853034973],"type":"Point"}
+}

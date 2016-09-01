@@ -1,0 +1,81 @@
+{
+  "id": 991011381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.4247342348,38.9078140259,1.4247342348,38.9078140259",
+    "geom:latitude":38.907814,
+    "geom:longitude":1.424734,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carr Arago, 76",
+    "sg:city":"Eivissa",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 30 05 10",
+    "sg:postcode":"07800",
+    "sg:province":"Islas Baleares",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864237,
+        102191581,
+        404330785,
+        85633129,
+        404227367,
+        101777557,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pRm1ZDsw0DttkZNOJwC6N_38.907814_1.424734@1306269428"
+    },
+    "wof:country":"ES",
+    "wof:created":1472520012,
+    "wof:geomhash":"7661a2b7df31467460e202633b511f64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330785,
+            "locality_id":101777557,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864237,
+            "region_id":85682647,
+            "venue_id":991011381
+        }
+    ],
+    "wof:id":991011381,
+    "wof:lastmodified":1472520012,
+    "wof:name":"Arriba Valbuena Francisco Javier",
+    "wof:parent_id":85864237,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    1.4247342348,
+    38.9078140259,
+    1.4247342348,
+    38.9078140259
+],
+  "geometry": {"coordinates":[1.4247342348,38.9078140259],"type":"Point"}
+}

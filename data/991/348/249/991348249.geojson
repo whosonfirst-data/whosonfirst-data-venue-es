@@ -1,0 +1,65 @@
+{
+  "id": 991348249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.4702539444,40.4623794556,-3.4702539444,40.4623794556",
+    "geom:latitude":40.462379,
+    "geom:longitude":-3.470254,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Veredilla, 19",
+    "sg:city":"Torrejon Ardoz",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cl\u00cdnicas Dentales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 56 19 52",
+    "sg:postcode":"28850",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102545765,
+        85682783,
+        102191581,
+        404339005,
+        85633129,
+        404227387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1n7HkpZkXZvzQdR1I4EoSQ_40.462379_-3.470254@1306269473"
+    },
+    "wof:country":"ES",
+    "wof:created":1472545025,
+    "wof:geomhash":"ef116c5e68c0eb4cc8b93890350f8bd7",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545765,
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339005,
+            "macroregion_id":404227387,
+            "region_id":85682783,
+            "venue_id":991348249
+        }
+    ],
+    "wof:id":991348249,
+    "wof:lastmodified":1472545025,
+    "wof:name":"Clinica Dental San Jose S.l.",
+    "wof:parent_id":102545765,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.4702539444,
+    40.4623794556,
+    -3.4702539444,
+    40.4623794556
+],
+  "geometry": {"coordinates":[-3.4702539444,40.4623794556],"type":"Point"}
+}

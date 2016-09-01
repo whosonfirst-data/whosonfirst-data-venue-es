@@ -1,0 +1,59 @@
+{
+  "id": 1007933053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7901875973,43.4794311523,-3.7901875973,43.4794311523",
+    "geom:latitude":43.479431,
+    "geom:longitude":-3.790188,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Doctor Mara\u00d1on, 1",
+    "sg:city":"Santander",
+    "sg:classifiers":[],
+    "sg:orig_category":"Comercio De Minerales, F\u00d3siles Y Conchas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 27 71 27",
+    "sg:postcode":"39005",
+    "sg:province":"Cantabria",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799303,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28EOYuUghW31RQterNLYii_43.479431_-3.790188@1306269586"
+    },
+    "wof:country":"ES",
+    "wof:created":1472592383,
+    "wof:geomhash":"97132da43fd39fc64bcf572452e1fd60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799303,
+            "region_id":85682833,
+            "venue_id":1007933053
+        }
+    ],
+    "wof:id":1007933053,
+    "wof:lastmodified":1472592383,
+    "wof:name":"Martinez Rabanal Jesus",
+    "wof:parent_id":85799303,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7901875973,
+    43.4794311523,
+    -3.7901875973,
+    43.4794311523
+],
+  "geometry": {"coordinates":[-3.7901875973,43.4794311523],"type":"Point"}
+}

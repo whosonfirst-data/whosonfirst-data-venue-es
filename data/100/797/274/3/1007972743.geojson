@@ -1,0 +1,67 @@
+{
+  "id": 1007972743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8808150291,41.6356925964,-0.8808150291,41.6356925964",
+    "geom:latitude":41.635693,
+    "geom:longitude":-0.880815,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Juan Jose Garate, 12",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Plomeros",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 38 41 05",
+    "sg:postcode":"50007",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863385,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Q6mpHeN7p5TK4oohAZE25_41.635693_-0.880815@1306269591"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594071,
+    "wof:geomhash":"ff3de49fe966fca0087b2e313dea402e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863385,
+            "region_id":85682891,
+            "venue_id":1007972743
+        }
+    ],
+    "wof:id":1007972743,
+    "wof:lastmodified":1472594071,
+    "wof:name":"Medrano Clavero Antonio",
+    "wof:parent_id":85863385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8808150291,
+    41.6356925964,
+    -0.8808150291,
+    41.6356925964
+],
+  "geometry": {"coordinates":[-0.8808150291,41.6356925964],"type":"Point"}
+}

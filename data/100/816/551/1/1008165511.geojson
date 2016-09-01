@@ -1,0 +1,67 @@
+{
+  "id": 1008165511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.6649198532,43.5372962952,-5.6649198532,43.5372962952",
+    "geom:latitude":43.537296,
+    "geom:longitude":-5.66492,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Constitucion, 7",
+    "sg:city":"Gijon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 985 16 20 08",
+    "sg:postcode":"33208",
+    "sg:province":"Asturias",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799415,
+        102191581,
+        404340333,
+        85633129,
+        404227365,
+        101748401,
+        85682805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZNV9srYu5CgjTDrskBqB9_43.537296_-5.664920@1306269617"
+    },
+    "wof:country":"ES",
+    "wof:created":1472603298,
+    "wof:geomhash":"348b9ee713ce923f369e9722e6b821cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404340333,
+            "locality_id":101748401,
+            "macroregion_id":404227365,
+            "neighbourhood_id":85799415,
+            "region_id":85682805,
+            "venue_id":1008165511
+        }
+    ],
+    "wof:id":1008165511,
+    "wof:lastmodified":1472603298,
+    "wof:name":"Paraja De La Riera Francisco Javier",
+    "wof:parent_id":85799415,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.6649198532,
+    43.5372962952,
+    -5.6649198532,
+    43.5372962952
+],
+  "geometry": {"coordinates":[-5.6649198532,43.5372962952],"type":"Point"}
+}

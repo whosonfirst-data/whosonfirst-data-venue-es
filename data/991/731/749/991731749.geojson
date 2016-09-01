@@ -1,0 +1,78 @@
+{
+  "id": 991731749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.67821908,40.4300308228,-3.67821908,40.4300308228",
+    "geom:latitude":40.430031,
+    "geom:longitude":-3.678219,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de General Pardi\u00d1as, 29",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aparcamientos (infraestructuras, Accesorios)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 31 11 17",
+    "sg:postcode":"28006",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863673,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EjzD2FW72OX5TXMkNolNV_40.430031_-3.678219@1306269525"
+    },
+    "wof:country":"ES",
+    "wof:created":1472567076,
+    "wof:geomhash":"6eaaafaa11d83ed52f090ebff9d90724",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863673,
+            "region_id":85682783,
+            "venue_id":991731749
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863675,
+            "region_id":85682783,
+            "venue_id":991731749
+        }
+    ],
+    "wof:id":991731749,
+    "wof:lastmodified":1472567076,
+    "wof:name":"Garajes General Pardi\u00f1as S. A.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.67821908,
+    40.4300308228,
+    -3.67821908,
+    40.4300308228
+],
+  "geometry": {"coordinates":[-3.67821908,40.4300308228],"type":"Point"}
+}

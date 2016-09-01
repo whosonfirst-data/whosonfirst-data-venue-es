@@ -1,0 +1,81 @@
+{
+  "id": 1008463441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1799509525,41.3856544495,2.1799509525,41.3856544495",
+    "geom:latitude":41.385654,
+    "geom:longitude":2.179951,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plce Marcus, 8",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 10 08 60",
+    "sg:postcode":"08003",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799447,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NOT9mwkupt1B81tF437T6_41.385654_2.179951@1306269657"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628447,
+    "wof:geomhash":"0ad187985a144dbe5b65d80fe17202d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799447,
+            "region_id":85682663,
+            "venue_id":1008463441
+        }
+    ],
+    "wof:id":1008463441,
+    "wof:lastmodified":1472628447,
+    "wof:name":"Sanchez Vazquez Mercedes",
+    "wof:parent_id":85799447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    2.1799509525,
+    41.3856544495,
+    2.1799509525,
+    41.3856544495
+],
+  "geometry": {"coordinates":[2.1799509525,41.3856544495],"type":"Point"}
+}

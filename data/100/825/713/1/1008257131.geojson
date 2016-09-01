@@ -1,0 +1,67 @@
+{
+  "id": 1008257131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0764660835,41.3861083984,2.0764660835,41.3861083984",
+    "geom:latitude":41.386108,
+    "geom:longitude":2.076466,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Esglesia, 10",
+    "sg:city":"S. Just Desvern",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grafistas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 73 51 64",
+    "sg:postcode":"08960",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799591,
+        102191581,
+        404331371,
+        85633129,
+        404227379,
+        101758753,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6B1X5rXb3ZsPkUW7tdPFyn_41.386108_2.076466@1306269629"
+    },
+    "wof:country":"ES",
+    "wof:created":1472616405,
+    "wof:geomhash":"675e6b3d2d853b25abbb055b21c60bae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331371,
+            "locality_id":101758753,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799591,
+            "region_id":85682663,
+            "venue_id":1008257131
+        }
+    ],
+    "wof:id":1008257131,
+    "wof:lastmodified":1472616405,
+    "wof:name":"Poll Perez Josep",
+    "wof:parent_id":85799591,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0764660835,
+    41.3861083984,
+    2.0764660835,
+    41.3861083984
+],
+  "geometry": {"coordinates":[2.0764660835,41.3861083984],"type":"Point"}
+}

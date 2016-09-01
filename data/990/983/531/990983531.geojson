@@ -1,0 +1,72 @@
+{
+  "id": 990983531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.7561445236,37.8827323914,-4.7561445236,37.8827323914",
+    "geom:latitude":37.882732,
+    "geom:longitude":-4.756145,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Martin De Porres, 3",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 26 95 46",
+    "sg:postcode":"14010",
+    "sg:province":"C\u00f3rdoba",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863905,
+        102191581,
+        404333687,
+        85633129,
+        404227361,
+        101748233,
+        85682697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pXYkmREP96zgt29ST2u95_37.882732_-4.756145@1306269425"
+    },
+    "wof:country":"ES",
+    "wof:created":1472517941,
+    "wof:geomhash":"80f28b9e5c8601d5b10a4300366d95e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863905,
+            "region_id":85682697,
+            "venue_id":990983531
+        }
+    ],
+    "wof:id":990983531,
+    "wof:lastmodified":1472517941,
+    "wof:name":"Antunez Rodriguez Juan",
+    "wof:parent_id":85863905,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7561445236,
+    37.8827323914,
+    -4.7561445236,
+    37.8827323914
+],
+  "geometry": {"coordinates":[-4.7561445236,37.8827323914],"type":"Point"}
+}

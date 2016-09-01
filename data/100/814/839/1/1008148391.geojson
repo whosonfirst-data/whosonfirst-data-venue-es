@@ -1,0 +1,67 @@
+{
+  "id": 1008148391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1737380028,41.4113235474,2.1737380028,41.4113235474",
+    "geom:latitude":41.411324,
+    "geom:longitude":2.173738,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Trav De Gracia, 396",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Embalajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 50 38 76",
+    "sg:postcode":"08025",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864001,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4b6DKsG3J3jqRvgAvFwiMY_41.411324_2.173738@1306269615"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601772,
+    "wof:geomhash":"c994808c69bfd585b71d3339d09447c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864001,
+            "region_id":85682663,
+            "venue_id":1008148391
+        }
+    ],
+    "wof:id":1008148391,
+    "wof:lastmodified":1472601772,
+    "wof:name":"Pack Service S.a.",
+    "wof:parent_id":85864001,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1737380028,
+    41.4113235474,
+    2.1737380028,
+    41.4113235474
+],
+  "geometry": {"coordinates":[2.1737380028,41.4113235474],"type":"Point"}
+}

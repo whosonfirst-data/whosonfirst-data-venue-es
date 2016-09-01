@@ -1,0 +1,86 @@
+{
+  "id": 1008371935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1524071693,41.3867874146,2.1524071693,41.3867874146",
+    "geom:latitude":41.386787,
+    "geom:longitude":2.152407,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Comte D'urgell, 143",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 22 56 11",
+    "sg:postcode":"08036",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "cemento",
+        "y",
+        "de",
+        "fabricaci\u00d3n",
+        "cal"
+    ],
+    "sg:website":"ww.rodio.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864021,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jRnXuum0eRYCjAuds7lGg_41.386787_2.152407@1306269645"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624441,
+    "wof:geomhash":"d421860a4a4d2ffa816a8b3ee840d614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864021,
+            "region_id":85682663,
+            "venue_id":1008371935
+        }
+    ],
+    "wof:id":1008371935,
+    "wof:lastmodified":1472624441,
+    "wof:name":"Rodio Cimentaciones Especiales S.a.",
+    "wof:parent_id":85864021,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemento",
+        "y",
+        "de",
+        "fabricaci\u00d3n",
+        "cal"
+    ]
+},
+  "bbox": [
+    2.1524071693,
+    41.3867874146,
+    2.1524071693,
+    41.3867874146
+],
+  "geometry": {"coordinates":[2.1524071693,41.3867874146],"type":"Point"}
+}

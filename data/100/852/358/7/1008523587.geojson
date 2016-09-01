@@ -1,0 +1,81 @@
+{
+  "id": 1008523587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7143979073,40.4558410645,-3.7143979073,40.4558410645",
+    "geom:latitude":40.455841,
+    "geom:longitude":-3.714398,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Doctor Federico Rubio Y Gali, 69",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 50 07 06",
+    "sg:postcode":"28040",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863619,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0C7kW4NWpN9JaSK5AHPhwU_40.455841_-3.714398@1306269665"
+    },
+    "wof:country":"ES",
+    "wof:created":1472631003,
+    "wof:geomhash":"0b90473c080ba3b8d58da357da3cb484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863619,
+            "region_id":85682783,
+            "venue_id":1008523587
+        }
+    ],
+    "wof:id":1008523587,
+    "wof:lastmodified":1472631003,
+    "wof:name":"Siles Molina Juan",
+    "wof:parent_id":85863619,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.7143979073,
+    40.4558410645,
+    -3.7143979073,
+    40.4558410645
+],
+  "geometry": {"coordinates":[-3.7143979073,40.4558410645],"type":"Point"}
+}

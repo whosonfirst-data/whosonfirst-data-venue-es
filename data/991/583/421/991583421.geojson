@@ -1,0 +1,81 @@
+{
+  "id": 991583421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.180505991,41.4151954651,2.180505991,41.4151954651",
+    "geom:latitude":41.415195,
+    "geom:longitude":2.180506,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pg Maragall, 39",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 56 49 27",
+    "sg:postcode":"08041",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864001,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ys9ptCgSd5RVCfMkBFsDG_41.415195_2.180506@1306269505"
+    },
+    "wof:country":"ES",
+    "wof:created":1472558846,
+    "wof:geomhash":"dd51b337495ced62b2432c4a18507f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864001,
+            "region_id":85682663,
+            "venue_id":991583421
+        }
+    ],
+    "wof:id":991583421,
+    "wof:lastmodified":1472558846,
+    "wof:name":"Espa\u00f1ol Vi\u00f1as Pedro",
+    "wof:parent_id":85864001,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.180505991,
+    41.4151954651,
+    2.180505991,
+    41.4151954651
+],
+  "geometry": {"coordinates":[2.180505991,41.4151954651],"type":"Point"}
+}

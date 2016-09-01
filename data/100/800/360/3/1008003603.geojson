@@ -1,0 +1,67 @@
+{
+  "id": 1008003603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0431349277,41.3844985962,2.0431349277,41.3844985962",
+    "geom:latitude":41.384499,
+    "geom:longitude":2.043135,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pg Pins, 28",
+    "sg:city":"Sant Feliu Llobregat",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 936 85 02 07",
+    "sg:postcode":"08980",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799381,
+        102191581,
+        404331349,
+        85633129,
+        404227379,
+        101758769,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GknykTBNNHrRg3rLxopA2_41.384499_2.043135@1306269595"
+    },
+    "wof:country":"ES",
+    "wof:created":1472595328,
+    "wof:geomhash":"8ecbe98a5c4152d74e57b44e3e09c795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331349,
+            "locality_id":101758769,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799381,
+            "region_id":85682663,
+            "venue_id":1008003603
+        }
+    ],
+    "wof:id":1008003603,
+    "wof:lastmodified":1472595328,
+    "wof:name":"Mirabel Sanz Felix",
+    "wof:parent_id":85799381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0431349277,
+    41.3844985962,
+    2.0431349277,
+    41.3844985962
+],
+  "geometry": {"coordinates":[2.0431349277,41.3844985962],"type":"Point"}
+}

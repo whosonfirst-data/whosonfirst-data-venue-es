@@ -1,0 +1,59 @@
+{
+  "id": 1008563987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.4623627663,40.445274353,-3.4623627663,40.445274353",
+    "geom:latitude":40.445274,
+    "geom:longitude":-3.462363,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pozo De Las Nieves, 5",
+    "sg:city":"Torrejon Ardoz",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias Y Agentes Comerciales, Representantes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 75 11 13",
+    "sg:postcode":"28850",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863709,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4d0a6QRKQkGggt05jXPdpi_40.445274_-3.462363@1306269670"
+    },
+    "wof:country":"ES",
+    "wof:created":1472632724,
+    "wof:geomhash":"ce8dae39773442cd79bd78b1d1c419ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863709,
+            "region_id":85682783,
+            "venue_id":1008563987
+        }
+    ],
+    "wof:id":1008563987,
+    "wof:lastmodified":1472632724,
+    "wof:name":"Suarez Navarrete Juan Jose",
+    "wof:parent_id":85863709,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.4623627663,
+    40.445274353,
+    -3.4623627663,
+    40.445274353
+],
+  "geometry": {"coordinates":[-3.4623627663,40.445274353],"type":"Point"}
+}

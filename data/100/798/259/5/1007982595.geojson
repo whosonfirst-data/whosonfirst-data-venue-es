@@ -1,0 +1,74 @@
+{
+  "id": 1007982595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5866429806,37.1669006348,-3.5866429806,37.1669006348",
+    "geom:latitude":37.166901,
+    "geom:longitude":-3.586643,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ctra Sierra (de La), 20",
+    "sg:city":"Granada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Empresas De Portes Y Mensajer\u00cda",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 18 33 90",
+    "sg:postcode":"18008",
+    "sg:province":"Granada",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863829,
+        85682731,
+        85863845,
+        102191581,
+        404335211,
+        404227361,
+        101748197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4358JT3MYxHTDrrfF55U9l_37.166901_-3.586643@1306269592"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594445,
+    "wof:geomhash":"55f1e74bd0046ed4e0b9f1c5e0213a0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863829,
+            "region_id":85682731,
+            "venue_id":1007982595
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404335211,
+            "locality_id":101748197,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863845,
+            "region_id":85682731,
+            "venue_id":1007982595
+        }
+    ],
+    "wof:id":1007982595,
+    "wof:lastmodified":1472594445,
+    "wof:name":"Mensajeros 9 A.m S.l",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5866429806,
+    37.1669006348,
+    -3.5866429806,
+    37.1669006348
+],
+  "geometry": {"coordinates":[-3.5866429806,37.1669006348],"type":"Point"}
+}

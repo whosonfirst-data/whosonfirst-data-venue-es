@@ -1,0 +1,59 @@
+{
+  "id": 1008199885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8130879402,40.3547973633,-3.8130879402,40.3547973633",
+    "geom:latitude":40.354797,
+    "geom:longitude":-3.813088,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Constitucion (la), 30",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Peluqueros: De Se\u00d1oras",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 11 19 16",
+    "sg:postcode":"28925",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7igPIyHNhW9dkaLuGqRjuf_40.354797_-3.813088@1306269622"
+    },
+    "wof:country":"ES",
+    "wof:created":1472609505,
+    "wof:geomhash":"5005e62a5caf3b834232647885d3f547",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008199885
+        }
+    ],
+    "wof:id":1008199885,
+    "wof:lastmodified":1472609505,
+    "wof:name":"Peluqueria Del Hierro",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8130879402,
+    40.3547973633,
+    -3.8130879402,
+    40.3547973633
+],
+  "geometry": {"coordinates":[-3.8130879402,40.3547973633],"type":"Point"}
+}

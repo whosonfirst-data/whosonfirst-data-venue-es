@@ -1,0 +1,67 @@
+{
+  "id": 1008442005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1743850708,41.3825187683,2.1743850708,41.3825187683",
+    "geom:latitude":41.382519,
+    "geom:longitude":2.174385,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pl Sant Josep Oriol, 4",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Delineantes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 01 51 94",
+    "sg:postcode":"08002",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864033,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jkd9dZuFh9brn245QgymI_41.382519_2.174385@1306269654"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627640,
+    "wof:geomhash":"e64e055471ec81925401afe24610f8f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864033,
+            "region_id":85682663,
+            "venue_id":1008442005
+        }
+    ],
+    "wof:id":1008442005,
+    "wof:lastmodified":1472627640,
+    "wof:name":"Salvador Avellaneda Pascual",
+    "wof:parent_id":85864033,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1743850708,
+    41.3825187683,
+    2.1743850708,
+    41.3825187683
+],
+  "geometry": {"coordinates":[2.1743850708,41.3825187683],"type":"Point"}
+}

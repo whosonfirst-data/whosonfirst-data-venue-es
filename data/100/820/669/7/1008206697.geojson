@@ -1,0 +1,68 @@
+{
+  "id": 1008206697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1957008839,41.4050521851,2.1957008839,41.4050521851",
+    "geom:latitude":41.405052,
+    "geom:longitude":2.195701,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rbla Poblenou, 137",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 20 82 40",
+    "sg:postcode":"08018",
+    "sg:province":"Barcelona",
+    "sg:website":"www.perserr.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799265,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24T5oOYBbSgygGj2Im9z5n_41.405052_2.195701@1306269623"
+    },
+    "wof:country":"ES",
+    "wof:created":1472611051,
+    "wof:geomhash":"1333837bd02f799e79f5553426ec6662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799265,
+            "region_id":85682663,
+            "venue_id":1008206697
+        }
+    ],
+    "wof:id":1008206697,
+    "wof:lastmodified":1472611051,
+    "wof:name":"Pere Serra Arquitectura Sl",
+    "wof:parent_id":85799265,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1957008839,
+    41.4050521851,
+    2.1957008839,
+    41.4050521851
+],
+  "geometry": {"coordinates":[2.1957008839,41.4050521851],"type":"Point"}
+}

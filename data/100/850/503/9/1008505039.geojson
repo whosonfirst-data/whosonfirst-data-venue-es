@@ -1,0 +1,67 @@
+{
+  "id": 1008505039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6733570099,40.3824615479,-3.6733570099,40.3824615479",
+    "geom:latitude":40.382462,
+    "geom:longitude":-3.673357,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Cerro De La Alcazaba, 52",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 07 12 34",
+    "sg:postcode":"28053",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863729,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UX3HazBf2DW320xBSk4tM_40.382462_-3.673357@1306269663"
+    },
+    "wof:country":"ES",
+    "wof:created":1472630237,
+    "wof:geomhash":"98012cd210207cd6d619126cc511791b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863729,
+            "region_id":85682783,
+            "venue_id":1008505039
+        }
+    ],
+    "wof:id":1008505039,
+    "wof:lastmodified":1472630237,
+    "wof:name":"Serrano Iglesias Carmen",
+    "wof:parent_id":85863729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6733570099,
+    40.3824615479,
+    -3.6733570099,
+    40.3824615479
+],
+  "geometry": {"coordinates":[-3.6733570099,40.3824615479],"type":"Point"}
+}

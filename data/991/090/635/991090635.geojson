@@ -1,0 +1,80 @@
+{
+  "id": 991090635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1088869572,41.3855400085,2.1088869572,41.3855400085",
+    "geom:latitude":41.38554,
+    "geom:longitude":2.108887,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Gonzalez Tablas, 13",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c9dicos: Psiquiatr\u00cda",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 04 89 57",
+    "sg:postcode":"08034",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799283,
+        102191581,
+        404331105,
+        85633129,
+        404227379,
+        101748333,
+        85682663,
+        85799381,
+        404331349,
+        101758769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6q3YTEqw7ADcy9husintox_41.385540_2.108887@1306269439"
+    },
+    "wof:country":"ES",
+    "wof:created":1472526074,
+    "wof:geomhash":"71091383368ae6ff26173b0e2eb81583",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331105,
+            "locality_id":101748333,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799283,
+            "region_id":85682663,
+            "venue_id":991090635
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331349,
+            "locality_id":101758769,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799381,
+            "region_id":85682663,
+            "venue_id":991090635
+        }
+    ],
+    "wof:id":991090635,
+    "wof:lastmodified":1472526074,
+    "wof:name":"Badosa Anton Juan Manuel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1088869572,
+    41.3855400085,
+    2.1088869572,
+    41.3855400085
+],
+  "geometry": {"coordinates":[2.1088869572,41.3855400085],"type":"Point"}
+}

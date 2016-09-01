@@ -1,0 +1,67 @@
+{
+  "id": 1007932967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1865980625,41.4308280945,2.1865980625,41.4308280945",
+    "geom:latitude":41.430828,
+    "geom:longitude":2.186598,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Llenguadoc, 72",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aparatos, Sistemas De Tele",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 11 66 71",
+    "sg:postcode":"08030",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863995,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_739SmNYk2Uzz6hnbsNTRfR_41.430828_2.186598@1306269586"
+    },
+    "wof:country":"ES",
+    "wof:created":1472592379,
+    "wof:geomhash":"a7236f60ed8e145403a5f40c8371881b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863995,
+            "region_id":85682663,
+            "venue_id":1007932967
+        }
+    ],
+    "wof:id":1007932967,
+    "wof:lastmodified":1472592379,
+    "wof:name":"Martinez Purja Jorge",
+    "wof:parent_id":85863995,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1865980625,
+    41.4308280945,
+    2.1865980625,
+    41.4308280945
+],
+  "geometry": {"coordinates":[2.1865980625,41.4308280945],"type":"Point"}
+}

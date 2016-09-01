@@ -1,0 +1,72 @@
+{
+  "id": 1008645841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.4369339943,38.9103965759,1.4369339943,38.9103965759",
+    "geom:latitude":38.910397,
+    "geom:longitude":1.436934,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carr Lluis Tur I Palau, 1",
+    "sg:city":"Eivissa",
+    "sg:classifiers":[],
+    "sg:orig_category":"Transportes Mar\u00cdtimos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 31 50 50",
+    "sg:postcode":"07800",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101777557,
+        85864235,
+        85864231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BCEpTvDQ05QXKEb9Kxh5z_38.910397_1.436934@1306269681"
+    },
+    "wof:country":"ES",
+    "wof:created":1472636231,
+    "wof:geomhash":"46e96c225c65c239a9418baedf5f62c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101777557,
+            "neighbourhood_id":85864235,
+            "region_id":-1,
+            "venue_id":1008645841
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101777557,
+            "neighbourhood_id":85864231,
+            "region_id":-1,
+            "venue_id":1008645841
+        }
+    ],
+    "wof:id":1008645841,
+    "wof:lastmodified":1472636231,
+    "wof:name":"Transcoma Baleares S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.4369339943,
+    38.9103965759,
+    1.4369339943,
+    38.9103965759
+],
+  "geometry": {"coordinates":[1.4369339943,38.9103965759],"type":"Point"}
+}

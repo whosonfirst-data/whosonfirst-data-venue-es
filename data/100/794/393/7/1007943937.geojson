@@ -1,0 +1,74 @@
+{
+  "id": 1007943937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.5026211739,36.6652832031,-4.5026211739,36.6652832031",
+    "geom:latitude":36.665283,
+    "geom:longitude":-4.502621,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Psaj San Javier, 13",
+    "sg:city":"Churriana",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 62 10 39",
+    "sg:postcode":"29140",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102545707,
+        85863531,
+        102191581,
+        404339241,
+        85633129,
+        404227361,
+        101748185,
+        85682787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n7Q24jUryqjzaG9Ck6FBR_36.665283_-4.502621@1306269588"
+    },
+    "wof:country":"ES",
+    "wof:created":1472592866,
+    "wof:geomhash":"35753561d7c95209c2b782d42c052fe4",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545707,
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863531,
+            "region_id":85682787,
+            "venue_id":1007943937
+        }
+    ],
+    "wof:id":1007943937,
+    "wof:lastmodified":1472592866,
+    "wof:name":"Martin Moreno Jose",
+    "wof:parent_id":102545707,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.5026211739,
+    36.6652832031,
+    -4.5026211739,
+    36.6652832031
+],
+  "geometry": {"coordinates":[-4.5026211739,36.6652832031],"type":"Point"}
+}

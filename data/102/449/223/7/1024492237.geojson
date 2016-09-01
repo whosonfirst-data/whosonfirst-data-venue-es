@@ -1,0 +1,79 @@
+{
+  "id": 1024492237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7022669315,40.4384384155,-3.7022669315,40.4384384155",
+    "geom:latitude":40.438438,
+    "geom:longitude":-3.702267,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Jose Abascal, 2",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Productos Qu\u00cdmicos (fabricaci\u00d3n, Al Por Mayor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 44 45 00",
+    "sg:postcode":"28003",
+    "sg:province":"Madrid",
+    "sg:website":"www.zeltia.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863653,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xhzj7joRGJiVha7w7JWMk_40.438438_-3.702267@1306269697"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641296,
+    "wof:geomhash":"e7ca387ad45abc6c7cdc2a6f6edf18dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863653,
+            "region_id":85682783,
+            "venue_id":1024492237
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863661,
+            "region_id":85682783,
+            "venue_id":1024492237
+        }
+    ],
+    "wof:id":1024492237,
+    "wof:lastmodified":1472641296,
+    "wof:name":"Zeltia S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7022669315,
+    40.4384384155,
+    -3.7022669315,
+    40.4384384155
+],
+  "geometry": {"coordinates":[-3.7022669315,40.4384384155],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1008386029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.5283818245,40.6012954712,-6.5283818245,40.6012954712",
+    "geom:latitude":40.601295,
+    "geom:longitude":-6.528382,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Juan, 8",
+    "sg:city":"Ciudad Rodrigo",
+    "sg:classifiers":[],
+    "sg:orig_category":"Zapatos (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 923 46 25 45",
+    "sg:postcode":"37500",
+    "sg:province":"Salamanca",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799165,
+        102191581,
+        404341313,
+        85633129,
+        404227373,
+        101775943,
+        85682829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5q8tljy35CZfyleXeF9XnS_40.601295_-6.528382@1306269647"
+    },
+    "wof:country":"ES",
+    "wof:created":1472625082,
+    "wof:geomhash":"d94fe33eb4381b98818017c748f30bdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404341313,
+            "locality_id":101775943,
+            "macroregion_id":404227373,
+            "neighbourhood_id":85799165,
+            "region_id":85682829,
+            "venue_id":1008386029
+        }
+    ],
+    "wof:id":1008386029,
+    "wof:lastmodified":1472625082,
+    "wof:name":"Rodriguez Patino Francisco",
+    "wof:parent_id":85799165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.5283818245,
+    40.6012954712,
+    -6.5283818245,
+    40.6012954712
+],
+  "geometry": {"coordinates":[-6.5283818245,40.6012954712],"type":"Point"}
+}

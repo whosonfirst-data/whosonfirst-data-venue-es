@@ -1,0 +1,59 @@
+{
+  "id": 1007840317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1730461121,41.3986625671,2.1730461121,41.3986625671",
+    "geom:latitude":41.398663,
+    "geom:longitude":2.173046,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Roger De Flor, 188",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Molduras, Junquillos, Listones Y Molduras Perforadas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 58 22 43",
+    "sg:postcode":"08013",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zJALPo1D4JHsqC7QUxGzH_41.398663_2.173046@1306269575"
+    },
+    "wof:country":"ES",
+    "wof:created":1472588224,
+    "wof:geomhash":"be04e3b689e8baad689e9b11fd2ac9a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1007840317
+        }
+    ],
+    "wof:id":1007840317,
+    "wof:lastmodified":1472588224,
+    "wof:name":"Lopez Mendez Jose Luis",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1730461121,
+    41.3986625671,
+    2.1730461121,
+    41.3986625671
+],
+  "geometry": {"coordinates":[2.1730461121,41.3986625671],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 991105725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8846930265,41.6527900696,-0.8846930265,41.6527900696",
+    "geom:latitude":41.65279,
+    "geom:longitude":-0.884693,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Cesar Augusto, 23",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 46 96 80",
+    "sg:postcode":"50004",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863323,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FnPeK5NFR1PQKol4KXhEk_41.652790_-0.884693@1306269441"
+    },
+    "wof:country":"ES",
+    "wof:created":1472527226,
+    "wof:geomhash":"30891f2dd44ad4f482739b49eaf95437",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863323,
+            "region_id":85682891,
+            "venue_id":991105725
+        }
+    ],
+    "wof:id":991105725,
+    "wof:lastmodified":1472527226,
+    "wof:name":"Banc Sabadell S.a.",
+    "wof:parent_id":85863323,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8846930265,
+    41.6527900696,
+    -0.8846930265,
+    41.6527900696
+],
+  "geometry": {"coordinates":[-0.8846930265,41.6527900696],"type":"Point"}
+}

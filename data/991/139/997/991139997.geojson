@@ -1,0 +1,81 @@
+{
+  "id": 991139997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.6561131477,43.5400428772,-5.6561131477,43.5400428772",
+    "geom:latitude":43.540043,
+    "geom:longitude":-5.656113,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Marques De Casa Valdes, 35",
+    "sg:city":"Gijon",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 985 34 98 35",
+    "sg:postcode":"33202",
+    "sg:province":"Asturias",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799415,
+        102191581,
+        404340333,
+        85633129,
+        404227365,
+        101748401,
+        85682805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62m4kYSfvOUYN7nqXmZAAs_43.540043_-5.656113@1306269446"
+    },
+    "wof:country":"ES",
+    "wof:created":1472530733,
+    "wof:geomhash":"755630cbbe2b51f1712bad668e97db57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404340333,
+            "locality_id":101748401,
+            "macroregion_id":404227365,
+            "neighbourhood_id":85799415,
+            "region_id":85682805,
+            "venue_id":991139997
+        }
+    ],
+    "wof:id":991139997,
+    "wof:lastmodified":1472530733,
+    "wof:name":"Bergu\u00f1o Fernandez Luis",
+    "wof:parent_id":85799415,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -5.6561131477,
+    43.5400428772,
+    -5.6561131477,
+    43.5400428772
+],
+  "geometry": {"coordinates":[-5.6561131477,43.5400428772],"type":"Point"}
+}

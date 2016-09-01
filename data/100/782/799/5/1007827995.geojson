@@ -1,0 +1,59 @@
+{
+  "id": 1007827995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6776249409,39.6072845459,2.6776249409,39.6072845459",
+    "geom:latitude":39.607285,
+    "geom:longitude":2.677625,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Setze De Juliol, 37",
+    "sg:city":"Poligon Industrial De Son Castello",
+    "sg:classifiers":[],
+    "sg:orig_category":"Plomeros",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 45 92 19",
+    "sg:postcode":"07009",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864091,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1235HirLAYbwX8sRRRwDMn_39.607285_2.677625@1306269573"
+    },
+    "wof:country":"ES",
+    "wof:created":1472587610,
+    "wof:geomhash":"1e261b3e2cb9ff11c9806dbd5217460f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":1007827995
+        }
+    ],
+    "wof:id":1007827995,
+    "wof:lastmodified":1472587610,
+    "wof:name":"Lopez Abellan Francisco Eusebio",
+    "wof:parent_id":85864091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6776249409,
+    39.6072845459,
+    2.6776249409,
+    39.6072845459
+],
+  "geometry": {"coordinates":[2.6776249409,39.6072845459],"type":"Point"}
+}

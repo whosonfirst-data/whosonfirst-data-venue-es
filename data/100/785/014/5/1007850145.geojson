@@ -1,0 +1,78 @@
+{
+  "id": 1007850145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1721220016,41.4113578796,2.1721220016,41.4113578796",
+    "geom:latitude":41.411358,
+    "geom:longitude":2.172122,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Castillejos, 360",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Retoques De Vestidos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 36 17 15",
+    "sg:postcode":"08025",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864001,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85863999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xXU7hhkWPpYyX6QYGf4Pe_41.411358_2.172122@1306269576"
+    },
+    "wof:country":"ES",
+    "wof:created":1472588732,
+    "wof:geomhash":"a211c6ed37f587458e2dee0cb3891ce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864001,
+            "region_id":85682663,
+            "venue_id":1007850145
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863999,
+            "region_id":85682663,
+            "venue_id":1007850145
+        }
+    ],
+    "wof:id":1007850145,
+    "wof:lastmodified":1472588732,
+    "wof:name":"Lorenzo Nebra Candido",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1721220016,
+    41.4113578796,
+    2.1721220016,
+    41.4113578796
+],
+  "geometry": {"coordinates":[2.1721220016,41.4113578796],"type":"Point"}
+}

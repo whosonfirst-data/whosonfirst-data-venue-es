@@ -1,0 +1,78 @@
+{
+  "id": 1007973409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6006948948,37.1748962402,-3.6006948948,37.1748962402",
+    "geom:latitude":37.174896,
+    "geom:longitude":-3.600695,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Mesones, 37",
+    "sg:city":"Granada",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 26 23 02",
+    "sg:postcode":"18001",
+    "sg:province":"Granada",
+    "sg:tags":[
+        "boutique"
+    ],
+    "sg:website":"www.vo-versionoriginal.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863841,
+        102191581,
+        404335211,
+        85633129,
+        404227361,
+        101748197,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tk5R7TzlXPAR2oXuv56Nh_37.174896_-3.600695@1306269591"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594100,
+    "wof:geomhash":"19ec34ace48e8bb26687348a0fedd18a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404335211,
+            "locality_id":101748197,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863841,
+            "region_id":85682731,
+            "venue_id":1007973409
+        }
+    ],
+    "wof:id":1007973409,
+    "wof:lastmodified":1472594100,
+    "wof:name":"Megias Garcia Enrique",
+    "wof:parent_id":85863841,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boutique"
+    ]
+},
+  "bbox": [
+    -3.6006948948,
+    37.1748962402,
+    -3.6006948948,
+    37.1748962402
+],
+  "geometry": {"coordinates":[-3.6006948948,37.1748962402],"type":"Point"}
+}

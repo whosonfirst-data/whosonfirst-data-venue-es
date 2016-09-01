@@ -1,0 +1,59 @@
+{
+  "id": 1008295199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5786159039,40.4710693359,-3.5786159039,40.4710693359",
+    "geom:latitude":40.471069,
+    "geom:longitude":-3.578616,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Nuestra Se\u00d1ora De Loreto, 5",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tiendas De Grano, Frutas Y Legumbres Secas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 29 33 37",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863589,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XM24SWjx3T5JxauNZSlhO_40.471069_-3.578616@1306269635"
+    },
+    "wof:country":"ES",
+    "wof:created":1472618563,
+    "wof:geomhash":"dd1cef6e351cc3d537d731b3b204543e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863589,
+            "region_id":85682783,
+            "venue_id":1008295199
+        }
+    ],
+    "wof:id":1008295199,
+    "wof:lastmodified":1472618563,
+    "wof:name":"Puigdueta Frades Eugenio",
+    "wof:parent_id":85863589,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5786159039,
+    40.4710693359,
+    -3.5786159039,
+    40.4710693359
+],
+  "geometry": {"coordinates":[-3.5786159039,40.4710693359],"type":"Point"}
+}

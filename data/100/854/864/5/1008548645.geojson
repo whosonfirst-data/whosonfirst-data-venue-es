@@ -1,0 +1,64 @@
+{
+  "id": 1008548645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1799619198,41.586479187,2.1799619198,41.586479187",
+    "geom:latitude":41.586479,
+    "geom:longitude":2.179962,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Catalunya, 231",
+    "sg:city":"Palau-solita I Plegamans",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 938 64 71 25",
+    "sg:postcode":"08184",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799453,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12dntjvK5dXjQQaATtzshu_41.586479_2.179962@1306269668"
+    },
+    "wof:country":"ES",
+    "wof:created":1472632040,
+    "wof:geomhash":"bc35faee585b4f8a5d7dd19f70a957d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799453,
+            "region_id":85682663,
+            "venue_id":1008548645
+        }
+    ],
+    "wof:id":1008548645,
+    "wof:lastmodified":1472632040,
+    "wof:name":"Soley Llargues Benito",
+    "wof:parent_id":85799453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1799619198,
+    41.586479187,
+    2.1799619198,
+    41.586479187
+],
+  "geometry": {"coordinates":[2.1799619198,41.586479187],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1007932735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4917890131,38.387348175,-0.4917890131,38.387348175",
+    "geom:latitude":38.387348,
+    "geom:longitude":-0.491789,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Doctor Albi\u00f1ana, 16",
+    "sg:city":"Villafranqueza",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 17 43 93",
+    "sg:postcode":"03112",
+    "sg:province":"Alicante",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864079,
+        102191581,
+        404329521,
+        85633129,
+        404227381,
+        101753655,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CmrMPKnkpz6s4fG4LZmgf_38.387348_-0.491789@1306269586"
+    },
+    "wof:country":"ES",
+    "wof:created":1472592369,
+    "wof:geomhash":"8832d8a2611bf96668d1f9175c2480eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329521,
+            "locality_id":101753655,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864079,
+            "region_id":85682625,
+            "venue_id":1007932735
+        }
+    ],
+    "wof:id":1007932735,
+    "wof:lastmodified":1472592369,
+    "wof:name":"Martinez Ponce Miguel Angel",
+    "wof:parent_id":85864079,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -0.4917890131,
+    38.387348175,
+    -0.4917890131,
+    38.387348175
+],
+  "geometry": {"coordinates":[-0.4917890131,38.387348175],"type":"Point"}
+}

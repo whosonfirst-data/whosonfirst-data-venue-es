@@ -1,0 +1,78 @@
+{
+  "id": 1008540339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9441680908,43.2588806152,-2.9441680908,43.2588806152",
+    "geom:latitude":43.258881,
+    "geom:longitude":-2.944168,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Eguia General, 22",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asociaciones, Organismos Culturales Y Socioeducativos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 27 59 30",
+    "sg:postcode":"48010",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863927,
+        102191581,
+        404345949,
+        85633129,
+        404227393,
+        101748385,
+        85682879,
+        85863925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RYazBBhC3CkBI9HtvlFql_43.258881_-2.944168@1306269667"
+    },
+    "wof:country":"ES",
+    "wof:created":1472631710,
+    "wof:geomhash":"53781067b9ff07e7dfb58c208d1e5db5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345949,
+            "locality_id":101748385,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863927,
+            "region_id":85682879,
+            "venue_id":1008540339
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345949,
+            "locality_id":101748385,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863925,
+            "region_id":85682879,
+            "venue_id":1008540339
+        }
+    ],
+    "wof:id":1008540339,
+    "wof:lastmodified":1472631710,
+    "wof:name":"Sociedad Gastronomica Cultural Recreativa Bilbotaren Bazkuna",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9441680908,
+    43.2588806152,
+    -2.9441680908,
+    43.2588806152
+],
+  "geometry": {"coordinates":[-2.9441680908,43.2588806152],"type":"Point"}
+}

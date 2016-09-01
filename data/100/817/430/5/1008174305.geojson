@@ -1,0 +1,59 @@
+{
+  "id": 1008174305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4366095066,38.4020843506,-0.4366095066,38.4020843506",
+    "geom:latitude":38.402084,
+    "geom:longitude":-0.43661,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Comandante Seva, 1",
+    "sg:city":"Sant Joan D'alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Iglesia Cat\u00d3lica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 94 10 23",
+    "sg:postcode":"03550",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864073,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37Z8KxSBmMOocl1eBLa8L0_38.402084_-0.436610@1306269618"
+    },
+    "wof:country":"ES",
+    "wof:created":1472604519,
+    "wof:geomhash":"20162228215143d59596e9eed3fe30e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864073,
+            "region_id":85682625,
+            "venue_id":1008174305
+        }
+    ],
+    "wof:id":1008174305,
+    "wof:lastmodified":1472604519,
+    "wof:name":"Parroquia De San Juan Bautista",
+    "wof:parent_id":85864073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4366095066,
+    38.4020843506,
+    -0.4366095066,
+    38.4020843506
+],
+  "geometry": {"coordinates":[-0.4366095066,38.4020843506],"type":"Point"}
+}

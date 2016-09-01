@@ -1,0 +1,59 @@
+{
+  "id": 1008186539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7697548866,40.3417282104,-3.7697548866,40.3417282104",
+    "geom:latitude":40.341728,
+    "geom:longitude":-3.769755,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Mejico, 12",
+    "sg:city":"Leganes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cerrajer\u00cda, Ferrallista",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 80 78 52",
+    "sg:postcode":"28914",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863785,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ouNp3GxOUilm6KxUBb3GL_40.341728_-3.769755@1306269620"
+    },
+    "wof:country":"ES",
+    "wof:created":1472606417,
+    "wof:geomhash":"49e1cc1a5e7180a148d12235b24a3429",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863785,
+            "region_id":85682783,
+            "venue_id":1008186539
+        }
+    ],
+    "wof:id":1008186539,
+    "wof:lastmodified":1472606417,
+    "wof:name":"Pastelero Granado Blas",
+    "wof:parent_id":85863785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7697548866,
+    40.3417282104,
+    -3.7697548866,
+    40.3417282104
+],
+  "geometry": {"coordinates":[-3.7697548866,40.3417282104],"type":"Point"}
+}

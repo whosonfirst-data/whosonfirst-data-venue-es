@@ -1,0 +1,60 @@
+{
+  "id": 991469227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5826656818,40.4522972107,-3.5826656818,40.4522972107",
+    "geom:latitude":40.452297,
+    "geom:longitude":-3.582666,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Castrobarto, 3",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Embalajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 29 53 31",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "sg:website":"www.mercanciaspeligrosas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863589,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_686AkVIDQ3cjTPZezwhigY_40.452297_-3.582666@1306269490"
+    },
+    "wof:country":"ES",
+    "wof:created":1472552771,
+    "wof:geomhash":"0485ce8da9777b7bd463def5fcc8be8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863589,
+            "region_id":85682783,
+            "venue_id":991469227
+        }
+    ],
+    "wof:id":991469227,
+    "wof:lastmodified":1472552771,
+    "wof:name":"Dangerous Goods Packaging S.l.",
+    "wof:parent_id":85863589,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5826656818,
+    40.4522972107,
+    -3.5826656818,
+    40.4522972107
+],
+  "geometry": {"coordinates":[-3.5826656818,40.4522972107],"type":"Point"}
+}

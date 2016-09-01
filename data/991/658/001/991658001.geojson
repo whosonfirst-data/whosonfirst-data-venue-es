@@ -1,0 +1,67 @@
+{
+  "id": 991658001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1575169563,41.4051361084,2.1575169563,41.4051361084",
+    "geom:latitude":41.405136,
+    "geom:longitude":2.157517,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pl Virreina, 3",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 37 42 38",
+    "sg:postcode":"08024",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799393,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FHFTLakShYaKbytpXQ7KI_41.405136_2.157517@1306269515"
+    },
+    "wof:country":"ES",
+    "wof:created":1472563395,
+    "wof:geomhash":"01242ebb9ab5ba4a081d1055bd61e56d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799393,
+            "region_id":85682663,
+            "venue_id":991658001
+        }
+    ],
+    "wof:id":991658001,
+    "wof:lastmodified":1472563395,
+    "wof:name":"Ferrer Mer Enrique",
+    "wof:parent_id":85799393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1575169563,
+    41.4051361084,
+    2.1575169563,
+    41.4051361084
+],
+  "geometry": {"coordinates":[2.1575169563,41.4051361084],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1008050747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1788499355,41.3943214417,2.1788499355,41.3943214417",
+    "geom:latitude":41.394321,
+    "geom:longitude":2.17885,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Roger De Flor, 96",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Carnicer\u00cdas, Carnicer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 45 75 38",
+    "sg:postcode":"08013",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cYGJ1Ycfi2VkMjKOYqy6Q_41.394321_2.178850@1306269601"
+    },
+    "wof:country":"ES",
+    "wof:created":1472597368,
+    "wof:geomhash":"a2e1a1222cd09a1d6435facc89fc34e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008050747
+        }
+    ],
+    "wof:id":1008050747,
+    "wof:lastmodified":1472597368,
+    "wof:name":"Mor Sinobas Vicente",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1788499355,
+    41.3943214417,
+    2.1788499355,
+    41.3943214417
+],
+  "geometry": {"coordinates":[2.1788499355,41.3943214417],"type":"Point"}
+}

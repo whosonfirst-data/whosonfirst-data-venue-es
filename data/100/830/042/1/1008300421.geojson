@@ -1,0 +1,80 @@
+{
+  "id": 1008300421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.9296389818,41.6074638367,-0.9296389818,41.6074638367",
+    "geom:latitude":41.607464,
+    "geom:longitude":-0.929639,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pineta Pol Ind Valdeconsejo, 4",
+    "sg:city":"Cuarte Huerva",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 22 25 45",
+    "sg:postcode":"50410",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "en",
+        "fundiciones"
+    ],
+    "sg:website":"www.pyrotek-inc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863419,
+        102191581,
+        404346911,
+        85633129,
+        404227363,
+        101831079,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Lr3UiMRVmnpVwj0CADGlK_41.607464_-0.929639@1306269635"
+    },
+    "wof:country":"ES",
+    "wof:created":1472620035,
+    "wof:geomhash":"fe9b095fdbc6d0ccede659f5027c725d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404346911,
+            "locality_id":101831079,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863419,
+            "region_id":85682891,
+            "venue_id":1008300421
+        }
+    ],
+    "wof:id":1008300421,
+    "wof:lastmodified":1472620035,
+    "wof:name":"Pyrotek Engineering Materials Limited",
+    "wof:parent_id":85863419,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "en",
+        "fundiciones"
+    ]
+},
+  "bbox": [
+    -0.9296389818,
+    41.6074638367,
+    -0.9296389818,
+    41.6074638367
+],
+  "geometry": {"coordinates":[-0.9296389818,41.6074638367],"type":"Point"}
+}

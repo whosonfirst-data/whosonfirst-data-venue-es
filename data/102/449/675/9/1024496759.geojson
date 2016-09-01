@@ -1,0 +1,86 @@
+{
+  "id": 1024496759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3574186,39.4862314,-0.3574186,39.4862314",
+    "geom:latitude":39.486231,
+    "geom:longitude":-0.357419,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"San Francisco de as\u00eds 2",
+    "sg:city":"Valencia",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"46020",
+    "sg:tags":[
+        "blogs",
+        "advertisments",
+        "influence",
+        "cost",
+        "social-media",
+        "social-ads"
+    ],
+    "sg:website":"http://efectividads.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864215,
+        102191581,
+        404345361,
+        85633129,
+        404227381,
+        101748241,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Wo64YYmp5F1mx6oUryeUh_39.486231_-0.357419@1308163241"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641480,
+    "wof:geomhash":"7d02bf93301f97806059c61319042fa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345361,
+            "locality_id":101748241,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864215,
+            "region_id":85682867,
+            "venue_id":1024496759
+        }
+    ],
+    "wof:id":1024496759,
+    "wof:lastmodified":1472641480,
+    "wof:name":"efectividads",
+    "wof:parent_id":85864215,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "blogs",
+        "advertisments",
+        "influence",
+        "cost",
+        "social-media",
+        "social-ads"
+    ]
+},
+  "bbox": [
+    -0.3574186,
+    39.4862314,
+    -0.3574186,
+    39.4862314
+],
+  "geometry": {"coordinates":[-0.3574186,39.4862314],"type":"Point"}
+}

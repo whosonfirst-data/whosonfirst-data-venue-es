@@ -1,0 +1,79 @@
+{
+  "id": 991469117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9819307327,37.4108314514,-5.9819307327,37.4108314514",
+    "geom:latitude":37.410831,
+    "geom:longitude":-5.981931,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Diego Puerta, 1",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[],
+    "sg:orig_category":"Artes Gr\u00c1ficas, Artes Pl\u00c1sticas (curso)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 36 80 20",
+    "sg:postcode":"41009",
+    "sg:province":"Sevilla",
+    "sg:website":"www.danel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864137,
+        102191581,
+        404342947,
+        85633129,
+        404227361,
+        101748225,
+        85682841,
+        85864139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FcTyEhLJAntMZG9rUKCxM_37.410831_-5.981931@1306269490"
+    },
+    "wof:country":"ES",
+    "wof:created":1472552766,
+    "wof:geomhash":"6225f744247025b31ba0fc44c9afac5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864137,
+            "region_id":85682841,
+            "venue_id":991469117
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864139,
+            "region_id":85682841,
+            "venue_id":991469117
+        }
+    ],
+    "wof:id":991469117,
+    "wof:lastmodified":1472552766,
+    "wof:name":"Danel Grafidix S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.9819307327,
+    37.4108314514,
+    -5.9819307327,
+    37.4108314514
+],
+  "geometry": {"coordinates":[-5.9819307327,37.4108314514],"type":"Point"}
+}

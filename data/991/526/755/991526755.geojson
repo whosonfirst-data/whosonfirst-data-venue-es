@@ -1,0 +1,78 @@
+{
+  "id": 991526755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6525580883,40.4629020691,-3.6525580883,40.4629020691",
+    "geom:latitude":40.462902,
+    "geom:longitude":-3.652558,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Carril Del Conde, 120",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Muebles, Minoristas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 88 94 88",
+    "sg:postcode":"28043",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799409,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52HFdjS1xnqNrcCcIXQvL8_40.462902_-3.652558@1306269497"
+    },
+    "wof:country":"ES",
+    "wof:created":1472555805,
+    "wof:geomhash":"dfcef8b2df811e91ca929ba073fb2822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799409,
+            "region_id":85682783,
+            "venue_id":991526755
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863595,
+            "region_id":85682783,
+            "venue_id":991526755
+        }
+    ],
+    "wof:id":991526755,
+    "wof:lastmodified":1472555805,
+    "wof:name":"Doria Mobiliario S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6525580883,
+    40.4629020691,
+    -3.6525580883,
+    40.4629020691
+],
+  "geometry": {"coordinates":[-3.6525580883,40.4629020691],"type":"Point"}
+}

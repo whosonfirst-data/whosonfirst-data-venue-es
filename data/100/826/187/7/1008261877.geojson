@@ -1,0 +1,61 @@
+{
+  "id": 1008261877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5913391113,40.4532699585,-3.5913391113,40.4532699585",
+    "geom:latitude":40.45327,
+    "geom:longitude":-3.591339,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Canoa, 16",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicios De Higiene Y Peluquer\u00cda Para Perros Y Gatos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 42 78 70",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        102545773,
+        85863587,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7U2hhYHyrn3pYDHsftiAYH_40.453270_-3.591339@1306269630"
+    },
+    "wof:country":"ES",
+    "wof:created":1472616610,
+    "wof:geomhash":"985ff8115219261e49f090b57420568a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545773,
+            "country_id":85633129,
+            "neighbourhood_id":85863587,
+            "region_id":85682783,
+            "venue_id":1008261877
+        }
+    ],
+    "wof:id":1008261877,
+    "wof:lastmodified":1472616610,
+    "wof:name":"Porta Armendariz Francisco Javier",
+    "wof:parent_id":102545773,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5913391113,
+    40.4532699585,
+    -3.5913391113,
+    40.4532699585
+],
+  "geometry": {"coordinates":[-3.5913391113,40.4532699585],"type":"Point"}
+}

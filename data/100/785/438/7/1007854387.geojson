@@ -1,0 +1,78 @@
+{
+  "id": 1007854387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.7920889854,37.8922538757,-4.7920889854,37.8922538757",
+    "geom:latitude":37.892254,
+    "geom:longitude":-4.792089,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ctra Trassierra (extrarradio), 38",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 27 34 91",
+    "sg:postcode":"14011",
+    "sg:province":"C\u00f3rdoba",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863865,
+        102191581,
+        404333687,
+        85633129,
+        404227361,
+        101748233,
+        85682697,
+        85863893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LmknLPAMSZU6F63mjDO49_37.892254_-4.792089@1306269577"
+    },
+    "wof:country":"ES",
+    "wof:created":1472588913,
+    "wof:geomhash":"7715f69e8d4aa284644afc0db6a85ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863865,
+            "region_id":85682697,
+            "venue_id":1007854387
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863893,
+            "region_id":85682697,
+            "venue_id":1007854387
+        }
+    ],
+    "wof:id":1007854387,
+    "wof:lastmodified":1472588913,
+    "wof:name":"Lozano Perales Miguel Angel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7920889854,
+    37.8922538757,
+    -4.7920889854,
+    37.8922538757
+],
+  "geometry": {"coordinates":[-4.7920889854,37.8922538757],"type":"Point"}
+}

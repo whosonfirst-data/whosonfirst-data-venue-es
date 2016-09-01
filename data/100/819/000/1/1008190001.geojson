@@ -1,0 +1,59 @@
+{
+  "id": 1008190001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5232720375,40.4298362732,-3.5232720375,40.4298362732",
+    "geom:latitude":40.429836,
+    "geom:longitude":-3.523272,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pase Pinos (de Los), S/n",
+    "sg:city":"San Fernando De Henares",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asociaciones Y Clubs Deportivos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 71 99 11",
+    "sg:postcode":"28830",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863709,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VSKQdVJ9Y4yDVKaglPji6_40.429836_-3.523272@1306269620"
+    },
+    "wof:country":"ES",
+    "wof:created":1472607253,
+    "wof:geomhash":"4170f22ad3b6b35944880e8fe7770a04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863709,
+            "region_id":85682783,
+            "venue_id":1008190001
+        }
+    ],
+    "wof:id":1008190001,
+    "wof:lastmodified":1472607253,
+    "wof:name":"Patronato Municipal De Cultura Deporte Y Juventud De Coslada",
+    "wof:parent_id":85863709,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5232720375,
+    40.4298362732,
+    -3.5232720375,
+    40.4298362732
+],
+  "geometry": {"coordinates":[-3.5232720375,40.4298362732],"type":"Point"}
+}

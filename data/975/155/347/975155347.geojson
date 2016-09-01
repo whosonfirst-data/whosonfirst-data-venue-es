@@ -1,0 +1,73 @@
+{
+  "id": 975155347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.532743454,40.4245147705,-3.532743454,40.4245147705",
+    "geom:latitude":40.424515,
+    "geom:longitude":-3.532743,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Constitucion (de La), 27",
+    "sg:city":"San Fernando De Henares",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 73 81 46",
+    "sg:postcode":"28830",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863709,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73CcbyYfxcZ8L88qJq64uO_40.424515_-3.532743@1306269411"
+    },
+    "wof:country":"ES",
+    "wof:created":1472507464,
+    "wof:geomhash":"b083a1904b7d0f4e449f737ab3d2400b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863709,
+            "region_id":85682783,
+            "venue_id":975155347
+        }
+    ],
+    "wof:id":975155347,
+    "wof:lastmodified":1472507464,
+    "wof:name":"Acero Baquedano Carlos Jose",
+    "wof:parent_id":85863709,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.532743454,
+    40.4245147705,
+    -3.532743454,
+    40.4245147705
+],
+  "geometry": {"coordinates":[-3.532743454,40.4245147705],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 1008001133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1478409767,41.3718299866,2.1478409767,41.3718299866",
+    "geom:latitude":41.37183,
+    "geom:longitude":2.147841,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Morabos, 4",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 23 29 61",
+    "sg:postcode":"08004",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "obras",
+        "de",
+        "coleccionismo",
+        "compraventa",
+        "arte",
+        "y"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864039,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_090DzAOT3v0MdVUfcdqJGs_41.371830_2.147841@1306269595"
+    },
+    "wof:country":"ES",
+    "wof:created":1472595240,
+    "wof:geomhash":"d6b69e30596e8d1ef1c5f464903e5960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864039,
+            "region_id":85682663,
+            "venue_id":1008001133
+        }
+    ],
+    "wof:id":1008001133,
+    "wof:lastmodified":1472595240,
+    "wof:name":"Ming Productions S.l.",
+    "wof:parent_id":85864039,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "obras",
+        "de",
+        "coleccionismo",
+        "compraventa",
+        "arte",
+        "y"
+    ]
+},
+  "bbox": [
+    2.1478409767,
+    41.3718299866,
+    2.1478409767,
+    41.3718299866
+],
+  "geometry": {"coordinates":[2.1478409767,41.3718299866],"type":"Point"}
+}

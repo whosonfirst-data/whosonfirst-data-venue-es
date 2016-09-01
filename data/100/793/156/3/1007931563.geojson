@@ -1,0 +1,59 @@
+{
+  "id": 1007931563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.628786087,40.5449752808,-3.628786087,40.5449752808",
+    "geom:latitude":40.544975,
+    "geom:longitude":-3.628786,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Sacramento (del), 6",
+    "sg:city":"San Sebastian De Los Reyes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Caf\u00c9s, Bares, Cervecer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 54 12 85",
+    "sg:postcode":"28700",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kyptDdtiC73sFPr7T69Hi_40.544975_-3.628786@1306269586"
+    },
+    "wof:country":"ES",
+    "wof:created":1472592305,
+    "wof:geomhash":"1b2b97a28f77b7ab5fd7b18200897bb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1007931563
+        }
+    ],
+    "wof:id":1007931563,
+    "wof:lastmodified":1472592305,
+    "wof:name":"Martinez Pacheco Rodolfo",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.628786087,
+    40.5449752808,
+    -3.628786087,
+    40.5449752808
+],
+  "geometry": {"coordinates":[-3.628786087,40.5449752808],"type":"Point"}
+}

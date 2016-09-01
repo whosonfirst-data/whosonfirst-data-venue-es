@@ -1,0 +1,59 @@
+{
+  "id": 1008209525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4199658036,39.4774017334,-0.4199658036,39.4774017334",
+    "geom:latitude":39.477402,
+    "geom:longitude":-0.419966,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Cid, 1",
+    "sg:city":"Mislata",
+    "sg:classifiers":[],
+    "sg:orig_category":"Peluquer\u00cdas, Peluquer\u00cda Mixta",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 50 09 57",
+    "sg:postcode":"46920",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799211,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69W9QMDAtHPRC0PdESRw82_39.477402_-0.419966@1306269623"
+    },
+    "wof:country":"ES",
+    "wof:created":1472611704,
+    "wof:geomhash":"b305214d2afb188ba944d79bdecd2f14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799211,
+            "region_id":85682867,
+            "venue_id":1008209525
+        }
+    ],
+    "wof:id":1008209525,
+    "wof:lastmodified":1472611704,
+    "wof:name":"Perez Carrasco Vicente",
+    "wof:parent_id":85799211,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4199658036,
+    39.4774017334,
+    -0.4199658036,
+    39.4774017334
+],
+  "geometry": {"coordinates":[-0.4199658036,39.4774017334],"type":"Point"}
+}

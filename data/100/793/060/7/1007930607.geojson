@@ -1,0 +1,67 @@
+{
+  "id": 1007930607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7004699707,40.4075660706,-3.7004699707,40.4075660706",
+    "geom:latitude":40.407566,
+    "geom:longitude":-3.70047,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Miguel Servet, 1",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 27 77 93",
+    "sg:postcode":"28012",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863793,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Qd5Rb2fa6bRh4Wk40EXCb_40.407566_-3.700470@1306269586"
+    },
+    "wof:country":"ES",
+    "wof:created":1472592262,
+    "wof:geomhash":"b8a78455d76b975223df7e983683d98c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863793,
+            "region_id":85682783,
+            "venue_id":1007930607
+        }
+    ],
+    "wof:id":1007930607,
+    "wof:lastmodified":1472592262,
+    "wof:name":"Martinez Moya Carlos",
+    "wof:parent_id":85863793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7004699707,
+    40.4075660706,
+    -3.7004699707,
+    40.4075660706
+],
+  "geometry": {"coordinates":[-3.7004699707,40.4075660706],"type":"Point"}
+}

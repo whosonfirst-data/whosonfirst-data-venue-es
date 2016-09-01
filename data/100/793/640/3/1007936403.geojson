@@ -1,0 +1,62 @@
+{
+  "id": 1007936403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4777629972,38.3465499878,-0.4777629972,38.3465499878",
+    "geom:latitude":38.34655,
+    "geom:longitude":-0.477763,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Paseito Ramiro, 12",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Aduana",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 14 05 65",
+    "sg:postcode":"03002",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101748211,
+        85864069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28SmY90itG4MoIoN3Xcuww_38.346550_-0.477763@1306269587"
+    },
+    "wof:country":"ES",
+    "wof:created":1472592525,
+    "wof:geomhash":"8dbbc10ad353d8f032ff07794b9304b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748211,
+            "neighbourhood_id":85864069,
+            "region_id":-1,
+            "venue_id":1007936403
+        }
+    ],
+    "wof:id":1007936403,
+    "wof:lastmodified":1472592525,
+    "wof:name":"Martinez Serrano Antonio",
+    "wof:parent_id":85864069,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4777629972,
+    38.3465499878,
+    -0.4777629972,
+    38.3465499878
+],
+  "geometry": {"coordinates":[-0.4777629972,38.3465499878],"type":"Point"}
+}

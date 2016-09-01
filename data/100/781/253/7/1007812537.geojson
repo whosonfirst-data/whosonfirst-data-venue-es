@@ -1,0 +1,78 @@
+{
+  "id": 1007812537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7072460651,40.4123191833,-3.7072460651,40.4123191833",
+    "geom:latitude":40.412319,
+    "geom:longitude":-3.707246,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Estudios, 3",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bazares, Art\u00cdculos De Limpieza Y De Cocina (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 64 29 09",
+    "sg:postcode":"28012",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863793,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HVm2jA6H4kNKYjVXl2A3c_40.412319_-3.707246@1306269572"
+    },
+    "wof:country":"ES",
+    "wof:created":1472586978,
+    "wof:geomhash":"ef306ba5a3f0d228a1b0dd594f950ed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863793,
+            "region_id":85682783,
+            "venue_id":1007812537
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863747,
+            "region_id":85682783,
+            "venue_id":1007812537
+        }
+    ],
+    "wof:id":1007812537,
+    "wof:lastmodified":1472586978,
+    "wof:name":"Liu  Zhen",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7072460651,
+    40.4123191833,
+    -3.7072460651,
+    40.4123191833
+],
+  "geometry": {"coordinates":[-3.7072460651,40.4123191833],"type":"Point"}
+}

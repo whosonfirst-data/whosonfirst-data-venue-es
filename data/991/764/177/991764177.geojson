@@ -1,0 +1,77 @@
+{
+  "id": 991764177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4820410013,38.3448066711,-0.4820410013,38.3448066711",
+    "geom:latitude":38.344807,
+    "geom:longitude":-0.482041,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Rafael Altamira, 13",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Estancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 20 29 88",
+    "sg:postcode":"03002",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864067,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625,
+        85864069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0V9N2R9mube68zrABH3nL4_38.344807_-0.482041@1306269529"
+    },
+    "wof:country":"ES",
+    "wof:created":1472569282,
+    "wof:geomhash":"cd5bf8e8ec04eda1ccd07956e073aaad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864067,
+            "region_id":85682625,
+            "venue_id":991764177
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748211,
+            "neighbourhood_id":85864069,
+            "region_id":-1,
+            "venue_id":991764177
+        }
+    ],
+    "wof:id":991764177,
+    "wof:lastmodified":1472569282,
+    "wof:name":"Garcia-serna Colomina Miguel Javier",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4820410013,
+    38.3448066711,
+    -0.4820410013,
+    38.3448066711
+],
+  "geometry": {"coordinates":[-0.4820410013,38.3448066711],"type":"Point"}
+}

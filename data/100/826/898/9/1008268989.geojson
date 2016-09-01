@@ -1,0 +1,78 @@
+{
+  "id": 1008268989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1610760689,41.4055633545,2.1610760689,41.4055633545",
+    "geom:latitude":41.405563,
+    "geom:longitude":2.161076,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Torrent De Les Flors, 34",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Droguer\u00cdas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 13 38 79",
+    "sg:postcode":"08024",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863999,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85799393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7N96YDNts1v6fl9hdaqIcz_41.405563_2.161076@1306269631"
+    },
+    "wof:country":"ES",
+    "wof:created":1472617040,
+    "wof:geomhash":"1dc73abec6114b504619f944f354b10e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863999,
+            "region_id":85682663,
+            "venue_id":1008268989
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799393,
+            "region_id":85682663,
+            "venue_id":1008268989
+        }
+    ],
+    "wof:id":1008268989,
+    "wof:lastmodified":1472617040,
+    "wof:name":"Prats Nadal Luis",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1610760689,
+    41.4055633545,
+    2.1610760689,
+    41.4055633545
+],
+  "geometry": {"coordinates":[2.1610760689,41.4055633545],"type":"Point"}
+}

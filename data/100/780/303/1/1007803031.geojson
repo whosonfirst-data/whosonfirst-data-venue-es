@@ -1,0 +1,67 @@
+{
+  "id": 1007803031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7123470306,40.3782348633,-3.7123470306,40.3782348633",
+    "geom:latitude":40.378235,
+    "geom:longitude":-3.712347,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Cerro De Los Angeles, 40",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cl\u00cdnicas Dentales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 69 82 60",
+    "sg:postcode":"28026",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863757,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06tmBePb2hNfp6yJFwIw7Q_40.378235_-3.712347@1306269570"
+    },
+    "wof:country":"ES",
+    "wof:created":1472586492,
+    "wof:geomhash":"2aa04eefab030f424f1ec590047f58b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863757,
+            "region_id":85682783,
+            "venue_id":1007803031
+        }
+    ],
+    "wof:id":1007803031,
+    "wof:lastmodified":1472586492,
+    "wof:name":"Leon Valiante Juan De",
+    "wof:parent_id":85863757,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7123470306,
+    40.3782348633,
+    -3.7123470306,
+    40.3782348633
+],
+  "geometry": {"coordinates":[-3.7123470306,40.3782348633],"type":"Point"}
+}

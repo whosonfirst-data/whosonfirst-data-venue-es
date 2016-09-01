@@ -1,0 +1,68 @@
+{
+  "id": 1008647533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1710419655,41.388458252,2.1710419655,41.388458252",
+    "geom:latitude":41.388458,
+    "geom:longitude":2.171042,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rond Sant Pere, 9",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aeropuertos Y Servicios Aeroportuarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 43 52 70",
+    "sg:postcode":"08010",
+    "sg:province":"Barcelona",
+    "sg:website":"www.tap-airportugal.pt",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799447,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SSsVzIXZ79XY9iUZL2LQk_41.388458_2.171042@1306269682"
+    },
+    "wof:country":"ES",
+    "wof:created":1472636300,
+    "wof:geomhash":"f9e90540844ad73ab8981e8ac2d1810b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799447,
+            "region_id":85682663,
+            "venue_id":1008647533
+        }
+    ],
+    "wof:id":1008647533,
+    "wof:lastmodified":1472636300,
+    "wof:name":"Transportes Aereos Portugueses S.a.",
+    "wof:parent_id":85799447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1710419655,
+    41.388458252,
+    2.1710419655,
+    41.388458252
+],
+  "geometry": {"coordinates":[2.1710419655,41.388458252],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1007856743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9473009109,43.25207901,-2.9473009109,43.25207901",
+    "geom:latitude":43.252079,
+    "geom:longitude":-2.947301,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Villabaso Camilo, 25",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[],
+    "sg:orig_category":"Art\u00cdculos De Regalo (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 44 66 78",
+    "sg:postcode":"48002",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863947,
+        85682879,
+        85863927,
+        102191581,
+        404345949,
+        404227393,
+        101748385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BtEXR41cxMtSKQylEH6aT_43.252079_-2.947301@1306269577"
+    },
+    "wof:country":"ES",
+    "wof:created":1472589038,
+    "wof:geomhash":"cde82cea6361124ff876aec8271d58d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863947,
+            "region_id":85682879,
+            "venue_id":1007856743
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345949,
+            "locality_id":101748385,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863927,
+            "region_id":85682879,
+            "venue_id":1007856743
+        }
+    ],
+    "wof:id":1007856743,
+    "wof:lastmodified":1472589038,
+    "wof:name":"Luciano Martin Estrella",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9473009109,
+    43.25207901,
+    -2.9473009109,
+    43.25207901
+],
+  "geometry": {"coordinates":[-2.9473009109,43.25207901],"type":"Point"}
+}

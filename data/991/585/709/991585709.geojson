@@ -1,0 +1,81 @@
+{
+  "id": 991585709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1761939526,41.4464492798,2.1761939526,41.4464492798",
+    "geom:latitude":41.446449,
+    "geom:longitude":2.176194,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Jaume Pinent, 8",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 54 98 70",
+    "sg:postcode":"08042",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799517,
+        102191581,
+        404331425,
+        85633129,
+        404227379,
+        101748345,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mLYMO3MHfUdEqFcgQayIB_41.446449_2.176194@1306269505"
+    },
+    "wof:country":"ES",
+    "wof:created":1472558943,
+    "wof:geomhash":"0d4f55a31ca0150d66ec83f2d883923e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331425,
+            "locality_id":101748345,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799517,
+            "region_id":85682663,
+            "venue_id":991585709
+        }
+    ],
+    "wof:id":991585709,
+    "wof:lastmodified":1472558943,
+    "wof:name":"Espinosa Lopez Salvador",
+    "wof:parent_id":85799517,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.1761939526,
+    41.4464492798,
+    2.1761939526,
+    41.4464492798
+],
+  "geometry": {"coordinates":[2.1761939526,41.4464492798],"type":"Point"}
+}

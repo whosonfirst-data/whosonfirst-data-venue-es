@@ -1,0 +1,89 @@
+{
+  "id": 1008129809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6280729771,40.4182319641,-3.6280729771,40.4182319641",
+    "geom:latitude":40.418232,
+    "geom:longitude":-3.628073,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Nicolas Salmeron, 14",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"Youth",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 13 36 95",
+    "sg:postcode":"28017",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "juventud",
+        "administraci\u00d3n",
+        "la",
+        "en",
+        "deporte",
+        "el",
+        "y"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799553,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cQFKG3mMKQenXqPOyaG1Y_40.418232_-3.628073@1306269612"
+    },
+    "wof:country":"ES",
+    "wof:created":1472600948,
+    "wof:geomhash":"dce348265807a164e42dca8e3a28ce54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799553,
+            "region_id":85682783,
+            "venue_id":1008129809
+        }
+    ],
+    "wof:id":1008129809,
+    "wof:lastmodified":1472600948,
+    "wof:name":"Orden Gutierrez Vicente Jesus",
+    "wof:parent_id":85799553,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "juventud",
+        "administraci\u00d3n",
+        "la",
+        "en",
+        "deporte",
+        "el",
+        "y"
+    ]
+},
+  "bbox": [
+    -3.6280729771,
+    40.4182319641,
+    -3.6280729771,
+    40.4182319641
+],
+  "geometry": {"coordinates":[-3.6280729771,40.4182319641],"type":"Point"}
+}

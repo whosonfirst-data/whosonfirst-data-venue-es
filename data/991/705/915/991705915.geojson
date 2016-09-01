@@ -1,0 +1,60 @@
+{
+  "id": 991705915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6194930077,40.5458145142,-3.6194930077,40.5458145142",
+    "geom:latitude":40.545815,
+    "geom:longitude":-3.619493,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Hoya (de La), 10",
+    "sg:city":"San Sebastian De Los Reyes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Empresarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 54 34 98",
+    "sg:postcode":"28700",
+    "sg:province":"Madrid",
+    "sg:website":"www.fundacionapai.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863585,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZisDaX3FrD5ORlh5kNqqR_40.545815_-3.619493@1306269521"
+    },
+    "wof:country":"ES",
+    "wof:created":1472565736,
+    "wof:geomhash":"da3b72118bd03a67f79c55a62d853528",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863585,
+            "region_id":85682783,
+            "venue_id":991705915
+        }
+    ],
+    "wof:id":991705915,
+    "wof:lastmodified":1472565736,
+    "wof:name":"Fundacion A.p.a.i.",
+    "wof:parent_id":85863585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6194930077,
+    40.5458145142,
+    -3.6194930077,
+    40.5458145142
+],
+  "geometry": {"coordinates":[-3.6194930077,40.5458145142],"type":"Point"}
+}

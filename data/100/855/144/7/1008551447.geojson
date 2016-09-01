@@ -1,0 +1,72 @@
+{
+  "id": 1008551447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7217838764,40.4676589966,-3.7217838764,40.4676589966",
+    "geom:latitude":40.467659,
+    "geom:longitude":-3.721784,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Gerardo, 15",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 16 81 62",
+    "sg:postcode":"28035",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799627,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Dp9C0rB8YDR2WftFcN0TK_40.467659_-3.721784@1306269669"
+    },
+    "wof:country":"ES",
+    "wof:created":1472632169,
+    "wof:geomhash":"054fad5225a3aa1950888d744d5807d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799627,
+            "region_id":85682783,
+            "venue_id":1008551447
+        }
+    ],
+    "wof:id":1008551447,
+    "wof:lastmodified":1472632169,
+    "wof:name":"Somoza Gil Angel",
+    "wof:parent_id":85799627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7217838764,
+    40.4676589966,
+    -3.7217838764,
+    40.4676589966
+],
+  "geometry": {"coordinates":[-3.7217838764,40.4676589966],"type":"Point"}
+}

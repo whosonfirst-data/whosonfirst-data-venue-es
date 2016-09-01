@@ -1,0 +1,79 @@
+{
+  "id": 1007787523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8897899985,41.6426315308,-0.8897899985,41.6426315308",
+    "geom:latitude":41.642632,
+    "geom:longitude":-0.88979,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Genoveva Torres Morales, 1",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Muebles, Minoristas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 25 81 11",
+    "sg:postcode":"50006",
+    "sg:province":"Zaragoza",
+    "sg:website":"www.lara.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863361,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891,
+        85863341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aLLCYS7nWUgfDMc1ZcutU_41.642632_-0.889790@1306269568"
+    },
+    "wof:country":"ES",
+    "wof:created":1472585609,
+    "wof:geomhash":"0ab892421dc839bb9c53681129e1cd20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863361,
+            "region_id":85682891,
+            "venue_id":1007787523
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863341,
+            "region_id":85682891,
+            "venue_id":1007787523
+        }
+    ],
+    "wof:id":1007787523,
+    "wof:lastmodified":1472585609,
+    "wof:name":"Lara Belsue S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8897899985,
+    41.6426315308,
+    -0.8897899985,
+    41.6426315308
+],
+  "geometry": {"coordinates":[-0.8897899985,41.6426315308],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1007803905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1560609341,41.3762283325,2.1560609341,41.3762283325",
+    "geom:latitude":41.376228,
+    "geom:longitude":2.156061,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Mistral, 51",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Molduras, Junquillos, Listones Y Molduras Perforadas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 23 77 32",
+    "sg:postcode":"08015",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864037,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fIxEENrtdZ8U5NUkxuaY9_41.376228_2.156061@1306269570"
+    },
+    "wof:country":"ES",
+    "wof:created":1472586537,
+    "wof:geomhash":"3a48930d1432c0cb5da100cc6f626c32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864037,
+            "region_id":85682663,
+            "venue_id":1007803905
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864027,
+            "region_id":85682663,
+            "venue_id":1007803905
+        }
+    ],
+    "wof:id":1007803905,
+    "wof:lastmodified":1472586537,
+    "wof:name":"Les Cativas Scp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1560609341,
+    41.3762283325,
+    2.1560609341,
+    41.3762283325
+],
+  "geometry": {"coordinates":[2.1560609341,41.3762283325],"type":"Point"}
+}

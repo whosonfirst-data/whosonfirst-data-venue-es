@@ -1,0 +1,73 @@
+{
+  "id": 1008678443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8321329951,41.6671867371,-0.8321329951,41.6671867371",
+    "geom:latitude":41.667187,
+    "geom:longitude":-0.832133,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Santa Isabel, 97",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 57 17 01",
+    "sg:postcode":"50016",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863327,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7R7o0tTXiQ2jstrktXSRMr_41.667187_-0.832133@1306269686"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637557,
+    "wof:geomhash":"b470a898ee40a82c06473a5a81b878d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863327,
+            "region_id":85682891,
+            "venue_id":1008678443
+        }
+    ],
+    "wof:id":1008678443,
+    "wof:lastmodified":1472637557,
+    "wof:name":"Use Asin Christian",
+    "wof:parent_id":85863327,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -0.8321329951,
+    41.6671867371,
+    -0.8321329951,
+    41.6671867371
+],
+  "geometry": {"coordinates":[-0.8321329951,41.6671867371],"type":"Point"}
+}

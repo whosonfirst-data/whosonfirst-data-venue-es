@@ -1,0 +1,59 @@
+{
+  "id": 991030291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7797751427,40.3772354126,-3.7797751427,40.3772354126",
+    "geom:latitude":40.377235,
+    "geom:longitude":-3.779775,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Madrigal De La Vera, S/n",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asociaciones, Organismos Culturales Y Socioeducativos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 05 10 20",
+    "sg:postcode":"28044",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1W4nxlFNIBmPIUVjfIFMMy_40.377235_-3.779775@1306269431"
+    },
+    "wof:country":"ES",
+    "wof:created":1472521479,
+    "wof:geomhash":"e2c04a8b3be894f89b84cc2808dc6478",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":991030291
+        }
+    ],
+    "wof:id":991030291,
+    "wof:lastmodified":1472521479,
+    "wof:name":"Asociacion Cultural Atenea",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7797751427,
+    40.3772354126,
+    -3.7797751427,
+    40.3772354126
+],
+  "geometry": {"coordinates":[-3.7797751427,40.3772354126],"type":"Point"}
+}

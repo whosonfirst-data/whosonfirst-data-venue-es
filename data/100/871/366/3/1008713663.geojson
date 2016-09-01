@@ -1,0 +1,68 @@
+{
+  "id": 1008713663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.660326004,39.5816612244,2.660326004,39.5816612244",
+    "geom:latitude":39.581661,
+    "geom:longitude":2.660326,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Eusebi Estada, 60",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 29 90 33",
+    "sg:postcode":"07004",
+    "sg:province":"Islas Baleares",
+    "sg:website":"www.halconviajes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864089,
+        102191581,
+        404330817,
+        85633129,
+        404227367,
+        101748237,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w8JA615l1vGOe7MrtU8Tg_39.581661_2.660326@1306269690"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639168,
+    "wof:geomhash":"51398dbd3273f1d61d9adda501df2db3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864089,
+            "region_id":85682647,
+            "venue_id":1008713663
+        }
+    ],
+    "wof:id":1008713663,
+    "wof:lastmodified":1472639168,
+    "wof:name":"Viajes Halcon S.a.",
+    "wof:parent_id":85864089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.660326004,
+    39.5816612244,
+    2.660326004,
+    39.5816612244
+],
+  "geometry": {"coordinates":[2.660326004,39.5816612244],"type":"Point"}
+}

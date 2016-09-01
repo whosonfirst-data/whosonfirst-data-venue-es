@@ -1,0 +1,78 @@
+{
+  "id": 991575445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7051479816,40.422958374,-3.7051479816,40.422958374",
+    "geom:latitude":40.422958,
+    "geom:longitude":-3.705148,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Madera, 13",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Detectives, Agentes Investigadores Privados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 21 66 49",
+    "sg:postcode":"28004",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863665,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7O25ViE2j4mdCl0W4TsYEd_40.422958_-3.705148@1306269504"
+    },
+    "wof:country":"ES",
+    "wof:created":1472558484,
+    "wof:geomhash":"0577aacdfdf42f0296a6ac32321f5e18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863665,
+            "region_id":85682783,
+            "venue_id":991575445
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863667,
+            "region_id":85682783,
+            "venue_id":991575445
+        }
+    ],
+    "wof:id":991575445,
+    "wof:lastmodified":1472558484,
+    "wof:name":"Escobar Espinosa Luis",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7051479816,
+    40.422958374,
+    -3.7051479816,
+    40.422958374
+],
+  "geometry": {"coordinates":[-3.7051479816,40.422958374],"type":"Point"}
+}

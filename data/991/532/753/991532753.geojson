@@ -1,0 +1,73 @@
+{
+  "id": 991532753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7169079781,40.3121986389,-3.7169079781,40.3121986389",
+    "geom:latitude":40.312199,
+    "geom:longitude":-3.716908,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Aragon, 19",
+    "sg:city":"Getafe",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 82 47 18",
+    "sg:postcode":"28903",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WRPXpMaqyA4MM3MbZXir6_40.312199_-3.716908@1306269498"
+    },
+    "wof:country":"ES",
+    "wof:created":1472556144,
+    "wof:geomhash":"360d206ff899b9117474852cebb5c986",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":991532753
+        }
+    ],
+    "wof:id":991532753,
+    "wof:lastmodified":1472556144,
+    "wof:name":"Duran Jimenez Francisco",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.7169079781,
+    40.3121986389,
+    -3.7169079781,
+    40.3121986389
+],
+  "geometry": {"coordinates":[-3.7169079781,40.3121986389],"type":"Point"}
+}

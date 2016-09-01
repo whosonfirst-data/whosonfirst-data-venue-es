@@ -1,0 +1,83 @@
+{
+  "id": 990972795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.5260286331,40.5990753174,-6.5260286331,40.5990753174",
+    "geom:latitude":40.599075,
+    "geom:longitude":-6.526029,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Lazaro, 33",
+    "sg:city":"Ciudad Rodrigo",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 923 46 17 79",
+    "sg:postcode":"37500",
+    "sg:province":"Salamanca",
+    "sg:tags":[
+        "bodega",
+        "de",
+        "vino",
+        "acondicionamiento"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799165,
+        102191581,
+        404341313,
+        85633129,
+        404227373,
+        101775943,
+        85682829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MnTrYB1TWyfSmRdCaghM4_40.599075_-6.526029@1306269423"
+    },
+    "wof:country":"ES",
+    "wof:created":1472517052,
+    "wof:geomhash":"67fe99b83386329c0e9f874940ae9b67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404341313,
+            "locality_id":101775943,
+            "macroregion_id":404227373,
+            "neighbourhood_id":85799165,
+            "region_id":85682829,
+            "venue_id":990972795
+        }
+    ],
+    "wof:id":990972795,
+    "wof:lastmodified":1472517052,
+    "wof:name":"Andres Perez Santiago",
+    "wof:parent_id":85799165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bodega",
+        "de",
+        "vino",
+        "acondicionamiento"
+    ]
+},
+  "bbox": [
+    -6.5260286331,
+    40.5990753174,
+    -6.5260286331,
+    40.5990753174
+],
+  "geometry": {"coordinates":[-6.5260286331,40.5990753174],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1008712419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7056109905,40.433052063,-3.7056109905,40.433052063",
+    "geom:latitude":40.433052,
+    "geom:longitude":-3.705611,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Magallanes, 3",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 93 42 39",
+    "sg:postcode":"28015",
+    "sg:province":"Madrid",
+    "sg:website":"www.viajeselcorteingles.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863661,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cERaGKyS3AcI2gzEJGc9d_40.433052_-3.705611@1306269690"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639105,
+    "wof:geomhash":"3dc1cd2674cbc39701852d7ebb9ed237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863661,
+            "region_id":85682783,
+            "venue_id":1008712419
+        }
+    ],
+    "wof:id":1008712419,
+    "wof:lastmodified":1472639105,
+    "wof:name":"Viajes El Corte Ingles S.a.",
+    "wof:parent_id":85863661,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7056109905,
+    40.433052063,
+    -3.7056109905,
+    40.433052063
+],
+  "geometry": {"coordinates":[-3.7056109905,40.433052063],"type":"Point"}
+}

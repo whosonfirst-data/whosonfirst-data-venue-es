@@ -1,0 +1,81 @@
+{
+  "id": 1008673829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-1.7936140299,43.3698997498,-1.7936140299,43.3698997498",
+    "geom:latitude":43.3699,
+    "geom:longitude":-1.793614,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Itsasargi Kalea, 14",
+    "sg:city":"Portua",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 943 64 11 49",
+    "sg:postcode":"20280",
+    "sg:province":"Guip\u00f9zcoa",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102545785,
+        85682741,
+        102191581,
+        404336163,
+        85633129,
+        404227393,
+        101753809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MDvXihNHiiiMvyFBz8A26_43.369900_-1.793614@1306269685"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637349,
+    "wof:geomhash":"898693c1d91f3958288c2e202c8ac2c7",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545785,
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404336163,
+            "locality_id":101753809,
+            "macroregion_id":404227393,
+            "region_id":85682741,
+            "venue_id":1008673829
+        }
+    ],
+    "wof:id":1008673829,
+    "wof:lastmodified":1472637349,
+    "wof:name":"Uranga Dorronsoro Jose Luis",
+    "wof:parent_id":102545785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -1.7936140299,
+    43.3698997498,
+    -1.7936140299,
+    43.3698997498
+],
+  "geometry": {"coordinates":[-1.7936140299,43.3698997498],"type":"Point"}
+}

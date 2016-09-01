@@ -1,0 +1,67 @@
+{
+  "id": 1008182929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1791195869,41.421661377,2.1791195869,41.421661377",
+    "geom:latitude":41.421661,
+    "geom:longitude":2.17912,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de L'art, 3",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Partidos Pol\u00cdticos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 08 51 61",
+    "sg:postcode":"08041",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863995,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16gsjrUu5NVRhHCkdrPLSD_41.421661_2.179120@1306269619"
+    },
+    "wof:country":"ES",
+    "wof:created":1472605602,
+    "wof:geomhash":"12b0db7287c2da934b932e1a2a7c4516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863995,
+            "region_id":85682663,
+            "venue_id":1008182929
+        }
+    ],
+    "wof:id":1008182929,
+    "wof:lastmodified":1472605602,
+    "wof:name":"Partit Socialista De Catalunya",
+    "wof:parent_id":85863995,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1791195869,
+    41.421661377,
+    2.1791195869,
+    41.421661377
+],
+  "geometry": {"coordinates":[2.1791195869,41.421661377],"type":"Point"}
+}

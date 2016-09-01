@@ -1,0 +1,60 @@
+{
+  "id": 1008194057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4280799925,38.3559608459,-0.4280799925,38.3559608459",
+    "geom:latitude":38.355961,
+    "geom:longitude":-0.42808,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Costa Blanca, 42",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Higiene, Belleza: Art\u00cdculos (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 15 69 35",
+    "sg:postcode":"03540",
+    "sg:province":"Alicante",
+    "sg:website":"www.pecoso.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864061,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6M05hTHw1jvsHCZeaBCkea_38.355961_-0.428080@1306269621"
+    },
+    "wof:country":"ES",
+    "wof:created":1472608178,
+    "wof:geomhash":"3ce8b1020568b78b32d9475c9a6cab33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864061,
+            "region_id":85682625,
+            "venue_id":1008194057
+        }
+    ],
+    "wof:id":1008194057,
+    "wof:lastmodified":1472608178,
+    "wof:name":"Pecoso S. L.",
+    "wof:parent_id":85864061,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4280799925,
+    38.3559608459,
+    -0.4280799925,
+    38.3559608459
+],
+  "geometry": {"coordinates":[-0.4280799925,38.3559608459],"type":"Point"}
+}

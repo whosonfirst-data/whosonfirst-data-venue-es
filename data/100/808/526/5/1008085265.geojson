@@ -1,0 +1,81 @@
+{
+  "id": 1008085265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.607047081,37.1773223877,-3.607047081,37.1773223877",
+    "geom:latitude":37.177322,
+    "geom:longitude":-3.607047,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Martinez De La Rosa, 4",
+    "sg:city":"Granada",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 28 59 03",
+    "sg:postcode":"18002",
+    "sg:province":"Granada",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863841,
+        102191581,
+        404335211,
+        85633129,
+        404227361,
+        101748197,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jggwBcPqmtLJ4Yum1sium_37.177322_-3.607047@1306269606"
+    },
+    "wof:country":"ES",
+    "wof:created":1472598877,
+    "wof:geomhash":"e9d57be99a014056078b043f903f9748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404335211,
+            "locality_id":101748197,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863841,
+            "region_id":85682731,
+            "venue_id":1008085265
+        }
+    ],
+    "wof:id":1008085265,
+    "wof:lastmodified":1472598877,
+    "wof:name":"Navarro Morillo Jose Manuel",
+    "wof:parent_id":85863841,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.607047081,
+    37.1773223877,
+    -3.607047081,
+    37.1773223877
+],
+  "geometry": {"coordinates":[-3.607047081,37.1773223877],"type":"Point"}
+}

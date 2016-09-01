@@ -1,0 +1,59 @@
+{
+  "id": 1008415549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.746694088,40.2585868835,-3.746694088,40.2585868835",
+    "geom:latitude":40.258587,
+    "geom:longitude":-3.746694,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Felipe Asenjo, 49",
+    "sg:city":"Fuenlabrada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Rectificaci\u00d3n, Mecanizado, Fresado",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 42 03 96",
+    "sg:postcode":"28947",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3c9KMfMaqIhhxwKx7suQMl_40.258587_-3.746694@1306269651"
+    },
+    "wof:country":"ES",
+    "wof:created":1472626494,
+    "wof:geomhash":"100bedb78504f037be04781cdcfd79a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1008415549
+        }
+    ],
+    "wof:id":1008415549,
+    "wof:lastmodified":1472626494,
+    "wof:name":"Rubio Vaquero Guillermo",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.746694088,
+    40.2585868835,
+    -3.746694088,
+    40.2585868835
+],
+  "geometry": {"coordinates":[-3.746694088,40.2585868835],"type":"Point"}
+}

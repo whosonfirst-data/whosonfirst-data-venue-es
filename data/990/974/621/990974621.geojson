@@ -1,0 +1,68 @@
+{
+  "id": 990974621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1350119114,41.3473510742,2.1350119114,41.3473510742",
+    "geom:latitude":41.347351,
+    "geom:longitude":2.135012,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Motors, 42",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Transporte En General",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 23 25 58",
+    "sg:postcode":"08040",
+    "sg:province":"Barcelona",
+    "sg:website":"www.anfetrans.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799225,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HmErByTNGv1Ae0n3orLaU_41.347351_2.135012@1306269424"
+    },
+    "wof:country":"ES",
+    "wof:created":1472517247,
+    "wof:geomhash":"6fb8cf96cdabc913815ab158b4782ca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799225,
+            "region_id":85682663,
+            "venue_id":990974621
+        }
+    ],
+    "wof:id":990974621,
+    "wof:lastmodified":1472517247,
+    "wof:name":"Anfetrans S.l.",
+    "wof:parent_id":85799225,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1350119114,
+    41.3473510742,
+    2.1350119114,
+    41.3473510742
+],
+  "geometry": {"coordinates":[2.1350119114,41.3473510742],"type":"Point"}
+}

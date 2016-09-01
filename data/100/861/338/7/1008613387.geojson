@@ -1,0 +1,82 @@
+{
+  "id": 1008613387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7995591164,40.4140052795,-3.7995591164,40.4140052795",
+    "geom:latitude":40.414005,
+    "geom:longitude":-3.799559,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Prado Del Rey, S/n",
+    "sg:city":"Humera-somosaguas-prado Del Rey",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 46 30 00",
+    "sg:postcode":"28223",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "televisiones",
+        "y",
+        "radio"
+    ],
+    "sg:website":"www.rtve.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863801,
+        102191581,
+        404338935,
+        85633129,
+        404227387,
+        101753753,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lxX7kLJWSStHLd2PVawuf_40.414005_-3.799559@1306269677"
+    },
+    "wof:country":"ES",
+    "wof:created":1472634846,
+    "wof:geomhash":"220256a19c96a5107d14d852b3a3523a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338935,
+            "locality_id":101753753,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863801,
+            "region_id":85682783,
+            "venue_id":1008613387
+        }
+    ],
+    "wof:id":1008613387,
+    "wof:lastmodified":1472634846,
+    "wof:name":"Television Espa\u00d1ola S.a.",
+    "wof:parent_id":85863801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "televisiones",
+        "y",
+        "radio"
+    ]
+},
+  "bbox": [
+    -3.7995591164,
+    40.4140052795,
+    -3.7995591164,
+    40.4140052795
+],
+  "geometry": {"coordinates":[-3.7995591164,40.4140052795],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1007948757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6462650299,39.585975647,2.6462650299,39.585975647",
+    "geom:latitude":39.585976,
+    "geom:longitude":2.646265,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de General Riera, 82",
+    "sg:city":"Palma",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 29 69 47",
+    "sg:postcode":"07010",
+    "sg:province":"Islas Baleares",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864091,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75IdTrg4bZyMnetnZ2JTgC_39.585976_2.646265@1306269588"
+    },
+    "wof:country":"ES",
+    "wof:created":1472593081,
+    "wof:geomhash":"9a1b7e643cbf04ab1b8eb9b88f83aaac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":1007948757
+        }
+    ],
+    "wof:id":1007948757,
+    "wof:lastmodified":1472593081,
+    "wof:name":"Martorell Moragues Lorenzo",
+    "wof:parent_id":85864091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.6462650299,
+    39.585975647,
+    2.6462650299,
+    39.585975647
+],
+  "geometry": {"coordinates":[2.6462650299,39.585975647],"type":"Point"}
+}

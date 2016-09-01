@@ -1,0 +1,78 @@
+{
+  "id": 1008419383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6250140667,40.4446792603,-3.6250140667,40.4446792603",
+    "geom:latitude":40.444679,
+    "geom:longitude":-3.625014,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Veinticinco De Septiembre, 2",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Estancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 41 00 41",
+    "sg:postcode":"28027",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863633,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RW3a59jTXVh1YqMaHpQ1A_40.444679_-3.625014@1306269651"
+    },
+    "wof:country":"ES",
+    "wof:created":1472626660,
+    "wof:geomhash":"51a821833ed83aaaedcce50d74d39e11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863633,
+            "region_id":85682783,
+            "venue_id":1008419383
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863625,
+            "region_id":85682783,
+            "venue_id":1008419383
+        }
+    ],
+    "wof:id":1008419383,
+    "wof:lastmodified":1472626660,
+    "wof:name":"Ruiz De Lara Redondo Jose Antonio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6250140667,
+    40.4446792603,
+    -3.6250140667,
+    40.4446792603
+],
+  "geometry": {"coordinates":[-3.6250140667,40.4446792603],"type":"Point"}
+}

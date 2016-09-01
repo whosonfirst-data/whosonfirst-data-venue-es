@@ -1,0 +1,59 @@
+{
+  "id": 1008142865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8675940037,40.491191864,-3.8675940037,40.491191864",
+    "geom:latitude":40.491192,
+    "geom:longitude":-3.867594,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Coru\u00d1a, 58",
+    "sg:city":"Rozas De Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros M\u00c9dicos Y Sociales, Dispensarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 36 35 27",
+    "sg:postcode":"28230",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863613,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6imAR1huR93TphoQSi6HzX_40.491192_-3.867594@1306269614"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601514,
+    "wof:geomhash":"cddb463df24104f81e4a5563d873ad2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863613,
+            "region_id":85682783,
+            "venue_id":1008142865
+        }
+    ],
+    "wof:id":1008142865,
+    "wof:lastmodified":1472601514,
+    "wof:name":"Ossum Medicina Fisica S.a.",
+    "wof:parent_id":85863613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8675940037,
+    40.491191864,
+    -3.8675940037,
+    40.491191864
+],
+  "geometry": {"coordinates":[-3.8675940037,40.491191864],"type":"Point"}
+}

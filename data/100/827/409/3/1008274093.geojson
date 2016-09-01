@@ -1,0 +1,73 @@
+{
+  "id": 1008274093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1424710751,41.3966789246,2.1424710751,41.3966789246",
+    "geom:latitude":41.396679,
+    "geom:longitude":2.142471,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Amigo, 67",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 09 13 52",
+    "sg:postcode":"08021",
+    "sg:province":"Barcelona",
+    "sg:website":"www.autoescuelaamigo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799611,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YhfYTv3e7eGBMpXPj3quN_41.396679_2.142471@1306269632"
+    },
+    "wof:country":"ES",
+    "wof:created":1472617300,
+    "wof:geomhash":"0526f230899799fc241cc28893026b16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799611,
+            "region_id":85682663,
+            "venue_id":1008274093
+        }
+    ],
+    "wof:id":1008274093,
+    "wof:lastmodified":1472617300,
+    "wof:name":"Prieto Vicente Lucas",
+    "wof:parent_id":85799611,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1424710751,
+    41.3966789246,
+    2.1424710751,
+    41.3966789246
+],
+  "geometry": {"coordinates":[2.1424710751,41.3966789246],"type":"Point"}
+}

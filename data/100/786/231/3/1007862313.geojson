@@ -1,0 +1,74 @@
+{
+  "id": 1007862313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.7629780769,37.8974304199,-4.7629780769,37.8974304199",
+    "geom:latitude":37.89743,
+    "geom:longitude":-4.762978,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Carlos Iii (de), 11",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electrodom\u00c9sticos (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 25 91 84",
+    "sg:postcode":"14014",
+    "sg:province":"C\u00f3rdoba",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863895,
+        102191581,
+        404333687,
+        85633129,
+        404227361,
+        101748233,
+        85682697,
+        85863899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FheotkCFzNADc1kPMd5jS_37.897430_-4.762978@1306269578"
+    },
+    "wof:country":"ES",
+    "wof:created":1472589335,
+    "wof:geomhash":"8bdc170bb99ceffd3a9a5ed30e98942c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863895,
+            "region_id":85682697,
+            "venue_id":1007862313
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863899,
+            "region_id":85682697,
+            "venue_id":1007862313
+        }
+    ],
+    "wof:id":1007862313,
+    "wof:lastmodified":1472589335,
+    "wof:name":"Lux Direct Espa\u00f1a S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7629780769,
+    37.8974304199,
+    -4.7629780769,
+    37.8974304199
+],
+  "geometry": {"coordinates":[-4.7629780769,37.8974304199],"type":"Point"}
+}

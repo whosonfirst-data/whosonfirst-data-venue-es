@@ -1,0 +1,81 @@
+{
+  "id": 1007905477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4997520149,38.3706436157,-0.4997520149,38.3706436157",
+    "geom:latitude":38.370644,
+    "geom:longitude":-0.499752,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Virgen Del Puig, 20",
+    "sg:city":"Alacant",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 17 35 42",
+    "sg:postcode":"03009",
+    "sg:province":"Alicante",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864083,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pFaKJkNScT1HR8wiyNhn7_38.370644_-0.499752@1306269583"
+    },
+    "wof:country":"ES",
+    "wof:created":1472591100,
+    "wof:geomhash":"1b667e8add3eb97d57d59ca0e316547c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864083,
+            "region_id":85682625,
+            "venue_id":1007905477
+        }
+    ],
+    "wof:id":1007905477,
+    "wof:lastmodified":1472591100,
+    "wof:name":"Mario Alex Y Jose S.c",
+    "wof:parent_id":85864083,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -0.4997520149,
+    38.3706436157,
+    -0.4997520149,
+    38.3706436157
+],
+  "geometry": {"coordinates":[-0.4997520149,38.3706436157],"type":"Point"}
+}

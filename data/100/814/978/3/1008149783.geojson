@@ -1,0 +1,59 @@
+{
+  "id": 1008149783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6528348923,39.5685997009,2.6528348923,39.5685997009",
+    "geom:latitude":39.5686,
+    "geom:longitude":2.652835,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Ramon Llull, 1",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Internados & Ense\u00d1anza Privada",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 72 64 52",
+    "sg:postcode":"07001",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864085,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fYtMMziLy5cXdDDAQPqc9_39.568600_2.652835@1306269615"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601829,
+    "wof:geomhash":"5c8ced2e60dd759166d4d22c67f42824",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864085,
+            "region_id":85682647,
+            "venue_id":1008149783
+        }
+    ],
+    "wof:id":1008149783,
+    "wof:lastmodified":1472601829,
+    "wof:name":"Padres Franciscanos De La Tercera Orden Regular",
+    "wof:parent_id":85864085,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6528348923,
+    39.5685997009,
+    2.6528348923,
+    39.5685997009
+],
+  "geometry": {"coordinates":[2.6528348923,39.5685997009],"type":"Point"}
+}

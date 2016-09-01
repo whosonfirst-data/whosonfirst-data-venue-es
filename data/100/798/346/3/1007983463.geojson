@@ -1,0 +1,59 @@
+{
+  "id": 1007983463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1706030369,41.3933372498,2.1706030369,41.3933372498",
+    "geom:latitude":41.393337,
+    "geom:longitude":2.170603,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Bruc, 57",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Oficinas: Suministros Para (fabricaci\u00d3n, Al Por Mayor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 15 79 15",
+    "sg:postcode":"08009",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18E39AF7bsbgQTFUW6vFMC_41.393337_2.170603@1306269593"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594476,
+    "wof:geomhash":"3bbe0a8c187cccddb750b7d3ae2b85a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1007983463
+        }
+    ],
+    "wof:id":1007983463,
+    "wof:lastmodified":1472594476,
+    "wof:name":"Mercadal Boria Jordi",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1706030369,
+    41.3933372498,
+    2.1706030369,
+    41.3933372498
+],
+  "geometry": {"coordinates":[2.1706030369,41.3933372498],"type":"Point"}
+}

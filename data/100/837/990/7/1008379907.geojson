@@ -1,0 +1,59 @@
+{
+  "id": 1008379907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8241899014,40.3447189331,-3.8241899014,40.3447189331",
+    "geom:latitude":40.344719,
+    "geom:longitude":-3.82419,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Huerta (la), 18",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Droguer\u00cdas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 44 17 12",
+    "sg:postcode":"28921",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1no1WW3yx5PL51DU7bc1nG_40.344719_-3.824190@1306269646"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624755,
+    "wof:geomhash":"76b1954d1bccdc9a7521e78d678d07a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008379907
+        }
+    ],
+    "wof:id":1008379907,
+    "wof:lastmodified":1472624755,
+    "wof:name":"Rodriguez Gomez Alejandro",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8241899014,
+    40.3447189331,
+    -3.8241899014,
+    40.3447189331
+],
+  "geometry": {"coordinates":[-3.8241899014,40.3447189331],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 991874379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6572830677,40.4311256409,-3.6572830677,40.4311256409",
+    "geom:latitude":40.431126,
+    "geom:longitude":-3.657283,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Jose Maria Fernandez Lanseros, 11",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 26 90 52",
+    "sg:postcode":"28017",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863683,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41E8E0FQTL2Nfy4L7yuyL4_40.431126_-3.657283@1306269544"
+    },
+    "wof:country":"ES",
+    "wof:created":1472576146,
+    "wof:geomhash":"1070d5785e05cb2c8ac51e07e281117b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863683,
+            "region_id":85682783,
+            "venue_id":991874379
+        }
+    ],
+    "wof:id":991874379,
+    "wof:lastmodified":1472576146,
+    "wof:name":"Gutierrez Tomas Arturo",
+    "wof:parent_id":85863683,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.6572830677,
+    40.4311256409,
+    -3.6572830677,
+    40.4311256409
+],
+  "geometry": {"coordinates":[-3.6572830677,40.4311256409],"type":"Point"}
+}

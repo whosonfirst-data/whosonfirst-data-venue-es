@@ -1,0 +1,68 @@
+{
+  "id": 1008485209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6023359299,37.1718406677,-3.6023359299,37.1718406677",
+    "geom:latitude":37.171841,
+    "geom:longitude":-3.602336,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Doctor Martin Lagos, 2",
+    "sg:city":"Granada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Seguridad Social",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 26 67 96",
+    "sg:postcode":"18005",
+    "sg:province":"Granada",
+    "sg:website":"www.e-mutua.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863841,
+        102191581,
+        404335211,
+        85633129,
+        404227361,
+        101748197,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gMkmLyGdVgYv9sXiu2xcJ_37.171841_-3.602336@1306269660"
+    },
+    "wof:country":"ES",
+    "wof:created":1472629334,
+    "wof:geomhash":"40c52bba0c5de3556d371d683963cea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404335211,
+            "locality_id":101748197,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863841,
+            "region_id":85682731,
+            "venue_id":1008485209
+        }
+    ],
+    "wof:id":1008485209,
+    "wof:lastmodified":1472629334,
+    "wof:name":"Sat Mutua De Accidentes",
+    "wof:parent_id":85863841,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6023359299,
+    37.1718406677,
+    -3.6023359299,
+    37.1718406677
+],
+  "geometry": {"coordinates":[-3.6023359299,37.1718406677],"type":"Point"}
+}

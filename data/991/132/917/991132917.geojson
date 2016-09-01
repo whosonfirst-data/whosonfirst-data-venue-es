@@ -1,0 +1,81 @@
+{
+  "id": 991132917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0719249249,41.352432251,2.0719249249,41.352432251",
+    "geom:latitude":41.352432,
+    "geom:longitude":2.071925,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Rubio I Ors, 214",
+    "sg:city":"Cornella Llobregat",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 77 04 15",
+    "sg:postcode":"08940",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799381,
+        102191581,
+        404331349,
+        85633129,
+        404227379,
+        101758769,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dqpD2DilGq8L5Tq4G6fm1_41.352432_2.071925@1306269445"
+    },
+    "wof:country":"ES",
+    "wof:created":1472529809,
+    "wof:geomhash":"2b55afba3c1b5db222b6585cd3bde4cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331349,
+            "locality_id":101758769,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799381,
+            "region_id":85682663,
+            "venue_id":991132917
+        }
+    ],
+    "wof:id":991132917,
+    "wof:lastmodified":1472529809,
+    "wof:name":"Beltran Faneca Joan",
+    "wof:parent_id":85799381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.0719249249,
+    41.352432251,
+    2.0719249249,
+    41.352432251
+],
+  "geometry": {"coordinates":[2.0719249249,41.352432251],"type":"Point"}
+}

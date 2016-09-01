@@ -1,0 +1,77 @@
+{
+  "id": 1024460663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1358840466,41.3828010559,2.1358840466,41.3828010559",
+    "geom:latitude":41.382801,
+    "geom:longitude":2.135884,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Comtes De Bell Lloc, 172",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Tea Room",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 90 86 05",
+    "sg:postcode":"08014",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "snack"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799597,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0odvKWBOCIOrDZz1A3HMGF_41.382801_2.135884@1306269693"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639932,
+    "wof:geomhash":"1008ee47830cf52e210db4f5b6af76df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799597,
+            "region_id":85682663,
+            "venue_id":1024460663
+        }
+    ],
+    "wof:id":1024460663,
+    "wof:lastmodified":1472639932,
+    "wof:name":"Villafan Zea Veronica Griselda",
+    "wof:parent_id":85799597,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snack"
+    ]
+},
+  "bbox": [
+    2.1358840466,
+    41.3828010559,
+    2.1358840466,
+    41.3828010559
+],
+  "geometry": {"coordinates":[2.1358840466,41.3828010559],"type":"Point"}
+}

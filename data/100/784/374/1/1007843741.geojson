@@ -1,0 +1,59 @@
+{
+  "id": 1007843741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5306479931,40.4251403809,-3.5306479931,40.4251403809",
+    "geom:latitude":40.42514,
+    "geom:longitude":-3.530648,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Huerta (de La), 3",
+    "sg:city":"San Fernando De Henares",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias Y Agentes Comerciales, Representantes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 72 12 13",
+    "sg:postcode":"28830",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863709,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67WJMUEulUffhGGAQ9nNKJ_40.425140_-3.530648@1306269575"
+    },
+    "wof:country":"ES",
+    "wof:created":1472588395,
+    "wof:geomhash":"60a8c7a79b0c3e454c60d6f1026ba65a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863709,
+            "region_id":85682783,
+            "venue_id":1007843741
+        }
+    ],
+    "wof:id":1007843741,
+    "wof:lastmodified":1472588395,
+    "wof:name":"Lopez-reina Coso Modesto",
+    "wof:parent_id":85863709,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5306479931,
+    40.4251403809,
+    -3.5306479931,
+    40.4251403809
+],
+  "geometry": {"coordinates":[-3.5306479931,40.4251403809],"type":"Point"}
+}

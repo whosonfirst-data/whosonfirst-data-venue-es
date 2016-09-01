@@ -1,0 +1,78 @@
+{
+  "id": 1008712227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8867920041,41.6492958069,-0.8867920041,41.6492958069",
+    "geom:latitude":41.649296,
+    "geom:longitude":-0.886792,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Canfranc, 9",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 22 26 25",
+    "sg:postcode":"50004",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863341,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891,
+        85863361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LU3jDhKqgCT0tMfK2IZ3m_41.649296_-0.886792@1306269690"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639091,
+    "wof:geomhash":"8195955c5ea69f889b5fe1cfac502a46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863341,
+            "region_id":85682891,
+            "venue_id":1008712227
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863361,
+            "region_id":85682891,
+            "venue_id":1008712227
+        }
+    ],
+    "wof:id":1008712227,
+    "wof:lastmodified":1472639091,
+    "wof:name":"Viajes Ecuador S. A.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8867920041,
+    41.6492958069,
+    -0.8867920041,
+    41.6492958069
+],
+  "geometry": {"coordinates":[-0.8867920041,41.6492958069],"type":"Point"}
+}

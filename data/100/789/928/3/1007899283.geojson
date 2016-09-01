@@ -1,0 +1,81 @@
+{
+  "id": 1007899283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9881699085,43.2974472046,-2.9881699085,43.2974472046",
+    "geom:latitude":43.297447,
+    "geom:longitude":-2.98817,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Zaballa, 6",
+    "sg:city":"Barakaldo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 38 58 64",
+    "sg:postcode":"48901",
+    "sg:province":"Vizcaya",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799675,
+        102191581,
+        404345933,
+        85633129,
+        404227393,
+        101748387,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4C3csPNMGmen7z77nt58jD_43.297447_-2.988170@1306269582"
+    },
+    "wof:country":"ES",
+    "wof:created":1472590789,
+    "wof:geomhash":"5938b2ea625a502f8de9cfe3415ef0a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345933,
+            "locality_id":101748387,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85799675,
+            "region_id":85682879,
+            "venue_id":1007899283
+        }
+    ],
+    "wof:id":1007899283,
+    "wof:lastmodified":1472590789,
+    "wof:name":"Maria Esther Bergado Plaza ( Peluqueria)",
+    "wof:parent_id":85799675,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -2.9881699085,
+    43.2974472046,
+    -2.9881699085,
+    43.2974472046
+],
+  "geometry": {"coordinates":[-2.9881699085,43.2974472046],"type":"Point"}
+}

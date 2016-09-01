@@ -1,0 +1,59 @@
+{
+  "id": 1008629247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4811170101,38.3565177917,-0.4811170101,38.3565177917",
+    "geom:latitude":38.356518,
+    "geom:longitude":-0.481117,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Jaime Segarra, 59",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Perfumer\u00cda (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 24 27 82",
+    "sg:postcode":"03012",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864065,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ilxaw9XxGhW7dyu3kAV3N_38.356518_-0.481117@1306269679"
+    },
+    "wof:country":"ES",
+    "wof:created":1472635520,
+    "wof:geomhash":"d08f6e152f03d2d9a4e1dd0f6a02291a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864065,
+            "region_id":85682625,
+            "venue_id":1008629247
+        }
+    ],
+    "wof:id":1008629247,
+    "wof:lastmodified":1472635520,
+    "wof:name":"Tomas Alcantud Antonio",
+    "wof:parent_id":85864065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4811170101,
+    38.3565177917,
+    -0.4811170101,
+    38.3565177917
+],
+  "geometry": {"coordinates":[-0.4811170101,38.3565177917],"type":"Point"}
+}

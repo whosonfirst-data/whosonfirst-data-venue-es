@@ -1,0 +1,78 @@
+{
+  "id": 1008596111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1555399895,41.3749885559,2.1555399895,41.3749885559",
+    "geom:latitude":41.374989,
+    "geom:longitude":2.15554,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Paral.lel, 170",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reposter\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 23 50 05",
+    "sg:postcode":"08015",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864037,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RUsFsqVRbndQaWgt7Cgnu_41.374989_2.155540@1306269675"
+    },
+    "wof:country":"ES",
+    "wof:created":1472634080,
+    "wof:geomhash":"b01880453705679147b06e31df9f24ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864037,
+            "region_id":85682663,
+            "venue_id":1008596111
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864027,
+            "region_id":85682663,
+            "venue_id":1008596111
+        }
+    ],
+    "wof:id":1008596111,
+    "wof:lastmodified":1472634080,
+    "wof:name":"Tamarit 101 S.l",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1555399895,
+    41.3749885559,
+    2.1555399895,
+    41.3749885559
+],
+  "geometry": {"coordinates":[2.1555399895,41.3749885559],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1008602089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1129500866,41.3914451599,2.1129500866,41.3914451599",
+    "geom:latitude":41.391445,
+    "geom:longitude":2.11295,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Cavallers, 50",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 06 55 80",
+    "sg:postcode":"08034",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799381,
+        102191581,
+        404331349,
+        85633129,
+        404227379,
+        101758769,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Cefmo8l2ZRAtthJ9vkO1H_41.391445_2.112950@1306269675"
+    },
+    "wof:country":"ES",
+    "wof:created":1472634341,
+    "wof:geomhash":"d64f934932365ac145107fbc3aad067b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331349,
+            "locality_id":101758769,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799381,
+            "region_id":85682663,
+            "venue_id":1008602089
+        }
+    ],
+    "wof:id":1008602089,
+    "wof:lastmodified":1472634341,
+    "wof:name":"Tda Arquitectura S. L.",
+    "wof:parent_id":85799381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1129500866,
+    41.3914451599,
+    2.1129500866,
+    41.3914451599
+],
+  "geometry": {"coordinates":[2.1129500866,41.3914451599],"type":"Point"}
+}

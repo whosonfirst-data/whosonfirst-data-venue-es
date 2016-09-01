@@ -1,0 +1,88 @@
+{
+  "id": 1008548103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1375250816,41.4010505676,2.1375250816,41.4010505676",
+    "geom:latitude":41.401051,
+    "geom:longitude":2.137525,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Modolell, 64",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 41 14 99",
+    "sg:postcode":"08021",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "obras",
+        "de",
+        "coleccionismo",
+        "compraventa",
+        "arte",
+        "y"
+    ],
+    "sg:website":"www.artgravat.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799611,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CChWLhdpEYd6rlizXBrH5_41.401051_2.137525@1306269668"
+    },
+    "wof:country":"ES",
+    "wof:created":1472632020,
+    "wof:geomhash":"74550cb369c5032687f9bd2d1fbbaf2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799611,
+            "region_id":85682663,
+            "venue_id":1008548103
+        }
+    ],
+    "wof:id":1008548103,
+    "wof:lastmodified":1472632020,
+    "wof:name":"Soler Sagues Alejandro",
+    "wof:parent_id":85799611,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "obras",
+        "de",
+        "coleccionismo",
+        "compraventa",
+        "arte",
+        "y"
+    ]
+},
+  "bbox": [
+    2.1375250816,
+    41.4010505676,
+    2.1375250816,
+    41.4010505676
+],
+  "geometry": {"coordinates":[2.1375250816,41.4010505676],"type":"Point"}
+}

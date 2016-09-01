@@ -1,0 +1,88 @@
+{
+  "id": 1008538567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6065199375,40.4045829773,-3.6065199375,40.4045829773",
+    "geom:latitude":40.404583,
+    "geom:longitude":-3.60652,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Lago Van, 15",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 75 18 02",
+    "sg:postcode":"28032",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caza",
+        "pr\u00c1ctica",
+        "la",
+        "de",
+        "pesca",
+        "y"
+    ],
+    "sg:website":"www.elcartucho.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799663,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70DDEuGqzysWb2hLQwSZea_40.404583_-3.606520@1306269667"
+    },
+    "wof:country":"ES",
+    "wof:created":1472631631,
+    "wof:geomhash":"06b53177e0cfdf2c7ede6279f92ca331",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799663,
+            "region_id":85682783,
+            "venue_id":1008538567
+        }
+    ],
+    "wof:id":1008538567,
+    "wof:lastmodified":1472631631,
+    "wof:name":"Sociedad De Cazadores El Cartucho",
+    "wof:parent_id":85799663,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caza",
+        "pr\u00c1ctica",
+        "la",
+        "de",
+        "pesca",
+        "y"
+    ]
+},
+  "bbox": [
+    -3.6065199375,
+    40.4045829773,
+    -3.6065199375,
+    40.4045829773
+],
+  "geometry": {"coordinates":[-3.6065199375,40.4045829773],"type":"Point"}
+}

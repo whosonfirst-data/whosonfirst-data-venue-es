@@ -1,0 +1,59 @@
+{
+  "id": 1007929729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5350029469,40.4409828186,-3.5350029469,40.4409828186",
+    "geom:latitude":40.440983,
+    "geom:longitude":-3.535003,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Teatinos (de Los), S/n",
+    "sg:city":"Coslada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cerrajer\u00cda, Ferrallista",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 72 29 30",
+    "sg:postcode":"28820",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863631,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7braVHBK5pzyVOcDqOjWkC_40.440983_-3.535003@1306269586"
+    },
+    "wof:country":"ES",
+    "wof:created":1472592219,
+    "wof:geomhash":"5c1fbf428ee2db21997d1cf5cd8979c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863631,
+            "region_id":85682783,
+            "venue_id":1007929729
+        }
+    ],
+    "wof:id":1007929729,
+    "wof:lastmodified":1472592219,
+    "wof:name":"Martinez Mediavilla Miguel",
+    "wof:parent_id":85863631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5350029469,
+    40.4409828186,
+    -3.5350029469,
+    40.4409828186
+],
+  "geometry": {"coordinates":[-3.5350029469,40.4409828186],"type":"Point"}
+}

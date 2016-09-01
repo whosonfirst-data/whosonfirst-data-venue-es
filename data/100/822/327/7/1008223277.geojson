@@ -1,0 +1,59 @@
+{
+  "id": 1008223277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8293762207,40.3440361023,-3.8293762207,40.3440361023",
+    "geom:latitude":40.344036,
+    "geom:longitude":-3.829376,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Alameda (la), 12",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicio De Salud",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 43 16 09",
+    "sg:postcode":"28922",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NLJsmTMJrMpi8LeWit2Zz_40.344036_-3.829376@1306269625"
+    },
+    "wof:country":"ES",
+    "wof:created":1472613690,
+    "wof:geomhash":"1f19c7f7af8eccc563c028a3bce51089",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008223277
+        }
+    ],
+    "wof:id":1008223277,
+    "wof:lastmodified":1472613690,
+    "wof:name":"Perez Serrano Rafaela",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8293762207,
+    40.3440361023,
+    -3.8293762207,
+    40.3440361023
+],
+  "geometry": {"coordinates":[-3.8293762207,40.3440361023],"type":"Point"}
+}

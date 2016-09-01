@@ -1,0 +1,74 @@
+{
+  "id": 1008435333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.4404091835,36.7300796509,-4.4404091835,36.7300796509",
+    "geom:latitude":36.73008,
+    "geom:longitude":-4.440409,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Monse\u00d1or Bocanegra, 5",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ebanister\u00cda",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 39 42 23",
+    "sg:postcode":"29011",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863455,
+        102191581,
+        404339241,
+        85633129,
+        404227361,
+        101748185,
+        85682787,
+        85863471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ern3fjYNaLjU1qrf3HUwC_36.730080_-4.440409@1306269653"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627406,
+    "wof:geomhash":"4414edeec4ad6f41b9f6fd7031b1b648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863455,
+            "region_id":85682787,
+            "venue_id":1008435333
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863471,
+            "region_id":85682787,
+            "venue_id":1008435333
+        }
+    ],
+    "wof:id":1008435333,
+    "wof:lastmodified":1472627406,
+    "wof:name":"Salado Del Pino Manuel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4404091835,
+    36.7300796509,
+    -4.4404091835,
+    36.7300796509
+],
+  "geometry": {"coordinates":[-4.4404091835,36.7300796509],"type":"Point"}
+}

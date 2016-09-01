@@ -1,0 +1,81 @@
+{
+  "id": 1008053101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2545781136,41.4602508545,2.2545781136,41.4602508545",
+    "geom:latitude":41.460251,
+    "geom:longitude":2.254578,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bronze(pol Ind Guixeres), 28",
+    "sg:city":"Badalona",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"Youth",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 97 08 30",
+    "sg:postcode":"08912",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "juventud",
+        "administraci\u00d3n",
+        "la",
+        "en",
+        "deporte",
+        "el",
+        "y"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799485,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4r2tC0Jf80nk5O89Q8U9VN_41.460251_2.254578@1306269602"
+    },
+    "wof:country":"ES",
+    "wof:created":1472597457,
+    "wof:geomhash":"c29ac94b45945eee4274436dcd60c34b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799485,
+            "region_id":85682663,
+            "venue_id":1008053101
+        }
+    ],
+    "wof:id":1008053101,
+    "wof:lastmodified":1472597457,
+    "wof:name":"Motorsport 48 S.l.",
+    "wof:parent_id":85799485,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "juventud",
+        "administraci\u00d3n",
+        "la",
+        "en",
+        "deporte",
+        "el",
+        "y"
+    ]
+},
+  "bbox": [
+    2.2545781136,
+    41.4602508545,
+    2.2545781136,
+    41.4602508545
+],
+  "geometry": {"coordinates":[2.2545781136,41.4602508545],"type":"Point"}
+}

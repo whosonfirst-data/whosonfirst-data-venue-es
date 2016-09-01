@@ -1,0 +1,67 @@
+{
+  "id": 1008695127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7081899643,40.4338111877,-3.7081899643,40.4338111877",
+    "geom:latitude":40.433811,
+    "geom:longitude":-3.70819,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Fernando El Catolico, 17",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 48 93 68",
+    "sg:postcode":"28015",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863659,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cw0tGxi2TwdU3YCBvwhTH_40.433811_-3.708190@1306269688"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638291,
+    "wof:geomhash":"37c7db86c1fc2931eccc1752afaeec44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863659,
+            "region_id":85682783,
+            "venue_id":1008695127
+        }
+    ],
+    "wof:id":1008695127,
+    "wof:lastmodified":1472638291,
+    "wof:name":"Vazquez Baldellou Jose Maria",
+    "wof:parent_id":85863659,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7081899643,
+    40.4338111877,
+    -3.7081899643,
+    40.4338111877
+],
+  "geometry": {"coordinates":[-3.7081899643,40.4338111877],"type":"Point"}
+}

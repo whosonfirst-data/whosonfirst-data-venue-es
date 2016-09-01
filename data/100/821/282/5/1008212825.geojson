@@ -1,0 +1,77 @@
+{
+  "id": 1008212825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.4119706154,36.7257423401,-4.4119706154,36.7257423401",
+    "geom:latitude":36.725742,
+    "geom:longitude":-4.411971,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Almagro, 1",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias Y Agentes Comerciales, Representantes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 25 37 89",
+    "sg:postcode":"29012",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863505,
+        102191581,
+        404339241,
+        85633129,
+        404227361,
+        101748185,
+        85682787,
+        85863549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CVRrw67GeVjECFzBNM4Ut_36.725742_-4.411971@1306269623"
+    },
+    "wof:country":"ES",
+    "wof:created":1472612477,
+    "wof:geomhash":"660aacf5e2aa15ca43466939b9888cc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863505,
+            "region_id":85682787,
+            "venue_id":1008212825
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748185,
+            "neighbourhood_id":85863549,
+            "region_id":-1,
+            "venue_id":1008212825
+        }
+    ],
+    "wof:id":1008212825,
+    "wof:lastmodified":1472612477,
+    "wof:name":"Perez Garcia Cristobal",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4119706154,
+    36.7257423401,
+    -4.4119706154,
+    36.7257423401
+],
+  "geometry": {"coordinates":[-4.4119706154,36.7257423401],"type":"Point"}
+}

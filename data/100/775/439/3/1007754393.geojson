@@ -1,0 +1,59 @@
+{
+  "id": 1007754393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4862599969,38.3524436951,-0.4862599969,38.3524436951",
+    "geom:latitude":38.352444,
+    "geom:longitude":-0.48626,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Alcalde Alfonso De Rojas, 4",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cl\u00cdnicas Dentales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 25 00 69",
+    "sg:postcode":"03004",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864065,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ghR7xOR4IZ2jqeVZjvi94_38.352444_-0.486260@1306269564"
+    },
+    "wof:country":"ES",
+    "wof:created":1472583931,
+    "wof:geomhash":"6852a8e368b0897acc14a2f20fd22620",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864065,
+            "region_id":85682625,
+            "venue_id":1007754393
+        }
+    ],
+    "wof:id":1007754393,
+    "wof:lastmodified":1472583931,
+    "wof:name":"Juan Martinez Arsenio",
+    "wof:parent_id":85864065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4862599969,
+    38.3524436951,
+    -0.4862599969,
+    38.3524436951
+],
+  "geometry": {"coordinates":[-0.4862599969,38.3524436951],"type":"Point"}
+}

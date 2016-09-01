@@ -1,0 +1,67 @@
+{
+  "id": 1008717697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7086288929,40.3463516235,-3.7086288929,40.3463516235",
+    "geom:latitude":40.346352,
+    "geom:longitude":-3.708629,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Agata, 11",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 97 14 60",
+    "sg:postcode":"28021",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799667,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69HlYaLDDqFA5qajsrBmLj_40.346352_-3.708629@1306269691"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639338,
+    "wof:geomhash":"c76d8bd851322766e6941e7c7bc2860a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799667,
+            "region_id":85682783,
+            "venue_id":1008717697
+        }
+    ],
+    "wof:id":1008717697,
+    "wof:lastmodified":1472639338,
+    "wof:name":"Viajes Zafiro S.l",
+    "wof:parent_id":85799667,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7086288929,
+    40.3463516235,
+    -3.7086288929,
+    40.3463516235
+],
+  "geometry": {"coordinates":[-3.7086288929,40.3463516235],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1007814727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1563999653,41.4243583679,2.1563999653,41.4243583679",
+    "geom:latitude":41.424358,
+    "geom:longitude":2.1564,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Llobregos, 127",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Promotores Constructores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 20 40 93",
+    "sg:postcode":"08032",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863991,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85799399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mI2vRe7KBTeiQ8arGGpWP_41.424358_2.156400@1306269572"
+    },
+    "wof:country":"ES",
+    "wof:created":1472587090,
+    "wof:geomhash":"797608c280f2a289437724d6a32b2c14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863991,
+            "region_id":85682663,
+            "venue_id":1007814727
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799399,
+            "region_id":85682663,
+            "venue_id":1007814727
+        }
+    ],
+    "wof:id":1007814727,
+    "wof:lastmodified":1472587090,
+    "wof:name":"Llani S. A.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1563999653,
+    41.4243583679,
+    2.1563999653,
+    41.4243583679
+],
+  "geometry": {"coordinates":[2.1563999653,41.4243583679],"type":"Point"}
+}

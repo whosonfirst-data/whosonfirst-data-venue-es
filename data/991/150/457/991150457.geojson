@@ -1,0 +1,81 @@
+{
+  "id": 991150457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8833879828,41.6462249756,-0.8833879828,41.6462249756",
+    "geom:latitude":41.646225,
+    "geom:longitude":-0.883388,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de General Sueiro, 6",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 22 86 91",
+    "sg:postcode":"50008",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863361,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fVbq4M9cz8drMEIarwJGo_41.646225_-0.883388@1306269447"
+    },
+    "wof:country":"ES",
+    "wof:created":1472532056,
+    "wof:geomhash":"5bc922c686afdbcb1f791881e0d044b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863361,
+            "region_id":85682891,
+            "venue_id":991150457
+        }
+    ],
+    "wof:id":991150457,
+    "wof:lastmodified":1472532056,
+    "wof:name":"Bingos Aragoneses S.a.",
+    "wof:parent_id":85863361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [
+    -0.8833879828,
+    41.6462249756,
+    -0.8833879828,
+    41.6462249756
+],
+  "geometry": {"coordinates":[-0.8833879828,41.6462249756],"type":"Point"}
+}

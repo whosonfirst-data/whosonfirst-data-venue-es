@@ -1,0 +1,65 @@
+{
+  "id": 991057421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8728299141,40.4923019409,-3.8728299141,40.4923019409",
+    "geom:latitude":40.492302,
+    "geom:longitude":-3.87283,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pelicana, 1",
+    "sg:city":"Rozas De Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 37 35 34",
+    "sg:postcode":"28230",
+    "sg:province":"Madrid",
+    "sg:website":"www.rubi-sanz.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863613,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UYorEzklOGdHiraMnZHE5_40.492302_-3.872830@1306269435"
+    },
+    "wof:country":"ES",
+    "wof:created":1472523450,
+    "wof:geomhash":"116f04e81d4d925b914cd95e90624722",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863613,
+            "region_id":85682783,
+            "venue_id":991057421
+        }
+    ],
+    "wof:id":991057421,
+    "wof:lastmodified":1472523450,
+    "wof:name":"Autoescuela Rubi San S.a.",
+    "wof:parent_id":85863613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8728299141,
+    40.4923019409,
+    -3.8728299141,
+    40.4923019409
+],
+  "geometry": {"coordinates":[-3.8728299141,40.4923019409],"type":"Point"}
+}

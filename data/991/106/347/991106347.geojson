@@ -1,0 +1,64 @@
+{
+  "id": 991106347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7425599098,40.4751167297,-3.7425599098,40.4751167297",
+    "geom:latitude":40.475117,
+    "geom:longitude":-3.74256,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Arroyofresno, 17",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 76 81 26",
+    "sg:postcode":"28035",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85682783,
+        102191581,
+        85633129,
+        101748283,
+        85863557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TyYQ9tZt19cpl1ZHZbm5u_40.475117_-3.742560@1306269441"
+    },
+    "wof:country":"ES",
+    "wof:created":1472527279,
+    "wof:geomhash":"f388b1d5701777aa1e3e72018ce5c205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748283,
+            "neighbourhood_id":85863557,
+            "region_id":85682783,
+            "venue_id":991106347
+        }
+    ],
+    "wof:id":991106347,
+    "wof:lastmodified":1472527279,
+    "wof:name":"Bankinter S.a.",
+    "wof:parent_id":85863557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7425599098,
+    40.4751167297,
+    -3.7425599098,
+    40.4751167297
+],
+  "geometry": {"coordinates":[-3.7425599098,40.4751167297],"type":"Point"}
+}

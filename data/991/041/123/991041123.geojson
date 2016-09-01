@@ -1,0 +1,67 @@
+{
+  "id": 991041123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1461141109,41.4020614624,2.1461141109,41.4020614624",
+    "geom:latitude":41.402061,
+    "geom:longitude":2.146114,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Balmes, 296",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Organizaciones Internacionales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 01 54 74",
+    "sg:postcode":"08006",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799393,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46VI5ZqDbyfQtkZbOgI2Qv_41.402061_2.146114@1306269432"
+    },
+    "wof:country":"ES",
+    "wof:created":1472522279,
+    "wof:geomhash":"10794b63630011997643c94645176382",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799393,
+            "region_id":85682663,
+            "venue_id":991041123
+        }
+    ],
+    "wof:id":991041123,
+    "wof:lastmodified":1472522279,
+    "wof:name":"Asociacion Proyecto Local",
+    "wof:parent_id":85799393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1461141109,
+    41.4020614624,
+    2.1461141109,
+    41.4020614624
+],
+  "geometry": {"coordinates":[2.1461141109,41.4020614624],"type":"Point"}
+}

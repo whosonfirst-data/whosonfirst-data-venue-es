@@ -1,0 +1,67 @@
+{
+  "id": 1008442055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1691179276,41.3764343262,2.1691179276,41.3764343262",
+    "geom:latitude":41.376434,
+    "geom:longitude":2.169118,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sant Pau, 112",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 41 75 86",
+    "sg:postcode":"08001",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864035,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_744i4rkzEnL7wi2hlhsKEg_41.376434_2.169118@1306269654"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627643,
+    "wof:geomhash":"d9e15d56e6fabdc93771d521d8e1ea98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864035,
+            "region_id":85682663,
+            "venue_id":1008442055
+        }
+    ],
+    "wof:id":1008442055,
+    "wof:lastmodified":1472627643,
+    "wof:name":"Salvador Boix Juan",
+    "wof:parent_id":85864035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1691179276,
+    41.3764343262,
+    2.1691179276,
+    41.3764343262
+],
+  "geometry": {"coordinates":[2.1691179276,41.3764343262],"type":"Point"}
+}

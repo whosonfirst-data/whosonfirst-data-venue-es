@@ -1,0 +1,76 @@
+{
+  "id": 1024496655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.4215455,36.719047,-4.4215455,36.719047",
+    "geom:latitude":36.719047,
+    "geom:longitude":-4.421545,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"marqu\u00e9s de larios, 7",
+    "sg:city":"m\u00e1laga",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"29005",
+    "sg:tags":[
+        "real-estate"
+    ],
+    "sg:website":"http://www.idealista.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863491,
+        102191581,
+        404339241,
+        85633129,
+        404227361,
+        101748185,
+        85682787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OD2KTtPzyKJ1MI6UlTatV_36.719047_-4.421545@1308163240"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641476,
+    "wof:geomhash":"aef7e4c342923ba18b2856de2f11245d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863491,
+            "region_id":85682787,
+            "venue_id":1024496655
+        }
+    ],
+    "wof:id":1024496655,
+    "wof:lastmodified":1472641476,
+    "wof:name":"idealista.com",
+    "wof:parent_id":85863491,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "real-estate"
+    ]
+},
+  "bbox": [
+    -4.4215455,
+    36.719047,
+    -4.4215455,
+    36.719047
+],
+  "geometry": {"coordinates":[-4.4215455,36.719047],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1008163945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1732881069,41.4004173279,2.1732881069,41.4004173279",
+    "geom:latitude":41.400417,
+    "geom:longitude":2.173288,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Valencia, 375",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aparcamientos (infraestructuras, Accesorios)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 07 05 89",
+    "sg:postcode":"08013",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863999,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aaNYkbC0DSA0jHkEmce1d_41.400417_2.173288@1306269617"
+    },
+    "wof:country":"ES",
+    "wof:created":1472603122,
+    "wof:geomhash":"cd0bdf586dd7794ff55034b2d83a0ec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863999,
+            "region_id":85682663,
+            "venue_id":1008163945
+        }
+    ],
+    "wof:id":1008163945,
+    "wof:lastmodified":1472603122,
+    "wof:name":"Panuva S.a.",
+    "wof:parent_id":85863999,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1732881069,
+    41.4004173279,
+    2.1732881069,
+    41.4004173279
+],
+  "geometry": {"coordinates":[2.1732881069,41.4004173279],"type":"Point"}
+}

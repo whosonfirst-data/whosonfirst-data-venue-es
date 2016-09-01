@@ -1,0 +1,81 @@
+{
+  "id": 1024488433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.0324139595,37.3985557556,-6.0324139595,37.3985557556",
+    "geom:latitude":37.398556,
+    "geom:longitude":-6.032414,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ixbilia, 2",
+    "sg:city":"Camas",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 955 98 05 84",
+    "sg:postcode":"41900",
+    "sg:province":"Sevilla",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864123,
+        102191581,
+        404342807,
+        85633129,
+        404227361,
+        101757457,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oNNfzh8eoWOF07UjM98YW_37.398556_-6.032414@1306269696"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641116,
+    "wof:geomhash":"399c583537b689c51aa95ed7caad6a9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342807,
+            "locality_id":101757457,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864123,
+            "region_id":85682841,
+            "venue_id":1024488433
+        }
+    ],
+    "wof:id":1024488433,
+    "wof:lastmodified":1472641116,
+    "wof:name":"Zamorano Polvillo Urbano",
+    "wof:parent_id":85864123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -6.0324139595,
+    37.3985557556,
+    -6.0324139595,
+    37.3985557556
+],
+  "geometry": {"coordinates":[-6.0324139595,37.3985557556],"type":"Point"}
+}

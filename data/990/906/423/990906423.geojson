@@ -1,0 +1,74 @@
+{
+  "id": 990906423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7614717484,40.3670272827,-3.7614717484,40.3670272827",
+    "geom:latitude":40.367027,
+    "geom:longitude":-3.761472,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pique\u00d1as, 18",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alimentaci\u00d3n General (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 08 96 06",
+    "sg:postcode":"28044",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863787,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yvacB2CkmktkqYav7Jrp0_40.367027_-3.761472@1306269414"
+    },
+    "wof:country":"ES",
+    "wof:created":1472509248,
+    "wof:geomhash":"1d6a086df22e7f49f1acdfdb00c5d9a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863787,
+            "region_id":85682783,
+            "venue_id":990906423
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863785,
+            "region_id":85682783,
+            "venue_id":990906423
+        }
+    ],
+    "wof:id":990906423,
+    "wof:lastmodified":1472509248,
+    "wof:name":"Aguilera Garcia Jose",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7614717484,
+    40.3670272827,
+    -3.7614717484,
+    40.3670272827
+],
+  "geometry": {"coordinates":[-3.7614717484,40.3670272827],"type":"Point"}
+}

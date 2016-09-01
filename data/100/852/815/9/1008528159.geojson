@@ -1,0 +1,74 @@
+{
+  "id": 1008528159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8716509938,41.6693687439,-0.8716509938,41.6693687439",
+    "geom:latitude":41.669369,
+    "geom:longitude":-0.871651,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Juan De La Pe\u00d1a, 121",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 51 75 43",
+    "sg:postcode":"50015",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863293,
+        85682891,
+        85863305,
+        102191581,
+        404347363,
+        404227363,
+        101748361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kV97WziKQ76hQLUK3pRrV_41.669369_-0.871651@1306269666"
+    },
+    "wof:country":"ES",
+    "wof:created":1472631185,
+    "wof:geomhash":"3028d65467a7634c05750c670fd7264c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863293,
+            "region_id":85682891,
+            "venue_id":1008528159
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863305,
+            "region_id":85682891,
+            "venue_id":1008528159
+        }
+    ],
+    "wof:id":1008528159,
+    "wof:lastmodified":1472631185,
+    "wof:name":"Sinues Porta Elena",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8716509938,
+    41.6693687439,
+    -0.8716509938,
+    41.6693687439
+],
+  "geometry": {"coordinates":[-0.8716509938,41.6693687439],"type":"Point"}
+}

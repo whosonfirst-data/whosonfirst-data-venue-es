@@ -1,0 +1,78 @@
+{
+  "id": 1008331023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9708628654,37.3895988464,-5.9708628654,37.3895988464",
+    "geom:latitude":37.389599,
+    "geom:longitude":-5.970863,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Sinai, 14",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[],
+    "sg:orig_category":"Peluquer\u00cdas, Peluquer\u00cda Mixta",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 57 00 86",
+    "sg:postcode":"41007",
+    "sg:province":"Sevilla",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864161,
+        102191581,
+        404342947,
+        85633129,
+        404227361,
+        101748225,
+        85682841,
+        85864159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ufVHkF97du5pz38Ntw4Yn_37.389599_-5.970863@1306269639"
+    },
+    "wof:country":"ES",
+    "wof:created":1472622652,
+    "wof:geomhash":"8d813a56263ba702bd597c6b5d49908f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864161,
+            "region_id":85682841,
+            "venue_id":1008331023
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864159,
+            "region_id":85682841,
+            "venue_id":1008331023
+        }
+    ],
+    "wof:id":1008331023,
+    "wof:lastmodified":1472622652,
+    "wof:name":"Redondo Vera Rocio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.9708628654,
+    37.3895988464,
+    -5.9708628654,
+    37.3895988464
+],
+  "geometry": {"coordinates":[-5.9708628654,37.3895988464],"type":"Point"}
+}

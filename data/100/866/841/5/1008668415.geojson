@@ -1,0 +1,59 @@
+{
+  "id": 1008668415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8225929737,40.4714584351,-3.8225929737,40.4714584351",
+    "geom:latitude":40.471458,
+    "geom:longitude":-3.822593,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Durango, 36",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asilos De Ancianos. Centros Privados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 72 81 22",
+    "sg:postcode":"28023",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863657,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fv21CLgDXoD41plsWurvo_40.471458_-3.822593@1306269684"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637148,
+    "wof:geomhash":"3b1ba7558cec47dbf6e12f8e1703d35b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863657,
+            "region_id":85682783,
+            "venue_id":1008668415
+        }
+    ],
+    "wof:id":1008668415,
+    "wof:lastmodified":1472637148,
+    "wof:name":"Unidad De Alzheimer Y Otras Demencias S.l.",
+    "wof:parent_id":85863657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8225929737,
+    40.4714584351,
+    -3.8225929737,
+    40.4714584351
+],
+  "geometry": {"coordinates":[-3.8225929737,40.4714584351],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1008189701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.7968740463,37.8926124573,-4.7968740463,37.8926124573",
+    "geom:latitude":37.892612,
+    "geom:longitude":-4.796874,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Betis, 31",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[],
+    "sg:orig_category":"Promotores Constructores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 76 87 16",
+    "sg:postcode":"14011",
+    "sg:province":"C\u00f3rdoba",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863889,
+        102191581,
+        404333687,
+        85633129,
+        404227361,
+        101748233,
+        85682697,
+        85863863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7I7p9GNJBuLBpNVK584BHV_37.892612_-4.796874@1306269620"
+    },
+    "wof:country":"ES",
+    "wof:created":1472607182,
+    "wof:geomhash":"a7c2057a6c981682fdb5d534976260e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863889,
+            "region_id":85682697,
+            "venue_id":1008189701
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863863,
+            "region_id":85682697,
+            "venue_id":1008189701
+        }
+    ],
+    "wof:id":1008189701,
+    "wof:lastmodified":1472607182,
+    "wof:name":"Patronato Casas San Rafael",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7968740463,
+    37.8926124573,
+    -4.7968740463,
+    37.8926124573
+],
+  "geometry": {"coordinates":[-4.7968740463,37.8926124573],"type":"Point"}
+}

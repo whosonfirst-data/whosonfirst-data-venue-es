@@ -1,0 +1,74 @@
+{
+  "id": 1008705475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1725730896,41.3973617554,2.1725730896,41.3973617554",
+    "geom:latitude":41.397362,
+    "geom:longitude":2.172573,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pg Sant Joan, 78",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Doctores En Medicina",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 32 04 04",
+    "sg:postcode":"08009",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863999,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eqTp6Jrt8UYrTLZzVwksl_41.397362_2.172573@1306269689"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638775,
+    "wof:geomhash":"542473dab1d551c95c8777e4b7892bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863999,
+            "region_id":85682663,
+            "venue_id":1008705475
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008705475
+        }
+    ],
+    "wof:id":1008705475,
+    "wof:lastmodified":1472638775,
+    "wof:name":"Ventin Hernandez Ramon",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1725730896,
+    41.3973617554,
+    2.1725730896,
+    41.3973617554
+],
+  "geometry": {"coordinates":[2.1725730896,41.3973617554],"type":"Point"}
+}

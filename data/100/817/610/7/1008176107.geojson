@@ -1,0 +1,67 @@
+{
+  "id": 1008176107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.109844923,41.4029808044,2.109844923,41.4029808044",
+    "geom:latitude":41.402981,
+    "geom:longitude":2.109845,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Guarderia, S/n",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Guarder\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 05 71 17",
+    "sg:postcode":"08017",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799605,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yaHQn7sm0vjX6x7okSkWT_41.402981_2.109845@1306269618"
+    },
+    "wof:country":"ES",
+    "wof:created":1472604725,
+    "wof:geomhash":"633678bfbc7faea125ac4a71ad17c08e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799605,
+            "region_id":85682663,
+            "venue_id":1008176107
+        }
+    ],
+    "wof:id":1008176107,
+    "wof:lastmodified":1472604725,
+    "wof:name":"Parroquia De Santa Maria Reina",
+    "wof:parent_id":85799605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.109844923,
+    41.4029808044,
+    2.109844923,
+    41.4029808044
+],
+  "geometry": {"coordinates":[2.109844923,41.4029808044],"type":"Point"}
+}

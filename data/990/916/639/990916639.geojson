@@ -1,0 +1,73 @@
+{
+  "id": 990916639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.232385397,41.4514389038,2.232385397,41.4514389038",
+    "geom:latitude":41.451439,
+    "geom:longitude":2.232385,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rbla Sant Joan, 95",
+    "sg:city":"Badalona",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 97 15 49",
+    "sg:postcode":"08917",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799485,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Fihv56AK0idTE2QMamX2W_41.451439_2.232385@1306269416"
+    },
+    "wof:country":"ES",
+    "wof:created":1472510160,
+    "wof:geomhash":"e1f516811cb76436a9862a922fcf623d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799485,
+            "region_id":85682663,
+            "venue_id":990916639
+        }
+    ],
+    "wof:id":990916639,
+    "wof:lastmodified":1472510160,
+    "wof:name":"Alacio Gimenez Rafael",
+    "wof:parent_id":85799485,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.232385397,
+    41.4514389038,
+    2.232385397,
+    41.4514389038
+],
+  "geometry": {"coordinates":[2.232385397,41.4514389038],"type":"Point"}
+}

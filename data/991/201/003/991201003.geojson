@@ -1,0 +1,68 @@
+{
+  "id": 991201003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1593632698,41.409362793,2.1593632698,41.409362793",
+    "geom:latitude":41.409363,
+    "geom:longitude":2.159363,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de L'escorial, 135",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cajas De Ahorro",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 10 61 04",
+    "sg:postcode":"08024",
+    "sg:province":"Barcelona",
+    "sg:website":"www.caixacatalunya.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799393,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29jn8E3iKwV5I7GOdQde2q_41.409363_2.159363@1306269454"
+    },
+    "wof:country":"ES",
+    "wof:created":1472536581,
+    "wof:geomhash":"c05b1e663705528f83a03eef953e791b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799393,
+            "region_id":85682663,
+            "venue_id":991201003
+        }
+    ],
+    "wof:id":991201003,
+    "wof:lastmodified":1472536581,
+    "wof:name":"Caixa D'estalvis De Catalunya",
+    "wof:parent_id":85799393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1593632698,
+    41.409362793,
+    2.1593632698,
+    41.409362793
+],
+  "geometry": {"coordinates":[2.1593632698,41.409362793],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1008626129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6046991348,37.1690292358,-3.6046991348,37.1690292358",
+    "geom:latitude":37.169029,
+    "geom:longitude":-3.604699,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Manuel De Falla, 18",
+    "sg:city":"Granada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Caf\u00c9s, Bares, Cervecer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 25 10 27",
+    "sg:postcode":"18005",
+    "sg:province":"Granada",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863847,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f2ZP0dAayvR14yXCPHQam_37.169029_-3.604699@1306269679"
+    },
+    "wof:country":"ES",
+    "wof:created":1472635397,
+    "wof:geomhash":"e845287cfc6ff8db920a6580fcc0ab53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863847,
+            "region_id":85682731,
+            "venue_id":1008626129
+        }
+    ],
+    "wof:id":1008626129,
+    "wof:lastmodified":1472635397,
+    "wof:name":"Titos Martinez Angeles",
+    "wof:parent_id":85863847,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6046991348,
+    37.1690292358,
+    -3.6046991348,
+    37.1690292358
+],
+  "geometry": {"coordinates":[-3.6046991348,37.1690292358],"type":"Point"}
+}

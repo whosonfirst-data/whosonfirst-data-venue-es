@@ -1,0 +1,59 @@
+{
+  "id": 1008727739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.8296439648,41.7283096313,1.8296439648,41.7283096313",
+    "geom:latitude":41.72831,
+    "geom:longitude":1.829644,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Caritat, 30",
+    "sg:city":"Manresa",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ense\u00d1anza: Comercio, Gesti\u00d3n, Inform\u00c1tica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 938 73 78 04",
+    "sg:postcode":"08241",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XQJXyN7BZxpxLytvdfIG5_41.728310_1.829644@1306269692"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639742,
+    "wof:geomhash":"36f6ded9b0bc42bb023553fb909309db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008727739
+        }
+    ],
+    "wof:id":1008727739,
+    "wof:lastmodified":1472639742,
+    "wof:name":"Vila Aguilo Jaume",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.8296439648,
+    41.7283096313,
+    1.8296439648,
+    41.7283096313
+],
+  "geometry": {"coordinates":[1.8296439648,41.7283096313],"type":"Point"}
+}

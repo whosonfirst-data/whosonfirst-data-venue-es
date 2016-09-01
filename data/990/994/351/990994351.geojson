@@ -1,0 +1,64 @@
+{
+  "id": 990994351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6210176945,39.5926971436,2.6210176945,39.5926971436",
+    "geom:latitude":39.592697,
+    "geom:longitude":2.621018,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cami Vileta (la), 121",
+    "sg:city":"Vileta",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 79 38 94",
+    "sg:postcode":"07011",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864101,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iDEbSgA3ohN3yOd98Knhl_39.592697_2.621018@1306269426"
+    },
+    "wof:country":"ES",
+    "wof:created":1472518657,
+    "wof:geomhash":"2fb233beb56266f3e893312869033557",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864101,
+            "region_id":85682647,
+            "venue_id":990994351
+        }
+    ],
+    "wof:id":990994351,
+    "wof:lastmodified":1472518657,
+    "wof:name":"Arbona Vallori Pedro",
+    "wof:parent_id":85864101,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6210176945,
+    39.5926971436,
+    2.6210176945,
+    39.5926971436
+],
+  "geometry": {"coordinates":[2.6210176945,39.5926971436],"type":"Point"}
+}

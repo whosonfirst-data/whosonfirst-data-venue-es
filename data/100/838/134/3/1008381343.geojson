@@ -1,0 +1,60 @@
+{
+  "id": 1008381343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7907812595,40.3176498413,-3.7907812595,40.3176498413",
+    "geom:latitude":40.31765,
+    "geom:longitude":-3.790781,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Aranjuez (de), 8",
+    "sg:city":"Leganes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Muebles, Minoristas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 48 49 67",
+    "sg:postcode":"28910",
+    "sg:province":"Madrid",
+    "sg:website":"www.andarama.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863785,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35lTaDJOFa7XeY3oAKnaJV_40.317650_-3.790781@1306269646"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624812,
+    "wof:geomhash":"acd28f39f9546a9274ca98889db67b17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863785,
+            "region_id":85682783,
+            "venue_id":1008381343
+        }
+    ],
+    "wof:id":1008381343,
+    "wof:lastmodified":1472624812,
+    "wof:name":"Rodriguez Herrero Francisca",
+    "wof:parent_id":85863785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7907812595,
+    40.3176498413,
+    -3.7907812595,
+    40.3176498413
+],
+  "geometry": {"coordinates":[-3.7907812595,40.3176498413],"type":"Point"}
+}

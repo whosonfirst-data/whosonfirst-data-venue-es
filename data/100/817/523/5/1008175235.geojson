@@ -1,0 +1,59 @@
+{
+  "id": 1008175235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.9051380157,41.6549911499,-0.9051380157,41.6549911499",
+    "geom:latitude":41.654991,
+    "geom:longitude":-0.905138,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Navarra, 47",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Iglesia Cat\u00d3lica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 34 41 05",
+    "sg:postcode":"50010",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863313,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uzsMNWKcmTIEEsxRzZ7W5_41.654991_-0.905138@1306269618"
+    },
+    "wof:country":"ES",
+    "wof:created":1472604621,
+    "wof:geomhash":"a40c0758f8cd1362b02fd261f77455c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863313,
+            "region_id":85682891,
+            "venue_id":1008175235
+        }
+    ],
+    "wof:id":1008175235,
+    "wof:lastmodified":1472604621,
+    "wof:name":"Parroquia De San Pedro Arbues",
+    "wof:parent_id":85863313,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.9051380157,
+    41.6549911499,
+    -0.9051380157,
+    41.6549911499
+],
+  "geometry": {"coordinates":[-0.9051380157,41.6549911499],"type":"Point"}
+}

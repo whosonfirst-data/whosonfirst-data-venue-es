@@ -1,0 +1,68 @@
+{
+  "id": 1008574235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6889851093,40.461807251,-3.6889851093,40.461807251",
+    "geom:latitude":40.461807,
+    "geom:longitude":-3.688985,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Carlos Maurras, 2",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 59 07 98",
+    "sg:postcode":"28036",
+    "sg:province":"Madrid",
+    "sg:website":"www.sanchez-romero.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863603,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hF9I15qLOJMkCwzdDhjz0_40.461807_-3.688985@1306269672"
+    },
+    "wof:country":"ES",
+    "wof:created":1472633154,
+    "wof:geomhash":"e9ff8aedf0be717ba589305b99cf68cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863603,
+            "region_id":85682783,
+            "venue_id":1008574235
+        }
+    ],
+    "wof:id":1008574235,
+    "wof:lastmodified":1472633154,
+    "wof:name":"Supermercados Sanchez Romero S.l.",
+    "wof:parent_id":85863603,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6889851093,
+    40.461807251,
+    -3.6889851093,
+    40.461807251
+],
+  "geometry": {"coordinates":[-3.6889851093,40.461807251],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1007990581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1229231358,41.3989448547,2.1229231358,41.3989448547",
+    "geom:latitude":41.398945,
+    "geom:longitude":2.122923,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de L'hort De La Vila, 18",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Artesan\u00cda",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 04 92 16",
+    "sg:postcode":"08017",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799605,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85799611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_448RyKo52Fur3beWL1mgxL_41.398945_2.122923@1306269593"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594778,
+    "wof:geomhash":"138ec25ef30ad60ac28c110dbdc017b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799605,
+            "region_id":85682663,
+            "venue_id":1007990581
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799611,
+            "region_id":85682663,
+            "venue_id":1007990581
+        }
+    ],
+    "wof:id":1007990581,
+    "wof:lastmodified":1472594778,
+    "wof:name":"Mestres Barnolas Carmen",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1229231358,
+    41.3989448547,
+    2.1229231358,
+    41.3989448547
+],
+  "geometry": {"coordinates":[2.1229231358,41.3989448547],"type":"Point"}
+}

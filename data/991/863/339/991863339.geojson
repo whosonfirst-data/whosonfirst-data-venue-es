@@ -1,0 +1,81 @@
+{
+  "id": 991863339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1578280926,41.4239845276,2.1578280926,41.4239845276",
+    "geom:latitude":41.423985,
+    "geom:longitude":2.157828,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rbla Carmel, 64",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 58 15 00",
+    "sg:postcode":"08032",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863991,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oPgshhLLbbod1PFr0hVm5_41.423985_2.157828@1306269542"
+    },
+    "wof:country":"ES",
+    "wof:created":1472575547,
+    "wof:geomhash":"1efa26d7dfa17b87c1f4bcc20ceb2dda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863991,
+            "region_id":85682663,
+            "venue_id":991863339
+        }
+    ],
+    "wof:id":991863339,
+    "wof:lastmodified":1472575547,
+    "wof:name":"Guerra Gonzalvo Maria Teresa",
+    "wof:parent_id":85863991,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.1578280926,
+    41.4239845276,
+    2.1578280926,
+    41.4239845276
+],
+  "geometry": {"coordinates":[2.1578280926,41.4239845276],"type":"Point"}
+}

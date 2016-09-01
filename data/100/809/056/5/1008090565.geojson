@@ -1,0 +1,67 @@
+{
+  "id": 1008090565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6997182369,40.4126625061,-3.6997182369,40.4126625061",
+    "geom:latitude":40.412663,
+    "geom:longitude":-3.699718,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Atocha, 46",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 69 20 00",
+    "sg:postcode":"28012",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863685,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67tKPrZV9dp8Kdeayg5yFh_40.412663_-3.699718@1306269607"
+    },
+    "wof:country":"ES",
+    "wof:created":1472599110,
+    "wof:geomhash":"b78b4a43501db5e9cd26c742f8b078d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863685,
+            "region_id":85682783,
+            "venue_id":1008090565
+        }
+    ],
+    "wof:id":1008090565,
+    "wof:lastmodified":1472599110,
+    "wof:name":"Nestares Lopez Lourdes",
+    "wof:parent_id":85863685,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6997182369,
+    40.4126625061,
+    -3.6997182369,
+    40.4126625061
+],
+  "geometry": {"coordinates":[-3.6997182369,40.4126625061],"type":"Point"}
+}

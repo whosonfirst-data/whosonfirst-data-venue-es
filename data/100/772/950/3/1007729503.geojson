@@ -1,0 +1,67 @@
+{
+  "id": 1007729503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.170593977,41.4182319641,2.170593977,41.4182319641",
+    "geom:latitude":41.418232,
+    "geom:longitude":2.170594,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Telegraf, 86",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Imprenta",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 56 23 13",
+    "sg:postcode":"08041",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863997,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Po7EOwhPvnwjzHQrG0nrz_41.418232_2.170594@1306269560"
+    },
+    "wof:country":"ES",
+    "wof:created":1472582459,
+    "wof:geomhash":"39d15304438345198fc1994587232ad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863997,
+            "region_id":85682663,
+            "venue_id":1007729503
+        }
+    ],
+    "wof:id":1007729503,
+    "wof:lastmodified":1472582459,
+    "wof:name":"Jimenez Cortes Jose",
+    "wof:parent_id":85863997,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.170593977,
+    41.4182319641,
+    2.170593977,
+    41.4182319641
+],
+  "geometry": {"coordinates":[2.170593977,41.4182319641],"type":"Point"}
+}

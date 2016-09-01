@@ -1,0 +1,78 @@
+{
+  "id": 1008449293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6776249409,40.4186668396,-3.6776249409,40.4186668396",
+    "geom:latitude":40.418667,
+    "geom:longitude":-3.677625,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Lope De Rueda, 49",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Zapatos (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 73 96 74",
+    "sg:postcode":"28009",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863679,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KQJfSO0nWRsSrBmIRXzO3_40.418667_-3.677625@1306269655"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627920,
+    "wof:geomhash":"c3266247b9cbfc4b7bfdf5dd9e51bbc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863679,
+            "region_id":85682783,
+            "venue_id":1008449293
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863677,
+            "region_id":85682783,
+            "venue_id":1008449293
+        }
+    ],
+    "wof:id":1008449293,
+    "wof:lastmodified":1472627920,
+    "wof:name":"Sanchez De Diego Isidoro",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6776249409,
+    40.4186668396,
+    -3.6776249409,
+    40.4186668396
+],
+  "geometry": {"coordinates":[-3.6776249409,40.4186668396],"type":"Point"}
+}

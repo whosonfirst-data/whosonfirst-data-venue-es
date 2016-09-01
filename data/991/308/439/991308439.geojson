@@ -1,0 +1,74 @@
+{
+  "id": 991308439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1855618954,41.3972930908,2.1855618954,41.3972930908",
+    "geom:latitude":41.397293,
+    "geom:longitude":2.185562,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Ali Bei, 137",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Promotores Constructores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 46 46 85",
+    "sg:postcode":"08013",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864013,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6V25mG6p34U86c5ccgP4mv_41.397293_2.185562@1306269468"
+    },
+    "wof:country":"ES",
+    "wof:created":1472543039,
+    "wof:geomhash":"bf3643872f6c8903da3513da9e57f58c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864013,
+            "region_id":85682663,
+            "venue_id":991308439
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":991308439
+        }
+    ],
+    "wof:id":991308439,
+    "wof:lastmodified":1472543039,
+    "wof:name":"Cemeba 2005 S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1855618954,
+    41.3972930908,
+    2.1855618954,
+    41.3972930908
+],
+  "geometry": {"coordinates":[2.1855618954,41.3972930908],"type":"Point"}
+}

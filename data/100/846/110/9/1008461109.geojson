@@ -1,0 +1,81 @@
+{
+  "id": 1008461109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7087099552,40.3841934204,-3.7087099552,40.3841934204",
+    "geom:latitude":40.384193,
+    "geom:longitude":-3.70871,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Felipe Castro, 23",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 75 50 42",
+    "sg:postcode":"28026",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863757,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SiIhvSXsMdrOmadxZRgEU_40.384193_-3.708710@1306269657"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628362,
+    "wof:geomhash":"7e45a809e6d249ea1a7d343663cd7572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863757,
+            "region_id":85682783,
+            "venue_id":1008461109
+        }
+    ],
+    "wof:id":1008461109,
+    "wof:lastmodified":1472628362,
+    "wof:name":"Sanchez Saludes Ignacio",
+    "wof:parent_id":85863757,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.7087099552,
+    40.3841934204,
+    -3.7087099552,
+    40.3841934204
+],
+  "geometry": {"coordinates":[-3.7087099552,40.3841934204],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 991594349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.160410881,41.3911743164,2.160410881,41.3911743164",
+    "geom:latitude":41.391174,
+    "geom:longitude":2.160411,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Balmes, 86",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 16 06 14",
+    "sg:postcode":"08008",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864017,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74VHvbNAQSLJkYJRklmqec_41.391174_2.160411@1306269506"
+    },
+    "wof:country":"ES",
+    "wof:created":1472559339,
+    "wof:geomhash":"bde6971f6f238c5abe48c389ddd4d0fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864017,
+            "region_id":85682663,
+            "venue_id":991594349
+        }
+    ],
+    "wof:id":991594349,
+    "wof:lastmodified":1472559339,
+    "wof:name":"Estevez Giner Francesc",
+    "wof:parent_id":85864017,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    2.160410881,
+    41.3911743164,
+    2.160410881,
+    41.3911743164
+],
+  "geometry": {"coordinates":[2.160410881,41.3911743164],"type":"Point"}
+}

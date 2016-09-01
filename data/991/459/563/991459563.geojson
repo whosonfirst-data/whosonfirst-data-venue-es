@@ -1,0 +1,73 @@
+{
+  "id": 991459563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5916061401,37.1158943176,-3.5916061401,37.1158943176",
+    "geom:latitude":37.115894,
+    "geom:longitude":-3.591606,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Amapola, S/n",
+    "sg:city":"Zubia",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 59 24 66",
+    "sg:postcode":"18140",
+    "sg:province":"Granada",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863839,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17iFTz9zqObCwQoWCqli1L_37.115894_-3.591606@1306269488"
+    },
+    "wof:country":"ES",
+    "wof:created":1472552224,
+    "wof:geomhash":"506d4a8ab221f55090528ffa12cbf633",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863839,
+            "region_id":85682731,
+            "venue_id":991459563
+        }
+    ],
+    "wof:id":991459563,
+    "wof:lastmodified":1472552224,
+    "wof:name":"Cuadros Plata Aureliano",
+    "wof:parent_id":85863839,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.5916061401,
+    37.1158943176,
+    -3.5916061401,
+    37.1158943176
+],
+  "geometry": {"coordinates":[-3.5916061401,37.1158943176],"type":"Point"}
+}

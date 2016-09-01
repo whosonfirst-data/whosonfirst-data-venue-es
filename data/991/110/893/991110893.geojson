@@ -1,0 +1,60 @@
+{
+  "id": 991110893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6899359226,40.5032348633,-3.6899359226,40.5032348633",
+    "geom:latitude":40.503235,
+    "geom:longitude":-3.689936,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rond Caballero De La Mancha, S/n",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 34 51 10",
+    "sg:postcode":"28034",
+    "sg:province":"Madrid",
+    "sg:website":"www.bancozaragozano.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5N8AbAjkSMzETwohqLJS15_40.503235_-3.689936@1306269442"
+    },
+    "wof:country":"ES",
+    "wof:created":1472527645,
+    "wof:geomhash":"47e460c60f572146f78305b68586b1b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":991110893
+        }
+    ],
+    "wof:id":991110893,
+    "wof:lastmodified":1472527645,
+    "wof:name":"Barclays Bank S.a.e.",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6899359226,
+    40.5032348633,
+    -3.6899359226,
+    40.5032348633
+],
+  "geometry": {"coordinates":[-3.6899359226,40.5032348633],"type":"Point"}
+}

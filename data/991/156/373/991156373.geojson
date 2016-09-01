@@ -1,0 +1,81 @@
+{
+  "id": 991156373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.6652498245,43.5411872864,-5.6652498245,43.5411872864",
+    "geom:latitude":43.541187,
+    "geom:longitude":-5.66525,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Donato Arguelles, 9",
+    "sg:city":"Gijon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 985 17 22 77",
+    "sg:postcode":"33206",
+    "sg:province":"Asturias",
+    "sg:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799415,
+        102191581,
+        404340333,
+        85633129,
+        404227365,
+        101748401,
+        85682805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_342WJwbh0ITInxV8Lyoctt_43.541187_-5.665250@1306269448"
+    },
+    "wof:country":"ES",
+    "wof:created":1472532690,
+    "wof:geomhash":"4ed36aab186b126d3a3f468b5cb6c567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404340333,
+            "locality_id":101748401,
+            "macroregion_id":404227365,
+            "neighbourhood_id":85799415,
+            "region_id":85682805,
+            "venue_id":991156373
+        }
+    ],
+    "wof:id":991156373,
+    "wof:lastmodified":1472532690,
+    "wof:name":"Blanco Villa Ramona",
+    "wof:parent_id":85799415,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ]
+},
+  "bbox": [
+    -5.6652498245,
+    43.5411872864,
+    -5.6652498245,
+    43.5411872864
+],
+  "geometry": {"coordinates":[-5.6652498245,43.5411872864],"type":"Point"}
+}

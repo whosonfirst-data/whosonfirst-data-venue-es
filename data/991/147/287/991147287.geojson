@@ -1,0 +1,72 @@
+{
+  "id": 991147287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.5113520026,38.3461685181,-0.5113520026,38.3461685181",
+    "geom:latitude":38.346169,
+    "geom:longitude":-0.511352,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Antares, 25",
+    "sg:city":"Alacant",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 28 44 81",
+    "sg:postcode":"03006",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864049,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SlE1O4CI7sdUnOgq7qRqH_38.346169_-0.511352@1306269447"
+    },
+    "wof:country":"ES",
+    "wof:created":1472531666,
+    "wof:geomhash":"9c996a892a3a863834bc50cc65d748cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864049,
+            "region_id":85682625,
+            "venue_id":991147287
+        }
+    ],
+    "wof:id":991147287,
+    "wof:lastmodified":1472531666,
+    "wof:name":"Bevia Espinosa Rafael",
+    "wof:parent_id":85864049,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.5113520026,
+    38.3461685181,
+    -0.5113520026,
+    38.3461685181
+],
+  "geometry": {"coordinates":[-0.5113520026,38.3461685181],"type":"Point"}
+}

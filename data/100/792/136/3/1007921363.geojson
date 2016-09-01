@@ -1,0 +1,67 @@
+{
+  "id": 1007921363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1936359406,41.4258995056,2.1936359406,41.4258995056",
+    "geom:latitude":41.4259,
+    "geom:longitude":2.193636,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Camp Del Ferro, 5",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 08 23 60",
+    "sg:postcode":"08027",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864011,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dOq1LV3GIB5wmJOu2IdoD_41.425900_2.193636@1306269585"
+    },
+    "wof:country":"ES",
+    "wof:created":1472591812,
+    "wof:geomhash":"efba14d391d7ac50237efb858b1ccd3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864011,
+            "region_id":85682663,
+            "venue_id":1007921363
+        }
+    ],
+    "wof:id":1007921363,
+    "wof:lastmodified":1472591812,
+    "wof:name":"Martinez Colomer Teodoro Francisco",
+    "wof:parent_id":85864011,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1936359406,
+    41.4258995056,
+    2.1936359406,
+    41.4258995056
+],
+  "geometry": {"coordinates":[2.1936359406,41.4258995056],"type":"Point"}
+}

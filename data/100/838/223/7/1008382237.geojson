@@ -1,0 +1,81 @@
+{
+  "id": 1008382237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7423734665,40.4027290344,-3.7423734665,40.4027290344",
+    "geom:latitude":40.402729,
+    "geom:longitude":-3.742373,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Carlos Fuentes, 43",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 64 74 54",
+    "sg:postcode":"28047",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863767,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5noDt1Oib3qrdLCC1XSEG9_40.402729_-3.742373@1306269646"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624852,
+    "wof:geomhash":"e3b26a4844d86e8967e7f7e6fcd02428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863767,
+            "region_id":85682783,
+            "venue_id":1008382237
+        }
+    ],
+    "wof:id":1008382237,
+    "wof:lastmodified":1472624852,
+    "wof:name":"Rodriguez Lopez Alfredo",
+    "wof:parent_id":85863767,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.7423734665,
+    40.4027290344,
+    -3.7423734665,
+    40.4027290344
+],
+  "geometry": {"coordinates":[-3.7423734665,40.4027290344],"type":"Point"}
+}

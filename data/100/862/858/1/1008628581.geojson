@@ -1,0 +1,81 @@
+{
+  "id": 1008628581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9527430534,37.3762435913,-5.9527430534,37.3762435913",
+    "geom:latitude":37.376244,
+    "geom:longitude":-5.952743,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Puerto De Oncala, 5",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 65 57 13",
+    "sg:postcode":"41006",
+    "sg:province":"Sevilla",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799231,
+        102191581,
+        404342827,
+        85633129,
+        404227361,
+        101753675,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0c67PSrjSMxYYVIWZX0KYO_37.376244_-5.952743@1306269679"
+    },
+    "wof:country":"ES",
+    "wof:created":1472635495,
+    "wof:geomhash":"92541a6891f44fd27fb53bb8c51f0613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342827,
+            "locality_id":101753675,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85799231,
+            "region_id":85682841,
+            "venue_id":1008628581
+        }
+    ],
+    "wof:id":1008628581,
+    "wof:lastmodified":1472635495,
+    "wof:name":"Toledo Garcia Manuel",
+    "wof:parent_id":85799231,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -5.9527430534,
+    37.3762435913,
+    -5.9527430534,
+    37.3762435913
+],
+  "geometry": {"coordinates":[-5.9527430534,37.3762435913],"type":"Point"}
+}

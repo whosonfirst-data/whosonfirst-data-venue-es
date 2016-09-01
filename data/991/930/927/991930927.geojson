@@ -1,0 +1,81 @@
+{
+  "id": 991930927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6050329208,40.4284667969,-3.6050329208,40.4284667969",
+    "geom:latitude":40.428467,
+    "geom:longitude":-3.605033,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Suecia, 65",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 13 46 10",
+    "sg:postcode":"28022",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "mercado",
+        "de",
+        "estudios"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863703,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IMf2TpdOocnXYH2Eme19W_40.428467_-3.605033@1306269551"
+    },
+    "wof:country":"ES",
+    "wof:created":1472578983,
+    "wof:geomhash":"63e15dc6464bf29a06bfdcd5e564cea2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863703,
+            "region_id":85682783,
+            "venue_id":991930927
+        }
+    ],
+    "wof:id":991930927,
+    "wof:lastmodified":1472578983,
+    "wof:name":"Iba\u00f1ez Valero Francisco Jose",
+    "wof:parent_id":85863703,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mercado",
+        "de",
+        "estudios"
+    ]
+},
+  "bbox": [
+    -3.6050329208,
+    40.4284667969,
+    -3.6050329208,
+    40.4284667969
+],
+  "geometry": {"coordinates":[-3.6050329208,40.4284667969],"type":"Point"}
+}

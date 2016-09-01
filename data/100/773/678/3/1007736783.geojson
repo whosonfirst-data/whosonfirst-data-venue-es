@@ -1,0 +1,59 @@
+{
+  "id": 1007736783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6342990398,40.5512046814,-3.6342990398,40.5512046814",
+    "geom:latitude":40.551205,
+    "geom:longitude":-3.634299,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Cervantes, 12",
+    "sg:city":"San Sebastian De Los Reyes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Muebles, Minoristas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 53 07 00",
+    "sg:postcode":"28700",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gy4eTKwKc7JNQITSO8bjB_40.551205_-3.634299@1306269561"
+    },
+    "wof:country":"ES",
+    "wof:created":1472582922,
+    "wof:geomhash":"6bc40a4e41a637d46da4c27f4073346b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1007736783
+        }
+    ],
+    "wof:id":1007736783,
+    "wof:lastmodified":1472582922,
+    "wof:name":"J.marquez S.l.",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6342990398,
+    40.5512046814,
+    -3.6342990398,
+    40.5512046814
+],
+  "geometry": {"coordinates":[-3.6342990398,40.5512046814],"type":"Point"}
+}

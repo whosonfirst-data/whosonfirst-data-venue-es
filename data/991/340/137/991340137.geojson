@@ -1,0 +1,81 @@
+{
+  "id": 991340137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7032046318,40.4229393005,-3.7032046318,40.4229393005",
+    "geom:latitude":40.422939,
+    "geom:longitude":-3.703205,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Corredera Baja De San Pablo, 39",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 22 81 09",
+    "sg:postcode":"28004",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "salas",
+        "de",
+        "cine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863791,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2y2QmnqxTYQd4Ys40igjHc_40.422939_-3.703205@1306269472"
+    },
+    "wof:country":"ES",
+    "wof:created":1472544547,
+    "wof:geomhash":"6cf6ad22b6cf213252646f62218ece64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863791,
+            "region_id":85682783,
+            "venue_id":991340137
+        }
+    ],
+    "wof:id":991340137,
+    "wof:lastmodified":1472544547,
+    "wof:name":"Cinematografia Cervantes S. A.",
+    "wof:parent_id":85863791,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salas",
+        "de",
+        "cine"
+    ]
+},
+  "bbox": [
+    -3.7032046318,
+    40.4229393005,
+    -3.7032046318,
+    40.4229393005
+],
+  "geometry": {"coordinates":[-3.7032046318,40.4229393005],"type":"Point"}
+}

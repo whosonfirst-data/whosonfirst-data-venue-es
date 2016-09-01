@@ -1,0 +1,67 @@
+{
+  "id": 1008401041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1365730762,41.3809928894,2.1365730762,41.3809928894",
+    "geom:latitude":41.380993,
+    "geom:longitude":2.136573,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Robrenyo, 8",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicio De Salud",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 90 70 77",
+    "sg:postcode":"08014",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799597,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cWz5qPHWlopi8kSr9zTDd_41.380993_2.136573@1306269649"
+    },
+    "wof:country":"ES",
+    "wof:created":1472625748,
+    "wof:geomhash":"aeb5380bf722c0c9e6d5338a4b4e5332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799597,
+            "region_id":85682663,
+            "venue_id":1008401041
+        }
+    ],
+    "wof:id":1008401041,
+    "wof:lastmodified":1472625748,
+    "wof:name":"Romero Moya Miguel",
+    "wof:parent_id":85799597,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1365730762,
+    41.3809928894,
+    2.1365730762,
+    41.3809928894
+],
+  "geometry": {"coordinates":[2.1365730762,41.3809928894],"type":"Point"}
+}

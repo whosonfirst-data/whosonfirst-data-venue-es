@@ -1,0 +1,78 @@
+{
+  "id": 1008680469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7024869919,40.4134635925,-3.7024869919,40.4134635925",
+    "geom:latitude":40.413464,
+    "geom:longitude":-3.702487,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Luis Velez De Guevara, 4",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Molduras, Junquillos, Listones Y Molduras Perforadas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 69 15 65",
+    "sg:postcode":"28012",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863793,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SEzeJEs8TOOpnd9LATg32_40.413464_-3.702487@1306269686"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637651,
+    "wof:geomhash":"a0bd69b26951b803d3543cbe78d94e0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863793,
+            "region_id":85682783,
+            "venue_id":1008680469
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863685,
+            "region_id":85682783,
+            "venue_id":1008680469
+        }
+    ],
+    "wof:id":1008680469,
+    "wof:lastmodified":1472637651,
+    "wof:name":"Vacas Felix Jose Carlos",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7024869919,
+    40.4134635925,
+    -3.7024869919,
+    40.4134635925
+],
+  "geometry": {"coordinates":[-3.7024869919,40.4134635925],"type":"Point"}
+}

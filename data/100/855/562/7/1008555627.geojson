@@ -1,0 +1,81 @@
+{
+  "id": 1008555627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1427240372,41.3602561951,2.1427240372,41.3602561951",
+    "geom:latitude":41.360256,
+    "geom:longitude":2.142724,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Alts Forns, 87",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 96 89 69",
+    "sg:postcode":"08038",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799225,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6H5rUcciduQyCYXmf2MvUd_41.360256_2.142724@1306269669"
+    },
+    "wof:country":"ES",
+    "wof:created":1472632357,
+    "wof:geomhash":"9e6ca391c2a03002456e4f8c0190f265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799225,
+            "region_id":85682663,
+            "venue_id":1008555627
+        }
+    ],
+    "wof:id":1008555627,
+    "wof:lastmodified":1472632357,
+    "wof:name":"Sotillo Balcells Fernando",
+    "wof:parent_id":85799225,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.1427240372,
+    41.3602561951,
+    2.1427240372,
+    41.3602561951
+],
+  "geometry": {"coordinates":[2.1427240372,41.3602561951],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 1008725927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1983718872,41.3966712952,2.1983718872,41.3966712952",
+    "geom:latitude":41.396671,
+    "geom:longitude":2.198372,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Ramon Turro, 131",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aparatos, Material Y Suministros Para Laboratorios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 09 35 66",
+    "sg:postcode":"08005",
+    "sg:province":"Barcelona",
+    "sg:website":"www.vidafroc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3a7rDaTMyswgPECg7pARMI_41.396671_2.198372@1306269692"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639665,
+    "wof:geomhash":"a40a8b1da4f14b8699c76e0d1e028ebe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008725927
+        }
+    ],
+    "wof:id":1008725927,
+    "wof:lastmodified":1472639665,
+    "wof:name":"Vidra-foc S. A.",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1983718872,
+    41.3966712952,
+    2.1983718872,
+    41.3966712952
+],
+  "geometry": {"coordinates":[2.1983718872,41.3966712952],"type":"Point"}
+}

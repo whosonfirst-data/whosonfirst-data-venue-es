@@ -1,0 +1,59 @@
+{
+  "id": 1008110615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6766428947,39.5986175537,2.6766428947,39.5986175537",
+    "geom:latitude":39.598618,
+    "geom:longitude":2.676643,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Bartomeu Calatayud, 15",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Iglesia Cat\u00d3lica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 47 06 27",
+    "sg:postcode":"07009",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864091,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yfnv7QytNCeckKJ5stNCg_39.598618_2.676643@1306269609"
+    },
+    "wof:country":"ES",
+    "wof:created":1472599978,
+    "wof:geomhash":"0f6c2b745df0c9f5cc2f67d750f8bd2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":1008110615
+        }
+    ],
+    "wof:id":1008110615,
+    "wof:lastmodified":1472599978,
+    "wof:name":"Obispado De Mallorca",
+    "wof:parent_id":85864091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6766428947,
+    39.5986175537,
+    2.6766428947,
+    39.5986175537
+],
+  "geometry": {"coordinates":[2.6766428947,39.5986175537],"type":"Point"}
+}

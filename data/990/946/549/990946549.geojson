@@ -1,0 +1,81 @@
+{
+  "id": 990946549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9782767296,37.4019927979,-5.9782767296,37.4019927979",
+    "geom:latitude":37.401993,
+    "geom:longitude":-5.978277,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Miraflores, 68",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 35 13 17",
+    "sg:postcode":"41008",
+    "sg:province":"Sevilla",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864153,
+        102191581,
+        404342947,
+        85633129,
+        404227361,
+        101748225,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54YOINaZFwVfD3xR4F9Dqx_37.401993_-5.978277@1306269420"
+    },
+    "wof:country":"ES",
+    "wof:created":1472513572,
+    "wof:geomhash":"e0b1b85dd22f32f1cb1db9da9df9a696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864153,
+            "region_id":85682841,
+            "venue_id":990946549
+        }
+    ],
+    "wof:id":990946549,
+    "wof:lastmodified":1472513572,
+    "wof:name":"Alonso Perez Emilio",
+    "wof:parent_id":85864153,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -5.9782767296,
+    37.4019927979,
+    -5.9782767296,
+    37.4019927979
+],
+  "geometry": {"coordinates":[-5.9782767296,37.4019927979],"type":"Point"}
+}

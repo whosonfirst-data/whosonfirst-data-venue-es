@@ -1,0 +1,60 @@
+{
+  "id": 1008245171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6016590595,37.1678123474,-3.6016590595,37.1678123474",
+    "geom:latitude":37.167812,
+    "geom:longitude":-3.601659,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Santa Aurelia, 1",
+    "sg:city":"Granada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electricidad, Electr\u00d3nica: Suministros (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 52 03 82",
+    "sg:postcode":"18005",
+    "sg:province":"Granada",
+    "sg:website":"www.pioneer.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863847,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04nC8n8kcEaiVWCmfodygM_37.167812_-3.601659@1306269628"
+    },
+    "wof:country":"ES",
+    "wof:created":1472615692,
+    "wof:geomhash":"03393c5676ad6b33ed982d4ac6663df4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863847,
+            "region_id":85682731,
+            "venue_id":1008245171
+        }
+    ],
+    "wof:id":1008245171,
+    "wof:lastmodified":1472615692,
+    "wof:name":"Pioneer Electronics Iberica S.a.u.",
+    "wof:parent_id":85863847,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6016590595,
+    37.1678123474,
+    -3.6016590595,
+    37.1678123474
+],
+  "geometry": {"coordinates":[-3.6016590595,37.1678123474],"type":"Point"}
+}

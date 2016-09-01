@@ -1,0 +1,67 @@
+{
+  "id": 1007861183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5905969143,37.1793518066,-3.5905969143,37.1793518066",
+    "geom:latitude":37.179352,
+    "geom:longitude":-3.590597,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Espino, 2",
+    "sg:city":"Granada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 22 57 16",
+    "sg:postcode":"18010",
+    "sg:province":"Granada",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863845,
+        102191581,
+        404335211,
+        85633129,
+        404227361,
+        101748197,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Am8ecfuBmPborpwQw894W_37.179352_-3.590597@1306269578"
+    },
+    "wof:country":"ES",
+    "wof:created":1472589262,
+    "wof:geomhash":"983be56ab07a3130badc04922517eafc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404335211,
+            "locality_id":101748197,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863845,
+            "region_id":85682731,
+            "venue_id":1007861183
+        }
+    ],
+    "wof:id":1007861183,
+    "wof:lastmodified":1472589262,
+    "wof:name":"Luque Espinosa Jose Luis",
+    "wof:parent_id":85863845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5905969143,
+    37.1793518066,
+    -3.5905969143,
+    37.1793518066
+],
+  "geometry": {"coordinates":[-3.5905969143,37.1793518066],"type":"Point"}
+}

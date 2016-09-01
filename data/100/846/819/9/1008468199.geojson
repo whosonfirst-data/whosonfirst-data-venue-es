@@ -1,0 +1,59 @@
+{
+  "id": 1008468199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5621678829,40.4256515503,-3.5621678829,40.4256515503",
+    "geom:latitude":40.425652,
+    "geom:longitude":-3.562168,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Dr Mara\u00d1on (del), 8",
+    "sg:city":"Coslada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Librer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 69 53 32",
+    "sg:postcode":"28820",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863629,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZLe6Y8dMoIwjpSkKufM7C_40.425652_-3.562168@1306269658"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628639,
+    "wof:geomhash":"8d5f84fccff22e4aaa30895ec5e0048f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863629,
+            "region_id":85682783,
+            "venue_id":1008468199
+        }
+    ],
+    "wof:id":1008468199,
+    "wof:lastmodified":1472628639,
+    "wof:name":"San Jose Gonzalez Milagros",
+    "wof:parent_id":85863629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5621678829,
+    40.4256515503,
+    -3.5621678829,
+    40.4256515503
+],
+  "geometry": {"coordinates":[-3.5621678829,40.4256515503],"type":"Point"}
+}

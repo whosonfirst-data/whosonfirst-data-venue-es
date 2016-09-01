@@ -1,0 +1,59 @@
+{
+  "id": 1024478637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6186089516,40.5460586548,-3.6186089516,40.5460586548",
+    "geom:latitude":40.546059,
+    "geom:longitude":-3.618609,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Hoya (de La), S/n",
+    "sg:city":"San Sebastian De Los Reyes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Garajes De Veh\u00cdculos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 54 66 22",
+    "sg:postcode":"28700",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863585,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5W0ypV6BVtADEb3kY6AJec_40.546059_-3.618609@1306269695"
+    },
+    "wof:country":"ES",
+    "wof:created":1472640709,
+    "wof:geomhash":"11fb7ac00f43fc1e9ffc17e94b7cdedb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863585,
+            "region_id":85682783,
+            "venue_id":1024478637
+        }
+    ],
+    "wof:id":1024478637,
+    "wof:lastmodified":1472640709,
+    "wof:name":"Wyco S.l.",
+    "wof:parent_id":85863585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6186089516,
+    40.5460586548,
+    -3.6186089516,
+    40.5460586548
+],
+  "geometry": {"coordinates":[-3.6186089516,40.5460586548],"type":"Point"}
+}

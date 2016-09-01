@@ -1,0 +1,78 @@
+{
+  "id": 1008148139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.67765975,40.4154815674,-3.67765975,40.4154815674",
+    "geom:latitude":40.415482,
+    "geom:longitude":-3.67766,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Doce De Octubre, 2",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 73 76 73",
+    "sg:postcode":"28009",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863689,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qZFOQZdluWIPOz1E01ryY_40.415482_-3.677660@1306269614"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601756,
+    "wof:geomhash":"378d32cacfa2393e74de09a9d8ba5fe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863689,
+            "region_id":85682783,
+            "venue_id":1008148139
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863687,
+            "region_id":85682783,
+            "venue_id":1008148139
+        }
+    ],
+    "wof:id":1008148139,
+    "wof:lastmodified":1472601756,
+    "wof:name":"Pacheco Sanchez Brunete C.b.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.67765975,
+    40.4154815674,
+    -3.67765975,
+    40.4154815674
+],
+  "geometry": {"coordinates":[-3.67765975,40.4154815674],"type":"Point"}
+}

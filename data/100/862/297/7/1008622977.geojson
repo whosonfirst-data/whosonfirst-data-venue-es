@@ -1,0 +1,60 @@
+{
+  "id": 1008622977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6522068977,39.5712623596,2.6522068977,39.5712623596",
+    "geom:latitude":39.571262,
+    "geom:longitude":2.652207,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pl Major, 3",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 71 65 18",
+    "sg:postcode":"07002",
+    "sg:province":"Islas Baleares",
+    "sg:website":"www.mundicolor.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864085,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vO7rsXFBaX18EhOzxgaaJ_39.571262_2.652207@1306269678"
+    },
+    "wof:country":"ES",
+    "wof:created":1472635262,
+    "wof:geomhash":"c774039e1e14cd3b23f2a630905e56c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864085,
+            "region_id":85682647,
+            "venue_id":1008622977
+        }
+    ],
+    "wof:id":1008622977,
+    "wof:lastmodified":1472635262,
+    "wof:name":"Tiempo Libre S. A.",
+    "wof:parent_id":85864085,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6522068977,
+    39.5712623596,
+    2.6522068977,
+    39.5712623596
+],
+  "geometry": {"coordinates":[2.6522068977,39.5712623596],"type":"Point"}
+}

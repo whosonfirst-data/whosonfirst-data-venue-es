@@ -1,0 +1,59 @@
+{
+  "id": 1007974399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.0052576065,37.4035797119,-6.0052576065,37.4035797119",
+    "geom:latitude":37.40358,
+    "geom:longitude":-6.005258,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Albert Einstein, S/n",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[],
+    "sg:orig_category":"Caf\u00c9s, Bares, Cervecer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 46 00 59",
+    "sg:postcode":"41092",
+    "sg:province":"Sevilla",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864121,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03Sne5tqFiykeKRxePUGsh_37.403580_-6.005258@1306269592"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594141,
+    "wof:geomhash":"6b2c0d9ad87ff4689aa89ebcd3e274f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864121,
+            "region_id":85682841,
+            "venue_id":1007974399
+        }
+    ],
+    "wof:id":1007974399,
+    "wof:lastmodified":1472594141,
+    "wof:name":"Melbru S.l.",
+    "wof:parent_id":85864121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0052576065,
+    37.4035797119,
+    -6.0052576065,
+    37.4035797119
+],
+  "geometry": {"coordinates":[-6.0052576065,37.4035797119],"type":"Point"}
+}

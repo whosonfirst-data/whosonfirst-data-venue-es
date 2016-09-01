@@ -1,0 +1,81 @@
+{
+  "id": 991720821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9910316467,37.3936347961,-5.9910316467,37.3936347961",
+    "geom:latitude":37.393635,
+    "geom:longitude":-5.991032,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Alcazares, 5",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 56 10 84",
+    "sg:postcode":"41003",
+    "sg:province":"Sevilla",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864155,
+        102191581,
+        404342947,
+        85633129,
+        404227361,
+        101748225,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_420HSWc1lV9iSmB9uj9xqW_37.393635_-5.991032@1306269523"
+    },
+    "wof:country":"ES",
+    "wof:created":1472566515,
+    "wof:geomhash":"2458e3b82deb7ccffb80019ea1b26822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864155,
+            "region_id":85682841,
+            "venue_id":991720821
+        }
+    ],
+    "wof:id":991720821,
+    "wof:lastmodified":1472566515,
+    "wof:name":"Galeria De Arte Birimbao",
+    "wof:parent_id":85864155,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    -5.9910316467,
+    37.3936347961,
+    -5.9910316467,
+    37.3936347961
+],
+  "geometry": {"coordinates":[-5.9910316467,37.3936347961],"type":"Point"}
+}

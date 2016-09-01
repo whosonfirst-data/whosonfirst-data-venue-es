@@ -1,0 +1,59 @@
+{
+  "id": 1008681701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6243429184,40.5482063293,-3.6243429184,40.5482063293",
+    "geom:latitude":40.548206,
+    "geom:longitude":-3.624343,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Real, 80",
+    "sg:city":"San Sebastian De Los Reyes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Molduras, Junquillos, Listones Y Molduras Perforadas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 52 16 30",
+    "sg:postcode":"28700",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07mIRJoO26c86wFiIOXkOl_40.548206_-3.624343@1306269686"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637694,
+    "wof:geomhash":"a851e8fd26efc8686c4846690af0d5fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1008681701
+        }
+    ],
+    "wof:id":1008681701,
+    "wof:lastmodified":1472637694,
+    "wof:name":"Valdeavero Pereira Mariano",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6243429184,
+    40.5482063293,
+    -3.6243429184,
+    40.5482063293
+],
+  "geometry": {"coordinates":[-3.6243429184,40.5482063293],"type":"Point"}
+}

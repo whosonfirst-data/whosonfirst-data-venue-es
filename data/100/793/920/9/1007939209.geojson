@@ -1,0 +1,78 @@
+{
+  "id": 1007939209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6536099911,40.4270858765,-3.6536099911,40.4270858765",
+    "geom:latitude":40.427086,
+    "geom:longitude":-3.65361,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Gerardo Cordon, 47",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Peluqueros: De Se\u00d1oras",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 05 32 72",
+    "sg:postcode":"28017",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863683,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2w9ikrAOAM3W7eR7MI5Vag_40.427086_-3.653610@1306269587"
+    },
+    "wof:country":"ES",
+    "wof:created":1472592649,
+    "wof:geomhash":"220697d8eefca58cc27295448e101f49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863683,
+            "region_id":85682783,
+            "venue_id":1007939209
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863695,
+            "region_id":85682783,
+            "venue_id":1007939209
+        }
+    ],
+    "wof:id":1007939209,
+    "wof:lastmodified":1472592649,
+    "wof:name":"Martin Fernandez Carmen",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6536099911,
+    40.4270858765,
+    -3.6536099911,
+    40.4270858765
+],
+  "geometry": {"coordinates":[-3.6536099911,40.4270858765],"type":"Point"}
+}

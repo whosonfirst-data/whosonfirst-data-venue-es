@@ -1,0 +1,59 @@
+{
+  "id": 1007698861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8230600357,40.3513908386,-3.8230600357,40.3513908386",
+    "geom:latitude":40.351391,
+    "geom:longitude":-3.82306,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Lisboa, 2",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ense\u00d1anza Secundaria: Colegios Y Escuelas Privadas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 11 00 28",
+    "sg:postcode":"28924",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YhFhGzv55ysCihaAOUryq_40.351391_-3.823060@1306269556"
+    },
+    "wof:country":"ES",
+    "wof:created":1472580906,
+    "wof:geomhash":"1ca99cc41a771ed538c5d420259e7f7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1007698861
+        }
+    ],
+    "wof:id":1007698861,
+    "wof:lastmodified":1472580906,
+    "wof:name":"Instituto De La Santisima Trinidad",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8230600357,
+    40.3513908386,
+    -3.8230600357,
+    40.3513908386
+],
+  "geometry": {"coordinates":[-3.8230600357,40.3513908386],"type":"Point"}
+}

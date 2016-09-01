@@ -1,0 +1,59 @@
+{
+  "id": 1007869931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7519650459,40.2700309753,-3.7519650459,40.2700309753",
+    "geom:latitude":40.270031,
+    "geom:longitude":-3.751965,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Murias, Km. 0017,0",
+    "sg:city":"Fuenlabrada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Suministros Y Materiales Industriales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 42 22 48",
+    "sg:postcode":"28947",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4S4EC9EIBm6i2jGDzqMKIL_40.270031_-3.751965@1306269579"
+    },
+    "wof:country":"ES",
+    "wof:created":1472589670,
+    "wof:geomhash":"957fba27b47aa1999abf4415ad314cbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1007869931
+        }
+    ],
+    "wof:id":1007869931,
+    "wof:lastmodified":1472589670,
+    "wof:name":"Maestro Cuesta Amador",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7519650459,
+    40.2700309753,
+    -3.7519650459,
+    40.2700309753
+],
+  "geometry": {"coordinates":[-3.7519650459,40.2700309753],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 991057019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.5041055679,36.6654624939,-4.5041055679,36.6654624939",
+    "geom:latitude":36.665462,
+    "geom:longitude":-4.504106,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Torremolinos, 46",
+    "sg:city":"Churriana",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 62 32 81",
+    "sg:postcode":"29140",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102545707,
+        85863531,
+        102191581,
+        404339241,
+        85633129,
+        404227361,
+        101748185,
+        85682787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xTf5yr8CoKYgplefNXUxn_36.665462_-4.504106@1306269435"
+    },
+    "wof:country":"ES",
+    "wof:created":1472523419,
+    "wof:geomhash":"2a1dc57ebf961041ef8b7ea880640c44",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545707,
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863531,
+            "region_id":85682787,
+            "venue_id":991057019
+        }
+    ],
+    "wof:id":991057019,
+    "wof:lastmodified":1472523419,
+    "wof:name":"Autoescuela Nueva Paz S.l.",
+    "wof:parent_id":102545707,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.5041055679,
+    36.6654624939,
+    -4.5041055679,
+    36.6654624939
+],
+  "geometry": {"coordinates":[-4.5041055679,36.6654624939],"type":"Point"}
+}

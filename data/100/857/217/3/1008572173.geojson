@@ -1,0 +1,59 @@
+{
+  "id": 1008572173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8610239029,40.4542884827,-3.8610239029,40.4542884827",
+    "geom:latitude":40.454288,
+    "geom:longitude":-3.861024,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Sorolla, S/n",
+    "sg:city":"Majadahonda",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 39 85 10",
+    "sg:postcode":"28220",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863657,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vFyMwjiN58W91S5xXNMTd_40.454288_-3.861024@1306269671"
+    },
+    "wof:country":"ES",
+    "wof:created":1472633054,
+    "wof:geomhash":"7d932388e3dd12388f46f2b47c63499c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863657,
+            "region_id":85682783,
+            "venue_id":1008572173
+        }
+    ],
+    "wof:id":1008572173,
+    "wof:lastmodified":1472633054,
+    "wof:name":"Supercor S.a.",
+    "wof:parent_id":85863657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8610239029,
+    40.4542884827,
+    -3.8610239029,
+    40.4542884827
+],
+  "geometry": {"coordinates":[-3.8610239029,40.4542884827],"type":"Point"}
+}

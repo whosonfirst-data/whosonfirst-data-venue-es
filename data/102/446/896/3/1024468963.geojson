@@ -1,0 +1,75 @@
+{
+  "id": 1024468963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1728157997,41.3981552124,2.1728157997,41.3981552124",
+    "geom:latitude":41.398155,
+    "geom:longitude":2.172816,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Arago, 371",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicios Gsm",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 08 10 30",
+    "sg:postcode":"08009",
+    "sg:province":"Barcelona",
+    "sg:website":"www.visonic.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863999,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36PSCL1M2ej9krPcMaJQLW_41.398155_2.172816@1306269694"
+    },
+    "wof:country":"ES",
+    "wof:created":1472640306,
+    "wof:geomhash":"4cb264ed546bebf3b5eadde44a8ec0d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863999,
+            "region_id":85682663,
+            "venue_id":1024468963
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1024468963
+        }
+    ],
+    "wof:id":1024468963,
+    "wof:lastmodified":1472640306,
+    "wof:name":"Visonic S. A.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1728157997,
+    41.3981552124,
+    2.1728157997,
+    41.3981552124
+],
+  "geometry": {"coordinates":[2.1728157997,41.3981552124],"type":"Point"}
+}

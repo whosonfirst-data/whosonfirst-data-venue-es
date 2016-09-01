@@ -1,0 +1,59 @@
+{
+  "id": 1008677263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8738510609,40.4945144653,-3.8738510609,40.4945144653",
+    "geom:latitude":40.494514,
+    "geom:longitude":-3.873851,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Guadarrama, 9",
+    "sg:city":"Rozas De Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c9dicos: Cirug\u00cda General",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 37 59 42",
+    "sg:postcode":"28230",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863613,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QCZDK956MrF9mVWY1PbV7_40.494514_-3.873851@1306269686"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637502,
+    "wof:geomhash":"6ce8ac49373814840949d7188d9901ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863613,
+            "region_id":85682783,
+            "venue_id":1008677263
+        }
+    ],
+    "wof:id":1008677263,
+    "wof:lastmodified":1472637502,
+    "wof:name":"Urquijo Tomatti Horacio",
+    "wof:parent_id":85863613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8738510609,
+    40.4945144653,
+    -3.8738510609,
+    40.4945144653
+],
+  "geometry": {"coordinates":[-3.8738510609,40.4945144653],"type":"Point"}
+}

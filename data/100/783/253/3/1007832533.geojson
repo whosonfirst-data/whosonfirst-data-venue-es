@@ -1,0 +1,81 @@
+{
+  "id": 1007832533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6705880165,40.4306259155,-3.6705880165,40.4306259155",
+    "geom:latitude":40.430626,
+    "geom:longitude":-3.670588,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Cartagena, 1",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 26 00 89",
+    "sg:postcode":"28028",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863805,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OWYzWlh963YVm4z1KQANG_40.430626_-3.670588@1306269574"
+    },
+    "wof:country":"ES",
+    "wof:created":1472587850,
+    "wof:geomhash":"c55198b44b30414e11f7b634e60f1667",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863805,
+            "region_id":85682783,
+            "venue_id":1007832533
+        }
+    ],
+    "wof:id":1007832533,
+    "wof:lastmodified":1472587850,
+    "wof:name":"Lopez De Prado Vicente",
+    "wof:parent_id":85863805,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.6705880165,
+    40.4306259155,
+    -3.6705880165,
+    40.4306259155
+],
+  "geometry": {"coordinates":[-3.6705880165,40.4306259155],"type":"Point"}
+}

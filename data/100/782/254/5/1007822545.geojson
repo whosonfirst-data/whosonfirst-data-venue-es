@@ -1,0 +1,78 @@
+{
+  "id": 1007822545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8690760136,41.6392669678,-0.8690760136,41.6392669678",
+    "geom:latitude":41.639267,
+    "geom:longitude":-0.869076,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cmno Cabaldos, 76",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pescader\u00cdas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 42 42 23",
+    "sg:postcode":"50013",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863383,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891,
+        85863355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VXAPxoz4MpdqMYVqrmzLm_41.639267_-0.869076@1306269573"
+    },
+    "wof:country":"ES",
+    "wof:created":1472587419,
+    "wof:geomhash":"83bde9a6f3962e3336b89e8e9a066e5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863383,
+            "region_id":85682891,
+            "venue_id":1007822545
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863355,
+            "region_id":85682891,
+            "venue_id":1007822545
+        }
+    ],
+    "wof:id":1007822545,
+    "wof:lastmodified":1472587419,
+    "wof:name":"Lobaco Ortiz Angel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8690760136,
+    41.6392669678,
+    -0.8690760136,
+    41.6392669678
+],
+  "geometry": {"coordinates":[-0.8690760136,41.6392669678],"type":"Point"}
+}

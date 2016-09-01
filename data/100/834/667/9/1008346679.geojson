@@ -1,0 +1,67 @@
+{
+  "id": 1008346679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.699103117,40.4392471313,-3.699103117,40.4392471313",
+    "geom:latitude":40.439247,
+    "geom:longitude":-3.699103,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ponzano, 34",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Restaurantes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 42 38 51",
+    "sg:postcode":"28003",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863649,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XzNPchberkpGlFv10PPn2_40.439247_-3.699103@1306269641"
+    },
+    "wof:country":"ES",
+    "wof:created":1472623355,
+    "wof:geomhash":"ce30fb4c56c291f4da0a497db24b1438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863649,
+            "region_id":85682783,
+            "venue_id":1008346679
+        }
+    ],
+    "wof:id":1008346679,
+    "wof:lastmodified":1472623355,
+    "wof:name":"Restaurante Chinaking S.a.",
+    "wof:parent_id":85863649,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.699103117,
+    40.4392471313,
+    -3.699103117,
+    40.4392471313
+],
+  "geometry": {"coordinates":[-3.699103117,40.4392471313],"type":"Point"}
+}

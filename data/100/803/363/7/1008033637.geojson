@@ -1,0 +1,59 @@
+{
+  "id": 1008033637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.5282850266,38.3963317871,-0.5282850266,38.3963317871",
+    "geom:latitude":38.396332,
+    "geom:longitude":-0.528285,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Primero De Mayo, 29",
+    "sg:city":"San Vicente Del Raspeig-sant Vicent Del Raspeig",
+    "sg:classifiers":[],
+    "sg:orig_category":"Empresarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 66 17 45",
+    "sg:postcode":"03690",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864081,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wOv3YSKsbSSNFjtMhnQ1p_38.396332_-0.528285@1306269599"
+    },
+    "wof:country":"ES",
+    "wof:created":1472596632,
+    "wof:geomhash":"077712088988d4e590a6490aeb9cf444",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864081,
+            "region_id":85682625,
+            "venue_id":1008033637
+        }
+    ],
+    "wof:id":1008033637,
+    "wof:lastmodified":1472596632,
+    "wof:name":"Montoyo Boix Genaro",
+    "wof:parent_id":85864081,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.5282850266,
+    38.3963317871,
+    -0.5282850266,
+    38.3963317871
+],
+  "geometry": {"coordinates":[-0.5282850266,38.3963317871],"type":"Point"}
+}

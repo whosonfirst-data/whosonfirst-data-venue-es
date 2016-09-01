@@ -1,0 +1,74 @@
+{
+  "id": 1008479233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4885179996,38.3530960083,-0.4885179996,38.3530960083",
+    "geom:latitude":38.353096,
+    "geom:longitude":-0.488518,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Teniente Llorca, 41",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Empresas De Carpinter\u00cda",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 14 02 49",
+    "sg:postcode":"03009",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864055,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625,
+        85864065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RodyRikBjKgiJXiSajrPQ_38.353096_-0.488518@1306269659"
+    },
+    "wof:country":"ES",
+    "wof:created":1472629088,
+    "wof:geomhash":"cb953a7b21add83b3bf623350847eff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864055,
+            "region_id":85682625,
+            "venue_id":1008479233
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864065,
+            "region_id":85682625,
+            "venue_id":1008479233
+        }
+    ],
+    "wof:id":1008479233,
+    "wof:lastmodified":1472629088,
+    "wof:name":"Sanz Diez Cesar",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4885179996,
+    38.3530960083,
+    -0.4885179996,
+    38.3530960083
+],
+  "geometry": {"coordinates":[-0.4885179996,38.3530960083],"type":"Point"}
+}

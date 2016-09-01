@@ -1,0 +1,89 @@
+{
+  "id": 1008388507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7123725414,40.4096488953,-3.7123725414,40.4096488953",
+    "geom:latitude":40.409649,
+    "geom:longitude":-3.712373,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Aguila, 12",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 65 66 29",
+    "sg:postcode":"28005",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "bebidas",
+        "para",
+        "la",
+        "de",
+        "y",
+        "equipo",
+        "industria"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863775,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nSPkactG1EgTeNwKwNQWy_40.409649_-3.712373@1306269647"
+    },
+    "wof:country":"ES",
+    "wof:created":1472625259,
+    "wof:geomhash":"0d4b24799b4c308528183c05e755d021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863775,
+            "region_id":85682783,
+            "venue_id":1008388507
+        }
+    ],
+    "wof:id":1008388507,
+    "wof:lastmodified":1472625259,
+    "wof:name":"Rodriguez Rodriguez Julio",
+    "wof:parent_id":85863775,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bebidas",
+        "para",
+        "la",
+        "de",
+        "y",
+        "equipo",
+        "industria"
+    ]
+},
+  "bbox": [
+    -3.7123725414,
+    40.4096488953,
+    -3.7123725414,
+    40.4096488953
+],
+  "geometry": {"coordinates":[-3.7123725414,40.4096488953],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 991508181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7119300365,40.4523582458,-3.7119300365,40.4523582458",
+    "geom:latitude":40.452358,
+    "geom:longitude":-3.71193,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Doctor Federico Rubio Y Gali, 55",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 59 63 97",
+    "sg:postcode":"28040",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "interior",
+        "administraci\u00d3n",
+        "en"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863619,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SPCfhUQNcJsuVDOUAgqzt_40.452358_-3.711930@1306269495"
+    },
+    "wof:country":"ES",
+    "wof:created":1472554797,
+    "wof:geomhash":"ca089e4a155e77172b4611bf244ae444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863619,
+            "region_id":85682783,
+            "venue_id":991508181
+        }
+    ],
+    "wof:id":991508181,
+    "wof:lastmodified":1472554797,
+    "wof:name":"Direccion General De La Policia",
+    "wof:parent_id":85863619,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "administraci\u00d3n",
+        "en"
+    ]
+},
+  "bbox": [
+    -3.7119300365,
+    40.4523582458,
+    -3.7119300365,
+    40.4523582458
+],
+  "geometry": {"coordinates":[-3.7119300365,40.4523582458],"type":"Point"}
+}

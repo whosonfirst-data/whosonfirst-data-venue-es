@@ -1,0 +1,73 @@
+{
+  "id": 991875363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8290190697,40.3416366577,-3.8290190697,40.3416366577",
+    "geom:latitude":40.341637,
+    "geom:longitude":-3.829019,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Valladolid, S/n",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 41 55 09",
+    "sg:postcode":"28922",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50SYYCgQ0CSqtxp5GVNzEC_40.341637_-3.829019@1306269544"
+    },
+    "wof:country":"ES",
+    "wof:created":1472576195,
+    "wof:geomhash":"c9fd2f3f2881569035baa1c25a080fa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":991875363
+        }
+    ],
+    "wof:id":991875363,
+    "wof:lastmodified":1472576195,
+    "wof:name":"Gv 88 S. A.",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [
+    -3.8290190697,
+    40.3416366577,
+    -3.8290190697,
+    40.3416366577
+],
+  "geometry": {"coordinates":[-3.8290190697,40.3416366577],"type":"Point"}
+}

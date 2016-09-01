@@ -1,0 +1,66 @@
+{
+  "id": 1008563053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.3464488983,36.7214279175,-4.3464488983,36.7214279175",
+    "geom:latitude":36.721428,
+    "geom:longitude":-4.346449,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Baja, 19",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ingeniero",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 20 39 42",
+    "sg:postcode":"29018",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863517,
+        85682787,
+        85863521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72PtQn8ewl6wxr9bPFXw7w_36.721428_-4.346449@1306269670"
+    },
+    "wof:country":"ES",
+    "wof:created":1472632683,
+    "wof:geomhash":"6c05cae4104a9f118528de36c8b6e9e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863517,
+            "region_id":85682787,
+            "venue_id":1008563053
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863521,
+            "region_id":85682787,
+            "venue_id":1008563053
+        }
+    ],
+    "wof:id":1008563053,
+    "wof:lastmodified":1472632683,
+    "wof:name":"Suarez Dunn Leopoldo",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.3464488983,
+    36.7214279175,
+    -4.3464488983,
+    36.7214279175
+],
+  "geometry": {"coordinates":[-4.3464488983,36.7214279175],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1008234943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6320269108,39.5726623535,2.6320269108,39.5726623535",
+    "geom:latitude":39.572662,
+    "geom:longitude":2.632027,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Parc, 11",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 28 71 51",
+    "sg:postcode":"07014",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864103,
+        102191581,
+        404330817,
+        85633129,
+        404227367,
+        101748237,
+        85682647,
+        85864107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PhQWmI7C6bj098G2uxTFV_39.572662_2.632027@1306269627"
+    },
+    "wof:country":"ES",
+    "wof:created":1472614223,
+    "wof:geomhash":"ee64e4de083124d20e8d915165b7bf18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864103,
+            "region_id":85682647,
+            "venue_id":1008234943
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864107,
+            "region_id":85682647,
+            "venue_id":1008234943
+        }
+    ],
+    "wof:id":1008234943,
+    "wof:lastmodified":1472614223,
+    "wof:name":"Pe\u00f1arrubia Marques Javier",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6320269108,
+    39.5726623535,
+    2.6320269108,
+    39.5726623535
+],
+  "geometry": {"coordinates":[2.6320269108,39.5726623535],"type":"Point"}
+}

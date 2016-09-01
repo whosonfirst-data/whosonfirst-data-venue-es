@@ -1,0 +1,60 @@
+{
+  "id": 1007984981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3896119893,39.4576911926,-0.3896119893,39.4576911926",
+    "geom:latitude":39.457691,
+    "geom:longitude":-0.389612,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Gaspar Aguilar, 18",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 57 49 11",
+    "sg:postcode":"46007",
+    "sg:province":"Valencia",
+    "sg:website":"www.mercadona.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864205,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mUtl8K3LsWmfyfA2rEf5O_39.457691_-0.389612@1306269593"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594524,
+    "wof:geomhash":"5f60a58075abd2b950733b608564a83d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864205,
+            "region_id":85682867,
+            "venue_id":1007984981
+        }
+    ],
+    "wof:id":1007984981,
+    "wof:lastmodified":1472594524,
+    "wof:name":"Mercadona S A",
+    "wof:parent_id":85864205,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3896119893,
+    39.4576911926,
+    -0.3896119893,
+    39.4576911926
+],
+  "geometry": {"coordinates":[-0.3896119893,39.4576911926],"type":"Point"}
+}

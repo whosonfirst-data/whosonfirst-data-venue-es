@@ -1,0 +1,70 @@
+{
+  "id": 1008601585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.7295899391,39.5484008789,2.7295899391,39.5484008789",
+    "geom:latitude":39.548401,
+    "geom:longitude":2.72959,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lloc Aeropue Son S Joan, S/n",
+    "sg:city":"Son Sant Joan",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 49 01 21",
+    "sg:postcode":"07611",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102545705,
+        85682647,
+        102191581,
+        404330817,
+        85633129,
+        404227367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ah8N7HJyw3sMgVm3g6QIE_39.548401_2.729590@1306269675"
+    },
+    "wof:country":"ES",
+    "wof:created":1472634320,
+    "wof:geomhash":"2af96256304466e698f8d79f0fa50407",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545705,
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "macroregion_id":404227367,
+            "region_id":85682647,
+            "venue_id":1008601585
+        }
+    ],
+    "wof:id":1008601585,
+    "wof:lastmodified":1472634320,
+    "wof:name":"Taxis Palma Radio Sociedad Cooperativa Limitada",
+    "wof:parent_id":102545705,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.7295899391,
+    39.5484008789,
+    2.7295899391,
+    39.5484008789
+],
+  "geometry": {"coordinates":[2.7295899391,39.5484008789],"type":"Point"}
+}

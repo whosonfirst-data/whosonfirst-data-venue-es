@@ -1,0 +1,81 @@
+{
+  "id": 990966545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6393511295,39.5798606873,2.6393511295,39.5798606873",
+    "geom:latitude":39.579861,
+    "geom:longitude":2.639351,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pl Barcelona, S/n",
+    "sg:city":"Palma",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 73 24 13",
+    "sg:postcode":"07011",
+    "sg:province":"Islas Baleares",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864103,
+        102191581,
+        404330817,
+        85633129,
+        404227367,
+        101748237,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q105ZpUBOSjgGnwRWw40T_39.579861_2.639351@1306269422"
+    },
+    "wof:country":"ES",
+    "wof:created":1472516450,
+    "wof:geomhash":"f70b8ba04bbedabaafea94d203da18f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864103,
+            "region_id":85682647,
+            "venue_id":990966545
+        }
+    ],
+    "wof:id":990966545,
+    "wof:lastmodified":1472516450,
+    "wof:name":"Amipal S. A.",
+    "wof:parent_id":85864103,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [
+    2.6393511295,
+    39.5798606873,
+    2.6393511295,
+    39.5798606873
+],
+  "geometry": {"coordinates":[2.6393511295,39.5798606873],"type":"Point"}
+}

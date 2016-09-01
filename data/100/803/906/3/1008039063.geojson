@@ -1,0 +1,81 @@
+{
+  "id": 1008039063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6941959858,40.3960494995,-3.6941959858,40.3960494995",
+    "geom:latitude":40.396049,
+    "geom:longitude":-3.694196,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Juan De Vera, 2",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 39 21 54",
+    "sg:postcode":"28045",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799161,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tk1qy0FioWJMPph1lsdRO_40.396049_-3.694196@1306269599"
+    },
+    "wof:country":"ES",
+    "wof:created":1472596854,
+    "wof:geomhash":"a9cc006b51bc3e6c9be74f40944cefc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799161,
+            "region_id":85682783,
+            "venue_id":1008039063
+        }
+    ],
+    "wof:id":1008039063,
+    "wof:lastmodified":1472596854,
+    "wof:name":"Moran Del Rio Jose Luis",
+    "wof:parent_id":85799161,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.6941959858,
+    40.3960494995,
+    -3.6941959858,
+    40.3960494995
+],
+  "geometry": {"coordinates":[-3.6941959858,40.3960494995],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 991572029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6417930126,39.5654144287,2.6417930126,39.5654144287",
+    "geom:latitude":39.565414,
+    "geom:longitude":2.641793,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Muelle, 6",
+    "sg:city":"Palma",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 72 19 96",
+    "sg:postcode":"07012",
+    "sg:province":"Islas Baleares",
+    "sg:tags":[
+        "planchas",
+        "surf",
+        "alquiler",
+        "de",
+        "vela",
+        "kayak",
+        "barcos",
+        "canoes",
+        "y"
+    ],
+    "sg:website":"www.ermar.piz",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864117,
+        102191581,
+        404330817,
+        85633129,
+        404227367,
+        101748237,
+        85682647,
+        85864105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4T5Dwx1Rpun5TJkyKL367r_39.565414_2.641793@1306269503"
+    },
+    "wof:country":"ES",
+    "wof:created":1472558290,
+    "wof:geomhash":"f48854ec5f32a8ce1285c3df87be1cd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864117,
+            "region_id":85682647,
+            "venue_id":991572029
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748237,
+            "neighbourhood_id":85864105,
+            "region_id":-1,
+            "venue_id":991572029
+        }
+    ],
+    "wof:id":991572029,
+    "wof:lastmodified":1472558290,
+    "wof:name":"Ermar Mallorca Sl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "planchas",
+        "surf",
+        "alquiler",
+        "de",
+        "vela",
+        "kayak",
+        "barcos",
+        "canoes",
+        "y"
+    ]
+},
+  "bbox": [
+    2.6417930126,
+    39.5654144287,
+    2.6417930126,
+    39.5654144287
+],
+  "geometry": {"coordinates":[2.6417930126,39.5654144287],"type":"Point"}
+}

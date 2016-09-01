@@ -1,0 +1,81 @@
+{
+  "id": 991171823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7046990395,40.4279174805,-3.7046990395,40.4279174805",
+    "geom:latitude":40.427917,
+    "geom:longitude":-3.704699,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Divino Pastor, 22",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 94 31 45",
+    "sg:postcode":"28004",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863665,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FBQjbYg8RRcJ7b9pnIETl_40.427917_-3.704699@1306269450"
+    },
+    "wof:country":"ES",
+    "wof:created":1472534292,
+    "wof:geomhash":"13f21c08b4de1c46ccfdfacd4aff5d47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863665,
+            "region_id":85682783,
+            "venue_id":991171823
+        }
+    ],
+    "wof:id":991171823,
+    "wof:lastmodified":1472534292,
+    "wof:name":"Botas Armentia Santiago",
+    "wof:parent_id":85863665,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ]
+},
+  "bbox": [
+    -3.7046990395,
+    40.4279174805,
+    -3.7046990395,
+    40.4279174805
+],
+  "geometry": {"coordinates":[-3.7046990395,40.4279174805],"type":"Point"}
+}

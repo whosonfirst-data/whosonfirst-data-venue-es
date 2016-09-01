@@ -1,0 +1,64 @@
+{
+  "id": 1024496221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7210617065,40.3114547729,-3.7210617065,40.3114547729",
+    "geom:latitude":40.311455,
+    "geom:longitude":-3.721062,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Galicia, 4",
+    "sg:city":"Getafe",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 81 99 55",
+    "sg:postcode":"28903",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05iKXXMOvp5oaB6P9T8tbZ_40.311455_-3.721062@1306269698"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641460,
+    "wof:geomhash":"8f06ff7c7b810e66dbe489d9687bb94d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1024496221
+        }
+    ],
+    "wof:id":1024496221,
+    "wof:lastmodified":1472641460,
+    "wof:name":"Zurita Lopez Maria Elena",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7210617065,
+    40.3114547729,
+    -3.7210617065,
+    40.3114547729
+],
+  "geometry": {"coordinates":[-3.7210617065,40.3114547729],"type":"Point"}
+}

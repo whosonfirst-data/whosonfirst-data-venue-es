@@ -1,0 +1,59 @@
+{
+  "id": 1008116207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1084399223,41.5470085144,2.1084399223,41.5470085144",
+    "geom:latitude":41.547009,
+    "geom:longitude":2.10844,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Esglesia, 7",
+    "sg:city":"Sabadell",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asociaciones, Organismos Culturales Y Socioeducativos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 27 41 11",
+    "sg:postcode":"08204",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Cxf97CaW2VZxNdQNAWIQf_41.547009_2.108440@1306269610"
+    },
+    "wof:country":"ES",
+    "wof:created":1472600216,
+    "wof:geomhash":"0e9607cd8087c01b298fa9fac2c84904",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008116207
+        }
+    ],
+    "wof:id":1008116207,
+    "wof:lastmodified":1472600216,
+    "wof:name":"Oficina De Dinamitzacio Del Centre De Sabadell",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1084399223,
+    41.5470085144,
+    2.1084399223,
+    41.5470085144
+],
+  "geometry": {"coordinates":[2.1084399223,41.5470085144],"type":"Point"}
+}

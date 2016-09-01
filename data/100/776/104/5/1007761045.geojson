@@ -1,0 +1,78 @@
+{
+  "id": 1007761045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.4426231384,36.7073440552,-4.4426231384,36.7073440552",
+    "geom:latitude":36.707344,
+    "geom:longitude":-4.442623,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Agustin Martin Carrion, S/n",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ense\u00d1anza Secundaria: Colegios Y Escuelas Privadas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 31 87 18",
+    "sg:postcode":"29006",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863445,
+        102191581,
+        404339241,
+        85633129,
+        404227361,
+        101748185,
+        85682787,
+        85863441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5h76wcAt1mFsV5UplArC1A_36.707344_-4.442623@1306269565"
+    },
+    "wof:country":"ES",
+    "wof:created":1472584298,
+    "wof:geomhash":"a165b22cdf1c842fe5a1c72d7636f6e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863445,
+            "region_id":85682787,
+            "venue_id":1007761045
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863441,
+            "region_id":85682787,
+            "venue_id":1007761045
+        }
+    ],
+    "wof:id":1007761045,
+    "wof:lastmodified":1472584298,
+    "wof:name":"Junta De Andalucia",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4426231384,
+    36.7073440552,
+    -4.4426231384,
+    36.7073440552
+],
+  "geometry": {"coordinates":[-4.4426231384,36.7073440552],"type":"Point"}
+}

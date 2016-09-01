@@ -1,0 +1,80 @@
+{
+  "id": 1007754675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7406589985,40.4051933289,-3.7406589985,40.4051933289",
+    "geom:latitude":40.405193,
+    "geom:longitude":-3.740659,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pase Perales, 58",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fabricaci\u00d3n, Venta, Instalaci\u00d3n De R\u00d3tulos, De R\u00d3tulos Luminosos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 64 18 10",
+    "sg:postcode":"28011",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863811,
+        102191581,
+        404338935,
+        85633129,
+        404227387,
+        101753753,
+        85682783,
+        85863767,
+        404338863,
+        101748283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1w7cqBPFlY16S6f2zZ37H3_40.405193_-3.740659@1306269564"
+    },
+    "wof:country":"ES",
+    "wof:created":1472583955,
+    "wof:geomhash":"09e08c12eebcaee8159b136d32e5367c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338935,
+            "locality_id":101753753,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863811,
+            "region_id":85682783,
+            "venue_id":1007754675
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863767,
+            "region_id":85682783,
+            "venue_id":1007754675
+        }
+    ],
+    "wof:id":1007754675,
+    "wof:lastmodified":1472583955,
+    "wof:name":"Juan Nadres Lopez Lopez-jesus Lopez Lopez C.b.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7406589985,
+    40.4051933289,
+    -3.7406589985,
+    40.4051933289
+],
+  "geometry": {"coordinates":[-3.7406589985,40.4051933289],"type":"Point"}
+}

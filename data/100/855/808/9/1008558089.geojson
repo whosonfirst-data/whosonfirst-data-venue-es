@@ -1,0 +1,67 @@
+{
+  "id": 1008558089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6833028793,40.4486160278,-3.6833028793,40.4486160278",
+    "geom:latitude":40.448616,
+    "geom:longitude":-3.683303,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Serrano, 184",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros Empresariales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 45 04 42",
+    "sg:postcode":"28002",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863651,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LVpLE27RCsq0gz40mDTYT_40.448616_-3.683303@1306269670"
+    },
+    "wof:country":"ES",
+    "wof:created":1472632472,
+    "wof:geomhash":"79433511353bf987eed7bbaeb330d170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863651,
+            "region_id":85682783,
+            "venue_id":1008558089
+        }
+    ],
+    "wof:id":1008558089,
+    "wof:lastmodified":1472632472,
+    "wof:name":"Spazentral",
+    "wof:parent_id":85863651,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6833028793,
+    40.4486160278,
+    -3.6833028793,
+    40.4486160278
+],
+  "geometry": {"coordinates":[-3.6833028793,40.4486160278],"type":"Point"}
+}

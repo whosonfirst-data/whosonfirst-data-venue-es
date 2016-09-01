@@ -1,0 +1,78 @@
+{
+  "id": 1008436297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1531760693,41.3972854614,2.1531760693,41.3972854614",
+    "geom:latitude":41.397285,
+    "geom:longitude":2.153176,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Granada Del Penedes, 12",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electricidad: Instaladores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 18 65 92",
+    "sg:postcode":"08006",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864017,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85799393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ByfsY01ZES8rHuPODxV5v_41.397285_2.153176@1306269653"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627439,
+    "wof:geomhash":"4059983568d2c4aa7a99afb5cca3154e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864017,
+            "region_id":85682663,
+            "venue_id":1008436297
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799393,
+            "region_id":85682663,
+            "venue_id":1008436297
+        }
+    ],
+    "wof:id":1008436297,
+    "wof:lastmodified":1472627439,
+    "wof:name":"Salas Dalmau Miguel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1531760693,
+    41.3972854614,
+    2.1531760693,
+    41.3972854614
+],
+  "geometry": {"coordinates":[2.1531760693,41.3972854614],"type":"Point"}
+}

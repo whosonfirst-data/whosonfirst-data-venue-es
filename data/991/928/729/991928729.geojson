@@ -1,0 +1,78 @@
+{
+  "id": 991928729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6573660374,40.4167404175,-3.6573660374,40.4167404175",
+    "geom:latitude":40.41674,
+    "geom:longitude":-3.657366,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Acce Parque De La Elipa, S/n",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Polideportivos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 30 35 11",
+    "sg:postcode":"28030",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863715,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61maLM02zmtY0N784luvmP_40.416740_-3.657366@1306269551"
+    },
+    "wof:country":"ES",
+    "wof:created":1472578874,
+    "wof:geomhash":"e41b6a8f8dff5bf7814e363308d9b3c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863715,
+            "region_id":85682783,
+            "venue_id":991928729
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863683,
+            "region_id":85682783,
+            "venue_id":991928729
+        }
+    ],
+    "wof:id":991928729,
+    "wof:lastmodified":1472578874,
+    "wof:name":"Iam Informatica Del Ayuntamiento De Madrid",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6573660374,
+    40.4167404175,
+    -3.6573660374,
+    40.4167404175
+],
+  "geometry": {"coordinates":[-3.6573660374,40.4167404175],"type":"Point"}
+}

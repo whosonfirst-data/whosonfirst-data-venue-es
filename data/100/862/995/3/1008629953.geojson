@@ -1,0 +1,78 @@
+{
+  "id": 1008629953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1369268894,41.4064598083,2.1369268894,41.4064598083",
+    "geom:latitude":41.40646,
+    "geom:longitude":2.136927,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Teodora Lamadrid, 27",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 34 20 00",
+    "sg:postcode":"08022",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863989,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85799611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aHGDMEPjVOuQ2pFKpfXuz_41.406460_2.136927@1306269679"
+    },
+    "wof:country":"ES",
+    "wof:created":1472635545,
+    "wof:geomhash":"88ed3f07f9096ba60b19387db5bb355d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863989,
+            "region_id":85682663,
+            "venue_id":1008629953
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799611,
+            "region_id":85682663,
+            "venue_id":1008629953
+        }
+    ],
+    "wof:id":1008629953,
+    "wof:lastmodified":1472635545,
+    "wof:name":"Tomas Parra Maria Cinta",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1369268894,
+    41.4064598083,
+    2.1369268894,
+    41.4064598083
+],
+  "geometry": {"coordinates":[2.1369268894,41.4064598083],"type":"Point"}
+}

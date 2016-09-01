@@ -1,0 +1,78 @@
+{
+  "id": 991318711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1559250355,41.4222145081,2.1559250355,41.4222145081",
+    "geom:latitude":41.422215,
+    "geom:longitude":2.155925,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Agudells, 85",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Formaci\u00d3n Continuada (variada)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 20 96 47",
+    "sg:postcode":"08032",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863991,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85863985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66gJqhwkMqZVKzMGHlowYG_41.422215_2.155925@1306269470"
+    },
+    "wof:country":"ES",
+    "wof:created":1472543508,
+    "wof:geomhash":"1fb39cb8de02fbb7cbff29da4fefadfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863991,
+            "region_id":85682663,
+            "venue_id":991318711
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863985,
+            "region_id":85682663,
+            "venue_id":991318711
+        }
+    ],
+    "wof:id":991318711,
+    "wof:lastmodified":1472543508,
+    "wof:name":"Centro Juvenil De Adolescentes Del Carmelo De Barcelona",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1559250355,
+    41.4222145081,
+    2.1559250355,
+    41.4222145081
+],
+  "geometry": {"coordinates":[2.1559250355,41.4222145081],"type":"Point"}
+}

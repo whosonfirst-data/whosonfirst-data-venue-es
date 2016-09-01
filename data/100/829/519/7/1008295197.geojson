@@ -1,0 +1,80 @@
+{
+  "id": 1008295197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0978739262,41.384765625,2.0978739262,41.384765625",
+    "geom:latitude":41.384766,
+    "geom:longitude":2.097874,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Joan Miro, 22",
+    "sg:city":"Esplugues Llobregat",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bisuteros (fabricaci\u00d3n, Al Por Mayor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 71 92 09",
+    "sg:postcode":"08950",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799381,
+        102191581,
+        404331349,
+        85633129,
+        404227379,
+        101758769,
+        85682663,
+        85799591,
+        404331371,
+        101758753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44kJbr5QR4QCehs7E4Db8y_41.384766_2.097874@1306269635"
+    },
+    "wof:country":"ES",
+    "wof:created":1472618563,
+    "wof:geomhash":"d8dce5fb061fae131a0f9a73cc1e540c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331349,
+            "locality_id":101758769,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799381,
+            "region_id":85682663,
+            "venue_id":1008295197
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331371,
+            "locality_id":101758753,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799591,
+            "region_id":85682663,
+            "venue_id":1008295197
+        }
+    ],
+    "wof:id":1008295197,
+    "wof:lastmodified":1472618563,
+    "wof:name":"Puig Doria Pala Jose Maria",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0978739262,
+    41.384765625,
+    2.0978739262,
+    41.384765625
+],
+  "geometry": {"coordinates":[2.0978739262,41.384765625],"type":"Point"}
+}

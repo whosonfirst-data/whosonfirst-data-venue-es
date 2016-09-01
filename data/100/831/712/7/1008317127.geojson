@@ -1,0 +1,82 @@
+{
+  "id": 1008317127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.695800066,40.4109420776,-3.695800066,40.4109420776",
+    "geom:latitude":40.410942,
+    "geom:longitude":-3.6958,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Fucar, 22",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 29 06 32",
+    "sg:postcode":"28014",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "sg:website":"www.magdabellotti.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863793,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jrYFDh1VW6AtsXl7EZz6c_40.410942_-3.695800@1306269637"
+    },
+    "wof:country":"ES",
+    "wof:created":1472622084,
+    "wof:geomhash":"2926593076b1199df51fd44d340a046f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863793,
+            "region_id":85682783,
+            "venue_id":1008317127
+        }
+    ],
+    "wof:id":1008317127,
+    "wof:lastmodified":1472622084,
+    "wof:name":"Ramos Arguelles Belloti Magdalena",
+    "wof:parent_id":85863793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    -3.695800066,
+    40.4109420776,
+    -3.695800066,
+    40.4109420776
+],
+  "geometry": {"coordinates":[-3.695800066,40.4109420776],"type":"Point"}
+}

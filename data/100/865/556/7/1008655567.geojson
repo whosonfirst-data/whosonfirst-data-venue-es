@@ -1,0 +1,67 @@
+{
+  "id": 1008655567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1963620186,41.4130973816,2.1963620186,41.4130973816",
+    "geom:latitude":41.413097,
+    "geom:longitude":2.196362,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ptge Antoni Gassol, 22",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 07 50 67",
+    "sg:postcode":"08018",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864003,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WMfb9bHJ7e0gdxPd5MsIM_41.413097_2.196362@1306269683"
+    },
+    "wof:country":"ES",
+    "wof:created":1472636621,
+    "wof:geomhash":"2a99ccafb5dcd07689eee6bd141bcfc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864003,
+            "region_id":85682663,
+            "venue_id":1008655567
+        }
+    ],
+    "wof:id":1008655567,
+    "wof:lastmodified":1472636621,
+    "wof:name":"Trias Banyeras Jorge",
+    "wof:parent_id":85864003,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1963620186,
+    41.4130973816,
+    2.1963620186,
+    41.4130973816
+],
+  "geometry": {"coordinates":[2.1963620186,41.4130973816],"type":"Point"}
+}

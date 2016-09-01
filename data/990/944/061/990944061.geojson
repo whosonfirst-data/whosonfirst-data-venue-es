@@ -1,0 +1,74 @@
+{
+  "id": 990944061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8622666001,41.6452598572,-0.8622666001,41.6452598572",
+    "geom:latitude":41.64526,
+    "geom:longitude":-0.862267,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Compromiso De Caspe, 93",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alumbrados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 42 42 74",
+    "sg:postcode":"50002",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863355,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891,
+        85863353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5REE2kALCfVDSrfjMJU2NG_41.645260_-0.862267@1306269419"
+    },
+    "wof:country":"ES",
+    "wof:created":1472513045,
+    "wof:geomhash":"81eb864c6fd780b7a33adbf8a71b2e80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863355,
+            "region_id":85682891,
+            "venue_id":990944061
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863353,
+            "region_id":85682891,
+            "venue_id":990944061
+        }
+    ],
+    "wof:id":990944061,
+    "wof:lastmodified":1472513045,
+    "wof:name":"Alonso De Miguel Felix",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8622666001,
+    41.6452598572,
+    -0.8622666001,
+    41.6452598572
+],
+  "geometry": {"coordinates":[-0.8622666001,41.6452598572],"type":"Point"}
+}

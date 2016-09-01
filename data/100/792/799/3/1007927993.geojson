@@ -1,0 +1,59 @@
+{
+  "id": 1007927993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5656850338,40.4256401062,-3.5656850338,40.4256401062",
+    "geom:latitude":40.42564,
+    "geom:longitude":-3.565685,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Constitucion (de La), 41",
+    "sg:city":"Coslada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cl\u00cdnicas M\u00c9dicas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 71 01 29",
+    "sg:postcode":"28820",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863629,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BMMHy2ehbPPwEH8Dw5BP3_40.425640_-3.565685@1306269586"
+    },
+    "wof:country":"ES",
+    "wof:created":1472592144,
+    "wof:geomhash":"460c36b36fc98e98dddca395c0e01496",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863629,
+            "region_id":85682783,
+            "venue_id":1007927993
+        }
+    ],
+    "wof:id":1007927993,
+    "wof:lastmodified":1472592144,
+    "wof:name":"Martinez Lozano Maria Jose",
+    "wof:parent_id":85863629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5656850338,
+    40.4256401062,
+    -3.5656850338,
+    40.4256401062
+],
+  "geometry": {"coordinates":[-3.5656850338,40.4256401062],"type":"Point"}
+}

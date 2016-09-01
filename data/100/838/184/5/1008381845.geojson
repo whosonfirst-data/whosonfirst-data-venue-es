@@ -1,0 +1,59 @@
+{
+  "id": 1008381845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8271179199,40.3471412659,-3.8271179199,40.3471412659",
+    "geom:latitude":40.347141,
+    "geom:longitude":-3.827118,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Soria, 6",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Peluquer\u00cdas, Peluquer\u00cda Mixta",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 86 07 57",
+    "sg:postcode":"28921",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2G2QFtLaYnNU6E3MEroMqM_40.347141_-3.827118@1306269646"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624834,
+    "wof:geomhash":"f539316247e7002f9040ae4fad074957",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008381845
+        }
+    ],
+    "wof:id":1008381845,
+    "wof:lastmodified":1472624834,
+    "wof:name":"Rodriguez Juzgado Santos",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8271179199,
+    40.3471412659,
+    -3.8271179199,
+    40.3471412659
+],
+  "geometry": {"coordinates":[-3.8271179199,40.3471412659],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1008512763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6896779537,40.4488334656,-3.6896779537,40.4488334656",
+    "geom:latitude":40.448833,
+    "geom:longitude":-3.689678,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Hermanos Pinzon, 4",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Artes Gr\u00c1ficas, Artes Pl\u00c1sticas (curso)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 11 50 90",
+    "sg:postcode":"28036",
+    "sg:province":"Madrid",
+    "sg:website":"www.sersa.info",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863799,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Cqpn4vMkzQ4vB5smLWX03_40.448833_-3.689678@1306269664"
+    },
+    "wof:country":"ES",
+    "wof:created":1472630553,
+    "wof:geomhash":"0c072d5510a5c27699af6a359b81ffb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863799,
+            "region_id":85682783,
+            "venue_id":1008512763
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863621,
+            "region_id":85682783,
+            "venue_id":1008512763
+        }
+    ],
+    "wof:id":1008512763,
+    "wof:lastmodified":1472630553,
+    "wof:name":"Servicios Especiales De Reproduccion Grafica S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6896779537,
+    40.4488334656,
+    -3.6896779537,
+    40.4488334656
+],
+  "geometry": {"coordinates":[-3.6896779537,40.4488334656],"type":"Point"}
+}

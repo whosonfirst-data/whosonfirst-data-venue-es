@@ -1,0 +1,73 @@
+{
+  "id": 1007756525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6108939648,37.1778564453,-3.6108939648,37.1778564453",
+    "geom:latitude":37.177856,
+    "geom:longitude":-3.610894,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Mendez Nu\u00d1ez, 8",
+    "sg:city":"Granada",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 28 37 51",
+    "sg:postcode":"18003",
+    "sg:province":"Granada",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863835,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TumsKjcN9JoyPBjLyCMBa_37.177856_-3.610894@1306269564"
+    },
+    "wof:country":"ES",
+    "wof:created":1472584059,
+    "wof:geomhash":"412b03ca7c6348a7091c09b093011fb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863835,
+            "region_id":85682731,
+            "venue_id":1007756525
+        }
+    ],
+    "wof:id":1007756525,
+    "wof:lastmodified":1472584059,
+    "wof:name":"Juegos Andaca S.a.",
+    "wof:parent_id":85863835,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [
+    -3.6108939648,
+    37.1778564453,
+    -3.6108939648,
+    37.1778564453
+],
+  "geometry": {"coordinates":[-3.6108939648,37.1778564453],"type":"Point"}
+}

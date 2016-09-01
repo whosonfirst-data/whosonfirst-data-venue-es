@@ -1,0 +1,67 @@
+{
+  "id": 1008093145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1626710892,41.3894729614,2.1626710892,41.3894729614",
+    "geom:latitude":41.389473,
+    "geom:longitude":2.162671,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Balmes, 56",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros Empresariales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 67 00 70",
+    "sg:postcode":"08007",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864017,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39pIGZHlzmIrzPM53MI7Mb_41.389473_2.162671@1306269607"
+    },
+    "wof:country":"ES",
+    "wof:created":1472599225,
+    "wof:geomhash":"2c7de52f235310e5590ebce6597d1c30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864017,
+            "region_id":85682663,
+            "venue_id":1008093145
+        }
+    ],
+    "wof:id":1008093145,
+    "wof:lastmodified":1472599225,
+    "wof:name":"New Meeting Fieldwork S.l.",
+    "wof:parent_id":85864017,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1626710892,
+    41.3894729614,
+    2.1626710892,
+    41.3894729614
+],
+  "geometry": {"coordinates":[2.1626710892,41.3894729614],"type":"Point"}
+}

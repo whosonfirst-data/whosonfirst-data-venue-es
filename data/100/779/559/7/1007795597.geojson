@@ -1,0 +1,73 @@
+{
+  "id": 1007795597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6177198887,37.1958618164,-3.6177198887,37.1958618164",
+    "geom:latitude":37.195862,
+    "geom:longitude":-3.61772,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Virgilio (de), 16",
+    "sg:city":"Cerrillo De Maracena",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 17 19 60",
+    "sg:postcode":"18014",
+    "sg:province":"Granada",
+    "sg:tags":[
+        "televisiones",
+        "y",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863831,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5h1cwKP2HqUWhVfhcGoJC9_37.195862_-3.617720@1306269569"
+    },
+    "wof:country":"ES",
+    "wof:created":1472586074,
+    "wof:geomhash":"54e55fa9f18f67df58e63cd1da9db8ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863831,
+            "region_id":85682731,
+            "venue_id":1007795597
+        }
+    ],
+    "wof:id":1007795597,
+    "wof:lastmodified":1472586074,
+    "wof:name":"La Voz De Granada S.l.",
+    "wof:parent_id":85863831,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "televisiones",
+        "y",
+        "radio"
+    ]
+},
+  "bbox": [
+    -3.6177198887,
+    37.1958618164,
+    -3.6177198887,
+    37.1958618164
+],
+  "geometry": {"coordinates":[-3.6177198887,37.1958618164],"type":"Point"}
+}

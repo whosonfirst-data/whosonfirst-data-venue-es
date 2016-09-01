@@ -1,0 +1,81 @@
+{
+  "id": 991841773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.9172199965,41.6477241516,-0.9172199965,41.6477241516",
+    "geom:latitude":41.647724,
+    "geom:longitude":-0.91722,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Gervasio Artigas, 1",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 31 37 02",
+    "sg:postcode":"50017",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863433,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EOXLBrSF2i0OOIIKDuEs8_41.647724_-0.917220@1306269539"
+    },
+    "wof:country":"ES",
+    "wof:created":1472574244,
+    "wof:geomhash":"c8199cc6d70bdf2bb2ffe0fa0678cea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863433,
+            "region_id":85682891,
+            "venue_id":991841773
+        }
+    ],
+    "wof:id":991841773,
+    "wof:lastmodified":1472574244,
+    "wof:name":"Gracia Gonzalo Miguel",
+    "wof:parent_id":85863433,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -0.9172199965,
+    41.6477241516,
+    -0.9172199965,
+    41.6477241516
+],
+  "geometry": {"coordinates":[-0.9172199965,41.6477241516],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 991200949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1904211044,41.3803138733,2.1904211044,41.3803138733",
+    "geom:latitude":41.380314,
+    "geom:longitude":2.190421,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Andrea Doria, 33",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cajas De Ahorro",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 10 40 88",
+    "sg:postcode":"08003",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w6jmX6fFpqoeoq7amDSmS_41.380314_2.190421@1306269454"
+    },
+    "wof:country":"ES",
+    "wof:created":1472536576,
+    "wof:geomhash":"835378664c849f6e72fd4a881988bf93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":991200949
+        }
+    ],
+    "wof:id":991200949,
+    "wof:lastmodified":1472536576,
+    "wof:name":"Caixa D'estalvis De Catalunya",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1904211044,
+    41.3803138733,
+    2.1904211044,
+    41.3803138733
+],
+  "geometry": {"coordinates":[2.1904211044,41.3803138733],"type":"Point"}
+}

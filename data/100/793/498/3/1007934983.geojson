@@ -1,0 +1,72 @@
+{
+  "id": 1007934983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0991039276,41.3305168152,2.0991039276,41.3305168152",
+    "geom:latitude":41.330517,
+    "geom:longitude":2.099104,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Begues, 14",
+    "sg:city":"Prat Llobregat",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 78 21 36",
+    "sg:postcode":"08820",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799585,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_167wFuNP3Sdonl4b3YXQz2_41.330517_2.099104@1306269587"
+    },
+    "wof:country":"ES",
+    "wof:created":1472592463,
+    "wof:geomhash":"636654de07c6caa1a52c240c825df1e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799585,
+            "region_id":85682663,
+            "venue_id":1007934983
+        }
+    ],
+    "wof:id":1007934983,
+    "wof:lastmodified":1472592463,
+    "wof:name":"Martinez Salvador Carlos",
+    "wof:parent_id":85799585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0991039276,
+    41.3305168152,
+    2.0991039276,
+    41.3305168152
+],
+  "geometry": {"coordinates":[2.0991039276,41.3305168152],"type":"Point"}
+}

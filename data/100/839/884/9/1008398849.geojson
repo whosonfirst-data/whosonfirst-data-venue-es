@@ -1,0 +1,67 @@
+{
+  "id": 1008398849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1632950306,41.4412460327,2.1632950306,41.4412460327",
+    "geom:latitude":41.441246,
+    "geom:longitude":2.163295,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Victor Jara, S/n",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Restaurantes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 28 34 45",
+    "sg:postcode":"08042",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799399,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vJG9ZSSrfFTr4zsVNgrSO_41.441246_2.163295@1306269648"
+    },
+    "wof:country":"ES",
+    "wof:created":1472625664,
+    "wof:geomhash":"d2412bd10f063428b393ac0255378dbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799399,
+            "region_id":85682663,
+            "venue_id":1008398849
+        }
+    ],
+    "wof:id":1008398849,
+    "wof:lastmodified":1472625664,
+    "wof:name":"Romero Campos Dolores",
+    "wof:parent_id":85799399,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1632950306,
+    41.4412460327,
+    2.1632950306,
+    41.4412460327
+],
+  "geometry": {"coordinates":[2.1632950306,41.4412460327],"type":"Point"}
+}

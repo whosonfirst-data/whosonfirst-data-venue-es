@@ -1,0 +1,77 @@
+{
+  "id": 1008031555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4836409986,38.3437538147,-0.4836409986,38.3437538147",
+    "geom:latitude":38.343754,
+    "geom:longitude":-0.483641,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Fernando, 28",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Aduana",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 14 18 14",
+    "sg:postcode":"03001",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864067,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625,
+        85864069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_390kQfXhLrn3p8Q6YsWlhc_38.343754_-0.483641@1306269598"
+    },
+    "wof:country":"ES",
+    "wof:created":1472596551,
+    "wof:geomhash":"bd338e262656053539fb4a66b1d833a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864067,
+            "region_id":85682625,
+            "venue_id":1008031555
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748211,
+            "neighbourhood_id":85864069,
+            "region_id":-1,
+            "venue_id":1008031555
+        }
+    ],
+    "wof:id":1008031555,
+    "wof:lastmodified":1472596551,
+    "wof:name":"Montesinos Transistos S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4836409986,
+    38.3437538147,
+    -0.4836409986,
+    38.3437538147
+],
+  "geometry": {"coordinates":[-0.4836409986,38.3437538147],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1007699201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8675789833,40.4654998779,-3.8675789833,40.4654998779",
+    "geom:latitude":40.4655,
+    "geom:longitude":-3.867579,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Maria Teresa Leon, 1",
+    "sg:city":"Majadahonda",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ense\u00d1anza Secundaria: Colegios Y Escuelas Privadas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 34 00 56",
+    "sg:postcode":"28220",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863657,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HHe6R4vqHMPApWglV54d6_40.465500_-3.867579@1306269556"
+    },
+    "wof:country":"ES",
+    "wof:created":1472580923,
+    "wof:geomhash":"157d6ec3066bfa52575c54ccdec3eda2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863657,
+            "region_id":85682783,
+            "venue_id":1007699201
+        }
+    ],
+    "wof:id":1007699201,
+    "wof:lastmodified":1472580923,
+    "wof:name":"Instituto Ense\u00d1anza Superior Margarita Salas",
+    "wof:parent_id":85863657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8675789833,
+    40.4654998779,
+    -3.8675789833,
+    40.4654998779
+],
+  "geometry": {"coordinates":[-3.8675789833,40.4654998779],"type":"Point"}
+}

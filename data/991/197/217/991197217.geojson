@@ -1,0 +1,64 @@
+{
+  "id": 991197217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7420520782,40.4794845581,-3.7420520782,40.4794845581",
+    "geom:latitude":40.479485,
+    "geom:longitude":-3.742052,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Gavilanes, 23",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 73 61 02",
+    "sg:postcode":"28035",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85682783,
+        102191581,
+        85633129,
+        101748283,
+        85863557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MX0dfFDun3co7LDl536Su_40.479485_-3.742052@1306269453"
+    },
+    "wof:country":"ES",
+    "wof:created":1472536286,
+    "wof:geomhash":"d5954ebfbacf916c4daa0f9d5c2e44de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748283,
+            "neighbourhood_id":85863557,
+            "region_id":85682783,
+            "venue_id":991197217
+        }
+    ],
+    "wof:id":991197217,
+    "wof:lastmodified":1472536286,
+    "wof:name":"Cadenas Del Amo Cesar-amador",
+    "wof:parent_id":85863557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7420520782,
+    40.4794845581,
+    -3.7420520782,
+    40.4794845581
+],
+  "geometry": {"coordinates":[-3.7420520782,40.4794845581],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1008379691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.248349905,41.4535102844,2.248349905,41.4535102844",
+    "geom:latitude":41.45351,
+    "geom:longitude":2.24835,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carr Laietania, 2",
+    "sg:city":"Badalona",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 89 14 61",
+    "sg:postcode":"08911",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799485,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tcjS9hcxawRW9yzWX4CxA_41.453510_2.248350@1306269646"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624746,
+    "wof:geomhash":"a6ab120ecacd577b8cd21f3b46132523",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799485,
+            "region_id":85682663,
+            "venue_id":1008379691
+        }
+    ],
+    "wof:id":1008379691,
+    "wof:lastmodified":1472624746,
+    "wof:name":"Rodriguez Garcia Urbano",
+    "wof:parent_id":85799485,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.248349905,
+    41.4535102844,
+    2.248349905,
+    41.4535102844
+],
+  "geometry": {"coordinates":[2.248349905,41.4535102844],"type":"Point"}
+}

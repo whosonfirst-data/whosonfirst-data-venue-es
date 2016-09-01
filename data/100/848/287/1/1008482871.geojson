@@ -1,0 +1,59 @@
+{
+  "id": 1008482871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6487360001,39.5833587646,2.6487360001,39.5833587646",
+    "geom:latitude":39.583359,
+    "geom:longitude":2.648736,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Blanquerna, 63",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Parques De Atracciones Y Centros De Esparcimiento",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 29 89 39",
+    "sg:postcode":"07010",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864091,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R1rif7MAgysAzKIiEeKZD_39.583359_2.648736@1306269660"
+    },
+    "wof:country":"ES",
+    "wof:created":1472629244,
+    "wof:geomhash":"3e2e9021ebc8c73009f56d6abc00e318",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":1008482871
+        }
+    ],
+    "wof:id":1008482871,
+    "wof:lastmodified":1472629244,
+    "wof:name":"Sarpem S.a.",
+    "wof:parent_id":85864091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6487360001,
+    39.5833587646,
+    2.6487360001,
+    39.5833587646
+],
+  "geometry": {"coordinates":[2.6487360001,39.5833587646],"type":"Point"}
+}

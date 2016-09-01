@@ -1,0 +1,59 @@
+{
+  "id": 1007807489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5356824398,40.4289474487,-3.5356824398,40.4289474487",
+    "geom:latitude":40.428947,
+    "geom:longitude":-3.535682,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Badajoz, 12",
+    "sg:city":"San Fernando De Henares",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tiendas De Grano, Frutas Y Legumbres Secas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 73 49 50",
+    "sg:postcode":"28830",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863709,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27XdjWkmKSBJyxPLcpLEEx_40.428947_-3.535682@1306269571"
+    },
+    "wof:country":"ES",
+    "wof:created":1472586715,
+    "wof:geomhash":"077b5bf4b9e56a771f81038c7f423b62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863709,
+            "region_id":85682783,
+            "venue_id":1007807489
+        }
+    ],
+    "wof:id":1007807489,
+    "wof:lastmodified":1472586715,
+    "wof:name":"Liedo Aguado Angel Carlos",
+    "wof:parent_id":85863709,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5356824398,
+    40.4289474487,
+    -3.5356824398,
+    40.4289474487
+],
+  "geometry": {"coordinates":[-3.5356824398,40.4289474487],"type":"Point"}
+}

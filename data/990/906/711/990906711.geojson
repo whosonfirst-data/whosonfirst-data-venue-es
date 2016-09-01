@@ -1,0 +1,60 @@
+{
+  "id": 990906711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8033123016,43.4629135132,-3.8033123016,43.4629135132",
+    "geom:latitude":43.462914,
+    "geom:longitude":-3.803312,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Daoiz Y Velarde, 3",
+    "sg:city":"Santander",
+    "sg:classifiers":[],
+    "sg:orig_category":"Procuradores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 21 17 22",
+    "sg:postcode":"39003",
+    "sg:province":"Cantabria",
+    "sg:website":"www.aguileraprocuradores.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799303,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2igetBDRyQFb4l4PSWRGia_43.462914_-3.803312@1306269415"
+    },
+    "wof:country":"ES",
+    "wof:created":1472509270,
+    "wof:geomhash":"021c964008a9a4d2f3b607260d615907",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799303,
+            "region_id":85682833,
+            "venue_id":990906711
+        }
+    ],
+    "wof:id":990906711,
+    "wof:lastmodified":1472509270,
+    "wof:name":"Aguilera San Miguel Jose Luis",
+    "wof:parent_id":85799303,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8033123016,
+    43.4629135132,
+    -3.8033123016,
+    43.4629135132
+],
+  "geometry": {"coordinates":[-3.8033123016,43.4629135132],"type":"Point"}
+}

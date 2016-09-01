@@ -1,0 +1,67 @@
+{
+  "id": 1008503873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.91307199,41.6412734985,-0.91307199,41.6412734985",
+    "geom:latitude":41.641273,
+    "geom:longitude":-0.913072,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Gomez Laguna, 40",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Doctores En Medicina",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 75 04 46",
+    "sg:postcode":"50009",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863369,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FxsKqlikrdYJra5RTHjTg_41.641273_-0.913072@1306269662"
+    },
+    "wof:country":"ES",
+    "wof:created":1472630186,
+    "wof:geomhash":"1711e12c5d66410c3fdacd1d1ec94889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863369,
+            "region_id":85682891,
+            "venue_id":1008503873
+        }
+    ],
+    "wof:id":1008503873,
+    "wof:lastmodified":1472630186,
+    "wof:name":"Serrano Arcos Miguel Angel",
+    "wof:parent_id":85863369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.91307199,
+    41.6412734985,
+    -0.91307199,
+    41.6412734985
+],
+  "geometry": {"coordinates":[-0.91307199,41.6412734985],"type":"Point"}
+}

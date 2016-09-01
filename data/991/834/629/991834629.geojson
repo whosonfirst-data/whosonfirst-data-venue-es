@@ -1,0 +1,64 @@
+{
+  "id": 991834629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6200692654,37.1880760193,-3.6200692654,37.1880760193",
+    "geom:latitude":37.188076,
+    "geom:longitude":-3.620069,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Delfin, 5",
+    "sg:city":"Granada",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 27 21 34",
+    "sg:postcode":"18015",
+    "sg:province":"Granada",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863835,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZsS3SGfzQqvMFHm96irne_37.188076_-3.620069@1306269538"
+    },
+    "wof:country":"ES",
+    "wof:created":1472573856,
+    "wof:geomhash":"d63ee4a7a256fa8eb745c01509270642",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863835,
+            "region_id":85682731,
+            "venue_id":991834629
+        }
+    ],
+    "wof:id":991834629,
+    "wof:lastmodified":1472573856,
+    "wof:name":"Gonzalez Roman Jose",
+    "wof:parent_id":85863835,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6200692654,
+    37.1880760193,
+    -3.6200692654,
+    37.1880760193
+],
+  "geometry": {"coordinates":[-3.6200692654,37.1880760193],"type":"Point"}
+}

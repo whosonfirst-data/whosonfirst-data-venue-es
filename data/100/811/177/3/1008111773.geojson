@@ -1,0 +1,78 @@
+{
+  "id": 1008111773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1809949875,41.40807724,2.1809949875,41.40807724",
+    "geom:latitude":41.408077,
+    "geom:longitude":2.180995,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Dos De Maig, 246",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Obras Y Organismos Sociales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 56 75 42",
+    "sg:postcode":"08013",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864013,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85799265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1W3n7Wb5fkd3H7dYceeSoN_41.408077_2.180995@1306269609"
+    },
+    "wof:country":"ES",
+    "wof:created":1472600023,
+    "wof:geomhash":"563c3a4357e292f43510cb01df000b08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864013,
+            "region_id":85682663,
+            "venue_id":1008111773
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799265,
+            "region_id":85682663,
+            "venue_id":1008111773
+        }
+    ],
+    "wof:id":1008111773,
+    "wof:lastmodified":1472600023,
+    "wof:name":"Obra Benefico Social Del Ni\u00d1o Dios",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1809949875,
+    41.40807724,
+    2.1809949875,
+    41.40807724
+],
+  "geometry": {"coordinates":[2.1809949875,41.40807724],"type":"Point"}
+}

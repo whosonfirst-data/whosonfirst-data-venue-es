@@ -1,0 +1,59 @@
+{
+  "id": 1008056395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8300840855,40.3451194763,-3.8300840855,40.3451194763",
+    "geom:latitude":40.345119,
+    "geom:longitude":-3.830084,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Virgen De Iciar, 30",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Doctores En Medicina",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 43 66 35",
+    "sg:postcode":"28921",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Qs20KsIIoKEl8pMGIBjX9_40.345119_-3.830084@1306269602"
+    },
+    "wof:country":"ES",
+    "wof:created":1472597591,
+    "wof:geomhash":"be4e8b36335972261fda13a73f1bda6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008056395
+        }
+    ],
+    "wof:id":1008056395,
+    "wof:lastmodified":1472597591,
+    "wof:name":"Mo\u00f1ivas Lazaro Mariano",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8300840855,
+    40.3451194763,
+    -3.8300840855,
+    40.3451194763
+],
+  "geometry": {"coordinates":[-3.8300840855,40.3451194763],"type":"Point"}
+}

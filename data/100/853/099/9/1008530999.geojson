@@ -1,0 +1,80 @@
+{
+  "id": 1008530999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0704579353,41.3725318909,2.0704579353,41.3725318909",
+    "geom:latitude":41.372532,
+    "geom:longitude":2.070458,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Josep Tarradellas, 2",
+    "sg:city":"S. Joan Despi",
+    "sg:classifiers":[],
+    "sg:orig_category":"Inform\u00c1tica (estudios, Servicios, Asesor\u00cda, Formaci\u00d3n)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 77 25 05",
+    "sg:postcode":"08970",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799591,
+        102191581,
+        404331371,
+        85633129,
+        404227379,
+        101758753,
+        85682663,
+        85799381,
+        404331349,
+        101758769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wXIisNiMrplfuuDF6ts5h_41.372532_2.070458@1306269666"
+    },
+    "wof:country":"ES",
+    "wof:created":1472631298,
+    "wof:geomhash":"6881b8b6041f998f8fa15ec6b6618c06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331371,
+            "locality_id":101758753,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799591,
+            "region_id":85682663,
+            "venue_id":1008530999
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331349,
+            "locality_id":101758769,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799381,
+            "region_id":85682663,
+            "venue_id":1008530999
+        }
+    ],
+    "wof:id":1008530999,
+    "wof:lastmodified":1472631298,
+    "wof:name":"Sistemas Informaticos Tule",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0704579353,
+    41.3725318909,
+    2.0704579353,
+    41.3725318909
+],
+  "geometry": {"coordinates":[2.0704579353,41.3725318909],"type":"Point"}
+}

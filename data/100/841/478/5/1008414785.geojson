@@ -1,0 +1,59 @@
+{
+  "id": 1008414785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5369009972,40.4351577759,-3.5369009972,40.4351577759",
+    "geom:latitude":40.435158,
+    "geom:longitude":-3.536901,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Eduardo Torroja (de), 21",
+    "sg:city":"Coslada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agentes, Concesionarios Y Sucursales De Veh\u00cdculos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 71 96 17",
+    "sg:postcode":"28820",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863631,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wMgiNZXVoDjfR9AfMUADB_40.435158_-3.536901@1306269650"
+    },
+    "wof:country":"ES",
+    "wof:created":1472626460,
+    "wof:geomhash":"66c151c64b5cbd2a474b93cb27722206",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863631,
+            "region_id":85682783,
+            "venue_id":1008414785
+        }
+    ],
+    "wof:id":1008414785,
+    "wof:lastmodified":1472626460,
+    "wof:name":"Rubio Motor Coslada S. L.",
+    "wof:parent_id":85863631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5369009972,
+    40.4351577759,
+    -3.5369009972,
+    40.4351577759
+],
+  "geometry": {"coordinates":[-3.5369009972,40.4351577759],"type":"Point"}
+}

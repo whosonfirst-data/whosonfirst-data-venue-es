@@ -1,0 +1,65 @@
+{
+  "id": 991807489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.469604969,40.4632835388,-3.469604969,40.4632835388",
+    "geom:latitude":40.463284,
+    "geom:longitude":-3.469605,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Lisboa, 10",
+    "sg:city":"Torrejon Ardoz",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros Empresariales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 75 32 54",
+    "sg:postcode":"28850",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102545765,
+        85682783,
+        102191581,
+        404339005,
+        85633129,
+        404227387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UGphzYssfPME708ufq51q_40.463284_-3.469605@1306269535"
+    },
+    "wof:country":"ES",
+    "wof:created":1472572331,
+    "wof:geomhash":"be77e89178b41a988ee383325013bd89",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545765,
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339005,
+            "macroregion_id":404227387,
+            "region_id":85682783,
+            "venue_id":991807489
+        }
+    ],
+    "wof:id":991807489,
+    "wof:lastmodified":1472572331,
+    "wof:name":"Gomez Cotes Miguel Angel",
+    "wof:parent_id":102545765,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.469604969,
+    40.4632835388,
+    -3.469604969,
+    40.4632835388
+],
+  "geometry": {"coordinates":[-3.469604969,40.4632835388],"type":"Point"}
+}

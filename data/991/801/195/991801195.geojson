@@ -1,0 +1,64 @@
+{
+  "id": 991801195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5864644051,40.4709663391,-3.5864644051,40.4709663391",
+    "geom:latitude":40.470966,
+    "geom:longitude":-3.586464,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Aeronave, 17",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 29 59 49",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863589,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74BWTzex15MbvYTJ06QwaX_40.470966_-3.586464@1306269534"
+    },
+    "wof:country":"ES",
+    "wof:created":1472572016,
+    "wof:geomhash":"ff007aa8ef9f3a8ec6fb8f1025a880fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863589,
+            "region_id":85682783,
+            "venue_id":991801195
+        }
+    ],
+    "wof:id":991801195,
+    "wof:lastmodified":1472572016,
+    "wof:name":"Glomar-barajas S.l.",
+    "wof:parent_id":85863589,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5864644051,
+    40.4709663391,
+    -3.5864644051,
+    40.4709663391
+],
+  "geometry": {"coordinates":[-3.5864644051,40.4709663391],"type":"Point"}
+}

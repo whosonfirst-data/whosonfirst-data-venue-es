@@ -1,0 +1,64 @@
+{
+  "id": 1008416051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7207109928,40.4823532104,-3.7207109928,40.4823532104",
+    "geom:latitude":40.482353,
+    "geom:longitude":-3.720711,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pico Balaitus, 16",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Plomeros",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 39 71 09",
+    "sg:postcode":"28035",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85682783,
+        102191581,
+        85633129,
+        101748283,
+        85863557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xTOJ4T65CrcTDKZ7vNjFs_40.482353_-3.720711@1306269651"
+    },
+    "wof:country":"ES",
+    "wof:created":1472626514,
+    "wof:geomhash":"5294318ff7457892907a737627f62b82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748283,
+            "neighbourhood_id":85863557,
+            "region_id":85682783,
+            "venue_id":1008416051
+        }
+    ],
+    "wof:id":1008416051,
+    "wof:lastmodified":1472626514,
+    "wof:name":"Rueda Calleja Agapito",
+    "wof:parent_id":85863557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7207109928,
+    40.4823532104,
+    -3.7207109928,
+    40.4823532104
+],
+  "geometry": {"coordinates":[-3.7207109928,40.4823532104],"type":"Point"}
+}

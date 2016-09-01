@@ -1,0 +1,78 @@
+{
+  "id": 1008008573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.613173008,40.4300079346,-3.613173008,40.4300079346",
+    "geom:latitude":40.430008,
+    "geom:longitude":-3.613173,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Hinojosa Del Duque, 11",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asociaciones Humanitarias, De Cooperaci\u00d3n, De Acci\u00d3n Social",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 20 45 43",
+    "sg:postcode":"28037",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863705,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ePLGKc83mF3XThOkzGD3b_40.430008_-3.613173@1306269596"
+    },
+    "wof:country":"ES",
+    "wof:created":1472595559,
+    "wof:geomhash":"c8852d2ee20cb94f61e5c2207e25e48a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863705,
+            "region_id":85682783,
+            "venue_id":1008008573
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863701,
+            "region_id":85682783,
+            "venue_id":1008008573
+        }
+    ],
+    "wof:id":1008008573,
+    "wof:lastmodified":1472595559,
+    "wof:name":"Mision Evangelica Urbana",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.613173008,
+    40.4300079346,
+    -3.613173008,
+    40.4300079346
+],
+  "geometry": {"coordinates":[-3.613173008,40.4300079346],"type":"Point"}
+}

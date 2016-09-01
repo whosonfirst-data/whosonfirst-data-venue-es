@@ -1,0 +1,81 @@
+{
+  "id": 1007831837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6079666615,40.4475288391,-3.6079666615,40.4475288391",
+    "geom:latitude":40.447529,
+    "geom:longitude":-3.607967,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Cartago, 14",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 20 26 46",
+    "sg:postcode":"28022",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863625,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1l1XqN2sXlyAWkNbaBHqbr_40.447529_-3.607967@1306269574"
+    },
+    "wof:country":"ES",
+    "wof:created":1472587807,
+    "wof:geomhash":"14278dca20de73c90b5a0c890d50d162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863625,
+            "region_id":85682783,
+            "venue_id":1007831837
+        }
+    ],
+    "wof:id":1007831837,
+    "wof:lastmodified":1472587807,
+    "wof:name":"Lopez Cristino Juan Antonio",
+    "wof:parent_id":85863625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.6079666615,
+    40.4475288391,
+    -3.6079666615,
+    40.4475288391
+],
+  "geometry": {"coordinates":[-3.6079666615,40.4475288391],"type":"Point"}
+}

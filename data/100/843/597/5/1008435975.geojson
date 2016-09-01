@@ -1,0 +1,59 @@
+{
+  "id": 1008435975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1736040115,41.3968391418,2.1736040115,41.3968391418",
+    "geom:latitude":41.396839,
+    "geom:longitude":2.173604,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Consell De Cent, 410",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Construcci\u00d3n Mec\u00c1nica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 31 48 57",
+    "sg:postcode":"08009",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gPXUYTY6pbJkOVZEwjHmJ_41.396839_2.173604@1306269653"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627428,
+    "wof:geomhash":"fd0a4d774da8f8e8ba1e2381ca3aaf86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008435975
+        }
+    ],
+    "wof:id":1008435975,
+    "wof:lastmodified":1472627428,
+    "wof:name":"Sala Pares Juan",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1736040115,
+    41.3968391418,
+    2.1736040115,
+    41.3968391418
+],
+  "geometry": {"coordinates":[2.1736040115,41.3968391418],"type":"Point"}
+}

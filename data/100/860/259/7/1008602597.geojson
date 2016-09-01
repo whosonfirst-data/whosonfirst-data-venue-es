@@ -1,0 +1,82 @@
+{
+  "id": 1008602597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6810688972,40.3915710449,-3.6810688972,40.3915710449",
+    "geom:latitude":40.391571,
+    "geom:longitude":-3.681069,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Meneses, S/n",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 67 48 00",
+    "sg:postcode":"28045",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "salas",
+        "de",
+        "cine"
+    ],
+    "sg:website":"www.imaxmadrid.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863815,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6q037F2862G7dQb9n6da2J_40.391571_-3.681069@1306269676"
+    },
+    "wof:country":"ES",
+    "wof:created":1472634368,
+    "wof:geomhash":"34801c94934b076223e0df8637ccd07a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863815,
+            "region_id":85682783,
+            "venue_id":1008602597
+        }
+    ],
+    "wof:id":1008602597,
+    "wof:lastmodified":1472634368,
+    "wof:name":"Teatromax S. A.",
+    "wof:parent_id":85863815,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salas",
+        "de",
+        "cine"
+    ]
+},
+  "bbox": [
+    -3.6810688972,
+    40.3915710449,
+    -3.6810688972,
+    40.3915710449
+],
+  "geometry": {"coordinates":[-3.6810688972,40.3915710449],"type":"Point"}
+}

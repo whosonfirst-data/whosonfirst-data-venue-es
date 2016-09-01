@@ -1,0 +1,78 @@
+{
+  "id": 1024487575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6988236904,40.4445533752,-3.6988236904,40.4445533752",
+    "geom:latitude":40.444553,
+    "geom:longitude":-3.698824,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ponzano, 80",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Librer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 35 83 76",
+    "sg:postcode":"28003",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799245,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ENrbSOH8eILo3llS76vxS_40.444553_-3.698824@1306269696"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641083,
+    "wof:geomhash":"9d0795aeb8b54a617657c4025fc8c40a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799245,
+            "region_id":85682783,
+            "venue_id":1024487575
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863649,
+            "region_id":85682783,
+            "venue_id":1024487575
+        }
+    ],
+    "wof:id":1024487575,
+    "wof:lastmodified":1472641083,
+    "wof:name":"Zambhala C.b",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6988236904,
+    40.4445533752,
+    -3.6988236904,
+    40.4445533752
+],
+  "geometry": {"coordinates":[-3.6988236904,40.4445533752],"type":"Point"}
+}

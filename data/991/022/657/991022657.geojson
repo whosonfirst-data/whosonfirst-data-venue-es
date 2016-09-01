@@ -1,0 +1,79 @@
+{
+  "id": 991022657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6815447807,40.4553565979,-3.6815447807,40.4553565979",
+    "geom:latitude":40.455357,
+    "geom:longitude":-3.681545,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Cochabamba, 2",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 57 31 35",
+    "sg:postcode":"28016",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "organismos",
+        "control"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799237,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dhn0E8HGuC55T5rAGMFMl_40.455357_-3.681545@1306269430"
+    },
+    "wof:country":"ES",
+    "wof:created":1472520924,
+    "wof:geomhash":"a6da5d68868be0c8b78ff22319072f58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799237,
+            "region_id":85682783,
+            "venue_id":991022657
+        }
+    ],
+    "wof:id":991022657,
+    "wof:lastmodified":1472520924,
+    "wof:name":"Asesores En Reingenieria Calidad Y Organ",
+    "wof:parent_id":85799237,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organismos",
+        "control"
+    ]
+},
+  "bbox": [
+    -3.6815447807,
+    40.4553565979,
+    -3.6815447807,
+    40.4553565979
+],
+  "geometry": {"coordinates":[-3.6815447807,40.4553565979],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1008031431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6315310001,40.4018135071,-3.6315310001,40.4018135071",
+    "geom:latitude":40.401814,
+    "geom:longitude":-3.631531,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Valdebernardo, 12",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros Empresariales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 01 60 18",
+    "sg:postcode":"28030",
+    "sg:province":"Madrid",
+    "sg:website":"www.servimad.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863719,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CTPnhC5cRYyhySCd8npS6_40.401814_-3.631531@1306269598"
+    },
+    "wof:country":"ES",
+    "wof:created":1472596547,
+    "wof:geomhash":"c092d155d7d394862391f8522ab953c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863719,
+            "region_id":85682783,
+            "venue_id":1008031431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863715,
+            "region_id":85682783,
+            "venue_id":1008031431
+        }
+    ],
+    "wof:id":1008031431,
+    "wof:lastmodified":1472596547,
+    "wof:name":"Montesinos Hernandez Joaquin",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6315310001,
+    40.4018135071,
+    -3.6315310001,
+    40.4018135071
+],
+  "geometry": {"coordinates":[-3.6315310001,40.4018135071],"type":"Point"}
+}

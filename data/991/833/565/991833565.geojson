@@ -1,0 +1,59 @@
+{
+  "id": 991833565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8725690842,40.4925079346,-3.8725690842,40.4925079346",
+    "geom:latitude":40.492508,
+    "geom:longitude":-3.872569,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pelicana, 5",
+    "sg:city":"Rozas De Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reciclaje, Desguace De Veh\u00cdculos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 37 27 66",
+    "sg:postcode":"28230",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863613,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1txd44WU96NM8qmcOqf7dF_40.492508_-3.872569@1306269538"
+    },
+    "wof:country":"ES",
+    "wof:created":1472573782,
+    "wof:geomhash":"5ac4a42ded2c9ca9fccafa6430678a40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863613,
+            "region_id":85682783,
+            "venue_id":991833565
+        }
+    ],
+    "wof:id":991833565,
+    "wof:lastmodified":1472573782,
+    "wof:name":"Gonzalez Recio Segundo",
+    "wof:parent_id":85863613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8725690842,
+    40.4925079346,
+    -3.8725690842,
+    40.4925079346
+],
+  "geometry": {"coordinates":[-3.8725690842,40.4925079346],"type":"Point"}
+}

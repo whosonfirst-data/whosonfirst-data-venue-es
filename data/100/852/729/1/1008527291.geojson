@@ -1,0 +1,59 @@
+{
+  "id": 1008527291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1891050339,41.3933181763,2.1891050339,41.3933181763",
+    "geom:latitude":41.393318,
+    "geom:longitude":2.189105,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Marina, 82",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sindicatos De Trabajadores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 00 23 14",
+    "sg:postcode":"08018",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LY8pARVnGkup4wJ2t7RFv_41.393318_2.189105@1306269665"
+    },
+    "wof:country":"ES",
+    "wof:created":1472631154,
+    "wof:geomhash":"0504b9e7f12f2e8877924f31e3192a3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008527291
+        }
+    ],
+    "wof:id":1008527291,
+    "wof:lastmodified":1472631154,
+    "wof:name":"Sindicato De Trabajadores Autonomos Del Taxi De Catalu\u00d1a.",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1891050339,
+    41.3933181763,
+    2.1891050339,
+    41.3933181763
+],
+  "geometry": {"coordinates":[2.1891050339,41.3933181763],"type":"Point"}
+}

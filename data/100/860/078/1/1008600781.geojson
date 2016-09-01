@@ -1,0 +1,74 @@
+{
+  "id": 1008600781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.8042120934,37.8834648132,-4.8042120934,37.8834648132",
+    "geom:latitude":37.883465,
+    "geom:longitude":-4.804212,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Duque Cornejo, 3",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[],
+    "sg:orig_category":"Metacrilato: Art\u00cdculos (fabricaci\u00d3n Y Al Por Mayor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 46 41 20",
+    "sg:postcode":"14005",
+    "sg:province":"C\u00f3rdoba",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863889,
+        102191581,
+        404333687,
+        85633129,
+        404227361,
+        101748233,
+        85682697,
+        85863887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dvxmckDxrKY8CZlQa6dtB_37.883465_-4.804212@1306269675"
+    },
+    "wof:country":"ES",
+    "wof:created":1472634291,
+    "wof:geomhash":"390e29ba329a65d845872ebe71d2c5ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863889,
+            "region_id":85682697,
+            "venue_id":1008600781
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863887,
+            "region_id":85682697,
+            "venue_id":1008600781
+        }
+    ],
+    "wof:id":1008600781,
+    "wof:lastmodified":1472634291,
+    "wof:name":"Tasset Sanches Jose Manuel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.8042120934,
+    37.8834648132,
+    -4.8042120934,
+    37.8834648132
+],
+  "geometry": {"coordinates":[-4.8042120934,37.8834648132],"type":"Point"}
+}

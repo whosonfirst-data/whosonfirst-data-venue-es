@@ -1,0 +1,59 @@
+{
+  "id": 1024473243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.8203322887,41.7245597839,1.8203322887,41.7245597839",
+    "geom:latitude":41.72456,
+    "geom:longitude":1.820332,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Cos, 29",
+    "sg:city":"Manresa",
+    "sg:classifiers":[],
+    "sg:orig_category":"Frutas, Legumbres Frescas Y Tempranas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 938 72 49 42",
+    "sg:postcode":"08241",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62JtjijgWNtk3JmXasGyMb_41.724560_1.820332@1306269694"
+    },
+    "wof:country":"ES",
+    "wof:created":1472640484,
+    "wof:geomhash":"9cdab548a985d9becc4831aa2d47ade1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1024473243
+        }
+    ],
+    "wof:id":1024473243,
+    "wof:lastmodified":1472640484,
+    "wof:name":"Vi\u00f1as Hernandez Piedad",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.8203322887,
+    41.7245597839,
+    1.8203322887,
+    41.7245597839
+],
+  "geometry": {"coordinates":[1.8203322887,41.7245597839],"type":"Point"}
+}

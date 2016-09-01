@@ -1,0 +1,64 @@
+{
+  "id": 1008460049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6266431808,37.2304458618,-3.6266431808,37.2304458618",
+    "geom:latitude":37.230446,
+    "geom:longitude":-3.626643,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Cuba, 18",
+    "sg:city":"Peligros",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 40 01 99",
+    "sg:postcode":"18210",
+    "sg:province":"Granada",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863831,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5c0QN5loDaQt7S7M6efjWs_37.230446_-3.626643@1306269657"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628321,
+    "wof:geomhash":"4014a91843496548b9f852e3433d1f52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863831,
+            "region_id":85682731,
+            "venue_id":1008460049
+        }
+    ],
+    "wof:id":1008460049,
+    "wof:lastmodified":1472628321,
+    "wof:name":"Sanchez Rodriguez Eduardo",
+    "wof:parent_id":85863831,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6266431808,
+    37.2304458618,
+    -3.6266431808,
+    37.2304458618
+],
+  "geometry": {"coordinates":[-3.6266431808,37.2304458618],"type":"Point"}
+}

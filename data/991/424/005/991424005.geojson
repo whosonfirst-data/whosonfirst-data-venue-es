@@ -1,0 +1,76 @@
+{
+  "id": 991424005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6267580986,39.5652313232,2.6267580986,39.5652313232",
+    "geom:latitude":39.565231,
+    "geom:longitude":2.626758,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pl Francesc Rossello, 2",
+    "sg:city":"Palma",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 45 25 56",
+    "sg:postcode":"07014",
+    "sg:province":"Islas Baleares",
+    "sg:tags":[
+        "organismos",
+        "control"
+    ],
+    "sg:website":"www.cpv-oct.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748237,
+        85864109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16nE31aXAm0XdK7cHB2Qbz_39.565231_2.626758@1306269484"
+    },
+    "wof:country":"ES",
+    "wof:created":1472550177,
+    "wof:geomhash":"4b36a24dcfd3b166d56dfd4c785cd645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748237,
+            "neighbourhood_id":85864109,
+            "region_id":-1,
+            "venue_id":991424005
+        }
+    ],
+    "wof:id":991424005,
+    "wof:lastmodified":1472550177,
+    "wof:name":"Control Tecnico Y Prevencion De Riesgos S.a.",
+    "wof:parent_id":85864109,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organismos",
+        "control"
+    ]
+},
+  "bbox": [
+    2.6267580986,
+    39.5652313232,
+    2.6267580986,
+    39.5652313232
+],
+  "geometry": {"coordinates":[2.6267580986,39.5652313232],"type":"Point"}
+}

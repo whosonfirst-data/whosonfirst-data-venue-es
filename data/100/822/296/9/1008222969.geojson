@@ -1,0 +1,78 @@
+{
+  "id": 1008222969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6639690399,40.3757705688,-3.6639690399,40.3757705688",
+    "geom:latitude":40.375771,
+    "geom:longitude":-3.663969,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Villacarrillo (blq), 9",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 41 05 39",
+    "sg:postcode":"28008",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863729,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79cM9L9vJmxa83Y9v19vcA_40.375771_-3.663969@1306269625"
+    },
+    "wof:country":"ES",
+    "wof:created":1472613680,
+    "wof:geomhash":"93f0060b3224c0e7a533b9df1bd6f1f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863729,
+            "region_id":85682783,
+            "venue_id":1008222969
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863733,
+            "region_id":85682783,
+            "venue_id":1008222969
+        }
+    ],
+    "wof:id":1008222969,
+    "wof:lastmodified":1472613680,
+    "wof:name":"Perez Santamaria Isabel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6639690399,
+    40.3757705688,
+    -3.6639690399,
+    40.3757705688
+],
+  "geometry": {"coordinates":[-3.6639690399,40.3757705688],"type":"Point"}
+}

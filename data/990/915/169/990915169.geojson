@@ -1,0 +1,81 @@
+{
+  "id": 990915169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.045204401,41.381526947,2.045204401,41.381526947",
+    "geom:latitude":41.381527,
+    "geom:longitude":2.045204,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Rectoria, 4",
+    "sg:city":"Sant Feliu Llobregat",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 936 66 69 85",
+    "sg:postcode":"08980",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "televisiones",
+        "y",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799381,
+        102191581,
+        404331349,
+        85633129,
+        404227379,
+        101758769,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WMCVQIqh1HzlL7DzbDY5H_41.381527_2.045204@1306269416"
+    },
+    "wof:country":"ES",
+    "wof:created":1472510035,
+    "wof:geomhash":"f859c1eb63d2342a6b310aa60f48cce9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331349,
+            "locality_id":101758769,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799381,
+            "region_id":85682663,
+            "venue_id":990915169
+        }
+    ],
+    "wof:id":990915169,
+    "wof:lastmodified":1472510035,
+    "wof:name":"Ajuntament De Sant Feliu De Llobregat",
+    "wof:parent_id":85799381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "televisiones",
+        "y",
+        "radio"
+    ]
+},
+  "bbox": [
+    2.045204401,
+    41.381526947,
+    2.045204401,
+    41.381526947
+],
+  "geometry": {"coordinates":[2.045204401,41.381526947],"type":"Point"}
+}

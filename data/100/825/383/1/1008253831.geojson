@@ -1,0 +1,59 @@
+{
+  "id": 1008253831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7337379456,40.3030090332,-3.7337379456,40.3030090332",
+    "geom:latitude":40.303009,
+    "geom:longitude":-3.733738,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Fuenlabrada, 17",
+    "sg:city":"Getafe",
+    "sg:classifiers":[],
+    "sg:orig_category":"Administradores De Bienes Y Delegados De Comunidades De Propietarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 95 79 37",
+    "sg:postcode":"28901",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HeiEYGxhcD518NLkyVsYo_40.303009_-3.733738@1306269629"
+    },
+    "wof:country":"ES",
+    "wof:created":1472616228,
+    "wof:geomhash":"91b2110d0a45695162049fcf6b125de3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1008253831
+        }
+    ],
+    "wof:id":1008253831,
+    "wof:lastmodified":1472616228,
+    "wof:name":"Plaza Exposito Cristina",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7337379456,
+    40.3030090332,
+    -3.7337379456,
+    40.3030090332
+],
+  "geometry": {"coordinates":[-3.7337379456,40.3030090332],"type":"Point"}
+}

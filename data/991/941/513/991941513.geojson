@@ -1,0 +1,78 @@
+{
+  "id": 991941513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7188987732,40.4309120178,-3.7188987732,40.4309120178",
+    "geom:latitude":40.430912,
+    "geom:longitude":-3.718899,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Altamirano, 24",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alumbrados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 49 83 07",
+    "sg:postcode":"28008",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863655,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aAoKTRPEn52yHYUH0hQwe_40.430912_-3.718899@1306269553"
+    },
+    "wof:country":"ES",
+    "wof:created":1472579525,
+    "wof:geomhash":"e609049fdc53f7f86d2b835b396c1025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863655,
+            "region_id":85682783,
+            "venue_id":991941513
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863669,
+            "region_id":85682783,
+            "venue_id":991941513
+        }
+    ],
+    "wof:id":991941513,
+    "wof:lastmodified":1472579525,
+    "wof:name":"Ilumitec S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7188987732,
+    40.4309120178,
+    -3.7188987732,
+    40.4309120178
+],
+  "geometry": {"coordinates":[-3.7188987732,40.4309120178],"type":"Point"}
+}

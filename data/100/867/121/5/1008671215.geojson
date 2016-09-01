@@ -1,0 +1,67 @@
+{
+  "id": 1008671215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1790459156,41.3787918091,2.1790459156,41.3787918091",
+    "geom:latitude":41.378792,
+    "geom:longitude":2.179046,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Josep Anselm Clave, 2",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros Empresariales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 18 08 28",
+    "sg:postcode":"08002",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864033,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Eq2Mic2YHVNNBzfwuxWxS_41.378792_2.179046@1306269685"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637245,
+    "wof:geomhash":"673b4d41957afeaf0c83aa803e994401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864033,
+            "region_id":85682663,
+            "venue_id":1008671215
+        }
+    ],
+    "wof:id":1008671215,
+    "wof:lastmodified":1472637245,
+    "wof:name":"Union Patronal Metalurgica",
+    "wof:parent_id":85864033,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1790459156,
+    41.3787918091,
+    2.1790459156,
+    41.3787918091
+],
+  "geometry": {"coordinates":[2.1790459156,41.3787918091],"type":"Point"}
+}

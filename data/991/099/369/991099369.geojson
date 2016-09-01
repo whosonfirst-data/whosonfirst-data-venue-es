@@ -1,0 +1,60 @@
+{
+  "id": 991099369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8346529007,40.3385429382,-3.8346529007,40.3385429382",
+    "geom:latitude":40.338543,
+    "geom:longitude":-3.834653,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Retamas (las), 17",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 43 96 85",
+    "sg:postcode":"28922",
+    "sg:province":"Madrid",
+    "sg:website":"www.bancodevalencia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aiOthR7vAo5Hdrj5odVwn_40.338543_-3.834653@1306269440"
+    },
+    "wof:country":"ES",
+    "wof:created":1472526766,
+    "wof:geomhash":"a8d4cd5e24fbbfe348776161396b0a04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":991099369
+        }
+    ],
+    "wof:id":991099369,
+    "wof:lastmodified":1472526766,
+    "wof:name":"Banco De Valencia S.a.",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8346529007,
+    40.3385429382,
+    -3.8346529007,
+    40.3385429382
+],
+  "geometry": {"coordinates":[-3.8346529007,40.3385429382],"type":"Point"}
+}

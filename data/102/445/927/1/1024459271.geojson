@@ -1,0 +1,67 @@
+{
+  "id": 1024459271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1411800385,41.3816452026,2.1411800385,41.3816452026",
+    "geom:latitude":41.381645,
+    "geom:longitude":2.14118,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Numancia, 14",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 30 01 48",
+    "sg:postcode":"08029",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799597,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GxEjdlvuE1hpYOoZeV4Nd_41.381645_2.141180@1306269693"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639877,
+    "wof:geomhash":"a1a8c01e0430622ef818dd9c5874d7a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799597,
+            "region_id":85682663,
+            "venue_id":1024459271
+        }
+    ],
+    "wof:id":1024459271,
+    "wof:lastmodified":1472639877,
+    "wof:name":"Vilaseca Sarti Gloria",
+    "wof:parent_id":85799597,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1411800385,
+    41.3816452026,
+    2.1411800385,
+    41.3816452026
+],
+  "geometry": {"coordinates":[2.1411800385,41.3816452026],"type":"Point"}
+}

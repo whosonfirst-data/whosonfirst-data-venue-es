@@ -1,0 +1,66 @@
+{
+  "id": 1007808581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5865290165,37.16614151,-3.5865290165,37.16614151",
+    "geom:latitude":37.166142,
+    "geom:longitude":-3.586529,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Purche (el), 2",
+    "sg:city":"Granada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Empresas De Limpieza",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 22 20 19",
+    "sg:postcode":"18008",
+    "sg:province":"Granada",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863847,
+        85682731,
+        85863829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ybtdBxQ5MPePsmMePb9xY_37.166142_-3.586529@1306269571"
+    },
+    "wof:country":"ES",
+    "wof:created":1472586768,
+    "wof:geomhash":"58777e4480f6c82edd025ef6925b92ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863847,
+            "region_id":85682731,
+            "venue_id":1007808581
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863829,
+            "region_id":85682731,
+            "venue_id":1007808581
+        }
+    ],
+    "wof:id":1007808581,
+    "wof:lastmodified":1472586768,
+    "wof:name":"Limpiezas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5865290165,
+    37.16614151,
+    -3.5865290165,
+    37.16614151
+],
+  "geometry": {"coordinates":[-3.5865290165,37.16614151],"type":"Point"}
+}

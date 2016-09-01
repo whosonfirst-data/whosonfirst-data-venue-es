@@ -1,0 +1,67 @@
+{
+  "id": 1008185493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6989409924,40.4412155151,-3.6989409924,40.4412155151",
+    "geom:latitude":40.441216,
+    "geom:longitude":-3.698941,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ponzano, 54",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aparcamientos (infraestructuras, Accesorios)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 41 35 45",
+    "sg:postcode":"28003",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863649,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wOPXudb4bLh0PNoADhQAs_40.441216_-3.698941@1306269620"
+    },
+    "wof:country":"ES",
+    "wof:created":1472606142,
+    "wof:geomhash":"a717fc431cb11941fbc9446ed91bc1ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863649,
+            "region_id":85682783,
+            "venue_id":1008185493
+        }
+    ],
+    "wof:id":1008185493,
+    "wof:lastmodified":1472606142,
+    "wof:name":"Paso Sauras Luis Alberto Del",
+    "wof:parent_id":85863649,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6989409924,
+    40.4412155151,
+    -3.6989409924,
+    40.4412155151
+],
+  "geometry": {"coordinates":[-3.6989409924,40.4412155151],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1008540343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9246070385,43.2574577332,-2.9246070385,43.2574577332",
+    "geom:latitude":43.257458,
+    "geom:longitude":-2.924607,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Barrenkale, 42",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asociaciones, Organismos Culturales Y Socioeducativos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 15 41 61",
+    "sg:postcode":"48005",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863961,
+        102191581,
+        404345949,
+        85633129,
+        404227393,
+        101748385,
+        85682879,
+        85863957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61EnywEiaQ92PllGNAnz4j_43.257458_-2.924607@1306269667"
+    },
+    "wof:country":"ES",
+    "wof:created":1472631710,
+    "wof:geomhash":"b37a8b95f704f16fe054272e853dd438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345949,
+            "locality_id":101748385,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863961,
+            "region_id":85682879,
+            "venue_id":1008540343
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345949,
+            "locality_id":101748385,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863957,
+            "region_id":85682879,
+            "venue_id":1008540343
+        }
+    ],
+    "wof:id":1008540343,
+    "wof:lastmodified":1472631710,
+    "wof:name":"Sociedad Gastronomica Del Casco Viejo",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9246070385,
+    43.2574577332,
+    -2.9246070385,
+    43.2574577332
+],
+  "geometry": {"coordinates":[-2.9246070385,43.2574577332],"type":"Point"}
+}

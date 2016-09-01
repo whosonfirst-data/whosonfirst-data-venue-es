@@ -1,0 +1,59 @@
+{
+  "id": 1008043005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.8288700581,41.7283554077,1.8288700581,41.7283554077",
+    "geom:latitude":41.728355,
+    "geom:longitude":1.82887,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ctra Vic, 73",
+    "sg:city":"Manresa",
+    "sg:classifiers":[],
+    "sg:orig_category":"Caf\u00c9s, Bares, Cervecer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 938 73 10 87",
+    "sg:postcode":"08241",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PeHzbUeVJrjOSh9ycJhxf_41.728355_1.828870@1306269600"
+    },
+    "wof:country":"ES",
+    "wof:created":1472597022,
+    "wof:geomhash":"55204ef7cd21ed97a8acc02adcc22a0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008043005
+        }
+    ],
+    "wof:id":1008043005,
+    "wof:lastmodified":1472597022,
+    "wof:name":"Moreno Cortes Antonia",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.8288700581,
+    41.7283554077,
+    1.8288700581,
+    41.7283554077
+],
+  "geometry": {"coordinates":[1.8288700581,41.7283554077],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 991035773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8926196098,41.6448478699,-0.8926196098,41.6448478699",
+    "geom:latitude":41.644848,
+    "geom:longitude":-0.89262,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Goya, 60",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 21 98 22",
+    "sg:postcode":"50005",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863341,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ie8oFtr4d3FrFixSkpkn1_41.644848_-0.892620@1306269432"
+    },
+    "wof:country":"ES",
+    "wof:created":1472521885,
+    "wof:geomhash":"5a44237333ada0e4977b47880e947086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863341,
+            "region_id":85682891,
+            "venue_id":991035773
+        }
+    ],
+    "wof:id":991035773,
+    "wof:lastmodified":1472521885,
+    "wof:name":"Asociacion De Yoga Sanatana Dharma",
+    "wof:parent_id":85863341,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ]
+},
+  "bbox": [
+    -0.8926196098,
+    41.6448478699,
+    -0.8926196098,
+    41.6448478699
+],
+  "geometry": {"coordinates":[-0.8926196098,41.6448478699],"type":"Point"}
+}

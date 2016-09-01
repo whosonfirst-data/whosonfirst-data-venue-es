@@ -1,0 +1,59 @@
+{
+  "id": 1008351399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6043050289,37.1701545715,-3.6043050289,37.1701545715",
+    "geom:latitude":37.170155,
+    "geom:longitude":-3.604305,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pedro Antonio De Alarcon, 16",
+    "sg:city":"Granada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Compraventa De Antig\u00dcedades",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 25 00 15",
+    "sg:postcode":"18005",
+    "sg:province":"Granada",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863847,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75lqUP6uFV1wIMsv66uAiA_37.170155_-3.604305@1306269642"
+    },
+    "wof:country":"ES",
+    "wof:created":1472623576,
+    "wof:geomhash":"c514a38f01d835766d982fd5fc2ce0c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863847,
+            "region_id":85682731,
+            "venue_id":1008351399
+        }
+    ],
+    "wof:id":1008351399,
+    "wof:lastmodified":1472623576,
+    "wof:name":"Reyes Mu\u00f1oz Concepcion",
+    "wof:parent_id":85863847,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6043050289,
+    37.1701545715,
+    -3.6043050289,
+    37.1701545715
+],
+  "geometry": {"coordinates":[-3.6043050289,37.1701545715],"type":"Point"}
+}

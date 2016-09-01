@@ -1,0 +1,72 @@
+{
+  "id": 1007863919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1836259365,41.4313316345,2.1836259365,41.4313316345",
+    "geom:latitude":41.431332,
+    "geom:longitude":2.183626,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Meridiana, 408",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 11 06 08",
+    "sg:postcode":"08030",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863995,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZCP4JjuetBFJfUf0r1bHF_41.431332_2.183626@1306269578"
+    },
+    "wof:country":"ES",
+    "wof:created":1472589405,
+    "wof:geomhash":"252ad78d16bb6eda26a6161a24f0f1a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863995,
+            "region_id":85682663,
+            "venue_id":1007863919
+        }
+    ],
+    "wof:id":1007863919,
+    "wof:lastmodified":1472589405,
+    "wof:name":"Machado Iglesias Juan",
+    "wof:parent_id":85863995,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1836259365,
+    41.4313316345,
+    2.1836259365,
+    41.4313316345
+],
+  "geometry": {"coordinates":[2.1836259365,41.4313316345],"type":"Point"}
+}

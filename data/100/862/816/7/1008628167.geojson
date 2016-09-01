@@ -1,0 +1,60 @@
+{
+  "id": 1008628167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.9051650167,41.6554031372,-0.9051650167,41.6554031372",
+    "geom:latitude":41.655403,
+    "geom:longitude":-0.905165,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Navarra, 41",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alumbrados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 34 59 30",
+    "sg:postcode":"50010",
+    "sg:province":"Zaragoza",
+    "sg:website":"www.toldosserrano.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863313,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FnX4WqZphXwGjcNFCtwa2_41.655403_-0.905165@1306269679"
+    },
+    "wof:country":"ES",
+    "wof:created":1472635480,
+    "wof:geomhash":"b184fde78e3b6cd74dd13020967327f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863313,
+            "region_id":85682891,
+            "venue_id":1008628167
+        }
+    ],
+    "wof:id":1008628167,
+    "wof:lastmodified":1472635480,
+    "wof:name":"Toldos Serrano S.l.",
+    "wof:parent_id":85863313,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.9051650167,
+    41.6554031372,
+    -0.9051650167,
+    41.6554031372
+],
+  "geometry": {"coordinates":[-0.9051650167,41.6554031372],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1008443135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3952980042,39.4638824463,-0.3952980042,39.4638824463",
+    "geom:latitude":39.463882,
+    "geom:longitude":-0.395298,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Tres Forques, 71",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hornos Industriales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 58 01 89",
+    "sg:postcode":"46018",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864219,
+        102191581,
+        404345047,
+        85633129,
+        404227381,
+        101753691,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3plpMQHHJfYnldItD1Oqve_39.463882_-0.395298@1306269654"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627684,
+    "wof:geomhash":"80841d7aff07cb0e2cfac27013150175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345047,
+            "locality_id":101753691,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864219,
+            "region_id":85682867,
+            "venue_id":1008443135
+        }
+    ],
+    "wof:id":1008443135,
+    "wof:lastmodified":1472627684,
+    "wof:name":"Salva Industrial S.a.",
+    "wof:parent_id":85864219,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3952980042,
+    39.4638824463,
+    -0.3952980042,
+    39.4638824463
+],
+  "geometry": {"coordinates":[-0.3952980042,39.4638824463],"type":"Point"}
+}

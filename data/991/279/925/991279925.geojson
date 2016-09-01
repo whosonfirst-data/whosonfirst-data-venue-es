@@ -1,0 +1,78 @@
+{
+  "id": 991279925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1614849567,41.4060325623,2.1614849567,41.4060325623",
+    "geom:latitude":41.406033,
+    "geom:longitude":2.161485,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sant Lluis, 64",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asociaciones, Organismos Culturales Y Socioeducativos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 13 36 77",
+    "sg:postcode":"08024",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863999,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85799393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HruVbtMx24zDiU0GwEN0p_41.406033_2.161485@1306269464"
+    },
+    "wof:country":"ES",
+    "wof:created":1472541720,
+    "wof:geomhash":"e16cc3e800a522272e1757e9423c6bd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863999,
+            "region_id":85682663,
+            "venue_id":991279925
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799393,
+            "region_id":85682663,
+            "venue_id":991279925
+        }
+    ],
+    "wof:id":991279925,
+    "wof:lastmodified":1472541720,
+    "wof:name":"Casa De Almeria",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1614849567,
+    41.4060325623,
+    2.1614849567,
+    41.4060325623
+],
+  "geometry": {"coordinates":[2.1614849567,41.4060325623],"type":"Point"}
+}

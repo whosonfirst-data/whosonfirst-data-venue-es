@@ -1,0 +1,78 @@
+{
+  "id": 1007919903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6805109978,40.4527587891,-3.6805109978,40.4527587891",
+    "geom:latitude":40.452759,
+    "geom:longitude":-3.680511,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Republica Del Ecuador, 7",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Muebles, Minoristas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 57 01 22",
+    "sg:postcode":"28016",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799237,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lvcZ95SpFurqzva3gO7Rc_40.452759_-3.680511@1306269585"
+    },
+    "wof:country":"ES",
+    "wof:created":1472591746,
+    "wof:geomhash":"26c8e81afde27c8e58f0ccb43506a0e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799237,
+            "region_id":85682783,
+            "venue_id":1007919903
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863651,
+            "region_id":85682783,
+            "venue_id":1007919903
+        }
+    ],
+    "wof:id":1007919903,
+    "wof:lastmodified":1472591746,
+    "wof:name":"Martinez-botas Mateo Jose Andres",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6805109978,
+    40.4527587891,
+    -3.6805109978,
+    40.4527587891
+],
+  "geometry": {"coordinates":[-3.6805109978,40.4527587891],"type":"Point"}
+}

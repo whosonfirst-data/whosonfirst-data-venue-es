@@ -1,0 +1,67 @@
+{
+  "id": 1007840503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4972630143,38.3415031433,-0.4972630143,38.3415031433",
+    "geom:latitude":38.341503,
+    "geom:longitude":-0.497263,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Doctor Just, 24",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Procuradores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 12 69 91",
+    "sg:postcode":"03007",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799185,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HX6mwLxvD6g07tNvOk6qy_38.341503_-0.497263@1306269575"
+    },
+    "wof:country":"ES",
+    "wof:created":1472588232,
+    "wof:geomhash":"1839cab933a083b2241d9f09889ac090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85799185,
+            "region_id":85682625,
+            "venue_id":1007840503
+        }
+    ],
+    "wof:id":1007840503,
+    "wof:lastmodified":1472588232,
+    "wof:name":"Lopez Minguela Esteban",
+    "wof:parent_id":85799185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4972630143,
+    38.3415031433,
+    -0.4972630143,
+    38.3415031433
+],
+  "geometry": {"coordinates":[-0.4972630143,38.3415031433],"type":"Point"}
+}

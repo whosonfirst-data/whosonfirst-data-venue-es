@@ -1,0 +1,59 @@
+{
+  "id": 1008530203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6325418949,40.5401344299,-3.6325418949,40.5401344299",
+    "geom:latitude":40.540134,
+    "geom:longitude":-3.632542,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Empecinado (del), 4",
+    "sg:city":"Alcobendas",
+    "sg:classifiers":[],
+    "sg:orig_category":"Inmobiliaria (agencias)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 53 26 22",
+    "sg:postcode":"28100",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BSVldHuPOBcEBErhpB8DL_40.540134_-3.632542@1306269666"
+    },
+    "wof:country":"ES",
+    "wof:created":1472631267,
+    "wof:geomhash":"14a2bf0924c469db51a1969b84c0daee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1008530203
+        }
+    ],
+    "wof:id":1008530203,
+    "wof:lastmodified":1472631267,
+    "wof:name":"Sistema Inversion Inmobiliaria S. A.",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6325418949,
+    40.5401344299,
+    -3.6325418949,
+    40.5401344299
+],
+  "geometry": {"coordinates":[-3.6325418949,40.5401344299],"type":"Point"}
+}

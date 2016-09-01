@@ -1,0 +1,81 @@
+{
+  "id": 991090725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.5201749802,38.3958702087,-0.5201749802,38.3958702087",
+    "geom:latitude":38.39587,
+    "geom:longitude":-0.520175,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Blasco Iba\u00d1ez, 4",
+    "sg:city":"San Vicente Del Raspeig-sant Vicent Del Raspeig",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 66 62 11",
+    "sg:postcode":"03690",
+    "sg:province":"Alicante",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864079,
+        102191581,
+        404329521,
+        85633129,
+        404227381,
+        101753655,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hcLu3OZD3AoBujloO37v7_38.395870_-0.520175@1306269439"
+    },
+    "wof:country":"ES",
+    "wof:created":1472526081,
+    "wof:geomhash":"2b8213d7788230b6f1a38b8d05682e0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329521,
+            "locality_id":101753655,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864079,
+            "region_id":85682625,
+            "venue_id":991090725
+        }
+    ],
+    "wof:id":991090725,
+    "wof:lastmodified":1472526081,
+    "wof:name":"Baebon S. A.",
+    "wof:parent_id":85864079,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [
+    -0.5201749802,
+    38.3958702087,
+    -0.5201749802,
+    38.3958702087
+],
+  "geometry": {"coordinates":[-0.5201749802,38.3958702087],"type":"Point"}
+}

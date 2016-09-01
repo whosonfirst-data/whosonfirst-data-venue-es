@@ -1,0 +1,74 @@
+{
+  "id": 1024484043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6679608822,39.571269989,2.6679608822,39.571269989",
+    "geom:latitude":39.57127,
+    "geom:longitude":2.667961,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Manacor, 78",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Restaurantes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 24 03 88",
+    "sg:postcode":"07007",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864089,
+        102191581,
+        404330817,
+        85633129,
+        404227367,
+        101748237,
+        85682647,
+        85864087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Par3kFkrsFElJ3lJul77x_39.571270_2.667961@1306269696"
+    },
+    "wof:country":"ES",
+    "wof:created":1472640927,
+    "wof:geomhash":"5b2330b450d3080962ee1238db4a86db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864089,
+            "region_id":85682647,
+            "venue_id":1024484043
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864087,
+            "region_id":85682647,
+            "venue_id":1024484043
+        }
+    ],
+    "wof:id":1024484043,
+    "wof:lastmodified":1472640927,
+    "wof:name":"Ying Yang  Long",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6679608822,
+    39.571269989,
+    2.6679608822,
+    39.571269989
+],
+  "geometry": {"coordinates":[2.6679608822,39.571269989],"type":"Point"}
+}

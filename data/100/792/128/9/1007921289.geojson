@@ -1,0 +1,64 @@
+{
+  "id": 1007921289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4838010073,38.3551940918,-0.4838010073,38.3551940918",
+    "geom:latitude":38.355194,
+    "geom:longitude":-0.483801,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Castellon, 2",
+    "sg:city":"Alacant",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 25 02 03",
+    "sg:postcode":"03012",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864065,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32AojOzDRjf8f5RCrW6auT_38.355194_-0.483801@1306269585"
+    },
+    "wof:country":"ES",
+    "wof:created":1472591808,
+    "wof:geomhash":"16b18b89cc0973349b3acf5cd470d9c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864065,
+            "region_id":85682625,
+            "venue_id":1007921289
+        }
+    ],
+    "wof:id":1007921289,
+    "wof:lastmodified":1472591808,
+    "wof:name":"Martinez Clemente Jesus",
+    "wof:parent_id":85864065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4838010073,
+    38.3551940918,
+    -0.4838010073,
+    38.3551940918
+],
+  "geometry": {"coordinates":[-0.4838010073,38.3551940918],"type":"Point"}
+}

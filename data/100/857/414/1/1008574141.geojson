@@ -1,0 +1,59 @@
+{
+  "id": 1008574141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8708488941,40.487865448,-3.8708488941,40.487865448",
+    "geom:latitude":40.487865,
+    "geom:longitude":-3.870849,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Comunidad De Madrid, S/n",
+    "sg:city":"Rozas De Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 36 03 07",
+    "sg:postcode":"28230",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863613,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I92PalnxiJNmmlo3Lbj0Z_40.487865_-3.870849@1306269672"
+    },
+    "wof:country":"ES",
+    "wof:created":1472633151,
+    "wof:geomhash":"0d7ca16fb673d0cbe12dbcc1c55c386f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863613,
+            "region_id":85682783,
+            "venue_id":1008574141
+        }
+    ],
+    "wof:id":1008574141,
+    "wof:lastmodified":1472633151,
+    "wof:name":"Supermercados Sabeco S.a.",
+    "wof:parent_id":85863613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8708488941,
+    40.487865448,
+    -3.8708488941,
+    40.487865448
+],
+  "geometry": {"coordinates":[-3.8708488941,40.487865448],"type":"Point"}
+}

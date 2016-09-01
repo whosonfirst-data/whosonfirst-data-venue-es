@@ -1,0 +1,81 @@
+{
+  "id": 991246073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1569459438,41.4216384888,2.1569459438,41.4216384888",
+    "geom:latitude":41.421638,
+    "geom:longitude":2.156946,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Conca De Tremp, 60",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 29 03 86",
+    "sg:postcode":"08032",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863991,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iSzQd2ai1Qw27zL4Rvp4u_41.421638_2.156946@1306269460"
+    },
+    "wof:country":"ES",
+    "wof:created":1472539901,
+    "wof:geomhash":"5720215fce7a68ad4d2c66f5d0eeca7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863991,
+            "region_id":85682663,
+            "venue_id":991246073
+        }
+    ],
+    "wof:id":991246073,
+    "wof:lastmodified":1472539901,
+    "wof:name":"Cano Caviedes Jesus",
+    "wof:parent_id":85863991,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.1569459438,
+    41.4216384888,
+    2.1569459438,
+    41.4216384888
+],
+  "geometry": {"coordinates":[2.1569459438,41.4216384888],"type":"Point"}
+}

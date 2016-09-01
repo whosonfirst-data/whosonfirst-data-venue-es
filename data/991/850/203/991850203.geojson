@@ -1,0 +1,78 @@
+{
+  "id": 991850203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6864669323,40.4682426453,-3.6864669323,40.4682426453",
+    "geom:latitude":40.468243,
+    "geom:longitude":-3.686467,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Enrique Larreta, 10",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servidores Y Editores De Bases De Datos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 23 72 48",
+    "sg:postcode":"28036",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863559,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Od4TbV6hUrH7OEa5SAHIs_40.468243_-3.686467@1306269540"
+    },
+    "wof:country":"ES",
+    "wof:created":1472574798,
+    "wof:geomhash":"df194c7a24694d24343bc23c16110ffa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863559,
+            "region_id":85682783,
+            "venue_id":991850203
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863601,
+            "region_id":85682783,
+            "venue_id":991850203
+        }
+    ],
+    "wof:id":991850203,
+    "wof:lastmodified":1472574798,
+    "wof:name":"Gregorio Pastor Maria Teresa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6864669323,
+    40.4682426453,
+    -3.6864669323,
+    40.4682426453
+],
+  "geometry": {"coordinates":[-3.6864669323,40.4682426453],"type":"Point"}
+}

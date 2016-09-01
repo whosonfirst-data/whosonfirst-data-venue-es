@@ -1,0 +1,59 @@
+{
+  "id": 1008662425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1980779171,41.3944664001,2.1980779171,41.3944664001",
+    "geom:latitude":41.394466,
+    "geom:longitude":2.198078,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Doctor Trueta, 114",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Confiter\u00cdas, Chocolater\u00cdas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 25 02 62",
+    "sg:postcode":"08005",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PkS7jamBYo703Gvhm4btX_41.394466_2.198078@1306269684"
+    },
+    "wof:country":"ES",
+    "wof:created":1472636908,
+    "wof:geomhash":"0856e93ba77788b9d4b846b9fa15b44c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008662425
+        }
+    ],
+    "wof:id":1008662425,
+    "wof:lastmodified":1472636908,
+    "wof:name":"Turrones Crocante S.a.",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1980779171,
+    41.3944664001,
+    2.1980779171,
+    41.3944664001
+],
+  "geometry": {"coordinates":[2.1980779171,41.3944664001],"type":"Point"}
+}

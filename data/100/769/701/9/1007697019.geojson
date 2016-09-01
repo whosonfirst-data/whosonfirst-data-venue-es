@@ -1,0 +1,59 @@
+{
+  "id": 1007697019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6525969505,39.5858192444,2.6525969505,39.5858192444",
+    "geom:latitude":39.585819,
+    "geom:longitude":2.652597,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Joan Capo, 2",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ense\u00d1anza Secundaria: Colegios Y Escuelas Privadas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 20 46 01",
+    "sg:postcode":"07010",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864091,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tsTNr5gBSfjps2CLn5Cbq_39.585819_2.652597@1306269556"
+    },
+    "wof:country":"ES",
+    "wof:created":1472580817,
+    "wof:geomhash":"198742bc82f00e0fc78b63ffe9126e0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":1007697019
+        }
+    ],
+    "wof:id":1007697019,
+    "wof:lastmodified":1472580817,
+    "wof:name":"Institut De E.s.josep Maria Llompart",
+    "wof:parent_id":85864091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6525969505,
+    39.5858192444,
+    2.6525969505,
+    39.5858192444
+],
+  "geometry": {"coordinates":[2.6525969505,39.5858192444],"type":"Point"}
+}

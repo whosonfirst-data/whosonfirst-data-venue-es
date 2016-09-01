@@ -1,0 +1,67 @@
+{
+  "id": 990905903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1328480244,41.3960838318,2.1328480244,41.3960838318",
+    "geom:latitude":41.396084,
+    "geom:longitude":2.132848,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Angel Guimera, 14",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 01 00 98",
+    "sg:postcode":"08017",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799611,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Okz02ufebxV0pchfZp0y2_41.396084_2.132848@1306269414"
+    },
+    "wof:country":"ES",
+    "wof:created":1472509209,
+    "wof:geomhash":"3f155292ea9ef37663009be9c7b25fc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799611,
+            "region_id":85682663,
+            "venue_id":990905903
+        }
+    ],
+    "wof:id":990905903,
+    "wof:lastmodified":1472509209,
+    "wof:name":"Aguilar Ruiz Maria Isabel",
+    "wof:parent_id":85799611,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1328480244,
+    41.3960838318,
+    2.1328480244,
+    41.3960838318
+],
+  "geometry": {"coordinates":[2.1328480244,41.3960838318],"type":"Point"}
+}

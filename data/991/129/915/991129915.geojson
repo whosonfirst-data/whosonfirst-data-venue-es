@@ -1,0 +1,59 @@
+{
+  "id": 991129915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6298179626,40.5453071594,-3.6298179626,40.5453071594",
+    "geom:latitude":40.545307,
+    "geom:longitude":-3.629818,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Sacramento (del), 16",
+    "sg:city":"San Sebastian De Los Reyes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias Y Agentes Comerciales, Representantes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 53 60 65",
+    "sg:postcode":"28700",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gZzIchKdVMl7fccSsJyCN_40.545307_-3.629818@1306269444"
+    },
+    "wof:country":"ES",
+    "wof:created":1472529460,
+    "wof:geomhash":"8c0425cc6682c5b17507923c39b8f7f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":991129915
+        }
+    ],
+    "wof:id":991129915,
+    "wof:lastmodified":1472529460,
+    "wof:name":"Belda Ribera Catalina",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6298179626,
+    40.5453071594,
+    -3.6298179626,
+    40.5453071594
+],
+  "geometry": {"coordinates":[-3.6298179626,40.5453071594],"type":"Point"}
+}

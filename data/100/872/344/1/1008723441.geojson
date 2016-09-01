@@ -1,0 +1,67 @@
+{
+  "id": 1008723441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6492331028,40.3841438293,-3.6492331028,40.3841438293",
+    "geom:latitude":40.384144,
+    "geom:longitude":-3.649233,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Tanger, 8",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicio De Salud",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 03 48 72",
+    "sg:postcode":"28018",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863733,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6f7AHdetzoxbs6vqTKO1Za_40.384144_-3.649233@1306269692"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639566,
+    "wof:geomhash":"09e4b607dca1b249bb7e1b0d3fe16754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863733,
+            "region_id":85682783,
+            "venue_id":1008723441
+        }
+    ],
+    "wof:id":1008723441,
+    "wof:lastmodified":1472639566,
+    "wof:name":"Vidal Fresco Mario",
+    "wof:parent_id":85863733,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6492331028,
+    40.3841438293,
+    -3.6492331028,
+    40.3841438293
+],
+  "geometry": {"coordinates":[-3.6492331028,40.3841438293],"type":"Point"}
+}

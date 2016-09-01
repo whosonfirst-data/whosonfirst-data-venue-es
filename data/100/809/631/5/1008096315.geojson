@@ -1,0 +1,88 @@
+{
+  "id": 1008096315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4774920046,38.3590660095,-0.4774920046,38.3590660095",
+    "geom:latitude":38.359066,
+    "geom:longitude":-0.477492,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Mateo, 40",
+    "sg:city":"Alacant",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 20 41 27",
+    "sg:postcode":"03013",
+    "sg:province":"Alicante",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864063,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625,
+        85864065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_091gm3BqDSjSu2hSfABvho_38.359066_-0.477492@1306269607"
+    },
+    "wof:country":"ES",
+    "wof:created":1472599357,
+    "wof:geomhash":"b0919909f8bcea6de2f864bbac639017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864063,
+            "region_id":85682625,
+            "venue_id":1008096315
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864065,
+            "region_id":85682625,
+            "venue_id":1008096315
+        }
+    ],
+    "wof:id":1008096315,
+    "wof:lastmodified":1472599357,
+    "wof:name":"Nieva Jiemenez Jose Rogelio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -0.4774920046,
+    38.3590660095,
+    -0.4774920046,
+    38.3590660095
+],
+  "geometry": {"coordinates":[-0.4774920046,38.3590660095],"type":"Point"}
+}

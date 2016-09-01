@@ -1,0 +1,80 @@
+{
+  "id": 1008543013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.4768719673,36.7074813843,-4.4768719673,36.7074813843",
+    "geom:latitude":36.707481,
+    "geom:longitude":-4.476872,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av J Ortega Y Gasset (p I San Luis), 333",
+    "sg:city":"Malaga",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 24 57 76",
+    "sg:postcode":"29006",
+    "sg:province":"M\u00e1laga",
+    "sg:tags":[
+        "organismos",
+        "control"
+    ],
+    "sg:website":"www.secotes.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863535,
+        102191581,
+        404339241,
+        85633129,
+        404227361,
+        101748185,
+        85682787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DR19vcs3RvpBNew9DAgjD_36.707481_-4.476872@1306269668"
+    },
+    "wof:country":"ES",
+    "wof:created":1472631827,
+    "wof:geomhash":"366198d3f08ca354c351741d0b8c4c85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863535,
+            "region_id":85682787,
+            "venue_id":1008543013
+        }
+    ],
+    "wof:id":1008543013,
+    "wof:lastmodified":1472631827,
+    "wof:name":"Socotec Iberia S.a.",
+    "wof:parent_id":85863535,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organismos",
+        "control"
+    ]
+},
+  "bbox": [
+    -4.4768719673,
+    36.7074813843,
+    -4.4768719673,
+    36.7074813843
+],
+  "geometry": {"coordinates":[-4.4768719673,36.7074813843],"type":"Point"}
+}

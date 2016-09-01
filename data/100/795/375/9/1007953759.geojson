@@ -1,0 +1,59 @@
+{
+  "id": 1007953759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6376004219,40.5415840149,-3.6376004219,40.5415840149",
+    "geom:latitude":40.541584,
+    "geom:longitude":-3.6376,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Marques De La Valdavia (del), 30",
+    "sg:city":"Alcobendas",
+    "sg:classifiers":[],
+    "sg:orig_category":"Heladeros",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 63 94 31",
+    "sg:postcode":"28100",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lMv2f3kNr2vgnjt1hEtfO_40.541584_-3.637600@1306269589"
+    },
+    "wof:country":"ES",
+    "wof:created":1472593297,
+    "wof:geomhash":"14dfbc3a765bfcde2a117d3f2a91886c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1007953759
+        }
+    ],
+    "wof:id":1007953759,
+    "wof:lastmodified":1472593297,
+    "wof:name":"Mastronunzio S.l.",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6376004219,
+    40.5415840149,
+    -3.6376004219,
+    40.5415840149
+],
+  "geometry": {"coordinates":[-3.6376004219,40.5415840149],"type":"Point"}
+}

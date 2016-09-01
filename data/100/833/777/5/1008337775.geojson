@@ -1,0 +1,60 @@
+{
+  "id": 1008337775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8018300533,40.3444709778,-3.8018300533,40.3444709778",
+    "geom:latitude":40.344471,
+    "geom:longitude":-3.80183,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Herramientas, 28",
+    "sg:city":"Leganes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Herramientas Manuales (fabricaci\u00d3n, Al Por Mayor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 43 01 55",
+    "sg:postcode":"28918",
+    "sg:province":"Madrid",
+    "sg:website":"www.rems.de",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SAIMA0l1xg0RpUBomZclD_40.344471_-3.801830@1306269640"
+    },
+    "wof:country":"ES",
+    "wof:created":1472622964,
+    "wof:geomhash":"b911eeab0d0c89871cfacdcc252e94fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008337775
+        }
+    ],
+    "wof:id":1008337775,
+    "wof:lastmodified":1472622964,
+    "wof:name":"Rems Espa\u00d1a S. A.",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8018300533,
+    40.3444709778,
+    -3.8018300533,
+    40.3444709778
+],
+  "geometry": {"coordinates":[-3.8018300533,40.3444709778],"type":"Point"}
+}

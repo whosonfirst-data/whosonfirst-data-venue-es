@@ -1,0 +1,59 @@
+{
+  "id": 1024477919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8266279697,40.3470153809,-3.8266279697,40.3470153809",
+    "geom:latitude":40.347015,
+    "geom:longitude":-3.826628,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Espada, 14",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Caf\u00c9s, Bares, Cervecer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 43 59 09",
+    "sg:postcode":"28921",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Yad49ARJ5NPGVkv5JkOEC_40.347015_-3.826628@1306269695"
+    },
+    "wof:country":"ES",
+    "wof:created":1472640677,
+    "wof:geomhash":"5da4efd5b7cb5938fe294568bd3771a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1024477919
+        }
+    ],
+    "wof:id":1024477919,
+    "wof:lastmodified":1472640677,
+    "wof:name":"Wong Escajadillo Jose Carlos",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8266279697,
+    40.3470153809,
+    -3.8266279697,
+    40.3470153809
+],
+  "geometry": {"coordinates":[-3.8266279697,40.3470153809],"type":"Point"}
+}

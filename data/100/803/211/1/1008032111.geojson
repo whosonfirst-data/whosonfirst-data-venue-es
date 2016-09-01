@@ -1,0 +1,64 @@
+{
+  "id": 1008032111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2394928932,41.4406738281,2.2394928932,41.4406738281",
+    "geom:latitude":41.440674,
+    "geom:longitude":2.239493,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carr Cervantes, 118",
+    "sg:city":"Badalona",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 87 55 99",
+    "sg:postcode":"08912",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799485,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aZuw0TdCxIVfGc4qtbvyH_41.440674_2.239493@1306269599"
+    },
+    "wof:country":"ES",
+    "wof:created":1472596576,
+    "wof:geomhash":"8de54e7cd3dcd7b592b390184c7d030b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799485,
+            "region_id":85682663,
+            "venue_id":1008032111
+        }
+    ],
+    "wof:id":1008032111,
+    "wof:lastmodified":1472596576,
+    "wof:name":"Monteys Vilarrodona Nicasio",
+    "wof:parent_id":85799485,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2394928932,
+    41.4406738281,
+    2.2394928932,
+    41.4406738281
+],
+  "geometry": {"coordinates":[2.2394928932,41.4406738281],"type":"Point"}
+}

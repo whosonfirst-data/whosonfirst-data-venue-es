@@ -1,0 +1,67 @@
+{
+  "id": 1007801329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.754822731,40.40574646,-3.754822731,40.40574646",
+    "geom:latitude":40.405746,
+    "geom:longitude":-3.754823,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Villagarcia, 20",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aparatos, Material Y Suministros Para Laboratorios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 26 22 01",
+    "sg:postcode":"28011",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863769,
+        102191581,
+        404338935,
+        85633129,
+        404227387,
+        101753753,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52l2lygwV7OLF003iCuqyl_40.405746_-3.754823@1306269570"
+    },
+    "wof:country":"ES",
+    "wof:created":1472586401,
+    "wof:geomhash":"c261d7facccb846a454af0dcd0602ff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338935,
+            "locality_id":101753753,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863769,
+            "region_id":85682783,
+            "venue_id":1007801329
+        }
+    ],
+    "wof:id":1007801329,
+    "wof:lastmodified":1472586401,
+    "wof:name":"Leo Gonzalez Juan",
+    "wof:parent_id":85863769,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.754822731,
+    40.40574646,
+    -3.754822731,
+    40.40574646
+],
+  "geometry": {"coordinates":[-3.754822731,40.40574646],"type":"Point"}
+}

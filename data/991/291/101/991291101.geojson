@@ -1,0 +1,81 @@
+{
+  "id": 991291101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6733059883,39.5858802795,2.6733059883,39.5858802795",
+    "geom:latitude":39.58588,
+    "geom:longitude":2.673306,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Arago, 190",
+    "sg:city":"Palma",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 47 86 70",
+    "sg:postcode":"07008",
+    "sg:province":"Islas Baleares",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864089,
+        102191581,
+        404330817,
+        85633129,
+        404227367,
+        101748237,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kLAUZMOPHHUsJ2GrhxJ20_39.585880_2.673306@1306269466"
+    },
+    "wof:country":"ES",
+    "wof:created":1472542242,
+    "wof:geomhash":"801193e8bf757a6e224771dd1439dc0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864089,
+            "region_id":85682647,
+            "venue_id":991291101
+        }
+    ],
+    "wof:id":991291101,
+    "wof:lastmodified":1472542242,
+    "wof:name":"Castell Ferreiro Gaspar",
+    "wof:parent_id":85864089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.6733059883,
+    39.5858802795,
+    2.6733059883,
+    39.5858802795
+],
+  "geometry": {"coordinates":[2.6733059883,39.5858802795],"type":"Point"}
+}

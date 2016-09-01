@@ -1,0 +1,81 @@
+{
+  "id": 1008377165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6646847725,40.4347572327,-3.6646847725,40.4347572327",
+    "geom:latitude":40.434757,
+    "geom:longitude":-3.664685,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Colomer, 11",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 25 01 47",
+    "sg:postcode":"28028",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863643,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1j7iHKzpjhjoajbxpcYNjC_40.434757_-3.664685@1306269645"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624652,
+    "wof:geomhash":"8f3c3cfe03c7c7be9b8e3eb07e483150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863643,
+            "region_id":85682783,
+            "venue_id":1008377165
+        }
+    ],
+    "wof:id":1008377165,
+    "wof:lastmodified":1472624652,
+    "wof:name":"Rodriguez Diaz-salazar Francisco",
+    "wof:parent_id":85863643,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.6646847725,
+    40.4347572327,
+    -3.6646847725,
+    40.4347572327
+],
+  "geometry": {"coordinates":[-3.6646847725,40.4347572327],"type":"Point"}
+}

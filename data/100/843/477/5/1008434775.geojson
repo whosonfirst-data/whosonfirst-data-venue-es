@@ -1,0 +1,80 @@
+{
+  "id": 1008434775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7393059731,40.4054756165,-3.7393059731,40.4054756165",
+    "geom:latitude":40.405476,
+    "geom:longitude":-3.739306,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pase Olivos, 95",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Peluqueros: De Se\u00d1oras",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 79 13 62",
+    "sg:postcode":"28011",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863767,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863811,
+        404338935,
+        101753753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4k26Ry7VsBPCe1Rb7d0Rss_40.405476_-3.739306@1306269653"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627385,
+    "wof:geomhash":"06f5968c7745242bb4d5b4c1e910e203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863767,
+            "region_id":85682783,
+            "venue_id":1008434775
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338935,
+            "locality_id":101753753,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863811,
+            "region_id":85682783,
+            "venue_id":1008434775
+        }
+    ],
+    "wof:id":1008434775,
+    "wof:lastmodified":1472627385,
+    "wof:name":"Saiz Saiz Alberto",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7393059731,
+    40.4054756165,
+    -3.7393059731,
+    40.4054756165
+],
+  "geometry": {"coordinates":[-3.7393059731,40.4054756165],"type":"Point"}
+}

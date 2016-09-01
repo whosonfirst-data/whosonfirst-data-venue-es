@@ -1,0 +1,74 @@
+{
+  "id": 1008431831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3845500052,39.4883117676,-0.3845500052,39.4883117676",
+    "geom:latitude":39.488312,
+    "geom:longitude":-0.38455,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Pancracio, 27",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Papeler\u00cdas, Librer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 40 83 40",
+    "sg:postcode":"46009",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864223,
+        102191581,
+        404345361,
+        85633129,
+        404227381,
+        101748241,
+        85682867,
+        85864227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MN8wr6pVUHZ7xKDazvzEN_39.488312_-0.384550@1306269653"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627263,
+    "wof:geomhash":"90b901bfaed0a415d5f0e8f1a745fec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345361,
+            "locality_id":101748241,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864223,
+            "region_id":85682867,
+            "venue_id":1008431831
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864227,
+            "region_id":85682867,
+            "venue_id":1008431831
+        }
+    ],
+    "wof:id":1008431831,
+    "wof:lastmodified":1472627263,
+    "wof:name":"Saez Navarro Maria Isabel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3845500052,
+    39.4883117676,
+    -0.3845500052,
+    39.4883117676
+],
+  "geometry": {"coordinates":[-0.3845500052,39.4883117676],"type":"Point"}
+}

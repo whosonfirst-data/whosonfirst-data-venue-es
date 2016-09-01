@@ -1,0 +1,77 @@
+{
+  "id": 1008386777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6590750217,39.5676841736,2.6590750217,39.5676841736",
+    "geom:latitude":39.567684,
+    "geom:longitude":2.659075,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Miquel Santandreu, 19",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Peluqueros: De Se\u00d1oras",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 46 27 55",
+    "sg:postcode":"07006",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864089,
+        102191581,
+        404330817,
+        85633129,
+        404227367,
+        101748237,
+        85682647,
+        85864115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yhQNnAm8PF0kQwCMARzGo_39.567684_2.659075@1306269647"
+    },
+    "wof:country":"ES",
+    "wof:created":1472625146,
+    "wof:geomhash":"b795657e836229b3e7a12fda1b604430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864089,
+            "region_id":85682647,
+            "venue_id":1008386777
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748237,
+            "neighbourhood_id":85864115,
+            "region_id":-1,
+            "venue_id":1008386777
+        }
+    ],
+    "wof:id":1008386777,
+    "wof:lastmodified":1472625146,
+    "wof:name":"Rodriguez Piza Maria",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6590750217,
+    39.5676841736,
+    2.6590750217,
+    39.5676841736
+],
+  "geometry": {"coordinates":[2.6590750217,39.5676841736],"type":"Point"}
+}

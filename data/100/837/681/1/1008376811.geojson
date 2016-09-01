@@ -1,0 +1,73 @@
+{
+  "id": 1008376811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9842391014,37.3505706787,-5.9842391014,37.3505706787",
+    "geom:latitude":37.350571,
+    "geom:longitude":-5.984239,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Grecia, 31",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 61 03 04",
+    "sg:postcode":"41012",
+    "sg:province":"Sevilla",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864193,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1u5UolMTJMqNGbgzmTnXa9_37.350571_-5.984239@1306269645"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624640,
+    "wof:geomhash":"74826246194dc8955daacc8bf1722e6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864193,
+            "region_id":85682841,
+            "venue_id":1008376811
+        }
+    ],
+    "wof:id":1008376811,
+    "wof:lastmodified":1472624640,
+    "wof:name":"Rodriguez De Los Santos Miguel Angel",
+    "wof:parent_id":85864193,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -5.9842391014,
+    37.3505706787,
+    -5.9842391014,
+    37.3505706787
+],
+  "geometry": {"coordinates":[-5.9842391014,37.3505706787],"type":"Point"}
+}

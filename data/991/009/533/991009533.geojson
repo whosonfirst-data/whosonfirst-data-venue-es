@@ -1,0 +1,74 @@
+{
+  "id": 991009533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1699259281,41.3925933838,2.1699259281,41.3925933838",
+    "geom:latitude":41.392593,
+    "geom:longitude":2.169926,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Diputacio, 305",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c9dicos: Cirug\u00cda Ortop\u00c9dica Y Traumatolog\u00cda",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 88 08 38",
+    "sg:postcode":"08009",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864017,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uwSpevJUrUDUdSfa0ruNL_41.392593_2.169926@1306269428"
+    },
+    "wof:country":"ES",
+    "wof:created":1472519842,
+    "wof:geomhash":"4194a41b7b96865085a955d4e4721771",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864017,
+            "region_id":85682663,
+            "venue_id":991009533
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":991009533
+        }
+    ],
+    "wof:id":991009533,
+    "wof:lastmodified":1472519842,
+    "wof:name":"Arranz Bayod Julio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1699259281,
+    41.3925933838,
+    2.1699259281,
+    41.3925933838
+],
+  "geometry": {"coordinates":[2.1699259281,41.3925933838],"type":"Point"}
+}

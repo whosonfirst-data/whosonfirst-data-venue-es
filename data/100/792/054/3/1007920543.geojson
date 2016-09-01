@@ -1,0 +1,67 @@
+{
+  "id": 1007920543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1324501038,41.3991699219,2.1324501038,41.3991699219",
+    "geom:latitude":41.39917,
+    "geom:longitude":2.13245,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Escoles Pies, 40",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 18 25 08",
+    "sg:postcode":"08017",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799611,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64wy2G2nF2NmtELQlLY7VG_41.399170_2.132450@1306269585"
+    },
+    "wof:country":"ES",
+    "wof:created":1472591771,
+    "wof:geomhash":"d4129bdf1810f334a2353fed4ce5eaa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799611,
+            "region_id":85682663,
+            "venue_id":1007920543
+        }
+    ],
+    "wof:id":1007920543,
+    "wof:lastmodified":1472591771,
+    "wof:name":"Martinez Carabajal Alberto",
+    "wof:parent_id":85799611,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1324501038,
+    41.3991699219,
+    2.1324501038,
+    41.3991699219
+],
+  "geometry": {"coordinates":[2.1324501038,41.3991699219],"type":"Point"}
+}

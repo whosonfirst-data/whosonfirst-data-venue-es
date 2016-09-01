@@ -1,0 +1,67 @@
+{
+  "id": 1008079727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6209189892,40.4028511047,-3.6209189892,40.4028511047",
+    "geom:latitude":40.402851,
+    "geom:longitude":-3.620919,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Juglares, 14",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ambulancias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 71 44 37",
+    "sg:postcode":"28032",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863821,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2D0biRpbUkAfrkqB7t8YiE_40.402851_-3.620919@1306269605"
+    },
+    "wof:country":"ES",
+    "wof:created":1472598636,
+    "wof:geomhash":"c093ac75f3af0fe01cb18adf66887bdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863821,
+            "region_id":85682783,
+            "venue_id":1008079727
+        }
+    ],
+    "wof:id":1008079727,
+    "wof:lastmodified":1472598636,
+    "wof:name":"Narros Sanchez Fernando",
+    "wof:parent_id":85863821,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6209189892,
+    40.4028511047,
+    -3.6209189892,
+    40.4028511047
+],
+  "geometry": {"coordinates":[-3.6209189892,40.4028511047],"type":"Point"}
+}

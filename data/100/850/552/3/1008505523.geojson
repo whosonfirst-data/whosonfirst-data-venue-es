@@ -1,0 +1,67 @@
+{
+  "id": 1008505523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8860219717,41.6451530457,-0.8860219717,41.6451530457",
+    "geom:latitude":41.645153,
+    "geom:longitude":-0.886022,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pase Sagasta, 16",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Procuradores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 23 11 75",
+    "sg:postcode":"50006",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863361,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mWepwYsmmOZtSq5M8LFBM_41.645153_-0.886022@1306269663"
+    },
+    "wof:country":"ES",
+    "wof:created":1472630257,
+    "wof:geomhash":"97ec347b414747247436de6501dd3551",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863361,
+            "region_id":85682891,
+            "venue_id":1008505523
+        }
+    ],
+    "wof:id":1008505523,
+    "wof:lastmodified":1472630257,
+    "wof:name":"Serrano Mendez Maria Del Pilar",
+    "wof:parent_id":85863361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8860219717,
+    41.6451530457,
+    -0.8860219717,
+    41.6451530457
+],
+  "geometry": {"coordinates":[-0.8860219717,41.6451530457],"type":"Point"}
+}

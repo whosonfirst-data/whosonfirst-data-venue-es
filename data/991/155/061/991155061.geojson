@@ -1,0 +1,78 @@
+{
+  "id": 991155061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.7623438835,37.8824195862,-4.7623438835,37.8824195862",
+    "geom:latitude":37.88242,
+    "geom:longitude":-4.762344,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ca\u00d1amo, S/n",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 25 39 83",
+    "sg:postcode":"14010",
+    "sg:province":"C\u00f3rdoba",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863895,
+        102191581,
+        404333687,
+        85633129,
+        404227361,
+        101748233,
+        85682697,
+        85863907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WqP9sRIT5nwfwZhp9jjMl_37.882420_-4.762344@1306269448"
+    },
+    "wof:country":"ES",
+    "wof:created":1472532543,
+    "wof:geomhash":"73651ab226ee0f3ac587d5da6c325e13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863895,
+            "region_id":85682697,
+            "venue_id":991155061
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863907,
+            "region_id":85682697,
+            "venue_id":991155061
+        }
+    ],
+    "wof:id":991155061,
+    "wof:lastmodified":1472532543,
+    "wof:name":"Blanco Lopez Pedro",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7623438835,
+    37.8824195862,
+    -4.7623438835,
+    37.8824195862
+],
+  "geometry": {"coordinates":[-4.7623438835,37.8824195862],"type":"Point"}
+}

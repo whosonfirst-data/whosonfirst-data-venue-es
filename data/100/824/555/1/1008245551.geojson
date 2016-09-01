@@ -1,0 +1,59 @@
+{
+  "id": 1008245551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1657600403,41.5836296082,2.1657600403,41.5836296082",
+    "geom:latitude":41.58363,
+    "geom:longitude":2.16576,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Plana (la), 25",
+    "sg:city":"Sagrera",
+    "sg:classifiers":[],
+    "sg:orig_category":"Peluquer\u00cdas, Peluquer\u00cda Mixta",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 938 64 60 01",
+    "sg:postcode":"08184",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799453,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62aQEpj5XApzz7wv65ggRr_41.583630_2.165760@1306269628"
+    },
+    "wof:country":"ES",
+    "wof:created":1472615709,
+    "wof:geomhash":"e99cc485d5fa3163c499e878743ee303",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799453,
+            "region_id":85682663,
+            "venue_id":1008245551
+        }
+    ],
+    "wof:id":1008245551,
+    "wof:lastmodified":1472615709,
+    "wof:name":"Piquer Bueno Ascension",
+    "wof:parent_id":85799453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1657600403,
+    41.5836296082,
+    2.1657600403,
+    41.5836296082
+],
+  "geometry": {"coordinates":[2.1657600403,41.5836296082],"type":"Point"}
+}

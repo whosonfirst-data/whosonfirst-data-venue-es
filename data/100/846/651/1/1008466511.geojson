@@ -1,0 +1,59 @@
+{
+  "id": 1008466511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6284370422,40.5497589111,-3.6284370422,40.5497589111",
+    "geom:latitude":40.549759,
+    "geom:longitude":-3.628437,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Gonzalo Izquierdo (de), 6",
+    "sg:city":"San Sebastian De Los Reyes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicio De Salud",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 52 69 12",
+    "sg:postcode":"28700",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JsbX68LQ7o5W8EdLPP6Op_40.549759_-3.628437@1306269657"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628567,
+    "wof:geomhash":"5dc37e5a14fd2377b8d0ac8f51a9f119",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1008466511
+        }
+    ],
+    "wof:id":1008466511,
+    "wof:lastmodified":1472628567,
+    "wof:name":"Saneamientos Hermi S.l.",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6284370422,
+    40.5497589111,
+    -3.6284370422,
+    40.5497589111
+],
+  "geometry": {"coordinates":[-3.6284370422,40.5497589111],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1008650289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7412600517,40.405216217,-3.7412600517,40.405216217",
+    "geom:latitude":40.405216,
+    "geom:longitude":-3.74126,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pase Perales, 66",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Contenedores (mercanc\u00cdas)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 26 49 05",
+    "sg:postcode":"28011",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863767,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863811,
+        404338935,
+        101753753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6M0dMoA9lpFtkv2994xGB9_40.405216_-3.741260@1306269682"
+    },
+    "wof:country":"ES",
+    "wof:created":1472636423,
+    "wof:geomhash":"3504776da38cc82e84576188b3a794de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863767,
+            "region_id":85682783,
+            "venue_id":1008650289
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338935,
+            "locality_id":101753753,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863811,
+            "region_id":85682783,
+            "venue_id":1008650289
+        }
+    ],
+    "wof:id":1008650289,
+    "wof:lastmodified":1472636423,
+    "wof:name":"Transportes Mendieta Lastra S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7412600517,
+    40.405216217,
+    -3.7412600517,
+    40.405216217
+],
+  "geometry": {"coordinates":[-3.7412600517,40.405216217],"type":"Point"}
+}

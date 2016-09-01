@@ -1,0 +1,74 @@
+{
+  "id": 1008588929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6306118965,39.5818328857,2.6306118965,39.5818328857",
+    "geom:latitude":39.581833,
+    "geom:longitude":2.630612,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Marti Boneo, 3",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Chapister\u00cda",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 73 81 35",
+    "sg:postcode":"07013",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864103,
+        102191581,
+        404330817,
+        85633129,
+        404227367,
+        101748237,
+        85682647,
+        85864101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xgFQcKSSgqeTcdpi4lS8p_39.581833_2.630612@1306269674"
+    },
+    "wof:country":"ES",
+    "wof:created":1472633722,
+    "wof:geomhash":"b0818248fbe72b61c5b9823d38fda0d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864103,
+            "region_id":85682647,
+            "venue_id":1008588929
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864101,
+            "region_id":85682647,
+            "venue_id":1008588929
+        }
+    ],
+    "wof:id":1008588929,
+    "wof:lastmodified":1472633722,
+    "wof:name":"Talleres Lozano C.b.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6306118965,
+    39.5818328857,
+    2.6306118965,
+    39.5818328857
+],
+  "geometry": {"coordinates":[2.6306118965,39.5818328857],"type":"Point"}
+}

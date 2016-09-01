@@ -1,0 +1,73 @@
+{
+  "id": 1008308885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5963089466,37.157283783,-3.5963089466,37.157283783",
+    "geom:latitude":37.157284,
+    "geom:longitude":-3.596309,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pintor Manuel Maldonado, 29",
+    "sg:city":"Granada",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 18 30 29",
+    "sg:postcode":"18007",
+    "sg:province":"Granada",
+    "sg:tags":[
+        "televisiones",
+        "y",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863847,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EieAJgCVGcPcupA9cSo9T_37.157284_-3.596309@1306269636"
+    },
+    "wof:country":"ES",
+    "wof:created":1472621752,
+    "wof:geomhash":"6ea43ff316876cb45507e87425d41e83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863847,
+            "region_id":85682731,
+            "venue_id":1008308885
+        }
+    ],
+    "wof:id":1008308885,
+    "wof:lastmodified":1472621752,
+    "wof:name":"Radio Granada S.a.",
+    "wof:parent_id":85863847,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "televisiones",
+        "y",
+        "radio"
+    ]
+},
+  "bbox": [
+    -3.5963089466,
+    37.157283783,
+    -3.5963089466,
+    37.157283783
+],
+  "geometry": {"coordinates":[-3.5963089466,37.157283783],"type":"Point"}
+}

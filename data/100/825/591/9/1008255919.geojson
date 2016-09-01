@@ -1,0 +1,79 @@
+{
+  "id": 1008255919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.4685659409,40.4497261047,-3.4685659409,40.4497261047",
+    "geom:latitude":40.449726,
+    "geom:longitude":-3.468566,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Marmol, 3",
+    "sg:city":"Torrejon Ardoz",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 76 00 41",
+    "sg:postcode":"28850",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "accesorios",
+        "para",
+        "bares",
+        "cervecer\u00cdas",
+        "caf\u00c9s",
+        "y"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863709,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jbHsONAPcAusW96QLtsyY_40.449726_-3.468566@1306269629"
+    },
+    "wof:country":"ES",
+    "wof:created":1472616345,
+    "wof:geomhash":"7c8135d971a68460e682b6468278874a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863709,
+            "region_id":85682783,
+            "venue_id":1008255919
+        }
+    ],
+    "wof:id":1008255919,
+    "wof:lastmodified":1472616345,
+    "wof:name":"Polania Posso Reynaldo",
+    "wof:parent_id":85863709,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accesorios",
+        "para",
+        "bares",
+        "cervecer\u00cdas",
+        "caf\u00c9s",
+        "y"
+    ]
+},
+  "bbox": [
+    -3.4685659409,
+    40.4497261047,
+    -3.4685659409,
+    40.4497261047
+],
+  "geometry": {"coordinates":[-3.4685659409,40.4497261047],"type":"Point"}
+}

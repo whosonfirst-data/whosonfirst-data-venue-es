@@ -1,0 +1,59 @@
+{
+  "id": 1008149505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6028189659,37.1676483154,-3.6028189659,37.1676483154",
+    "geom:latitude":37.167648,
+    "geom:longitude":-3.602819,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Chueca, 8",
+    "sg:city":"Granada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tintes (fabricaci\u00d3n, Al Por Mayor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 25 60 27",
+    "sg:postcode":"18004",
+    "sg:province":"Granada",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863847,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YU1ntCRZKz0j61Sq8Z5Tw_37.167648_-3.602819@1306269615"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601819,
+    "wof:geomhash":"0f95889ab6d0af9f806b99b60d2eea50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863847,
+            "region_id":85682731,
+            "venue_id":1008149505
+        }
+    ],
+    "wof:id":1008149505,
+    "wof:lastmodified":1472601819,
+    "wof:name":"Padilla Solano Lorenzo",
+    "wof:parent_id":85863847,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6028189659,
+    37.1676483154,
+    -3.6028189659,
+    37.1676483154
+],
+  "geometry": {"coordinates":[-3.6028189659,37.1676483154],"type":"Point"}
+}

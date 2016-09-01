@@ -1,0 +1,81 @@
+{
+  "id": 1008675863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3667039871,39.4699821472,-0.3667039871,39.4699821472",
+    "geom:latitude":39.469982,
+    "geom:longitude":-0.366704,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Grabador Esteve, 23",
+    "sg:city":"Valencia",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 34 88 07",
+    "sg:postcode":"46004",
+    "sg:province":"Valencia",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864209,
+        102191581,
+        404345361,
+        85633129,
+        404227381,
+        101748241,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RXfHEcAZYDrWxA7LXVStS_39.469982_-0.366704@1306269685"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637439,
+    "wof:geomhash":"02564306582524cfd5402acc9a3cf80a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345361,
+            "locality_id":101748241,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864209,
+            "region_id":85682867,
+            "venue_id":1008675863
+        }
+    ],
+    "wof:id":1008675863,
+    "wof:lastmodified":1472637439,
+    "wof:name":"Ure\u00f1a Camacho Vicente",
+    "wof:parent_id":85864209,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -0.3667039871,
+    39.4699821472,
+    -0.3667039871,
+    39.4699821472
+],
+  "geometry": {"coordinates":[-0.3667039871,39.4699821472],"type":"Point"}
+}

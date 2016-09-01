@@ -1,0 +1,80 @@
+{
+  "id": 1008239757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7383770943,40.405456543,-3.7383770943,40.405456543",
+    "geom:latitude":40.405457,
+    "geom:longitude":-3.738377,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pase Olivos, 81",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Papeler\u00cdas: Art\u00cdculos (al Por Mayor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 63 30 22",
+    "sg:postcode":"28011",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863767,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863811,
+        404338935,
+        101753753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7azrgllbxkhGslJTF8Ubc6_40.405457_-3.738377@1306269627"
+    },
+    "wof:country":"ES",
+    "wof:created":1472614465,
+    "wof:geomhash":"5b28d6c9b4296f12f7f557353b123d81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863767,
+            "region_id":85682783,
+            "venue_id":1008239757
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338935,
+            "locality_id":101753753,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863811,
+            "region_id":85682783,
+            "venue_id":1008239757
+        }
+    ],
+    "wof:id":1008239757,
+    "wof:lastmodified":1472614465,
+    "wof:name":"Pilar Martinez Jesus",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7383770943,
+    40.405456543,
+    -3.7383770943,
+    40.405456543
+],
+  "geometry": {"coordinates":[-3.7383770943,40.405456543],"type":"Point"}
+}

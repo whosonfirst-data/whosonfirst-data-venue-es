@@ -1,0 +1,59 @@
+{
+  "id": 1008718553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1055080891,41.5451965332,2.1055080891,41.5451965332",
+    "geom:latitude":41.545197,
+    "geom:longitude":2.105508,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Torras I Bages, 1",
+    "sg:city":"Sabadell",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 27 11 89",
+    "sg:postcode":"08201",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qfj3zchLhQq7BjDkt1CJD_41.545197_2.105508@1306269691"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639371,
+    "wof:geomhash":"07d7ecbb3e425d2bb649d9dfca107c40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008718553
+        }
+    ],
+    "wof:id":1008718553,
+    "wof:lastmodified":1472639371,
+    "wof:name":"Viatges Montblau S.a.",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1055080891,
+    41.5451965332,
+    2.1055080891,
+    41.5451965332
+],
+  "geometry": {"coordinates":[2.1055080891,41.5451965332],"type":"Point"}
+}

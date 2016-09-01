@@ -1,0 +1,81 @@
+{
+  "id": 1024488193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8751670122,41.6267585754,-0.8751670122,41.6267585754",
+    "geom:latitude":41.626759,
+    "geom:longitude":-0.875167,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Viator, 34",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 27 56 00",
+    "sg:postcode":"50007",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863413,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77HhTzHXeL1CEUeGA4HD5L_41.626759_-0.875167@1306269696"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641107,
+    "wof:geomhash":"2ba068e37f32cb1d785fdb52439481f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863413,
+            "region_id":85682891,
+            "venue_id":1024488193
+        }
+    ],
+    "wof:id":1024488193,
+    "wof:lastmodified":1472641107,
+    "wof:name":"Zamora Magro Fernando",
+    "wof:parent_id":85863413,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -0.8751670122,
+    41.6267585754,
+    -0.8751670122,
+    41.6267585754
+],
+  "geometry": {"coordinates":[-0.8751670122,41.6267585754],"type":"Point"}
+}

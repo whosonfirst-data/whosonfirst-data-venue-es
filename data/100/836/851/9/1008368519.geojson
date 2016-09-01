@@ -1,0 +1,67 @@
+{
+  "id": 1008368519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1502690315,41.4113960266,2.1502690315,41.4113960266",
+    "geom:latitude":41.411396,
+    "geom:longitude":2.150269,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sostres, 15",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 84 46 57",
+    "sg:postcode":"08024",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799393,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IBLs6pCvGxtjrcNAdTIpR_41.411396_2.150269@1306269644"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624304,
+    "wof:geomhash":"103c01e8e0225dc2cd50210aa1ae28b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799393,
+            "region_id":85682663,
+            "venue_id":1008368519
+        }
+    ],
+    "wof:id":1008368519,
+    "wof:lastmodified":1472624304,
+    "wof:name":"Roca Bermudez De Castro Carlos",
+    "wof:parent_id":85799393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1502690315,
+    41.4113960266,
+    2.1502690315,
+    41.4113960266
+],
+  "geometry": {"coordinates":[2.1502690315,41.4113960266],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 991356107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8914272189,41.6771392822,-0.8914272189,41.6771392822",
+    "geom:latitude":41.677139,
+    "geom:longitude":-0.891427,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Alejandro Casona, 7",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c9dicos: Estomatolog\u00cda",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 73 68 01",
+    "sg:postcode":"50015",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863297,
+        85682891,
+        85863309,
+        102191581,
+        404347363,
+        404227363,
+        101748361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1c0tCn5S2oeXnlVKh3ji2y_41.677139_-0.891427@1306269475"
+    },
+    "wof:country":"ES",
+    "wof:created":1472545552,
+    "wof:geomhash":"aad9e236d48ef12495c38e062acafad2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863297,
+            "region_id":85682891,
+            "venue_id":991356107
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863309,
+            "region_id":85682891,
+            "venue_id":991356107
+        }
+    ],
+    "wof:id":991356107,
+    "wof:lastmodified":1472545552,
+    "wof:name":"Cobo Plana Monica Trinidad",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8914272189,
+    41.6771392822,
+    -0.8914272189,
+    41.6771392822
+],
+  "geometry": {"coordinates":[-0.8914272189,41.6771392822],"type":"Point"}
+}

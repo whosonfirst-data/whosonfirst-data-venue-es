@@ -1,0 +1,64 @@
+{
+  "id": 1007734997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6257939339,37.1901702881,-3.6257939339,37.1901702881",
+    "geom:latitude":37.19017,
+    "geom:longitude":-3.625794,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Virgen Del Monte, 3",
+    "sg:city":"Granada",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 28 22 28",
+    "sg:postcode":"18015",
+    "sg:province":"Granada",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863835,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CePaZsqmJN5gZNiA11dTL_37.190170_-3.625794@1306269561"
+    },
+    "wof:country":"ES",
+    "wof:created":1472582766,
+    "wof:geomhash":"6649a4d44e21db77d09c708798659792",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863835,
+            "region_id":85682731,
+            "venue_id":1007734997
+        }
+    ],
+    "wof:id":1007734997,
+    "wof:lastmodified":1472582766,
+    "wof:name":"Jimenez Suarez Maria Remedios",
+    "wof:parent_id":85863835,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6257939339,
+    37.1901702881,
+    -3.6257939339,
+    37.1901702881
+],
+  "geometry": {"coordinates":[-3.6257939339,37.1901702881],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 991570413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.7803940773,37.8887138367,-4.7803940773,37.8887138367",
+    "geom:latitude":37.888714,
+    "geom:longitude":-4.780394,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Ronda De Los Tejares, S/n",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 47 51 53",
+    "sg:postcode":"14001",
+    "sg:province":"C\u00f3rdoba",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863895,
+        102191581,
+        404333687,
+        85633129,
+        404227361,
+        101748233,
+        85682697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Wa1e5XrYaeZfNZ9t9mUwm_37.888714_-4.780394@1306269503"
+    },
+    "wof:country":"ES",
+    "wof:created":1472558203,
+    "wof:geomhash":"036f822a4a803a49713208cd5530f0d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863895,
+            "region_id":85682697,
+            "venue_id":991570413
+        }
+    ],
+    "wof:id":991570413,
+    "wof:lastmodified":1472558203,
+    "wof:name":"Equipamientos Urbanos Del Sur S.a.",
+    "wof:parent_id":85863895,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7803940773,
+    37.8887138367,
+    -4.7803940773,
+    37.8887138367
+],
+  "geometry": {"coordinates":[-4.7803940773,37.8887138367],"type":"Point"}
+}

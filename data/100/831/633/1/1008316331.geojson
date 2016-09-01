@@ -1,0 +1,73 @@
+{
+  "id": 1008316331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2383270264,41.4463386536,2.2383270264,41.4463386536",
+    "geom:latitude":41.446339,
+    "geom:longitude":2.238327,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carr Baldomer Sola, 70",
+    "sg:city":"Badalona",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 87 71 88",
+    "sg:postcode":"08912",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799485,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7l1H4wSWiB6MjtiYQCW4zw_41.446339_2.238327@1306269637"
+    },
+    "wof:country":"ES",
+    "wof:created":1472622047,
+    "wof:geomhash":"b12f497f998d839adc8f7082e7275157",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799485,
+            "region_id":85682663,
+            "venue_id":1008316331
+        }
+    ],
+    "wof:id":1008316331,
+    "wof:lastmodified":1472622047,
+    "wof:name":"Ramon Martinez Bruno",
+    "wof:parent_id":85799485,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.2383270264,
+    41.4463386536,
+    2.2383270264,
+    41.4463386536
+],
+  "geometry": {"coordinates":[2.2383270264,41.4463386536],"type":"Point"}
+}

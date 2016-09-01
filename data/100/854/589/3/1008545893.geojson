@@ -1,0 +1,59 @@
+{
+  "id": 1008545893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6505000591,40.5345573425,-3.6505000591,40.5345573425",
+    "geom:latitude":40.534557,
+    "geom:longitude":-3.6505,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Industria (de La), 32",
+    "sg:city":"Alcobendas",
+    "sg:classifiers":[],
+    "sg:orig_category":"Soldadura, Equipo Y Herramental",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 61 91 59",
+    "sg:postcode":"28108",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eXJwvbn2XKoH0NP6mP0Qi_40.534557_-3.650500@1306269668"
+    },
+    "wof:country":"ES",
+    "wof:created":1472631934,
+    "wof:geomhash":"a912ac7fdbab3e2c33866f69060dd3d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1008545893
+        }
+    ],
+    "wof:id":1008545893,
+    "wof:lastmodified":1472631934,
+    "wof:name":"Soldacentro S.a.",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6505000591,
+    40.5345573425,
+    -3.6505000591,
+    40.5345573425
+],
+  "geometry": {"coordinates":[-3.6505000591,40.5345573425],"type":"Point"}
+}

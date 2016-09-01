@@ -1,0 +1,67 @@
+{
+  "id": 1008122449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.5134919882,38.3467826843,-0.5134919882,38.3467826843",
+    "geom:latitude":38.346783,
+    "geom:longitude":-0.513492,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Eduardo Langucha, 3",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 28 33 74",
+    "sg:postcode":"03006",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864049,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WaMfXYti2TiKgdGayEZqR_38.346783_-0.513492@1306269611"
+    },
+    "wof:country":"ES",
+    "wof:created":1472600495,
+    "wof:geomhash":"ca5d1b993033398d55e6db9a42e05838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864049,
+            "region_id":85682625,
+            "venue_id":1008122449
+        }
+    ],
+    "wof:id":1008122449,
+    "wof:lastmodified":1472600495,
+    "wof:name":"Oliver Parres Consuelo",
+    "wof:parent_id":85864049,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.5134919882,
+    38.3467826843,
+    -0.5134919882,
+    38.3467826843
+],
+  "geometry": {"coordinates":[-0.5134919882,38.3467826843],"type":"Point"}
+}

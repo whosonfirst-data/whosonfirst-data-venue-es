@@ -1,0 +1,72 @@
+{
+  "id": 991035439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1090500355,41.369052887,2.1090500355,41.369052887",
+    "geom:latitude":41.369053,
+    "geom:longitude":2.10905,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Florida, 166",
+    "sg:city":"Hospitalet Llobregat",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 73 62 00",
+    "sg:postcode":"08905",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799283,
+        102191581,
+        404331105,
+        85633129,
+        404227379,
+        101748333,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50R3Nb6PVF5aRF4NFBrTHO_41.369053_2.109050@1306269432"
+    },
+    "wof:country":"ES",
+    "wof:created":1472521848,
+    "wof:geomhash":"17cdd40aef35812ce399fbbf054436c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331105,
+            "locality_id":101748333,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799283,
+            "region_id":85682663,
+            "venue_id":991035439
+        }
+    ],
+    "wof:id":991035439,
+    "wof:lastmodified":1472521848,
+    "wof:name":"Asociacion De Taxistas Taxilet",
+    "wof:parent_id":85799283,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1090500355,
+    41.369052887,
+    2.1090500355,
+    41.369052887
+],
+  "geometry": {"coordinates":[2.1090500355,41.369052887],"type":"Point"}
+}

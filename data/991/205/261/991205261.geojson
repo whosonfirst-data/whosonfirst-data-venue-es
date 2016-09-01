@@ -1,0 +1,60 @@
+{
+  "id": 991205261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.8184880018,41.7259216309,1.8184880018,41.7259216309",
+    "geom:latitude":41.725922,
+    "geom:longitude":1.818488,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ctra Cardona, 75",
+    "sg:city":"Manresa",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cajas De Ahorro",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 938 72 83 99",
+    "sg:postcode":"08241",
+    "sg:province":"Barcelona",
+    "sg:website":"www.lacaixa.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YTzriAht5A6b2WSVZtLHB_41.725922_1.818488@1306269454"
+    },
+    "wof:country":"ES",
+    "wof:created":1472536908,
+    "wof:geomhash":"192992fdd90c289ceef314c97152b0cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":991205261
+        }
+    ],
+    "wof:id":991205261,
+    "wof:lastmodified":1472536908,
+    "wof:name":"Caixa D'estalvis I Pensions De Barcelona",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.8184880018,
+    41.7259216309,
+    1.8184880018,
+    41.7259216309
+],
+  "geometry": {"coordinates":[1.8184880018,41.7259216309],"type":"Point"}
+}

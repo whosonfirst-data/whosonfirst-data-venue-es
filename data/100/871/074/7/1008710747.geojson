@@ -1,0 +1,60 @@
+{
+  "id": 1008710747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8034837246,43.4624061584,-3.8034837246,43.4624061584",
+    "geom:latitude":43.462406,
+    "geom:longitude":-3.803484,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Marcelino Sanz De Sautuola, 4",
+    "sg:city":"Santander",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 31 96 60",
+    "sg:postcode":"39003",
+    "sg:province":"Cantabria",
+    "sg:website":"www.grupoaltamira.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799303,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pth4842NMmSbvZBX3QA91_43.462406_-3.803484@1306269690"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639028,
+    "wof:geomhash":"57ca4ecad2c3926197dce576ebc94b0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799303,
+            "region_id":85682833,
+            "venue_id":1008710747
+        }
+    ],
+    "wof:id":1008710747,
+    "wof:lastmodified":1472639028,
+    "wof:name":"Viajes Altamira S.l.",
+    "wof:parent_id":85799303,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8034837246,
+    43.4624061584,
+    -3.8034837246,
+    43.4624061584
+],
+  "geometry": {"coordinates":[-3.8034837246,43.4624061584],"type":"Point"}
+}

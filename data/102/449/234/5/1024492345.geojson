@@ -1,0 +1,59 @@
+{
+  "id": 1024492345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5413777828,40.4178314209,-3.5413777828,40.4178314209",
+    "geom:latitude":40.417831,
+    "geom:longitude":-3.541378,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Lisboa (de), 12",
+    "sg:city":"Coslada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Oficinas Y Gesti\u00d3n De Inmuebles",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 73 64 15",
+    "sg:postcode":"28820",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863631,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZgPbQcPBZb801Hgtwv3gd_40.417831_-3.541378@1306269697"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641303,
+    "wof:geomhash":"a0fc2e5d43575ab34d0c625bce2f73c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863631,
+            "region_id":85682783,
+            "venue_id":1024492345
+        }
+    ],
+    "wof:id":1024492345,
+    "wof:lastmodified":1472641303,
+    "wof:name":"Zenitram Silber",
+    "wof:parent_id":85863631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5413777828,
+    40.4178314209,
+    -3.5413777828,
+    40.4178314209
+],
+  "geometry": {"coordinates":[-3.5413777828,40.4178314209],"type":"Point"}
+}

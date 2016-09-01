@@ -1,0 +1,76 @@
+{
+  "id": 1024496767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6149394,40.4528711,-3.6149394,40.4528711",
+    "geom:latitude":40.452871,
+    "geom:longitude":-3.614939,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle Francisco Jose Arroyo, 6",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"28042",
+    "sg:tags":[
+        "travel"
+    ],
+    "sg:website":"http://www.cost4travel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863625,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3epjw1KoiiOW89jX74H4Jk_40.452871_-3.614939@1308163241"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641481,
+    "wof:geomhash":"bb59632fc3a9b0af9c136984bd751139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863625,
+            "region_id":85682783,
+            "venue_id":1024496767
+        }
+    ],
+    "wof:id":1024496767,
+    "wof:lastmodified":1472641481,
+    "wof:name":"cost4travel",
+    "wof:parent_id":85863625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "travel"
+    ]
+},
+  "bbox": [
+    -3.6149394,
+    40.4528711,
+    -3.6149394,
+    40.4528711
+],
+  "geometry": {"coordinates":[-3.6149394,40.4528711],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 991281327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8886989951,41.6357803345,-0.8886989951,41.6357803345",
+    "geom:latitude":41.63578,
+    "geom:longitude":-0.888699,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Maestro Estremiana, 44",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 25 20 15",
+    "sg:postcode":"50006",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ],
+    "sg:website":"www.mkgabinet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863377,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6l77XsjaYOyazdRypy0gme_41.635780_-0.888699@1306269465"
+    },
+    "wof:country":"ES",
+    "wof:created":1472541798,
+    "wof:geomhash":"95ce7e06898ca90067c6b5393c4f1b5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863377,
+            "region_id":85682891,
+            "venue_id":991281327
+        }
+    ],
+    "wof:id":991281327,
+    "wof:lastmodified":1472541798,
+    "wof:name":"Casado Roman Luis Francisco",
+    "wof:parent_id":85863377,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ]
+},
+  "bbox": [
+    -0.8886989951,
+    41.6357803345,
+    -0.8886989951,
+    41.6357803345
+],
+  "geometry": {"coordinates":[-0.8886989951,41.6357803345],"type":"Point"}
+}

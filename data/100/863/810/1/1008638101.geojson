@@ -1,0 +1,67 @@
+{
+  "id": 1008638101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6388862133,40.4268302917,-3.6388862133,40.4268302917",
+    "geom:latitude":40.42683,
+    "geom:longitude":-3.638886,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Llanos De Escudero, 37",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 54 01 82",
+    "sg:postcode":"28017",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863697,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6y0HiARMa4rmqYe6RSlJat_40.426830_-3.638886@1306269680"
+    },
+    "wof:country":"ES",
+    "wof:created":1472635888,
+    "wof:geomhash":"1b6127e381db324b0cfaa2bcf1add094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863697,
+            "region_id":85682783,
+            "venue_id":1008638101
+        }
+    ],
+    "wof:id":1008638101,
+    "wof:lastmodified":1472635888,
+    "wof:name":"Torres Gil Margarita",
+    "wof:parent_id":85863697,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6388862133,
+    40.4268302917,
+    -3.6388862133,
+    40.4268302917
+],
+  "geometry": {"coordinates":[-3.6388862133,40.4268302917],"type":"Point"}
+}

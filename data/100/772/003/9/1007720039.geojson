@@ -1,0 +1,77 @@
+{
+  "id": 1007720039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6355500221,39.5723495483,2.6355500221,39.5723495483",
+    "geom:latitude":39.57235,
+    "geom:longitude":2.63555,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Arnau Rossi\u00d1ol, 2",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Doctores En Medicina",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 28 79 68",
+    "sg:postcode":"07013",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748237,
+        85864105,
+        85864103,
+        404330817,
+        404227367,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7btU3mBBEAtYFgl5oBPBN7_39.572350_2.635550@1306269559"
+    },
+    "wof:country":"ES",
+    "wof:created":1472581968,
+    "wof:geomhash":"1b306dd04df1131e769f7458413dc966",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748237,
+            "neighbourhood_id":85864105,
+            "region_id":-1,
+            "venue_id":1007720039
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864103,
+            "region_id":85682647,
+            "venue_id":1007720039
+        }
+    ],
+    "wof:id":1007720039,
+    "wof:lastmodified":1472581968,
+    "wof:name":"Janer Beltran Miguel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6355500221,
+    39.5723495483,
+    2.6355500221,
+    39.5723495483
+],
+  "geometry": {"coordinates":[2.6355500221,39.5723495483],"type":"Point"}
+}

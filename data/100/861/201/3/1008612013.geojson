@@ -1,0 +1,81 @@
+{
+  "id": 1008612013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7047445774,40.34633255,-3.7047445774,40.34633255",
+    "geom:latitude":40.346333,
+    "geom:longitude":-3.704745,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Doctor Martin Arevalo, 47",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 95 09 19",
+    "sg:postcode":"28021",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799667,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iEdTW4kPygRYC15TPw0b6_40.346333_-3.704745@1306269677"
+    },
+    "wof:country":"ES",
+    "wof:created":1472634782,
+    "wof:geomhash":"06162a425f8f23db5761a516f87674d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799667,
+            "region_id":85682783,
+            "venue_id":1008612013
+        }
+    ],
+    "wof:id":1008612013,
+    "wof:lastmodified":1472634782,
+    "wof:name":"Telefono P?blico Del Sur S. L.",
+    "wof:parent_id":85799667,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [
+    -3.7047445774,
+    40.34633255,
+    -3.7047445774,
+    40.34633255
+],
+  "geometry": {"coordinates":[-3.7047445774,40.34633255],"type":"Point"}
+}

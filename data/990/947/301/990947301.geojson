@@ -1,0 +1,81 @@
+{
+  "id": 990947301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9414916039,43.2632789612,-2.9414916039,43.2632789612",
+    "geom:latitude":43.263279,
+    "geom:longitude":-2.941492,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Rodriguez Arias, 46",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 42 26 80",
+    "sg:postcode":"48011",
+    "sg:province":"Vizcaya",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863925,
+        102191581,
+        404345949,
+        85633129,
+        404227393,
+        101748385,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XW9yRNjb7aw2MkvB4ffZ0_43.263279_-2.941492@1306269420"
+    },
+    "wof:country":"ES",
+    "wof:created":1472513739,
+    "wof:geomhash":"8fa372fbbd39e8cb5309881fb9f223ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345949,
+            "locality_id":101748385,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863925,
+            "region_id":85682879,
+            "venue_id":990947301
+        }
+    ],
+    "wof:id":990947301,
+    "wof:lastmodified":1472513739,
+    "wof:name":"Alonso San Martin Jon",
+    "wof:parent_id":85863925,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -2.9414916039,
+    43.2632789612,
+    -2.9414916039,
+    43.2632789612
+],
+  "geometry": {"coordinates":[-2.9414916039,43.2632789612],"type":"Point"}
+}

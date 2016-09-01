@@ -1,0 +1,59 @@
+{
+  "id": 991677479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8037810326,43.4631271362,-3.8037810326,43.4631271362",
+    "geom:latitude":43.463127,
+    "geom:longitude":-3.803781,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Medio, 21",
+    "sg:city":"Santander",
+    "sg:classifiers":[],
+    "sg:orig_category":"Frutas, Legumbres Frescas Y Tempranas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 21 17 95",
+    "sg:postcode":"39003",
+    "sg:province":"Cantabria",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799303,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tHLbLRHytuPobiosy6hKo_43.463127_-3.803781@1306269517"
+    },
+    "wof:country":"ES",
+    "wof:created":1472564360,
+    "wof:geomhash":"465d718aac031d913f5db0aab291bbb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799303,
+            "region_id":85682833,
+            "venue_id":991677479
+        }
+    ],
+    "wof:id":991677479,
+    "wof:lastmodified":1472564360,
+    "wof:name":"Fontaneda Fernandez Julio Vicente",
+    "wof:parent_id":85799303,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8037810326,
+    43.4631271362,
+    -3.8037810326,
+    43.4631271362
+],
+  "geometry": {"coordinates":[-3.8037810326,43.4631271362],"type":"Point"}
+}

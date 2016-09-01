@@ -1,0 +1,78 @@
+{
+  "id": 1007718497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6608610153,40.3927154541,-3.6608610153,40.3927154541",
+    "geom:latitude":40.392715,
+    "geom:longitude":-3.660861,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Sierra De Cadi, 8",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Muebles, Minoristas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 77 30 07",
+    "sg:postcode":"28018",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863721,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rJPzCGi459B4odw0vGTBb_40.392715_-3.660861@1306269559"
+    },
+    "wof:country":"ES",
+    "wof:created":1472581886,
+    "wof:geomhash":"0f46b19ea36fdc5cba382f941edb8d63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863721,
+            "region_id":85682783,
+            "venue_id":1007718497
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863733,
+            "region_id":85682783,
+            "venue_id":1007718497
+        }
+    ],
+    "wof:id":1007718497,
+    "wof:lastmodified":1472581886,
+    "wof:name":"Jaime Perez Jose Luis",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6608610153,
+    40.3927154541,
+    -3.6608610153,
+    40.3927154541
+],
+  "geometry": {"coordinates":[-3.6608610153,40.3927154541],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1008597635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1461830139,41.3784408569,2.1461830139,41.3784408569",
+    "geom:latitude":41.378441,
+    "geom:longitude":2.146183,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Arago, 7",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 28 22 41",
+    "sg:postcode":"08015",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864021,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66Zhv1lT1KNJ9nUEhf7ekk_41.378441_2.146183@1306269675"
+    },
+    "wof:country":"ES",
+    "wof:created":1472634144,
+    "wof:geomhash":"9b38eea95696f7a5fdee6e80512a9eb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864021,
+            "region_id":85682663,
+            "venue_id":1008597635
+        }
+    ],
+    "wof:id":1008597635,
+    "wof:lastmodified":1472634144,
+    "wof:name":"Tapias Cama\u00d1es Enric",
+    "wof:parent_id":85864021,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.1461830139,
+    41.3784408569,
+    2.1461830139,
+    41.3784408569
+],
+  "geometry": {"coordinates":[2.1461830139,41.3784408569],"type":"Point"}
+}

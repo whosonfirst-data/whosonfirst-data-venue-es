@@ -1,0 +1,78 @@
+{
+  "id": 1007993107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6928179264,40.4231185913,-3.6928179264,40.4231185913",
+    "geom:latitude":40.423119,
+    "geom:longitude":-3.692818,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Tamayo Y Baus, 6",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Administradores De Bienes Y Delegados De Comunidades De Propietarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 08 24 32",
+    "sg:postcode":"28004",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863809,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pkHRwMv1iGnC15EJXle6n_40.423119_-3.692818@1306269594"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594896,
+    "wof:geomhash":"51631ed4a2800f4e3bda57f8637741b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863809,
+            "region_id":85682783,
+            "venue_id":1007993107
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863791,
+            "region_id":85682783,
+            "venue_id":1007993107
+        }
+    ],
+    "wof:id":1007993107,
+    "wof:lastmodified":1472594896,
+    "wof:name":"Meycar S. A.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6928179264,
+    40.4231185913,
+    -3.6928179264,
+    40.4231185913
+],
+  "geometry": {"coordinates":[-3.6928179264,40.4231185913],"type":"Point"}
+}

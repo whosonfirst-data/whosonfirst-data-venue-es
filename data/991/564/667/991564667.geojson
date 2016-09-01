@@ -1,0 +1,61 @@
+{
+  "id": 991564667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5882210732,40.4535903931,-3.5882210732,40.4535903931",
+    "geom:latitude":40.45359,
+    "geom:longitude":-3.588221,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Galera, 1",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 42 46 59",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        102545773,
+        85863587,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7asAUvUf70K51zjboqRBae_40.453590_-3.588221@1306269502"
+    },
+    "wof:country":"ES",
+    "wof:created":1472557952,
+    "wof:geomhash":"476d21b92e8043481857aadbe973446e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545773,
+            "country_id":85633129,
+            "neighbourhood_id":85863587,
+            "region_id":85682783,
+            "venue_id":991564667
+        }
+    ],
+    "wof:id":991564667,
+    "wof:lastmodified":1472557952,
+    "wof:name":"Encinas Rosado Beatriz",
+    "wof:parent_id":102545773,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5882210732,
+    40.4535903931,
+    -3.5882210732,
+    40.4535903931
+],
+  "geometry": {"coordinates":[-3.5882210732,40.4535903931],"type":"Point"}
+}

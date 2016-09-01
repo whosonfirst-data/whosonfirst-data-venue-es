@@ -1,0 +1,67 @@
+{
+  "id": 1007736697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7422549725,40.3894119263,-3.7422549725,40.3894119263",
+    "geom:latitude":40.389412,
+    "geom:longitude":-3.742255,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Laguna, 46",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 25 44 91",
+    "sg:postcode":"28025",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863819,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69DGTN1EcB2DVDGQDDwaGw_40.389412_-3.742255@1306269561"
+    },
+    "wof:country":"ES",
+    "wof:created":1472582918,
+    "wof:geomhash":"6968ce7faf92bf94d262f780e80da49b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863819,
+            "region_id":85682783,
+            "venue_id":1007736697
+        }
+    ],
+    "wof:id":1007736697,
+    "wof:lastmodified":1472582918,
+    "wof:name":"J.m. Abogados C.b.",
+    "wof:parent_id":85863819,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7422549725,
+    40.3894119263,
+    -3.7422549725,
+    40.3894119263
+],
+  "geometry": {"coordinates":[-3.7422549725,40.3894119263],"type":"Point"}
+}

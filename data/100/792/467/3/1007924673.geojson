@@ -1,0 +1,67 @@
+{
+  "id": 1007924673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1461949348,41.4029159546,2.1461949348,41.4029159546",
+    "geom:latitude":41.402916,
+    "geom:longitude":2.146195,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Gleva, 9",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 09 77 12",
+    "sg:postcode":"08006",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799393,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HQB3OBu9umpZgyjBfQVA8_41.402916_2.146195@1306269585"
+    },
+    "wof:country":"ES",
+    "wof:created":1472591990,
+    "wof:geomhash":"e5a0c02969b2ac7c9c3f295c01718d03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799393,
+            "region_id":85682663,
+            "venue_id":1007924673
+        }
+    ],
+    "wof:id":1007924673,
+    "wof:lastmodified":1472591990,
+    "wof:name":"Martinez Garcia Maria Luisa",
+    "wof:parent_id":85799393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1461949348,
+    41.4029159546,
+    2.1461949348,
+    41.4029159546
+],
+  "geometry": {"coordinates":[2.1461949348,41.4029159546],"type":"Point"}
+}

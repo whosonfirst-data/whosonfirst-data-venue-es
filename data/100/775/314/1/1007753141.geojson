@@ -1,0 +1,74 @@
+{
+  "id": 1007753141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9474952221,43.2514801025,-2.9474952221,43.2514801025",
+    "geom:latitude":43.25148,
+    "geom:longitude":-2.947495,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Altube, 3",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[],
+    "sg:orig_category":"Frutas Y Legumbres Frescas (al Por Mayor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 44 69 04",
+    "sg:postcode":"48002",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863947,
+        85682879,
+        85863927,
+        102191581,
+        404345949,
+        404227393,
+        101748385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ElMJVDMt3GufKNFv3wLkA_43.251480_-2.947495@1306269564"
+    },
+    "wof:country":"ES",
+    "wof:created":1472583854,
+    "wof:geomhash":"784d5e11e97cf3b4f70a7a621ebd8645",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863947,
+            "region_id":85682879,
+            "venue_id":1007753141
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345949,
+            "locality_id":101748385,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863927,
+            "region_id":85682879,
+            "venue_id":1007753141
+        }
+    ],
+    "wof:id":1007753141,
+    "wof:lastmodified":1472583854,
+    "wof:name":"Juan Francisco Garcia Garcia",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9474952221,
+    43.2514801025,
+    -2.9474952221,
+    43.2514801025
+],
+  "geometry": {"coordinates":[-2.9474952221,43.2514801025],"type":"Point"}
+}

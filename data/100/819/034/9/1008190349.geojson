@@ -1,0 +1,59 @@
+{
+  "id": 1008190349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6528789997,40.5428314209,-3.6528789997,40.5428314209",
+    "geom:latitude":40.542831,
+    "geom:longitude":-3.652879,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ramon Y Cajal (de), 9",
+    "sg:city":"Alcobendas",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asociaciones, Organismos Culturales Y Socioeducativos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 61 64 87",
+    "sg:postcode":"28100",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1x4CTEcfWtOWTXoPHw5sVL_40.542831_-3.652879@1306269620"
+    },
+    "wof:country":"ES",
+    "wof:created":1472607338,
+    "wof:geomhash":"308b167a5d4ec136acd43beed1263c3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1008190349
+        }
+    ],
+    "wof:id":1008190349,
+    "wof:lastmodified":1472607338,
+    "wof:name":"Patronato Sociocultural De Alcobendas",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6528789997,
+    40.5428314209,
+    -3.6528789997,
+    40.5428314209
+],
+  "geometry": {"coordinates":[-3.6528789997,40.5428314209],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1024496677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1687187,41.3806494,2.1687187,41.3806494",
+    "geom:latitude":41.380649,
+    "geom:longitude":2.168719,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer d'en Roig",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"08001",
+    "sg:tags":[
+        "hosting",
+        "domains",
+        "dedicated-servers",
+        "open-source",
+        "grid",
+        "cloud"
+    ],
+    "sg:website":"http://www.intergrid.cat",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864035,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OTm9pXHAnkjINr0b6uOGK_41.380649_2.168719@1308163240"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641477,
+    "wof:geomhash":"08aec53ee9d8bbeaefa759cb5f18b5f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864035,
+            "region_id":85682663,
+            "venue_id":1024496677
+        }
+    ],
+    "wof:id":1024496677,
+    "wof:lastmodified":1472641477,
+    "wof:name":"Intergrid",
+    "wof:parent_id":85864035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hosting",
+        "domains",
+        "dedicated-servers",
+        "open-source",
+        "grid",
+        "cloud"
+    ]
+},
+  "bbox": [
+    2.1687187,
+    41.3806494,
+    2.1687187,
+    41.3806494
+],
+  "geometry": {"coordinates":[2.1687187,41.3806494],"type":"Point"}
+}

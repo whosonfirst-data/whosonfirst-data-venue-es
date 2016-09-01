@@ -1,0 +1,59 @@
+{
+  "id": 1007734475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7298653126,40.3065643311,-3.7298653126,40.3065643311",
+    "geom:latitude":40.306564,
+    "geom:longitude":-3.729865,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ricardo De La Vega, 6",
+    "sg:city":"Getafe",
+    "sg:classifiers":[],
+    "sg:orig_category":"Lavado, Limpieza De Veh\u00cdculos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 95 96 19",
+    "sg:postcode":"28901",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Xh1mT1mzLB3hxYDRGXEc3_40.306564_-3.729865@1306269561"
+    },
+    "wof:country":"ES",
+    "wof:created":1472582728,
+    "wof:geomhash":"a292b3b0dec40d645d8194b013fe2c18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1007734475
+        }
+    ],
+    "wof:id":1007734475,
+    "wof:lastmodified":1472582728,
+    "wof:name":"Jimenez Sacristan Emilio",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7298653126,
+    40.3065643311,
+    -3.7298653126,
+    40.3065643311
+],
+  "geometry": {"coordinates":[-3.7298653126,40.3065643311],"type":"Point"}
+}

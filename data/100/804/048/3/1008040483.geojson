@@ -1,0 +1,79 @@
+{
+  "id": 1008040483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.4763040543,40.4586296082,-3.4763040543,40.4586296082",
+    "geom:latitude":40.45863,
+    "geom:longitude":-3.476304,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Soledad, 39",
+    "sg:city":"Torrejon Ardoz",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 56 00 89",
+    "sg:postcode":"28850",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102545765,
+        85682783,
+        102191581,
+        404339005,
+        85633129,
+        404227387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AaFM4utjerPf3HBka08J7_40.458630_-3.476304@1306269600"
+    },
+    "wof:country":"ES",
+    "wof:created":1472596922,
+    "wof:geomhash":"0587c6c827d2010a0b5d4936e4af7f93",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545765,
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339005,
+            "macroregion_id":404227387,
+            "region_id":85682783,
+            "venue_id":1008040483
+        }
+    ],
+    "wof:id":1008040483,
+    "wof:lastmodified":1472596922,
+    "wof:name":"Morato Toledano Valeriano",
+    "wof:parent_id":102545765,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.4763040543,
+    40.4586296082,
+    -3.4763040543,
+    40.4586296082
+],
+  "geometry": {"coordinates":[-3.4763040543,40.4586296082],"type":"Point"}
+}

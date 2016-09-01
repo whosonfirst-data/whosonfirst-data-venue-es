@@ -1,0 +1,67 @@
+{
+  "id": 1008714585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.163985014,41.3839111328,2.163985014,41.3839111328",
+    "geom:latitude":41.383911,
+    "geom:longitude":2.163985,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rond Sant Antoni, 86",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 02 63 10",
+    "sg:postcode":"08001",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864035,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25SzAJz45h9WKgVnZVcxjZ_41.383911_2.163985@1306269690"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639211,
+    "wof:geomhash":"1e857d1b986ee1b7a8dc2af747f8ae10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864035,
+            "region_id":85682663,
+            "venue_id":1008714585
+        }
+    ],
+    "wof:id":1008714585,
+    "wof:lastmodified":1472639211,
+    "wof:name":"Viajes Iberia S.a.",
+    "wof:parent_id":85864035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.163985014,
+    41.3839111328,
+    2.163985014,
+    41.3839111328
+],
+  "geometry": {"coordinates":[2.163985014,41.3839111328],"type":"Point"}
+}

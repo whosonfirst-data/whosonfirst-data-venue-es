@@ -1,0 +1,59 @@
+{
+  "id": 1007926529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8248429298,40.3463287354,-3.8248429298,40.3463287354",
+    "geom:latitude":40.346329,
+    "geom:longitude":-3.824843,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Matadero, 18",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tiendas De Grano, Frutas Y Legumbres Secas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 43 38 40",
+    "sg:postcode":"28921",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WMLh3BTFnhAnD6Y1xTFZE_40.346329_-3.824843@1306269586"
+    },
+    "wof:country":"ES",
+    "wof:created":1472592069,
+    "wof:geomhash":"e81d557978e9a2b68f10721d1325c63b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1007926529
+        }
+    ],
+    "wof:id":1007926529,
+    "wof:lastmodified":1472592069,
+    "wof:name":"Martinez Iglesias Jose Manuel",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8248429298,
+    40.3463287354,
+    -3.8248429298,
+    40.3463287354
+],
+  "geometry": {"coordinates":[-3.8248429298,40.3463287354],"type":"Point"}
+}

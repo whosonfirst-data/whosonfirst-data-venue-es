@@ -1,0 +1,92 @@
+{
+  "id": 991354939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8771290183,41.6313362122,-0.8771290183,41.6313362122",
+    "geom:latitude":41.631336,
+    "geom:longitude":-0.877129,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Zaragoza La Vieja, 64",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 25 02 11",
+    "sg:postcode":"50007",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863413,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891,
+        85863385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JfPqDmgpTUVqlqunOxztW_41.631336_-0.877129@1306269474"
+    },
+    "wof:country":"ES",
+    "wof:created":1472545471,
+    "wof:geomhash":"6898d463179be11fa017ffea8483db40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863413,
+            "region_id":85682891,
+            "venue_id":991354939
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863385,
+            "region_id":85682891,
+            "venue_id":991354939
+        }
+    ],
+    "wof:id":991354939,
+    "wof:lastmodified":1472545471,
+    "wof:name":"Co3g2 S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ]
+},
+  "bbox": [
+    -0.8771290183,
+    41.6313362122,
+    -0.8771290183,
+    41.6313362122
+],
+  "geometry": {"coordinates":[-0.8771290183,41.6313362122],"type":"Point"}
+}

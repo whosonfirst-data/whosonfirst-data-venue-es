@@ -1,0 +1,64 @@
+{
+  "id": 991056719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5852820873,37.1181678772,-3.5852820873,37.1181678772",
+    "geom:latitude":37.118168,
+    "geom:longitude":-3.585282,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Juan Nepomuceno, 1",
+    "sg:city":"Zubia",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 59 25 80",
+    "sg:postcode":"18140",
+    "sg:province":"Granada",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863839,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pehQI4P6OssVttE4Dnpbd_37.118168_-3.585282@1306269435"
+    },
+    "wof:country":"ES",
+    "wof:created":1472523400,
+    "wof:geomhash":"01191e19baa39e3ef0bf91eb728ea7a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863839,
+            "region_id":85682731,
+            "venue_id":991056719
+        }
+    ],
+    "wof:id":991056719,
+    "wof:lastmodified":1472523400,
+    "wof:name":"Autoescuela La Vega",
+    "wof:parent_id":85863839,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5852820873,
+    37.1181678772,
+    -3.5852820873,
+    37.1181678772
+],
+  "geometry": {"coordinates":[-3.5852820873,37.1181678772],"type":"Point"}
+}

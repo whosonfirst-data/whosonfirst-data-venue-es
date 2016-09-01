@@ -1,0 +1,73 @@
+{
+  "id": 1008216149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.8214399815,41.7243118286,1.8214399815,41.7243118286",
+    "geom:latitude":41.724312,
+    "geom:longitude":1.82144,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Cos, 3",
+    "sg:city":"Manresa",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 938 76 81 72",
+    "sg:postcode":"08241",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0g2RAHch3uwpZsRPNYD5ap_41.724312_1.821440@1306269624"
+    },
+    "wof:country":"ES",
+    "wof:created":1472613202,
+    "wof:geomhash":"b0efbfa19be4e06aaa6705ba0d5ee910",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008216149
+        }
+    ],
+    "wof:id":1008216149,
+    "wof:lastmodified":1472613202,
+    "wof:name":"Perez Lopez Joaquin",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    1.8214399815,
+    41.7243118286,
+    1.8214399815,
+    41.7243118286
+],
+  "geometry": {"coordinates":[1.8214399815,41.7243118286],"type":"Point"}
+}

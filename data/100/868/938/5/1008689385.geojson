@@ -1,0 +1,59 @@
+{
+  "id": 1008689385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1046071053,41.5530471802,2.1046071053,41.5530471802",
+    "geom:latitude":41.553047,
+    "geom:longitude":2.104607,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Forn, 3",
+    "sg:city":"Sabadell",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aparcamientos (infraestructuras, Accesorios)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 25 23 28",
+    "sg:postcode":"08208",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CkVBqncJs0E1UsYbuNhvh_41.553047_2.104607@1306269687"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638046,
+    "wof:geomhash":"90c51f010548eb205cc0ec2a50a8afe0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008689385
+        }
+    ],
+    "wof:id":1008689385,
+    "wof:lastmodified":1472638046,
+    "wof:name":"Valls Moreto Francisco",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1046071053,
+    41.5530471802,
+    2.1046071053,
+    41.5530471802
+],
+  "geometry": {"coordinates":[2.1046071053,41.5530471802],"type":"Point"}
+}

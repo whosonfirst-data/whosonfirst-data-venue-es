@@ -1,0 +1,67 @@
+{
+  "id": 1008365575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6706600189,40.4542541504,-3.6706600189,40.4542541504",
+    "geom:latitude":40.454254,
+    "geom:longitude":-3.67066,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pintor Ribera, 2",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 15 08 64",
+    "sg:postcode":"28016",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863599,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xYbHyuxeKC1KevJdAppmm_40.454254_-3.670660@1306269644"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624179,
+    "wof:geomhash":"03bbd79b5c405fea52a44e5c14f3d4c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863599,
+            "region_id":85682783,
+            "venue_id":1008365575
+        }
+    ],
+    "wof:id":1008365575,
+    "wof:lastmodified":1472624179,
+    "wof:name":"Rivero Vazquez Manuel",
+    "wof:parent_id":85863599,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6706600189,
+    40.4542541504,
+    -3.6706600189,
+    40.4542541504
+],
+  "geometry": {"coordinates":[-3.6706600189,40.4542541504],"type":"Point"}
+}

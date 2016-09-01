@@ -1,0 +1,71 @@
+{
+  "id": 1024496797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6895115,40.4273082,-3.6895115,40.4273082",
+    "geom:latitude":40.427308,
+    "geom:longitude":-3.689512,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Paseo de la Castellana, 9-11",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"28046 ",
+    "sg:website":"http://www.virginplay.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863809,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uLXHKS82bXWsybTniLlMX_40.427308_-3.689512@1308163241"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641482,
+    "wof:geomhash":"8c3e86914e63ce2eff4d9c5d105b3ad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863809,
+            "region_id":85682783,
+            "venue_id":1024496797
+        }
+    ],
+    "wof:id":1024496797,
+    "wof:lastmodified":1472641482,
+    "wof:name":"Virgin Play",
+    "wof:parent_id":85863809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6895115,
+    40.4273082,
+    -3.6895115,
+    40.4273082
+],
+  "geometry": {"coordinates":[-3.6895115,40.4273082],"type":"Point"}
+}

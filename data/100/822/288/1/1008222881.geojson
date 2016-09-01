@@ -1,0 +1,79 @@
+{
+  "id": 1008222881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6687870026,40.4485931396,-3.6687870026,40.4485931396",
+    "geom:latitude":40.448593,
+    "geom:longitude":-3.668787,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Sanchez Pacheco, 82",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 19 34 11",
+    "sg:postcode":"28002",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "en",
+        "fundiciones"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799435,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37TkngItg3xT74TEgyHbqT_40.448593_-3.668787@1306269625"
+    },
+    "wof:country":"ES",
+    "wof:created":1472613671,
+    "wof:geomhash":"76fde8904eea1aa38b0a8cddd25830e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799435,
+            "region_id":85682783,
+            "venue_id":1008222881
+        }
+    ],
+    "wof:id":1008222881,
+    "wof:lastmodified":1472613671,
+    "wof:name":"Perez Sanchez Vaquera Alberto",
+    "wof:parent_id":85799435,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "en",
+        "fundiciones"
+    ]
+},
+  "bbox": [
+    -3.6687870026,
+    40.4485931396,
+    -3.6687870026,
+    40.4485931396
+],
+  "geometry": {"coordinates":[-3.6687870026,40.4485931396],"type":"Point"}
+}

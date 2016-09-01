@@ -1,0 +1,81 @@
+{
+  "id": 991888291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6408040524,40.4331588745,-3.6408040524,40.4331588745",
+    "geom:latitude":40.433159,
+    "geom:longitude":-3.640804,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Madres De La Plaza De Mayo, 6",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 08 19 95",
+    "sg:postcode":"28017",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799257,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sdUhrvpJoxi7p3cimtlwY_40.433159_-3.640804@1306269545"
+    },
+    "wof:country":"ES",
+    "wof:created":1472576899,
+    "wof:geomhash":"151c4d4839684fbe78809d08d8f6ea19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799257,
+            "region_id":85682783,
+            "venue_id":991888291
+        }
+    ],
+    "wof:id":991888291,
+    "wof:lastmodified":1472576899,
+    "wof:name":"Hermanos Jimenez C.b.",
+    "wof:parent_id":85799257,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.6408040524,
+    40.4331588745,
+    -3.6408040524,
+    40.4331588745
+],
+  "geometry": {"coordinates":[-3.6408040524,40.4331588745],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 991694875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6520280838,40.4558944702,-3.6520280838,40.4558944702",
+    "geom:latitude":40.455894,
+    "geom:longitude":-3.652028,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Bueso Pineda, 57",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Seguridad Social",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 16 11 50",
+    "sg:postcode":"28043",
+    "sg:province":"Madrid",
+    "sg:website":"www.fremap.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863597,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85799193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64M8irwRXWo6hQUBa0qxrW_40.455894_-3.652028@1306269520"
+    },
+    "wof:country":"ES",
+    "wof:created":1472565223,
+    "wof:geomhash":"5316bc5e19b16ac20c8b3edcd8c03f94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863597,
+            "region_id":85682783,
+            "venue_id":991694875
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799193,
+            "region_id":85682783,
+            "venue_id":991694875
+        }
+    ],
+    "wof:id":991694875,
+    "wof:lastmodified":1472565223,
+    "wof:name":"Fremap - Mutua De Accidentes De Trabajo Y Enfermedad Profesionales De La Seguridad",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6520280838,
+    40.4558944702,
+    -3.6520280838,
+    40.4558944702
+],
+  "geometry": {"coordinates":[-3.6520280838,40.4558944702],"type":"Point"}
+}

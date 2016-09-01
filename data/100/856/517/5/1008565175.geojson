@@ -1,0 +1,67 @@
+{
+  "id": 1008565175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1500520706,41.384967804,2.1500520706,41.384967804",
+    "geom:latitude":41.384968,
+    "geom:longitude":2.150052,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Viladomat, 213",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electricidad: Instaladores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 39 91 31",
+    "sg:postcode":"08029",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864021,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CvC1kZL9jtFPQtgcIgEPU_41.384968_2.150052@1306269671"
+    },
+    "wof:country":"ES",
+    "wof:created":1472632770,
+    "wof:geomhash":"9738e66c4745fe5730ddbbfbd5001faf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864021,
+            "region_id":85682663,
+            "venue_id":1008565175
+        }
+    ],
+    "wof:id":1008565175,
+    "wof:lastmodified":1472632770,
+    "wof:name":"Subias Cires Miguel Angel",
+    "wof:parent_id":85864021,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1500520706,
+    41.384967804,
+    2.1500520706,
+    41.384967804
+],
+  "geometry": {"coordinates":[2.1500520706,41.384967804],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1008082661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.105948925,41.5658149719,2.105948925,41.5658149719",
+    "geom:latitude":41.565815,
+    "geom:longitude":2.105949,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Ramon Jove, 18",
+    "sg:city":"Sabadell",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 16 74 98",
+    "sg:postcode":"08208",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799453,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HJpOn1VqzqrSKDOwtICbt_41.565815_2.105949@1306269606"
+    },
+    "wof:country":"ES",
+    "wof:created":1472598763,
+    "wof:geomhash":"5653f32c8b207cf2c861af4221b51b0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799453,
+            "region_id":85682663,
+            "venue_id":1008082661
+        }
+    ],
+    "wof:id":1008082661,
+    "wof:lastmodified":1472598763,
+    "wof:name":"Navarro Aledo Jose",
+    "wof:parent_id":85799453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.105948925,
+    41.5658149719,
+    2.105948925,
+    41.5658149719
+],
+  "geometry": {"coordinates":[2.105948925,41.5658149719],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1008152357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6581840515,40.4292144775,-3.6581840515,40.4292144775",
+    "geom:latitude":40.429214,
+    "geom:longitude":-3.658184,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ricardo Ortiz, 10",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Estancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 56 57 41",
+    "sg:postcode":"28017",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863683,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nWDF7HLxvURourI9FYiHp_40.429214_-3.658184@1306269615"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601940,
+    "wof:geomhash":"d0059bda471a54167856fb8a6a645a20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863683,
+            "region_id":85682783,
+            "venue_id":1008152357
+        }
+    ],
+    "wof:id":1008152357,
+    "wof:lastmodified":1472601940,
+    "wof:name":"Palacios Bautista Maria Anunciacion",
+    "wof:parent_id":85863683,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6581840515,
+    40.4292144775,
+    -3.6581840515,
+    40.4292144775
+],
+  "geometry": {"coordinates":[-3.6581840515,40.4292144775],"type":"Point"}
+}

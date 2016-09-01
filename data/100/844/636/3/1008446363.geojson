@@ -1,0 +1,67 @@
+{
+  "id": 1008446363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.137748003,41.4038238525,2.137748003,41.4038238525",
+    "geom:latitude":41.403824,
+    "geom:longitude":2.137748,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sant Marius, 19",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ingeniero",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 12 70 43",
+    "sg:postcode":"08022",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799611,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iDjqyyVLhbx0ABni8UTFa_41.403824_2.137748@1306269655"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627809,
+    "wof:geomhash":"b5afa54af814973fab6840e11c99bbd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799611,
+            "region_id":85682663,
+            "venue_id":1008446363
+        }
+    ],
+    "wof:id":1008446363,
+    "wof:lastmodified":1472627809,
+    "wof:name":"Sanchez Arrabal Carlos",
+    "wof:parent_id":85799611,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.137748003,
+    41.4038238525,
+    2.137748003,
+    41.4038238525
+],
+  "geometry": {"coordinates":[2.137748003,41.4038238525],"type":"Point"}
+}

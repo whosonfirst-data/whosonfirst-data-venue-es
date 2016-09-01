@@ -1,0 +1,59 @@
+{
+  "id": 1008233211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7800500393,40.3771629333,-3.7800500393,40.3771629333",
+    "geom:latitude":40.377163,
+    "geom:longitude":-3.78005,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Madrigal De La Vera, 7",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Perfumer\u00cda (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 05 02 26",
+    "sg:postcode":"28044",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_598KWgEQD1mqS8DalsWvJL_40.377163_-3.780050@1306269626"
+    },
+    "wof:country":"ES",
+    "wof:created":1472614138,
+    "wof:geomhash":"56603a75965bb2c6df4bd0bc2a207d46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008233211
+        }
+    ],
+    "wof:id":1008233211,
+    "wof:lastmodified":1472614138,
+    "wof:name":"Pe\u00f1a Fernandez Cecilio",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7800500393,
+    40.3771629333,
+    -3.7800500393,
+    40.3771629333
+],
+  "geometry": {"coordinates":[-3.7800500393,40.3771629333],"type":"Point"}
+}

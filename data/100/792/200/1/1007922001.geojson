@@ -1,0 +1,59 @@
+{
+  "id": 1007922001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.3407540321,36.7179603577,-4.3407540321,36.7179603577",
+    "geom:latitude":36.71796,
+    "geom:longitude":-4.340754,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Escritor Jose Luis Castro, S/n",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 29 13 28",
+    "sg:postcode":"29018",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863521,
+        85682787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57aJSj5Tf0tTOv1J7ZhXAd_36.717960_-4.340754@1306269585"
+    },
+    "wof:country":"ES",
+    "wof:created":1472591838,
+    "wof:geomhash":"460b0b64970fec84eed9832c20e7fcde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863521,
+            "region_id":85682787,
+            "venue_id":1007922001
+        }
+    ],
+    "wof:id":1007922001,
+    "wof:lastmodified":1472591838,
+    "wof:name":"Martinez De La Ossa Fernandez Jose Enrique",
+    "wof:parent_id":85863521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.3407540321,
+    36.7179603577,
+    -4.3407540321,
+    36.7179603577
+],
+  "geometry": {"coordinates":[-4.3407540321,36.7179603577],"type":"Point"}
+}

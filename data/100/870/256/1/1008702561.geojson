@@ -1,0 +1,67 @@
+{
+  "id": 1008702561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6858561039,40.4854354858,-3.6858561039,40.4854354858",
+    "geom:latitude":40.485435,
+    "geom:longitude":-3.685856,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Angel Mugica, 9",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Laboratorios Y Cl\u00cdnicas Veterinarias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 58 46 84",
+    "sg:postcode":"28034",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863563,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DPO07kjvoqPV2oBY303FD_40.485435_-3.685856@1306269689"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638645,
+    "wof:geomhash":"fffc6d653ab933eb1a91b5658042e278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863563,
+            "region_id":85682783,
+            "venue_id":1008702561
+        }
+    ],
+    "wof:id":1008702561,
+    "wof:lastmodified":1472638645,
+    "wof:name":"Velasco Macias Antonio",
+    "wof:parent_id":85863563,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6858561039,
+    40.4854354858,
+    -3.6858561039,
+    40.4854354858
+],
+  "geometry": {"coordinates":[-3.6858561039,40.4854354858],"type":"Point"}
+}

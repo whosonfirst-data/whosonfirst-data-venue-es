@@ -1,0 +1,67 @@
+{
+  "id": 1008106513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1556351185,41.4038467407,2.1556351185,41.4038467407",
+    "geom:latitude":41.403847,
+    "geom:longitude":2.155635,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pl Diamant, 9",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asociaciones Y Clubs Deportivos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 18 41 17",
+    "sg:postcode":"08012",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799393,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VNtqxkCqY0fzChkGQrn8K_41.403847_2.155635@1306269609"
+    },
+    "wof:country":"ES",
+    "wof:created":1472599797,
+    "wof:geomhash":"bc809c4d63447c13e6dd894421b86a1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799393,
+            "region_id":85682663,
+            "venue_id":1008106513
+        }
+    ],
+    "wof:id":1008106513,
+    "wof:lastmodified":1472599797,
+    "wof:name":"Nus",
+    "wof:parent_id":85799393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1556351185,
+    41.4038467407,
+    2.1556351185,
+    41.4038467407
+],
+  "geometry": {"coordinates":[2.1556351185,41.4038467407],"type":"Point"}
+}

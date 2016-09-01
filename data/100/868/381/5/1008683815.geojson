@@ -1,0 +1,59 @@
+{
+  "id": 1008683815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.8205318451,37.8819847107,-4.8205318451,37.8819847107",
+    "geom:latitude":37.881985,
+    "geom:longitude":-4.820532,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Sierra Morena, 8",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alimentaci\u00d3n General (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 46 38 03",
+    "sg:postcode":"14005",
+    "sg:province":"C\u00f3rdoba",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863855,
+        85682697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iFiNlJkiF8hmgTs3kxEA4_37.881985_-4.820532@1306269686"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637788,
+    "wof:geomhash":"97dc6f6a46f51dad5ddd43e2a6d77fbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863855,
+            "region_id":85682697,
+            "venue_id":1008683815
+        }
+    ],
+    "wof:id":1008683815,
+    "wof:lastmodified":1472637788,
+    "wof:name":"Valentin Luna Purificacion",
+    "wof:parent_id":85863855,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.8205318451,
+    37.8819847107,
+    -4.8205318451,
+    37.8819847107
+],
+  "geometry": {"coordinates":[-4.8205318451,37.8819847107],"type":"Point"}
+}

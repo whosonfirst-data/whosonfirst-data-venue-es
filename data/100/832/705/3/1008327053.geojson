@@ -1,0 +1,81 @@
+{
+  "id": 1008327053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7128360271,40.382522583,-3.7128360271,40.382522583",
+    "geom:latitude":40.382523,
+    "geom:longitude":-3.712836,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Fornillos, 34",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 60 51 49",
+    "sg:postcode":"28026",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863757,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xHBAscqAR4p3EEBlbU6WZ_40.382523_-3.712836@1306269639"
+    },
+    "wof:country":"ES",
+    "wof:created":1472622485,
+    "wof:geomhash":"725e13392569263abb5eb2a3066cf274",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863757,
+            "region_id":85682783,
+            "venue_id":1008327053
+        }
+    ],
+    "wof:id":1008327053,
+    "wof:lastmodified":1472622485,
+    "wof:name":"Recio Robles Jose Luis",
+    "wof:parent_id":85863757,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.7128360271,
+    40.382522583,
+    -3.7128360271,
+    40.382522583
+],
+  "geometry": {"coordinates":[-3.7128360271,40.382522583],"type":"Point"}
+}

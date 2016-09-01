@@ -1,0 +1,65 @@
+{
+  "id": 991055123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1002800465,41.5507164001,2.1002800465,41.5507164001",
+    "geom:latitude":41.550716,
+    "geom:longitude":2.10028,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Pare Rodes, 6",
+    "sg:city":"Sabadell",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 16 78 15",
+    "sg:postcode":"08208",
+    "sg:province":"Barcelona",
+    "sg:website":"www.aegresol.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00nSFQG6a75JcLdTuDU9s8_41.550716_2.100280@1306269434"
+    },
+    "wof:country":"ES",
+    "wof:created":1472523288,
+    "wof:geomhash":"d2f11ba47440c7ab99f1704d3f85c15e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":991055123
+        }
+    ],
+    "wof:id":991055123,
+    "wof:lastmodified":1472523288,
+    "wof:name":"Autoescola Gresol S.l.",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1002800465,
+    41.5507164001,
+    2.1002800465,
+    41.5507164001
+],
+  "geometry": {"coordinates":[2.1002800465,41.5507164001],"type":"Point"}
+}

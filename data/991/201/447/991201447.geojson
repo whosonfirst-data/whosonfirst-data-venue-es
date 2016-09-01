@@ -1,0 +1,67 @@
+{
+  "id": 991201447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1472120285,41.3956718445,2.1472120285,41.3956718445",
+    "geom:latitude":41.395672,
+    "geom:longitude":2.147212,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Muntaner, 271",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cajas De Ahorro",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 09 07 30",
+    "sg:postcode":"08021",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799611,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fc9UCsOd1u4yPtjNSHJOg_41.395672_2.147212@1306269454"
+    },
+    "wof:country":"ES",
+    "wof:created":1472536611,
+    "wof:geomhash":"4ed84298dc5141cfdf6369ad130ef222",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799611,
+            "region_id":85682663,
+            "venue_id":991201447
+        }
+    ],
+    "wof:id":991201447,
+    "wof:lastmodified":1472536611,
+    "wof:name":"Caixa D'estalvis De Catalunya",
+    "wof:parent_id":85799611,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1472120285,
+    41.3956718445,
+    2.1472120285,
+    41.3956718445
+],
+  "geometry": {"coordinates":[2.1472120285,41.3956718445],"type":"Point"}
+}

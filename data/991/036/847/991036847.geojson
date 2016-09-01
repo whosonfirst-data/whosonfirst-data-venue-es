@@ -1,0 +1,79 @@
+{
+  "id": 991036847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6949071884,40.4272003174,-3.6949071884,40.4272003174",
+    "geom:latitude":40.4272,
+    "geom:longitude":-3.694907,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Genova, 6",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 44 15 83",
+    "sg:postcode":"28004",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "organismos",
+        "control"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863671,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QKxynvv6VVnhejy0S7WAy_40.427200_-3.694907@1306269432"
+    },
+    "wof:country":"ES",
+    "wof:created":1472521956,
+    "wof:geomhash":"ad2fb239ff16f99d5a0f46edc4b1ae83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863671,
+            "region_id":85682783,
+            "venue_id":991036847
+        }
+    ],
+    "wof:id":991036847,
+    "wof:lastmodified":1472521956,
+    "wof:name":"Asociacion Espa\u00f1ola De Normalizacion Y Certificacion",
+    "wof:parent_id":85863671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organismos",
+        "control"
+    ]
+},
+  "bbox": [
+    -3.6949071884,
+    40.4272003174,
+    -3.6949071884,
+    40.4272003174
+],
+  "geometry": {"coordinates":[-3.6949071884,40.4272003174],"type":"Point"}
+}

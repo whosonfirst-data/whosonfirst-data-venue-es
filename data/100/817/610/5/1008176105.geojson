@@ -1,0 +1,67 @@
+{
+  "id": 1008176105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1054930687,41.3863372803,2.1054930687,41.3863372803",
+    "geom:latitude":41.386337,
+    "geom:longitude":2.105493,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Esplugues, 103",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Iglesia Cat\u00d3lica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 03 55 39",
+    "sg:postcode":"08034",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799381,
+        102191581,
+        404331349,
+        85633129,
+        404227379,
+        101758769,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1e5c097NEGqj4vGFRMtXOz_41.386337_2.105493@1306269618"
+    },
+    "wof:country":"ES",
+    "wof:created":1472604725,
+    "wof:geomhash":"adc07e35e230bb02c3b1946a5672ac46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331349,
+            "locality_id":101758769,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799381,
+            "region_id":85682663,
+            "venue_id":1008176105
+        }
+    ],
+    "wof:id":1008176105,
+    "wof:lastmodified":1472604725,
+    "wof:name":"Parroquia De Santa Maria Reina",
+    "wof:parent_id":85799381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1054930687,
+    41.3863372803,
+    2.1054930687,
+    41.3863372803
+],
+  "geometry": {"coordinates":[2.1054930687,41.3863372803],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1008344405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1239469051,41.4042320251,2.1239469051,41.4042320251",
+    "geom:latitude":41.404232,
+    "geom:longitude":2.123947,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Pomaret, 25",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros De Salud",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 17 41 87",
+    "sg:postcode":"08017",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799611,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tV41iTSAGuub3kKZ8ermQ_41.404232_2.123947@1306269641"
+    },
+    "wof:country":"ES",
+    "wof:created":1472623254,
+    "wof:geomhash":"8b370647f98be56b278be4d01ec10f6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799611,
+            "region_id":85682663,
+            "venue_id":1008344405
+        }
+    ],
+    "wof:id":1008344405,
+    "wof:lastmodified":1472623254,
+    "wof:name":"Residencia Ergos S.a.",
+    "wof:parent_id":85799611,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1239469051,
+    41.4042320251,
+    2.1239469051,
+    41.4042320251
+],
+  "geometry": {"coordinates":[2.1239469051,41.4042320251],"type":"Point"}
+}

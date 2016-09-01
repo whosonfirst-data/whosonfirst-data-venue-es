@@ -1,0 +1,60 @@
+{
+  "id": 1008521337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6766149998,39.5964126587,2.6766149998,39.5964126587",
+    "geom:latitude":39.596413,
+    "geom:longitude":2.676615,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Ter, 23",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electricidad: Instaladores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 47 08 96",
+    "sg:postcode":"07009",
+    "sg:province":"Islas Baleares",
+    "sg:website":"www.cerberus.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864091,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iC0unA6rIPYh05LYnFmPP_39.596413_2.676615@1306269665"
+    },
+    "wof:country":"ES",
+    "wof:created":1472630911,
+    "wof:geomhash":"40df1ac85164dba1db234daff137fbd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":1008521337
+        }
+    ],
+    "wof:id":1008521337,
+    "wof:lastmodified":1472630911,
+    "wof:name":"Siemens S.a.",
+    "wof:parent_id":85864091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6766149998,
+    39.5964126587,
+    2.6766149998,
+    39.5964126587
+],
+  "geometry": {"coordinates":[2.6766149998,39.5964126587],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1008359267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6265480518,40.5499610901,-3.6265480518,40.5499610901",
+    "geom:latitude":40.549961,
+    "geom:longitude":-3.626548,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Gabriel Y Vicente Izquierdo (de), 10",
+    "sg:city":"San Sebastian De Los Reyes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Empresas De Pintura Y Revestimientos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 52 92 13",
+    "sg:postcode":"28700",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FQuVitOb0UFMxmalxzVvx_40.549961_-3.626548@1306269643"
+    },
+    "wof:country":"ES",
+    "wof:created":1472623901,
+    "wof:geomhash":"1d1c71e0a499fb215322421311c34528",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1008359267
+        }
+    ],
+    "wof:id":1008359267,
+    "wof:lastmodified":1472623901,
+    "wof:name":"Rincon Ortega Damian",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6265480518,
+    40.5499610901,
+    -3.6265480518,
+    40.5499610901
+],
+  "geometry": {"coordinates":[-3.6265480518,40.5499610901],"type":"Point"}
+}

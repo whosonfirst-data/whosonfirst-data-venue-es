@@ -1,0 +1,74 @@
+{
+  "id": 991631407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3730199933,39.4886703491,-0.3730199933,39.4886703491",
+    "geom:latitude":39.48867,
+    "geom:longitude":-0.37302,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Luz Casanova, 12",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asesor\u00cda Fiscal Y Jur\u00cddica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 65 88 74",
+    "sg:postcode":"46009",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864223,
+        102191581,
+        404345361,
+        85633129,
+        404227381,
+        101748241,
+        85682867,
+        85864225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Xs6bDlPJQlmpunIhCBMkV_39.488670_-0.373020@1306269511"
+    },
+    "wof:country":"ES",
+    "wof:created":1472561826,
+    "wof:geomhash":"2ac594860e4cbedbfd030f66ef3add5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345361,
+            "locality_id":101748241,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864223,
+            "region_id":85682867,
+            "venue_id":991631407
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864225,
+            "region_id":85682867,
+            "venue_id":991631407
+        }
+    ],
+    "wof:id":991631407,
+    "wof:lastmodified":1472561826,
+    "wof:name":"Feral Asesores S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3730199933,
+    39.4886703491,
+    -0.3730199933,
+    39.4886703491
+],
+  "geometry": {"coordinates":[-0.3730199933,39.4886703491],"type":"Point"}
+}

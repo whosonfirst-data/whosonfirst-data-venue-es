@@ -1,0 +1,79 @@
+{
+  "id": 1008646291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8062961102,40.4345397949,-3.8062961102,40.4345397949",
+    "geom:latitude":40.43454,
+    "geom:longitude":-3.806296,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Portugal, 4",
+    "sg:city":"Pozuelo De Alarcon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 51 74 11",
+    "sg:postcode":"28224",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "en",
+        "fundiciones"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799153,
+        102191581,
+        404338935,
+        85633129,
+        404227387,
+        101748291,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Q8Nsby3cxw4OOmKVDNm4g_40.434540_-3.806296@1306269681"
+    },
+    "wof:country":"ES",
+    "wof:created":1472636246,
+    "wof:geomhash":"19b4c2054331c0b21eb1bea915fb8e6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338935,
+            "locality_id":101748291,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799153,
+            "region_id":85682783,
+            "venue_id":1008646291
+        }
+    ],
+    "wof:id":1008646291,
+    "wof:lastmodified":1472636246,
+    "wof:name":"Transformados De Aleaciones S.l.",
+    "wof:parent_id":85799153,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "en",
+        "fundiciones"
+    ]
+},
+  "bbox": [
+    -3.8062961102,
+    40.4345397949,
+    -3.8062961102,
+    40.4345397949
+],
+  "geometry": {"coordinates":[-3.8062961102,40.4345397949],"type":"Point"}
+}

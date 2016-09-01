@@ -1,0 +1,59 @@
+{
+  "id": 1008525995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1083340645,41.5456047058,2.1083340645,41.5456047058",
+    "geom:latitude":41.545605,
+    "geom:longitude":2.108334,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sant Pau, 9",
+    "sg:city":"Sabadell",
+    "sg:classifiers":[],
+    "sg:orig_category":"Perfumer\u00cda, Art\u00cdculos De Ba\u00d1o (fabricaci\u00d3n, Al Por Mayor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 25 75 20",
+    "sg:postcode":"08201",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vejC6DEovDobZEO9MciT8_41.545605_2.108334@1306269665"
+    },
+    "wof:country":"ES",
+    "wof:created":1472631105,
+    "wof:geomhash":"87767b8ea332c9ced75536a6d50c21e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008525995
+        }
+    ],
+    "wof:id":1008525995,
+    "wof:lastmodified":1472631105,
+    "wof:name":"Simon Castellvell Joan",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1083340645,
+    41.5456047058,
+    2.1083340645,
+    41.5456047058
+],
+  "geometry": {"coordinates":[2.1083340645,41.5456047058],"type":"Point"}
+}

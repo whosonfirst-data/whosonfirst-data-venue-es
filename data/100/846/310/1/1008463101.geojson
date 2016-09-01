@@ -1,0 +1,59 @@
+{
+  "id": 1008463101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5672531128,40.4428138733,-3.5672531128,40.4428138733",
+    "geom:latitude":40.442814,
+    "geom:longitude":-3.567253,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Julio, 39",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autob\u00das (explotaci\u00d3n Y Servicios De)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 47 95 00",
+    "sg:postcode":"28022",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863629,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nC4AZPq5QmVeHdbPaPoHm_40.442814_-3.567253@1306269657"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628435,
+    "wof:geomhash":"060788c3f923f48fbbe837b284ec4c53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863629,
+            "region_id":85682783,
+            "venue_id":1008463101
+        }
+    ],
+    "wof:id":1008463101,
+    "wof:lastmodified":1472628435,
+    "wof:name":"Sanchez Turicar S.a.",
+    "wof:parent_id":85863629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5672531128,
+    40.4428138733,
+    -3.5672531128,
+    40.4428138733
+],
+  "geometry": {"coordinates":[-3.5672531128,40.4428138733],"type":"Point"}
+}

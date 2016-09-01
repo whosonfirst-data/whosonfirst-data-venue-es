@@ -1,0 +1,59 @@
+{
+  "id": 1008572149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.146023035,41.4950256348,2.146023035,41.4950256348",
+    "geom:latitude":41.495026,
+    "geom:longitude":2.146023,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ctra Barcelona, 200",
+    "sg:city":"Cerdanyola Valles",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 935 91 04 40",
+    "sg:postcode":"08290",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799639,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06ls5zg0v575nrC7wT6IuK_41.495026_2.146023@1306269671"
+    },
+    "wof:country":"ES",
+    "wof:created":1472633053,
+    "wof:geomhash":"c841e16653005087c9c3e1af340be528",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799639,
+            "region_id":85682663,
+            "venue_id":1008572149
+        }
+    ],
+    "wof:id":1008572149,
+    "wof:lastmodified":1472633053,
+    "wof:name":"Supercor S.a.",
+    "wof:parent_id":85799639,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.146023035,
+    41.4950256348,
+    2.146023035,
+    41.4950256348
+],
+  "geometry": {"coordinates":[2.146023035,41.4950256348],"type":"Point"}
+}

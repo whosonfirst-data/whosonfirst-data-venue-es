@@ -1,0 +1,59 @@
+{
+  "id": 990946929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7684819698,40.3230743408,-3.7684819698,40.3230743408",
+    "geom:latitude":40.323074,
+    "geom:longitude":-3.768482,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Juan Sebastian Elcano, 3",
+    "sg:city":"Leganes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Caf\u00c9s, Bares, Cervecer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 89 45 65",
+    "sg:postcode":"28911",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863785,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wiuWCeUPDx0ekVA25encu_40.323074_-3.768482@1306269420"
+    },
+    "wof:country":"ES",
+    "wof:created":1472513649,
+    "wof:geomhash":"d98e5a01de7792dc420c33a4640a36df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863785,
+            "region_id":85682783,
+            "venue_id":990946929
+        }
+    ],
+    "wof:id":990946929,
+    "wof:lastmodified":1472513649,
+    "wof:name":"Alonso Rodriguez Benedicta",
+    "wof:parent_id":85863785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7684819698,
+    40.3230743408,
+    -3.7684819698,
+    40.3230743408
+],
+  "geometry": {"coordinates":[-3.7684819698,40.3230743408],"type":"Point"}
+}

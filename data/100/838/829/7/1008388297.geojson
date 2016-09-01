@@ -1,0 +1,64 @@
+{
+  "id": 1008388297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7749071121,40.3757705688,-3.7749071121,40.3757705688",
+    "geom:latitude":40.375771,
+    "geom:longitude":-3.774907,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Valle Inclan, 65",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 06 45 37",
+    "sg:postcode":"28044",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863785,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4V2BKIicZsSjfVsQVDP6LI_40.375771_-3.774907@1306269647"
+    },
+    "wof:country":"ES",
+    "wof:created":1472625250,
+    "wof:geomhash":"2f590a0b51b7a221f9e8a6e40fee8fd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863785,
+            "region_id":85682783,
+            "venue_id":1008388297
+        }
+    ],
+    "wof:id":1008388297,
+    "wof:lastmodified":1472625250,
+    "wof:name":"Rodriguez Rodriguez Javier",
+    "wof:parent_id":85863785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7749071121,
+    40.3757705688,
+    -3.7749071121,
+    40.3757705688
+],
+  "geometry": {"coordinates":[-3.7749071121,40.3757705688],"type":"Point"}
+}

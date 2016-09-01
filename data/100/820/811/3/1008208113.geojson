@@ -1,0 +1,59 @@
+{
+  "id": 1008208113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.4206118584,36.7495536804,-4.4206118584,36.7495536804",
+    "geom:latitude":36.749554,
+    "geom:longitude":-4.420612,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Alcalde Joaquin Quiles, 9",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Zapatos (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 25 62 88",
+    "sg:postcode":"29014",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863495,
+        85682787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vmzk0e588gxM0IgqSCwVK_36.749554_-4.420612@1306269623"
+    },
+    "wof:country":"ES",
+    "wof:created":1472611374,
+    "wof:geomhash":"1edb613748b19e81175678c0df24dcbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863495,
+            "region_id":85682787,
+            "venue_id":1008208113
+        }
+    ],
+    "wof:id":1008208113,
+    "wof:lastmodified":1472611374,
+    "wof:name":"Perez Ballesteros Lourdes",
+    "wof:parent_id":85863495,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4206118584,
+    36.7495536804,
+    -4.4206118584,
+    36.7495536804
+],
+  "geometry": {"coordinates":[-4.4206118584,36.7495536804],"type":"Point"}
+}

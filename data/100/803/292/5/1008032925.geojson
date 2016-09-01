@@ -1,0 +1,73 @@
+{
+  "id": 1008032925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.172410965,41.3946266174,2.172410965,41.3946266174",
+    "geom:latitude":41.394627,
+    "geom:longitude":2.172411,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Diputacio, 339",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 44 85 21",
+    "sg:postcode":"08009",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JKCGcTfBgm6JryTp2nqy1_41.394627_2.172411@1306269599"
+    },
+    "wof:country":"ES",
+    "wof:created":1472596605,
+    "wof:geomhash":"82ec72ffefe0c4f56a9fdfcfe94c73a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008032925
+        }
+    ],
+    "wof:id":1008032925,
+    "wof:lastmodified":1472596605,
+    "wof:name":"Montoriol Palmes Esther",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    2.172410965,
+    41.3946266174,
+    2.172410965,
+    41.3946266174
+],
+  "geometry": {"coordinates":[2.172410965,41.3946266174],"type":"Point"}
+}

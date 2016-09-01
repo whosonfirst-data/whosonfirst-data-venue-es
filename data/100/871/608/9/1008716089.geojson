@@ -1,0 +1,60 @@
+{
+  "id": 1008716089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6315460205,40.5448722839,-3.6315460205,40.5448722839",
+    "geom:latitude":40.544872,
+    "geom:longitude":-3.631546,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Espa\u00d1a (de), 62",
+    "sg:city":"San Sebastian De Los Reyes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 63 69 19",
+    "sg:postcode":"28700",
+    "sg:province":"Madrid",
+    "sg:website":"www.marsans.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qqEgcGlpGBElkhozYdGkz_40.544872_-3.631546@1306269691"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639275,
+    "wof:geomhash":"4530ffcd75c38d5a6dbc58842a835910",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1008716089
+        }
+    ],
+    "wof:id":1008716089,
+    "wof:lastmodified":1472639275,
+    "wof:name":"Viajes Marsans S.a.",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6315460205,
+    40.5448722839,
+    -3.6315460205,
+    40.5448722839
+],
+  "geometry": {"coordinates":[-3.6315460205,40.5448722839],"type":"Point"}
+}

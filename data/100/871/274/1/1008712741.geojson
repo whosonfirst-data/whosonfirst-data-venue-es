@@ -1,0 +1,68 @@
+{
+  "id": 1008712741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7053749561,40.404384613,-3.7053749561,40.404384613",
+    "geom:latitude":40.404385,
+    "geom:longitude":-3.705375,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Soria, 9",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 06 02 80",
+    "sg:postcode":"28005",
+    "sg:province":"Madrid",
+    "sg:website":"www.emporio.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863743,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iIEB3RcWbnAkhZjLDXoKu_40.404385_-3.705375@1306269690"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639117,
+    "wof:geomhash":"932cd82aa6f6f795159a58a2273a932e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863743,
+            "region_id":85682783,
+            "venue_id":1008712741
+        }
+    ],
+    "wof:id":1008712741,
+    "wof:lastmodified":1472639117,
+    "wof:name":"Viajes Emporio S.a.",
+    "wof:parent_id":85863743,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7053749561,
+    40.404384613,
+    -3.7053749561,
+    40.404384613
+],
+  "geometry": {"coordinates":[-3.7053749561,40.404384613],"type":"Point"}
+}

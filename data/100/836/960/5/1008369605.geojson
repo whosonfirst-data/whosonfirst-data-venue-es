@@ -1,0 +1,88 @@
+{
+  "id": 1008369605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1405858994,41.391292572,2.1405858994,41.391292572",
+    "geom:latitude":41.391293,
+    "geom:longitude":2.140586,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Diagonal, 513",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 66 12 00",
+    "sg:postcode":"08...",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "calefacci\u00d3n",
+        "central",
+        "para",
+        "de",
+        "fabricaci\u00d3n",
+        "caldera"
+    ],
+    "sg:website":"www.roca.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799611,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OfCQ7qaa0KHESh9hBajrv_41.391293_2.140586@1306269644"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624347,
+    "wof:geomhash":"71228b0a8b3d90f2a49ea63e6b99e303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799611,
+            "region_id":85682663,
+            "venue_id":1008369605
+        }
+    ],
+    "wof:id":1008369605,
+    "wof:lastmodified":1472624347,
+    "wof:name":"Roca Sanitario S.a.",
+    "wof:parent_id":85799611,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "calefacci\u00d3n",
+        "central",
+        "para",
+        "de",
+        "fabricaci\u00d3n",
+        "caldera"
+    ]
+},
+  "bbox": [
+    2.1405858994,
+    41.391292572,
+    2.1405858994,
+    41.391292572
+],
+  "geometry": {"coordinates":[2.1405858994,41.391292572],"type":"Point"}
+}

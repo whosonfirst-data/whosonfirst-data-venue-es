@@ -1,0 +1,68 @@
+{
+  "id": 1007720983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2096879482,41.4149971008,2.2096879482,41.4149971008",
+    "geom:latitude":41.414997,
+    "geom:longitude":2.209688,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Puigcerda, 127",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Transporte En General",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 07 42 98",
+    "sg:postcode":"08019",
+    "sg:province":"Barcelona",
+    "sg:website":"www.jardifer.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864011,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Yd7nyZYBxXzcctuM3rHz0_41.414997_2.209688@1306269559"
+    },
+    "wof:country":"ES",
+    "wof:created":1472582011,
+    "wof:geomhash":"d6e8e179f30663446fb61b0f7de71c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864011,
+            "region_id":85682663,
+            "venue_id":1007720983
+        }
+    ],
+    "wof:id":1007720983,
+    "wof:lastmodified":1472582011,
+    "wof:name":"Jardifer S.l.",
+    "wof:parent_id":85864011,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2096879482,
+    41.4149971008,
+    2.2096879482,
+    41.4149971008
+],
+  "geometry": {"coordinates":[2.2096879482,41.4149971008],"type":"Point"}
+}

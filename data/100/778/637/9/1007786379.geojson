@@ -1,0 +1,59 @@
+{
+  "id": 1007786379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1500909328,41.4927635193,2.1500909328,41.4927635193",
+    "geom:latitude":41.492764,
+    "geom:longitude":2.150091,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"C/ Bonavista, 4",
+    "sg:city":"Ripollet",
+    "sg:classifiers":[],
+    "sg:orig_category":"Peluquer\u00cdas, Peluquer\u00cda Mixta",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 935 86 55 02",
+    "sg:postcode":"08291",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799639,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DuBNLT0kcGS1JBN1szGPL_41.492764_2.150091@1306269568"
+    },
+    "wof:country":"ES",
+    "wof:created":1472585550,
+    "wof:geomhash":"b4fcb97877eed2c64d32c11377aa12ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799639,
+            "region_id":85682663,
+            "venue_id":1007786379
+        }
+    ],
+    "wof:id":1007786379,
+    "wof:lastmodified":1472585550,
+    "wof:name":"La Pelu De La Vila Tres",
+    "wof:parent_id":85799639,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1500909328,
+    41.4927635193,
+    2.1500909328,
+    41.4927635193
+],
+  "geometry": {"coordinates":[2.1500909328,41.4927635193],"type":"Point"}
+}

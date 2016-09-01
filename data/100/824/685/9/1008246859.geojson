@@ -1,0 +1,64 @@
+{
+  "id": 1008246859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.829300046,41.7266616821,1.829300046,41.7266616821",
+    "geom:latitude":41.726662,
+    "geom:longitude":1.8293,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bo. Cots (guix), S/n",
+    "sg:city":"Manresa",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 938 74 43 51",
+    "sg:postcode":"08241",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4p9kIXA4K3ufWi1F1yNfU7_41.726662_1.829300@1306269628"
+    },
+    "wof:country":"ES",
+    "wof:created":1472615773,
+    "wof:geomhash":"66ba2a745a9c9ea0d9c573bb8799d3bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008246859
+        }
+    ],
+    "wof:id":1008246859,
+    "wof:lastmodified":1472615773,
+    "wof:name":"Pistas Zona De Manresa S.a.",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.829300046,
+    41.7266616821,
+    1.829300046,
+    41.7266616821
+],
+  "geometry": {"coordinates":[1.829300046,41.7266616821],"type":"Point"}
+}

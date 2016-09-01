@@ -1,0 +1,78 @@
+{
+  "id": 991658345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7162740231,40.4399337769,-3.7162740231,40.4399337769",
+    "geom:latitude":40.439934,
+    "geom:longitude":-3.716274,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pase San Francisco De Sales, 6",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 41 37 05",
+    "sg:postcode":"28003",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863655,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35XGewOHddi4As5xjbGcu6_40.439934_-3.716274@1306269515"
+    },
+    "wof:country":"ES",
+    "wof:created":1472563414,
+    "wof:geomhash":"c5cd4ea76ba64f30adaa6283bdcdb7a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863655,
+            "region_id":85682783,
+            "venue_id":991658345
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863653,
+            "region_id":85682783,
+            "venue_id":991658345
+        }
+    ],
+    "wof:id":991658345,
+    "wof:lastmodified":1472563414,
+    "wof:name":"Ferrero Lobato Ana",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7162740231,
+    40.4399337769,
+    -3.7162740231,
+    40.4399337769
+],
+  "geometry": {"coordinates":[-3.7162740231,40.4399337769],"type":"Point"}
+}

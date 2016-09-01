@@ -1,0 +1,68 @@
+{
+  "id": 990968195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.179071188,41.404510498,2.179071188,41.404510498",
+    "geom:latitude":41.40451,
+    "geom:longitude":2.179071,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Valencia, 494",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 15 07 44",
+    "sg:postcode":"08013",
+    "sg:province":"Barcelona",
+    "sg:website":"www.stopbilbao.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864013,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6e5YCdSmZSP08GDan3hqk4_41.404510_2.179071@1306269423"
+    },
+    "wof:country":"ES",
+    "wof:created":1472516621,
+    "wof:geomhash":"5e5cdf425ce58a540f2529c4288655ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864013,
+            "region_id":85682663,
+            "venue_id":990968195
+        }
+    ],
+    "wof:id":990968195,
+    "wof:lastmodified":1472516621,
+    "wof:name":"A.m. Stop Bilbao",
+    "wof:parent_id":85864013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.179071188,
+    41.404510498,
+    2.179071188,
+    41.404510498
+],
+  "geometry": {"coordinates":[2.179071188,41.404510498],"type":"Point"}
+}

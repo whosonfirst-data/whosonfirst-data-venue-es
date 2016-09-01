@@ -1,0 +1,59 @@
+{
+  "id": 1008364717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5637919903,40.4257850647,-3.5637919903,40.4257850647",
+    "geom:latitude":40.425785,
+    "geom:longitude":-3.563792,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Luis Grasset (de), 15",
+    "sg:city":"Coslada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Poller\u00cda Y Caza (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 71 18 23",
+    "sg:postcode":"28820",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863629,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0W6eq2ASqhLmIb3dmeKNVW_40.425785_-3.563792@1306269644"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624145,
+    "wof:geomhash":"5860c3590043a9cd0f65a69e80ac6944",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863629,
+            "region_id":85682783,
+            "venue_id":1008364717
+        }
+    ],
+    "wof:id":1008364717,
+    "wof:lastmodified":1472624145,
+    "wof:name":"Rivera Rivera Eugenio",
+    "wof:parent_id":85863629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5637919903,
+    40.4257850647,
+    -3.5637919903,
+    40.4257850647
+],
+  "geometry": {"coordinates":[-3.5637919903,40.4257850647],"type":"Point"}
+}

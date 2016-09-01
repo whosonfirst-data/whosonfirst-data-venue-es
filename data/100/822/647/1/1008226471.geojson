@@ -1,0 +1,67 @@
+{
+  "id": 1008226471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.147124052,41.380317688,2.147124052,41.380317688",
+    "geom:latitude":41.380318,
+    "geom:longitude":2.147124,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Valencia, 40",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 26 91 55",
+    "sg:postcode":"08015",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864021,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73t8nkBelR88vEiqZY94zi_41.380318_2.147124@1306269625"
+    },
+    "wof:country":"ES",
+    "wof:created":1472613844,
+    "wof:geomhash":"cc170ccceb3f2105e89c54f1f690d335",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864021,
+            "region_id":85682663,
+            "venue_id":1008226471
+        }
+    ],
+    "wof:id":1008226471,
+    "wof:lastmodified":1472613844,
+    "wof:name":"Peris Bernal Antonio",
+    "wof:parent_id":85864021,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.147124052,
+    41.380317688,
+    2.147124052,
+    41.380317688
+],
+  "geometry": {"coordinates":[2.147124052,41.380317688],"type":"Point"}
+}

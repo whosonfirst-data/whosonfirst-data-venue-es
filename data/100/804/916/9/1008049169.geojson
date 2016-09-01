@@ -1,0 +1,59 @@
+{
+  "id": 1008049169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6379685402,40.5431671143,-3.6379685402,40.5431671143",
+    "geom:latitude":40.543167,
+    "geom:longitude":-3.637969,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Constitucion (de La), 55",
+    "sg:city":"Alcobendas",
+    "sg:classifiers":[],
+    "sg:orig_category":"Peluquer\u00cdas, Peluquer\u00cda Mixta",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 53 56 40",
+    "sg:postcode":"28100",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56fz2L06khbz73GysLcGnU_40.543167_-3.637969@1306269601"
+    },
+    "wof:country":"ES",
+    "wof:created":1472597300,
+    "wof:geomhash":"3c4038b4e75cd7c8718b6630b9fb92cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1008049169
+        }
+    ],
+    "wof:id":1008049169,
+    "wof:lastmodified":1472597300,
+    "wof:name":"Moriche Parra Mercedes",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6379685402,
+    40.5431671143,
+    -3.6379685402,
+    40.5431671143
+],
+  "geometry": {"coordinates":[-3.6379685402,40.5431671143],"type":"Point"}
+}

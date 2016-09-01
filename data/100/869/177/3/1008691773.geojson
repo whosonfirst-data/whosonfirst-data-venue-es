@@ -1,0 +1,59 @@
+{
+  "id": 1008691773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8096048832,40.3539047241,-3.8096048832,40.3539047241",
+    "geom:latitude":40.353905,
+    "geom:longitude":-3.809605,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Urano, 8",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias Y Agentes Comerciales, Representantes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 19 27 17",
+    "sg:postcode":"28925",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4l8RxDHMdPHEoO6h8t13yq_40.353905_-3.809605@1306269687"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638151,
+    "wof:geomhash":"bac1d1ec35f7b6eea23fee079c3d6625",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008691773
+        }
+    ],
+    "wof:id":1008691773,
+    "wof:lastmodified":1472638151,
+    "wof:name":"Vaquerizo Alba Juan Antonio",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8096048832,
+    40.3539047241,
+    -3.8096048832,
+    40.3539047241
+],
+  "geometry": {"coordinates":[-3.8096048832,40.3539047241],"type":"Point"}
+}

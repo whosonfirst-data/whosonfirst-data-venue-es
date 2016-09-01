@@ -1,0 +1,62 @@
+{
+  "id": 1008503083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.434245944,38.9103965759,1.434245944,38.9103965759",
+    "geom:latitude":38.910397,
+    "geom:longitude":1.434246,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carr Bartomeu Vicent Ramon, 4",
+    "sg:city":"Eivissa",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 31 04 21",
+    "sg:postcode":"07800",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101777557,
+        85864231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tbAH3gJckgRdfNtDh6I2P_38.910397_1.434246@1306269662"
+    },
+    "wof:country":"ES",
+    "wof:created":1472630156,
+    "wof:geomhash":"11c0677893ab65301fcaabd0a6a2c968",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101777557,
+            "neighbourhood_id":85864231,
+            "region_id":-1,
+            "venue_id":1008503083
+        }
+    ],
+    "wof:id":1008503083,
+    "wof:lastmodified":1472630156,
+    "wof:name":"Serra Ferrer Francisco Javier",
+    "wof:parent_id":85864231,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.434245944,
+    38.9103965759,
+    1.434245944,
+    38.9103965759
+],
+  "geometry": {"coordinates":[1.434245944,38.9103965759],"type":"Point"}
+}

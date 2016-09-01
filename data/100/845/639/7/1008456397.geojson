@@ -1,0 +1,74 @@
+{
+  "id": 1008456397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.4147911072,36.7344856262,-4.4147911072,36.7344856262",
+    "geom:latitude":36.734486,
+    "geom:longitude":-4.414791,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Miguel Lafuente, 6",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bazares, Art\u00cdculos De Limpieza Y De Cocina (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 26 02 15",
+    "sg:postcode":"29013",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863497,
+        102191581,
+        404339241,
+        85633129,
+        404227361,
+        101748185,
+        85682787,
+        85863495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YMJeM9p0yXseiwBFF7E26_36.734486_-4.414791@1306269656"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628172,
+    "wof:geomhash":"ed9dbbab25d57f03cb123eb9fd71f132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863497,
+            "region_id":85682787,
+            "venue_id":1008456397
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863495,
+            "region_id":85682787,
+            "venue_id":1008456397
+        }
+    ],
+    "wof:id":1008456397,
+    "wof:lastmodified":1472628172,
+    "wof:name":"Sanchez Medina Pilar",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4147911072,
+    36.7344856262,
+    -4.4147911072,
+    36.7344856262
+],
+  "geometry": {"coordinates":[-4.4147911072,36.7344856262],"type":"Point"}
+}

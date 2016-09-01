@@ -1,0 +1,62 @@
+{
+  "id": 1008051733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6584160328,39.5654144287,2.6584160328,39.5654144287",
+    "geom:latitude":39.565414,
+    "geom:longitude":2.658416,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Joan Maragall, 11",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 71 61 72",
+    "sg:postcode":"07006",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101748237,
+        85864115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dSXNkZd95p2RIkGxtAwiT_39.565414_2.658416@1306269601"
+    },
+    "wof:country":"ES",
+    "wof:created":1472597404,
+    "wof:geomhash":"108fa762b190fe6fdba4d6f71b57bbf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748237,
+            "neighbourhood_id":85864115,
+            "region_id":-1,
+            "venue_id":1008051733
+        }
+    ],
+    "wof:id":1008051733,
+    "wof:lastmodified":1472597404,
+    "wof:name":"Mosteiro Sans Jose Luis",
+    "wof:parent_id":85864115,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6584160328,
+    39.5654144287,
+    2.6584160328,
+    39.5654144287
+],
+  "geometry": {"coordinates":[2.6584160328,39.5654144287],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1008352595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.188158989,41.3807411194,2.188158989,41.3807411194",
+    "geom:latitude":41.380741,
+    "geom:longitude":2.188159,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Magatzems, 22",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Doctores En Medicina",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 95 40 47",
+    "sg:postcode":"08003",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6grYuyHieaTgajFLQPMlV6_41.380741_2.188159@1306269642"
+    },
+    "wof:country":"ES",
+    "wof:created":1472623628,
+    "wof:geomhash":"708ceeaf309785dbc7ca643f9118ed9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":1008352595
+        }
+    ],
+    "wof:id":1008352595,
+    "wof:lastmodified":1472623628,
+    "wof:name":"Rey Serra Isidro",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.188158989,
+    41.3807411194,
+    2.188158989,
+    41.3807411194
+],
+  "geometry": {"coordinates":[2.188158989,41.3807411194],"type":"Point"}
+}

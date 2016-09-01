@@ -1,0 +1,87 @@
+{
+  "id": 1008419331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1804931164,41.4081077576,2.1804931164,41.4081077576",
+    "geom:latitude":41.408108,
+    "geom:longitude":2.180493,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Dos De Maig, 259",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 36 20 08",
+    "sg:postcode":"08013",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "obras",
+        "de",
+        "coleccionismo",
+        "compraventa",
+        "arte",
+        "y"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864013,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KPw5wBJ0aIfxSiJLjJ5Sw_41.408108_2.180493@1306269651"
+    },
+    "wof:country":"ES",
+    "wof:created":1472626658,
+    "wof:geomhash":"078e00c7aeab54cc1bc98087478a2c07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864013,
+            "region_id":85682663,
+            "venue_id":1008419331
+        }
+    ],
+    "wof:id":1008419331,
+    "wof:lastmodified":1472626658,
+    "wof:name":"Ruiz De Hatgiconstantis Daniela",
+    "wof:parent_id":85864013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "obras",
+        "de",
+        "coleccionismo",
+        "compraventa",
+        "arte",
+        "y"
+    ]
+},
+  "bbox": [
+    2.1804931164,
+    41.4081077576,
+    2.1804931164,
+    41.4081077576
+],
+  "geometry": {"coordinates":[2.1804931164,41.4081077576],"type":"Point"}
+}

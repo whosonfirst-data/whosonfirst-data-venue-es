@@ -1,0 +1,60 @@
+{
+  "id": 1008114911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7591340542,40.3673057556,-3.7591340542,40.3673057556",
+    "geom:latitude":40.367306,
+    "geom:longitude":-3.759134,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Gaspar Morales, 2",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asociaciones Y Clubs Deportivos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 08 41 89",
+    "sg:postcode":"28044",
+    "sg:province":"Madrid",
+    "sg:website":"www.adsaludycultura.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863785,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZesyKq5GsAlCEb6eiCxpy_40.367306_-3.759134@1306269610"
+    },
+    "wof:country":"ES",
+    "wof:created":1472600159,
+    "wof:geomhash":"5d713300dcb27672d8b74fdf03754769",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863785,
+            "region_id":85682783,
+            "venue_id":1008114911
+        }
+    ],
+    "wof:id":1008114911,
+    "wof:lastmodified":1472600159,
+    "wof:name":"Ocio Barbosa Fernando",
+    "wof:parent_id":85863785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7591340542,
+    40.3673057556,
+    -3.7591340542,
+    40.3673057556
+],
+  "geometry": {"coordinates":[-3.7591340542,40.3673057556],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1008133593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7263104916,40.3819160461,-3.7263104916,40.3819160461",
+    "geom:latitude":40.381916,
+    "geom:longitude":-3.72631,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Castelo Branco, 10",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cl\u00cdnicas Dentales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 65 28 08",
+    "sg:postcode":"28025",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863761,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mmfGOnP1KttjIjFYMQRm0_40.381916_-3.726310@1306269612"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601107,
+    "wof:geomhash":"fe008377e3874ca7ea8762b3e89aed8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863761,
+            "region_id":85682783,
+            "venue_id":1008133593
+        }
+    ],
+    "wof:id":1008133593,
+    "wof:lastmodified":1472601107,
+    "wof:name":"Orodent",
+    "wof:parent_id":85863761,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7263104916,
+    40.3819160461,
+    -3.7263104916,
+    40.3819160461
+],
+  "geometry": {"coordinates":[-3.7263104916,40.3819160461],"type":"Point"}
+}

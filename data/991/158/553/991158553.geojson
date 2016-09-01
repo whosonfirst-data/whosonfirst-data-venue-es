@@ -1,0 +1,81 @@
+{
+  "id": 991158553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7356510162,40.3745727539,-3.7356510162,40.3745727539",
+    "geom:latitude":40.374573,
+    "geom:longitude":-3.735651,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Abrantes, 105",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 69 80 88",
+    "sg:postcode":"28025",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863761,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mWGQ0YndsHqGdv4cPSU4Z_40.374573_-3.735651@1306269448"
+    },
+    "wof:country":"ES",
+    "wof:created":1472533005,
+    "wof:geomhash":"7d5bdcea95e31a90e77aa3c159d612ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863761,
+            "region_id":85682783,
+            "venue_id":991158553
+        }
+    ],
+    "wof:id":991158553,
+    "wof:lastmodified":1472533005,
+    "wof:name":"Blazquez Fraile Gregorio",
+    "wof:parent_id":85863761,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.7356510162,
+    40.3745727539,
+    -3.7356510162,
+    40.3745727539
+],
+  "geometry": {"coordinates":[-3.7356510162,40.3745727539],"type":"Point"}
+}

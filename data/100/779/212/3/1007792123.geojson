@@ -1,0 +1,59 @@
+{
+  "id": 1007792123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8063828945,43.4693145752,-3.8063828945,43.4693145752",
+    "geom:latitude":43.469315,
+    "geom:longitude":-3.806383,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Blas Cabrera, 5",
+    "sg:city":"Santander",
+    "sg:classifiers":[],
+    "sg:orig_category":"Zapatos (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 31 23 05",
+    "sg:postcode":"39005",
+    "sg:province":"Cantabria",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799303,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MpPHEENdOyYPIh64mkXC7_43.469315_-3.806383@1306269569"
+    },
+    "wof:country":"ES",
+    "wof:created":1472585864,
+    "wof:geomhash":"7e6b673c88ba563e96937e85c4dbb4ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799303,
+            "region_id":85682833,
+            "venue_id":1007792123
+        }
+    ],
+    "wof:id":1007792123,
+    "wof:lastmodified":1472585864,
+    "wof:name":"Lastra Bedia Margarita",
+    "wof:parent_id":85799303,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8063828945,
+    43.4693145752,
+    -3.8063828945,
+    43.4693145752
+],
+  "geometry": {"coordinates":[-3.8063828945,43.4693145752],"type":"Point"}
+}

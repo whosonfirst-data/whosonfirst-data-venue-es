@@ -1,0 +1,66 @@
+{
+  "id": 975173799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6200554371,37.1912727356,-3.6200554371,37.1912727356",
+    "geom:latitude":37.191273,
+    "geom:longitude":-3.620055,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Circunvalacion Encina, 14",
+    "sg:city":"Granada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros Empresariales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 27 91 52",
+    "sg:postcode":"18015",
+    "sg:province":"Granada",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863831,
+        85682731,
+        85863835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6o7xD6i88qvWFtTI0dHSCV_37.191273_-3.620055@1306269414"
+    },
+    "wof:country":"ES",
+    "wof:created":1472508871,
+    "wof:geomhash":"fe531d979687c94f83d237f2cc71a80c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863831,
+            "region_id":85682731,
+            "venue_id":975173799
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863835,
+            "region_id":85682731,
+            "venue_id":975173799
+        }
+    ],
+    "wof:id":975173799,
+    "wof:lastmodified":1472508871,
+    "wof:name":"A.g.t.granada",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6200554371,
+    37.1912727356,
+    -3.6200554371,
+    37.1912727356
+],
+  "geometry": {"coordinates":[-3.6200554371,37.1912727356],"type":"Point"}
+}

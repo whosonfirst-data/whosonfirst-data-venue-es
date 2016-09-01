@@ -1,0 +1,67 @@
+{
+  "id": 1008711771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6478009224,40.4084472656,-3.6478009224,40.4084472656",
+    "geom:latitude":40.408447,
+    "geom:longitude":-3.647801,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Marroquina, 40",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 30 12 13",
+    "sg:postcode":"28030",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863715,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2X9PfrqNwr93h5plH2yI8o_40.408447_-3.647801@1306269690"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639072,
+    "wof:geomhash":"215fa3f6dfeeed58951797f12d8a99cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863715,
+            "region_id":85682783,
+            "venue_id":1008711771
+        }
+    ],
+    "wof:id":1008711771,
+    "wof:lastmodified":1472639072,
+    "wof:name":"Viajes Citur S.a.",
+    "wof:parent_id":85863715,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6478009224,
+    40.4084472656,
+    -3.6478009224,
+    40.4084472656
+],
+  "geometry": {"coordinates":[-3.6478009224,40.4084472656],"type":"Point"}
+}

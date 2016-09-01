@@ -1,0 +1,64 @@
+{
+  "id": 1007728213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7329554558,40.4821853638,-3.7329554558,40.4821853638",
+    "geom:latitude":40.482185,
+    "geom:longitude":-3.732955,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Alfonso Rodriguez Castelao, 24",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Procuradores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 16 95 22",
+    "sg:postcode":"28035",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85682783,
+        102191581,
+        85633129,
+        101748283,
+        85863557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7i5TXXAjXYlWBDDJMktQIy_40.482185_-3.732955@1306269560"
+    },
+    "wof:country":"ES",
+    "wof:created":1472582388,
+    "wof:geomhash":"ef5bd6ea23446adf8d8858f6b617652a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748283,
+            "neighbourhood_id":85863557,
+            "region_id":85682783,
+            "venue_id":1007728213
+        }
+    ],
+    "wof:id":1007728213,
+    "wof:lastmodified":1472582388,
+    "wof:name":"Jimenez Alonso Yolanda",
+    "wof:parent_id":85863557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7329554558,
+    40.4821853638,
+    -3.7329554558,
+    40.4821853638
+],
+  "geometry": {"coordinates":[-3.7329554558,40.4821853638],"type":"Point"}
+}

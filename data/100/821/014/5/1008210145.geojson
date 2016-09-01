@@ -1,0 +1,59 @@
+{
+  "id": 1008210145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6324648857,40.5504341125,-3.6324648857,40.5504341125",
+    "geom:latitude":40.550434,
+    "geom:longitude":-3.632465,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Sierra (de La), 21",
+    "sg:city":"San Sebastian De Los Reyes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Estancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 54 55 71",
+    "sg:postcode":"28700",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oa2oakvw6qK35DNFRH13P_40.550434_-3.632465@1306269623"
+    },
+    "wof:country":"ES",
+    "wof:created":1472611829,
+    "wof:geomhash":"fe01bdee23600c8bce66846a1b188a50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1008210145
+        }
+    ],
+    "wof:id":1008210145,
+    "wof:lastmodified":1472611829,
+    "wof:name":"Perez Collado Francisco",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6324648857,
+    40.5504341125,
+    -3.6324648857,
+    40.5504341125
+],
+  "geometry": {"coordinates":[-3.6324648857,40.5504341125],"type":"Point"}
+}

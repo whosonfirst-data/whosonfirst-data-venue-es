@@ -1,0 +1,81 @@
+{
+  "id": 991642979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.6608138084,43.5390625,-5.6608138084,43.5390625",
+    "geom:latitude":43.539062,
+    "geom:longitude":-5.660814,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Covadonga, 26",
+    "sg:city":"Gijon",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 985 35 38 92",
+    "sg:postcode":"33201",
+    "sg:province":"Asturias",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799415,
+        102191581,
+        404340333,
+        85633129,
+        404227365,
+        101748401,
+        85682805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bmmivJTN19QPM0OKShNQm_43.539062_-5.660814@1306269513"
+    },
+    "wof:country":"ES",
+    "wof:created":1472562619,
+    "wof:geomhash":"03791db822ece8093a6f5bafdaba5f1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404340333,
+            "locality_id":101748401,
+            "macroregion_id":404227365,
+            "neighbourhood_id":85799415,
+            "region_id":85682805,
+            "venue_id":991642979
+        }
+    ],
+    "wof:id":991642979,
+    "wof:lastmodified":1472562619,
+    "wof:name":"Fernandez Junquera Maria Victoria",
+    "wof:parent_id":85799415,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    -5.6608138084,
+    43.5390625,
+    -5.6608138084,
+    43.5390625
+],
+  "geometry": {"coordinates":[-5.6608138084,43.5390625],"type":"Point"}
+}

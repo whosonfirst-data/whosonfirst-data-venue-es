@@ -1,0 +1,79 @@
+{
+  "id": 1008088429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6501369476,40.4562797546,-3.6501369476,40.4562797546",
+    "geom:latitude":40.45628,
+    "geom:longitude":-3.650137,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Toronga, 8",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 88 97 14",
+    "sg:postcode":"28043",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "organismos",
+        "control"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863597,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d9x97YO8eIhKt37mFW5JN_40.456280_-3.650137@1306269606"
+    },
+    "wof:country":"ES",
+    "wof:created":1472599024,
+    "wof:geomhash":"63e27ae61ee2284b141c5909359b5451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863597,
+            "region_id":85682783,
+            "venue_id":1008088429
+        }
+    ],
+    "wof:id":1008088429,
+    "wof:lastmodified":1472599024,
+    "wof:name":"N.d. In Situ",
+    "wof:parent_id":85863597,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organismos",
+        "control"
+    ]
+},
+  "bbox": [
+    -3.6501369476,
+    40.4562797546,
+    -3.6501369476,
+    40.4562797546
+],
+  "geometry": {"coordinates":[-3.6501369476,40.4562797546],"type":"Point"}
+}

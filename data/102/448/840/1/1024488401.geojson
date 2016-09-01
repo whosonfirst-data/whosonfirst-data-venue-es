@@ -1,0 +1,67 @@
+{
+  "id": 1024488401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7339990139,40.4055366516,-3.7339990139,40.4055366516",
+    "geom:latitude":40.405537,
+    "geom:longitude":-3.733999,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ampelido, 25",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 70 28 66",
+    "sg:postcode":"28011",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863773,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ccjd9EVv6TtKVlvC9tw2f_40.405537_-3.733999@1306269696"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641115,
+    "wof:geomhash":"b8400215980431e53a0abe7f0b99267a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863773,
+            "region_id":85682783,
+            "venue_id":1024488401
+        }
+    ],
+    "wof:id":1024488401,
+    "wof:lastmodified":1472641115,
+    "wof:name":"Zamorano Luengo Pablo",
+    "wof:parent_id":85863773,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7339990139,
+    40.4055366516,
+    -3.7339990139,
+    40.4055366516
+],
+  "geometry": {"coordinates":[-3.7339990139,40.4055366516],"type":"Point"}
+}

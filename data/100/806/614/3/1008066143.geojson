@@ -1,0 +1,78 @@
+{
+  "id": 1008066143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1492888927,41.3791236877,2.1492888927,41.3791236877",
+    "geom:latitude":41.379124,
+    "geom:longitude":2.149289,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Vilamari, 82",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agentes Generales De Seguros",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 23 72 61",
+    "sg:postcode":"08015",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864027,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WJHI0mGiZHKfD21PHfYAA_41.379124_2.149289@1306269603"
+    },
+    "wof:country":"ES",
+    "wof:created":1472598005,
+    "wof:geomhash":"8f616575abad7815695e412661dc6df6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864027,
+            "region_id":85682663,
+            "venue_id":1008066143
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864021,
+            "region_id":85682663,
+            "venue_id":1008066143
+        }
+    ],
+    "wof:id":1008066143,
+    "wof:lastmodified":1472598005,
+    "wof:name":"Muns Plans Joan 000460142r Slne",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1492888927,
+    41.3791236877,
+    2.1492888927,
+    41.3791236877
+],
+  "geometry": {"coordinates":[2.1492888927,41.3791236877],"type":"Point"}
+}

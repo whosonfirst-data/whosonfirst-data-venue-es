@@ -1,0 +1,59 @@
+{
+  "id": 975172505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1886076927,41.3918380737,2.1886076927,41.3918380737",
+    "geom:latitude":41.391838,
+    "geom:longitude":2.188608,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sardenya, 45",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bazares, Art\u00cdculos De Limpieza Y De Cocina (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 21 00 01",
+    "sg:postcode":"08005",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1auovNFFzlN77hZIVcUfSM_41.391838_2.188608@1306269414"
+    },
+    "wof:country":"ES",
+    "wof:created":1472508756,
+    "wof:geomhash":"0866dd4dddf1d074475504b5e0dc280e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":975172505
+        }
+    ],
+    "wof:id":975172505,
+    "wof:lastmodified":1472508756,
+    "wof:name":"Agrupacion Bazar El Regalo S.a.",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1886076927,
+    41.3918380737,
+    2.1886076927,
+    41.3918380737
+],
+  "geometry": {"coordinates":[2.1886076927,41.3918380737],"type":"Point"}
+}

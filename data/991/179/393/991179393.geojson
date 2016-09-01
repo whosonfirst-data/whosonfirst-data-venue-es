@@ -1,0 +1,78 @@
+{
+  "id": 991179393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8683611155,41.6568031311,-0.8683611155,41.6568031311",
+    "geom:latitude":41.656803,
+    "geom:longitude":-0.868361,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Alfonso Solans, 20",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicios Diversos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 29 58 30",
+    "sg:postcode":"50014",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863329,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891,
+        85863325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lJSjYLOwp6nuqCst3ozDW_41.656803_-0.868361@1306269451"
+    },
+    "wof:country":"ES",
+    "wof:created":1472534843,
+    "wof:geomhash":"d467bb88b9715421db550896e1f1dd1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863329,
+            "region_id":85682891,
+            "venue_id":991179393
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863325,
+            "region_id":85682891,
+            "venue_id":991179393
+        }
+    ],
+    "wof:id":991179393,
+    "wof:lastmodified":1472534843,
+    "wof:name":"Brooks Todo S. A.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8683611155,
+    41.6568031311,
+    -0.8683611155,
+    41.6568031311
+],
+  "geometry": {"coordinates":[-0.8683611155,41.6568031311],"type":"Point"}
+}

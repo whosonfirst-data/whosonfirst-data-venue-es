@@ -1,0 +1,67 @@
+{
+  "id": 1008009003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1371541023,41.3638916016,2.1371541023,41.3638916016",
+    "geom:latitude":41.363892,
+    "geom:longitude":2.137154,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Mineria, 8",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros De Coordinaci\u00d3n",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 31 99 08",
+    "sg:postcode":"08038",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799585,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HkFBWlmVlKeogklW899gs_41.363892_2.137154@1306269596"
+    },
+    "wof:country":"ES",
+    "wof:created":1472595575,
+    "wof:geomhash":"cce552ca6463d7a084759157bc55e96d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799585,
+            "region_id":85682663,
+            "venue_id":1008009003
+        }
+    ],
+    "wof:id":1008009003,
+    "wof:lastmodified":1472595575,
+    "wof:name":"Mitalo S.a.",
+    "wof:parent_id":85799585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1371541023,
+    41.3638916016,
+    2.1371541023,
+    41.3638916016
+],
+  "geometry": {"coordinates":[2.1371541023,41.3638916016],"type":"Point"}
+}

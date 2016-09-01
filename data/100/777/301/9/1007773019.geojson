@@ -1,0 +1,71 @@
+{
+  "id": 1007773019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2351150513,41.4528923035,2.2351150513,41.4528923035",
+    "geom:latitude":41.452892,
+    "geom:longitude":2.235115,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carr Pallaresa, 39",
+    "sg:city":"Badalona",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 60 47 58",
+    "sg:postcode":"08917",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "organismos",
+        "control"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799485,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SO31gjeR1BWnrsPrO71c7_41.452892_2.235115@1306269566"
+    },
+    "wof:country":"ES",
+    "wof:created":1472584904,
+    "wof:geomhash":"da90d9f68ea2dcb6a35ae7ff31cc8b06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799485,
+            "region_id":85682663,
+            "venue_id":1007773019
+        }
+    ],
+    "wof:id":1007773019,
+    "wof:lastmodified":1472584904,
+    "wof:name":"Laboratori D'assaigs Servicons S.l.",
+    "wof:parent_id":85799485,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organismos",
+        "control"
+    ]
+},
+  "bbox": [
+    2.2351150513,
+    41.4528923035,
+    2.2351150513,
+    41.4528923035
+],
+  "geometry": {"coordinates":[2.2351150513,41.4528923035],"type":"Point"}
+}

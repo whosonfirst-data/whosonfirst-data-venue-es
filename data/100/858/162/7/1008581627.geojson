@@ -1,0 +1,66 @@
+{
+  "id": 1008581627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5820391178,40.451374054,-3.5820391178,40.451374054",
+    "geom:latitude":40.451374,
+    "geom:longitude":-3.582039,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pradoluengo, S/n",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agentes, Concesionarios Y Sucursales De Veh\u00cdculos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 47 55 85",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863629,
+        85682783,
+        85863589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UtsnxA57HVXfDfFC0cPJi_40.451374_-3.582039@1306269673"
+    },
+    "wof:country":"ES",
+    "wof:created":1472633436,
+    "wof:geomhash":"36c22c190b6820395200bce77be0cd3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863629,
+            "region_id":85682783,
+            "venue_id":1008581627
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863589,
+            "region_id":85682783,
+            "venue_id":1008581627
+        }
+    ],
+    "wof:id":1008581627,
+    "wof:lastmodified":1472633436,
+    "wof:name":"Talleres Aerosuna S. A.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5820391178,
+    40.451374054,
+    -3.5820391178,
+    40.451374054
+],
+  "geometry": {"coordinates":[-3.5820391178,40.451374054],"type":"Point"}
+}

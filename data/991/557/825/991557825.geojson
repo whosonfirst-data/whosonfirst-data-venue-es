@@ -1,0 +1,82 @@
+{
+  "id": 991557825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7094094753,40.4188346863,-3.7094094753,40.4188346863",
+    "geom:latitude":40.418835,
+    "geom:longitude":-3.709409,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Campomanes, 6",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 60 42 42",
+    "sg:postcode":"28013",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "mercado",
+        "de",
+        "estudios"
+    ],
+    "sg:website":"www.elpatio-int.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863747,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EhC4fANUgsIa4z2a4nCky_40.418835_-3.709409@1306269501"
+    },
+    "wof:country":"ES",
+    "wof:created":1472557487,
+    "wof:geomhash":"a0a1d7c1e6117e302e8a582c55fd17bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863747,
+            "region_id":85682783,
+            "venue_id":991557825
+        }
+    ],
+    "wof:id":991557825,
+    "wof:lastmodified":1472557487,
+    "wof:name":"El Patio Insights",
+    "wof:parent_id":85863747,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mercado",
+        "de",
+        "estudios"
+    ]
+},
+  "bbox": [
+    -3.7094094753,
+    40.4188346863,
+    -3.7094094753,
+    40.4188346863
+],
+  "geometry": {"coordinates":[-3.7094094753,40.4188346863],"type":"Point"}
+}

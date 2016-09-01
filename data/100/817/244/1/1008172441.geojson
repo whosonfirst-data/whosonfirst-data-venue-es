@@ -1,0 +1,59 @@
+{
+  "id": 1008172441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.455509007,38.3650512695,-0.455509007,38.3650512695",
+    "geom:latitude":38.365051,
+    "geom:longitude":-0.455509,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Albufereta, 38",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Iglesia Cat\u00d3lica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 26 22 30",
+    "sg:postcode":"03016",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864061,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qAh6srTQhLTRE5F9m5AdC_38.365051_-0.455509@1306269618"
+    },
+    "wof:country":"ES",
+    "wof:created":1472604223,
+    "wof:geomhash":"1947e88c1a1c0e43b017d80502b27db4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864061,
+            "region_id":85682625,
+            "venue_id":1008172441
+        }
+    ],
+    "wof:id":1008172441,
+    "wof:lastmodified":1472604223,
+    "wof:name":"Parroquia De La Santisima Cruz De Vistahermosa",
+    "wof:parent_id":85864061,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.455509007,
+    38.3650512695,
+    -0.455509007,
+    38.3650512695
+],
+  "geometry": {"coordinates":[-0.455509007,38.3650512695],"type":"Point"}
+}

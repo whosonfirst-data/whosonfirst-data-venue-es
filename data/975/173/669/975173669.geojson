@@ -1,0 +1,78 @@
+{
+  "id": 975173669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1611363888,41.3852996826,2.1611363888,41.3852996826",
+    "geom:latitude":41.3853,
+    "geom:longitude":2.161136,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Muntaner, 33",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asociaciones, Organismos Culturales Y Socioeducativos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 53 80 27",
+    "sg:postcode":"08011",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864035,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0neSIGt6lVk2Y64U19tQYw_41.385300_2.161136@1306269414"
+    },
+    "wof:country":"ES",
+    "wof:created":1472508862,
+    "wof:geomhash":"6e7461504dd7721f4b0a974e4f4116f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864035,
+            "region_id":85682663,
+            "venue_id":975173669
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864021,
+            "region_id":85682663,
+            "venue_id":975173669
+        }
+    ],
+    "wof:id":975173669,
+    "wof:lastmodified":1472508862,
+    "wof:name":"Agrupacio Sant Jordi D'empleats De La Caixa D'estalvis De Catalunya",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1611363888,
+    41.3852996826,
+    2.1611363888,
+    41.3852996826
+],
+  "geometry": {"coordinates":[2.1611363888,41.3852996826],"type":"Point"}
+}

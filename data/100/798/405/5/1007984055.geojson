@@ -1,0 +1,68 @@
+{
+  "id": 1007984055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0566720963,41.3880233765,2.0566720963,41.3880233765",
+    "geom:latitude":41.388023,
+    "geom:longitude":2.056672,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pg Comte De Vilardaga, 123",
+    "sg:city":"Sant Feliu Llobregat",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 936 32 53 52",
+    "sg:postcode":"08980",
+    "sg:province":"Barcelona",
+    "sg:website":"www.mercadona.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799591,
+        102191581,
+        404331371,
+        85633129,
+        404227379,
+        101758753,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Icwji9OLjQ7OPH1oW8Fut_41.388023_2.056672@1306269593"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594496,
+    "wof:geomhash":"9515ed2a35994ccab8e9c3aecacb0247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331371,
+            "locality_id":101758753,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799591,
+            "region_id":85682663,
+            "venue_id":1007984055
+        }
+    ],
+    "wof:id":1007984055,
+    "wof:lastmodified":1472594496,
+    "wof:name":"Mercadona S.a.",
+    "wof:parent_id":85799591,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0566720963,
+    41.3880233765,
+    2.0566720963,
+    41.3880233765
+],
+  "geometry": {"coordinates":[2.0566720963,41.3880233765],"type":"Point"}
+}

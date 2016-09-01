@@ -1,0 +1,67 @@
+{
+  "id": 1008353635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1077721119,41.3850326538,2.1077721119,41.3850326538",
+    "geom:latitude":41.385033,
+    "geom:longitude":2.107772,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Manuel Ballbe, 7",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 03 50 02",
+    "sg:postcode":"08034",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799325,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74gpqfjpk8OzRkiMhFSe3E_41.385033_2.107772@1306269642"
+    },
+    "wof:country":"ES",
+    "wof:created":1472623677,
+    "wof:geomhash":"e90b8128a576eff49d766c670ddda63d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799325,
+            "region_id":85682663,
+            "venue_id":1008353635
+        }
+    ],
+    "wof:id":1008353635,
+    "wof:lastmodified":1472623677,
+    "wof:name":"Ribalta Aguilera Juan",
+    "wof:parent_id":85799325,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1077721119,
+    41.3850326538,
+    2.1077721119,
+    41.3850326538
+],
+  "geometry": {"coordinates":[2.1077721119,41.3850326538],"type":"Point"}
+}

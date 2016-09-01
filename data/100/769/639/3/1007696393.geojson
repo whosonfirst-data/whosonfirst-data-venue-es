@@ -1,0 +1,59 @@
+{
+  "id": 1007696393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8725140095,41.6706695557,-0.8725140095,41.6706695557",
+    "geom:latitude":41.67067,
+    "geom:longitude":-0.872514,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Juslibol, 12",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electricidad: Instaladores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 73 32 67",
+    "sg:postcode":"50015",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863293,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16SWo7I2USUB5cyIHcaVI6_41.670670_-0.872514@1306269556"
+    },
+    "wof:country":"ES",
+    "wof:created":1472580789,
+    "wof:geomhash":"0e54a6adce61c34a2e0c74fb4158d69a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863293,
+            "region_id":85682891,
+            "venue_id":1007696393
+        }
+    ],
+    "wof:id":1007696393,
+    "wof:lastmodified":1472580789,
+    "wof:name":"Instalnep Zaragoza S.l.",
+    "wof:parent_id":85863293,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8725140095,
+    41.6706695557,
+    -0.8725140095,
+    41.6706695557
+],
+  "geometry": {"coordinates":[-0.8725140095,41.6706695557],"type":"Point"}
+}

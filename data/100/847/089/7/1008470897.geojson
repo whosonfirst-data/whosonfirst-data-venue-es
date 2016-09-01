@@ -1,0 +1,67 @@
+{
+  "id": 1008470897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1461889744,41.3986091614,2.1461889744,41.3986091614",
+    "geom:latitude":41.398609,
+    "geom:longitude":2.146189,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Aribau, 253",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 01 24 25",
+    "sg:postcode":"08021",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799611,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21NycgIcJq34OkvtPlVPl2_41.398609_2.146189@1306269658"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628753,
+    "wof:geomhash":"355fde8290f90c1e70dc3bb0b6b0e894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799611,
+            "region_id":85682663,
+            "venue_id":1008470897
+        }
+    ],
+    "wof:id":1008470897,
+    "wof:lastmodified":1472628753,
+    "wof:name":"Sans Pascual Sebastian",
+    "wof:parent_id":85799611,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1461889744,
+    41.3986091614,
+    2.1461889744,
+    41.3986091614
+],
+  "geometry": {"coordinates":[2.1461889744,41.3986091614],"type":"Point"}
+}

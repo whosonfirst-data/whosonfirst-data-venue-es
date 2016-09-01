@@ -1,0 +1,67 @@
+{
+  "id": 1008262379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6543281078,40.407875061,-3.6543281078,40.407875061",
+    "geom:latitude":40.407875,
+    "geom:longitude":-3.654328,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Entre Arroyos, 23",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 39 56 43",
+    "sg:postcode":"28030",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863715,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55IIGh1IjDz7rzOPbAjrDU_40.407875_-3.654328@1306269630"
+    },
+    "wof:country":"ES",
+    "wof:created":1472616637,
+    "wof:geomhash":"7f6caa49cc884d353d1830cbc7600f93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863715,
+            "region_id":85682783,
+            "venue_id":1008262379
+        }
+    ],
+    "wof:id":1008262379,
+    "wof:lastmodified":1472616637,
+    "wof:name":"Porta Villanueva Amparo",
+    "wof:parent_id":85863715,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6543281078,
+    40.407875061,
+    -3.6543281078,
+    40.407875061
+],
+  "geometry": {"coordinates":[-3.6543281078,40.407875061],"type":"Point"}
+}

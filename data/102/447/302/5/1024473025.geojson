@@ -1,0 +1,78 @@
+{
+  "id": 1024473025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1561803818,41.3771133423,2.1561803818,41.3771133423",
+    "geom:latitude":41.377113,
+    "geom:longitude":2.15618,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Rocafort, 41",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 19 21 22",
+    "sg:postcode":"08015",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864037,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2weMVwRFbjE2AmJaRnroMP_41.377113_2.156180@1306269694"
+    },
+    "wof:country":"ES",
+    "wof:created":1472640475,
+    "wof:geomhash":"c43d97cb7ea8379e0aac89732c923b09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864037,
+            "region_id":85682663,
+            "venue_id":1024473025
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864027,
+            "region_id":85682663,
+            "venue_id":1024473025
+        }
+    ],
+    "wof:id":1024473025,
+    "wof:lastmodified":1472640475,
+    "wof:name":"Vi\u00f1als Manent Fidel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1561803818,
+    41.3771133423,
+    2.1561803818,
+    41.3771133423
+],
+  "geometry": {"coordinates":[2.1561803818,41.3771133423],"type":"Point"}
+}

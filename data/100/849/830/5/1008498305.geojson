@@ -1,0 +1,59 @@
+{
+  "id": 1008498305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6355249882,40.5422439575,-3.6355249882,40.5422439575",
+    "geom:latitude":40.542244,
+    "geom:longitude":-3.635525,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Constitucion (de La), 24",
+    "sg:city":"Alcobendas",
+    "sg:classifiers":[],
+    "sg:orig_category":"Herboristas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 52 15 67",
+    "sg:postcode":"28100",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nWc5ggwt9AQFrnKvjYvT6_40.542244_-3.635525@1306269662"
+    },
+    "wof:country":"ES",
+    "wof:created":1472629937,
+    "wof:geomhash":"903e7714a6d8cff5b946431fec08c780",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1008498305
+        }
+    ],
+    "wof:id":1008498305,
+    "wof:lastmodified":1472629937,
+    "wof:name":"Sendra Puglisi Liliana",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6355249882,
+    40.5422439575,
+    -3.6355249882,
+    40.5422439575
+],
+  "geometry": {"coordinates":[-3.6355249882,40.5422439575],"type":"Point"}
+}

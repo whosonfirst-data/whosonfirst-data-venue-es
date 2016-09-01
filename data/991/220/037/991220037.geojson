@@ -1,0 +1,79 @@
+{
+  "id": 991220037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8624979854,41.6451377869,-0.8624979854,41.6451377869",
+    "geom:latitude":41.645138,
+    "geom:longitude":-0.862498,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Compromiso De Caspe, 68",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cajas De Ahorro",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 42 81 14",
+    "sg:postcode":"50002",
+    "sg:province":"Zaragoza",
+    "sg:website":"www.ruralvia.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863349,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891,
+        85863355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uUDdJ97PWyGWH9EoBNB9z_41.645138_-0.862498@1306269456"
+    },
+    "wof:country":"ES",
+    "wof:created":1472538497,
+    "wof:geomhash":"7078bd1d5467639956ae5c946a590dca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863349,
+            "region_id":85682891,
+            "venue_id":991220037
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863355,
+            "region_id":85682891,
+            "venue_id":991220037
+        }
+    ],
+    "wof:id":991220037,
+    "wof:lastmodified":1472538497,
+    "wof:name":"Caja Rural Aragonesa Y De Los Pirineos",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8624979854,
+    41.6451377869,
+    -0.8624979854,
+    41.6451377869
+],
+  "geometry": {"coordinates":[-0.8624979854,41.6451377869],"type":"Point"}
+}

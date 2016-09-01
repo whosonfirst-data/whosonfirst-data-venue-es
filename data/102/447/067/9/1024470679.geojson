@@ -1,0 +1,90 @@
+{
+  "id": 1024470679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6298828125,39.5675239563,2.6298828125,39.5675239563",
+    "geom:latitude":39.567524,
+    "geom:longitude":2.629883,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Gabriel Roca, 19",
+    "sg:city":"Palma",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 73 88 46",
+    "sg:postcode":"07014",
+    "sg:province":"Islas Baleares",
+    "sg:tags":[
+        "planchas",
+        "surf",
+        "alquiler",
+        "de",
+        "vela",
+        "kayak",
+        "barcos",
+        "canoes",
+        "y"
+    ],
+    "sg:website":"www.vivacharter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748237,
+        85864109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2o4q1rCMa5hiDEhhQDrZOV_39.567524_2.629883@1306269694"
+    },
+    "wof:country":"ES",
+    "wof:created":1472640371,
+    "wof:geomhash":"4c1cf95fb04e09ab2f49a829e38dbfe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748237,
+            "neighbourhood_id":85864109,
+            "region_id":-1,
+            "venue_id":1024470679
+        }
+    ],
+    "wof:id":1024470679,
+    "wof:lastmodified":1472640371,
+    "wof:name":"Viva Yacht Charter S.l.",
+    "wof:parent_id":85864109,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "planchas",
+        "surf",
+        "alquiler",
+        "de",
+        "vela",
+        "kayak",
+        "barcos",
+        "canoes",
+        "y"
+    ]
+},
+  "bbox": [
+    2.6298828125,
+    39.5675239563,
+    2.6298828125,
+    39.5675239563
+],
+  "geometry": {"coordinates":[2.6298828125,39.5675239563],"type":"Point"}
+}

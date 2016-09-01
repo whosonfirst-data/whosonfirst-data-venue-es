@@ -1,0 +1,74 @@
+{
+  "id": 991638515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4766049981,38.3592529297,-0.4766049981,38.3592529297",
+    "geom:latitude":38.359253,
+    "geom:longitude":-0.476605,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Bejar, 4",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Peluqueros: De Se\u00d1oras",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 21 39 38",
+    "sg:postcode":"03013",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864063,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625,
+        85864065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bgP9qJbvdVxM6ssrgbM92_38.359253_-0.476605@1306269512"
+    },
+    "wof:country":"ES",
+    "wof:created":1472562415,
+    "wof:geomhash":"223a8c0e529531d86658e08db5539f92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864063,
+            "region_id":85682625,
+            "venue_id":991638515
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864065,
+            "region_id":85682625,
+            "venue_id":991638515
+        }
+    ],
+    "wof:id":991638515,
+    "wof:lastmodified":1472562415,
+    "wof:name":"Fernandez Fernandez Herminia",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4766049981,
+    38.3592529297,
+    -0.4766049981,
+    38.3592529297
+],
+  "geometry": {"coordinates":[-0.4766049981,38.3592529297],"type":"Point"}
+}

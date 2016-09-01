@@ -1,0 +1,67 @@
+{
+  "id": 1007962483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1491808891,41.4013442993,2.1491808891,41.4013442993",
+    "geom:latitude":41.401344,
+    "geom:longitude":2.149181,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Via Augusta, 106",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 02 44 40",
+    "sg:postcode":"08006",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799393,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mSBoKO3euGCp8HJngWx1T_41.401344_2.149181@1306269590"
+    },
+    "wof:country":"ES",
+    "wof:created":1472593654,
+    "wof:geomhash":"d987a45691b4b6c604d505954b169646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799393,
+            "region_id":85682663,
+            "venue_id":1007962483
+        }
+    ],
+    "wof:id":1007962483,
+    "wof:lastmodified":1472593654,
+    "wof:name":"Maymo Obradors Fabian",
+    "wof:parent_id":85799393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1491808891,
+    41.4013442993,
+    2.1491808891,
+    41.4013442993
+],
+  "geometry": {"coordinates":[2.1491808891,41.4013442993],"type":"Point"}
+}

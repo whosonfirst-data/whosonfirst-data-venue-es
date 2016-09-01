@@ -1,0 +1,59 @@
+{
+  "id": 991182821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2450649738,41.4503440857,2.2450649738,41.4503440857",
+    "geom:latitude":41.450344,
+    "geom:longitude":2.245065,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carr Prim, 107",
+    "sg:city":"Badalona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bazares, Art\u00cdculos De Limpieza Y De Cocina (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 64 22 47",
+    "sg:postcode":"08911",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799485,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MbTwBuZPFPU4YYXbjFztb_41.450344_2.245065@1306269451"
+    },
+    "wof:country":"ES",
+    "wof:created":1472535123,
+    "wof:geomhash":"ea53fee4eb6f731be832bd4e406980a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799485,
+            "region_id":85682663,
+            "venue_id":991182821
+        }
+    ],
+    "wof:id":991182821,
+    "wof:lastmodified":1472535123,
+    "wof:name":"Buenaventura Roca Rosa",
+    "wof:parent_id":85799485,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2450649738,
+    41.4503440857,
+    2.2450649738,
+    41.4503440857
+],
+  "geometry": {"coordinates":[2.2450649738,41.4503440857],"type":"Point"}
+}

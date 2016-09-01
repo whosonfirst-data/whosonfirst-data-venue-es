@@ -1,0 +1,60 @@
+{
+  "id": 1008517223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1034400463,41.5430717468,2.1034400463,41.5430717468",
+    "geom:latitude":41.543072,
+    "geom:longitude":2.10344,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ctra Barcelona, 11",
+    "sg:city":"Sabadell",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pintura, Barniz, Productos Asimilables (fabricaci\u00d3n, Al Por Mayor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 27 33 19",
+    "sg:postcode":"08201",
+    "sg:province":"Barcelona",
+    "sg:website":"www.sesep.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TGuJY33KWaQA6l7cUqY8b_41.543072_2.103440@1306269664"
+    },
+    "wof:country":"ES",
+    "wof:created":1472630742,
+    "wof:geomhash":"96c7df512a8549b9e49f0d584ac2dc7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008517223
+        }
+    ],
+    "wof:id":1008517223,
+    "wof:lastmodified":1472630742,
+    "wof:name":"Sesep S.l.",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1034400463,
+    41.5430717468,
+    2.1034400463,
+    41.5430717468
+],
+  "geometry": {"coordinates":[2.1034400463,41.5430717468],"type":"Point"}
+}

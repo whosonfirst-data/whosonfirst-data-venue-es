@@ -1,0 +1,59 @@
+{
+  "id": 990945317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8094832897,43.4629669189,-3.8094832897,43.4629669189",
+    "geom:latitude":43.462967,
+    "geom:longitude":-3.809483,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Esperanza, S/n",
+    "sg:city":"Santander",
+    "sg:classifiers":[],
+    "sg:orig_category":"Frutas, Legumbres Frescas Y Tempranas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 22 12 33",
+    "sg:postcode":"39001",
+    "sg:province":"Cantabria",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799303,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zUi24fPBoxLZQYGXmbqRU_43.462967_-3.809483@1306269420"
+    },
+    "wof:country":"ES",
+    "wof:created":1472513311,
+    "wof:geomhash":"03359c8e733620d8cfe596eda118a313",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799303,
+            "region_id":85682833,
+            "venue_id":990945317
+        }
+    ],
+    "wof:id":990945317,
+    "wof:lastmodified":1472513311,
+    "wof:name":"Alonso Imaz Cecilio",
+    "wof:parent_id":85799303,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8094832897,
+    43.4629669189,
+    -3.8094832897,
+    43.4629669189
+],
+  "geometry": {"coordinates":[-3.8094832897,43.4629669189],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1008701141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-8.2117652893,43.4850883484,-8.2117652893,43.4850883484",
+    "geom:latitude":43.485088,
+    "geom:longitude":-8.211765,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rua G, 36",
+    "sg:city":"Ferrol",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alimentaci\u00d3n General (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 981 32 05 07",
+    "sg:postcode":"15406",
+    "sg:province":"A Coru\u00f1a",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101748407,
+        85799423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FHUckkmKTRC7n12seuNd7_43.485088_-8.211765@1306269689"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638584,
+    "wof:geomhash":"98c449a6ad1fcf5687ff60df204c59c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748407,
+            "neighbourhood_id":85799423,
+            "region_id":-1,
+            "venue_id":1008701141
+        }
+    ],
+    "wof:id":1008701141,
+    "wof:lastmodified":1472638584,
+    "wof:name":"Veiga Lopez Andres",
+    "wof:parent_id":85799423,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.2117652893,
+    43.4850883484,
+    -8.2117652893,
+    43.4850883484
+],
+  "geometry": {"coordinates":[-8.2117652893,43.4850883484],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1008475789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.7712278366,37.8911628723,-4.7712278366,37.8911628723",
+    "geom:latitude":37.891163,
+    "geom:longitude":-4.771228,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Rinconada San Antonio, 4",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 48 41 67",
+    "sg:postcode":"14001",
+    "sg:province":"C\u00f3rdoba",
+    "sg:tags":[
+        "en",
+        "fundiciones"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863895,
+        102191581,
+        404333687,
+        85633129,
+        404227361,
+        101748233,
+        85682697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FD9pk2MsreCWLIAjzOoec_37.891163_-4.771228@1306269659"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628940,
+    "wof:geomhash":"351ca2a43cb28d1d078b404fbf2e754d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863895,
+            "region_id":85682697,
+            "venue_id":1008475789
+        }
+    ],
+    "wof:id":1008475789,
+    "wof:lastmodified":1472628940,
+    "wof:name":"Santisteban Mu\u00f1oz Jose",
+    "wof:parent_id":85863895,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "en",
+        "fundiciones"
+    ]
+},
+  "bbox": [
+    -4.7712278366,
+    37.8911628723,
+    -4.7712278366,
+    37.8911628723
+],
+  "geometry": {"coordinates":[-4.7712278366,37.8911628723],"type":"Point"}
+}

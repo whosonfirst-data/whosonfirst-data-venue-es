@@ -1,0 +1,67 @@
+{
+  "id": 1007841819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3724152148,39.4601325989,-0.3724152148,39.4601325989",
+    "geom:latitude":39.460133,
+    "geom:longitude":-0.372415,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Cadiz, 80",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 74 41 26",
+    "sg:postcode":"46006",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864201,
+        102191581,
+        404345361,
+        85633129,
+        404227381,
+        101748241,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4woEVpL5zlqgw9RAdPUmqs_39.460133_-0.372415@1306269575"
+    },
+    "wof:country":"ES",
+    "wof:created":1472588303,
+    "wof:geomhash":"d1661e359e51cf334a8f172524b1d3bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345361,
+            "locality_id":101748241,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864201,
+            "region_id":85682867,
+            "venue_id":1007841819
+        }
+    ],
+    "wof:id":1007841819,
+    "wof:lastmodified":1472588303,
+    "wof:name":"Lopez Oroval Josefina",
+    "wof:parent_id":85864201,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3724152148,
+    39.4601325989,
+    -0.3724152148,
+    39.4601325989
+],
+  "geometry": {"coordinates":[-0.3724152148,39.4601325989],"type":"Point"}
+}

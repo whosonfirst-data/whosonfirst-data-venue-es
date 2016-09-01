@@ -1,0 +1,81 @@
+{
+  "id": 1008457321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9711489677,37.3731002808,-5.9711489677,37.3731002808",
+    "geom:latitude":37.3731,
+    "geom:longitude":-5.971149,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Alcalde Juan Fernandez, 15",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 92 00 14",
+    "sg:postcode":"41005",
+    "sg:province":"Sevilla",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864187,
+        102191581,
+        404342947,
+        85633129,
+        404227361,
+        101748225,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fh8DiEOpn7Ye0MNJg6bfQ_37.373100_-5.971149@1306269656"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628203,
+    "wof:geomhash":"379dac37dd77e44a7b2e2139ee3a7d3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864187,
+            "region_id":85682841,
+            "venue_id":1008457321
+        }
+    ],
+    "wof:id":1008457321,
+    "wof:lastmodified":1472628203,
+    "wof:name":"Sanchez Moya Joaquin",
+    "wof:parent_id":85864187,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -5.9711489677,
+    37.3731002808,
+    -5.9711489677,
+    37.3731002808
+],
+  "geometry": {"coordinates":[-5.9711489677,37.3731002808],"type":"Point"}
+}

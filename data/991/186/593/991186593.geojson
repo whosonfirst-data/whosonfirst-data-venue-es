@@ -1,0 +1,73 @@
+{
+  "id": 991186593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5955688953,37.1623573303,-3.5955688953,37.1623573303",
+    "geom:latitude":37.162357,
+    "geom:longitude":-3.595569,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Primavera, 10",
+    "sg:city":"Granada",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 81 12 51",
+    "sg:postcode":"18006",
+    "sg:province":"Granada",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863847,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2brheLGNOJtCMGdgtfgHzH_37.162357_-3.595569@1306269452"
+    },
+    "wof:country":"ES",
+    "wof:created":1472535437,
+    "wof:geomhash":"74a8fb10d9db583bd6c0b6aaf704728d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863847,
+            "region_id":85682731,
+            "venue_id":991186593
+        }
+    ],
+    "wof:id":991186593,
+    "wof:lastmodified":1472535437,
+    "wof:name":"Burgos Martinez Jesus Miguel",
+    "wof:parent_id":85863847,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.5955688953,
+    37.1623573303,
+    -3.5955688953,
+    37.1623573303
+],
+  "geometry": {"coordinates":[-3.5955688953,37.1623573303],"type":"Point"}
+}

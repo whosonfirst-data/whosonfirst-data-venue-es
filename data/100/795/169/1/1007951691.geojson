@@ -1,0 +1,67 @@
+{
+  "id": 1007951691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1406049728,41.3892555237,2.1406049728,41.3892555237",
+    "geom:latitude":41.389256,
+    "geom:longitude":2.140605,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Bordeus, 22",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 22 22 27",
+    "sg:postcode":"08029",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799597,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1COg8S2qjNvSdwsuTmsEcd_41.389256_2.140605@1306269589"
+    },
+    "wof:country":"ES",
+    "wof:created":1472593197,
+    "wof:geomhash":"d3680f25a1cb641637ad6867e4cbe3b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799597,
+            "region_id":85682663,
+            "venue_id":1007951691
+        }
+    ],
+    "wof:id":1007951691,
+    "wof:lastmodified":1472593197,
+    "wof:name":"Masia Tort Rafael",
+    "wof:parent_id":85799597,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1406049728,
+    41.3892555237,
+    2.1406049728,
+    41.3892555237
+],
+  "geometry": {"coordinates":[2.1406049728,41.3892555237],"type":"Point"}
+}

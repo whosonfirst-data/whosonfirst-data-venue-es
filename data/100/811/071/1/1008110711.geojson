@@ -1,0 +1,63 @@
+{
+  "id": 1008110711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.626411438,39.5693359375,2.626411438,39.5693359375",
+    "geom:latitude":39.569336,
+    "geom:longitude":2.626411,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Alferez Cerda, 13",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Iglesia Cat\u00d3lica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 73 37 32",
+    "sg:postcode":"07014",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748237,
+        85864109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yc3JzkFNOhVrBfnaYacty_39.569336_2.626411@1306269609"
+    },
+    "wof:country":"ES",
+    "wof:created":1472599982,
+    "wof:geomhash":"e891ec8ed91bb27e45dc50751965038f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748237,
+            "neighbourhood_id":85864109,
+            "region_id":-1,
+            "venue_id":1008110711
+        }
+    ],
+    "wof:id":1008110711,
+    "wof:lastmodified":1472599982,
+    "wof:name":"Obispado De Mallorca",
+    "wof:parent_id":85864109,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.626411438,
+    39.5693359375,
+    2.626411438,
+    39.5693359375
+],
+  "geometry": {"coordinates":[2.626411438,39.5693359375],"type":"Point"}
+}

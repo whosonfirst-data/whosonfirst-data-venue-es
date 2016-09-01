@@ -1,0 +1,81 @@
+{
+  "id": 991059405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.791580677,37.8863983154,-4.791580677,37.8863983154",
+    "geom:latitude":37.886398,
+    "geom:longitude":-4.791581,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Musico Ziryab, 2",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 41 08 08",
+    "sg:postcode":"14005",
+    "sg:province":"C\u00f3rdoba",
+    "sg:tags":[
+        "de",
+        "industrial",
+        "alquiler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863885,
+        102191581,
+        404333687,
+        85633129,
+        404227361,
+        101748233,
+        85682697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IasFaiAGTT5L53sRzoIW7_37.886398_-4.791581@1306269435"
+    },
+    "wof:country":"ES",
+    "wof:created":1472523596,
+    "wof:geomhash":"071478ab6472f8ec071492e01a2e8a5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863885,
+            "region_id":85682697,
+            "venue_id":991059405
+        }
+    ],
+    "wof:id":991059405,
+    "wof:lastmodified":1472523596,
+    "wof:name":"Automaticos Tesa S. L.",
+    "wof:parent_id":85863885,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "industrial",
+        "alquiler"
+    ]
+},
+  "bbox": [
+    -4.791580677,
+    37.8863983154,
+    -4.791580677,
+    37.8863983154
+],
+  "geometry": {"coordinates":[-4.791580677,37.8863983154],"type":"Point"}
+}

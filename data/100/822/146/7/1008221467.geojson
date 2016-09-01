@@ -1,0 +1,59 @@
+{
+  "id": 1008221467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7748453617,40.3341674805,-3.7748453617,40.3341674805",
+    "geom:latitude":40.334167,
+    "geom:longitude":-3.774845,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Rio Guadiana, 14",
+    "sg:city":"Leganes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Comercio, Reparaci\u00d3n De Motocicletas, Bicicletas Y Piezas Sueltas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 93 38 59",
+    "sg:postcode":"28913",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863785,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mQ6caHeVTBYs00wGeSllA_40.334167_-3.774845@1306269625"
+    },
+    "wof:country":"ES",
+    "wof:created":1472613462,
+    "wof:geomhash":"b72b28ace1936e416126c753da7a6c25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863785,
+            "region_id":85682783,
+            "venue_id":1008221467
+        }
+    ],
+    "wof:id":1008221467,
+    "wof:lastmodified":1472613462,
+    "wof:name":"Perez Roales Feliciano",
+    "wof:parent_id":85863785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7748453617,
+    40.3341674805,
+    -3.7748453617,
+    40.3341674805
+],
+  "geometry": {"coordinates":[-3.7748453617,40.3341674805],"type":"Point"}
+}

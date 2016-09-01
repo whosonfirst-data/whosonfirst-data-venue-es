@@ -1,0 +1,77 @@
+{
+  "id": 1008396615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.4560370445,36.6974372864,-4.4560370445,36.6974372864",
+    "geom:latitude":36.697437,
+    "geom:longitude":-4.456037,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Antonio Gaudi, 2",
+    "sg:city":"Malaga",
+    "sg:classifiers":[
+        {
+            "category":"Tea Room",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 17 33 06",
+    "sg:postcode":"29004",
+    "sg:province":"M\u00e1laga",
+    "sg:tags":[
+        "snack"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863533,
+        102191581,
+        404339241,
+        85633129,
+        404227361,
+        101748185,
+        85682787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39hxrZL28aEXGQievI9beA_36.697437_-4.456037@1306269648"
+    },
+    "wof:country":"ES",
+    "wof:created":1472625578,
+    "wof:geomhash":"655608cb3737fe80c42845fb66bfbb90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863533,
+            "region_id":85682787,
+            "venue_id":1008396615
+        }
+    ],
+    "wof:id":1008396615,
+    "wof:lastmodified":1472625578,
+    "wof:name":"Roman Diaz Maria Engracia",
+    "wof:parent_id":85863533,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snack"
+    ]
+},
+  "bbox": [
+    -4.4560370445,
+    36.6974372864,
+    -4.4560370445,
+    36.6974372864
+],
+  "geometry": {"coordinates":[-4.4560370445,36.6974372864],"type":"Point"}
+}

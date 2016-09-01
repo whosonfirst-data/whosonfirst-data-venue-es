@@ -1,0 +1,81 @@
+{
+  "id": 1007999675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8823119998,41.6444816589,-0.8823119998,41.6444816589",
+    "geom:latitude":41.644482,
+    "geom:longitude":-0.882312,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pedro Maria Ric, 25",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 21 76 52",
+    "sg:postcode":"50008",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863361,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KsvaH9MulXZGmnl6Fi6Pa_41.644482_-0.882312@1306269595"
+    },
+    "wof:country":"ES",
+    "wof:created":1472595184,
+    "wof:geomhash":"006a6f4aa6908e11bb4f39ac11165ed3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863361,
+            "region_id":85682891,
+            "venue_id":1007999675
+        }
+    ],
+    "wof:id":1007999675,
+    "wof:lastmodified":1472595184,
+    "wof:name":"Millan Sanchez Pablo",
+    "wof:parent_id":85863361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -0.8823119998,
+    41.6444816589,
+    -0.8823119998,
+    41.6444816589
+],
+  "geometry": {"coordinates":[-0.8823119998,41.6444816589],"type":"Point"}
+}

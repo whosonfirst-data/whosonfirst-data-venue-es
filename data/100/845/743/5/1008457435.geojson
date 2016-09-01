@@ -1,0 +1,80 @@
+{
+  "id": 1008457435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0877540112,41.372215271,2.0877540112,41.372215271",
+    "geom:latitude":41.372215,
+    "geom:longitude":2.087754,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Mestre Joan Corrales, 67",
+    "sg:city":"Esplugues Llobregat",
+    "sg:classifiers":[],
+    "sg:orig_category":"Estilistas Y Estudios De Estilo De Corte Y Confecci\u00d3n",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 72 28 52",
+    "sg:postcode":"08950",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799591,
+        102191581,
+        404331371,
+        85633129,
+        404227379,
+        101758753,
+        85682663,
+        85799283,
+        404331105,
+        101748333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xQA5VFEE4dYAEUk5Qtld9_41.372215_2.087754@1306269656"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628207,
+    "wof:geomhash":"420c8437135e453c2c1605a3abeef45f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331371,
+            "locality_id":101758753,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799591,
+            "region_id":85682663,
+            "venue_id":1008457435
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331105,
+            "locality_id":101748333,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799283,
+            "region_id":85682663,
+            "venue_id":1008457435
+        }
+    ],
+    "wof:id":1008457435,
+    "wof:lastmodified":1472628207,
+    "wof:name":"Sanchez Mu\u00f1oz Francisco",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0877540112,
+    41.372215271,
+    2.0877540112,
+    41.372215271
+],
+  "geometry": {"coordinates":[2.0877540112,41.372215271],"type":"Point"}
+}

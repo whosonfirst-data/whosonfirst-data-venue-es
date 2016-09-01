@@ -1,0 +1,64 @@
+{
+  "id": 991827843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.636400938,40.5389900208,-3.636400938,40.5389900208",
+    "geom:latitude":40.53899,
+    "geom:longitude":-3.636401,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Libertad (de La), 44",
+    "sg:city":"Alcobendas",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 61 70 06",
+    "sg:postcode":"28100",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21QTVeOHIkQJzztUNZp8gy_40.538990_-3.636401@1306269537"
+    },
+    "wof:country":"ES",
+    "wof:created":1472573492,
+    "wof:geomhash":"3a1b4c14053bee5a9f69aecd8bb57d80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":991827843
+        }
+    ],
+    "wof:id":991827843,
+    "wof:lastmodified":1472573492,
+    "wof:name":"Gonzalez Jimenez Rosario",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.636400938,
+    40.5389900208,
+    -3.636400938,
+    40.5389900208
+],
+  "geometry": {"coordinates":[-3.636400938,40.5389900208],"type":"Point"}
+}

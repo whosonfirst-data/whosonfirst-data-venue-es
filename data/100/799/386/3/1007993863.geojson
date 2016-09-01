@@ -1,0 +1,81 @@
+{
+  "id": 1007993863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9963712692,37.377620697,-5.9963712692,37.377620697",
+    "geom:latitude":37.377621,
+    "geom:longitude":-5.996371,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Virgen De Regla, 1",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 67 67 10",
+    "sg:postcode":"41011",
+    "sg:province":"Sevilla",
+    "sg:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864129,
+        102191581,
+        404342947,
+        85633129,
+        404227361,
+        101748225,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zuNdlZTMWbR04UzBeA1Uw_37.377621_-5.996371@1306269594"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594931,
+    "wof:geomhash":"8b37273281d3ea841867f66ae964f6b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864129,
+            "region_id":85682841,
+            "venue_id":1007993863
+        }
+    ],
+    "wof:id":1007993863,
+    "wof:lastmodified":1472594931,
+    "wof:name":"Mibam S.l.",
+    "wof:parent_id":85864129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ]
+},
+  "bbox": [
+    -5.9963712692,
+    37.377620697,
+    -5.9963712692,
+    37.377620697
+],
+  "geometry": {"coordinates":[-5.9963712692,37.377620697],"type":"Point"}
+}

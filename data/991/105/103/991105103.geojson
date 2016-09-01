@@ -1,0 +1,60 @@
+{
+  "id": 991105103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1778769493,41.4852294922,2.1778769493,41.4852294922",
+    "geom:latitude":41.485229,
+    "geom:longitude":2.177877,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Ferreria (la), S/n",
+    "sg:city":"Terra Nostra",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 935 75 32 73",
+    "sg:postcode":"08110",
+    "sg:province":"Barcelona",
+    "sg:website":"www.bancosabadell.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799639,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_357FcWTnytaExFfVc00nUc_41.485229_2.177877@1306269441"
+    },
+    "wof:country":"ES",
+    "wof:created":1472527181,
+    "wof:geomhash":"fc4cdb6458ef203745eb657e116c0e1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799639,
+            "region_id":85682663,
+            "venue_id":991105103
+        }
+    ],
+    "wof:id":991105103,
+    "wof:lastmodified":1472527181,
+    "wof:name":"Banc Sabadell S.a.",
+    "wof:parent_id":85799639,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1778769493,
+    41.4852294922,
+    2.1778769493,
+    41.4852294922
+],
+  "geometry": {"coordinates":[2.1778769493,41.4852294922],"type":"Point"}
+}

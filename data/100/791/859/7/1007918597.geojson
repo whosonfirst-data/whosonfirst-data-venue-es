@@ -1,0 +1,67 @@
+{
+  "id": 1007918597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1536750793,41.3835525513,2.1536750793,41.3835525513",
+    "geom:latitude":41.383553,
+    "geom:longitude":2.153675,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Arago, 100",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asistencia Y Consejos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 23 28 53",
+    "sg:postcode":"08015",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864021,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gOf0SCLVHxsutEOxrORq6_41.383553_2.153675@1306269585"
+    },
+    "wof:country":"ES",
+    "wof:created":1472591689,
+    "wof:geomhash":"b8f9a0ef2f580bd35cb3b1f648c812dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864021,
+            "region_id":85682663,
+            "venue_id":1007918597
+        }
+    ],
+    "wof:id":1007918597,
+    "wof:lastmodified":1472591689,
+    "wof:name":"Martinez Andres Luis",
+    "wof:parent_id":85864021,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1536750793,
+    41.3835525513,
+    2.1536750793,
+    41.3835525513
+],
+  "geometry": {"coordinates":[2.1536750793,41.3835525513],"type":"Point"}
+}

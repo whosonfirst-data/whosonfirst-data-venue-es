@@ -1,0 +1,73 @@
+{
+  "id": 991805801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7549250126,40.3872032166,-3.7549250126,40.3872032166",
+    "geom:latitude":40.387203,
+    "geom:longitude":-3.754925,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Oca\u00d1a, 128",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 17 32 86",
+    "sg:postcode":"28047",
+    "sg:province":"Madrid",
+    "sg:website":"www.conductornobel.es/ocana",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863765,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PlufdCA7E4IU84gNVfgiE_40.387203_-3.754925@1306269534"
+    },
+    "wof:country":"ES",
+    "wof:created":1472572251,
+    "wof:geomhash":"809bfad98aafa79e53c3d8d7a33fba2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863765,
+            "region_id":85682783,
+            "venue_id":991805801
+        }
+    ],
+    "wof:id":991805801,
+    "wof:lastmodified":1472572251,
+    "wof:name":"Gomez Anton Bernardino",
+    "wof:parent_id":85863765,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7549250126,
+    40.3872032166,
+    -3.7549250126,
+    40.3872032166
+],
+  "geometry": {"coordinates":[-3.7549250126,40.3872032166],"type":"Point"}
+}

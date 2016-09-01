@@ -1,0 +1,67 @@
+{
+  "id": 1008212303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8790900111,41.6541023254,-0.8790900111,41.6541023254",
+    "geom:latitude":41.654102,
+    "geom:longitude":-0.87909,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Santa Cruz, 11",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Procuradores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 29 85 00",
+    "sg:postcode":"50003",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863325,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oxsT4WvsxRMiMxs8x8KKp_41.654102_-0.879090@1306269623"
+    },
+    "wof:country":"ES",
+    "wof:created":1472612361,
+    "wof:geomhash":"13869c2819e4cdc71c71fc0073c86af2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863325,
+            "region_id":85682891,
+            "venue_id":1008212303
+        }
+    ],
+    "wof:id":1008212303,
+    "wof:lastmodified":1472612361,
+    "wof:name":"Perez Ferrer Concepcion",
+    "wof:parent_id":85863325,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8790900111,
+    41.6541023254,
+    -0.8790900111,
+    41.6541023254
+],
+  "geometry": {"coordinates":[-0.8790900111,41.6541023254],"type":"Point"}
+}

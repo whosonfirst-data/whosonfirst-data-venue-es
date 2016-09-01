@@ -1,0 +1,72 @@
+{
+  "id": 991055861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3771783113,39.4381523132,-0.3771783113,39.4381523132",
+    "geom:latitude":39.438152,
+    "geom:longitude":-0.377178,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ctra Malilla, 50",
+    "sg:city":"Valencia",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 74 72 19",
+    "sg:postcode":"46026",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864197,
+        102191581,
+        404345301,
+        85633129,
+        404227381,
+        101832461,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xS79axxtVFhsWr78YJaSV_39.438152_-0.377178@1306269434"
+    },
+    "wof:country":"ES",
+    "wof:created":1472523342,
+    "wof:geomhash":"2813405afa893d5cab7dc2e90ea10c02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345301,
+            "locality_id":101832461,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864197,
+            "region_id":85682867,
+            "venue_id":991055861
+        }
+    ],
+    "wof:id":991055861,
+    "wof:lastmodified":1472523342,
+    "wof:name":"Autoescuela Canovas S.l.",
+    "wof:parent_id":85864197,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3771783113,
+    39.4381523132,
+    -0.3771783113,
+    39.4381523132
+],
+  "geometry": {"coordinates":[-0.3771783113,39.4381523132],"type":"Point"}
+}

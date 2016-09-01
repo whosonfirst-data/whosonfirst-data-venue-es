@@ -1,0 +1,59 @@
+{
+  "id": 1007945525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7642641068,40.2530021667,-3.7642641068,40.2530021667",
+    "geom:latitude":40.253002,
+    "geom:longitude":-3.764264,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Moriles, 9",
+    "sg:city":"Parla",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reciclaje, Tratamiento De Pl\u00c1sticos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 99 46 31",
+    "sg:postcode":"28980",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jYmi16m7vZGdG9Hac7qtv_40.253002_-3.764264@1306269588"
+    },
+    "wof:country":"ES",
+    "wof:created":1472592939,
+    "wof:geomhash":"1d2afc231ff3d6a7715f98eff258d1e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1007945525
+        }
+    ],
+    "wof:id":1007945525,
+    "wof:lastmodified":1472592939,
+    "wof:name":"Martin Rey Alejandro",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7642641068,
+    40.2530021667,
+    -3.7642641068,
+    40.2530021667
+],
+  "geometry": {"coordinates":[-3.7642641068,40.2530021667],"type":"Point"}
+}

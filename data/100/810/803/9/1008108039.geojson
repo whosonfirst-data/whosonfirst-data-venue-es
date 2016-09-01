@@ -1,0 +1,81 @@
+{
+  "id": 1008108039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1805500984,41.4141540527,2.1805500984,41.4141540527",
+    "geom:latitude":41.414154,
+    "geom:longitude":2.18055,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Industria, 282",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 35 63 25",
+    "sg:postcode":"08026",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864001,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qURKXqcfSad4ehxfQ4jXV_41.414154_2.180550@1306269609"
+    },
+    "wof:country":"ES",
+    "wof:created":1472599859,
+    "wof:geomhash":"161866e5cde3a8934d9b8e110a97470e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864001,
+            "region_id":85682663,
+            "venue_id":1008108039
+        }
+    ],
+    "wof:id":1008108039,
+    "wof:lastmodified":1472599859,
+    "wof:name":"Nu\u00f1ez Medina Francisco",
+    "wof:parent_id":85864001,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.1805500984,
+    41.4141540527,
+    2.1805500984,
+    41.4141540527
+],
+  "geometry": {"coordinates":[2.1805500984,41.4141540527],"type":"Point"}
+}

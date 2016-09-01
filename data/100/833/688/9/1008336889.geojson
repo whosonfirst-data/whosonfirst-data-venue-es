@@ -1,0 +1,64 @@
+{
+  "id": 1008336889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8650912046,41.692237854,-0.8650912046,41.692237854",
+    "geom:latitude":41.692238,
+    "geom:longitude":-0.865091,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Cristo Rey, 81",
+    "sg:city":"San Gregorio",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 51 47 55",
+    "sg:postcode":"50015",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863293,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wsbwcjOHeHyS6U6oi97kS_41.692238_-0.865091@1306269640"
+    },
+    "wof:country":"ES",
+    "wof:created":1472622921,
+    "wof:geomhash":"bf3fd061263ddfb53777262ec9fa513e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863293,
+            "region_id":85682891,
+            "venue_id":1008336889
+        }
+    ],
+    "wof:id":1008336889,
+    "wof:lastmodified":1472622921,
+    "wof:name":"Remacha Esteras Jose Luis",
+    "wof:parent_id":85863293,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8650912046,
+    41.692237854,
+    -0.8650912046,
+    41.692237854
+],
+  "geometry": {"coordinates":[-0.8650912046,41.692237854],"type":"Point"}
+}

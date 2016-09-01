@@ -1,0 +1,67 @@
+{
+  "id": 1008571949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1897308826,41.4512367249,2.1897308826,41.4512367249",
+    "geom:latitude":41.451237,
+    "geom:longitude":2.189731,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Finestrelles, 15",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 46 37 29",
+    "sg:postcode":"08033",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799517,
+        102191581,
+        404331425,
+        85633129,
+        404227379,
+        101748345,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MgqBZbg62fVeUjXmJuqkW_41.451237_2.189731@1306269671"
+    },
+    "wof:country":"ES",
+    "wof:created":1472633046,
+    "wof:geomhash":"02f0695b8b5f58626193a58ce200e374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331425,
+            "locality_id":101748345,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799517,
+            "region_id":85682663,
+            "venue_id":1008571949
+        }
+    ],
+    "wof:id":1008571949,
+    "wof:lastmodified":1472633046,
+    "wof:name":"Super 4 Hermanos Ruiz S.a.",
+    "wof:parent_id":85799517,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1897308826,
+    41.4512367249,
+    2.1897308826,
+    41.4512367249
+],
+  "geometry": {"coordinates":[2.1897308826,41.4512367249],"type":"Point"}
+}

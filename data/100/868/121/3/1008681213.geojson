@@ -1,0 +1,59 @@
+{
+  "id": 1008681213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8603540063,41.6507263184,-0.8603540063,41.6507263184",
+    "geom:latitude":41.650726,
+    "geom:longitude":-0.860354,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Comuneros De Castilla, 3",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mantenimiento Y Limpieza De Carreteras",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 39 24 73",
+    "sg:postcode":"50002",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863327,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hIMypU0kA48V7kIjMmjtG_41.650726_-0.860354@1306269686"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637677,
+    "wof:geomhash":"7e1f15398051b6ccccde2ffe3abd0346",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863327,
+            "region_id":85682891,
+            "venue_id":1008681213
+        }
+    ],
+    "wof:id":1008681213,
+    "wof:lastmodified":1472637677,
+    "wof:name":"Val Arto Victor",
+    "wof:parent_id":85863327,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8603540063,
+    41.6507263184,
+    -0.8603540063,
+    41.6507263184
+],
+  "geometry": {"coordinates":[-0.8603540063,41.6507263184],"type":"Point"}
+}

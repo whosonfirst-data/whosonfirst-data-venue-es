@@ -1,0 +1,61 @@
+{
+  "id": 1008178819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5960481167,40.4490432739,-3.5960481167,40.4490432739",
+    "geom:latitude":40.449043,
+    "geom:longitude":-3.596048,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Tres, 2",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Iglesia Cat\u00d3lica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 41 07 73",
+    "sg:postcode":"28022",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        102545773,
+        85863587,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06Cl5l8QcFHj656NcOiyWu_40.449043_-3.596048@1306269619"
+    },
+    "wof:country":"ES",
+    "wof:created":1472605080,
+    "wof:geomhash":"102c685b56f99a1ab1cee22683ed82a0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545773,
+            "country_id":85633129,
+            "neighbourhood_id":85863587,
+            "region_id":85682783,
+            "venue_id":1008178819
+        }
+    ],
+    "wof:id":1008178819,
+    "wof:lastmodified":1472605080,
+    "wof:name":"Parroquia San Cristobal",
+    "wof:parent_id":102545773,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5960481167,
+    40.4490432739,
+    -3.5960481167,
+    40.4490432739
+],
+  "geometry": {"coordinates":[-3.5960481167,40.4490432739],"type":"Point"}
+}

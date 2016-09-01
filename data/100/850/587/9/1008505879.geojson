@@ -1,0 +1,65 @@
+{
+  "id": 1008505879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.3418240547,36.1621398926,-5.3418240547,36.1621398926",
+    "geom:latitude":36.16214,
+    "geom:longitude":-5.341824,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Jardines, S/n",
+    "sg:city":"Linea De La Concepcion",
+    "sg:classifiers":[],
+    "sg:orig_category":"Frutas Y Legumbres Frescas (al Por Mayor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 956 17 22 45",
+    "sg:postcode":"11300",
+    "sg:province":"C\u00e1diz",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "85633167",
+        85794121,
+        "102191581",
+        "85633159",
+        101753853,
+        85684619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ay1pou6rgZXj2I4dY1Ft0_36.162140_-5.341824@1306269663"
+    },
+    "wof:country":"ES",
+    "wof:created":1472630275,
+    "wof:geomhash":"3c1967243f0b39a92f86866eaeb99198",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "dependency_id":"85633167",
+            "locality_id":101753853,
+            "neighbourhood_id":85794121,
+            "region_id":85684619,
+            "venue_id":1008505879
+        }
+    ],
+    "wof:id":1008505879,
+    "wof:lastmodified":1472630275,
+    "wof:name":"Serrano Perez Luis",
+    "wof:parent_id":85794121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.3418240547,
+    36.1621398926,
+    -5.3418240547,
+    36.1621398926
+],
+  "geometry": {"coordinates":[-5.3418240547,36.1621398926],"type":"Point"}
+}

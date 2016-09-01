@@ -1,0 +1,67 @@
+{
+  "id": 1008345383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.155009985,41.4349060059,2.155009985,41.4349060059",
+    "geom:latitude":41.434906,
+    "geom:longitude":2.15501,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Campoamor, 56",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asilos De Ancianos. Centros Privados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 27 44 53",
+    "sg:postcode":"08031",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799399,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54k4HqKqCRvSEPISkOSqvO_41.434906_2.155010@1306269641"
+    },
+    "wof:country":"ES",
+    "wof:created":1472623296,
+    "wof:geomhash":"77c5cf6162f291cced63606d087127f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799399,
+            "region_id":85682663,
+            "venue_id":1008345383
+        }
+    ],
+    "wof:id":1008345383,
+    "wof:lastmodified":1472623296,
+    "wof:name":"Residencias Geriatricas Bon Viure",
+    "wof:parent_id":85799399,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.155009985,
+    41.4349060059,
+    2.155009985,
+    41.4349060059
+],
+  "geometry": {"coordinates":[2.155009985,41.4349060059],"type":"Point"}
+}

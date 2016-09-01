@@ -1,0 +1,73 @@
+{
+  "id": 991317577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.3573141098,36.7209510803,-4.3573141098,36.7209510803",
+    "geom:latitude":36.720951,
+    "geom:longitude":-4.357314,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Efeso, 2",
+    "sg:city":"Malaga",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 20 27 27",
+    "sg:postcode":"29018",
+    "sg:province":"M\u00e1laga",
+    "sg:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863521,
+        85682787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Im6wqH1u2qscBAsUivURJ_36.720951_-4.357314@1306269469"
+    },
+    "wof:country":"ES",
+    "wof:created":1472543462,
+    "wof:geomhash":"d94ae22ddd1c0825545c4432b1475817",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863521,
+            "region_id":85682787,
+            "venue_id":991317577
+        }
+    ],
+    "wof:id":991317577,
+    "wof:lastmodified":1472543462,
+    "wof:name":"Centro De Yoga Amitabha",
+    "wof:parent_id":85863521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ]
+},
+  "bbox": [
+    -4.3573141098,
+    36.7209510803,
+    -4.3573141098,
+    36.7209510803
+],
+  "geometry": {"coordinates":[-4.3573141098,36.7209510803],"type":"Point"}
+}

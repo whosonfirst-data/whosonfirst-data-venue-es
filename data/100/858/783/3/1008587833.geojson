@@ -1,0 +1,59 @@
+{
+  "id": 1008587833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7503840923,40.2568244934,-3.7503840923,40.2568244934",
+    "geom:latitude":40.256824,
+    "geom:longitude":-3.750384,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Molinaseca, 22",
+    "sg:city":"Fuenlabrada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Chapa Y Pintura Veh\u00cdculos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 42 31 09",
+    "sg:postcode":"28947",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SRKG4PDiER7AKlELe9vRF_40.256824_-3.750384@1306269674"
+    },
+    "wof:country":"ES",
+    "wof:created":1472633680,
+    "wof:geomhash":"48f0c0726ae036609924f01e671cabd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1008587833
+        }
+    ],
+    "wof:id":1008587833,
+    "wof:lastmodified":1472633680,
+    "wof:name":"Talleres J.j.bonet S.l.",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7503840923,
+    40.2568244934,
+    -3.7503840923,
+    40.2568244934
+],
+  "geometry": {"coordinates":[-3.7503840923,40.2568244934],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1008143273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5645749569,40.4252319336,-3.5645749569,40.4252319336",
+    "geom:latitude":40.425232,
+    "geom:longitude":-3.564575,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pablo Picasso (de), 5",
+    "sg:city":"Coslada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Audiovisuales: Material Y Accesorios (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 71 49 28",
+    "sg:postcode":"28820",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863629,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SJTDJEV8RY9Frr7n3DZ8v_40.425232_-3.564575@1306269614"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601533,
+    "wof:geomhash":"d979ce40d6155ccaf130694847473c3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863629,
+            "region_id":85682783,
+            "venue_id":1008143273
+        }
+    ],
+    "wof:id":1008143273,
+    "wof:lastmodified":1472601533,
+    "wof:name":"Osuna Quiros Antonio",
+    "wof:parent_id":85863629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5645749569,
+    40.4252319336,
+    -3.5645749569,
+    40.4252319336
+],
+  "geometry": {"coordinates":[-3.5645749569,40.4252319336],"type":"Point"}
+}

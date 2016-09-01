@@ -1,0 +1,67 @@
+{
+  "id": 1008301179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6678051949,40.4560813904,-3.6678051949,40.4560813904",
+    "geom:latitude":40.456081,
+    "geom:longitude":-3.667805,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Angel De Diego Roldan, 40",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 19 97 58",
+    "sg:postcode":"28016",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863599,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2e8j8iGRPy2AiXKseyu74U_40.456081_-3.667805@1306269635"
+    },
+    "wof:country":"ES",
+    "wof:created":1472620311,
+    "wof:geomhash":"11b48457308bb1053548dcc28ab8b361",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863599,
+            "region_id":85682783,
+            "venue_id":1008301179
+        }
+    ],
+    "wof:id":1008301179,
+    "wof:lastmodified":1472620311,
+    "wof:name":"Quanto Arquitectura",
+    "wof:parent_id":85863599,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6678051949,
+    40.4560813904,
+    -3.6678051949,
+    40.4560813904
+],
+  "geometry": {"coordinates":[-3.6678051949,40.4560813904],"type":"Point"}
+}

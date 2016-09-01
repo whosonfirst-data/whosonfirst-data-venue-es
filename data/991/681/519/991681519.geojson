@@ -1,0 +1,65 @@
+{
+  "id": 991681519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5959630013,37.1673355103,-3.5959630013,37.1673355103",
+    "geom:latitude":37.167336,
+    "geom:longitude":-3.595963,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Poeta Manuel Gongora, 4",
+    "sg:city":"Granada",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 18 35 84",
+    "sg:postcode":"18006",
+    "sg:province":"Granada",
+    "sg:website":"www.grupoguia.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863847,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tZVEOL58fttSJch6nhCSx_37.167336_-3.595963@1306269518"
+    },
+    "wof:country":"ES",
+    "wof:created":1472564539,
+    "wof:geomhash":"bea238c27711b8375cdf6bc2033f0c42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863847,
+            "region_id":85682731,
+            "venue_id":991681519
+        }
+    ],
+    "wof:id":991681519,
+    "wof:lastmodified":1472564539,
+    "wof:name":"Formacion Vial Arrayanes S.l.",
+    "wof:parent_id":85863847,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5959630013,
+    37.1673355103,
+    -3.5959630013,
+    37.1673355103
+],
+  "geometry": {"coordinates":[-3.5959630013,37.1673355103],"type":"Point"}
+}

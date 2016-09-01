@@ -1,0 +1,72 @@
+{
+  "id": 991652537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1629741192,41.4365844727,2.1629741192,41.4365844727",
+    "geom:latitude":41.436584,
+    "geom:longitude":2.162974,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pg Universal, 1",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 27 87 20",
+    "sg:postcode":"08031",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799399,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uhsc7Pite8Em0u78EzeXg_41.436584_2.162974@1306269514"
+    },
+    "wof:country":"ES",
+    "wof:created":1472563113,
+    "wof:geomhash":"90c01f6eddef9d365836fe704e535cda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799399,
+            "region_id":85682663,
+            "venue_id":991652537
+        }
+    ],
+    "wof:id":991652537,
+    "wof:lastmodified":1472563113,
+    "wof:name":"Fernandez Vega Jesus",
+    "wof:parent_id":85799399,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1629741192,
+    41.4365844727,
+    2.1629741192,
+    41.4365844727
+],
+  "geometry": {"coordinates":[2.1629741192,41.4365844727],"type":"Point"}
+}

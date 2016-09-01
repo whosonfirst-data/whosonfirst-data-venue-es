@@ -1,0 +1,71 @@
+{
+  "id": 1024496581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.163697,41.383182,2.163697,41.383182",
+    "geom:latitude":41.383182,
+    "geom:longitude":2.163697,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ronda de Sant Anton\u00ed, 51, 1o 2a",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"08011",
+    "sg:website":"http://www.project-open.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864035,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VkCpaKTcy32594GA0zzFd_41.383182_2.163697@1308163237"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641473,
+    "wof:geomhash":"7c8cbd3e15d4e6043e59a0e96ea18b04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864035,
+            "region_id":85682663,
+            "venue_id":1024496581
+        }
+    ],
+    "wof:id":1024496581,
+    "wof:lastmodified":1472641473,
+    "wof:name":"]project-open[",
+    "wof:parent_id":85864035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.163697,
+    41.383182,
+    2.163697,
+    41.383182
+],
+  "geometry": {"coordinates":[2.163697,41.383182],"type":"Point"}
+}

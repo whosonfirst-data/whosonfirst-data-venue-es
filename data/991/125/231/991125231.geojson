@@ -1,0 +1,63 @@
+{
+  "id": 991125231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1835069656,41.3815460205,2.1835069656,41.3815460205",
+    "geom:latitude":41.381546,
+    "geom:longitude":2.183507,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Reina Cristina, 4",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bazares, Art\u00cdculos De Limpieza Y De Cocina (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 19 61 36",
+    "sg:postcode":"08003",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7A7CiG6kbMjdK2I1vDpVhg_41.381546_2.183507@1306269444"
+    },
+    "wof:country":"ES",
+    "wof:created":1472528884,
+    "wof:geomhash":"459ce61dd42a626fd6a77cdcf7007f6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":991125231
+        }
+    ],
+    "wof:id":991125231,
+    "wof:lastmodified":1472528884,
+    "wof:name":"Bazar Del Puerto S. L.",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1835069656,
+    41.3815460205,
+    2.1835069656,
+    41.3815460205
+],
+  "geometry": {"coordinates":[2.1835069656,41.3815460205],"type":"Point"}
+}

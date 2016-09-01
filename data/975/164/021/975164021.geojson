@@ -1,0 +1,67 @@
+{
+  "id": 975164021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6882958412,40.4356269836,-3.6882958412,40.4356269836",
+    "geom:latitude":40.435627,
+    "geom:longitude":-3.688296,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pase Castellana, 52",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aeropuertos Y Servicios Aeroportuarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 31 37 06",
+    "sg:postcode":"28046",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863673,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NgYj33g98MHba2o8ikJDd_40.435627_-3.688296@1306269413"
+    },
+    "wof:country":"ES",
+    "wof:created":1472508094,
+    "wof:geomhash":"2a9a62737aa828912722a5de080410d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863673,
+            "region_id":85682783,
+            "venue_id":975164021
+        }
+    ],
+    "wof:id":975164021,
+    "wof:lastmodified":1472508094,
+    "wof:name":"Aeroflot Lineas Aereas Rusas",
+    "wof:parent_id":85863673,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6882958412,
+    40.4356269836,
+    -3.6882958412,
+    40.4356269836
+],
+  "geometry": {"coordinates":[-3.6882958412,40.4356269836],"type":"Point"}
+}

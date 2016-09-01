@@ -1,0 +1,81 @@
+{
+  "id": 1008478193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6657679081,40.4756202698,-3.6657679081,40.4756202698",
+    "geom:latitude":40.47562,
+    "geom:longitude":-3.665768,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Golfo De Salonica, 13",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 67 13 78",
+    "sg:postcode":"28033",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863567,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uzY5H3sxFWxGURAAmDMkc_40.475620_-3.665768@1306269659"
+    },
+    "wof:country":"ES",
+    "wof:created":1472629042,
+    "wof:geomhash":"4db4e4ff734fac76e9597aaef15a45cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863567,
+            "region_id":85682783,
+            "venue_id":1008478193
+        }
+    ],
+    "wof:id":1008478193,
+    "wof:lastmodified":1472629042,
+    "wof:name":"Santrade S.l",
+    "wof:parent_id":85863567,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ]
+},
+  "bbox": [
+    -3.6657679081,
+    40.4756202698,
+    -3.6657679081,
+    40.4756202698
+],
+  "geometry": {"coordinates":[-3.6657679081,40.4756202698],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1024496823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.678121,40.42046,-3.678121,40.42046",
+    "geom:latitude":40.42046,
+    "geom:longitude":-3.678121,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Doctor Castelo 10 Local 1",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"28009 ",
+    "sg:website":"http://www.dad.es/index_in.html",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863677,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06rBc6CMJytNxBXe4YiGkF_40.420460_-3.678121@1308163238"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641483,
+    "wof:geomhash":"a750af4c0d149f6a221f1dbd2b29086b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863677,
+            "region_id":85682783,
+            "venue_id":1024496823
+        }
+    ],
+    "wof:id":1024496823,
+    "wof:lastmodified":1472641483,
+    "wof:name":"Digital Assets Deployment",
+    "wof:parent_id":85863677,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.678121,
+    40.42046,
+    -3.678121,
+    40.42046
+],
+  "geometry": {"coordinates":[-3.678121,40.42046],"type":"Point"}
+}

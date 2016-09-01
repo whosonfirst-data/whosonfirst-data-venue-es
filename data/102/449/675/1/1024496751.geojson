@@ -1,0 +1,80 @@
+{
+  "id": 1024496751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7003565,40.4539547,-3.7003565,40.4539547",
+    "geom:latitude":40.453955,
+    "geom:longitude":-3.700356,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Salamanca 17",
+    "sg:city":"madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"28020",
+    "sg:tags":[
+        "travel",
+        "trip",
+        "share"
+    ],
+    "sg:website":"http://iwannagothere.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863621,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tK9R2flm9IB3ZPZmNhJB7_40.453955_-3.700356@1308163241"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641480,
+    "wof:geomhash":"caf03d25d9e4d4c1e9d1702295724da3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863621,
+            "region_id":85682783,
+            "venue_id":1024496751
+        }
+    ],
+    "wof:id":1024496751,
+    "wof:lastmodified":1472641480,
+    "wof:name":"iwannagothere",
+    "wof:parent_id":85863621,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "travel",
+        "trip",
+        "share"
+    ]
+},
+  "bbox": [
+    -3.7003565,
+    40.4539547,
+    -3.7003565,
+    40.4539547
+],
+  "geometry": {"coordinates":[-3.7003565,40.4539547],"type":"Point"}
+}

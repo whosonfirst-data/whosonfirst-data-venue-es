@@ -1,0 +1,67 @@
+{
+  "id": 1008700321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1667408943,41.3945541382,2.1667408943,41.3945541382",
+    "geom:latitude":41.394554,
+    "geom:longitude":2.166741,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Roger De Lluria, 77",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 15 82 28",
+    "sg:postcode":"08009",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864017,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_137sILA87DRAZ3j8lsKQzP_41.394554_2.166741@1306269689"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638535,
+    "wof:geomhash":"2313c99b924e485793d1c794634beac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864017,
+            "region_id":85682663,
+            "venue_id":1008700321
+        }
+    ],
+    "wof:id":1008700321,
+    "wof:lastmodified":1472638535,
+    "wof:name":"Vega Sala Francisco",
+    "wof:parent_id":85864017,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1667408943,
+    41.3945541382,
+    2.1667408943,
+    41.3945541382
+],
+  "geometry": {"coordinates":[2.1667408943,41.3945541382],"type":"Point"}
+}

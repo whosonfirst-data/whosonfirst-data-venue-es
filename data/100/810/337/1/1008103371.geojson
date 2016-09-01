@@ -1,0 +1,59 @@
+{
+  "id": 1008103371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6400148869,40.5448265076,-3.6400148869,40.5448265076",
+    "geom:latitude":40.544827,
+    "geom:longitude":-3.640015,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Guadiana (del), 8",
+    "sg:city":"Alcobendas",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cerrajer\u00cda, Ferrallista",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 51 95 50",
+    "sg:postcode":"28100",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cBhpCTX2idUezvoUDLlcb_40.544827_-3.640015@1306269608"
+    },
+    "wof:country":"ES",
+    "wof:created":1472599662,
+    "wof:geomhash":"746d0cac1924e9663962ed299e6fb68d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1008103371
+        }
+    ],
+    "wof:id":1008103371,
+    "wof:lastmodified":1472599662,
+    "wof:name":"Novillo Diaz-maroto Gregorio",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6400148869,
+    40.5448265076,
+    -3.6400148869,
+    40.5448265076
+],
+  "geometry": {"coordinates":[-3.6400148869,40.5448265076],"type":"Point"}
+}

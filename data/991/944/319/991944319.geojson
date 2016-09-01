@@ -1,0 +1,74 @@
+{
+  "id": 991944319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6756899357,39.591796875,2.6756899357,39.591796875",
+    "geom:latitude":39.591797,
+    "geom:longitude":2.67569,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Segre, 4",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Importaci\u00d3n",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 70 60 37",
+    "sg:postcode":"07009",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864089,
+        102191581,
+        404330817,
+        85633129,
+        404227367,
+        101748237,
+        85682647,
+        85864091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d1Qq4BBc4qKxY5PufixX8_39.591797_2.675690@1306269553"
+    },
+    "wof:country":"ES",
+    "wof:created":1472579667,
+    "wof:geomhash":"7de5d0d607f59d37e4c89a1c88ea8b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864089,
+            "region_id":85682647,
+            "venue_id":991944319
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":991944319
+        }
+    ],
+    "wof:id":991944319,
+    "wof:lastmodified":1472579667,
+    "wof:name":"Import Moca S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6756899357,
+    39.591796875,
+    2.6756899357,
+    39.591796875
+],
+  "geometry": {"coordinates":[2.6756899357,39.591796875],"type":"Point"}
+}

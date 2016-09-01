@@ -1,0 +1,64 @@
+{
+  "id": 990962511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.8837354183,43.2360115051,-2.8837354183,43.2360115051",
+    "geom:latitude":43.236012,
+    "geom:longitude":-2.883735,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Balendin Berriotxoa, 20",
+    "sg:city":"Basauri",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 40 62 42",
+    "sg:postcode":"48970",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799203,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3h0HBtTDqT09omkwfeSQIS_43.236012_-2.883735@1306269422"
+    },
+    "wof:country":"ES",
+    "wof:created":1472516050,
+    "wof:geomhash":"2af26df36baa1de8fb483b7f5ce6a8f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799203,
+            "region_id":85682879,
+            "venue_id":990962511
+        }
+    ],
+    "wof:id":990962511,
+    "wof:lastmodified":1472516050,
+    "wof:name":"Amador Diez Gutierrez Autoescuela Herrik",
+    "wof:parent_id":85799203,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.8837354183,
+    43.2360115051,
+    -2.8837354183,
+    43.2360115051
+],
+  "geometry": {"coordinates":[-2.8837354183,43.2360115051],"type":"Point"}
+}

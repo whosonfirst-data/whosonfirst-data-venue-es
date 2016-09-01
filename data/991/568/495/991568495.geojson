@@ -1,0 +1,81 @@
+{
+  "id": 991568495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1590249538,41.3664512634,2.1590249538,41.3664512634",
+    "geom:latitude":41.366451,
+    "geom:longitude":2.159025,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Tres Pins, S/n",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 23 62 72",
+    "sg:postcode":"08038",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "televisiones",
+        "y",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799509,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55e4QCBpTIaIHvgnrtfXup_41.366451_2.159025@1306269503"
+    },
+    "wof:country":"ES",
+    "wof:created":1472558123,
+    "wof:geomhash":"024bf7dcffee87194720aef1e6c79950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799509,
+            "region_id":85682663,
+            "venue_id":991568495
+        }
+    ],
+    "wof:id":991568495,
+    "wof:lastmodified":1472558123,
+    "wof:name":"Ente Publico Rtve",
+    "wof:parent_id":85799509,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "televisiones",
+        "y",
+        "radio"
+    ]
+},
+  "bbox": [
+    2.1590249538,
+    41.3664512634,
+    2.1590249538,
+    41.3664512634
+],
+  "geometry": {"coordinates":[2.1590249538,41.3664512634],"type":"Point"}
+}

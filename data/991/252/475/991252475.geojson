@@ -1,0 +1,60 @@
+{
+  "id": 991252475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7221341133,40.3160743713,-3.7221341133,40.3160743713",
+    "geom:latitude":40.316074,
+    "geom:longitude":-3.722134,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Sanchez Morate, S/n",
+    "sg:city":"Getafe",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 82 69 01",
+    "sg:postcode":"28903",
+    "sg:province":"Madrid",
+    "sg:website":"www.caprabo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WKjX4cencA7iMIYqpxis0_40.316074_-3.722134@1306269461"
+    },
+    "wof:country":"ES",
+    "wof:created":1472540189,
+    "wof:geomhash":"22ba101f41065c3b2cdc2617e006e178",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":991252475
+        }
+    ],
+    "wof:id":991252475,
+    "wof:lastmodified":1472540189,
+    "wof:name":"Caprabo S.a.",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7221341133,
+    40.3160743713,
+    -3.7221341133,
+    40.3160743713
+],
+  "geometry": {"coordinates":[-3.7221341133,40.3160743713],"type":"Point"}
+}

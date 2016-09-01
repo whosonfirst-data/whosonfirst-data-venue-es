@@ -1,0 +1,78 @@
+{
+  "id": 1007829211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1489861012,41.4120140076,2.1489861012,41.4120140076",
+    "geom:latitude":41.412014,
+    "geom:longitude":2.148986,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Verdi, 339",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Rectificaci\u00d3n, Mecanizado, Fresado",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 10 62 56",
+    "sg:postcode":"08024",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863989,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85799393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dVsi5CUqfgVj46DCigdTA_41.412014_2.148986@1306269573"
+    },
+    "wof:country":"ES",
+    "wof:created":1472587675,
+    "wof:geomhash":"862060e5f1b6572435cd01f8484ce71a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863989,
+            "region_id":85682663,
+            "venue_id":1007829211
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799393,
+            "region_id":85682663,
+            "venue_id":1007829211
+        }
+    ],
+    "wof:id":1007829211,
+    "wof:lastmodified":1472587675,
+    "wof:name":"Lopez Au\u00f1on Jesus",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1489861012,
+    41.4120140076,
+    2.1489861012,
+    41.4120140076
+],
+  "geometry": {"coordinates":[2.1489861012,41.4120140076],"type":"Point"}
+}

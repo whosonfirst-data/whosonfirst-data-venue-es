@@ -1,0 +1,59 @@
+{
+  "id": 1008128035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1873829365,41.3925933838,2.1873829365,41.3925933838",
+    "geom:latitude":41.392593,
+    "geom:longitude":2.187383,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sardenya, 61",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"\u00d3ptica: Instrumentos (fabricaci\u00d3n)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 09 51 67",
+    "sg:postcode":"08018",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BdWMlkhUOVvhBW4jupTpl_41.392593_2.187383@1306269612"
+    },
+    "wof:country":"ES",
+    "wof:created":1472600876,
+    "wof:geomhash":"0f455ff133084cab85247a3b85f55c17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008128035
+        }
+    ],
+    "wof:id":1008128035,
+    "wof:lastmodified":1472600876,
+    "wof:name":"Optica Parc Visio S.c.p.",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1873829365,
+    41.3925933838,
+    2.1873829365,
+    41.3925933838
+],
+  "geometry": {"coordinates":[2.1873829365,41.3925933838],"type":"Point"}
+}

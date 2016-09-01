@@ -1,0 +1,81 @@
+{
+  "id": 991525273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8598790169,41.66173172,-0.8598790169,41.66173172",
+    "geom:latitude":41.661732,
+    "geom:longitude":-0.859879,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Felisa Gale, 42",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 47 37 13",
+    "sg:postcode":"50014",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863301,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xHYKkmpZmZPbVIpZpDNOm_41.661732_-0.859879@1306269497"
+    },
+    "wof:country":"ES",
+    "wof:created":1472555717,
+    "wof:geomhash":"35bfc05cf1cc3ee2483a31f0d27c731e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863301,
+            "region_id":85682891,
+            "venue_id":991525273
+        }
+    ],
+    "wof:id":991525273,
+    "wof:lastmodified":1472555717,
+    "wof:name":"Doncel Bona Jose Maria",
+    "wof:parent_id":85863301,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -0.8598790169,
+    41.66173172,
+    -0.8598790169,
+    41.66173172
+],
+  "geometry": {"coordinates":[-0.8598790169,41.66173172],"type":"Point"}
+}

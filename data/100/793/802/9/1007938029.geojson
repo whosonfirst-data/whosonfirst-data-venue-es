@@ -1,0 +1,73 @@
+{
+  "id": 1007938029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4811510146,38.3565406799,-0.4811510146,38.3565406799",
+    "geom:latitude":38.356541,
+    "geom:longitude":-0.481151,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Jaime Segarra, 58",
+    "sg:city":"Alacant",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 25 40 44",
+    "sg:postcode":"03012",
+    "sg:province":"Alicante",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864065,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ie0jcmPlsi3CpMH7ZPu0Y_38.356541_-0.481151@1306269587"
+    },
+    "wof:country":"ES",
+    "wof:created":1472592592,
+    "wof:geomhash":"7f414f8f54535495313df386b6f12d87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864065,
+            "region_id":85682625,
+            "venue_id":1007938029
+        }
+    ],
+    "wof:id":1007938029,
+    "wof:lastmodified":1472592592,
+    "wof:name":"Martinez Valero Emilio",
+    "wof:parent_id":85864065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -0.4811510146,
+    38.3565406799,
+    -0.4811510146,
+    38.3565406799
+],
+  "geometry": {"coordinates":[-0.4811510146,38.3565406799],"type":"Point"}
+}

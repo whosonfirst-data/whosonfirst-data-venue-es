@@ -1,0 +1,59 @@
+{
+  "id": 1007764607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6573779583,39.5910415649,2.6573779583,39.5910415649",
+    "geom:latitude":39.591042,
+    "geom:longitude":2.657378,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Ignasi Barraquer, 17",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cerrajer\u00cda, Ferrallista",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 75 15 07",
+    "sg:postcode":"07004",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864091,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WahRKrGfQRqwpj06j8tom_39.591042_2.657378@1306269565"
+    },
+    "wof:country":"ES",
+    "wof:created":1472584469,
+    "wof:geomhash":"b9cad2e184f4918596d4fe6e5f1177ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":1007764607
+        }
+    ],
+    "wof:id":1007764607,
+    "wof:lastmodified":1472584469,
+    "wof:name":"Jv Seguridad Palma S.l.",
+    "wof:parent_id":85864091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6573779583,
+    39.5910415649,
+    2.6573779583,
+    39.5910415649
+],
+  "geometry": {"coordinates":[2.6573779583,39.5910415649],"type":"Point"}
+}

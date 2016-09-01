@@ -1,0 +1,64 @@
+{
+  "id": 991072929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8310461044,40.3500785828,-3.8310461044,40.3500785828",
+    "geom:latitude":40.350079,
+    "geom:longitude":-3.831046,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pase Extremadura, S/n",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 42 58 16",
+    "sg:postcode":"28921",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pqoopT5qUFt4b0vYuzN6c_40.350079_-3.831046@1306269437"
+    },
+    "wof:country":"ES",
+    "wof:created":1472524713,
+    "wof:geomhash":"54ff08959527cd4db70cbacbb47019da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":991072929
+        }
+    ],
+    "wof:id":991072929,
+    "wof:lastmodified":1472524713,
+    "wof:name":"Ayuntamiento De Alcorcon",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8310461044,
+    40.3500785828,
+    -3.8310461044,
+    40.3500785828
+],
+  "geometry": {"coordinates":[-3.8310461044,40.3500785828],"type":"Point"}
+}

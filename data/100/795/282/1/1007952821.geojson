@@ -1,0 +1,60 @@
+{
+  "id": 1007952821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3838700056,39.456817627,-0.3838700056,39.456817627",
+    "geom:latitude":39.456818,
+    "geom:longitude":-0.38387,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Vicente Martir, 222",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Suministros Para Exposiciones, Ferias, Salones",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 10 71 39",
+    "sg:postcode":"46007",
+    "sg:province":"Valencia",
+    "sg:website":"www.massa.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864205,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KReL2kf5ryEzV5wb5GWoD_39.456818_-0.383870@1306269589"
+    },
+    "wof:country":"ES",
+    "wof:created":1472593251,
+    "wof:geomhash":"5ce96c46073d636ade7b9875d9f1bfdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864205,
+            "region_id":85682867,
+            "venue_id":1007952821
+        }
+    ],
+    "wof:id":1007952821,
+    "wof:lastmodified":1472593251,
+    "wof:name":"Massa Events S.a.",
+    "wof:parent_id":85864205,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3838700056,
+    39.456817627,
+    -0.3838700056,
+    39.456817627
+],
+  "geometry": {"coordinates":[-0.3838700056,39.456817627],"type":"Point"}
+}

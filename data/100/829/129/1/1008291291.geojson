@@ -1,0 +1,67 @@
+{
+  "id": 1008291291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.700927496,40.3972358704,-3.700927496,40.3972358704",
+    "geom:latitude":40.397236,
+    "geom:longitude":-3.700927,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Aguilon, 13",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Librer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 73 26 17",
+    "sg:postcode":"28045",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863745,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HmQVm6Ogkz2O8LlBLoa5R_40.397236_-3.700927@1306269634"
+    },
+    "wof:country":"ES",
+    "wof:created":1472618355,
+    "wof:geomhash":"d480c08a71f96c3db38ced4b021b8635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863745,
+            "region_id":85682783,
+            "venue_id":1008291291
+        }
+    ],
+    "wof:id":1008291291,
+    "wof:lastmodified":1472618355,
+    "wof:name":"Publimed",
+    "wof:parent_id":85863745,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.700927496,
+    40.3972358704,
+    -3.700927496,
+    40.3972358704
+],
+  "geometry": {"coordinates":[-3.700927496,40.3972358704],"type":"Point"}
+}

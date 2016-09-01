@@ -1,0 +1,78 @@
+{
+  "id": 1024466685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6943459511,40.4575538635,-3.6943459511,40.4575538635",
+    "geom:latitude":40.457554,
+    "geom:longitude":-3.694346,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Orense, 48",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aparcamientos (infraestructuras, Accesorios)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 56 50 72",
+    "sg:postcode":"28020",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863603,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6U6PxaYcvaMq1tDwEazLra_40.457554_-3.694346@1306269694"
+    },
+    "wof:country":"ES",
+    "wof:created":1472640199,
+    "wof:geomhash":"103c96b1ef406c9e29478cec4983d70d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863603,
+            "region_id":85682783,
+            "venue_id":1024466685
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863621,
+            "region_id":85682783,
+            "venue_id":1024466685
+        }
+    ],
+    "wof:id":1024466685,
+    "wof:lastmodified":1472640199,
+    "wof:name":"Vinci Park Espa\u00f1a S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6943459511,
+    40.4575538635,
+    -3.6943459511,
+    40.4575538635
+],
+  "geometry": {"coordinates":[-3.6943459511,40.4575538635],"type":"Point"}
+}

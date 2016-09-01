@@ -1,0 +1,78 @@
+{
+  "id": 1008043565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1837720871,41.4059486389,2.1837720871,41.4059486389",
+    "geom:latitude":41.405949,
+    "geom:longitude":2.183772,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Dos De Maig, 206",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Peluqueros: De Se\u00d1oras",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 46 09 95",
+    "sg:postcode":"08013",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864013,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85799265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qPvcUbU2lVUqlNeKRMCiR_41.405949_2.183772@1306269600"
+    },
+    "wof:country":"ES",
+    "wof:created":1472597048,
+    "wof:geomhash":"49a668623ba7b0b4e26c581debe8222f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864013,
+            "region_id":85682663,
+            "venue_id":1008043565
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799265,
+            "region_id":85682663,
+            "venue_id":1008043565
+        }
+    ],
+    "wof:id":1008043565,
+    "wof:lastmodified":1472597048,
+    "wof:name":"Moreno Fernandez Maria Encarnacion",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1837720871,
+    41.4059486389,
+    2.1837720871,
+    41.4059486389
+],
+  "geometry": {"coordinates":[2.1837720871,41.4059486389],"type":"Point"}
+}

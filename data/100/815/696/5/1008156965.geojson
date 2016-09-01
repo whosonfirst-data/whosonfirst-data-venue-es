@@ -1,0 +1,67 @@
+{
+  "id": 1008156965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6605041027,40.3935585022,-3.6605041027,40.3935585022",
+    "geom:latitude":40.393559,
+    "geom:longitude":-3.660504,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Albufera, 104",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Estancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 77 45 42",
+    "sg:postcode":"28038",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863721,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6khrKYh01g1fmJdynrpT48_40.393559_-3.660504@1306269616"
+    },
+    "wof:country":"ES",
+    "wof:created":1472602338,
+    "wof:geomhash":"c7f73436c3a00d2764c53287bfa82e2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863721,
+            "region_id":85682783,
+            "venue_id":1008156965
+        }
+    ],
+    "wof:id":1008156965,
+    "wof:lastmodified":1472602338,
+    "wof:name":"Palomo Moset Domingo",
+    "wof:parent_id":85863721,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6605041027,
+    40.3935585022,
+    -3.6605041027,
+    40.3935585022
+],
+  "geometry": {"coordinates":[-3.6605041027,40.3935585022],"type":"Point"}
+}

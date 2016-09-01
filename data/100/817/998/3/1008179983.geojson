@@ -1,0 +1,59 @@
+{
+  "id": 1008179983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5959579945,40.4579963684,-3.5959579945,40.4579963684",
+    "geom:latitude":40.457996,
+    "geom:longitude":-3.595958,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Rambla, 5",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Iglesia Cat\u00d3lica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 42 64 37",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863589,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vj53QxzeGsmp0dgseax0o_40.457996_-3.595958@1306269619"
+    },
+    "wof:country":"ES",
+    "wof:created":1472605215,
+    "wof:geomhash":"1b0a31dd1f3377dbd604aad4ffe3daae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863589,
+            "region_id":85682783,
+            "venue_id":1008179983
+        }
+    ],
+    "wof:id":1008179983,
+    "wof:lastmodified":1472605215,
+    "wof:name":"Parroquia Santa Catalina De Alejandria",
+    "wof:parent_id":85863589,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5959579945,
+    40.4579963684,
+    -3.5959579945,
+    40.4579963684
+],
+  "geometry": {"coordinates":[-3.5959579945,40.4579963684],"type":"Point"}
+}

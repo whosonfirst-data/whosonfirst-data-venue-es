@@ -1,0 +1,81 @@
+{
+  "id": 1008505909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1639170647,41.4420509338,2.1639170647,41.4420509338",
+    "geom:latitude":41.442051,
+    "geom:longitude":2.163917,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Antonio Machado, 11",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 28 63 85",
+    "sg:postcode":"08042",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799399,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ccckwIrTZhv6pXB5dyT4Y_41.442051_2.163917@1306269663"
+    },
+    "wof:country":"ES",
+    "wof:created":1472630277,
+    "wof:geomhash":"a423c3a88fc94c057381b0b1fb684b82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799399,
+            "region_id":85682663,
+            "venue_id":1008505909
+        }
+    ],
+    "wof:id":1008505909,
+    "wof:lastmodified":1472630277,
+    "wof:name":"Serrano Pe\u00f1a Juan Ramon",
+    "wof:parent_id":85799399,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.1639170647,
+    41.4420509338,
+    2.1639170647,
+    41.4420509338
+],
+  "geometry": {"coordinates":[2.1639170647,41.4420509338],"type":"Point"}
+}

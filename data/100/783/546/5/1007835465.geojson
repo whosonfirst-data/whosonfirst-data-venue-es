@@ -1,0 +1,67 @@
+{
+  "id": 1007835465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7807309628,40.4587860107,-3.7807309628,40.4587860107",
+    "geom:latitude":40.458786,
+    "geom:longitude":-3.780731,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Olivo, 13",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Par\u00cds",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 07 07 01",
+    "sg:postcode":"28023",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799153,
+        102191581,
+        404338935,
+        85633129,
+        404227387,
+        101748291,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5szs0e8PPf5eJB2mWtf4Zg_40.458786_-3.780731@1306269574"
+    },
+    "wof:country":"ES",
+    "wof:created":1472587979,
+    "wof:geomhash":"53b2cd477c1c34b4ec7dbcb832e2a711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338935,
+            "locality_id":101748291,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799153,
+            "region_id":85682783,
+            "venue_id":1007835465
+        }
+    ],
+    "wof:id":1007835465,
+    "wof:lastmodified":1472587979,
+    "wof:name":"Lopez Gimenez Juan",
+    "wof:parent_id":85799153,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7807309628,
+    40.4587860107,
+    -3.7807309628,
+    40.4587860107
+],
+  "geometry": {"coordinates":[-3.7807309628,40.4587860107],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1008389827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7187991142,40.4301643372,-3.7187991142,40.4301643372",
+    "geom:latitude":40.430164,
+    "geom:longitude":-3.718799,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Martin De Los Heros, 73",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ingenier\u00cda, Centros De Estudios (diversos)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 48 72 09",
+    "sg:postcode":"28008",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863655,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pQ1GRloxhfGycXQieaxTJ_40.430164_-3.718799@1306269647"
+    },
+    "wof:country":"ES",
+    "wof:created":1472625309,
+    "wof:geomhash":"4d36f66976e4716f39217745100c5c6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863655,
+            "region_id":85682783,
+            "venue_id":1008389827
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863669,
+            "region_id":85682783,
+            "venue_id":1008389827
+        }
+    ],
+    "wof:id":1008389827,
+    "wof:lastmodified":1472625309,
+    "wof:name":"Rodriguez Sanchez Miguel Angel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7187991142,
+    40.4301643372,
+    -3.7187991142,
+    40.4301643372
+],
+  "geometry": {"coordinates":[-3.7187991142,40.4301643372],"type":"Point"}
+}

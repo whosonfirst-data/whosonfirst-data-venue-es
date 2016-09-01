@@ -1,0 +1,78 @@
+{
+  "id": 991339715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3762240112,39.4651603699,-0.3762240112,39.4651603699",
+    "geom:latitude":39.46516,
+    "geom:longitude":-0.376224,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Segorbe, 1",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Doctores En Medicina",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 41 69 50",
+    "sg:postcode":"46004",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864209,
+        102191581,
+        404345361,
+        85633129,
+        404227381,
+        101748241,
+        85682867,
+        85864207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PV6dIjlAsvba0VzpJbFVF_39.465160_-0.376224@1306269472"
+    },
+    "wof:country":"ES",
+    "wof:created":1472544528,
+    "wof:geomhash":"e4e964028bf0272a02244bea6dd0eb58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345361,
+            "locality_id":101748241,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864209,
+            "region_id":85682867,
+            "venue_id":991339715
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345361,
+            "locality_id":101748241,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864207,
+            "region_id":85682867,
+            "venue_id":991339715
+        }
+    ],
+    "wof:id":991339715,
+    "wof:lastmodified":1472544528,
+    "wof:name":"Cimas Garcia Maria Paz",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3762240112,
+    39.4651603699,
+    -0.3762240112,
+    39.4651603699
+],
+  "geometry": {"coordinates":[-0.3762240112,39.4651603699],"type":"Point"}
+}

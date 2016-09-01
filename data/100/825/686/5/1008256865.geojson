@@ -1,0 +1,60 @@
+{
+  "id": 1008256865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6549253464,40.5418891907,-3.6549253464,40.5418891907",
+    "geom:latitude":40.541889,
+    "geom:longitude":-3.654925,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Jose Echegaray (de), 4",
+    "sg:city":"Alcobendas",
+    "sg:classifiers":[],
+    "sg:orig_category":"Empresas De Limpieza",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 61 89 66",
+    "sg:postcode":"28100",
+    "sg:province":"Madrid",
+    "sg:website":"www.servicemaster.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NS3mHIx44HffFAIcL9ZjA_40.541889_-3.654925@1306269629"
+    },
+    "wof:country":"ES",
+    "wof:created":1472616394,
+    "wof:geomhash":"992a4d7492949c5b47836f00bf55daaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1008256865
+        }
+    ],
+    "wof:id":1008256865,
+    "wof:lastmodified":1472616394,
+    "wof:name":"Pollard Y Wessner S.l.",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6549253464,
+    40.5418891907,
+    -3.6549253464,
+    40.5418891907
+],
+  "geometry": {"coordinates":[-3.6549253464,40.5418891907],"type":"Point"}
+}

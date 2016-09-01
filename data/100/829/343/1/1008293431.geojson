@@ -1,0 +1,60 @@
+{
+  "id": 1008293431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5367739201,40.4347877502,-3.5367739201,40.4347877502",
+    "geom:latitude":40.434788,
+    "geom:longitude":-3.536774,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Eduardo Torroja (de), 17",
+    "sg:city":"Coslada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Puertas Y Portales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 69 39 96",
+    "sg:postcode":"28820",
+    "sg:province":"Madrid",
+    "sg:website":"www.norma-doors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863631,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IMRDRmKC5TmepSF26UHPX_40.434788_-3.536774@1306269634"
+    },
+    "wof:country":"ES",
+    "wof:created":1472618466,
+    "wof:geomhash":"f5275e8ff25783243772e46f167ab98a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863631,
+            "region_id":85682783,
+            "venue_id":1008293431
+        }
+    ],
+    "wof:id":1008293431,
+    "wof:lastmodified":1472618466,
+    "wof:name":"Puertas Norma S.a.",
+    "wof:parent_id":85863631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5367739201,
+    40.4347877502,
+    -3.5367739201,
+    40.4347877502
+],
+  "geometry": {"coordinates":[-3.5367739201,40.4347877502],"type":"Point"}
+}

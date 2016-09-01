@@ -1,0 +1,74 @@
+{
+  "id": 1008468507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9171390533,43.265499115,-2.9171390533,43.265499115",
+    "geom:latitude":43.265499,
+    "geom:longitude":-2.917139,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Grup Zubiria Ybarra Tomas, 14",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[],
+    "sg:orig_category":"Peluqueros: De Se\u00d1oras",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 46 59 81",
+    "sg:postcode":"48007",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863965,
+        102191581,
+        404345949,
+        85633129,
+        404227393,
+        101748385,
+        85682879,
+        85863977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43e5DlrOU4QJElDEzeusnD_43.265499_-2.917139@1306269658"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628657,
+    "wof:geomhash":"109910bc345e4e39195ebd6e52e4d1b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345949,
+            "locality_id":101748385,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863965,
+            "region_id":85682879,
+            "venue_id":1008468507
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863977,
+            "region_id":85682879,
+            "venue_id":1008468507
+        }
+    ],
+    "wof:id":1008468507,
+    "wof:lastmodified":1472628657,
+    "wof:name":"San Juan Gomez Ascension",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9171390533,
+    43.265499115,
+    -2.9171390533,
+    43.265499115
+],
+  "geometry": {"coordinates":[-2.9171390533,43.265499115],"type":"Point"}
+}

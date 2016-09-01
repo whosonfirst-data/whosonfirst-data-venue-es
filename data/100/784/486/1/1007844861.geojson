@@ -1,0 +1,78 @@
+{
+  "id": 1007844861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.172123909,41.4113845825,2.172123909,41.4113845825",
+    "geom:latitude":41.411385,
+    "geom:longitude":2.172124,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Rosalia De Castro, 40",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Lencer\u00cda Femenina, Corseter\u00cda, Trajes De Ba\u00d1o (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 56 82 17",
+    "sg:postcode":"08025",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864001,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85863999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dIlLHIWpfOljH7rGeh3Bw_41.411385_2.172124@1306269575"
+    },
+    "wof:country":"ES",
+    "wof:created":1472588444,
+    "wof:geomhash":"381e768384c4804bfbe530819816391b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864001,
+            "region_id":85682663,
+            "venue_id":1007844861
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863999,
+            "region_id":85682663,
+            "venue_id":1007844861
+        }
+    ],
+    "wof:id":1007844861,
+    "wof:lastmodified":1472588444,
+    "wof:name":"Lopez Rubio Juana",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.172123909,
+    41.4113845825,
+    2.172123909,
+    41.4113845825
+],
+  "geometry": {"coordinates":[2.172123909,41.4113845825],"type":"Point"}
+}

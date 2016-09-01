@@ -1,0 +1,74 @@
+{
+  "id": 1007886703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5642540455,40.4217262268,-3.5642540455,40.4217262268",
+    "geom:latitude":40.421726,
+    "geom:longitude":-3.564254,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Espa\u00d1a (de), 19",
+    "sg:city":"Coslada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 71 95 31",
+    "sg:postcode":"28820",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863629,
+        85682783,
+        85863711,
+        102191581,
+        404338953,
+        404227387,
+        101775603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KFQUfBNypjB0lXmMywFM5_40.421726_-3.564254@1306269581"
+    },
+    "wof:country":"ES",
+    "wof:created":1472590323,
+    "wof:geomhash":"a3339ee031a72bded0206beb77f33afe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863629,
+            "region_id":85682783,
+            "venue_id":1007886703
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338953,
+            "locality_id":101775603,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863711,
+            "region_id":85682783,
+            "venue_id":1007886703
+        }
+    ],
+    "wof:id":1007886703,
+    "wof:lastmodified":1472590323,
+    "wof:name":"Manzano Garcia Paloma",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5642540455,
+    40.4217262268,
+    -3.5642540455,
+    40.4217262268
+],
+  "geometry": {"coordinates":[-3.5642540455,40.4217262268],"type":"Point"}
+}

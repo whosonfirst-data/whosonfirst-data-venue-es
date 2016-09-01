@@ -1,0 +1,67 @@
+{
+  "id": 1008470029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.6649198532,43.5398292542,-5.6649198532,43.5398292542",
+    "geom:latitude":43.539829,
+    "geom:longitude":-5.66492,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Asturias, 16",
+    "sg:city":"Gijon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 985 34 13 94",
+    "sg:postcode":"33206",
+    "sg:province":"Asturias",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799415,
+        102191581,
+        404340333,
+        85633129,
+        404227365,
+        101748401,
+        85682805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77pySluvngOX5Dswy3m6Vr_43.539829_-5.664920@1306269658"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628713,
+    "wof:geomhash":"c3d046e3bc38d73b9cd85f9d54e6e9d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404340333,
+            "locality_id":101748401,
+            "macroregion_id":404227365,
+            "neighbourhood_id":85799415,
+            "region_id":85682805,
+            "venue_id":1008470029
+        }
+    ],
+    "wof:id":1008470029,
+    "wof:lastmodified":1472628713,
+    "wof:name":"San Pedro Gutierrez Juan",
+    "wof:parent_id":85799415,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.6649198532,
+    43.5398292542,
+    -5.6649198532,
+    43.5398292542
+],
+  "geometry": {"coordinates":[-5.6649198532,43.5398292542],"type":"Point"}
+}

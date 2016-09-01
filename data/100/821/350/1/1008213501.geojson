@@ -1,0 +1,59 @@
+{
+  "id": 1008213501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6037449837,37.1710281372,-3.6037449837,37.1710281372",
+    "geom:latitude":37.171028,
+    "geom:longitude":-3.603745,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Martinez Campos, 14",
+    "sg:city":"Granada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Caf\u00c9s, Bares, Cervecer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 26 21 65",
+    "sg:postcode":"18005",
+    "sg:province":"Granada",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863847,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cAcrzlEgMkWQhnvNKIjJy_37.171028_-3.603745@1306269624"
+    },
+    "wof:country":"ES",
+    "wof:created":1472612613,
+    "wof:geomhash":"5dad70d1331c799f78772db2ab682938",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863847,
+            "region_id":85682731,
+            "venue_id":1008213501
+        }
+    ],
+    "wof:id":1008213501,
+    "wof:lastmodified":1472612613,
+    "wof:name":"Perez Garcia-trivi\u00f1o Jose Carlos",
+    "wof:parent_id":85863847,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6037449837,
+    37.1710281372,
+    -3.6037449837,
+    37.1710281372
+],
+  "geometry": {"coordinates":[-3.6037449837,37.1710281372],"type":"Point"}
+}

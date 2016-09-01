@@ -1,0 +1,71 @@
+{
+  "id": 1007698841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5880610943,40.4431304932,-3.5880610943,40.4431304932",
+    "geom:latitude":40.44313,
+    "geom:longitude":-3.588061,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Deyanira, 57",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 12 00 95",
+    "sg:postcode":"28022",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "organismos",
+        "control"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863629,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Q3gaBgvT19KInIlijc2qq_40.443130_-3.588061@1306269556"
+    },
+    "wof:country":"ES",
+    "wof:created":1472580905,
+    "wof:geomhash":"b5195b6869f1369d4d2117c49706e2a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863629,
+            "region_id":85682783,
+            "venue_id":1007698841
+        }
+    ],
+    "wof:id":1007698841,
+    "wof:lastmodified":1472580905,
+    "wof:name":"Instituto De La Calidad S.a.",
+    "wof:parent_id":85863629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organismos",
+        "control"
+    ]
+},
+  "bbox": [
+    -3.5880610943,
+    40.4431304932,
+    -3.5880610943,
+    40.4431304932
+],
+  "geometry": {"coordinates":[-3.5880610943,40.4431304932],"type":"Point"}
+}

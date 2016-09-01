@@ -1,0 +1,68 @@
+{
+  "id": 1007970119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6654291153,40.4251670837,-3.6654291153,40.4251670837",
+    "geom:latitude":40.425167,
+    "geom:longitude":-3.665429,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Lanuza, 9",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Organizaciones Internacionales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 25 13 31",
+    "sg:postcode":"28028",
+    "sg:province":"Madrid",
+    "sg:website":"www.medicusmundi.es/madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863683,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YS1jjBregjw7c8oAn180N_40.425167_-3.665429@1306269591"
+    },
+    "wof:country":"ES",
+    "wof:created":1472593961,
+    "wof:geomhash":"6b08573a03dacffcb3e1bb7ca65550f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863683,
+            "region_id":85682783,
+            "venue_id":1007970119
+        }
+    ],
+    "wof:id":1007970119,
+    "wof:lastmodified":1472593961,
+    "wof:name":"Medicus Mundi Madrid",
+    "wof:parent_id":85863683,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6654291153,
+    40.4251670837,
+    -3.6654291153,
+    40.4251670837
+],
+  "geometry": {"coordinates":[-3.6654291153,40.4251670837],"type":"Point"}
+}

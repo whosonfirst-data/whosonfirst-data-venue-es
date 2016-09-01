@@ -1,0 +1,84 @@
+{
+  "id": 1024496699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6496952,40.4328978,-3.6496952,40.4328978",
+    "geom:latitude":40.432898,
+    "geom:longitude":-3.649695,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle Alcal\u00e1 302 Planta 1, Oficina 5",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"28027",
+    "sg:tags":[
+        "mobile-applications",
+        "mobile",
+        "mobichannel",
+        "mobilauncher",
+        "device-recognition"
+    ],
+    "sg:website":"http://www.ohlalamobile.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799257,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jVVCSQLXK0fYIC6GtA1qq_40.432898_-3.649695@1308163240"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641479,
+    "wof:geomhash":"db9365e372025addcd2a3db38fc011d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799257,
+            "region_id":85682783,
+            "venue_id":1024496699
+        }
+    ],
+    "wof:id":1024496699,
+    "wof:lastmodified":1472641479,
+    "wof:name":"Ohlala! Mobile",
+    "wof:parent_id":85799257,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile-applications",
+        "mobile",
+        "mobichannel",
+        "mobilauncher",
+        "device-recognition"
+    ]
+},
+  "bbox": [
+    -3.6496952,
+    40.4328978,
+    -3.6496952,
+    40.4328978
+],
+  "geometry": {"coordinates":[-3.6496952,40.4328978],"type":"Point"}
+}

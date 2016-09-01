@@ -1,0 +1,60 @@
+{
+  "id": 1008711895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5623619556,40.4269332886,-3.5623619556,40.4269332886",
+    "geom:latitude":40.426933,
+    "geom:longitude":-3.562362,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Constitucion (de La), 65",
+    "sg:city":"Coslada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 73 34 74",
+    "sg:postcode":"28820",
+    "sg:province":"Madrid",
+    "sg:website":"www.viajescrisol.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863629,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MNXDFalngRGRUPTptIwxW_40.426933_-3.562362@1306269690"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639077,
+    "wof:geomhash":"d2dcf64e9d09905310903acce17e1386",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863629,
+            "region_id":85682783,
+            "venue_id":1008711895
+        }
+    ],
+    "wof:id":1008711895,
+    "wof:lastmodified":1472639077,
+    "wof:name":"Viajes Crisol",
+    "wof:parent_id":85863629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5623619556,
+    40.4269332886,
+    -3.5623619556,
+    40.4269332886
+],
+  "geometry": {"coordinates":[-3.5623619556,40.4269332886],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1007802875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.4493169785,36.710018158,-4.4493169785,36.710018158",
+    "geom:latitude":36.710018,
+    "geom:longitude":-4.449317,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Valle De Abdalajis, 25",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Papeler\u00cdas, Librer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 35 19 83",
+    "sg:postcode":"29006",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863445,
+        102191581,
+        404339241,
+        85633129,
+        404227361,
+        101748185,
+        85682787,
+        85863437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WCi3G3fOI1JCaRDxTD7Q6_36.710018_-4.449317@1306269570"
+    },
+    "wof:country":"ES",
+    "wof:created":1472586484,
+    "wof:geomhash":"1761b6f4af8932554863a53e5d5cd5a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863445,
+            "region_id":85682787,
+            "venue_id":1007802875
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863437,
+            "region_id":85682787,
+            "venue_id":1007802875
+        }
+    ],
+    "wof:id":1007802875,
+    "wof:lastmodified":1472586484,
+    "wof:name":"Leon Salazar Pilar",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4493169785,
+    36.710018158,
+    -4.4493169785,
+    36.710018158
+],
+  "geometry": {"coordinates":[-4.4493169785,36.710018158],"type":"Point"}
+}

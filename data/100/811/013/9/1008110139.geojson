@@ -1,0 +1,59 @@
+{
+  "id": 1008110139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7173950672,40.3129844666,-3.7173950672,40.3129844666",
+    "geom:latitude":40.312984,
+    "geom:longitude":-3.717395,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Caceres, 15",
+    "sg:city":"Getafe",
+    "sg:classifiers":[],
+    "sg:orig_category":"Iglesia Cat\u00d3lica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 96 52 46",
+    "sg:postcode":"28903",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kWM80FHeTHAUKFcF10hwC_40.312984_-3.717395@1306269609"
+    },
+    "wof:country":"ES",
+    "wof:created":1472599955,
+    "wof:geomhash":"e2e1186450dd70c7c9e4e1c9b2df7ec4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1008110139
+        }
+    ],
+    "wof:id":1008110139,
+    "wof:lastmodified":1472599955,
+    "wof:name":"Obispado De Getafe",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7173950672,
+    40.3129844666,
+    -3.7173950672,
+    40.3129844666
+],
+  "geometry": {"coordinates":[-3.7173950672,40.3129844666],"type":"Point"}
+}

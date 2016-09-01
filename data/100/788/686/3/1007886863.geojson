@@ -1,0 +1,59 @@
+{
+  "id": 1007886863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1077098846,41.5473632812,2.1077098846,41.5473632812",
+    "geom:latitude":41.547363,
+    "geom:longitude":2.10771,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Gracia, 12",
+    "sg:city":"Sabadell",
+    "sg:classifiers":[],
+    "sg:orig_category":"Peluquer\u00cdas, Peluquer\u00cda Mixta",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 26 83 53",
+    "sg:postcode":"08201",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VFnuGICxwlmnztJQi1vRy_41.547363_2.107710@1306269581"
+    },
+    "wof:country":"ES",
+    "wof:created":1472590327,
+    "wof:geomhash":"079929069ccbd92351c6ed94f38e3e91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1007886863
+        }
+    ],
+    "wof:id":1007886863,
+    "wof:lastmodified":1472590327,
+    "wof:name":"Manzano Lopez Agustin",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1077098846,
+    41.5473632812,
+    2.1077098846,
+    41.5473632812
+],
+  "geometry": {"coordinates":[2.1077098846,41.5473632812],"type":"Point"}
+}

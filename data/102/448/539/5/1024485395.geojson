@@ -1,0 +1,81 @@
+{
+  "id": 1024485395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8227829933,43.4596672058,-3.8227829933,43.4596672058",
+    "geom:latitude":43.459667,
+    "geom:longitude":-3.822783,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Fernando, 48",
+    "sg:city":"Santander",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 23 45 74",
+    "sg:postcode":"39010",
+    "sg:province":"Cantabria",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799521,
+        102191581,
+        404342209,
+        85633129,
+        404227371,
+        101748391,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h4begj9HGPuW53PZJwaGf_43.459667_-3.822783@1306269696"
+    },
+    "wof:country":"ES",
+    "wof:created":1472640983,
+    "wof:geomhash":"ee9329c4a1ff8a8511e13eb0d0fa318a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342209,
+            "locality_id":101748391,
+            "macroregion_id":404227371,
+            "neighbourhood_id":85799521,
+            "region_id":85682833,
+            "venue_id":1024485395
+        }
+    ],
+    "wof:id":1024485395,
+    "wof:lastmodified":1472640983,
+    "wof:name":"Yumbo San Fernando S. A.",
+    "wof:parent_id":85799521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [
+    -3.8227829933,
+    43.4596672058,
+    -3.8227829933,
+    43.4596672058
+],
+  "geometry": {"coordinates":[-3.8227829933,43.4596672058],"type":"Point"}
+}

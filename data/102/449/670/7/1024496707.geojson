@@ -1,0 +1,92 @@
+{
+  "id": 1024496707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.189241,41.396553,2.189241,41.396553",
+    "geom:latitude":41.396553,
+    "geom:longitude":2.189241,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Passeig de Gracia 49",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"08018",
+    "sg:tags":[
+        "mobile-marketing",
+        "bluetooth-marketing",
+        "location-to-mobile",
+        "web-to-mobile",
+        "proximity-marketing",
+        "digital-marketing",
+        "intelligent-marketing",
+        "people-flow",
+        "audience",
+        "mobileapp",
+        "dotmobi",
+        "augmented-reality",
+        "digital-signage"
+    ],
+    "sg:website":"http://www.futurlink.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0409DmsLHvf3VVbPpHwmom_41.396553_2.189241@1308163237"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641479,
+    "wof:geomhash":"d5cedfe34cd880d32d077add4f2bd35e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1024496707
+        }
+    ],
+    "wof:id":1024496707,
+    "wof:lastmodified":1472641479,
+    "wof:name":"Futurlink",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile-marketing",
+        "bluetooth-marketing",
+        "location-to-mobile",
+        "web-to-mobile",
+        "proximity-marketing",
+        "digital-marketing",
+        "intelligent-marketing",
+        "people-flow",
+        "audience",
+        "mobileapp",
+        "dotmobi",
+        "augmented-reality",
+        "digital-signage"
+    ]
+},
+  "bbox": [
+    2.189241,
+    41.396553,
+    2.189241,
+    41.396553
+],
+  "geometry": {"coordinates":[2.189241,41.396553],"type":"Point"}
+}

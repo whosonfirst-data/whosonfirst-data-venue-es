@@ -1,0 +1,76 @@
+{
+  "id": 1007906543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.4297610521,38.9114837646,1.4297610521,38.9114837646",
+    "geom:latitude":38.911484,
+    "geom:longitude":1.429761,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carr Madrid, 33",
+    "sg:city":"Eivissa",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 31 50 61",
+    "sg:postcode":"07800",
+    "sg:province":"Islas Baleares",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101777557,
+        85864231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dwCNOgor8IvSBhpH2IEBP_38.911484_1.429761@1306269583"
+    },
+    "wof:country":"ES",
+    "wof:created":1472591155,
+    "wof:geomhash":"c2fbb310a56ca1c7c9c1275df11322c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101777557,
+            "neighbourhood_id":85864231,
+            "region_id":-1,
+            "venue_id":1007906543
+        }
+    ],
+    "wof:id":1007906543,
+    "wof:lastmodified":1472591155,
+    "wof:name":"Mari Torres Pedro",
+    "wof:parent_id":85864231,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    1.4297610521,
+    38.9114837646,
+    1.4297610521,
+    38.9114837646
+],
+  "geometry": {"coordinates":[1.4297610521,38.9114837646],"type":"Point"}
+}

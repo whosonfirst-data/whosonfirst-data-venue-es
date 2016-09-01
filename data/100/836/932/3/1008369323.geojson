@@ -1,0 +1,59 @@
+{
+  "id": 1008369323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4825609922,38.3596153259,-0.4825609922,38.3596153259",
+    "geom:latitude":38.359615,
+    "geom:longitude":-0.482561,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pinoso, 9",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Contenedores (mercanc\u00cdas)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 24 22 85",
+    "sg:postcode":"03012",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864065,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bBVHSKrtYdh3SiGu7cydg_38.359615_-0.482561@1306269644"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624332,
+    "wof:geomhash":"96e05562282f784e0dd4d5162983801e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864065,
+            "region_id":85682625,
+            "venue_id":1008369323
+        }
+    ],
+    "wof:id":1008369323,
+    "wof:lastmodified":1472624332,
+    "wof:name":"Rocamora Zaragoza Joaquin",
+    "wof:parent_id":85864065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4825609922,
+    38.3596153259,
+    -0.4825609922,
+    38.3596153259
+],
+  "geometry": {"coordinates":[-0.4825609922,38.3596153259],"type":"Point"}
+}

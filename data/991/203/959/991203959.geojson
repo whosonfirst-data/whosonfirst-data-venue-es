@@ -1,0 +1,60 @@
+{
+  "id": 991203959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1774890423,41.3970451355,2.1774890423,41.3970451355",
+    "geom:latitude":41.397045,
+    "geom:longitude":2.177489,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Napols, 146",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cajas De Ahorro",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 32 01 14",
+    "sg:postcode":"08013",
+    "sg:province":"Barcelona",
+    "sg:website":"www.lacaixa.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A9gb1hwQyqLJW3xxWCUdO_41.397045_2.177489@1306269454"
+    },
+    "wof:country":"ES",
+    "wof:created":1472536793,
+    "wof:geomhash":"7697610c9f2fa993b797e0b742776218",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":991203959
+        }
+    ],
+    "wof:id":991203959,
+    "wof:lastmodified":1472536793,
+    "wof:name":"Caixa D'estalvis I Pensions De Barcelona",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1774890423,
+    41.3970451355,
+    2.1774890423,
+    41.3970451355
+],
+  "geometry": {"coordinates":[2.1774890423,41.3970451355],"type":"Point"}
+}

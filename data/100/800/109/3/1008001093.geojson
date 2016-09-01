@@ -1,0 +1,59 @@
+{
+  "id": 1008001093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8804318905,40.4904136658,-3.8804318905,40.4904136658",
+    "geom:latitude":40.490414,
+    "geom:longitude":-3.880432,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Comunidad Castilla-leon, 78",
+    "sg:city":"Rozas De Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c9dicos: Estomatolog\u00cda",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 39 14 77",
+    "sg:postcode":"28230",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863613,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70FmeMUmeNErhMlbJf2kQv_40.490414_-3.880432@1306269595"
+    },
+    "wof:country":"ES",
+    "wof:created":1472595234,
+    "wof:geomhash":"bdd8bbb76cf07a0794984d200bbf7f68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863613,
+            "region_id":85682783,
+            "venue_id":1008001093
+        }
+    ],
+    "wof:id":1008001093,
+    "wof:lastmodified":1472595234,
+    "wof:name":"Mingo Regulez Cristina",
+    "wof:parent_id":85863613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8804318905,
+    40.4904136658,
+    -3.8804318905,
+    40.4904136658
+],
+  "geometry": {"coordinates":[-3.8804318905,40.4904136658],"type":"Point"}
+}

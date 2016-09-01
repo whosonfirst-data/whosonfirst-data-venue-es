@@ -1,0 +1,60 @@
+{
+  "id": 1008402123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1363470554,41.4931526184,2.1363470554,41.4931526184",
+    "geom:latitude":41.493153,
+    "geom:longitude":2.136347,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"C/ Sant Antoni, 48",
+    "sg:city":"Cerdanyola Valles",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pintura Y Barniz (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 936 92 40 98",
+    "sg:postcode":"08290",
+    "sg:province":"Barcelona",
+    "sg:website":"www.grupolober.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799639,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JyK1KK8mihMfs0HQshRMu_41.493153_2.136347@1306269649"
+    },
+    "wof:country":"ES",
+    "wof:created":1472625788,
+    "wof:geomhash":"64ca8200a251486b49b2be97ed67f80d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799639,
+            "region_id":85682663,
+            "venue_id":1008402123
+        }
+    ],
+    "wof:id":1008402123,
+    "wof:lastmodified":1472625788,
+    "wof:name":"Romero Sanchez Elio",
+    "wof:parent_id":85799639,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1363470554,
+    41.4931526184,
+    2.1363470554,
+    41.4931526184
+],
+  "geometry": {"coordinates":[2.1363470554,41.4931526184],"type":"Point"}
+}

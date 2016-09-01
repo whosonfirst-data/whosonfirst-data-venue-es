@@ -1,0 +1,67 @@
+{
+  "id": 1008525107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3328720033,39.4614830017,-0.3328720033,39.4614830017",
+    "geom:latitude":39.461483,
+    "geom:longitude":-0.332872,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Jose Aguirre, 38",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 67 97 01",
+    "sg:postcode":"46011",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864199,
+        102191581,
+        404345361,
+        85633129,
+        404227381,
+        101748241,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IIVfpI3HuWX9xTnDZUEDt_39.461483_-0.332872@1306269665"
+    },
+    "wof:country":"ES",
+    "wof:created":1472631074,
+    "wof:geomhash":"6b5df9e8876a5403eaeb6ed9c25d788b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345361,
+            "locality_id":101748241,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864199,
+            "region_id":85682867,
+            "venue_id":1008525107
+        }
+    ],
+    "wof:id":1008525107,
+    "wof:lastmodified":1472631074,
+    "wof:name":"Silvestre Marti Enrique",
+    "wof:parent_id":85864199,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3328720033,
+    39.4614830017,
+    -0.3328720033,
+    39.4614830017
+],
+  "geometry": {"coordinates":[-0.3328720033,39.4614830017],"type":"Point"}
+}

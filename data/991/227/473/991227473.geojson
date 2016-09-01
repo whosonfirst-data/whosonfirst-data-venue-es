@@ -1,0 +1,83 @@
+{
+  "id": 991227473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9330499172,43.2656669617,-2.9330499172,43.2656669617",
+    "geom:latitude":43.265667,
+    "geom:longitude":-2.93305,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ajuriaguerra Juan, 13",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 23 93 40",
+    "sg:postcode":"48009",
+    "sg:province":"Vizcaya",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102545753,
+        85799275,
+        102191581,
+        404346127,
+        85633129,
+        404227393,
+        101771909,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BUfXxNkF4gKnXmvXrCFot_43.265667_-2.933050@1306269457"
+    },
+    "wof:country":"ES",
+    "wof:created":1472538883,
+    "wof:geomhash":"befcfe7f5cfb89962e45dd9de331d07f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545753,
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404346127,
+            "locality_id":101771909,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85799275,
+            "region_id":85682879,
+            "venue_id":991227473
+        }
+    ],
+    "wof:id":991227473,
+    "wof:lastmodified":1472538883,
+    "wof:name":"Caledonia S. A.",
+    "wof:parent_id":102545753,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    -2.9330499172,
+    43.2656669617,
+    -2.9330499172,
+    43.2656669617
+],
+  "geometry": {"coordinates":[-2.9330499172,43.2656669617],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 1024496645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6830316,40.4225487,-3.6830316,40.4225487",
+    "geom:latitude":40.422549,
+    "geom:longitude":-3.683032,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle Columela 2, 1D",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"28001",
+    "sg:tags":[
+        "online-language-learning",
+        "online-community",
+        "social-network",
+        "learn-english",
+        "learn-spanish",
+        "learn-french",
+        "learn-german",
+        "learning-2-0",
+        "education",
+        "video-chat",
+        "community",
+        "free-learning"
+    ],
+    "sg:website":"http://www.busuu.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863809,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KgWHAMDTIa8g1pLXVZZai_40.422549_-3.683032@1308163240"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641476,
+    "wof:geomhash":"019243834bfa78687bfdc1e47c8360a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863809,
+            "region_id":85682783,
+            "venue_id":1024496645
+        }
+    ],
+    "wof:id":1024496645,
+    "wof:lastmodified":1472641476,
+    "wof:name":"busuu",
+    "wof:parent_id":85863809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "online-language-learning",
+        "online-community",
+        "social-network",
+        "learn-english",
+        "learn-spanish",
+        "learn-french",
+        "learn-german",
+        "learning-2-0",
+        "education",
+        "video-chat",
+        "community",
+        "free-learning"
+    ]
+},
+  "bbox": [
+    -3.6830316,
+    40.4225487,
+    -3.6830316,
+    40.4225487
+],
+  "geometry": {"coordinates":[-3.6830316,40.4225487],"type":"Point"}
+}

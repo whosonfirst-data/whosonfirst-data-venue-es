@@ -1,0 +1,67 @@
+{
+  "id": 1008084495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1600990295,41.3777656555,2.1600990295,41.3777656555",
+    "geom:latitude":41.377766,
+    "geom:longitude":2.160099,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Viladomat, 60",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Dietistas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 25 46 78",
+    "sg:postcode":"08015",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864037,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fZQVmpsDniUAeQWyH7qM2_41.377766_2.160099@1306269606"
+    },
+    "wof:country":"ES",
+    "wof:created":1472598843,
+    "wof:geomhash":"ec3ae981b2e40ff4bb280ce73e1ac3d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864037,
+            "region_id":85682663,
+            "venue_id":1008084495
+        }
+    ],
+    "wof:id":1008084495,
+    "wof:lastmodified":1472598843,
+    "wof:name":"Navarro Jolonch Matilde",
+    "wof:parent_id":85864037,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1600990295,
+    41.3777656555,
+    2.1600990295,
+    41.3777656555
+],
+  "geometry": {"coordinates":[2.1600990295,41.3777656555],"type":"Point"}
+}

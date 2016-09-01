@@ -1,0 +1,59 @@
+{
+  "id": 1007946275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.4219632149,36.7428131104,-4.4219632149,36.7428131104",
+    "geom:latitude":36.742813,
+    "geom:longitude":-4.421963,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Emilio Thuillier, 14",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 25 27 64",
+    "sg:postcode":"29014",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863495,
+        85682787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0O0xVRh6J2RGnznQfCdn8l_36.742813_-4.421963@1306269588"
+    },
+    "wof:country":"ES",
+    "wof:created":1472592983,
+    "wof:geomhash":"31068f1def3c51eab1bba8d4eeff9916",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863495,
+            "region_id":85682787,
+            "venue_id":1007946275
+        }
+    ],
+    "wof:id":1007946275,
+    "wof:lastmodified":1472592983,
+    "wof:name":"Martin Ruiz Juan Salvador",
+    "wof:parent_id":85863495,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4219632149,
+    36.7428131104,
+    -4.4219632149,
+    36.7428131104
+],
+  "geometry": {"coordinates":[-4.4219632149,36.7428131104],"type":"Point"}
+}

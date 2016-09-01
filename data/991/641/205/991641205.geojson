@@ -1,0 +1,81 @@
+{
+  "id": 991641205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7124431133,40.43775177,-3.7124431133,40.43775177",
+    "geom:latitude":40.437752,
+    "geom:longitude":-3.712443,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Joaquin Maria Lopez, 34",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 43 03 50",
+    "sg:postcode":"28015",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863655,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EfaVMAmJ7p2gXJRKRBspx_40.437752_-3.712443@1306269513"
+    },
+    "wof:country":"ES",
+    "wof:created":1472562540,
+    "wof:geomhash":"9a5c76d49be0b51c27386ec609796e67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863655,
+            "region_id":85682783,
+            "venue_id":991641205
+        }
+    ],
+    "wof:id":991641205,
+    "wof:lastmodified":1472562540,
+    "wof:name":"Fernandez Gonzales Jose Luis",
+    "wof:parent_id":85863655,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    -3.7124431133,
+    40.43775177,
+    -3.7124431133,
+    40.43775177
+],
+  "geometry": {"coordinates":[-3.7124431133,40.43775177],"type":"Point"}
+}

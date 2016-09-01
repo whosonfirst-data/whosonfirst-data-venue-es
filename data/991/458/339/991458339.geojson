@@ -1,0 +1,82 @@
+{
+  "id": 991458339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6942191124,40.409198761,-3.6942191124,40.409198761",
+    "geom:latitude":40.409199,
+    "geom:longitude":-3.694219,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Sanchez Bustillo, 9",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 67 12 64",
+    "sg:postcode":"28012",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "sg:website":"www.fila5.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863793,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QSBLO7yKjzkOPcNoAGGhl_40.409199_-3.694219@1306269488"
+    },
+    "wof:country":"ES",
+    "wof:created":1472552129,
+    "wof:geomhash":"11bd5a6de8e462672f6a9374b647ba95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863793,
+            "region_id":85682783,
+            "venue_id":991458339
+        }
+    ],
+    "wof:id":991458339,
+    "wof:lastmodified":1472552129,
+    "wof:name":"C.s. Cb",
+    "wof:parent_id":85863793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    -3.6942191124,
+    40.409198761,
+    -3.6942191124,
+    40.409198761
+],
+  "geometry": {"coordinates":[-3.6942191124,40.409198761],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 991620451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6710419655,40.3997192383,-3.6710419655,40.3997192383",
+    "geom:latitude":40.399719,
+    "geom:longitude":-3.671042,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Luis Mitjans, 12",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 01 55 60",
+    "sg:postcode":"28007",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863737,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IktKRMLzZfbri2mOMFB47_40.399719_-3.671042@1306269510"
+    },
+    "wof:country":"ES",
+    "wof:created":1472561333,
+    "wof:geomhash":"139d6e646623fe3cfa7fe15618758998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863737,
+            "region_id":85682783,
+            "venue_id":991620451
+        }
+    ],
+    "wof:id":991620451,
+    "wof:lastmodified":1472561333,
+    "wof:name":"Fans Estilo S.l.",
+    "wof:parent_id":85863737,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.6710419655,
+    40.3997192383,
+    -3.6710419655,
+    40.3997192383
+],
+  "geometry": {"coordinates":[-3.6710419655,40.3997192383],"type":"Point"}
+}

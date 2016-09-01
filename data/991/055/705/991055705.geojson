@@ -1,0 +1,73 @@
+{
+  "id": 991055705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6431879997,40.4313430786,-3.6431879997,40.4313430786",
+    "geom:latitude":40.431343,
+    "geom:longitude":-3.643188,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Vital Aza, 28",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 67 14 55",
+    "sg:postcode":"28017",
+    "sg:province":"Madrid",
+    "sg:website":"www.autoescuelabalmaseda.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799257,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TLCLiOuGRKOBCFpUenv6F_40.431343_-3.643188@1306269434"
+    },
+    "wof:country":"ES",
+    "wof:created":1472523330,
+    "wof:geomhash":"a0afe271ca51b012eed9df39dc87ac22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799257,
+            "region_id":85682783,
+            "venue_id":991055705
+        }
+    ],
+    "wof:id":991055705,
+    "wof:lastmodified":1472523330,
+    "wof:name":"Auto Escuela Balmaseda S.a.",
+    "wof:parent_id":85799257,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6431879997,
+    40.4313430786,
+    -3.6431879997,
+    40.4313430786
+],
+  "geometry": {"coordinates":[-3.6431879997,40.4313430786],"type":"Point"}
+}

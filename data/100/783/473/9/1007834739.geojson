@@ -1,0 +1,77 @@
+{
+  "id": 1007834739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1821784973,41.3866233826,2.1821784973,41.3866233826",
+    "geom:latitude":41.386623,
+    "geom:longitude":2.182178,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Comer\u00c7, 42",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias Y Agentes Comerciales, Representantes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 10 32 39",
+    "sg:postcode":"08003",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799447,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FBFN7APTBpOQvJN12zcRK_41.386623_2.182178@1306269574"
+    },
+    "wof:country":"ES",
+    "wof:created":1472587948,
+    "wof:geomhash":"c13efd7582fc6e757c2b6caa2f4d8ebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799447,
+            "region_id":85682663,
+            "venue_id":1007834739
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":1007834739
+        }
+    ],
+    "wof:id":1007834739,
+    "wof:lastmodified":1472587948,
+    "wof:name":"Lopez Garcia Fulgencio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1821784973,
+    41.3866233826,
+    2.1821784973,
+    41.3866233826
+],
+  "geometry": {"coordinates":[2.1821784973,41.3866233826],"type":"Point"}
+}

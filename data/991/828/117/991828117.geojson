@@ -1,0 +1,67 @@
+{
+  "id": 991828117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1545259953,41.3968658447,2.1545259953,41.3968658447",
+    "geom:latitude":41.396866,
+    "geom:longitude":2.154526,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Via Augusta, 17",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 37 11 76",
+    "sg:postcode":"08006",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864017,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0p1QSuvjJq8ernlutRqCez_41.396866_2.154526@1306269537"
+    },
+    "wof:country":"ES",
+    "wof:created":1472573511,
+    "wof:geomhash":"b97e3eef2e022108b7e64146118e7c94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864017,
+            "region_id":85682663,
+            "venue_id":991828117
+        }
+    ],
+    "wof:id":991828117,
+    "wof:lastmodified":1472573511,
+    "wof:name":"Gonzalez Ledesma Francisco",
+    "wof:parent_id":85864017,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1545259953,
+    41.3968658447,
+    2.1545259953,
+    41.3968658447
+],
+  "geometry": {"coordinates":[2.1545259953,41.3968658447],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 991113631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1778509617,41.381111145,2.1778509617,41.381111145",
+    "geom:latitude":41.381111,
+    "geom:longitude":2.177851,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Palau, 4",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 12 19 31",
+    "sg:postcode":"08002",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864033,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aEOzj65Neu7SOsRs3nOe0_41.381111_2.177851@1306269442"
+    },
+    "wof:country":"ES",
+    "wof:created":1472527863,
+    "wof:geomhash":"0e6a5207a047d74ba8657fee50e9a8cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864033,
+            "region_id":85682663,
+            "venue_id":991113631
+        }
+    ],
+    "wof:id":991113631,
+    "wof:lastmodified":1472527863,
+    "wof:name":"Barnola Schonhofer Antonio",
+    "wof:parent_id":85864033,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    2.1778509617,
+    41.381111145,
+    2.1778509617,
+    41.381111145
+],
+  "geometry": {"coordinates":[2.1778509617,41.381111145],"type":"Point"}
+}

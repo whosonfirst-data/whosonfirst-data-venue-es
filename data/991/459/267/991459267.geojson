@@ -1,0 +1,64 @@
+{
+  "id": 991459267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7751948833,40.3757133484,-3.7751948833,40.3757133484",
+    "geom:latitude":40.375713,
+    "geom:longitude":-3.775195,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Valle Inclan, 74",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 05 51 66",
+    "sg:postcode":"28044",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863785,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BoIcxDnwcBAcjehQBmAOW_40.375713_-3.775195@1306269488"
+    },
+    "wof:country":"ES",
+    "wof:created":1472552195,
+    "wof:geomhash":"ac06713a84ea04f87d8190ecd59e1731",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863785,
+            "region_id":85682783,
+            "venue_id":991459267
+        }
+    ],
+    "wof:id":991459267,
+    "wof:lastmodified":1472552195,
+    "wof:name":"Cuadrado Velasco Jose Antonio",
+    "wof:parent_id":85863785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7751948833,
+    40.3757133484,
+    -3.7751948833,
+    40.3757133484
+],
+  "geometry": {"coordinates":[-3.7751948833,40.3757133484],"type":"Point"}
+}

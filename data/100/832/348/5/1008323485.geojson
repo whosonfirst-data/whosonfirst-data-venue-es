@@ -1,0 +1,75 @@
+{
+  "id": 1008323485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1028659344,41.543762207,2.1028659344,41.543762207",
+    "geom:latitude":41.543762,
+    "geom:longitude":2.102866,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ctra Terrassa, S/n",
+    "sg:city":"Sabadell",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 28 10 00",
+    "sg:postcode":"08...",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "y",
+        "de",
+        "campos",
+        "clases"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dmo1A19Y6yX4cHPy7GaOa_41.543762_2.102866@1306269638"
+    },
+    "wof:country":"ES",
+    "wof:created":1472622314,
+    "wof:geomhash":"0b537be1aa102c8882516f4f62ebd708",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008323485
+        }
+    ],
+    "wof:id":1008323485,
+    "wof:lastmodified":1472622314,
+    "wof:name":"Real Club De Golf El Prat",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "y",
+        "de",
+        "campos",
+        "clases"
+    ]
+},
+  "bbox": [
+    2.1028659344,
+    41.543762207,
+    2.1028659344,
+    41.543762207
+],
+  "geometry": {"coordinates":[2.1028659344,41.543762207],"type":"Point"}
+}

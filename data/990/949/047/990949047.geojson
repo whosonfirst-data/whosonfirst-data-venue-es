@@ -1,0 +1,74 @@
+{
+  "id": 990949047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3794878125,39.4524116516,-0.3794878125,39.4524116516",
+    "geom:latitude":39.452412,
+    "geom:longitude":-0.379488,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Bernardo Morales Sanmartin, 13",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros Empresariales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 73 15 38",
+    "sg:postcode":"46026",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864205,
+        85682867,
+        85864201,
+        102191581,
+        404345361,
+        404227381,
+        101748241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JJaw9V9wSTRFDt8SC7nL5_39.452412_-0.379488@1306269420"
+    },
+    "wof:country":"ES",
+    "wof:created":1472514114,
+    "wof:geomhash":"a187c367df3c37d8ed111c30c493da05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864205,
+            "region_id":85682867,
+            "venue_id":990949047
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345361,
+            "locality_id":101748241,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864201,
+            "region_id":85682867,
+            "venue_id":990949047
+        }
+    ],
+    "wof:id":990949047,
+    "wof:lastmodified":1472514114,
+    "wof:name":"Alquivare S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3794878125,
+    39.4524116516,
+    -0.3794878125,
+    39.4524116516
+],
+  "geometry": {"coordinates":[-0.3794878125,39.4524116516],"type":"Point"}
+}

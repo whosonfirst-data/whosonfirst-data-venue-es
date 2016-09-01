@@ -1,0 +1,78 @@
+{
+  "id": 1008197155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7684950829,40.3980560303,-3.7684950829,40.3980560303",
+    "geom:latitude":40.398056,
+    "geom:longitude":-3.768495,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Villaviciosa, 22",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agentes Generales De Seguros",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 18 72 69",
+    "sg:postcode":"28024",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863817,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85799479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LYhpn0Fv5yIKa2O1bifCa_40.398056_-3.768495@1306269621"
+    },
+    "wof:country":"ES",
+    "wof:created":1472608920,
+    "wof:geomhash":"972479f7988e728bcaf43170c0db7470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863817,
+            "region_id":85682783,
+            "venue_id":1008197155
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799479,
+            "region_id":85682783,
+            "venue_id":1008197155
+        }
+    ],
+    "wof:id":1008197155,
+    "wof:lastmodified":1472608920,
+    "wof:name":"Peiro Carbonell Jorge",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7684950829,
+    40.3980560303,
+    -3.7684950829,
+    40.3980560303
+],
+  "geometry": {"coordinates":[-3.7684950829,40.3980560303],"type":"Point"}
+}

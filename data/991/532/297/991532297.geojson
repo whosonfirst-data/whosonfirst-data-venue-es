@@ -1,0 +1,63 @@
+{
+  "id": 991532297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1833529472,41.3848724365,2.1833529472,41.3848724365",
+    "geom:latitude":41.384872,
+    "geom:longitude":2.183353,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Antic De Sant Joan, 8",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electricidad Veh\u00cdculo",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 15 28 03",
+    "sg:postcode":"08003",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3i9r3VcjApIyj0yZbMLK5k_41.384872_2.183353@1306269498"
+    },
+    "wof:country":"ES",
+    "wof:created":1472556117,
+    "wof:geomhash":"38e2bb0c4a99a3885226d2c235c6dc29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":991532297
+        }
+    ],
+    "wof:id":991532297,
+    "wof:lastmodified":1472556117,
+    "wof:name":"Duran Boada Agustin",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1833529472,
+    41.3848724365,
+    2.1833529472,
+    41.3848724365
+],
+  "geometry": {"coordinates":[2.1833529472,41.3848724365],"type":"Point"}
+}

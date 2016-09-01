@@ -1,0 +1,59 @@
+{
+  "id": 1007870951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6456987858,39.5886993408,2.6456987858,39.5886993408",
+    "geom:latitude":39.588699,
+    "geom:longitude":2.645699,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de General Riera, 79",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Muebles, Minoristas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 75 06 26",
+    "sg:postcode":"07010",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864091,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ep77tvctQnf4tNiTlsPBW_39.588699_2.645699@1306269579"
+    },
+    "wof:country":"ES",
+    "wof:created":1472589717,
+    "wof:geomhash":"d2ea871dc7ab54f64870af2aae7bd3de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":1007870951
+        }
+    ],
+    "wof:id":1007870951,
+    "wof:lastmodified":1472589717,
+    "wof:name":"Maga\u00f1a Li\u00f1an Angel",
+    "wof:parent_id":85864091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6456987858,
+    39.5886993408,
+    2.6456987858,
+    39.5886993408
+],
+  "geometry": {"coordinates":[2.6456987858,39.5886993408],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1008563399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6287016869,40.5441932678,-3.6287016869,40.5441932678",
+    "geom:latitude":40.544193,
+    "geom:longitude":-3.628702,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Real, 1",
+    "sg:city":"San Sebastian De Los Reyes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Doctores En Medicina",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 53 45 83",
+    "sg:postcode":"28700",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FhJDZc4S9j6r5rIJE9Eod_40.544193_-3.628702@1306269670"
+    },
+    "wof:country":"ES",
+    "wof:created":1472632702,
+    "wof:geomhash":"d8cd94543708f4a5d8b27d2665b9d5fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1008563399
+        }
+    ],
+    "wof:id":1008563399,
+    "wof:lastmodified":1472632702,
+    "wof:name":"Suarez Gisbert Eugenio",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6287016869,
+    40.5441932678,
+    -3.6287016869,
+    40.5441932678
+],
+  "geometry": {"coordinates":[-3.6287016869,40.5441932678],"type":"Point"}
+}

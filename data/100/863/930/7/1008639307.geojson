@@ -1,0 +1,67 @@
+{
+  "id": 1008639307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1738209724,41.3829612732,2.1738209724,41.3829612732",
+    "geom:latitude":41.382961,
+    "geom:longitude":2.173821,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Pi, 3",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Piedra Natural",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 17 35 30",
+    "sg:postcode":"08002",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864033,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fiAdi4XzgeQeQdRVXllCt_41.382961_2.173821@1306269680"
+    },
+    "wof:country":"ES",
+    "wof:created":1472635930,
+    "wof:geomhash":"69044d6a60189f362cf4b29fd625f933",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864033,
+            "region_id":85682663,
+            "venue_id":1008639307
+        }
+    ],
+    "wof:id":1008639307,
+    "wof:lastmodified":1472635930,
+    "wof:name":"Torres Palmitjavila Joaquin",
+    "wof:parent_id":85864033,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1738209724,
+    41.3829612732,
+    2.1738209724,
+    41.3829612732
+],
+  "geometry": {"coordinates":[2.1738209724,41.3829612732],"type":"Point"}
+}

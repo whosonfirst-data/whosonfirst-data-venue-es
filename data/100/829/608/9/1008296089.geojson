@@ -1,0 +1,67 @@
+{
+  "id": 1008296089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1602809429,41.3823661804,2.1602809429,41.3823661804",
+    "geom:latitude":41.382366,
+    "geom:longitude":2.160281,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Villarroel, 45",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 54 91 19",
+    "sg:postcode":"08011",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864027,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70Sm55znEWXJClJy5vD1Or_41.382366_2.160281@1306269635"
+    },
+    "wof:country":"ES",
+    "wof:created":1472618687,
+    "wof:geomhash":"c8b35c388a439e058f194224e130d5f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864027,
+            "region_id":85682663,
+            "venue_id":1008296089
+        }
+    ],
+    "wof:id":1008296089,
+    "wof:lastmodified":1472618687,
+    "wof:name":"Puig Vidiella Jaime",
+    "wof:parent_id":85864027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1602809429,
+    41.3823661804,
+    2.1602809429,
+    41.3823661804
+],
+  "geometry": {"coordinates":[2.1602809429,41.3823661804],"type":"Point"}
+}

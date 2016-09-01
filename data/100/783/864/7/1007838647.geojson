@@ -1,0 +1,74 @@
+{
+  "id": 1007838647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.4190340042,36.7347259521,-4.4190340042,36.7347259521",
+    "geom:latitude":36.734726,
+    "geom:longitude":-4.419034,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Albeniz, S/n",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Carnicer\u00cdas, Carnicer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 25 99 46",
+    "sg:postcode":"29014",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863497,
+        102191581,
+        404339241,
+        85633129,
+        404227361,
+        101748185,
+        85682787,
+        85863495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oHHGfU54nbvpVBWttlnKT_36.734726_-4.419034@1306269575"
+    },
+    "wof:country":"ES",
+    "wof:created":1472588151,
+    "wof:geomhash":"430e383dc3f5ceb9143f5e2819c99eba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863497,
+            "region_id":85682787,
+            "venue_id":1007838647
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863495,
+            "region_id":85682787,
+            "venue_id":1007838647
+        }
+    ],
+    "wof:id":1007838647,
+    "wof:lastmodified":1472588151,
+    "wof:name":"Lopez Lopez Pedro Miguel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4190340042,
+    36.7347259521,
+    -4.4190340042,
+    36.7347259521
+],
+  "geometry": {"coordinates":[-4.4190340042,36.7347259521],"type":"Point"}
+}

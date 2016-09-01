@@ -1,0 +1,59 @@
+{
+  "id": 1008352579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2485098839,41.4601631165,2.2485098839,41.4601631165",
+    "geom:latitude":41.460163,
+    "geom:longitude":2.24851,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avgd Morera, 16",
+    "sg:city":"Badalona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Carnicer\u00cdas, Carnicer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 95 06 04",
+    "sg:postcode":"08915",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799485,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0a0p1e1AwmYtcvyMqD7V5G_41.460163_2.248510@1306269642"
+    },
+    "wof:country":"ES",
+    "wof:created":1472623628,
+    "wof:geomhash":"e2d4652c41054c569d7dff31b779ab7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799485,
+            "region_id":85682663,
+            "venue_id":1008352579
+        }
+    ],
+    "wof:id":1008352579,
+    "wof:lastmodified":1472623628,
+    "wof:name":"Rey Segura Caterina",
+    "wof:parent_id":85799485,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2485098839,
+    41.4601631165,
+    2.2485098839,
+    41.4601631165
+],
+  "geometry": {"coordinates":[2.2485098839,41.4601631165],"type":"Point"}
+}

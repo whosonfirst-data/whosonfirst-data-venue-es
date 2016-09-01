@@ -1,0 +1,60 @@
+{
+  "id": 1007683869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6103610992,40.5487136841,-3.6103610992,40.5487136841",
+    "geom:latitude":40.548714,
+    "geom:longitude":-3.610361,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Pirineos (de Los), 7",
+    "sg:city":"San Sebastian De Los Reyes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros Empresariales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 59 21 20",
+    "sg:postcode":"28700",
+    "sg:province":"Madrid",
+    "sg:website":"www.ingelyt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863585,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cfIPSqR8GzXSdrx2Vilsj_40.548714_-3.610361@1306269554"
+    },
+    "wof:country":"ES",
+    "wof:created":1472580186,
+    "wof:geomhash":"dcbeeb4d21ef380a719b22aa653f0ccf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863585,
+            "region_id":85682783,
+            "venue_id":1007683869
+        }
+    ],
+    "wof:id":1007683869,
+    "wof:lastmodified":1472580186,
+    "wof:name":"Ingelyt S.l.",
+    "wof:parent_id":85863585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6103610992,
+    40.5487136841,
+    -3.6103610992,
+    40.5487136841
+],
+  "geometry": {"coordinates":[-3.6103610992,40.5487136841],"type":"Point"}
+}

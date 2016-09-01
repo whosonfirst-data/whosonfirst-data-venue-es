@@ -1,0 +1,67 @@
+{
+  "id": 1008680491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8793690205,41.6516418457,-0.8793690205,41.6516418457",
+    "geom:latitude":41.651642,
+    "geom:longitude":-0.879369,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Coso, 66",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 23 75 31",
+    "sg:postcode":"50001",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863349,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4t0hWTmrvVtSyAJwykgdF2_41.651642_-0.879369@1306269686"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637651,
+    "wof:geomhash":"55067d0cd1047ffc697c6f205321d343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863349,
+            "region_id":85682891,
+            "venue_id":1008680491
+        }
+    ],
+    "wof:id":1008680491,
+    "wof:lastmodified":1472637651,
+    "wof:name":"Vacas Gonzalez Carlos",
+    "wof:parent_id":85863349,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8793690205,
+    41.6516418457,
+    -0.8793690205,
+    41.6516418457
+],
+  "geometry": {"coordinates":[-0.8793690205,41.6516418457],"type":"Point"}
+}

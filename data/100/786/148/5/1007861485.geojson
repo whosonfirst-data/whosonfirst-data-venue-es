@@ -1,0 +1,78 @@
+{
+  "id": 1007861485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6040725708,37.1841850281,-3.6040725708,37.1841850281",
+    "geom:latitude":37.184185,
+    "geom:longitude":-3.604073,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Constitucion (de La), 10",
+    "sg:city":"Granada",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c9dicos: An\u00c1lisis Cl\u00cdnicos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 20 78 16",
+    "sg:postcode":"18012",
+    "sg:province":"Granada",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863849,
+        102191581,
+        404335211,
+        85633129,
+        404227361,
+        101748197,
+        85682731,
+        85863841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3C4WT7mVw1xDVLBGi7LOHQ_37.184185_-3.604073@1306269578"
+    },
+    "wof:country":"ES",
+    "wof:created":1472589280,
+    "wof:geomhash":"c7c7e536d2ca9773bb9c2887d2c0715d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404335211,
+            "locality_id":101748197,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863849,
+            "region_id":85682731,
+            "venue_id":1007861485
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404335211,
+            "locality_id":101748197,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863841,
+            "region_id":85682731,
+            "venue_id":1007861485
+        }
+    ],
+    "wof:id":1007861485,
+    "wof:lastmodified":1472589280,
+    "wof:name":"Luque Maza Rosario",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6040725708,
+    37.1841850281,
+    -3.6040725708,
+    37.1841850281
+],
+  "geometry": {"coordinates":[-3.6040725708,37.1841850281],"type":"Point"}
+}

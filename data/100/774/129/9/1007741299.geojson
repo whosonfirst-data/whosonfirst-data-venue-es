@@ -1,0 +1,74 @@
+{
+  "id": 1007741299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9262909889,43.2713928223,-2.9262909889,43.2713928223",
+    "geom:latitude":43.271393,
+    "geom:longitude":-2.926291,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cmno Molino De Viento, 22",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 45 35 70",
+    "sg:postcode":"48007",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102545753,
+        85799275,
+        102191581,
+        404346127,
+        85633129,
+        404227393,
+        101771909,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Uwt8PoBTMAPdnXygCGnX8_43.271393_-2.926291@1306269562"
+    },
+    "wof:country":"ES",
+    "wof:created":1472583191,
+    "wof:geomhash":"53fc00dc426b32a300c56d14dfbe9482",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545753,
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404346127,
+            "locality_id":101771909,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85799275,
+            "region_id":85682879,
+            "venue_id":1007741299
+        }
+    ],
+    "wof:id":1007741299,
+    "wof:lastmodified":1472583191,
+    "wof:name":"Jorge Sanchez Leonila",
+    "wof:parent_id":102545753,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9262909889,
+    43.2713928223,
+    -2.9262909889,
+    43.2713928223
+],
+  "geometry": {"coordinates":[-2.9262909889,43.2713928223],"type":"Point"}
+}

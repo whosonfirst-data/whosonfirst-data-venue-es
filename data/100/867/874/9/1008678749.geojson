@@ -1,0 +1,59 @@
+{
+  "id": 1008678749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1044569016,41.5541496277,2.1044569016,41.5541496277",
+    "geom:latitude":41.55415,
+    "geom:longitude":2.104457,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Montseny, 12",
+    "sg:city":"Sabadell",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mec\u00c1nico Del Autom\u00d3vil",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 16 14 55",
+    "sg:postcode":"08208",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Azl6aR47o7alKyP1T9O4o_41.554150_2.104457@1306269686"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637575,
+    "wof:geomhash":"83a9a1bf8ae6d4cde82faef0d256e182",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008678749
+        }
+    ],
+    "wof:id":1008678749,
+    "wof:lastmodified":1472637575,
+    "wof:name":"Ustrell Llopart Josep",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1044569016,
+    41.5541496277,
+    2.1044569016,
+    41.5541496277
+],
+  "geometry": {"coordinates":[2.1044569016,41.5541496277],"type":"Point"}
+}

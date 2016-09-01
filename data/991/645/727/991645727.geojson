@@ -1,0 +1,73 @@
+{
+  "id": 991645727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5946938992,37.1654167175,-3.5946938992,37.1654167175",
+    "geom:latitude":37.165417,
+    "geom:longitude":-3.594694,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Tirso De Molina, 5",
+    "sg:city":"Granada",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 13 56 56",
+    "sg:postcode":"18006",
+    "sg:province":"Granada",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863847,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13l2CUGpsr0xuFf5HtagYF_37.165417_-3.594694@1306269513"
+    },
+    "wof:country":"ES",
+    "wof:created":1472562767,
+    "wof:geomhash":"7c1595480de79ea4d393c578ab0d0b95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863847,
+            "region_id":85682731,
+            "venue_id":991645727
+        }
+    ],
+    "wof:id":991645727,
+    "wof:lastmodified":1472562767,
+    "wof:name":"Fernandez Miranda Jose Antonio",
+    "wof:parent_id":85863847,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.5946938992,
+    37.1654167175,
+    -3.5946938992,
+    37.1654167175
+],
+  "geometry": {"coordinates":[-3.5946938992,37.1654167175],"type":"Point"}
+}

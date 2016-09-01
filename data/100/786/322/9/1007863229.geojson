@@ -1,0 +1,81 @@
+{
+  "id": 1007863229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.9084119797,41.6526527405,-0.9084119797,41.6526527405",
+    "geom:latitude":41.652653,
+    "geom:longitude":-0.908412,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Madrid, 115",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 48 83 14",
+    "sg:postcode":"50010",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863331,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pVwLZTmAWIet0IfwW0ozF_41.652653_-0.908412@1306269578"
+    },
+    "wof:country":"ES",
+    "wof:created":1472589379,
+    "wof:geomhash":"b0e2d762e09ddc29b5486527a99e2245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863331,
+            "region_id":85682891,
+            "venue_id":1007863229
+        }
+    ],
+    "wof:id":1007863229,
+    "wof:lastmodified":1472589379,
+    "wof:name":"Mabel Recreativa S.a.",
+    "wof:parent_id":85863331,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [
+    -0.9084119797,
+    41.6526527405,
+    -0.9084119797,
+    41.6526527405
+],
+  "geometry": {"coordinates":[-0.9084119797,41.6526527405],"type":"Point"}
+}

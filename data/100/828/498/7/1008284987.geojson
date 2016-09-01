@@ -1,0 +1,82 @@
+{
+  "id": 1008284987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6615796089,40.4182395935,-3.6615796089,40.4182395935",
+    "geom:latitude":40.41824,
+    "geom:longitude":-3.66158,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Juan Esplandiu, 12",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 00 89 40",
+    "sg:postcode":"28007",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ],
+    "sg:website":"www.promofactor.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863683,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0phzFOgI0pJ875UahVBD60_40.418240_-3.661580@1306269633"
+    },
+    "wof:country":"ES",
+    "wof:created":1472617987,
+    "wof:geomhash":"191672932d2a82c1b788021a9b2b1f94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863683,
+            "region_id":85682783,
+            "venue_id":1008284987
+        }
+    ],
+    "wof:id":1008284987,
+    "wof:lastmodified":1472617987,
+    "wof:name":"Promofactor S.l.",
+    "wof:parent_id":85863683,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ]
+},
+  "bbox": [
+    -3.6615796089,
+    40.4182395935,
+    -3.6615796089,
+    40.4182395935
+],
+  "geometry": {"coordinates":[-3.6615796089,40.4182395935],"type":"Point"}
+}

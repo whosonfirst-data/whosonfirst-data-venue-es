@@ -1,0 +1,67 @@
+{
+  "id": 1007820445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1840798855,41.4286804199,2.1840798855,41.4286804199",
+    "geom:latitude":41.42868,
+    "geom:longitude":2.18408,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Meridiana, 361",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 52 84 04",
+    "sg:postcode":"08016",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863995,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_680GuEOByYG9bRs0OxCOY5_41.428680_2.184080@1306269572"
+    },
+    "wof:country":"ES",
+    "wof:created":1472587311,
+    "wof:geomhash":"790b261f6ab2be624c683655a1b60876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863995,
+            "region_id":85682663,
+            "venue_id":1007820445
+        }
+    ],
+    "wof:id":1007820445,
+    "wof:lastmodified":1472587311,
+    "wof:name":"Llorens Sole Anna",
+    "wof:parent_id":85863995,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1840798855,
+    41.4286804199,
+    2.1840798855,
+    41.4286804199
+],
+  "geometry": {"coordinates":[2.1840798855,41.4286804199],"type":"Point"}
+}

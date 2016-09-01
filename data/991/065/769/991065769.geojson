@@ -1,0 +1,77 @@
+{
+  "id": 991065769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.4283995628,36.7124862671,-4.4283995628,36.7124862671",
+    "geom:latitude":36.712486,
+    "geom:longitude":-4.4284,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Salitre, 33",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alquiler De Veh\u00cdculos: Turismos Y Utilitarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 31 17 94",
+    "sg:postcode":"29002",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101748185,
+        85863541,
+        85863493,
+        102191581,
+        404339241,
+        404227361,
+        85682787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ERuL3YzUmxKZBhGX2OEqH_36.712486_-4.428400@1306269436"
+    },
+    "wof:country":"ES",
+    "wof:created":1472524138,
+    "wof:geomhash":"d09ce56ca90ef02031e0a2e44e27399d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748185,
+            "neighbourhood_id":85863541,
+            "region_id":-1,
+            "venue_id":991065769
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863493,
+            "region_id":85682787,
+            "venue_id":991065769
+        }
+    ],
+    "wof:id":991065769,
+    "wof:lastmodified":1472524138,
+    "wof:name":"Autosur Malaga S. A.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4283995628,
+    36.7124862671,
+    -4.4283995628,
+    36.7124862671
+],
+  "geometry": {"coordinates":[-4.4283995628,36.7124862671],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 990933505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.7776155472,37.8848876953,-4.7776155472,37.8848876953",
+    "geom:latitude":37.884888,
+    "geom:longitude":-4.777616,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Garcia Lovera, 3",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 48 40 80",
+    "sg:postcode":"14002",
+    "sg:province":"C\u00f3rdoba",
+    "sg:tags":[
+        "televisiones",
+        "y",
+        "radio"
+    ],
+    "sg:website":"www.radiocordoba.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863901,
+        102191581,
+        404333687,
+        85633129,
+        404227361,
+        101748233,
+        85682697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zVYLUfuDtl230iC5HML7U_37.884888_-4.777616@1306269418"
+    },
+    "wof:country":"ES",
+    "wof:created":1472511514,
+    "wof:geomhash":"710901336288789597b424577851b448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863901,
+            "region_id":85682697,
+            "venue_id":990933505
+        }
+    ],
+    "wof:id":990933505,
+    "wof:lastmodified":1472511514,
+    "wof:name":"Algarra S.a.",
+    "wof:parent_id":85863901,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "televisiones",
+        "y",
+        "radio"
+    ]
+},
+  "bbox": [
+    -4.7776155472,
+    37.8848876953,
+    -4.7776155472,
+    37.8848876953
+],
+  "geometry": {"coordinates":[-4.7776155472,37.8848876953],"type":"Point"}
+}

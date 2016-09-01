@@ -1,0 +1,67 @@
+{
+  "id": 1008148821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1399819851,41.3752632141,2.1399819851,41.3752632141",
+    "geom:latitude":41.375263,
+    "geom:longitude":2.139982,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sants, 19",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Zapatos (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 21 25 18",
+    "sg:postcode":"08014",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799597,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3U4Yn1ryxKgKRbhi0LkqCS_41.375263_2.139982@1306269615"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601789,
+    "wof:geomhash":"483385fe785f53e7fe279b6fe6dd0c7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799597,
+            "region_id":85682663,
+            "venue_id":1008148821
+        }
+    ],
+    "wof:id":1008148821,
+    "wof:lastmodified":1472601789,
+    "wof:name":"Padevi S.a.",
+    "wof:parent_id":85799597,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1399819851,
+    41.3752632141,
+    2.1399819851,
+    41.3752632141
+],
+  "geometry": {"coordinates":[2.1399819851,41.3752632141],"type":"Point"}
+}

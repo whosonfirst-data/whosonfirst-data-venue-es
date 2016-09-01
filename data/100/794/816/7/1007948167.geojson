@@ -1,0 +1,64 @@
+{
+  "id": 1007948167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6151909828,39.5919036865,2.6151909828,39.5919036865",
+    "geom:latitude":39.591904,
+    "geom:longitude":2.615191,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Pardo Bazan, 21",
+    "sg:city":"Vileta -son Rapinya",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 79 83 19",
+    "sg:postcode":"07013",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864101,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6n0Ea3H1B8WKdjX970KOTG_39.591904_2.615191@1306269588"
+    },
+    "wof:country":"ES",
+    "wof:created":1472593058,
+    "wof:geomhash":"3be67cd98701e72ad3e342d5c218de77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864101,
+            "region_id":85682647,
+            "venue_id":1007948167
+        }
+    ],
+    "wof:id":1007948167,
+    "wof:lastmodified":1472593058,
+    "wof:name":"Marti Planas Francisco",
+    "wof:parent_id":85864101,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6151909828,
+    39.5919036865,
+    2.6151909828,
+    39.5919036865
+],
+  "geometry": {"coordinates":[2.6151909828,39.5919036865],"type":"Point"}
+}

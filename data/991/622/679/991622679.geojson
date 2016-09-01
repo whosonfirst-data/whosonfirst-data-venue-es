@@ -1,0 +1,67 @@
+{
+  "id": 991622679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1754639149,41.4428405762,2.1754639149,41.4428405762",
+    "geom:latitude":41.442841,
+    "geom:longitude":2.175464,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Viladrosa, 51",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 54 63 05",
+    "sg:postcode":"08042",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799517,
+        102191581,
+        404331425,
+        85633129,
+        404227379,
+        101748345,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sqw3mCGJjP1zFWrG7Eqsc_41.442841_2.175464@1306269510"
+    },
+    "wof:country":"ES",
+    "wof:created":1472561440,
+    "wof:geomhash":"9c949bf1bab93c23331e3ecfa2762503",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331425,
+            "locality_id":101748345,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799517,
+            "region_id":85682663,
+            "venue_id":991622679
+        }
+    ],
+    "wof:id":991622679,
+    "wof:lastmodified":1472561440,
+    "wof:name":"Farmacia Saz S.c.p.",
+    "wof:parent_id":85799517,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1754639149,
+    41.4428405762,
+    2.1754639149,
+    41.4428405762
+],
+  "geometry": {"coordinates":[2.1754639149,41.4428405762],"type":"Point"}
+}

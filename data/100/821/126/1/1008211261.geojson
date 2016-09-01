@@ -1,0 +1,59 @@
+{
+  "id": 1008211261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4752191901,38.3648643494,-0.4752191901,38.3648643494",
+    "geom:latitude":38.364864,
+    "geom:longitude":-0.475219,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Burgos, 28",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Chapister\u00cda",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 91 04 79",
+    "sg:postcode":"03015",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864073,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w0qg7Vy8c4fGfbkPmz9II_38.364864_-0.475219@1306269623"
+    },
+    "wof:country":"ES",
+    "wof:created":1472612093,
+    "wof:geomhash":"3df6ec6ec3c305d885ef72a88d65620f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864073,
+            "region_id":85682625,
+            "venue_id":1008211261
+        }
+    ],
+    "wof:id":1008211261,
+    "wof:lastmodified":1472612093,
+    "wof:name":"Perez Diez Jaime",
+    "wof:parent_id":85864073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4752191901,
+    38.3648643494,
+    -0.4752191901,
+    38.3648643494
+],
+  "geometry": {"coordinates":[-0.4752191901,38.3648643494],"type":"Point"}
+}

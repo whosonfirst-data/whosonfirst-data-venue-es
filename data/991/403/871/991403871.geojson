@@ -1,0 +1,87 @@
+{
+  "id": 991403871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6875500679,41.6206130981,2.6875500679,41.6206130981",
+    "geom:latitude":41.620613,
+    "geom:longitude":2.68755,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pg Maritim, S/n",
+    "sg:city":"Pineda Mar",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 67 17 86",
+    "sg:postcode":"08397",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caza",
+        "pr\u00c1ctica",
+        "la",
+        "de",
+        "pesca",
+        "y"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799549,
+        102191581,
+        404331245,
+        85633129,
+        404227379,
+        101828575,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05ht3A3Dc8LjEHQlq9CIc9_41.620613_2.687550@1306269481"
+    },
+    "wof:country":"ES",
+    "wof:created":1472549027,
+    "wof:geomhash":"23b7560a17861fcc01f09fd2e2af866a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331245,
+            "locality_id":101828575,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799549,
+            "region_id":85682663,
+            "venue_id":991403871
+        }
+    ],
+    "wof:id":991403871,
+    "wof:lastmodified":1472549027,
+    "wof:name":"Confraria De Pescadors De Pineda De Mar",
+    "wof:parent_id":85799549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caza",
+        "pr\u00c1ctica",
+        "la",
+        "de",
+        "pesca",
+        "y"
+    ]
+},
+  "bbox": [
+    2.6875500679,
+    41.6206130981,
+    2.6875500679,
+    41.6206130981
+],
+  "geometry": {"coordinates":[2.6875500679,41.6206130981],"type":"Point"}
+}

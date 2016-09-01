@@ -1,0 +1,67 @@
+{
+  "id": 1008617873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7233080864,40.4071807861,-3.7233080864,40.4071807861",
+    "geom:latitude":40.407181,
+    "geom:longitude":-3.723308,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Rufo, 3",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 66 68 17",
+    "sg:postcode":"28011",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863775,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S3yIJX2Xs7jQkLCJdY1nz_40.407181_-3.723308@1306269678"
+    },
+    "wof:country":"ES",
+    "wof:created":1472635042,
+    "wof:geomhash":"20e9fc0ef867b2a5edf7f2859b72d6fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863775,
+            "region_id":85682783,
+            "venue_id":1008617873
+        }
+    ],
+    "wof:id":1008617873,
+    "wof:lastmodified":1472635042,
+    "wof:name":"Terrassa Garcia Antonia",
+    "wof:parent_id":85863775,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7233080864,
+    40.4071807861,
+    -3.7233080864,
+    40.4071807861
+],
+  "geometry": {"coordinates":[-3.7233080864,40.4071807861],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1008417245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6388530731,40.4331665039,-3.6388530731,40.4331665039",
+    "geom:latitude":40.433167,
+    "geom:longitude":-3.638853,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Vital Aza, 70",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 68 09 88",
+    "sg:postcode":"28017",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863641,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6L5F5kdcUfjwpSyAl4jyN5_40.433167_-3.638853@1306269651"
+    },
+    "wof:country":"ES",
+    "wof:created":1472626568,
+    "wof:geomhash":"16e77cc582db21ae866770527866dce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863641,
+            "region_id":85682783,
+            "venue_id":1008417245
+        }
+    ],
+    "wof:id":1008417245,
+    "wof:lastmodified":1472626568,
+    "wof:name":"Rugilo Bernal Luis",
+    "wof:parent_id":85863641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.6388530731,
+    40.4331665039,
+    -3.6388530731,
+    40.4331665039
+],
+  "geometry": {"coordinates":[-3.6388530731,40.4331665039],"type":"Point"}
+}

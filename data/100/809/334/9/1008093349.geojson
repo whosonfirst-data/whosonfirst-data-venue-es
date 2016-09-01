@@ -1,0 +1,80 @@
+{
+  "id": 1008093349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.9880216122,37.6116065979,-0.9880216122,37.6116065979",
+    "geom:latitude":37.611607,
+    "geom:longitude":-0.988022,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Alfonso X El Sabio, 39",
+    "sg:city":"Cartagena",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 968 53 48 48",
+    "sg:postcode":"30204",
+    "sg:province":"Murcia",
+    "sg:tags":[
+        "organismos",
+        "control"
+    ],
+    "sg:website":"www.newtech@idecnet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799251,
+        102191581,
+        404339353,
+        85633129,
+        404227389,
+        101748203,
+        85682791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UvuSCxQ8u6SDSx7zgvumr_37.611607_-0.988022@1306269607"
+    },
+    "wof:country":"ES",
+    "wof:created":1472599234,
+    "wof:geomhash":"f79a07d9265efebeb716da7a3b969a2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339353,
+            "locality_id":101748203,
+            "macroregion_id":404227389,
+            "neighbourhood_id":85799251,
+            "region_id":85682791,
+            "venue_id":1008093349
+        }
+    ],
+    "wof:id":1008093349,
+    "wof:lastmodified":1472599234,
+    "wof:name":"Newtech Nuevas Tecnologias S.l.",
+    "wof:parent_id":85799251,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organismos",
+        "control"
+    ]
+},
+  "bbox": [
+    -0.9880216122,
+    37.6116065979,
+    -0.9880216122,
+    37.6116065979
+],
+  "geometry": {"coordinates":[-0.9880216122,37.6116065979],"type":"Point"}
+}

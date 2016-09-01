@@ -1,0 +1,67 @@
+{
+  "id": 991219287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6673800945,40.3861961365,-3.6673800945,40.3861961365",
+    "geom:latitude":40.386196,
+    "geom:longitude":-3.66738,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda San Diego, 69",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cajas De Ahorro",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 77 05 72",
+    "sg:postcode":"28053",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863729,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FDa3KkC5ivs9IM3zZWect_40.386196_-3.667380@1306269456"
+    },
+    "wof:country":"ES",
+    "wof:created":1472538455,
+    "wof:geomhash":"0da8753fe5c541534696d7109204efe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863729,
+            "region_id":85682783,
+            "venue_id":991219287
+        }
+    ],
+    "wof:id":991219287,
+    "wof:lastmodified":1472538455,
+    "wof:name":"Cajamar",
+    "wof:parent_id":85863729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6673800945,
+    40.3861961365,
+    -3.6673800945,
+    40.3861961365
+],
+  "geometry": {"coordinates":[-3.6673800945,40.3861961365],"type":"Point"}
+}

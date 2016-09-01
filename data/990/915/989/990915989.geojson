@@ -1,0 +1,73 @@
+{
+  "id": 990915989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.8182841539,41.7232704163,1.8182841539,41.7232704163",
+    "geom:latitude":41.72327,
+    "geom:longitude":1.818284,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Bruc, 35",
+    "sg:city":"Manresa",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 938 72 91 00",
+    "sg:postcode":"08241",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "interior",
+        "administraci\u00d3n",
+        "en"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IUjbaMJT7TKo5ba9rScmr_41.723270_1.818284@1306269416"
+    },
+    "wof:country":"ES",
+    "wof:created":1472510110,
+    "wof:geomhash":"aac916ea7ab19fc7395ddd7d6b4aee07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":990915989
+        }
+    ],
+    "wof:id":990915989,
+    "wof:lastmodified":1472510110,
+    "wof:name":"Ajuntament-proteccio Civil",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "administraci\u00d3n",
+        "en"
+    ]
+},
+  "bbox": [
+    1.8182841539,
+    41.7232704163,
+    1.8182841539,
+    41.7232704163
+],
+  "geometry": {"coordinates":[1.8182841539,41.7232704163],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 1007952983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6739320755,39.5726547241,2.6739320755,39.5726547241",
+    "geom:latitude":39.572655,
+    "geom:longitude":2.673932,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sant Isidor, 2",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Suministros Para Hoteles",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 27 96 27",
+    "sg:postcode":"07007",
+    "sg:province":"Islas Baleares",
+    "sg:website":"www.massanet.biz",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864087,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PbgpxOK8NmsABUz6YBKSv_39.572655_2.673932@1306269589"
+    },
+    "wof:country":"ES",
+    "wof:created":1472593260,
+    "wof:geomhash":"f023c7988ddbdac715d233d5ebdd0344",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864087,
+            "region_id":85682647,
+            "venue_id":1007952983
+        }
+    ],
+    "wof:id":1007952983,
+    "wof:lastmodified":1472593260,
+    "wof:name":"Massanet Lliteras Gabriel",
+    "wof:parent_id":85864087,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6739320755,
+    39.5726547241,
+    2.6739320755,
+    39.5726547241
+],
+  "geometry": {"coordinates":[2.6739320755,39.5726547241],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 991361573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7065649033,40.4190483093,-3.7065649033,40.4190483093",
+    "geom:latitude":40.419048,
+    "geom:longitude":-3.706565,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Navas De Tolosa, 3",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Organizaciones Internacionales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 32 82 89",
+    "sg:postcode":"28013",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863747,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55oodYpV44BoACV8wpW4QT_40.419048_-3.706565@1306269475"
+    },
+    "wof:country":"ES",
+    "wof:created":1472545984,
+    "wof:geomhash":"46078104d9107d98a38ea6860360ea6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863747,
+            "region_id":85682783,
+            "venue_id":991361573
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863667,
+            "region_id":85682783,
+            "venue_id":991361573
+        }
+    ],
+    "wof:id":991361573,
+    "wof:lastmodified":1472545984,
+    "wof:name":"Colectivos De Accion Solidaria",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7065649033,
+    40.4190483093,
+    -3.7065649033,
+    40.4190483093
+],
+  "geometry": {"coordinates":[-3.7065649033,40.4190483093],"type":"Point"}
+}

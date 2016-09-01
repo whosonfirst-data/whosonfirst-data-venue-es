@@ -1,0 +1,73 @@
+{
+  "id": 991811509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7674109936,43.4420471191,-3.7674109936,43.4420471191",
+    "geom:latitude":43.442047,
+    "geom:longitude":-3.767411,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Barr Cuatro Caminos, 168",
+    "sg:city":"Pedre\u00f1a",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 50 10 11",
+    "sg:postcode":"39130",
+    "sg:province":"Cantabria",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799303,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uJreB663kmWr2bXvWUyT5_43.442047_-3.767411@1306269535"
+    },
+    "wof:country":"ES",
+    "wof:created":1472572558,
+    "wof:geomhash":"2ad924eaed8104d4632a316f3f176ee9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799303,
+            "region_id":85682833,
+            "venue_id":991811509
+        }
+    ],
+    "wof:id":991811509,
+    "wof:lastmodified":1472572558,
+    "wof:name":"Gomez Madrazo Maria Teresa",
+    "wof:parent_id":85799303,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.7674109936,
+    43.4420471191,
+    -3.7674109936,
+    43.4420471191
+],
+  "geometry": {"coordinates":[-3.7674109936,43.4420471191],"type":"Point"}
+}

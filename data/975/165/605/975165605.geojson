@@ -1,0 +1,67 @@
+{
+  "id": 975165605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1482229233,41.3725318909,2.1482229233,41.3725318909",
+    "geom:latitude":41.372532,
+    "geom:longitude":2.148223,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sant Fructuos, 2",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Organizaciones Internacionales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 24 26 85",
+    "sg:postcode":"08004",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864039,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Olf7pQcq2kefvS2hauqy1_41.372532_2.148223@1306269413"
+    },
+    "wof:country":"ES",
+    "wof:created":1472508190,
+    "wof:geomhash":"231d441c3d55cec9b007cc55479c7a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864039,
+            "region_id":85682663,
+            "venue_id":975165605
+        }
+    ],
+    "wof:id":975165605,
+    "wof:lastmodified":1472508190,
+    "wof:name":"Agape",
+    "wof:parent_id":85864039,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1482229233,
+    41.3725318909,
+    2.1482229233,
+    41.3725318909
+],
+  "geometry": {"coordinates":[2.1482229233,41.3725318909],"type":"Point"}
+}

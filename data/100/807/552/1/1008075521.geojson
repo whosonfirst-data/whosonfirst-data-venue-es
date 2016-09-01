@@ -1,0 +1,59 @@
+{
+  "id": 1008075521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6359810829,40.5526695251,-3.6359810829,40.5526695251",
+    "geom:latitude":40.55267,
+    "geom:longitude":-3.635981,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Valdelasfuentes (de), 34",
+    "sg:city":"San Sebastian De Los Reyes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Librer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 54 51 40",
+    "sg:postcode":"28700",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fuS2J7uJECfIOBV38SH56_40.552670_-3.635981@1306269605"
+    },
+    "wof:country":"ES",
+    "wof:created":1472598429,
+    "wof:geomhash":"169f94e279bab48c606c0f1c365dd877",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1008075521
+        }
+    ],
+    "wof:id":1008075521,
+    "wof:lastmodified":1472598429,
+    "wof:name":"Mu\u00f1oz Rivero Antonio",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6359810829,
+    40.5526695251,
+    -3.6359810829,
+    40.5526695251
+],
+  "geometry": {"coordinates":[-3.6359810829,40.5526695251],"type":"Point"}
+}

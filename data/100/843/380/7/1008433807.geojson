@@ -1,0 +1,74 @@
+{
+  "id": 1008433807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6085429192,40.3942451477,-3.6085429192,40.3942451477",
+    "geom:latitude":40.394245,
+    "geom:longitude":-3.608543,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Minerva, 173",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asesor\u00cda Sobre Comunicaci\u00d3n De Empresas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 75 29 14",
+    "sg:postcode":"28032",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863821,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UYTt4ovlsG6PcLkI7SkCA_40.394245_-3.608543@1306269653"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627340,
+    "wof:geomhash":"16e4ddd1f80926ad7e4d64c51cf0aaef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863821,
+            "region_id":85682783,
+            "venue_id":1008433807
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863777,
+            "region_id":85682783,
+            "venue_id":1008433807
+        }
+    ],
+    "wof:id":1008433807,
+    "wof:lastmodified":1472627340,
+    "wof:name":"Saints Inzide S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6085429192,
+    40.3942451477,
+    -3.6085429192,
+    40.3942451477
+],
+  "geometry": {"coordinates":[-3.6085429192,40.3942451477],"type":"Point"}
+}

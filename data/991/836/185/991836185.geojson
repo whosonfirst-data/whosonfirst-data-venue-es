@@ -1,0 +1,81 @@
+{
+  "id": 991836185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7422308922,40.4058418274,-3.7422308922,40.4058418274",
+    "geom:latitude":40.405842,
+    "geom:longitude":-3.742231,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pascual Rodriguez, 1",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 64 52 42",
+    "sg:postcode":"28011",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863811,
+        102191581,
+        404338935,
+        85633129,
+        404227387,
+        101753753,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7T12PfhiKPjILUQFW2KI9G_40.405842_-3.742231@1306269538"
+    },
+    "wof:country":"ES",
+    "wof:created":1472573955,
+    "wof:geomhash":"e18388f06c8214ed091104c0208e407a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338935,
+            "locality_id":101753753,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863811,
+            "region_id":85682783,
+            "venue_id":991836185
+        }
+    ],
+    "wof:id":991836185,
+    "wof:lastmodified":1472573955,
+    "wof:name":"Gonzalez Soriano Juan Carlos",
+    "wof:parent_id":85863811,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.7422308922,
+    40.4058418274,
+    -3.7422308922,
+    40.4058418274
+],
+  "geometry": {"coordinates":[-3.7422308922,40.4058418274],"type":"Point"}
+}

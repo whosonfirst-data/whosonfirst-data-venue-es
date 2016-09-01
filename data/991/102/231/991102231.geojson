@@ -1,0 +1,78 @@
+{
+  "id": 991102231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6996879578,40.4186058044,-3.6996879578,40.4186058044",
+    "geom:latitude":40.418606,
+    "geom:longitude":-3.699688,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Virgen De Los Peligros, 5",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 32 54 02",
+    "sg:postcode":"28013",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863685,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uNSkVm1VX4di39EbYpWfy_40.418606_-3.699688@1306269441"
+    },
+    "wof:country":"ES",
+    "wof:created":1472526971,
+    "wof:geomhash":"e1108fab44ebcf8945c19d59a98fb169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863685,
+            "region_id":85682783,
+            "venue_id":991102231
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863791,
+            "region_id":85682783,
+            "venue_id":991102231
+        }
+    ],
+    "wof:id":991102231,
+    "wof:lastmodified":1472526971,
+    "wof:name":"Banco Europeo De Finanzas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6996879578,
+    40.4186058044,
+    -3.6996879578,
+    40.4186058044
+],
+  "geometry": {"coordinates":[-3.6996879578,40.4186058044],"type":"Point"}
+}

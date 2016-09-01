@@ -1,0 +1,88 @@
+{
+  "id": 1008217739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.89151299,41.6421012878,-0.89151299,41.6421012878",
+    "geom:latitude":41.642101,
+    "geom:longitude":-0.891513,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Mariano Barbasan, 12",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Wine Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 55 08 59",
+    "sg:postcode":"50006",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "cd"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863377,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891,
+        85863341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6e6461avqR8b9TO8yVHWHw_41.642101_-0.891513@1306269624"
+    },
+    "wof:country":"ES",
+    "wof:created":1472613285,
+    "wof:geomhash":"bcc53c362c71def1ab39b9ce2dbed357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863377,
+            "region_id":85682891,
+            "venue_id":1008217739
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863341,
+            "region_id":85682891,
+            "venue_id":1008217739
+        }
+    ],
+    "wof:id":1008217739,
+    "wof:lastmodified":1472613285,
+    "wof:name":"Perez Melero Mercedes",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cd"
+    ]
+},
+  "bbox": [
+    -0.89151299,
+    41.6421012878,
+    -0.89151299,
+    41.6421012878
+],
+  "geometry": {"coordinates":[-0.89151299,41.6421012878],"type":"Point"}
+}

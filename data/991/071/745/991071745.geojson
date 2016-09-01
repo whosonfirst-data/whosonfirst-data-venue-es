@@ -1,0 +1,73 @@
+{
+  "id": 991071745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8707466125,40.4706420898,-3.8707466125,40.4706420898",
+    "geom:latitude":40.470642,
+    "geom:longitude":-3.870747,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Tizona, 6",
+    "sg:city":"Majadahonda",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 38 35 33",
+    "sg:postcode":"28220",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863657,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mX6QK2U4nlZpytfrVU00E_40.470642_-3.870747@1306269437"
+    },
+    "wof:country":"ES",
+    "wof:created":1472524604,
+    "wof:geomhash":"5218b83990a47a8114cd33885c58cf1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863657,
+            "region_id":85682783,
+            "venue_id":991071745
+        }
+    ],
+    "wof:id":991071745,
+    "wof:lastmodified":1472524604,
+    "wof:name":"Ayuga Herrera Juan",
+    "wof:parent_id":85863657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.8707466125,
+    40.4706420898,
+    -3.8707466125,
+    40.4706420898
+],
+  "geometry": {"coordinates":[-3.8707466125,40.4706420898],"type":"Point"}
+}

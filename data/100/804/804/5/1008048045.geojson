@@ -1,0 +1,78 @@
+{
+  "id": 1008048045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6749989986,40.443321228,-3.6749989986,40.443321228",
+    "geom:latitude":40.443321,
+    "geom:longitude":-3.674999,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Lopez De Hoyos, 100",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 63 71 47",
+    "sg:postcode":"28002",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863651,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sIs44PbP1c8ohG5xQFMQ3_40.443321_-3.674999@1306269601"
+    },
+    "wof:country":"ES",
+    "wof:created":1472597255,
+    "wof:geomhash":"59b289a961314e8461f20466c94578fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863651,
+            "region_id":85682783,
+            "venue_id":1008048045
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863647,
+            "region_id":85682783,
+            "venue_id":1008048045
+        }
+    ],
+    "wof:id":1008048045,
+    "wof:lastmodified":1472597255,
+    "wof:name":"Moreno Villena Juan Eduardo",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6749989986,
+    40.443321228,
+    -3.6749989986,
+    40.443321228
+],
+  "geometry": {"coordinates":[-3.6749989986,40.443321228],"type":"Point"}
+}

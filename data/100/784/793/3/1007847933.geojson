@@ -1,0 +1,81 @@
+{
+  "id": 1007847933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7035121918,40.4209060669,-3.7035121918,40.4209060669",
+    "geom:latitude":40.420906,
+    "geom:longitude":-3.703512,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Desenga\u00d1o, 9",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 31 33 49",
+    "sg:postcode":"28004",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "televisiones",
+        "y",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863791,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KvknqmxE1UP3Oedk8HjsC_40.420906_-3.703512@1306269576"
+    },
+    "wof:country":"ES",
+    "wof:created":1472588605,
+    "wof:geomhash":"ece1844a368784a298637eca3cd87586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863791,
+            "region_id":85682783,
+            "venue_id":1007847933
+        }
+    ],
+    "wof:id":1007847933,
+    "wof:lastmodified":1472588605,
+    "wof:name":"Lo Que Yo Te Diga S.l.",
+    "wof:parent_id":85863791,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "televisiones",
+        "y",
+        "radio"
+    ]
+},
+  "bbox": [
+    -3.7035121918,
+    40.4209060669,
+    -3.7035121918,
+    40.4209060669
+],
+  "geometry": {"coordinates":[-3.7035121918,40.4209060669],"type":"Point"}
+}

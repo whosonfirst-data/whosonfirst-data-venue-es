@@ -1,0 +1,59 @@
+{
+  "id": 1008480737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6314499378,40.5413665771,-3.6314499378,40.5413665771",
+    "geom:latitude":40.541367,
+    "geom:longitude":-3.63145,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Marquesa Viuda De Aldama (de La), 24",
+    "sg:city":"Alcobendas",
+    "sg:classifiers":[],
+    "sg:orig_category":"Doctores En Medicina",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 53 99 47",
+    "sg:postcode":"28100",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cA8AOQv1e3Mp1x90bgB9U_40.541367_-3.631450@1306269659"
+    },
+    "wof:country":"ES",
+    "wof:created":1472629150,
+    "wof:geomhash":"09d8a58cba9999fa421b2b2f77cf3793",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1008480737
+        }
+    ],
+    "wof:id":1008480737,
+    "wof:lastmodified":1472629150,
+    "wof:name":"Sanz Raposo Angel",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6314499378,
+    40.5413665771,
+    -3.6314499378,
+    40.5413665771
+],
+  "geometry": {"coordinates":[-3.6314499378,40.5413665771],"type":"Point"}
+}

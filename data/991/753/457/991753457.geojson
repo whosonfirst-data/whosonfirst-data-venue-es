@@ -1,0 +1,72 @@
+{
+  "id": 991753457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1599779129,41.4342155457,2.1599779129,41.4342155457",
+    "geom:latitude":41.434216,
+    "geom:longitude":2.159978,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Rectoria, 27",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 27 38 71",
+    "sg:postcode":"08031",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799399,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nQ8qQYH093xJkEUgb5RLy_41.434216_2.159978@1306269527"
+    },
+    "wof:country":"ES",
+    "wof:created":1472568666,
+    "wof:geomhash":"09538e706c0c7d6b8693e3d2ae05da14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799399,
+            "region_id":85682663,
+            "venue_id":991753457
+        }
+    ],
+    "wof:id":991753457,
+    "wof:lastmodified":1472568666,
+    "wof:name":"Garcia Martinez Jose",
+    "wof:parent_id":85799399,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1599779129,
+    41.4342155457,
+    2.1599779129,
+    41.4342155457
+],
+  "geometry": {"coordinates":[2.1599779129,41.4342155457],"type":"Point"}
+}

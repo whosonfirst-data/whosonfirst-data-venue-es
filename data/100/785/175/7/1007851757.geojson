@@ -1,0 +1,81 @@
+{
+  "id": 1007851757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8789659739,41.6447525024,-0.8789659739,41.6447525024",
+    "geom:latitude":41.644753,
+    "geom:longitude":-0.878966,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Francisco Vitoria, 30",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 23 20 18",
+    "sg:postcode":"50008",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "salas",
+        "de",
+        "cine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863361,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26AC4jcS5NJHQF8jhr1WQw_41.644753_-0.878966@1306269576"
+    },
+    "wof:country":"ES",
+    "wof:created":1472588802,
+    "wof:geomhash":"7b97e8d180dff8285bb5d0ecdc51716d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863361,
+            "region_id":85682891,
+            "venue_id":1007851757
+        }
+    ],
+    "wof:id":1007851757,
+    "wof:lastmodified":1472588802,
+    "wof:name":"Los Cines De Zaragoza S. A.",
+    "wof:parent_id":85863361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salas",
+        "de",
+        "cine"
+    ]
+},
+  "bbox": [
+    -0.8789659739,
+    41.6447525024,
+    -0.8789659739,
+    41.6447525024
+],
+  "geometry": {"coordinates":[-0.8789659739,41.6447525024],"type":"Point"}
+}

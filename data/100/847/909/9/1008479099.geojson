@@ -1,0 +1,72 @@
+{
+  "id": 1008479099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6652901173,41.6145591736,2.6652901173,41.6145591736",
+    "geom:latitude":41.614559,
+    "geom:longitude":2.66529,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Anselm Clave, 148",
+    "sg:city":"Calella",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 66 16 56",
+    "sg:postcode":"08370",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799549,
+        102191581,
+        404331245,
+        85633129,
+        404227379,
+        101828575,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3U5W2Y5VtMuI1aQxDe3bgd_41.614559_2.665290@1306269659"
+    },
+    "wof:country":"ES",
+    "wof:created":1472629083,
+    "wof:geomhash":"aba136048eb79e4d30dbe586b615bad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331245,
+            "locality_id":101828575,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799549,
+            "region_id":85682663,
+            "venue_id":1008479099
+        }
+    ],
+    "wof:id":1008479099,
+    "wof:lastmodified":1472629083,
+    "wof:name":"Sanz Climent Julio",
+    "wof:parent_id":85799549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6652901173,
+    41.6145591736,
+    2.6652901173,
+    41.6145591736
+],
+  "geometry": {"coordinates":[2.6652901173,41.6145591736],"type":"Point"}
+}

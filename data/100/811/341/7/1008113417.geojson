@@ -1,0 +1,73 @@
+{
+  "id": 1008113417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8145859241,40.3438606262,-3.8145859241,40.3438606262",
+    "geom:latitude":40.343861,
+    "geom:longitude":-3.814586,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Rio Duero, 8",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 12 77 53",
+    "sg:postcode":"28923",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NOfjZjBbJBJTlFNLTZVu0_40.343861_-3.814586@1306269610"
+    },
+    "wof:country":"ES",
+    "wof:created":1472600092,
+    "wof:geomhash":"2eb992320c8eea94832e451e42d72511",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008113417
+        }
+    ],
+    "wof:id":1008113417,
+    "wof:lastmodified":1472600092,
+    "wof:name":"Ocampos Caballeros Antonio",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.8145859241,
+    40.3438606262,
+    -3.8145859241,
+    40.3438606262
+],
+  "geometry": {"coordinates":[-3.8145859241,40.3438606262],"type":"Point"}
+}

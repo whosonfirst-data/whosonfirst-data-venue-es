@@ -1,0 +1,59 @@
+{
+  "id": 1008340423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6495330334,39.5843353271,2.6495330334,39.5843353271",
+    "geom:latitude":39.584335,
+    "geom:longitude":2.649533,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Emperadriu Eugenia, 9",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias Y Agentes Comerciales, Representantes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 75 07 52",
+    "sg:postcode":"07010",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864091,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MPitEtNg1DhKvJnls7lGU_39.584335_2.649533@1306269641"
+    },
+    "wof:country":"ES",
+    "wof:created":1472623089,
+    "wof:geomhash":"ded2f871b33623dbd8340fcbbdf69b90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":1008340423
+        }
+    ],
+    "wof:id":1008340423,
+    "wof:lastmodified":1472623089,
+    "wof:name":"Representaciones Forteza Pallicer C.b.",
+    "wof:parent_id":85864091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6495330334,
+    39.5843353271,
+    2.6495330334,
+    39.5843353271
+],
+  "geometry": {"coordinates":[2.6495330334,39.5843353271],"type":"Point"}
+}

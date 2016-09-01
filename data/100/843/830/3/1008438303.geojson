@@ -1,0 +1,82 @@
+{
+  "id": 1008438303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1532781124,41.3976211548,2.1532781124,41.3976211548",
+    "geom:latitude":41.397621,
+    "geom:longitude":2.153278,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Julian Romea, 16",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 15 20 54",
+    "sg:postcode":"08006",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "sg:website":"www.alejandrosales.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799393,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S5WHMPBTOYvgME1kXicl1_41.397621_2.153278@1306269654"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627509,
+    "wof:geomhash":"4a615019c245c1657bc60d815bc625e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799393,
+            "region_id":85682663,
+            "venue_id":1008438303
+        }
+    ],
+    "wof:id":1008438303,
+    "wof:lastmodified":1472627509,
+    "wof:name":"Sales Bonilla Alejandro",
+    "wof:parent_id":85799393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    2.1532781124,
+    41.3976211548,
+    2.1532781124,
+    41.3976211548
+],
+  "geometry": {"coordinates":[2.1532781124,41.3976211548],"type":"Point"}
+}

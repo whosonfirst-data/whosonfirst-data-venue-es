@@ -1,0 +1,81 @@
+{
+  "id": 990968165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1639430523,41.4105491638,2.1639430523,41.4105491638",
+    "geom:latitude":41.410549,
+    "geom:longitude":2.163943,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sardenya, 494",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 84 28 63",
+    "sg:postcode":"08024",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863993,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cx6rFoJfMevgd6smavLsQ_41.410549_2.163943@1306269423"
+    },
+    "wof:country":"ES",
+    "wof:created":1472516618,
+    "wof:geomhash":"8a72bb9b3fea30b64742e2963f5676d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863993,
+            "region_id":85682663,
+            "venue_id":990968165
+        }
+    ],
+    "wof:id":990968165,
+    "wof:lastmodified":1472516618,
+    "wof:name":"Amselem Tapiero Samuel",
+    "wof:parent_id":85863993,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.1639430523,
+    41.4105491638,
+    2.1639430523,
+    41.4105491638
+],
+  "geometry": {"coordinates":[2.1639430523,41.4105491638],"type":"Point"}
+}

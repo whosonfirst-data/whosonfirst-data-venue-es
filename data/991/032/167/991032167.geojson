@@ -1,0 +1,59 @@
+{
+  "id": 991032167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1447529793,41.4293212891,2.1447529793,41.4293212891",
+    "geom:latitude":41.429321,
+    "geom:longitude":2.144753,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pg Vall D'hebron, S/n",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aparcamientos (infraestructuras, Accesorios)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 28 37 47",
+    "sg:postcode":"08031",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799471,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sMHvFNuJTjMgsM9ySBkCP_41.429321_2.144753@1306269431"
+    },
+    "wof:country":"ES",
+    "wof:created":1472521616,
+    "wof:geomhash":"3e8f68c44b98744ec79399ca3bee146e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799471,
+            "region_id":85682663,
+            "venue_id":991032167
+        }
+    ],
+    "wof:id":991032167,
+    "wof:lastmodified":1472521616,
+    "wof:name":"Asociacion De Concesionarios Del Mercado Del Valle De Hebron",
+    "wof:parent_id":85799471,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1447529793,
+    41.4293212891,
+    2.1447529793,
+    41.4293212891
+],
+  "geometry": {"coordinates":[2.1447529793,41.4293212891],"type":"Point"}
+}

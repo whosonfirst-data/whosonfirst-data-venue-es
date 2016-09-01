@@ -1,0 +1,74 @@
+{
+  "id": 1008168193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8619779944,41.6446037292,-0.8619779944,41.6446037292",
+    "geom:latitude":41.644604,
+    "geom:longitude":-0.861978,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Salvador Minguijon, 2",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Molduras, Junquillos, Listones Y Molduras Perforadas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 42 09 06",
+    "sg:postcode":"50002",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863355,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891,
+        85863353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_233heRyRcu5HR0FvfND85H_41.644604_-0.861978@1306269617"
+    },
+    "wof:country":"ES",
+    "wof:created":1472603691,
+    "wof:geomhash":"6f566a9ac237f729bcf23b9763453bf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863355,
+            "region_id":85682891,
+            "venue_id":1008168193
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863353,
+            "region_id":85682891,
+            "venue_id":1008168193
+        }
+    ],
+    "wof:id":1008168193,
+    "wof:lastmodified":1472603691,
+    "wof:name":"Parente Godoy Maria Jesus",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8619779944,
+    41.6446037292,
+    -0.8619779944,
+    41.6446037292
+],
+  "geometry": {"coordinates":[-0.8619779944,41.6446037292],"type":"Point"}
+}

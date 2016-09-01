@@ -1,0 +1,73 @@
+{
+  "id": 1007721339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9802412987,37.3470077515,-5.9802412987,37.3470077515",
+    "geom:latitude":37.347008,
+    "geom:longitude":-5.980241,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Gante, 1",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 23 58 50",
+    "sg:postcode":"41012",
+    "sg:province":"Sevilla",
+    "sg:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864195,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xEkqSCPNhfqTtZ0n4eb1Q_37.347008_-5.980241@1306269559"
+    },
+    "wof:country":"ES",
+    "wof:created":1472582030,
+    "wof:geomhash":"4c8459259bf7526ebf50408413acc427",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864195,
+            "region_id":85682841,
+            "venue_id":1007721339
+        }
+    ],
+    "wof:id":1007721339,
+    "wof:lastmodified":1472582030,
+    "wof:name":"Jardines Del Guadaira S.c.a.",
+    "wof:parent_id":85864195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ]
+},
+  "bbox": [
+    -5.9802412987,
+    37.3470077515,
+    -5.9802412987,
+    37.3470077515
+],
+  "geometry": {"coordinates":[-5.9802412987,37.3470077515],"type":"Point"}
+}

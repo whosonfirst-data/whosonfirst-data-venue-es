@@ -1,0 +1,61 @@
+{
+  "id": 991270999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5901882648,40.4519729614,-3.5901882648,40.4519729614",
+    "geom:latitude":40.451973,
+    "geom:longitude":-3.590188,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Balandro, 6",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Guarder\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 42 98 17",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        102545773,
+        85863587,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57u6MtAO8YF6xl9rHdwXvW_40.451973_-3.590188@1306269463"
+    },
+    "wof:country":"ES",
+    "wof:created":1472541291,
+    "wof:geomhash":"d3c724d6cba367d1bc66f250d65ac4a0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545773,
+            "country_id":85633129,
+            "neighbourhood_id":85863587,
+            "region_id":85682783,
+            "venue_id":991270999
+        }
+    ],
+    "wof:id":991270999,
+    "wof:lastmodified":1472541291,
+    "wof:name":"Carrascal Paloma Rosa Maria",
+    "wof:parent_id":102545773,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5901882648,
+    40.4519729614,
+    -3.5901882648,
+    40.4519729614
+],
+  "geometry": {"coordinates":[-3.5901882648,40.4519729614],"type":"Point"}
+}

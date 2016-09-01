@@ -1,0 +1,78 @@
+{
+  "id": 991521165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4890941083,38.3407592773,-0.4890941083,38.3407592773",
+    "geom:latitude":38.340759,
+    "geom:longitude":-0.489094,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Arzobispo Loaces, 12",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 22 88 14",
+    "sg:postcode":"03003",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799185,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625,
+        85864067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48ixFaNwKVRlpGaqVTF6Ml_38.340759_-0.489094@1306269497"
+    },
+    "wof:country":"ES",
+    "wof:created":1472555487,
+    "wof:geomhash":"5ddea36bb609904f644c80a676b24ec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85799185,
+            "region_id":85682625,
+            "venue_id":991521165
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864067,
+            "region_id":85682625,
+            "venue_id":991521165
+        }
+    ],
+    "wof:id":991521165,
+    "wof:lastmodified":1472555487,
+    "wof:name":"Dominguez Anton Andres",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4890941083,
+    38.3407592773,
+    -0.4890941083,
+    38.3407592773
+],
+  "geometry": {"coordinates":[-0.4890941083,38.3407592773],"type":"Point"}
+}

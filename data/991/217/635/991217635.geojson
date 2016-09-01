@@ -1,0 +1,60 @@
+{
+  "id": 991217635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6275289059,37.2316703796,-3.6275289059,37.2316703796",
+    "geom:latitude":37.23167,
+    "geom:longitude":-3.627529,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pintor Velazquez, 3",
+    "sg:city":"Peligros",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cajas De Ahorro",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 40 04 12",
+    "sg:postcode":"18210",
+    "sg:province":"Granada",
+    "sg:website":"www.cajagranada.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863831,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nI8RrDeqPGbgm7QVnnB0x_37.231670_-3.627529@1306269456"
+    },
+    "wof:country":"ES",
+    "wof:created":1472538351,
+    "wof:geomhash":"b45ea9f868ba252e5883cd80fa8a5837",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863831,
+            "region_id":85682731,
+            "venue_id":991217635
+        }
+    ],
+    "wof:id":991217635,
+    "wof:lastmodified":1472538351,
+    "wof:name":"Cajagranada",
+    "wof:parent_id":85863831,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6275289059,
+    37.2316703796,
+    -3.6275289059,
+    37.2316703796
+],
+  "geometry": {"coordinates":[-3.6275289059,37.2316703796],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 1024496839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1397688,41.4041018,2.1397688,41.4041018",
+    "geom:latitude":41.404102,
+    "geom:longitude":2.139769,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"2n 1a, 82, Carrer de Sant Gervasi de Cassoles",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"08022",
+    "sg:tags":[
+        "mobile",
+        "mobile-software",
+        "mobile-applications",
+        "networking",
+        "professional-events",
+        "congresses",
+        "trade-fairs",
+        "professional-networking",
+        "professional-networks",
+        "social-networks",
+        "mobility"
+    ],
+    "sg:website":"http://www.somabarcelona.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799611,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dqz9b4bKU2dedDCqIZBio_41.404102_2.139769@1308163242"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641483,
+    "wof:geomhash":"e091fb7adbfc1d6b6700a83e17b26f3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799611,
+            "region_id":85682663,
+            "venue_id":1024496839
+        }
+    ],
+    "wof:id":1024496839,
+    "wof:lastmodified":1472641483,
+    "wof:name":"SOMA Barcelona",
+    "wof:parent_id":85799611,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "mobile-software",
+        "mobile-applications",
+        "networking",
+        "professional-events",
+        "congresses",
+        "trade-fairs",
+        "professional-networking",
+        "professional-networks",
+        "social-networks",
+        "mobility"
+    ]
+},
+  "bbox": [
+    2.1397688,
+    41.4041018,
+    2.1397688,
+    41.4041018
+],
+  "geometry": {"coordinates":[2.1397688,41.4041018],"type":"Point"}
+}

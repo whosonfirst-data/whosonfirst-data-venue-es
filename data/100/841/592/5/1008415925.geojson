@@ -1,0 +1,59 @@
+{
+  "id": 1008415925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8243839741,40.3442611694,-3.8243839741,40.3442611694",
+    "geom:latitude":40.344261,
+    "geom:longitude":-3.824384,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Ignacio, 8",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Empresas De Carpinter\u00cda De Madera",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 44 23 36",
+    "sg:postcode":"28921",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4X2weLS0Yf3AEdxoEM2ad1_40.344261_-3.824384@1306269651"
+    },
+    "wof:country":"ES",
+    "wof:created":1472626508,
+    "wof:geomhash":"ecb7ac3dbf5f84fa3e2f1d2944e8eb2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008415925
+        }
+    ],
+    "wof:id":1008415925,
+    "wof:lastmodified":1472626508,
+    "wof:name":"Rudel Carpinteria C.b.",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8243839741,
+    40.3442611694,
+    -3.8243839741,
+    40.3442611694
+],
+  "geometry": {"coordinates":[-3.8243839741,40.3442611694],"type":"Point"}
+}

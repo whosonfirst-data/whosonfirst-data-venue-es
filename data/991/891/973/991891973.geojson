@@ -1,0 +1,67 @@
+{
+  "id": 991891973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-8.2201089859,43.4930496216,-8.2201089859,43.4930496216",
+    "geom:latitude":43.49305,
+    "geom:longitude":-8.220109,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rua San Salvador, 66",
+    "sg:city":"Ferrol",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 981 32 57 57",
+    "sg:postcode":"15405",
+    "sg:province":"La Coru\u00f1a",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101748407,
+        85799423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Roe7jF7PKOeX0QVLydXq8_43.493050_-8.220109@1306269546"
+    },
+    "wof:country":"ES",
+    "wof:created":1472577131,
+    "wof:geomhash":"3a2ee8381a57a394f0c387f5c74c4dc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748407,
+            "neighbourhood_id":85799423,
+            "region_id":-1,
+            "venue_id":991891973
+        }
+    ],
+    "wof:id":991891973,
+    "wof:lastmodified":1472577131,
+    "wof:name":"Hermida Lopez Jose",
+    "wof:parent_id":85799423,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.2201089859,
+    43.4930496216,
+    -8.2201089859,
+    43.4930496216
+],
+  "geometry": {"coordinates":[-8.2201089859,43.4930496216],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1007987757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7270600796,40.3077888489,-3.7270600796,40.3077888489",
+    "geom:latitude":40.307789,
+    "geom:longitude":-3.72706,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Esca\u00d1o, 37",
+    "sg:city":"Getafe",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 82 37 57",
+    "sg:postcode":"28902",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d7fxDpBpujaMHdPYkggnI_40.307789_-3.727060@1306269593"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594643,
+    "wof:geomhash":"2ce8d5978d9aaa8a936f729e6db2447e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1007987757
+        }
+    ],
+    "wof:id":1007987757,
+    "wof:lastmodified":1472594643,
+    "wof:name":"Merino Marquez Rafael",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.7270600796,
+    40.3077888489,
+    -3.7270600796,
+    40.3077888489
+],
+  "geometry": {"coordinates":[-3.7270600796,40.3077888489],"type":"Point"}
+}

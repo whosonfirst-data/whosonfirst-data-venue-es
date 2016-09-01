@@ -1,0 +1,64 @@
+{
+  "id": 1008194313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.8225610256,41.7301216125,1.8225610256,41.7301216125",
+    "geom:latitude":41.730122,
+    "geom:longitude":1.822561,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Alcalde Armengou, 4",
+    "sg:city":"Manresa",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 938 74 25 06",
+    "sg:postcode":"08242",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79kWyVDibjtjruxGlvY7J0_41.730122_1.822561@1306269621"
+    },
+    "wof:country":"ES",
+    "wof:created":1472608231,
+    "wof:geomhash":"ec2a31f0693a3e5e914c9e38f88ed1b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008194313
+        }
+    ],
+    "wof:id":1008194313,
+    "wof:lastmodified":1472608231,
+    "wof:name":"Pedrals Guixe Lorenzo",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.8225610256,
+    41.7301216125,
+    1.8225610256,
+    41.7301216125
+],
+  "geometry": {"coordinates":[1.8225610256,41.7301216125],"type":"Point"}
+}

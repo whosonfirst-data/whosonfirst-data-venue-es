@@ -1,0 +1,81 @@
+{
+  "id": 991283387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.689538002,40.4189567566,-3.689538002,40.4189567566",
+    "geom:latitude":40.418957,
+    "geom:longitude":-3.689538,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Valenzuela, 7",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 31 84 98",
+    "sg:postcode":"28014",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863687,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h2ZdCCOlqBC6TGufYZqjn_40.418957_-3.689538@1306269465"
+    },
+    "wof:country":"ES",
+    "wof:created":1472541889,
+    "wof:geomhash":"e848392273a6d8a94e8132a9cfdf49f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863687,
+            "region_id":85682783,
+            "venue_id":991283387
+        }
+    ],
+    "wof:id":991283387,
+    "wof:lastmodified":1472541889,
+    "wof:name":"Casanovas Infiesta Antonio",
+    "wof:parent_id":85863687,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    -3.689538002,
+    40.4189567566,
+    -3.689538002,
+    40.4189567566
+],
+  "geometry": {"coordinates":[-3.689538002,40.4189567566],"type":"Point"}
+}

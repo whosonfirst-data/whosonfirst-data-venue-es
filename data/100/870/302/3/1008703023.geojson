@@ -1,0 +1,64 @@
+{
+  "id": 1008703023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8140289783,43.4639358521,-3.8140289783,43.4639358521",
+    "geom:latitude":43.463936,
+    "geom:longitude":-3.814029,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Juan Xxiii, 22",
+    "sg:city":"Santander",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 23 52 60",
+    "sg:postcode":"39001",
+    "sg:province":"Cantabria",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799303,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tdg9i2v5OpbPfsqIMaHYZ_43.463936_-3.814029@1306269689"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638668,
+    "wof:geomhash":"dcf5f3ef5e70755dc61a1357b927a533",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799303,
+            "region_id":85682833,
+            "venue_id":1008703023
+        }
+    ],
+    "wof:id":1008703023,
+    "wof:lastmodified":1472638668,
+    "wof:name":"Velasco Vega Pedro",
+    "wof:parent_id":85799303,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8140289783,
+    43.4639358521,
+    -3.8140289783,
+    43.4639358521
+],
+  "geometry": {"coordinates":[-3.8140289783,43.4639358521],"type":"Point"}
+}

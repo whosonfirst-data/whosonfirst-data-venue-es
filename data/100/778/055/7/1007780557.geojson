@@ -1,0 +1,80 @@
+{
+  "id": 1007780557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7504930496,40.4010505676,-3.7504930496,40.4010505676",
+    "geom:latitude":40.401051,
+    "geom:longitude":-3.750493,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Latina, 15",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Camiser\u00cda Y Ropa Interior Masculina (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 64 54 69",
+    "sg:postcode":"28047",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863769,
+        102191581,
+        404338935,
+        85633129,
+        404227387,
+        101753753,
+        85682783,
+        85799479,
+        404338863,
+        101748283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6s8QhdAiC9r73WSLl7yYdJ_40.401051_-3.750493@1306269567"
+    },
+    "wof:country":"ES",
+    "wof:created":1472585250,
+    "wof:geomhash":"49d813943ae397a06c002b39419138e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338935,
+            "locality_id":101753753,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863769,
+            "region_id":85682783,
+            "venue_id":1007780557
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799479,
+            "region_id":85682783,
+            "venue_id":1007780557
+        }
+    ],
+    "wof:id":1007780557,
+    "wof:lastmodified":1472585250,
+    "wof:name":"Laguna Velasco Maria Josefa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7504930496,
+    40.4010505676,
+    -3.7504930496,
+    40.4010505676
+],
+  "geometry": {"coordinates":[-3.7504930496,40.4010505676],"type":"Point"}
+}

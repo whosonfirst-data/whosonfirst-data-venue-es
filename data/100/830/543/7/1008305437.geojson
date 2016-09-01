@@ -1,0 +1,59 @@
+{
+  "id": 1008305437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1003980637,41.5536308289,2.1003980637,41.5536308289",
+    "geom:latitude":41.553631,
+    "geom:longitude":2.100398,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sant Isidre, 107",
+    "sg:city":"Sabadell",
+    "sg:classifiers":[],
+    "sg:orig_category":"Procuradores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 23 99 23",
+    "sg:postcode":"08208",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34ulw7yOpHDVCTOqWPLeHT_41.553631_2.100398@1306269636"
+    },
+    "wof:country":"ES",
+    "wof:created":1472621538,
+    "wof:geomhash":"164742ac35d4a3440fb506dade3c7f1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008305437
+        }
+    ],
+    "wof:id":1008305437,
+    "wof:lastmodified":1472621538,
+    "wof:name":"Quintana Rodriguez Carme",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1003980637,
+    41.5536308289,
+    2.1003980637,
+    41.5536308289
+],
+  "geometry": {"coordinates":[2.1003980637,41.5536308289],"type":"Point"}
+}

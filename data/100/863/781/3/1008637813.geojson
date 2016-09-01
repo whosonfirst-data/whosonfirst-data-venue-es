@@ -1,0 +1,62 @@
+{
+  "id": 1008637813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.4280209541,38.9050827026,1.4280209541,38.9050827026",
+    "geom:latitude":38.905083,
+    "geom:longitude":1.428021,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carr Ramon Muntaner, 65",
+    "sg:city":"Eivissa",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 30 28 26",
+    "sg:postcode":"07800",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101777557,
+        85864231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eK9wl5MdHNiiRQQBLWn0h_38.905083_1.428021@1306269680"
+    },
+    "wof:country":"ES",
+    "wof:created":1472635876,
+    "wof:geomhash":"dd7b93dc83c6e03696a3f44a54196c27",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101777557,
+            "neighbourhood_id":85864231,
+            "region_id":-1,
+            "venue_id":1008637813
+        }
+    ],
+    "wof:id":1008637813,
+    "wof:lastmodified":1472635876,
+    "wof:name":"Torres Fernandez Maria",
+    "wof:parent_id":85864231,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.4280209541,
+    38.9050827026,
+    1.4280209541,
+    38.9050827026
+],
+  "geometry": {"coordinates":[1.4280209541,38.9050827026],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 990980027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0743496418,41.3682823181,2.0743496418,41.3682823181",
+    "geom:latitude":41.368282,
+    "geom:longitude":2.07435,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pl Espanya, 4",
+    "sg:city":"Prat Llobregat",
+    "sg:classifiers":[],
+    "sg:orig_category":"Restaurantes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 79 50 98",
+    "sg:postcode":"08820",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799591,
+        102191581,
+        404331371,
+        85633129,
+        404227379,
+        101758753,
+        85682663,
+        85799381,
+        404331349,
+        101758769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10HjKTAPqB7ryUVEgbhgUN_41.368282_2.074350@1306269424"
+    },
+    "wof:country":"ES",
+    "wof:created":1472517736,
+    "wof:geomhash":"450b23d225d31712e96dc2ff3396b569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331371,
+            "locality_id":101758753,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799591,
+            "region_id":85682663,
+            "venue_id":990980027
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331349,
+            "locality_id":101758769,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799381,
+            "region_id":85682663,
+            "venue_id":990980027
+        }
+    ],
+    "wof:id":990980027,
+    "wof:lastmodified":1472517736,
+    "wof:name":"Anton Aguilar Juliana",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0743496418,
+    41.3682823181,
+    2.0743496418,
+    41.3682823181
+],
+  "geometry": {"coordinates":[2.0743496418,41.3682823181],"type":"Point"}
+}

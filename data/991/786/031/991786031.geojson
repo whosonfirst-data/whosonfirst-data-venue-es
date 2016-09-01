@@ -1,0 +1,79 @@
+{
+  "id": 991786031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7163805962,40.4218406677,-3.7163805962,40.4218406677",
+    "geom:latitude":40.421841,
+    "geom:longitude":-3.716381,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Arriaza, 18",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Empresas De Limpieza",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 902 12 02 31",
+    "sg:postcode":"28008",
+    "sg:province":"Madrid",
+    "sg:website":"www.netjuice.es/geslim",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863747,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ENqQRrKb5kETsP4cy8GLU_40.421841_-3.716381@1306269532"
+    },
+    "wof:country":"ES",
+    "wof:created":1472570782,
+    "wof:geomhash":"a0b74e065151f32ce47c1db66e9ef76d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863747,
+            "region_id":85682783,
+            "venue_id":991786031
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863669,
+            "region_id":85682783,
+            "venue_id":991786031
+        }
+    ],
+    "wof:id":991786031,
+    "wof:lastmodified":1472570782,
+    "wof:name":"Gestiones Generales De Limpieza S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7163805962,
+    40.4218406677,
+    -3.7163805962,
+    40.4218406677
+],
+  "geometry": {"coordinates":[-3.7163805962,40.4218406677],"type":"Point"}
+}

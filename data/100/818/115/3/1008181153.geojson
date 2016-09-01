@@ -1,0 +1,67 @@
+{
+  "id": 1008181153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7013530731,40.4288330078,-3.7013530731,40.4288330078",
+    "geom:latitude":40.428833,
+    "geom:longitude":-3.701353,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Sagasta, 7",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Partidos Pol\u00cdticos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 45 69 64",
+    "sg:postcode":"28004",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863661,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mDO3Ma3jmzqIYDFwfRudn_40.428833_-3.701353@1306269619"
+    },
+    "wof:country":"ES",
+    "wof:created":1472605384,
+    "wof:geomhash":"0b7eb979f17efd991397a2469bad3ce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863661,
+            "region_id":85682783,
+            "venue_id":1008181153
+        }
+    ],
+    "wof:id":1008181153,
+    "wof:lastmodified":1472605384,
+    "wof:name":"Partido Carlista",
+    "wof:parent_id":85863661,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7013530731,
+    40.4288330078,
+    -3.7013530731,
+    40.4288330078
+],
+  "geometry": {"coordinates":[-3.7013530731,40.4288330078],"type":"Point"}
+}

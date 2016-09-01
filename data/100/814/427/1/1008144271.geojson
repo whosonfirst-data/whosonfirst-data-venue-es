@@ -1,0 +1,77 @@
+{
+  "id": 1008144271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.719481945,40.4801940918,-3.719481945,40.4801940918",
+    "geom:latitude":40.480194,
+    "geom:longitude":-3.719482,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Islas Cies, 23",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Limpieza Industrial",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 39 90 57",
+    "sg:postcode":"28035",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799627,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XLlHwinX6tMsdr7vfREo4_40.480194_-3.719482@1306269614"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601574,
+    "wof:geomhash":"d693a8d237606a11016edc0caa8cafbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799627,
+            "region_id":85682783,
+            "venue_id":1008144271
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748283,
+            "neighbourhood_id":85863557,
+            "region_id":85682783,
+            "venue_id":1008144271
+        }
+    ],
+    "wof:id":1008144271,
+    "wof:lastmodified":1472601574,
+    "wof:name":"Otero Janeiro Ramiro",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.719481945,
+    40.4801940918,
+    -3.719481945,
+    40.4801940918
+],
+  "geometry": {"coordinates":[-3.719481945,40.4801940918],"type":"Point"}
+}

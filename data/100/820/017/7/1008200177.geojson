@@ -1,0 +1,59 @@
+{
+  "id": 1008200177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1842710972,41.4925003052,2.1842710972,41.4925003052",
+    "geom:latitude":41.4925,
+    "geom:longitude":2.184271,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Ferrer I Guardia, 1",
+    "sg:city":"Mas Rampinyo",
+    "sg:classifiers":[],
+    "sg:orig_category":"Peluquer\u00cdas, Peluquer\u00cda Mixta",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 935 64 62 52",
+    "sg:postcode":"08110",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799639,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6M5iW9xHz5mHP5zILKxpqE_41.492500_2.184271@1306269622"
+    },
+    "wof:country":"ES",
+    "wof:created":1472609555,
+    "wof:geomhash":"030844692687031b91758faf36054249",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799639,
+            "region_id":85682663,
+            "venue_id":1008200177
+        }
+    ],
+    "wof:id":1008200177,
+    "wof:lastmodified":1472609555,
+    "wof:name":"Peluqueria Helio S.c.p.",
+    "wof:parent_id":85799639,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1842710972,
+    41.4925003052,
+    2.1842710972,
+    41.4925003052
+],
+  "geometry": {"coordinates":[2.1842710972,41.4925003052],"type":"Point"}
+}

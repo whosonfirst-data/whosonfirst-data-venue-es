@@ -1,0 +1,92 @@
+{
+  "id": 991304173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9764790535,37.3863143921,-5.9764790535,37.3863143921",
+    "geom:latitude":37.386314,
+    "geom:longitude":-5.976479,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Virgen De Valvanera, S/n",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 57 50 13",
+    "sg:postcode":"41018",
+    "sg:province":"Sevilla",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864161,
+        102191581,
+        404342947,
+        85633129,
+        404227361,
+        101748225,
+        85682841,
+        85864171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZoisGv8JNBekACWsydC99_37.386314_-5.976479@1306269468"
+    },
+    "wof:country":"ES",
+    "wof:created":1472542847,
+    "wof:geomhash":"4ccdf1c07806f9f6915f8c2ad103acc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864161,
+            "region_id":85682841,
+            "venue_id":991304173
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864171,
+            "region_id":85682841,
+            "venue_id":991304173
+        }
+    ],
+    "wof:id":991304173,
+    "wof:lastmodified":1472542847,
+    "wof:name":"Ceballos Salazar Fernando",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -5.9764790535,
+    37.3863143921,
+    -5.9764790535,
+    37.3863143921
+],
+  "geometry": {"coordinates":[-5.9764790535,37.3863143921],"type":"Point"}
+}

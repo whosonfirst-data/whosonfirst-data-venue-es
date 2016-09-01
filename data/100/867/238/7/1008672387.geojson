@@ -1,0 +1,60 @@
+{
+  "id": 1008672387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6715519428,39.5781326294,2.6715519428,39.5781326294",
+    "geom:latitude":39.578133,
+    "geom:longitude":2.671552,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Indalecio Prieto, 27",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicios De Telecomunicaciones",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 25 60 09",
+    "sg:postcode":"07008",
+    "sg:province":"Islas Baleares",
+    "sg:website":"www.unitec.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864111,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JEO7ZWC9bwHch9FpHxxuR_39.578133_2.671552@1306269685"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637294,
+    "wof:geomhash":"fc0ada745a400df3e00dfb53871801f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864111,
+            "region_id":85682647,
+            "venue_id":1008672387
+        }
+    ],
+    "wof:id":1008672387,
+    "wof:lastmodified":1472637294,
+    "wof:name":"Unitec S.a.",
+    "wof:parent_id":85864111,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6715519428,
+    39.5781326294,
+    2.6715519428,
+    39.5781326294
+],
+  "geometry": {"coordinates":[2.6715519428,39.5781326294],"type":"Point"}
+}

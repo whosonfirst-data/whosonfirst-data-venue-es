@@ -1,0 +1,90 @@
+{
+  "id": 1008622559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.125330925,41.3777046204,2.125330925,41.3777046204",
+    "geom:latitude":41.377705,
+    "geom:longitude":2.125331,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Benavent, 7",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"Youth",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 48 51 61",
+    "sg:postcode":"08028",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "juventud",
+        "administraci\u00d3n",
+        "la",
+        "en",
+        "deporte",
+        "el",
+        "y"
+    ],
+    "sg:website":"www.thunar.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799597,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32UVQD10aVxNx0gheAaQls_41.377705_2.125331@1306269678"
+    },
+    "wof:country":"ES",
+    "wof:created":1472635237,
+    "wof:geomhash":"9982b034df455828ea4e1ed4ce3bbc8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799597,
+            "region_id":85682663,
+            "venue_id":1008622559
+        }
+    ],
+    "wof:id":1008622559,
+    "wof:lastmodified":1472635237,
+    "wof:name":"Thunar Esports S.l.",
+    "wof:parent_id":85799597,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "juventud",
+        "administraci\u00d3n",
+        "la",
+        "en",
+        "deporte",
+        "el",
+        "y"
+    ]
+},
+  "bbox": [
+    2.125330925,
+    41.3777046204,
+    2.125330925,
+    41.3777046204
+],
+  "geometry": {"coordinates":[2.125330925,41.3777046204],"type":"Point"}
+}

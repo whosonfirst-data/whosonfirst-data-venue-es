@@ -1,0 +1,66 @@
+{
+  "id": 1008241117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.345603466,36.7217063904,-4.345603466,36.7217063904",
+    "geom:latitude":36.721706,
+    "geom:longitude":-4.345603,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Baja, 26",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros M\u00c9dicos Y Sociales, Dispensarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 20 20 82",
+    "sg:postcode":"29018",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863517,
+        85682787,
+        85863521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_632FhLBR9KSSXUS3weV7Ll_36.721706_-4.345603@1306269627"
+    },
+    "wof:country":"ES",
+    "wof:created":1472614529,
+    "wof:geomhash":"6b63bf1bb165d98374d3e73c8a96378d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863517,
+            "region_id":85682787,
+            "venue_id":1008241117
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863521,
+            "region_id":85682787,
+            "venue_id":1008241117
+        }
+    ],
+    "wof:id":1008241117,
+    "wof:lastmodified":1472614529,
+    "wof:name":"Pineda Romero Jose Francisco",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.345603466,
+    36.7217063904,
+    -4.345603466,
+    36.7217063904
+],
+  "geometry": {"coordinates":[-4.345603466,36.7217063904],"type":"Point"}
+}

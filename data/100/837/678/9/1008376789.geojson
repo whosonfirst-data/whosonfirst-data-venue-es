@@ -1,0 +1,59 @@
+{
+  "id": 1008376789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5892782211,40.4557380676,-3.5892782211,40.4557380676",
+    "geom:latitude":40.455738,
+    "geom:longitude":-3.589278,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Galera, S/n",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Frutas, Legumbres Frescas Y Tempranas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 41 72 27",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863589,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05o4E54kV3acUQtVxftr8j_40.455738_-3.589278@1306269645"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624639,
+    "wof:geomhash":"33f103690fb3028a5db35ddc8bbb6ed5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863589,
+            "region_id":85682783,
+            "venue_id":1008376789
+        }
+    ],
+    "wof:id":1008376789,
+    "wof:lastmodified":1472624639,
+    "wof:name":"Rodriguez Del Hierro Luis",
+    "wof:parent_id":85863589,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5892782211,
+    40.4557380676,
+    -3.5892782211,
+    40.4557380676
+],
+  "geometry": {"coordinates":[-3.5892782211,40.4557380676],"type":"Point"}
+}

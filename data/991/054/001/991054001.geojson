@@ -1,0 +1,59 @@
+{
+  "id": 991054001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.5176464915,38.3358802795,-0.5176464915,38.3358802795",
+    "geom:latitude":38.33588,
+    "geom:longitude":-0.517646,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Comunicaciones (las), S/n",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autom\u00d3viles Y Camiones",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 11 32 89",
+    "sg:postcode":"03008",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864045,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GcDmvsEKGn58K4Bi1bnpK_38.335880_-0.517646@1306269434"
+    },
+    "wof:country":"ES",
+    "wof:created":1472523207,
+    "wof:geomhash":"505f8f753a3e4da5e814f6a614276b9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864045,
+            "region_id":85682625,
+            "venue_id":991054001
+        }
+    ],
+    "wof:id":991054001,
+    "wof:lastmodified":1472523207,
+    "wof:name":"Auto Carrascosa S.l.",
+    "wof:parent_id":85864045,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.5176464915,
+    38.3358802795,
+    -0.5176464915,
+    38.3358802795
+],
+  "geometry": {"coordinates":[-0.5176464915,38.3358802795],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 990970135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9332237244,43.2562103271,-2.9332237244,43.2562103271",
+    "geom:latitude":43.25621,
+    "geom:longitude":-2.933224,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Garay Juan De, 7",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 22 25 72",
+    "sg:postcode":"48003",
+    "sg:province":"Vizcaya",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863957,
+        102191581,
+        404345949,
+        85633129,
+        404227393,
+        101748385,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gnsaUMBjMc4cAcOkzpv0M_43.256210_-2.933224@1306269423"
+    },
+    "wof:country":"ES",
+    "wof:created":1472516802,
+    "wof:geomhash":"16a34d00279c8c1090dd63575e1db459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345949,
+            "locality_id":101748385,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863957,
+            "region_id":85682879,
+            "venue_id":990970135
+        }
+    ],
+    "wof:id":990970135,
+    "wof:lastmodified":1472516802,
+    "wof:name":"Anchia Irastorza Basilio",
+    "wof:parent_id":85863957,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -2.9332237244,
+    43.2562103271,
+    -2.9332237244,
+    43.2562103271
+],
+  "geometry": {"coordinates":[-2.9332237244,43.2562103271],"type":"Point"}
+}

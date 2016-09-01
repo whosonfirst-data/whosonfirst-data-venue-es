@@ -1,0 +1,67 @@
+{
+  "id": 1008180199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7139840126,40.4789161682,-3.7139840126,40.4789161682",
+    "geom:latitude":40.478916,
+    "geom:longitude":-3.713984,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Puerto De Maspalomas, 16",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Iglesia Cat\u00d3lica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 86 02 20",
+    "sg:postcode":"28029",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863551,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69Wl3cZBU7rYZOE9D4ZBHU_40.478916_-3.713984@1306269619"
+    },
+    "wof:country":"ES",
+    "wof:created":1472605242,
+    "wof:geomhash":"c5989a55ea9ca05180094814be2440e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863551,
+            "region_id":85682783,
+            "venue_id":1008180199
+        }
+    ],
+    "wof:id":1008180199,
+    "wof:lastmodified":1472605242,
+    "wof:name":"Parroquia Santa Maria De La Fe",
+    "wof:parent_id":85863551,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7139840126,
+    40.4789161682,
+    -3.7139840126,
+    40.4789161682
+],
+  "geometry": {"coordinates":[-3.7139840126,40.4789161682],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1008246425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.8302350044,41.7247695923,1.8302350044,41.7247695923",
+    "geom:latitude":41.72477,
+    "geom:longitude":1.830235,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Vidal I Barraquer, 1",
+    "sg:city":"Manresa",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ba\u00d1os Y Duchas P\u00dablicos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 938 74 47 50",
+    "sg:postcode":"08241",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RhGwOSWx0FNf6yy6p6hQI_41.724770_1.830235@1306269628"
+    },
+    "wof:country":"ES",
+    "wof:created":1472615750,
+    "wof:geomhash":"7e3f9da53b19a432820b9021a5ec860e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008246425
+        }
+    ],
+    "wof:id":1008246425,
+    "wof:lastmodified":1472615750,
+    "wof:name":"Piscina Municipal",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.8302350044,
+    41.7247695923,
+    1.8302350044,
+    41.7247695923
+],
+  "geometry": {"coordinates":[1.8302350044,41.7247695923],"type":"Point"}
+}

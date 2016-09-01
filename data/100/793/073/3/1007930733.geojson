@@ -1,0 +1,81 @@
+{
+  "id": 1007930733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1240599155,41.3589286804,2.1240599155,41.3589286804",
+    "geom:latitude":41.358929,
+    "geom:longitude":2.12406,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Amadeu Torner, 18",
+    "sg:city":"Hospitalet Llobregat",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 31 10 27",
+    "sg:postcode":"08902",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799585,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08Cis1q09fBZzat1Dj8HSd_41.358929_2.124060@1306269586"
+    },
+    "wof:country":"ES",
+    "wof:created":1472592267,
+    "wof:geomhash":"27c46b17a29cc7e5fbfe29164ae1de5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799585,
+            "region_id":85682663,
+            "venue_id":1007930733
+        }
+    ],
+    "wof:id":1007930733,
+    "wof:lastmodified":1472592267,
+    "wof:name":"Martinez Mu\u00f1oz Domingo",
+    "wof:parent_id":85799585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.1240599155,
+    41.3589286804,
+    2.1240599155,
+    41.3589286804
+],
+  "geometry": {"coordinates":[2.1240599155,41.3589286804],"type":"Point"}
+}

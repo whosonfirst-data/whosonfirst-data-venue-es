@@ -1,0 +1,66 @@
+{
+  "id": 1008630539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.3626441956,36.7212753296,-4.3626441956,36.7212753296",
+    "geom:latitude":36.721275,
+    "geom:longitude":-4.362644,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Arquitecto Eduardo Esteve, 1",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Zapatos (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 29 83 46",
+    "sg:postcode":"29017",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863517,
+        85682787,
+        85863521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HxJA5U9qRxsqQYps3b7oF_36.721275_-4.362644@1306269679"
+    },
+    "wof:country":"ES",
+    "wof:created":1472635573,
+    "wof:geomhash":"cf77bb289ba0435babc808340f600d32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863517,
+            "region_id":85682787,
+            "venue_id":1008630539
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863521,
+            "region_id":85682787,
+            "venue_id":1008630539
+        }
+    ],
+    "wof:id":1008630539,
+    "wof:lastmodified":1472635573,
+    "wof:name":"Tome Salazar Maria Del Mar",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.3626441956,
+    36.7212753296,
+    -4.3626441956,
+    36.7212753296
+],
+  "geometry": {"coordinates":[-4.3626441956,36.7212753296],"type":"Point"}
+}

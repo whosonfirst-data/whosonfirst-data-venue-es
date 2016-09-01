@@ -1,0 +1,63 @@
+{
+  "id": 1008205201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1919555664,41.3788833618,2.1919555664,41.3788833618",
+    "geom:latitude":41.378883,
+    "geom:longitude":2.191956,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de L'almirall Cervera, 39",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Restaurantes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 21 71 37",
+    "sg:postcode":"08003",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lOAylfXtBvg3XQM5DCnLP_41.378883_2.191956@1306269622"
+    },
+    "wof:country":"ES",
+    "wof:created":1472610707,
+    "wof:geomhash":"5c13ca941a9aa5e9130054fc3a6058be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":1008205201
+        }
+    ],
+    "wof:id":1008205201,
+    "wof:lastmodified":1472610707,
+    "wof:name":"Pereda Alvarez Celestino",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1919555664,
+    41.3788833618,
+    2.1919555664,
+    41.3788833618
+],
+  "geometry": {"coordinates":[2.1919555664,41.3788833618],"type":"Point"}
+}

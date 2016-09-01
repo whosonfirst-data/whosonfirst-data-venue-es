@@ -1,0 +1,67 @@
+{
+  "id": 1008250985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1711339951,41.421497345,2.1711339951,41.421497345",
+    "geom:latitude":41.421497,
+    "geom:longitude":2.171134,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Ercilla, 59",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Empresas De Pintura Y Revestimientos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 48 07 12",
+    "sg:postcode":"08041",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863997,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6elxjpss3Rob3EuKv8QE16_41.421497_2.171134@1306269629"
+    },
+    "wof:country":"ES",
+    "wof:created":1472616040,
+    "wof:geomhash":"e117794f4833379f007fd8dd6881093c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863997,
+            "region_id":85682663,
+            "venue_id":1008250985
+        }
+    ],
+    "wof:id":1008250985,
+    "wof:lastmodified":1472616040,
+    "wof:name":"Planet Moya Bernabe",
+    "wof:parent_id":85863997,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1711339951,
+    41.421497345,
+    2.1711339951,
+    41.421497345
+],
+  "geometry": {"coordinates":[2.1711339951,41.421497345],"type":"Point"}
+}

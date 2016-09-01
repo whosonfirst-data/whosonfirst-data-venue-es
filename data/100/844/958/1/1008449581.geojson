@@ -1,0 +1,74 @@
+{
+  "id": 1008449581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.7664790154,37.8966407776,-4.7664790154,37.8966407776",
+    "geom:latitude":37.896641,
+    "geom:longitude":-4.766479,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Agrupacion Cordoba, 16",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[],
+    "sg:orig_category":"Inmobiliaria (agencias)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 76 47 89",
+    "sg:postcode":"14007",
+    "sg:province":"C\u00f3rdoba",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863899,
+        85682697,
+        85863895,
+        102191581,
+        404333687,
+        404227361,
+        101748233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yxTQyGZQG6sgCekrBb2TC_37.896641_-4.766479@1306269655"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627929,
+    "wof:geomhash":"cbe5fef2a4e62bc13aa5e7dffb9e1f5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863899,
+            "region_id":85682697,
+            "venue_id":1008449581
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863895,
+            "region_id":85682697,
+            "venue_id":1008449581
+        }
+    ],
+    "wof:id":1008449581,
+    "wof:lastmodified":1472627929,
+    "wof:name":"Sanchez Delis Francisco",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7664790154,
+    37.8966407776,
+    -4.7664790154,
+    37.8966407776
+],
+  "geometry": {"coordinates":[-4.7664790154,37.8966407776],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 991010227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1582686901,41.4077148438,2.1582686901,41.4077148438",
+    "geom:latitude":41.407715,
+    "geom:longitude":2.158269,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pl Rovira I Trias, 9",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 84 43 17",
+    "sg:postcode":"08024",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "sg:website":"www.galeriatelier@galeriateliar.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799393,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jdfZqcqA8jGItLuGcqfTt_41.407715_2.158269@1306269428"
+    },
+    "wof:country":"ES",
+    "wof:created":1472519912,
+    "wof:geomhash":"7b81612afbb1269a0fd9a3acd506e96d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799393,
+            "region_id":85682663,
+            "venue_id":991010227
+        }
+    ],
+    "wof:id":991010227,
+    "wof:lastmodified":1472519912,
+    "wof:name":"Arredo Junior's S.l.",
+    "wof:parent_id":85799393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    2.1582686901,
+    41.4077148438,
+    2.1582686901,
+    41.4077148438
+],
+  "geometry": {"coordinates":[2.1582686901,41.4077148438],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1008260155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2031230927,41.4015541077,2.2031230927,41.4015541077",
+    "geom:latitude":41.401554,
+    "geom:longitude":2.203123,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Llull, 204",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pescader\u00cdas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 09 44 92",
+    "sg:postcode":"08005",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799265,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RkfsljiGuKqEcN2qhXibw_41.401554_2.203123@1306269630"
+    },
+    "wof:country":"ES",
+    "wof:created":1472616534,
+    "wof:geomhash":"f6fd7178693a65a909ea5973c8103bcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799265,
+            "region_id":85682663,
+            "venue_id":1008260155
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864011,
+            "region_id":85682663,
+            "venue_id":1008260155
+        }
+    ],
+    "wof:id":1008260155,
+    "wof:lastmodified":1472616534,
+    "wof:name":"Pons Rovira Mercedes",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2031230927,
+    41.4015541077,
+    2.2031230927,
+    41.4015541077
+],
+  "geometry": {"coordinates":[2.2031230927,41.4015541077],"type":"Point"}
+}

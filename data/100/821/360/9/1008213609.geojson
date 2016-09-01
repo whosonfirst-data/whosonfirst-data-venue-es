@@ -1,0 +1,81 @@
+{
+  "id": 1008213609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2183470726,41.43201828,2.2183470726,41.43201828",
+    "geom:latitude":41.432018,
+    "geom:longitude":2.218347,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Atlantida, 25",
+    "sg:city":"S. Adria Besos",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 81 19 02",
+    "sg:postcode":"08930",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799179,
+        102191581,
+        404330911,
+        85633129,
+        404227379,
+        101748319,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mgVHOsQk4H80vwHhDdDdr_41.432018_2.218347@1306269624"
+    },
+    "wof:country":"ES",
+    "wof:created":1472612633,
+    "wof:geomhash":"728ae0bd14a92635660e8e2209e66077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330911,
+            "locality_id":101748319,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799179,
+            "region_id":85682663,
+            "venue_id":1008213609
+        }
+    ],
+    "wof:id":1008213609,
+    "wof:lastmodified":1472612633,
+    "wof:name":"Perez Gazquez Juana",
+    "wof:parent_id":85799179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ]
+},
+  "bbox": [
+    2.2183470726,
+    41.43201828,
+    2.2183470726,
+    41.43201828
+],
+  "geometry": {"coordinates":[2.2183470726,41.43201828],"type":"Point"}
+}

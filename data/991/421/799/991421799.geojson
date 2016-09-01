@@ -1,0 +1,60 @@
+{
+  "id": 991421799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3491779864,39.5290489197,-0.3491779864,39.5290489197",
+    "geom:latitude":39.529049,
+    "geom:longitude":-0.349178,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Santa Maria, 3",
+    "sg:city":"Meliana",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 961 49 14 18",
+    "sg:postcode":"46133",
+    "sg:province":"Valencia",
+    "sg:website":"www.consum.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864225,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49NP9rpqv2i8T3lAB7XgDl_39.529049_-0.349178@1306269483"
+    },
+    "wof:country":"ES",
+    "wof:created":1472550040,
+    "wof:geomhash":"a045b679d5e18de9ac94145fba707085",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864225,
+            "region_id":85682867,
+            "venue_id":991421799
+        }
+    ],
+    "wof:id":991421799,
+    "wof:lastmodified":1472550040,
+    "wof:name":"Consum Sociedad Cooperativa Limitada",
+    "wof:parent_id":85864225,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3491779864,
+    39.5290489197,
+    -0.3491779864,
+    39.5290489197
+],
+  "geometry": {"coordinates":[-0.3491779864,39.5290489197],"type":"Point"}
+}

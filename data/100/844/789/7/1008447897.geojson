@@ -1,0 +1,59 @@
+{
+  "id": 1008447897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1037139893,41.5633010864,2.1037139893,41.5633010864",
+    "geom:latitude":41.563301,
+    "geom:longitude":2.103714,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Florit, 47",
+    "sg:city":"Sabadell",
+    "sg:classifiers":[],
+    "sg:orig_category":"Negocio De Materiales De Construcci\u00d3n",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 16 75 47",
+    "sg:postcode":"08208",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799453,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VOrPT3Vhu8EzAfbm6tdy2_41.563301_2.103714@1306269655"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627874,
+    "wof:geomhash":"0c5d4545a83afbdb4dc81fcb87f36a11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799453,
+            "region_id":85682663,
+            "venue_id":1008447897
+        }
+    ],
+    "wof:id":1008447897,
+    "wof:lastmodified":1472627874,
+    "wof:name":"Sanchez Cano Pilar",
+    "wof:parent_id":85799453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1037139893,
+    41.5633010864,
+    2.1037139893,
+    41.5633010864
+],
+  "geometry": {"coordinates":[2.1037139893,41.5633010864],"type":"Point"}
+}

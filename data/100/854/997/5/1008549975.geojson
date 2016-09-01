@@ -1,0 +1,78 @@
+{
+  "id": 1008549975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.9232087731,41.6530952454,-0.9232087731,41.6530952454",
+    "geom:latitude":41.653095,
+    "geom:longitude":-0.923209,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Espronceda, 25",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Estilistas Y Estudios De Estilo De Corte Y Confecci\u00d3n",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 32 14 02",
+    "sg:postcode":"50011",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863335,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891,
+        85863433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dWjHMk9fj6aIH89L9vItP_41.653095_-0.923209@1306269669"
+    },
+    "wof:country":"ES",
+    "wof:created":1472632097,
+    "wof:geomhash":"110b7fc2e7f3ee26844cd254682bd483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863335,
+            "region_id":85682891,
+            "venue_id":1008549975
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863433,
+            "region_id":85682891,
+            "venue_id":1008549975
+        }
+    ],
+    "wof:id":1008549975,
+    "wof:lastmodified":1472632097,
+    "wof:name":"Solsona Arce Emeterio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.9232087731,
+    41.6530952454,
+    -0.9232087731,
+    41.6530952454
+],
+  "geometry": {"coordinates":[-0.9232087731,41.6530952454],"type":"Point"}
+}

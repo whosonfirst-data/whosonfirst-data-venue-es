@@ -1,0 +1,60 @@
+{
+  "id": 1008115367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2624499798,41.45885849,2.2624499798,41.45885849",
+    "geom:latitude":41.458858,
+    "geom:longitude":2.26245,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carr Ramon Marti I Alsina, 2",
+    "sg:city":"Badalona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electricidad, Electr\u00d3nica: Suministros (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 41 21 00",
+    "sg:postcode":"08...",
+    "sg:province":"Barcelona",
+    "sg:website":"www.odeco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799485,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OhjuZslbtjoL3kkCt5BBC_41.458858_2.262450@1306269610"
+    },
+    "wof:country":"ES",
+    "wof:created":1472600181,
+    "wof:geomhash":"064fa6afb4d469265fe97d08b9bf45a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799485,
+            "region_id":85682663,
+            "venue_id":1008115367
+        }
+    ],
+    "wof:id":1008115367,
+    "wof:lastmodified":1472600181,
+    "wof:name":"Odeco Electronica S.a.",
+    "wof:parent_id":85799485,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2624499798,
+    41.45885849,
+    2.2624499798,
+    41.45885849
+],
+  "geometry": {"coordinates":[2.2624499798,41.45885849],"type":"Point"}
+}

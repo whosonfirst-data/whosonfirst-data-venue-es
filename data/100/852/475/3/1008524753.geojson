@@ -1,0 +1,78 @@
+{
+  "id": 1008524753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6854600906,40.4532623291,-3.6854600906,40.4532623291",
+    "geom:latitude":40.453262,
+    "geom:longitude":-3.68546,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Crevillente, 4",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Muebles, Minoristas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 64 78 55",
+    "sg:postcode":"28036",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799237,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68RTlhKUzbg3XWPM7ibvKL_40.453262_-3.685460@1306269665"
+    },
+    "wof:country":"ES",
+    "wof:created":1472631056,
+    "wof:geomhash":"5cbc5fac7e7b524407f678ac585d7fab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799237,
+            "region_id":85682783,
+            "venue_id":1008524753
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863621,
+            "region_id":85682783,
+            "venue_id":1008524753
+        }
+    ],
+    "wof:id":1008524753,
+    "wof:lastmodified":1472631056,
+    "wof:name":"Silva Ubeda Juan",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6854600906,
+    40.4532623291,
+    -3.6854600906,
+    40.4532623291
+],
+  "geometry": {"coordinates":[-3.6854600906,40.4532623291],"type":"Point"}
+}

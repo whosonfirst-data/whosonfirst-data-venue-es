@@ -1,0 +1,59 @@
+{
+  "id": 1007987669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.3606581688,36.7203788757,-4.3606581688,36.7203788757",
+    "geom:latitude":36.720379,
+    "geom:longitude":-4.360658,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Miguel Moya, 19",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alimentaci\u00d3n General (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 29 00 47",
+    "sg:postcode":"29017",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863521,
+        85682787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NhGoYSj5BrDmICqUObiIo_36.720379_-4.360658@1306269593"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594639,
+    "wof:geomhash":"3f12134f8497976e4b58c19035c39b0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863521,
+            "region_id":85682787,
+            "venue_id":1007987669
+        }
+    ],
+    "wof:id":1007987669,
+    "wof:lastmodified":1472594639,
+    "wof:name":"Merino Jimenez Miguel",
+    "wof:parent_id":85863521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.3606581688,
+    36.7203788757,
+    -4.3606581688,
+    36.7203788757
+],
+  "geometry": {"coordinates":[-4.3606581688,36.7203788757],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1008186649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1048879623,41.5500831604,2.1048879623,41.5500831604",
+    "geom:latitude":41.550083,
+    "geom:longitude":2.104888,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Gracia, 159",
+    "sg:city":"Sabadell",
+    "sg:classifiers":[],
+    "sg:orig_category":"Panader\u00cdas, Panader\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 25 30 00",
+    "sg:postcode":"08201",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fH1KPTOHAZJr2QdJHeOlA_41.550083_2.104888@1306269620"
+    },
+    "wof:country":"ES",
+    "wof:created":1472606447,
+    "wof:geomhash":"8cc7dea2dd6beedf24b5d411d760660a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008186649
+        }
+    ],
+    "wof:id":1008186649,
+    "wof:lastmodified":1472606447,
+    "wof:name":"Pastisseria Bosser Armengol S.l.",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1048879623,
+    41.5500831604,
+    2.1048879623,
+    41.5500831604
+],
+  "geometry": {"coordinates":[2.1048879623,41.5500831604],"type":"Point"}
+}

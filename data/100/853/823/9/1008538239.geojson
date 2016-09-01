@@ -1,0 +1,66 @@
+{
+  "id": 1008538239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9233241081,43.2410926819,-2.9233241081,43.2410926819",
+    "geom:latitude":43.241093,
+    "geom:longitude":-2.923324,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Zamacola, 150",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asociaciones, Organismos Culturales Y Socioeducativos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 16 69 85",
+    "sg:postcode":"48003",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799199,
+        85682879,
+        85863955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uSpwUvubCejPZ9WMTWIpz_43.241093_-2.923324@1306269667"
+    },
+    "wof:country":"ES",
+    "wof:created":1472631604,
+    "wof:geomhash":"7cfcc6753b7bf3f516cfaefbb09dd403",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799199,
+            "region_id":85682879,
+            "venue_id":1008538239
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863955,
+            "region_id":85682879,
+            "venue_id":1008538239
+        }
+    ],
+    "wof:id":1008538239,
+    "wof:lastmodified":1472631604,
+    "wof:name":"Sociedad Cultural Meatza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9233241081,
+    43.2410926819,
+    -2.9233241081,
+    43.2410926819
+],
+  "geometry": {"coordinates":[-2.9233241081,43.2410926819],"type":"Point"}
+}

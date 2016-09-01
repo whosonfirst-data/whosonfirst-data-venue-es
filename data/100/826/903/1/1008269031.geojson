@@ -1,0 +1,59 @@
+{
+  "id": 1008269031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6344339848,39.5833892822,2.6344339848,39.5833892822",
+    "geom:latitude":39.583389,
+    "geom:longitude":2.634434,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Joan Muntaner I Bu, 16",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Comidas Por Encargo, Organizaci\u00d3n De Recepciones",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 28 69 26",
+    "sg:postcode":"07011",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864101,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cHDsdN5TEX7QUdfyJxGpf_39.583389_2.634434@1306269631"
+    },
+    "wof:country":"ES",
+    "wof:created":1472617042,
+    "wof:geomhash":"cd8e198d78002f94de20676ae8152540",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864101,
+            "region_id":85682647,
+            "venue_id":1008269031
+        }
+    ],
+    "wof:id":1008269031,
+    "wof:lastmodified":1472617042,
+    "wof:name":"Prats Perello Vicente",
+    "wof:parent_id":85864101,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6344339848,
+    39.5833892822,
+    2.6344339848,
+    39.5833892822
+],
+  "geometry": {"coordinates":[2.6344339848,39.5833892822],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1007729239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.757222414,40.3741874695,-3.757222414,40.3741874695",
+    "geom:latitude":40.374187,
+    "geom:longitude":-3.757222,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Mascaraque, 6",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Herboristas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 06 34 02",
+    "sg:postcode":"28044",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863781,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101753743,
+        85682783,
+        85863787,
+        101748283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7l3z6SdNn0zhE2GkiwUqwV_40.374187_-3.757222@1306269560"
+    },
+    "wof:country":"ES",
+    "wof:created":1472582446,
+    "wof:geomhash":"f77137b77682f91082b844aa380316ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101753743,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863781,
+            "region_id":85682783,
+            "venue_id":1007729239
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863787,
+            "region_id":85682783,
+            "venue_id":1007729239
+        }
+    ],
+    "wof:id":1007729239,
+    "wof:lastmodified":1472582446,
+    "wof:name":"Jimenez Castro Isabel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.757222414,
+    40.3741874695,
+    -3.757222414,
+    40.3741874695
+],
+  "geometry": {"coordinates":[-3.757222414,40.3741874695],"type":"Point"}
+}

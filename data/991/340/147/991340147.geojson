@@ -1,0 +1,81 @@
+{
+  "id": 991340147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7053949833,40.4160118103,-3.7053949833,40.4160118103",
+    "geom:latitude":40.416012,
+    "geom:longitude":-3.705395,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Postas, 7",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 31 22 55",
+    "sg:postcode":"28012",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "salas",
+        "de",
+        "cine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863747,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GOsrb4LYO1geFNpQ6bArf_40.416012_-3.705395@1306269472"
+    },
+    "wof:country":"ES",
+    "wof:created":1472544547,
+    "wof:geomhash":"a91b0bd9428a471b3955d569e76cb19b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863747,
+            "region_id":85682783,
+            "venue_id":991340147
+        }
+    ],
+    "wof:id":991340147,
+    "wof:lastmodified":1472544547,
+    "wof:name":"Cinematografia Postas S. A.",
+    "wof:parent_id":85863747,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salas",
+        "de",
+        "cine"
+    ]
+},
+  "bbox": [
+    -3.7053949833,
+    40.4160118103,
+    -3.7053949833,
+    40.4160118103
+],
+  "geometry": {"coordinates":[-3.7053949833,40.4160118103],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1008078353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.149969101,41.3936424255,2.149969101,41.3936424255",
+    "geom:latitude":41.393642,
+    "geom:longitude":2.149969,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Muntaner, 217",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Edici\u00d3n De Diarios, Revistas, Boletines",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 21 81 16",
+    "sg:postcode":"08036",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864021,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kvf8PQjl6cBaRpG6BBSfh_41.393642_2.149969@1306269605"
+    },
+    "wof:country":"ES",
+    "wof:created":1472598558,
+    "wof:geomhash":"c3ce4ee782df7a5a67713017f6b28ff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864021,
+            "region_id":85682663,
+            "venue_id":1008078353
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864017,
+            "region_id":85682663,
+            "venue_id":1008078353
+        }
+    ],
+    "wof:id":1008078353,
+    "wof:lastmodified":1472598558,
+    "wof:name":"Naive Discos Espa\u00f1a S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.149969101,
+    41.3936424255,
+    2.149969101,
+    41.3936424255
+],
+  "geometry": {"coordinates":[2.149969101,41.3936424255],"type":"Point"}
+}

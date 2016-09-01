@@ -1,0 +1,90 @@
+{
+  "id": 1024496825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.703248,40.412323,-3.703248,40.412323",
+    "geom:latitude":40.412323,
+    "geom:longitude":-3.703248,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lavapies 26 1A",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"28012",
+    "sg:tags":[
+        "apartments",
+        "flats",
+        "rentals",
+        "holidays",
+        "madrid",
+        "tourism",
+        "lifestyle",
+        "accommodations"
+    ],
+    "sg:website":"http://www.dailyflatrental.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863793,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xo9sDSafKXvrf6Tgc4fu4_40.412323_-3.703248@1308163238"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641483,
+    "wof:geomhash":"1cbeeeec97d3d87d926448629b686e58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863793,
+            "region_id":85682783,
+            "venue_id":1024496825
+        }
+    ],
+    "wof:id":1024496825,
+    "wof:lastmodified":1472641483,
+    "wof:name":"Daily Flat Rental",
+    "wof:parent_id":85863793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartments",
+        "flats",
+        "rentals",
+        "holidays",
+        "madrid",
+        "tourism",
+        "lifestyle",
+        "accommodations"
+    ]
+},
+  "bbox": [
+    -3.703248,
+    40.412323,
+    -3.703248,
+    40.412323
+],
+  "geometry": {"coordinates":[-3.703248,40.412323],"type":"Point"}
+}

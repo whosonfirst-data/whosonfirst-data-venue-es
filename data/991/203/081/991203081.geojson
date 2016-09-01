@@ -1,0 +1,60 @@
+{
+  "id": 991203081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.8289749622,41.7238540649,1.8289749622,41.7238540649",
+    "geom:latitude":41.723854,
+    "geom:longitude":1.828975,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pl Sant Ignasi, 22",
+    "sg:city":"Manresa",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cajas De Ahorro",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 938 72 11 67",
+    "sg:postcode":"08241",
+    "sg:province":"Barcelona",
+    "sg:website":"www.caixamanresa.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pysTenELBBDxSmhjEhPGg_41.723854_1.828975@1306269454"
+    },
+    "wof:country":"ES",
+    "wof:created":1472536727,
+    "wof:geomhash":"e1926a1336459ba4a1c51860f4bfd5a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":991203081
+        }
+    ],
+    "wof:id":991203081,
+    "wof:lastmodified":1472536727,
+    "wof:name":"Caixa D'estalvis De Manresa",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.8289749622,
+    41.7238540649,
+    1.8289749622,
+    41.7238540649
+],
+  "geometry": {"coordinates":[1.8289749622,41.7238540649],"type":"Point"}
+}

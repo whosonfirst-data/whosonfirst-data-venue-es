@@ -1,0 +1,59 @@
+{
+  "id": 1008187797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.3658804893,36.7244415283,-4.3658804893,36.7244415283",
+    "geom:latitude":36.724442,
+    "geom:longitude":-4.36588,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Antonio Trueba, 14",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sociedades, Compa\u00d1\u00cdas Aseguradoras",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 29 32 93",
+    "sg:postcode":"29017",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863517,
+        85682787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26jfuuibpNBbje4LWv3fZx_36.724442_-4.365880@1306269620"
+    },
+    "wof:country":"ES",
+    "wof:created":1472606735,
+    "wof:geomhash":"e30cc1155332990ce135fa737fecac17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863517,
+            "region_id":85682787,
+            "venue_id":1008187797
+        }
+    ],
+    "wof:id":1008187797,
+    "wof:lastmodified":1472606735,
+    "wof:name":"Pastor Moreno Cristobal",
+    "wof:parent_id":85863517,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.3658804893,
+    36.7244415283,
+    -4.3658804893,
+    36.7244415283
+],
+  "geometry": {"coordinates":[-4.3658804893,36.7244415283],"type":"Point"}
+}

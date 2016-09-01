@@ -1,0 +1,77 @@
+{
+  "id": 991800731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1807119846,41.3799362183,2.1807119846,41.3799362183",
+    "geom:latitude":41.379936,
+    "geom:longitude":2.180712,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pg Colom, 11",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Delegados, Agentes De Tr\u00c1nsito, Auxiliares De Transporte Internacional",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 19 68 03",
+    "sg:postcode":"08002",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864033,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aUcGRrgWKmdoTXVXFKdvq_41.379936_2.180712@1306269534"
+    },
+    "wof:country":"ES",
+    "wof:created":1472571991,
+    "wof:geomhash":"48f6514d0f2886781fbe56c7d7e0fc1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864033,
+            "region_id":85682663,
+            "venue_id":991800731
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":991800731
+        }
+    ],
+    "wof:id":991800731,
+    "wof:lastmodified":1472571991,
+    "wof:name":"Global Freight Internacional",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1807119846,
+    41.3799362183,
+    2.1807119846,
+    41.3799362183
+],
+  "geometry": {"coordinates":[2.1807119846,41.3799362183],"type":"Point"}
+}

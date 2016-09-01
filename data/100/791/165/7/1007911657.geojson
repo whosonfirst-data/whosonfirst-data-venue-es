@@ -1,0 +1,82 @@
+{
+  "id": 1007911657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9856638908,37.3942222595,-5.9856638908,37.3942222595",
+    "geom:latitude":37.394222,
+    "geom:longitude":-5.985664,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Matahacas, 8",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 22 96 42",
+    "sg:postcode":"41003",
+    "sg:province":"Sevilla",
+    "sg:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ],
+    "sg:website":"www.sevilla.sadhana.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864155,
+        102191581,
+        404342947,
+        85633129,
+        404227361,
+        101748225,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28hR4HGoznDAfT0es0Xpkm_37.394222_-5.985664@1306269584"
+    },
+    "wof:country":"ES",
+    "wof:created":1472591389,
+    "wof:geomhash":"57c5a0c53415aeb204e242dc655db184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864155,
+            "region_id":85682841,
+            "venue_id":1007911657
+        }
+    ],
+    "wof:id":1007911657,
+    "wof:lastmodified":1472591389,
+    "wof:name":"Marquez Romero Juan Carlos",
+    "wof:parent_id":85864155,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ]
+},
+  "bbox": [
+    -5.9856638908,
+    37.3942222595,
+    -5.9856638908,
+    37.3942222595
+],
+  "geometry": {"coordinates":[-5.9856638908,37.3942222595],"type":"Point"}
+}

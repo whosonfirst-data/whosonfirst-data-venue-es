@@ -1,0 +1,78 @@
+{
+  "id": 1008565309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1505320072,41.3934783936,2.1505320072,41.3934783936",
+    "geom:latitude":41.393478,
+    "geom:longitude":2.150532,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Muntaner, 212",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Inmobiliaria (agencias)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 00 15 34",
+    "sg:postcode":"08036",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864021,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yJ9JeocJsn3GF1Ug3aa1l_41.393478_2.150532@1306269671"
+    },
+    "wof:country":"ES",
+    "wof:created":1472632775,
+    "wof:geomhash":"be9206f77be4140f00b1528c1befb77a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864021,
+            "region_id":85682663,
+            "venue_id":1008565309
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864017,
+            "region_id":85682663,
+            "venue_id":1008565309
+        }
+    ],
+    "wof:id":1008565309,
+    "wof:lastmodified":1472632775,
+    "wof:name":"Subirana Cantarell Adela",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1505320072,
+    41.3934783936,
+    2.1505320072,
+    41.3934783936
+],
+  "geometry": {"coordinates":[2.1505320072,41.3934783936],"type":"Point"}
+}

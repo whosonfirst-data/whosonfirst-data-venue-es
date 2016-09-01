@@ -1,0 +1,79 @@
+{
+  "id": 1008370415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6772780418,40.4196166992,-3.6772780418,40.4196166992",
+    "geom:latitude":40.419617,
+    "geom:longitude":-3.677278,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Menorca, 15",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 74 52 37",
+    "sg:postcode":"28009",
+    "sg:province":"Madrid",
+    "sg:website":"www.rociomonasterio.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863677,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pRe824vHodtqU88lFeOdh_40.419617_-3.677278@1306269645"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624380,
+    "wof:geomhash":"be5ed92a4d8117e3a34936960077d2c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863677,
+            "region_id":85682783,
+            "venue_id":1008370415
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863679,
+            "region_id":85682783,
+            "venue_id":1008370415
+        }
+    ],
+    "wof:id":1008370415,
+    "wof:lastmodified":1472624380,
+    "wof:name":"Rocio Monasterio Y Asociados S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6772780418,
+    40.4196166992,
+    -3.6772780418,
+    40.4196166992
+],
+  "geometry": {"coordinates":[-3.6772780418,40.4196166992],"type":"Point"}
+}

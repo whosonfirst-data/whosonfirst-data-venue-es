@@ -1,0 +1,92 @@
+{
+  "id": 1024496791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6992667,40.4165967,-3.6992667,40.4165967",
+    "geom:latitude":40.416597,
+    "geom:longitude":-3.699267,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrera de San Jeronimo 15",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"28013",
+    "sg:tags":[
+        "ruby",
+        "rails",
+        "ruby-on-rails",
+        "software",
+        "agile",
+        "less-is-more",
+        "web-solutions",
+        "agile-technology",
+        "agile-development"
+    ],
+    "sg:website":"http://aspgems.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863685,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MXgvEZl89H6LhvPY0EtU9_40.416597_-3.699267@1308163241"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641482,
+    "wof:geomhash":"56c75816a3d3ee3493bd7d4a3dca6d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863685,
+            "region_id":85682783,
+            "venue_id":1024496791
+        }
+    ],
+    "wof:id":1024496791,
+    "wof:lastmodified":1472641482,
+    "wof:name":"ASPgems",
+    "wof:parent_id":85863685,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ruby",
+        "rails",
+        "ruby-on-rails",
+        "software",
+        "agile",
+        "less-is-more",
+        "web-solutions",
+        "agile-technology",
+        "agile-development"
+    ]
+},
+  "bbox": [
+    -3.6992667,
+    40.4165967,
+    -3.6992667,
+    40.4165967
+],
+  "geometry": {"coordinates":[-3.6992667,40.4165967],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1008135357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7818090916,40.3773345947,-3.7818090916,40.3773345947",
+    "geom:latitude":40.377335,
+    "geom:longitude":-3.781809,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Serradilla, 1",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Peluquer\u00cdas, Peluquer\u00cda Mixta",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 05 91 66",
+    "sg:postcode":"28044",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bUVKIRdJtefq0wHGPlqnj_40.377335_-3.781809@1306269613"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601185,
+    "wof:geomhash":"09a1d3df14b0f52802fabf388c01bb2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008135357
+        }
+    ],
+    "wof:id":1008135357,
+    "wof:lastmodified":1472601185,
+    "wof:name":"Ortega Diaz Maria Evangelina",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7818090916,
+    40.3773345947,
+    -3.7818090916,
+    40.3773345947
+],
+  "geometry": {"coordinates":[-3.7818090916,40.3773345947],"type":"Point"}
+}

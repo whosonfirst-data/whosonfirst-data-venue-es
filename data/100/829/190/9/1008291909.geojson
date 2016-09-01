@@ -1,0 +1,59 @@
+{
+  "id": 1008291909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.4956119061,40.4520874023,-3.4956119061,40.4520874023",
+    "geom:latitude":40.452087,
+    "geom:longitude":-3.495612,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Sierra De Guadarrama (de La), 92",
+    "sg:city":"Poligono De San Fernando De Henares",
+    "sg:classifiers":[],
+    "sg:orig_category":"Transporte En General",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 76 19 02",
+    "sg:postcode":"28830",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863631,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qPf2sOQ6uAo9ac38DBWCD_40.452087_-3.495612@1306269634"
+    },
+    "wof:country":"ES",
+    "wof:created":1472618392,
+    "wof:geomhash":"f209de4a51bc0b9ae39a41feba401ec9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863631,
+            "region_id":85682783,
+            "venue_id":1008291909
+        }
+    ],
+    "wof:id":1008291909,
+    "wof:lastmodified":1472618392,
+    "wof:name":"Puebla Dos S.a.",
+    "wof:parent_id":85863631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.4956119061,
+    40.4520874023,
+    -3.4956119061,
+    40.4520874023
+],
+  "geometry": {"coordinates":[-3.4956119061,40.4520874023],"type":"Point"}
+}

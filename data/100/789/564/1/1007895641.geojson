@@ -1,0 +1,77 @@
+{
+  "id": 1007895641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6629869938,39.5681762695,2.6629869938,39.5681762695",
+    "geom:latitude":39.568176,
+    "geom:longitude":2.662987,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Victor Pradera, 24",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Plomeros",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 46 06 65",
+    "sg:postcode":"07006",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101748237,
+        85864115,
+        85864089,
+        102191581,
+        404330817,
+        404227367,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Q2IN9gfnTYTw7Gh6uoU7D_39.568176_2.662987@1306269582"
+    },
+    "wof:country":"ES",
+    "wof:created":1472590682,
+    "wof:geomhash":"ec61f864c8e58f04a359ec35b23f2d2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748237,
+            "neighbourhood_id":85864115,
+            "region_id":-1,
+            "venue_id":1007895641
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864089,
+            "region_id":85682647,
+            "venue_id":1007895641
+        }
+    ],
+    "wof:id":1007895641,
+    "wof:lastmodified":1472590682,
+    "wof:name":"Mares Mallorquina De Reformas Y Mantenimiento S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6629869938,
+    39.5681762695,
+    2.6629869938,
+    39.5681762695
+],
+  "geometry": {"coordinates":[2.6629869938,39.5681762695],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1007681915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6914720535,40.4502182007,-3.6914720535,40.4502182007",
+    "geom:latitude":40.450218,
+    "geom:longitude":-3.691472,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pase Castellana, 91",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 56 66 99",
+    "sg:postcode":"28046",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "mercado",
+        "de",
+        "estudios"
+    ],
+    "sg:website":"www.infoadex.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863621,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3afrGVUo9iAPRoeCeGXLG0_40.450218_-3.691472@1306269554"
+    },
+    "wof:country":"ES",
+    "wof:created":1472580093,
+    "wof:geomhash":"6cd4084071d23f76a20a84f6d45c5465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863621,
+            "region_id":85682783,
+            "venue_id":1007681915
+        }
+    ],
+    "wof:id":1007681915,
+    "wof:lastmodified":1472580093,
+    "wof:name":"Infoadex S.a.",
+    "wof:parent_id":85863621,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mercado",
+        "de",
+        "estudios"
+    ]
+},
+  "bbox": [
+    -3.6914720535,
+    40.4502182007,
+    -3.6914720535,
+    40.4502182007
+],
+  "geometry": {"coordinates":[-3.6914720535,40.4502182007],"type":"Point"}
+}

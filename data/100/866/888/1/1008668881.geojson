@@ -1,0 +1,60 @@
+{
+  "id": 1008668881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8255290985,40.3442077637,-3.8255290985,40.3442077637",
+    "geom:latitude":40.344208,
+    "geom:longitude":-3.825529,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Pedro, 22",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ingeniero",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 43 54 37",
+    "sg:postcode":"28921",
+    "sg:province":"Madrid",
+    "sg:website":"www.uninet.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qfCQRNnn0T6yCbnmEPDKP_40.344208_-3.825529@1306269684"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637164,
+    "wof:geomhash":"1fb3f3eb1f04c1edf1887898490641ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008668881
+        }
+    ],
+    "wof:id":1008668881,
+    "wof:lastmodified":1472637164,
+    "wof:name":"Uninet Multimedia S.l.",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8255290985,
+    40.3442077637,
+    -3.8255290985,
+    40.3442077637
+],
+  "geometry": {"coordinates":[-3.8255290985,40.3442077637],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1007921859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.3579916954,36.7214927673,-4.3579916954,36.7214927673",
+    "geom:latitude":36.721493,
+    "geom:longitude":-4.357992,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Aljofaina, 5",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 20 17 21",
+    "sg:postcode":"29018",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863517,
+        85682787,
+        85863521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IXl1xCgoJ3iUyw9vHJGvR_36.721493_-4.357992@1306269585"
+    },
+    "wof:country":"ES",
+    "wof:created":1472591832,
+    "wof:geomhash":"43e507e60ef03581efc56c278522745f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863517,
+            "region_id":85682787,
+            "venue_id":1007921859
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863521,
+            "region_id":85682787,
+            "venue_id":1007921859
+        }
+    ],
+    "wof:id":1007921859,
+    "wof:lastmodified":1472591832,
+    "wof:name":"Martinez De Dios Juan",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.3579916954,
+    36.7214927673,
+    -4.3579916954,
+    36.7214927673
+],
+  "geometry": {"coordinates":[-4.3579916954,36.7214927673],"type":"Point"}
+}

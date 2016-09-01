@@ -1,0 +1,67 @@
+{
+  "id": 991358207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2092859745,41.4242172241,2.2092859745,41.4242172241",
+    "geom:latitude":41.424217,
+    "geom:longitude":2.209286,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pl Fernando De Los Rios, 5",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 13 40 45",
+    "sg:postcode":"08020",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864011,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TRpOBMI29Q4HzPNBKIpGr_41.424217_2.209286@1306269475"
+    },
+    "wof:country":"ES",
+    "wof:created":1472545680,
+    "wof:geomhash":"581d40177c04eb47e25e0ec5b2765a35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864011,
+            "region_id":85682663,
+            "venue_id":991358207
+        }
+    ],
+    "wof:id":991358207,
+    "wof:lastmodified":1472545680,
+    "wof:name":"Codina Armadans Natividad",
+    "wof:parent_id":85864011,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2092859745,
+    41.4242172241,
+    2.2092859745,
+    41.4242172241
+],
+  "geometry": {"coordinates":[2.2092859745,41.4242172241],"type":"Point"}
+}

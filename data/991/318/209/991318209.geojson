@@ -1,0 +1,67 @@
+{
+  "id": 991318209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1746890545,41.3792457581,2.1746890545,41.3792457581",
+    "geom:latitude":41.379246,
+    "geom:longitude":2.174689,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de La Rambla, 37",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asociaciones, Organismos Culturales Y Socioeducativos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 12 50 58",
+    "sg:postcode":"08002",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864033,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jU6KeGObC8qzkeSTYgwXV_41.379246_2.174689@1306269469"
+    },
+    "wof:country":"ES",
+    "wof:created":1472543487,
+    "wof:geomhash":"4505a338aaf65e282e86daf47b870caf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864033,
+            "region_id":85682663,
+            "venue_id":991318209
+        }
+    ],
+    "wof:id":991318209,
+    "wof:lastmodified":1472543487,
+    "wof:name":"Centro Gallego De Barcelona",
+    "wof:parent_id":85864033,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1746890545,
+    41.3792457581,
+    2.1746890545,
+    41.3792457581
+],
+  "geometry": {"coordinates":[2.1746890545,41.3792457581],"type":"Point"}
+}

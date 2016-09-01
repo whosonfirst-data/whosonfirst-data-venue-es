@@ -1,0 +1,59 @@
+{
+  "id": 1008677441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.824215889,40.3523330688,-3.824215889,40.3523330688",
+    "geom:latitude":40.352333,
+    "geom:longitude":-3.824216,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Tordesillas, 6",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mec\u00c1nico Del Autom\u00d3vil",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 10 21 60",
+    "sg:postcode":"28924",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HR0eaOywO5yvOyeCT4PMs_40.352333_-3.824216@1306269686"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637520,
+    "wof:geomhash":"769e9d0beaa9d1100f66ab39f29f5361",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008677441
+        }
+    ],
+    "wof:id":1008677441,
+    "wof:lastmodified":1472637520,
+    "wof:name":"Urrea Lopez Trinitario",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.824215889,
+    40.3523330688,
+    -3.824215889,
+    40.3523330688
+],
+  "geometry": {"coordinates":[-3.824215889,40.3523330688],"type":"Point"}
+}

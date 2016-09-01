@@ -1,0 +1,67 @@
+{
+  "id": 1007885849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1529610157,41.3843841553,2.1529610157,41.3843841553",
+    "geom:latitude":41.384384,
+    "geom:longitude":2.152961,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Roma, 110",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cl\u00cdnicas M\u00c9dicas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 51 19 75",
+    "sg:postcode":"08015",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864021,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DmMwNv737bL4bZfxFREMV_41.384384_2.152961@1306269581"
+    },
+    "wof:country":"ES",
+    "wof:created":1472590299,
+    "wof:geomhash":"916bd37c02707d276fd44e311763fbb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864021,
+            "region_id":85682663,
+            "venue_id":1007885849
+        }
+    ],
+    "wof:id":1007885849,
+    "wof:lastmodified":1472590299,
+    "wof:name":"Manzanares Corominas Jesus",
+    "wof:parent_id":85864021,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1529610157,
+    41.3843841553,
+    2.1529610157,
+    41.3843841553
+],
+  "geometry": {"coordinates":[2.1529610157,41.3843841553],"type":"Point"}
+}

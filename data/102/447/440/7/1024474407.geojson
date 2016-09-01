@@ -1,0 +1,79 @@
+{
+  "id": 1024474407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1556274891,41.3765335083,2.1556274891,41.3765335083",
+    "geom:latitude":41.376534,
+    "geom:longitude":2.155627,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Mistral, 40",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Maquinaria Para Industrias Diversas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 23 05 08",
+    "sg:postcode":"08015",
+    "sg:province":"Barcelona",
+    "sg:website":"www.vorkauf.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864037,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Le5Pby3xd62dNqSbdnGQc_41.376534_2.155627@1306269695"
+    },
+    "wof:country":"ES",
+    "wof:created":1472640532,
+    "wof:geomhash":"92a175966f8906971b4f38f2ad5bd1dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864037,
+            "region_id":85682663,
+            "venue_id":1024474407
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864027,
+            "region_id":85682663,
+            "venue_id":1024474407
+        }
+    ],
+    "wof:id":1024474407,
+    "wof:lastmodified":1472640532,
+    "wof:name":"Vorkauk S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1556274891,
+    41.3765335083,
+    2.1556274891,
+    41.3765335083
+],
+  "geometry": {"coordinates":[2.1556274891,41.3765335083],"type":"Point"}
+}

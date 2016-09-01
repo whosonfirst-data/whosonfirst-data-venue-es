@@ -1,0 +1,67 @@
+{
+  "id": 991104905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1751821041,41.4394226074,2.1751821041,41.4394226074",
+    "geom:latitude":41.439423,
+    "geom:longitude":2.175182,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Via Julia, 19",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 76 01 98",
+    "sg:postcode":"08042",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799399,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JtfkK13E3qloPxvOa5wQB_41.439423_2.175182@1306269441"
+    },
+    "wof:country":"ES",
+    "wof:created":1472527166,
+    "wof:geomhash":"8447fbdc75cced4c2e563b94c6010676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799399,
+            "region_id":85682663,
+            "venue_id":991104905
+        }
+    ],
+    "wof:id":991104905,
+    "wof:lastmodified":1472527166,
+    "wof:name":"Banc Sabadell S.a.",
+    "wof:parent_id":85799399,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1751821041,
+    41.4394226074,
+    2.1751821041,
+    41.4394226074
+],
+  "geometry": {"coordinates":[2.1751821041,41.4394226074],"type":"Point"}
+}

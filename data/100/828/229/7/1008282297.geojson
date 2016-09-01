@@ -1,0 +1,77 @@
+{
+  "id": 1008282297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-8.1937484741,43.5025787354,-8.1937484741,43.5025787354",
+    "geom:latitude":43.502579,
+    "geom:longitude":-8.193748,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rua Cangas, 2",
+    "sg:city":"Naron",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 981 38 27 26",
+    "sg:postcode":"15407",
+    "sg:province":"La Coru\u00f1a",
+    "sg:tags":[
+        "mercado",
+        "de",
+        "estudios"
+    ],
+    "sg:website":"www.grupoi.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101748407,
+        85799423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16w6lZ4fhsiCPWDgomnVDi_43.502579_-8.193748@1306269633"
+    },
+    "wof:country":"ES",
+    "wof:created":1472617840,
+    "wof:geomhash":"726a9209240c73529e0239fc6064c43a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748407,
+            "neighbourhood_id":85799423,
+            "region_id":-1,
+            "venue_id":1008282297
+        }
+    ],
+    "wof:id":1008282297,
+    "wof:lastmodified":1472617840,
+    "wof:name":"Promociones Inmobiliarias Del Pisuerga S.a.",
+    "wof:parent_id":85799423,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mercado",
+        "de",
+        "estudios"
+    ]
+},
+  "bbox": [
+    -8.1937484741,
+    43.5025787354,
+    -8.1937484741,
+    43.5025787354
+],
+  "geometry": {"coordinates":[-8.1937484741,43.5025787354],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1008418955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7999179363,43.4639968872,-3.7999179363,43.4639968872",
+    "geom:latitude":43.463997,
+    "geom:longitude":-3.799918,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Lope De Vega, 21",
+    "sg:city":"Santander",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alimentaci\u00d3n General (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 21 66 56",
+    "sg:postcode":"39003",
+    "sg:province":"Cantabria",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799303,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5egObYRUfTH04BeR5GAtbY_43.463997_-3.799918@1306269651"
+    },
+    "wof:country":"ES",
+    "wof:created":1472626645,
+    "wof:geomhash":"5a9d5ac99284fcacbd66204c142e3a62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799303,
+            "region_id":85682833,
+            "venue_id":1008418955
+        }
+    ],
+    "wof:id":1008418955,
+    "wof:lastmodified":1472626645,
+    "wof:name":"Ruiz Cobo Angel",
+    "wof:parent_id":85799303,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7999179363,
+    43.4639968872,
+    -3.7999179363,
+    43.4639968872
+],
+  "geometry": {"coordinates":[-3.7999179363,43.4639968872],"type":"Point"}
+}

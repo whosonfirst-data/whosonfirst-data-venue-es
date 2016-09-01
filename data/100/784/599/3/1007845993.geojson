@@ -1,0 +1,59 @@
+{
+  "id": 1007845993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6363749504,39.6081390381,2.6363749504,39.6081390381",
+    "geom:latitude":39.608139,
+    "geom:longitude":2.636375,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Cister, 33",
+    "sg:city":"Secar De La Real",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bazares, Art\u00cdculos De Limpieza Y De Cocina (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 76 98 19",
+    "sg:postcode":"07010",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864091,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48XWgO3Toky1Mw4pQ38YK9_39.608139_2.636375@1306269576"
+    },
+    "wof:country":"ES",
+    "wof:created":1472588508,
+    "wof:geomhash":"d5e69a8afdbcc512e9d9d389be12084a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":1007845993
+        }
+    ],
+    "wof:id":1007845993,
+    "wof:lastmodified":1472588508,
+    "wof:name":"Lopez Seco De Herrera Francisco Manuel",
+    "wof:parent_id":85864091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6363749504,
+    39.6081390381,
+    2.6363749504,
+    39.6081390381
+],
+  "geometry": {"coordinates":[2.6363749504,39.6081390381],"type":"Point"}
+}

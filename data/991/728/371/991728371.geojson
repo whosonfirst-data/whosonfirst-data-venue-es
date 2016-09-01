@@ -1,0 +1,67 @@
+{
+  "id": 991728371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7197089195,40.4665145874,-3.7197089195,40.4665145874",
+    "geom:latitude":40.466515,
+    "geom:longitude":-3.719709,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Antonio Machado, 37",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 73 86 50",
+    "sg:postcode":"28035",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799627,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jRZqqgeueiRRyQC9YhFmq_40.466515_-3.719709@1306269524"
+    },
+    "wof:country":"ES",
+    "wof:created":1472566895,
+    "wof:geomhash":"a23d3d49811398425a4ec28928a4ab1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799627,
+            "region_id":85682783,
+            "venue_id":991728371
+        }
+    ],
+    "wof:id":991728371,
+    "wof:lastmodified":1472566895,
+    "wof:name":"Gamarra Romero Alfonso",
+    "wof:parent_id":85799627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7197089195,
+    40.4665145874,
+    -3.7197089195,
+    40.4665145874
+],
+  "geometry": {"coordinates":[-3.7197089195,40.4665145874],"type":"Point"}
+}

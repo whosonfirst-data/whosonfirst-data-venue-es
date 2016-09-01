@@ -1,0 +1,67 @@
+{
+  "id": 1008603839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.146572113,41.4046821594,2.146572113,41.4046821594",
+    "geom:latitude":41.404682,
+    "geom:longitude":2.146572,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Vallirana, 63",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aislamiento El\u00c9ctrico",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 18 86 14",
+    "sg:postcode":"08006",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799393,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58DuulLbrqDwi1KB4Si8jH_41.404682_2.146572@1306269676"
+    },
+    "wof:country":"ES",
+    "wof:created":1472634422,
+    "wof:geomhash":"58f94e6a43c1c8ddc757a753c96474bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799393,
+            "region_id":85682663,
+            "venue_id":1008603839
+        }
+    ],
+    "wof:id":1008603839,
+    "wof:lastmodified":1472634422,
+    "wof:name":"Tecnicas Aerograficas S. A.",
+    "wof:parent_id":85799393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.146572113,
+    41.4046821594,
+    2.146572113,
+    41.4046821594
+],
+  "geometry": {"coordinates":[2.146572113,41.4046821594],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1007929445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6764359474,40.409286499,-3.6764359474,40.409286499",
+    "geom:latitude":40.409286,
+    "geom:longitude":-3.676436,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Reyes Magos, 12",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ingenier\u00cda, Centros De Estudios (diversos)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 51 98 10",
+    "sg:postcode":"28007",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863691,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LGhgh4FxwQfQmF27koK4p_40.409286_-3.676436@1306269586"
+    },
+    "wof:country":"ES",
+    "wof:created":1472592207,
+    "wof:geomhash":"72790db48c2df6aa18e8868a8cde28ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863691,
+            "region_id":85682783,
+            "venue_id":1007929445
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863689,
+            "region_id":85682783,
+            "venue_id":1007929445
+        }
+    ],
+    "wof:id":1007929445,
+    "wof:lastmodified":1472592207,
+    "wof:name":"Martinez Martinez Pedro Manuel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6764359474,
+    40.409286499,
+    -3.6764359474,
+    40.409286499
+],
+  "geometry": {"coordinates":[-3.6764359474,40.409286499],"type":"Point"}
+}

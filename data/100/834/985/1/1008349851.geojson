@@ -1,0 +1,81 @@
+{
+  "id": 1008349851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.4541053772,36.6963386536,-4.4541053772,36.6963386536",
+    "geom:latitude":36.696339,
+    "geom:longitude":-4.454105,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Berruguete, 5",
+    "sg:city":"Malaga",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 17 21 05",
+    "sg:postcode":"29004",
+    "sg:province":"M\u00e1laga",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863533,
+        102191581,
+        404339241,
+        85633129,
+        404227361,
+        101748185,
+        85682787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lCQDNs8padErj2XRAdZc1_36.696339_-4.454105@1306269642"
+    },
+    "wof:country":"ES",
+    "wof:created":1472623511,
+    "wof:geomhash":"9121d6e7f9f3fe3990705fee608573ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863533,
+            "region_id":85682787,
+            "venue_id":1008349851
+        }
+    ],
+    "wof:id":1008349851,
+    "wof:lastmodified":1472623511,
+    "wof:name":"Reviriego Rodriguez Alberto",
+    "wof:parent_id":85863533,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -4.4541053772,
+    36.6963386536,
+    -4.4541053772,
+    36.6963386536
+],
+  "geometry": {"coordinates":[-4.4541053772,36.6963386536],"type":"Point"}
+}

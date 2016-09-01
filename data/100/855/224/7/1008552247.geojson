@@ -1,0 +1,82 @@
+{
+  "id": 1008552247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.9899638891,37.6037445068,-0.9899638891,37.6037445068",
+    "geom:latitude":37.603745,
+    "geom:longitude":-0.989964,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Jabonerias, S/n",
+    "sg:city":"Cartagena",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 968 50 16 15",
+    "sg:postcode":"30201",
+    "sg:province":"Murcia",
+    "sg:tags":[
+        "salas",
+        "de",
+        "cine"
+    ],
+    "sg:website":"www.murciaregion.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799251,
+        102191581,
+        404339353,
+        85633129,
+        404227389,
+        101748203,
+        85682791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IzV1isKjRhJHJOxEDpg3O_37.603745_-0.989964@1306269669"
+    },
+    "wof:country":"ES",
+    "wof:created":1472632204,
+    "wof:geomhash":"72ea617f9cc6496d4f2e7642e811e877",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339353,
+            "locality_id":101748203,
+            "macroregion_id":404227389,
+            "neighbourhood_id":85799251,
+            "region_id":85682791,
+            "venue_id":1008552247
+        }
+    ],
+    "wof:id":1008552247,
+    "wof:lastmodified":1472632204,
+    "wof:name":"Sonora Producciones S.l.",
+    "wof:parent_id":85799251,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salas",
+        "de",
+        "cine"
+    ]
+},
+  "bbox": [
+    -0.9899638891,
+    37.6037445068,
+    -0.9899638891,
+    37.6037445068
+],
+  "geometry": {"coordinates":[-0.9899638891,37.6037445068],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1008149775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.9223589897,41.649684906,-0.9223589897,41.649684906",
+    "geom:latitude":41.649685,
+    "geom:longitude":-0.922359,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Fray Luis De Leon, 6",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Comunidades Religiosas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 31 26 33",
+    "sg:postcode":"50011",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863433,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47Syml0C5hEXjCVjNE4kt4_41.649685_-0.922359@1306269615"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601829,
+    "wof:geomhash":"3c7fff72633ef37e0fc2543926ab9902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863433,
+            "region_id":85682891,
+            "venue_id":1008149775
+        }
+    ],
+    "wof:id":1008149775,
+    "wof:lastmodified":1472601829,
+    "wof:name":"Padres Franciscanos",
+    "wof:parent_id":85863433,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.9223589897,
+    41.649684906,
+    -0.9223589897,
+    41.649684906
+],
+  "geometry": {"coordinates":[-0.9223589897,41.649684906],"type":"Point"}
+}

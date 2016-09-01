@@ -1,0 +1,67 @@
+{
+  "id": 1007913345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1836290359,41.4126968384,2.1836290359,41.4126968384",
+    "geom:latitude":41.412697,
+    "geom:longitude":2.183629,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Muntanya, 88",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electricidad: Instaladores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 56 88 29",
+    "sg:postcode":"08026",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799265,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MaoGMmqb2tfDdouaAtQXB_41.412697_2.183629@1306269584"
+    },
+    "wof:country":"ES",
+    "wof:created":1472591459,
+    "wof:geomhash":"41c9a3603b47bcef60a2b96ba24179c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799265,
+            "region_id":85682663,
+            "venue_id":1007913345
+        }
+    ],
+    "wof:id":1007913345,
+    "wof:lastmodified":1472591459,
+    "wof:name":"Martell Fanes Josep",
+    "wof:parent_id":85799265,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1836290359,
+    41.4126968384,
+    2.1836290359,
+    41.4126968384
+],
+  "geometry": {"coordinates":[2.1836290359,41.4126968384],"type":"Point"}
+}

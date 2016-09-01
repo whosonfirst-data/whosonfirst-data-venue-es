@@ -1,0 +1,79 @@
+{
+  "id": 991252081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1585760117,41.4248085022,2.1585760117,41.4248085022",
+    "geom:latitude":41.424809,
+    "geom:longitude":2.158576,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Ciencies, S/n",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 902 11 60 60",
+    "sg:postcode":"08032",
+    "sg:province":"Barcelona",
+    "sg:website":"www.caprabo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863991,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85799399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50NWDybtBuF3XdbElaQGgE_41.424809_2.158576@1306269461"
+    },
+    "wof:country":"ES",
+    "wof:created":1472540174,
+    "wof:geomhash":"c827c322b442adcf86028760e52f3cdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863991,
+            "region_id":85682663,
+            "venue_id":991252081
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799399,
+            "region_id":85682663,
+            "venue_id":991252081
+        }
+    ],
+    "wof:id":991252081,
+    "wof:lastmodified":1472540174,
+    "wof:name":"Caprabo S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1585760117,
+    41.4248085022,
+    2.1585760117,
+    41.4248085022
+],
+  "geometry": {"coordinates":[2.1585760117,41.4248085022],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1008462837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.7768201828,37.8723106384,-4.7768201828,37.8723106384",
+    "geom:latitude":37.872311,
+    "geom:longitude":-4.77682,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Carretera De Castro, 8",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 29 54 80",
+    "sg:postcode":"14009",
+    "sg:province":"C\u00f3rdoba",
+    "sg:tags":[
+        "de",
+        "industrial",
+        "alquiler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863875,
+        85682697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ylc0od31TxHxliZoPmxIj_37.872311_-4.776820@1306269657"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628426,
+    "wof:geomhash":"6b1ae96c63552893dad4a7aaf1e9aa74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863875,
+            "region_id":85682697,
+            "venue_id":1008462837
+        }
+    ],
+    "wof:id":1008462837,
+    "wof:lastmodified":1472628426,
+    "wof:name":"Sanchez Tobaruela Concepcion",
+    "wof:parent_id":85863875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "industrial",
+        "alquiler"
+    ]
+},
+  "bbox": [
+    -4.7768201828,
+    37.8723106384,
+    -4.7768201828,
+    37.8723106384
+],
+  "geometry": {"coordinates":[-4.7768201828,37.8723106384],"type":"Point"}
+}

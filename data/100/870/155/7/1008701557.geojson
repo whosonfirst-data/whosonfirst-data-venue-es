@@ -1,0 +1,78 @@
+{
+  "id": 1008701557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6563539505,40.4047203064,-3.6563539505,40.4047203064",
+    "geom:latitude":40.40472,
+    "geom:longitude":-3.656354,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ceramica, S/n",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Empresas De Carpinter\u00cda De Madera",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 52 02 12",
+    "sg:postcode":"28038",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863731,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KwrUIubVhkDL707Iglvgy_40.404720_-3.656354@1306269689"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638603,
+    "wof:geomhash":"d6560861e1c1e79c2909c1959248409f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863731,
+            "region_id":85682783,
+            "venue_id":1008701557
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863715,
+            "region_id":85682783,
+            "venue_id":1008701557
+        }
+    ],
+    "wof:id":1008701557,
+    "wof:lastmodified":1472638603,
+    "wof:name":"Velado Rosado Felix",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6563539505,
+    40.4047203064,
+    -3.6563539505,
+    40.4047203064
+],
+  "geometry": {"coordinates":[-3.6563539505,40.4047203064],"type":"Point"}
+}

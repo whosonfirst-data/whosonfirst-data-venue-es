@@ -1,0 +1,60 @@
+{
+  "id": 1008338801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.466796875,40.4483032227,-3.466796875,40.4483032227",
+    "geom:latitude":40.448303,
+    "geom:longitude":-3.466797,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Amoniaco, 8",
+    "sg:city":"Torrejon Ardoz",
+    "sg:classifiers":[],
+    "sg:orig_category":"Instalaciones Frigor\u00cdficas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 77 79 09",
+    "sg:postcode":"28850",
+    "sg:province":"Madrid",
+    "sg:website":"www.rentfrio.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863709,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AyFGSfQzQFmWrrR5GgUqB_40.448303_-3.466797@1306269640"
+    },
+    "wof:country":"ES",
+    "wof:created":1472623013,
+    "wof:geomhash":"acdd9ee566aec9a9c0f83d5470f81940",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863709,
+            "region_id":85682783,
+            "venue_id":1008338801
+        }
+    ],
+    "wof:id":1008338801,
+    "wof:lastmodified":1472623013,
+    "wof:name":"Rentfrio S.a.",
+    "wof:parent_id":85863709,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.466796875,
+    40.4483032227,
+    -3.466796875,
+    40.4483032227
+],
+  "geometry": {"coordinates":[-3.466796875,40.4483032227],"type":"Point"}
+}

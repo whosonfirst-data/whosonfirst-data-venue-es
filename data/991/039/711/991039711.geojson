@@ -1,0 +1,73 @@
+{
+  "id": 991039711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1948709488,41.5623245239,2.1948709488,41.5623245239",
+    "geom:latitude":41.562325,
+    "geom:longitude":2.194871,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Disseminat, S/n",
+    "sg:city":"Gallecs",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 935 62 45 30",
+    "sg:postcode":"08104",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "mercado",
+        "de",
+        "estudios"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799453,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KCP9ov19yICOHjaHd3Rau_41.562325_2.194871@1306269432"
+    },
+    "wof:country":"ES",
+    "wof:created":1472522166,
+    "wof:geomhash":"20d3dafa08f330d34236048bdeb2ced3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799453,
+            "region_id":85682663,
+            "venue_id":991039711
+        }
+    ],
+    "wof:id":991039711,
+    "wof:lastmodified":1472522166,
+    "wof:name":"Asociacion Para La Promocion E Insercion",
+    "wof:parent_id":85799453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mercado",
+        "de",
+        "estudios"
+    ]
+},
+  "bbox": [
+    2.1948709488,
+    41.5623245239,
+    2.1948709488,
+    41.5623245239
+],
+  "geometry": {"coordinates":[2.1948709488,41.5623245239],"type":"Point"}
+}

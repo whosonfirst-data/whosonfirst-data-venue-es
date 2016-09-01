@@ -1,0 +1,76 @@
+{
+  "id": 1008386591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-8.229552269,43.4834976196,-8.229552269,43.4834976196",
+    "geom:latitude":43.483498,
+    "geom:longitude":-8.229552,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Praz Angustias, 3",
+    "sg:city":"Ferrol",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 981 35 11 12",
+    "sg:postcode":"15403",
+    "sg:province":"La Coru\u00f1a",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101748407,
+        85799423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Hlc9kagDhyBsxYD7nXz3E_43.483498_-8.229552@1306269647"
+    },
+    "wof:country":"ES",
+    "wof:created":1472625120,
+    "wof:geomhash":"b747adcdc40b6811c4edf2953a040312",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748407,
+            "neighbourhood_id":85799423,
+            "region_id":-1,
+            "venue_id":1008386591
+        }
+    ],
+    "wof:id":1008386591,
+    "wof:lastmodified":1472625120,
+    "wof:name":"Rodriguez Perez Rosa Maria",
+    "wof:parent_id":85799423,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -8.229552269,
+    43.4834976196,
+    -8.229552269,
+    43.4834976196
+],
+  "geometry": {"coordinates":[-8.229552269,43.4834976196],"type":"Point"}
+}

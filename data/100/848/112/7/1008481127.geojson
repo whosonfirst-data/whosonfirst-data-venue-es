@@ -1,0 +1,67 @@
+{
+  "id": 1008481127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6950349808,40.413860321,-3.6950349808,40.413860321",
+    "geom:latitude":40.41386,
+    "geom:longitude":-3.695035,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Lope De Vega, 47",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 29 47 48",
+    "sg:postcode":"28014",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863685,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Bc7NC1Um5yDwPs8EaYmzJ_40.413860_-3.695035@1306269659"
+    },
+    "wof:country":"ES",
+    "wof:created":1472629171,
+    "wof:geomhash":"27e6cd0f154d4dc7d75e408f03e6458b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863685,
+            "region_id":85682783,
+            "venue_id":1008481127
+        }
+    ],
+    "wof:id":1008481127,
+    "wof:lastmodified":1472629171,
+    "wof:name":"Sanz Serrano Gordiano",
+    "wof:parent_id":85863685,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6950349808,
+    40.413860321,
+    -3.6950349808,
+    40.413860321
+],
+  "geometry": {"coordinates":[-3.6950349808,40.413860321],"type":"Point"}
+}

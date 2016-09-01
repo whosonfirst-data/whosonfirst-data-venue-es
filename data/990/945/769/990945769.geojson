@@ -1,0 +1,73 @@
+{
+  "id": 990945769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6523354053,40.5463829041,-3.6523354053,40.5463829041",
+    "geom:latitude":40.546383,
+    "geom:longitude":-3.652335,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Marques De La Valdavia (del), 101",
+    "sg:city":"Alcobendas",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 61 95 30",
+    "sg:postcode":"28100",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1y3f3MJfiNZFkOmC6iCf1W_40.546383_-3.652335@1306269420"
+    },
+    "wof:country":"ES",
+    "wof:created":1472513413,
+    "wof:geomhash":"684ddabf4d49e7b4c855db5fbede5561",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":990945769
+        }
+    ],
+    "wof:id":990945769,
+    "wof:lastmodified":1472513413,
+    "wof:name":"Alonso Martin Margarita",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [
+    -3.6523354053,
+    40.5463829041,
+    -3.6523354053,
+    40.5463829041
+],
+  "geometry": {"coordinates":[-3.6523354053,40.5463829041],"type":"Point"}
+}

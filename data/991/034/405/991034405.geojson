@@ -1,0 +1,79 @@
+{
+  "id": 991034405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9995522499,37.3941879272,-5.9995522499,37.3941879272",
+    "geom:latitude":37.394188,
+    "geom:longitude":-5.999552,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Vicente, 22",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 90 55 85",
+    "sg:postcode":"41002",
+    "sg:province":"Sevilla",
+    "sg:tags":[
+        "organismos",
+        "control"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864155,
+        102191581,
+        404342947,
+        85633129,
+        404227361,
+        101748225,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kE4PhOfU4NlD7sGxdTQKe_37.394188_-5.999552@1306269432"
+    },
+    "wof:country":"ES",
+    "wof:created":1472521770,
+    "wof:geomhash":"8151a8f717e561cf84ef7641bbb5f3bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864155,
+            "region_id":85682841,
+            "venue_id":991034405
+        }
+    ],
+    "wof:id":991034405,
+    "wof:lastmodified":1472521770,
+    "wof:name":"Asociacion De Organismos De Control De Andalucia",
+    "wof:parent_id":85864155,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organismos",
+        "control"
+    ]
+},
+  "bbox": [
+    -5.9995522499,
+    37.3941879272,
+    -5.9995522499,
+    37.3941879272
+],
+  "geometry": {"coordinates":[-5.9995522499,37.3941879272],"type":"Point"}
+}

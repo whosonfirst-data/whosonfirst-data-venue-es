@@ -1,0 +1,59 @@
+{
+  "id": 1008050573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1466588974,41.4927330017,2.1466588974,41.4927330017",
+    "geom:latitude":41.492733,
+    "geom:longitude":2.146659,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Catalunya, 18",
+    "sg:city":"Cerdanyola Valles",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mercer\u00cda, Lencer\u00cda (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 936 92 04 38",
+    "sg:postcode":"08290",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799639,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1emNT3mRVMiIupn8HQno1g_41.492733_2.146659@1306269601"
+    },
+    "wof:country":"ES",
+    "wof:created":1472597361,
+    "wof:geomhash":"6ac6c74812d33326dab095be93a8de51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799639,
+            "region_id":85682663,
+            "venue_id":1008050573
+        }
+    ],
+    "wof:id":1008050573,
+    "wof:lastmodified":1472597361,
+    "wof:name":"Morral Macia Montserrat",
+    "wof:parent_id":85799639,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1466588974,
+    41.4927330017,
+    2.1466588974,
+    41.4927330017
+],
+  "geometry": {"coordinates":[2.1466588974,41.4927330017],"type":"Point"}
+}

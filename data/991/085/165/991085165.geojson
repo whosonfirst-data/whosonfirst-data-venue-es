@@ -1,0 +1,59 @@
+{
+  "id": 991085165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8305000067,41.6667060852,-0.8305000067,41.6667060852",
+    "geom:latitude":41.666706,
+    "geom:longitude":-0.8305,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Santa Isabel, 100",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asociaciones, Organismos Culturales Y Socioeducativos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 57 18 44",
+    "sg:postcode":"50016",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863327,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YpWaOPMyKnNZmX3w2kXCC_41.666706_-0.830500@1306269439"
+    },
+    "wof:country":"ES",
+    "wof:created":1472525637,
+    "wof:geomhash":"ddb9c02182d40a82125b31e1b055b57c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863327,
+            "region_id":85682891,
+            "venue_id":991085165
+        }
+    ],
+    "wof:id":991085165,
+    "wof:lastmodified":1472525637,
+    "wof:name":"Ayuntamiento De Zaragoza",
+    "wof:parent_id":85863327,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8305000067,
+    41.6667060852,
+    -0.8305000067,
+    41.6667060852
+],
+  "geometry": {"coordinates":[-0.8305000067,41.6667060852],"type":"Point"}
+}

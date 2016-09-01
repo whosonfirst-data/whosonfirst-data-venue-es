@@ -1,0 +1,81 @@
+{
+  "id": 991620263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3719828129,39.4753570557,-0.3719828129,39.4753570557",
+    "geom:latitude":39.475357,
+    "geom:longitude":-0.371983,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Aparisi Y Guijarro, 8",
+    "sg:city":"Valencia",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 91 87 97",
+    "sg:postcode":"46003",
+    "sg:province":"Valencia",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864217,
+        102191581,
+        404345361,
+        85633129,
+        404227381,
+        101748241,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5U7MZxcqzav0Kod1Lbg2hD_39.475357_-0.371983@1306269510"
+    },
+    "wof:country":"ES",
+    "wof:created":1472561292,
+    "wof:geomhash":"8b8bc99d40f7dd6da2880599aeb4d43f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345361,
+            "locality_id":101748241,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864217,
+            "region_id":85682867,
+            "venue_id":991620263
+        }
+    ],
+    "wof:id":991620263,
+    "wof:lastmodified":1472561292,
+    "wof:name":"Fandos Y Leonarte S. L.",
+    "wof:parent_id":85864217,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    -0.3719828129,
+    39.4753570557,
+    -0.3719828129,
+    39.4753570557
+],
+  "geometry": {"coordinates":[-0.3719828129,39.4753570557],"type":"Point"}
+}

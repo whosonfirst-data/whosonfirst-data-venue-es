@@ -1,0 +1,65 @@
+{
+  "id": 1007987207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6371490955,40.5388031006,-3.6371490955,40.5388031006",
+    "geom:latitude":40.538803,
+    "geom:longitude":-3.637149,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Sevilla (de), 14",
+    "sg:city":"Alcobendas",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 62 13 30",
+    "sg:postcode":"28100",
+    "sg:province":"Madrid",
+    "sg:website":"www.autoescuelamerinero.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MGAo0dazVsfmZfioj1IW4_40.538803_-3.637149@1306269593"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594619,
+    "wof:geomhash":"284090edc0cfba71bffe77d5ee555315",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1007987207
+        }
+    ],
+    "wof:id":1007987207,
+    "wof:lastmodified":1472594619,
+    "wof:name":"Merinero S.a.",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6371490955,
+    40.5388031006,
+    -3.6371490955,
+    40.5388031006
+],
+  "geometry": {"coordinates":[-3.6371490955,40.5388031006],"type":"Point"}
+}

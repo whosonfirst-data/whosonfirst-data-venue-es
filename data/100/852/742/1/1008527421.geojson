@@ -1,0 +1,59 @@
+{
+  "id": 1008527421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4848279953,38.3508377075,-0.4848279953,38.3508377075",
+    "geom:latitude":38.350838,
+    "geom:longitude":-0.484828,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Vicente, 55",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sindicatos De Trabajadores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 14 45 22",
+    "sg:postcode":"03004",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864065,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Wc2hPGgYRLVlY0jGu1fmP_38.350838_-0.484828@1306269666"
+    },
+    "wof:country":"ES",
+    "wof:created":1472631159,
+    "wof:geomhash":"ffc87d9c5a9ba81f01357e4d839ef29c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864065,
+            "region_id":85682625,
+            "venue_id":1008527421
+        }
+    ],
+    "wof:id":1008527421,
+    "wof:lastmodified":1472631159,
+    "wof:name":"Sindicato Independiente De La Comunidad Valenciana",
+    "wof:parent_id":85864065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4848279953,
+    38.3508377075,
+    -0.4848279953,
+    38.3508377075
+],
+  "geometry": {"coordinates":[-0.4848279953,38.3508377075],"type":"Point"}
+}

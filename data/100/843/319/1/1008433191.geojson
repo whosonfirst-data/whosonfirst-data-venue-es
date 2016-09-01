@@ -1,0 +1,67 @@
+{
+  "id": 1008433191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1690540314,41.3917274475,2.1690540314,41.3917274475",
+    "geom:latitude":41.391727,
+    "geom:longitude":2.169054,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Diputacio, 274",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 18 86 80",
+    "sg:postcode":"08009",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864017,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3swtxtXBZV5yr0l8PMU5br_41.391727_2.169054@1306269653"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627315,
+    "wof:geomhash":"0698c389ed70ed830cc75c840e0d2b77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864017,
+            "region_id":85682663,
+            "venue_id":1008433191
+        }
+    ],
+    "wof:id":1008433191,
+    "wof:lastmodified":1472627315,
+    "wof:name":"Sagrera Ribas Marc",
+    "wof:parent_id":85864017,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1690540314,
+    41.3917274475,
+    2.1690540314,
+    41.3917274475
+],
+  "geometry": {"coordinates":[2.1690540314,41.3917274475],"type":"Point"}
+}

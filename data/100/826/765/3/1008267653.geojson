@@ -1,0 +1,72 @@
+{
+  "id": 1008267653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6644535065,40.4338493347,-3.6644535065,40.4338493347",
+    "geom:latitude":40.433849,
+    "geom:longitude":-3.664454,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Colomer, 3",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 61 39 24",
+    "sg:postcode":"28028",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863643,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6F3T2GzSyilktDwFIWqJaI_40.433849_-3.664454@1306269631"
+    },
+    "wof:country":"ES",
+    "wof:created":1472616951,
+    "wof:geomhash":"b8dda33b84bb549b40e7f91a97694f7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863643,
+            "region_id":85682783,
+            "venue_id":1008267653
+        }
+    ],
+    "wof:id":1008267653,
+    "wof:lastmodified":1472616951,
+    "wof:name":"Prado Gamarra Gabriel Atanasio",
+    "wof:parent_id":85863643,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6644535065,
+    40.4338493347,
+    -3.6644535065,
+    40.4338493347
+],
+  "geometry": {"coordinates":[-3.6644535065,40.4338493347],"type":"Point"}
+}

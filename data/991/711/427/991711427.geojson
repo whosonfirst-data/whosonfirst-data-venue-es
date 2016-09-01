@@ -1,0 +1,79 @@
+{
+  "id": 991711427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.7072591782,43.5364456177,-5.7072591782,43.5364456177",
+    "geom:latitude":43.536446,
+    "geom:longitude":-5.707259,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Solar, S/n",
+    "sg:city":"Gijon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 985 32 13 10",
+    "sg:postcode":"33213",
+    "sg:province":"Asturias",
+    "sg:tags":[
+        "en",
+        "fundiciones"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799415,
+        102191581,
+        404340333,
+        85633129,
+        404227365,
+        101748401,
+        85682805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61SAB89wImvhA1GLGFqP3U_43.536446_-5.707259@1306269522"
+    },
+    "wof:country":"ES",
+    "wof:created":1472566017,
+    "wof:geomhash":"7464567cdb4f6e2afa72fcd499e94ce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404340333,
+            "locality_id":101748401,
+            "macroregion_id":404227365,
+            "neighbourhood_id":85799415,
+            "region_id":85682805,
+            "venue_id":991711427
+        }
+    ],
+    "wof:id":991711427,
+    "wof:lastmodified":1472566017,
+    "wof:name":"Fundiciones Infiesta S. A.",
+    "wof:parent_id":85799415,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "en",
+        "fundiciones"
+    ]
+},
+  "bbox": [
+    -5.7072591782,
+    43.5364456177,
+    -5.7072591782,
+    43.5364456177
+],
+  "geometry": {"coordinates":[-5.7072591782,43.5364456177],"type":"Point"}
+}

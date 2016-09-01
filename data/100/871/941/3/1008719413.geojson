@@ -1,0 +1,69 @@
+{
+  "id": 1008719413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6536169052,39.5714149475,2.6536169052,39.5714149475",
+    "geom:latitude":39.571415,
+    "geom:longitude":2.653617,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sindicat, 23",
+    "sg:city":"Palma",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 71 71 26",
+    "sg:postcode":"07002",
+    "sg:province":"Islas Baleares",
+    "sg:tags":[
+        "boutique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864085,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sDJEfQGEa3PQy2WC0CFu8_39.571415_2.653617@1306269691"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639410,
+    "wof:geomhash":"f8403eba4d4c86cf5052440ae2bede60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864085,
+            "region_id":85682647,
+            "venue_id":1008719413
+        }
+    ],
+    "wof:id":1008719413,
+    "wof:lastmodified":1472639410,
+    "wof:name":"Vicens Hidalgo Antonia",
+    "wof:parent_id":85864085,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boutique"
+    ]
+},
+  "bbox": [
+    2.6536169052,
+    39.5714149475,
+    2.6536169052,
+    39.5714149475
+],
+  "geometry": {"coordinates":[2.6536169052,39.5714149475],"type":"Point"}
+}

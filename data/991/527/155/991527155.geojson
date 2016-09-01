@@ -1,0 +1,81 @@
+{
+  "id": 991527155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9386799335,43.2564659119,-2.9386799335,43.2564659119",
+    "geom:latitude":43.256466,
+    "geom:longitude":-2.93868,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Labayru, 15",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 22 23 64",
+    "sg:postcode":"48012",
+    "sg:province":"Vizcaya",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863957,
+        102191581,
+        404345949,
+        85633129,
+        404227393,
+        101748385,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sXmEjXPn4Pn12ELYL03ij_43.256466_-2.938680@1306269497"
+    },
+    "wof:country":"ES",
+    "wof:created":1472555828,
+    "wof:geomhash":"7c5e5834263d4ab741b4aaf81dc5bcbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345949,
+            "locality_id":101748385,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863957,
+            "region_id":85682879,
+            "venue_id":991527155
+        }
+    ],
+    "wof:id":991527155,
+    "wof:lastmodified":1472555828,
+    "wof:name":"Do Santos Fraile Lucia Aparecida",
+    "wof:parent_id":85863957,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -2.9386799335,
+    43.2564659119,
+    -2.9386799335,
+    43.2564659119
+],
+  "geometry": {"coordinates":[-2.9386799335,43.2564659119],"type":"Point"}
+}

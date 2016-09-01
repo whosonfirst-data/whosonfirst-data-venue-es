@@ -1,0 +1,83 @@
+{
+  "id": 991358629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4965929985,38.3399543762,-0.4965929985,38.3399543762",
+    "geom:latitude":38.339954,
+    "geom:longitude":-0.496593,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Garcia Andreu, 44",
+    "sg:city":"Alacant",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 92 81 51",
+    "sg:postcode":"03007",
+    "sg:province":"Alicante",
+    "sg:tags":[
+        "bodega",
+        "de",
+        "vino",
+        "acondicionamiento"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799185,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gvG9vHvqtvLtOG5G1lfub_38.339954_-0.496593@1306269475"
+    },
+    "wof:country":"ES",
+    "wof:created":1472545709,
+    "wof:geomhash":"d313916a96761ae190c902986625745b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85799185,
+            "region_id":85682625,
+            "venue_id":991358629
+        }
+    ],
+    "wof:id":991358629,
+    "wof:lastmodified":1472545709,
+    "wof:name":"Codorniu S.a.",
+    "wof:parent_id":85799185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bodega",
+        "de",
+        "vino",
+        "acondicionamiento"
+    ]
+},
+  "bbox": [
+    -0.4965929985,
+    38.3399543762,
+    -0.4965929985,
+    38.3399543762
+],
+  "geometry": {"coordinates":[-0.4965929985,38.3399543762],"type":"Point"}
+}

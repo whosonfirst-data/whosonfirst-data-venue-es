@@ -1,0 +1,81 @@
+{
+  "id": 1008389393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6403679848,40.3893699646,-3.6403679848,40.3893699646",
+    "geom:latitude":40.38937,
+    "geom:longitude":-3.640368,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Claudio, 146",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 77 17 68",
+    "sg:postcode":"28038",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799645,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xf6zNB6cPnIimm3E8m8p5_40.389370_-3.640368@1306269647"
+    },
+    "wof:country":"ES",
+    "wof:created":1472625292,
+    "wof:geomhash":"6fdc62082ecfc78cd63a92ea90716717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799645,
+            "region_id":85682783,
+            "venue_id":1008389393
+        }
+    ],
+    "wof:id":1008389393,
+    "wof:lastmodified":1472625292,
+    "wof:name":"Rodriguez Salas Manuel",
+    "wof:parent_id":85799645,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.6403679848,
+    40.3893699646,
+    -3.6403679848,
+    40.3893699646
+],
+  "geometry": {"coordinates":[-3.6403679848,40.3893699646],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1007965513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8616290092,41.6464233398,-0.8616290092,41.6464233398",
+    "geom:latitude":41.646423,
+    "geom:longitude":-0.861629,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Salvador Minguijon, 20",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 41 47 88",
+    "sg:postcode":"50002",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863353,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eDHiY4amtnR6JvbkV63nq_41.646423_-0.861629@1306269590"
+    },
+    "wof:country":"ES",
+    "wof:created":1472593774,
+    "wof:geomhash":"a748b84d55f17963add368340291571d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863353,
+            "region_id":85682891,
+            "venue_id":1007965513
+        }
+    ],
+    "wof:id":1007965513,
+    "wof:lastmodified":1472593774,
+    "wof:name":"Ma\u00f1ez Lafuente Nicasio",
+    "wof:parent_id":85863353,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -0.8616290092,
+    41.6464233398,
+    -0.8616290092,
+    41.6464233398
+],
+  "geometry": {"coordinates":[-0.8616290092,41.6464233398],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 1008166843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6259000301,40.3784637451,-3.6259000301,40.3784637451",
+    "geom:latitude":40.378464,
+    "geom:longitude":-3.6259,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Puerto De Las Pilas, 15",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 80 55 30",
+    "sg:postcode":"28031",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863723,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2l4RUmjrjwXKOjigjRXDza_40.378464_-3.625900@1306269617"
+    },
+    "wof:country":"ES",
+    "wof:created":1472603491,
+    "wof:geomhash":"03386413a92d85d0849621b65fcc6572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863723,
+            "region_id":85682783,
+            "venue_id":1008166843
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863725,
+            "region_id":85682783,
+            "venue_id":1008166843
+        }
+    ],
+    "wof:id":1008166843,
+    "wof:lastmodified":1472603491,
+    "wof:name":"Pardo Pantoja S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [
+    -3.6259000301,
+    40.3784637451,
+    -3.6259000301,
+    40.3784637451
+],
+  "geometry": {"coordinates":[-3.6259000301,40.3784637451],"type":"Point"}
+}

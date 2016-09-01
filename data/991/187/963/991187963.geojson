@@ -1,0 +1,78 @@
+{
+  "id": 991187963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1228570938,41.3979377747,2.1228570938,41.3979377747",
+    "geom:latitude":41.397938,
+    "geom:longitude":2.122857,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Pedro De La Creu, 15",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Caf\u00c9s, Bares, Cervecer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 80 29 73",
+    "sg:postcode":"08017",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799605,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85799611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45qce3IvJpQqzbd3uIChIK_41.397938_2.122857@1306269452"
+    },
+    "wof:country":"ES",
+    "wof:created":1472535547,
+    "wof:geomhash":"d61d065446eaa51b41f37aa318f5b76a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799605,
+            "region_id":85682663,
+            "venue_id":991187963
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799611,
+            "region_id":85682663,
+            "venue_id":991187963
+        }
+    ],
+    "wof:id":991187963,
+    "wof:lastmodified":1472535547,
+    "wof:name":"Busquets Rosich Elena",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1228570938,
+    41.3979377747,
+    2.1228570938,
+    41.3979377747
+],
+  "geometry": {"coordinates":[2.1228570938,41.3979377747],"type":"Point"}
+}

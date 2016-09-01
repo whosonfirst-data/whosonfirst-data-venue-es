@@ -1,0 +1,72 @@
+{
+  "id": 1008368873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1567800045,41.4263305664,2.1567800045,41.4263305664",
+    "geom:latitude":41.426331,
+    "geom:longitude":2.15678,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Granollers, 116",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 20 08 68",
+    "sg:postcode":"08032",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799399,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jWkzU2vAsh5loQHyqtZQw_41.426331_2.156780@1306269644"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624316,
+    "wof:geomhash":"39a5241fbaac16e1ea10df362eac920d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799399,
+            "region_id":85682663,
+            "venue_id":1008368873
+        }
+    ],
+    "wof:id":1008368873,
+    "wof:lastmodified":1472624316,
+    "wof:name":"Rocafort Monge Jaime",
+    "wof:parent_id":85799399,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1567800045,
+    41.4263305664,
+    2.1567800045,
+    41.4263305664
+],
+  "geometry": {"coordinates":[2.1567800045,41.4263305664],"type":"Point"}
+}

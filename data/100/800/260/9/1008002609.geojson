@@ -1,0 +1,64 @@
+{
+  "id": 1008002609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.8245509863,41.7271156311,1.8245509863,41.7271156311",
+    "geom:latitude":41.727116,
+    "geom:longitude":1.824551,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Angel Guimera, 33",
+    "sg:city":"Manresa",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 938 72 22 99",
+    "sg:postcode":"08241",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PI2amKTJPOnvnHQgkFvyU_41.727116_1.824551@1306269595"
+    },
+    "wof:country":"ES",
+    "wof:created":1472595290,
+    "wof:geomhash":"f0b6e5d1e1645e63b8a2ab17b1f96dd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008002609
+        }
+    ],
+    "wof:id":1008002609,
+    "wof:lastmodified":1472595290,
+    "wof:name":"Minorisa S.c.p.",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.8245509863,
+    41.7271156311,
+    1.8245509863,
+    41.7271156311
+],
+  "geometry": {"coordinates":[1.8245509863,41.7271156311],"type":"Point"}
+}

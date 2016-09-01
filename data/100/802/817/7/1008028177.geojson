@@ -1,0 +1,81 @@
+{
+  "id": 1008028177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.0001711845,37.3785896301,-6.0001711845,37.3785896301",
+    "geom:latitude":37.37859,
+    "geom:longitude":-6.000171,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Republica Argentina, 17",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 99 15 46",
+    "sg:postcode":"41011",
+    "sg:province":"Sevilla",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864129,
+        102191581,
+        404342947,
+        85633129,
+        404227361,
+        101748225,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4biJ9glqPKfzZdBffqhs7C_37.378590_-6.000171@1306269598"
+    },
+    "wof:country":"ES",
+    "wof:created":1472596411,
+    "wof:geomhash":"8f956db42fa97586602fa325020ab6c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864129,
+            "region_id":85682841,
+            "venue_id":1008028177
+        }
+    ],
+    "wof:id":1008028177,
+    "wof:lastmodified":1472596411,
+    "wof:name":"Montecarlo Andalucia S.l.",
+    "wof:parent_id":85864129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [
+    -6.0001711845,
+    37.3785896301,
+    -6.0001711845,
+    37.3785896301
+],
+  "geometry": {"coordinates":[-6.0001711845,37.3785896301],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1007697043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6586298943,39.5884895325,2.6586298943,39.5884895325",
+    "geom:latitude":39.58849,
+    "geom:longitude":2.65863,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Pablo Iglesias, S/n",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ense\u00d1anza Secundaria: Colegios Y Escuelas Privadas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 20 96 20",
+    "sg:postcode":"07004",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864091,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qUrJh3Gz8H5Pxhg2V5O49_39.588490_2.658630@1306269556"
+    },
+    "wof:country":"ES",
+    "wof:created":1472580818,
+    "wof:geomhash":"147f77001fc560e1d8af276cb8972b8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":1007697043
+        }
+    ],
+    "wof:id":1007697043,
+    "wof:lastmodified":1472580818,
+    "wof:name":"Institut D'ensenyament Secundari Joan Maria Thomas",
+    "wof:parent_id":85864091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6586298943,
+    39.5884895325,
+    2.6586298943,
+    39.5884895325
+],
+  "geometry": {"coordinates":[2.6586298943,39.5884895325],"type":"Point"}
+}

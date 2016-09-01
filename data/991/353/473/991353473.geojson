@@ -1,0 +1,68 @@
+{
+  "id": 991353473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7065720558,40.4151039124,-3.7065720558,40.4151039124",
+    "geom:latitude":40.415104,
+    "geom:longitude":-3.706572,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Mayor, 1",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 64 11 46",
+    "sg:postcode":"28012",
+    "sg:province":"Madrid",
+    "sg:website":"www.clubmarcopolo.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863747,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HQNgkKsHi9HDvt1BZbpv8_40.415104_-3.706572@1306269474"
+    },
+    "wof:country":"ES",
+    "wof:created":1472545375,
+    "wof:geomhash":"0068d9c347b303a377706a5ff9a82c41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863747,
+            "region_id":85682783,
+            "venue_id":991353473
+        }
+    ],
+    "wof:id":991353473,
+    "wof:lastmodified":1472545375,
+    "wof:name":"Club Marco Polo",
+    "wof:parent_id":85863747,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7065720558,
+    40.4151039124,
+    -3.7065720558,
+    40.4151039124
+],
+  "geometry": {"coordinates":[-3.7065720558,40.4151039124],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 991340247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.712594986,40.4251708984,-3.712594986,40.4251708984",
+    "geom:latitude":40.425171,
+    "geom:longitude":-3.712595,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Princesa, 3",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 59 97 74",
+    "sg:postcode":"28008",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "salas",
+        "de",
+        "cine"
+    ],
+    "sg:website":"www.cinesrenoir.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863669,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Z4jNk2p1PF1R2bR5ULQxQ_40.425171_-3.712595@1306269472"
+    },
+    "wof:country":"ES",
+    "wof:created":1472544552,
+    "wof:geomhash":"1e8e1132e74e572a4cfcba60f5aa7197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863669,
+            "region_id":85682783,
+            "venue_id":991340247
+        }
+    ],
+    "wof:id":991340247,
+    "wof:lastmodified":1472544552,
+    "wof:name":"Cines Princesa S.a.",
+    "wof:parent_id":85863669,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salas",
+        "de",
+        "cine"
+    ]
+},
+  "bbox": [
+    -3.712594986,
+    40.4251708984,
+    -3.712594986,
+    40.4251708984
+],
+  "geometry": {"coordinates":[-3.712594986,40.4251708984],"type":"Point"}
+}

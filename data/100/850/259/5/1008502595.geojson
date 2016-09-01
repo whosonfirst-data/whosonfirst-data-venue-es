@@ -1,0 +1,67 @@
+{
+  "id": 1008502595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1199042797,41.3984413147,2.1199042797,41.3984413147",
+    "geom:latitude":41.398441,
+    "geom:longitude":2.119904,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Duquessa D'orleans, 25",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 80 52 63",
+    "sg:postcode":"08034",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799605,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KGRjhRv9ixQhtLuMfRO1E_41.398441_2.119904@1306269662"
+    },
+    "wof:country":"ES",
+    "wof:created":1472630134,
+    "wof:geomhash":"c85c6f4a9b85de75b2cc10f36940a88c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799605,
+            "region_id":85682663,
+            "venue_id":1008502595
+        }
+    ],
+    "wof:id":1008502595,
+    "wof:lastmodified":1472630134,
+    "wof:name":"Serra Andreu Juan Francisco",
+    "wof:parent_id":85799605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1199042797,
+    41.3984413147,
+    2.1199042797,
+    41.3984413147
+],
+  "geometry": {"coordinates":[2.1199042797,41.3984413147],"type":"Point"}
+}

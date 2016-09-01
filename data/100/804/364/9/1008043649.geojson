@@ -1,0 +1,77 @@
+{
+  "id": 1008043649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9958372116,37.3873901367,-5.9958372116,37.3873901367",
+    "geom:latitude":37.38739,
+    "geom:longitude":-5.995837,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Gamazo, 7",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[
+        {
+            "category":"Tea Room",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 22 83 15",
+    "sg:postcode":"41001",
+    "sg:province":"Sevilla",
+    "sg:tags":[
+        "snack"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864165,
+        102191581,
+        404342947,
+        85633129,
+        404227361,
+        101748225,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SNX8TRZaynPCooyKt5Vt6_37.387390_-5.995837@1306269600"
+    },
+    "wof:country":"ES",
+    "wof:created":1472597051,
+    "wof:geomhash":"aa20fd599ad01eae8381a81ded2d37a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864165,
+            "region_id":85682841,
+            "venue_id":1008043649
+        }
+    ],
+    "wof:id":1008043649,
+    "wof:lastmodified":1472597051,
+    "wof:name":"Moreno Franco Francisco Javier",
+    "wof:parent_id":85864165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snack"
+    ]
+},
+  "bbox": [
+    -5.9958372116,
+    37.3873901367,
+    -5.9958372116,
+    37.3873901367
+],
+  "geometry": {"coordinates":[-5.9958372116,37.3873901367],"type":"Point"}
+}

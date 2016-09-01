@@ -1,0 +1,93 @@
+{
+  "id": 991386611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6916258335,40.4324378967,-3.6916258335,40.4324378967",
+    "geom:latitude":40.432438,
+    "geom:longitude":-3.691626,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Almagro, 31",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 57 68 00",
+    "sg:postcode":"28...",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ],
+    "sg:website":"www.cea-online.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863671,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jriawq872uK9WnpoEWLzk_40.432438_-3.691626@1306269479"
+    },
+    "wof:country":"ES",
+    "wof:created":1472547847,
+    "wof:geomhash":"97df79209eec2c9acbe021a7b2f4d3c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863671,
+            "region_id":85682783,
+            "venue_id":991386611
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863673,
+            "region_id":85682783,
+            "venue_id":991386611
+        }
+    ],
+    "wof:id":991386611,
+    "wof:lastmodified":1472547847,
+    "wof:name":"Comisariado Europeo Del Automovil",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ]
+},
+  "bbox": [
+    -3.6916258335,
+    40.4324378967,
+    -3.6916258335,
+    40.4324378967
+],
+  "geometry": {"coordinates":[-3.6916258335,40.4324378967],"type":"Point"}
+}

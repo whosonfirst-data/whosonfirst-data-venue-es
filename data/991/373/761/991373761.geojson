@@ -1,0 +1,73 @@
+{
+  "id": 991373761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1332550049,41.6099052429,2.1332550049,41.6099052429",
+    "geom:latitude":41.609905,
+    "geom:longitude":2.133255,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Joanot Martorell, S/n",
+    "sg:city":"Sentmenat",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 15 03 03",
+    "sg:postcode":"08181",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799453,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HrOJEkKGxIXFmopeexCeH_41.609905_2.133255@1306269477"
+    },
+    "wof:country":"ES",
+    "wof:created":1472546916,
+    "wof:geomhash":"5be7177e7fa89afd159276f4d4fe17ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799453,
+            "region_id":85682663,
+            "venue_id":991373761
+        }
+    ],
+    "wof:id":991373761,
+    "wof:lastmodified":1472546916,
+    "wof:name":"Coll Rosell Lluis",
+    "wof:parent_id":85799453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.1332550049,
+    41.6099052429,
+    2.1332550049,
+    41.6099052429
+],
+  "geometry": {"coordinates":[2.1332550049,41.6099052429],"type":"Point"}
+}

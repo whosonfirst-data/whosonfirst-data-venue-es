@@ -1,0 +1,59 @@
+{
+  "id": 1008522145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7331800461,40.3018188477,-3.7331800461,40.3018188477",
+    "geom:latitude":40.301819,
+    "geom:longitude":-3.73318,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Toledo, 39",
+    "sg:city":"Getafe",
+    "sg:classifiers":[],
+    "sg:orig_category":"Frutas, Legumbres Frescas Y Tempranas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 82 91 48",
+    "sg:postcode":"28901",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hMtrRcG0Sn1m5qurS26um_40.301819_-3.733180@1306269665"
+    },
+    "wof:country":"ES",
+    "wof:created":1472630941,
+    "wof:geomhash":"f7fa896003e13ee7d12a2d2f6c14671c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1008522145
+        }
+    ],
+    "wof:id":1008522145,
+    "wof:lastmodified":1472630941,
+    "wof:name":"Sierra Martinez Luis Miguel",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7331800461,
+    40.3018188477,
+    -3.7331800461,
+    40.3018188477
+],
+  "geometry": {"coordinates":[-3.7331800461,40.3018188477],"type":"Point"}
+}

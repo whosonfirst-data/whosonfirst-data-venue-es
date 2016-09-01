@@ -1,0 +1,67 @@
+{
+  "id": 1008227563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.6649799347,43.5351638794,-5.6649799347,43.5351638794",
+    "geom:latitude":43.535164,
+    "geom:longitude":-5.66498,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Schulz, 28",
+    "sg:city":"Gijon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicio De Salud",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 985 15 44 44",
+    "sg:postcode":"33208",
+    "sg:province":"Asturias",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799415,
+        102191581,
+        404340333,
+        85633129,
+        404227365,
+        101748401,
+        85682805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GgyLUZw7uNKAnnXoGWBxd_43.535164_-5.664980@1306269625"
+    },
+    "wof:country":"ES",
+    "wof:created":1472613895,
+    "wof:geomhash":"2813ce8e69ef6727b11110eaca1d93f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404340333,
+            "locality_id":101748401,
+            "macroregion_id":404227365,
+            "neighbourhood_id":85799415,
+            "region_id":85682805,
+            "venue_id":1008227563
+        }
+    ],
+    "wof:id":1008227563,
+    "wof:lastmodified":1472613895,
+    "wof:name":"Perovi S.l.",
+    "wof:parent_id":85799415,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.6649799347,
+    43.5351638794,
+    -5.6649799347,
+    43.5351638794
+],
+  "geometry": {"coordinates":[-5.6649799347,43.5351638794],"type":"Point"}
+}

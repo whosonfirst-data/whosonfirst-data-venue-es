@@ -1,0 +1,78 @@
+{
+  "id": 991642003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.4551858902,36.6971588135,-4.4551858902,36.6971588135",
+    "geom:latitude":36.697159,
+    "geom:longitude":-4.455186,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Luz, 33",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Estancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 17 03 05",
+    "sg:postcode":"29004",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863539,
+        102191581,
+        404339241,
+        85633129,
+        404227361,
+        101748185,
+        85682787,
+        85863533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Fr5rZB70MMZ6qlNLktJLe_36.697159_-4.455186@1306269513"
+    },
+    "wof:country":"ES",
+    "wof:created":1472562571,
+    "wof:geomhash":"423658e49d5f1b4230fb0df891094805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863539,
+            "region_id":85682787,
+            "venue_id":991642003
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863533,
+            "region_id":85682787,
+            "venue_id":991642003
+        }
+    ],
+    "wof:id":991642003,
+    "wof:lastmodified":1472562571,
+    "wof:name":"Fernandez Guirado Rafael",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4551858902,
+    36.6971588135,
+    -4.4551858902,
+    36.6971588135
+],
+  "geometry": {"coordinates":[-4.4551858902,36.6971588135],"type":"Point"}
+}

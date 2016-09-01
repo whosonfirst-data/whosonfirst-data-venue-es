@@ -1,0 +1,67 @@
+{
+  "id": 1008346579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1434950829,41.3959655762,2.1434950829,41.3959655762",
+    "geom:latitude":41.395966,
+    "geom:longitude":2.143495,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Amigo, 53",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Restaurantes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 01 18 30",
+    "sg:postcode":"08021",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799611,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Nn5I1sIKafdtjk0Sh0rJz_41.395966_2.143495@1306269641"
+    },
+    "wof:country":"ES",
+    "wof:created":1472623352,
+    "wof:geomhash":"6a90700c57f9ce671949fbae90d859a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799611,
+            "region_id":85682663,
+            "venue_id":1008346579
+        }
+    ],
+    "wof:id":1008346579,
+    "wof:lastmodified":1472623352,
+    "wof:name":"Restaurante Ca La Mariona S.a.",
+    "wof:parent_id":85799611,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1434950829,
+    41.3959655762,
+    2.1434950829,
+    41.3959655762
+],
+  "geometry": {"coordinates":[2.1434950829,41.3959655762],"type":"Point"}
+}

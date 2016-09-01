@@ -1,0 +1,81 @@
+{
+  "id": 1008257225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1697258949,41.3769264221,2.1697258949,41.3769264221",
+    "geom:latitude":41.376926,
+    "geom:longitude":2.169726,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sant Pau, 90",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 29 13 84",
+    "sg:postcode":"08001",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864035,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rgsP1lyRBzd9WugwvQWOs_41.376926_2.169726@1306269629"
+    },
+    "wof:country":"ES",
+    "wof:created":1472616409,
+    "wof:geomhash":"010f78bb697a61329b3d1ba045fcb731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864035,
+            "region_id":85682663,
+            "venue_id":1008257225
+        }
+    ],
+    "wof:id":1008257225,
+    "wof:lastmodified":1472616409,
+    "wof:name":"Polo Campos Raul",
+    "wof:parent_id":85864035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ]
+},
+  "bbox": [
+    2.1697258949,
+    41.3769264221,
+    2.1697258949,
+    41.3769264221
+],
+  "geometry": {"coordinates":[2.1697258949,41.3769264221],"type":"Point"}
+}

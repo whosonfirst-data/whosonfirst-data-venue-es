@@ -1,0 +1,67 @@
+{
+  "id": 1008466789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7002940178,40.4589653015,-3.7002940178,40.4589653015",
+    "geom:latitude":40.458965,
+    "geom:longitude":-3.700294,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Maria Zayas, 2",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicio De Salud",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 79 68 38",
+    "sg:postcode":"28039",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863797,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AxkkEHIJTBFcq06yPvk0y_40.458965_-3.700294@1306269657"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628578,
+    "wof:geomhash":"41449d1f286b7be7715099356ff62b3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863797,
+            "region_id":85682783,
+            "venue_id":1008466789
+        }
+    ],
+    "wof:id":1008466789,
+    "wof:lastmodified":1472628578,
+    "wof:name":"Saneamientos Villacasa S.l.",
+    "wof:parent_id":85863797,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7002940178,
+    40.4589653015,
+    -3.7002940178,
+    40.4589653015
+],
+  "geometry": {"coordinates":[-3.7002940178,40.4589653015],"type":"Point"}
+}

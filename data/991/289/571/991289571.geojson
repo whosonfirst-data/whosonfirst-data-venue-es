@@ -1,0 +1,81 @@
+{
+  "id": 991289571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.9171950221,41.6478691101,-0.9171950221,41.6478691101",
+    "geom:latitude":41.647869,
+    "geom:longitude":-0.917195,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Gervasio Artigas, 1",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 53 77 34",
+    "sg:postcode":"50017",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863433,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_567nqzkX8YLf5NQb94GD5r_41.647869_-0.917195@1306269466"
+    },
+    "wof:country":"ES",
+    "wof:created":1472542174,
+    "wof:geomhash":"7d5ca13a336004c8b6f29287664501c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863433,
+            "region_id":85682891,
+            "venue_id":991289571
+        }
+    ],
+    "wof:id":991289571,
+    "wof:lastmodified":1472542174,
+    "wof:name":"Casta\u00f1o Palomo Javier",
+    "wof:parent_id":85863433,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -0.9171950221,
+    41.6478691101,
+    -0.9171950221,
+    41.6478691101
+],
+  "geometry": {"coordinates":[-0.9171950221,41.6478691101],"type":"Point"}
+}

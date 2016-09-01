@@ -1,0 +1,64 @@
+{
+  "id": 991872845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.868242979,40.4718208313,-3.868242979,40.4718208313",
+    "geom:latitude":40.471821,
+    "geom:longitude":-3.868243,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Espa\u00d1a, 26",
+    "sg:city":"Majadahonda",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 38 34 18",
+    "sg:postcode":"28220",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863657,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77f7JrgnNQjFuuDP4HoyEJ_40.471821_-3.868243@1306269543"
+    },
+    "wof:country":"ES",
+    "wof:created":1472576061,
+    "wof:geomhash":"43f337435abe415c395581ca6f8c647b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863657,
+            "region_id":85682783,
+            "venue_id":991872845
+        }
+    ],
+    "wof:id":991872845,
+    "wof:lastmodified":1472576061,
+    "wof:name":"Gutierrez Martinez Felipe",
+    "wof:parent_id":85863657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.868242979,
+    40.4718208313,
+    -3.868242979,
+    40.4718208313
+],
+  "geometry": {"coordinates":[-3.868242979,40.4718208313],"type":"Point"}
+}

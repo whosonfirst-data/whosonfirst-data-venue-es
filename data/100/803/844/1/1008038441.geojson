@@ -1,0 +1,59 @@
+{
+  "id": 1008038441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6302919388,40.5433883667,-3.6302919388,40.5433883667",
+    "geom:latitude":40.543388,
+    "geom:longitude":-3.630292,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Pedro (de), 5",
+    "sg:city":"Alcobendas",
+    "sg:classifiers":[],
+    "sg:orig_category":"Caf\u00c9s, Bares, Cervecer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 53 40 37",
+    "sg:postcode":"28100",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48XcmPWu30W0mqa84rg24R_40.543388_-3.630292@1306269599"
+    },
+    "wof:country":"ES",
+    "wof:created":1472596819,
+    "wof:geomhash":"e6f421bafea606cb6a4bd1799794fdb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1008038441
+        }
+    ],
+    "wof:id":1008038441,
+    "wof:lastmodified":1472596819,
+    "wof:name":"Moral Iglesias Maria Isabel",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6302919388,
+    40.5433883667,
+    -3.6302919388,
+    40.5433883667
+],
+  "geometry": {"coordinates":[-3.6302919388,40.5433883667],"type":"Point"}
+}

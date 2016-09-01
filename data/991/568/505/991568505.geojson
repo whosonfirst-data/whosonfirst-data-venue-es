@@ -1,0 +1,82 @@
+{
+  "id": 991568505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8201489449,43.4599113464,-3.8201489449,43.4599113464",
+    "geom:latitude":43.459911,
+    "geom:longitude":-3.820149,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Vargas, 49",
+    "sg:city":"Santander",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 24 40 13",
+    "sg:postcode":"39010",
+    "sg:province":"Cantabria",
+    "sg:tags":[
+        "televisiones",
+        "y",
+        "radio"
+    ],
+    "sg:website":"www.rtve.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799521,
+        102191581,
+        404342209,
+        85633129,
+        404227371,
+        101748391,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5g3k2q0gE5NF7PB7CcXGlf_43.459911_-3.820149@1306269503"
+    },
+    "wof:country":"ES",
+    "wof:created":1472558123,
+    "wof:geomhash":"5cc4cff4affbefde10d40dbf017da354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342209,
+            "locality_id":101748391,
+            "macroregion_id":404227371,
+            "neighbourhood_id":85799521,
+            "region_id":85682833,
+            "venue_id":991568505
+        }
+    ],
+    "wof:id":991568505,
+    "wof:lastmodified":1472558123,
+    "wof:name":"Ente Publico Rtve",
+    "wof:parent_id":85799521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "televisiones",
+        "y",
+        "radio"
+    ]
+},
+  "bbox": [
+    -3.8201489449,
+    43.4599113464,
+    -3.8201489449,
+    43.4599113464
+],
+  "geometry": {"coordinates":[-3.8201489449,43.4599113464],"type":"Point"}
+}

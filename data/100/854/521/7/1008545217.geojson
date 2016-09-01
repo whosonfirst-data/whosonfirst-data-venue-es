@@ -1,0 +1,67 @@
+{
+  "id": 1008545217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0810389519,41.3832092285,2.0810389519,41.3832092285",
+    "geom:latitude":41.383209,
+    "geom:longitude":2.081039,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Creu, 8",
+    "sg:city":"S. Just Desvern",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 73 78 07",
+    "sg:postcode":"08960",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799591,
+        102191581,
+        404331371,
+        85633129,
+        404227379,
+        101758753,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MkxkT6ono0MkJ19dbo86i_41.383209_2.081039@1306269668"
+    },
+    "wof:country":"ES",
+    "wof:created":1472631910,
+    "wof:geomhash":"85edc48d54023ab1ac0eeffb3948802f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331371,
+            "locality_id":101758753,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799591,
+            "region_id":85682663,
+            "venue_id":1008545217
+        }
+    ],
+    "wof:id":1008545217,
+    "wof:lastmodified":1472631910,
+    "wof:name":"Solans Barri Josefa Maria",
+    "wof:parent_id":85799591,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0810389519,
+    41.3832092285,
+    2.0810389519,
+    41.3832092285
+],
+  "geometry": {"coordinates":[2.0810389519,41.3832092285],"type":"Point"}
+}

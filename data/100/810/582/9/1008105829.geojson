@@ -1,0 +1,78 @@
+{
+  "id": 1008105829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1826310158,41.386882782,2.1826310158,41.386882782",
+    "geom:latitude":41.386883,
+    "geom:longitude":2.182631,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Princesa, 52",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 68 88 20",
+    "sg:postcode":"08003",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "sg:website":"www.circulodelarte.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57tuF31JOsSXPHyajHt5GC_41.386883_2.182631@1306269609"
+    },
+    "wof:country":"ES",
+    "wof:created":1472599769,
+    "wof:geomhash":"04fda8449de3cd2f367ea1c7240e72bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":1008105829
+        }
+    ],
+    "wof:id":1008105829,
+    "wof:lastmodified":1472599769,
+    "wof:name":"Nuevo Taller De Obras Maestras S. R. L.",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    2.1826310158,
+    41.386882782,
+    2.1826310158,
+    41.386882782
+],
+  "geometry": {"coordinates":[2.1826310158,41.386882782],"type":"Point"}
+}

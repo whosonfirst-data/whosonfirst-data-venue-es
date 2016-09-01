@@ -1,0 +1,67 @@
+{
+  "id": 1008654465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1424651146,41.3886260986,2.1424651146,41.3886260986",
+    "geom:latitude":41.388626,
+    "geom:longitude":2.142465,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Gelabert, 38",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 10 06 09",
+    "sg:postcode":"08029",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799597,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ru7KxML39jj9npgXI1cSi_41.388626_2.142465@1306269682"
+    },
+    "wof:country":"ES",
+    "wof:created":1472636580,
+    "wof:geomhash":"98f1aeecc9946e2561c249cb8a84b2dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799597,
+            "region_id":85682663,
+            "venue_id":1008654465
+        }
+    ],
+    "wof:id":1008654465,
+    "wof:lastmodified":1472636580,
+    "wof:name":"Trenado Serrano Santos",
+    "wof:parent_id":85799597,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1424651146,
+    41.3886260986,
+    2.1424651146,
+    41.3886260986
+],
+  "geometry": {"coordinates":[2.1424651146,41.3886260986],"type":"Point"}
+}

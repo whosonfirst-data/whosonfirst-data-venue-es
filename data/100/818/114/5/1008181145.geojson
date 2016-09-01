@@ -1,0 +1,67 @@
+{
+  "id": 1008181145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8775395751,41.6511459351,-0.8775395751,41.6511459351",
+    "geom:latitude":41.651146,
+    "geom:longitude":-0.87754,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Coso, 87",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Partidos Pol\u00cdticos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 20 06 16",
+    "sg:postcode":"50001",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863349,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SWSg7uVeClO521spj1lku_41.651146_-0.877540@1306269619"
+    },
+    "wof:country":"ES",
+    "wof:created":1472605383,
+    "wof:geomhash":"4094b66cace07ac1b537d102cb8ed60e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863349,
+            "region_id":85682891,
+            "venue_id":1008181145
+        }
+    ],
+    "wof:id":1008181145,
+    "wof:lastmodified":1472605383,
+    "wof:name":"Partido Aragones",
+    "wof:parent_id":85863349,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8775395751,
+    41.6511459351,
+    -0.8775395751,
+    41.6511459351
+],
+  "geometry": {"coordinates":[-0.8775395751,41.6511459351],"type":"Point"}
+}

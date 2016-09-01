@@ -1,0 +1,88 @@
+{
+  "id": 1024496585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.632564,40.531106,-3.632564,40.531106",
+    "geom:latitude":40.531106,
+    "geom:longitude":-3.632564,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenida de Bruselas, 7",
+    "sg:city":"Alcobendas",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"28108",
+    "sg:tags":[
+        "tv",
+        "mobile",
+        "video",
+        "publishing",
+        "iptv",
+        "mixing",
+        "audio",
+        "pictures",
+        "convergent",
+        "platform",
+        "b2b"
+    ],
+    "sg:website":"http://corp.vpod.tv",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mBRekUu0p3Ntin1aH2P9c_40.531106_-3.632564@1308163237"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641474,
+    "wof:geomhash":"de964fbd364b619d75b78eb43c26ba60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1024496585
+        }
+    ],
+    "wof:id":1024496585,
+    "wof:lastmodified":1472641474,
+    "wof:name":"vpod.tv",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tv",
+        "mobile",
+        "video",
+        "publishing",
+        "iptv",
+        "mixing",
+        "audio",
+        "pictures",
+        "convergent",
+        "platform",
+        "b2b"
+    ]
+},
+  "bbox": [
+    -3.632564,
+    40.531106,
+    -3.632564,
+    40.531106
+],
+  "geometry": {"coordinates":[-3.632564,40.531106],"type":"Point"}
+}

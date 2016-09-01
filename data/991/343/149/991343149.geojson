@@ -1,0 +1,78 @@
+{
+  "id": 991343149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.7794780731,37.8860321045,-4.7794780731,37.8860321045",
+    "geom:latitude":37.886032,
+    "geom:longitude":-4.779478,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz San Miguel (de), 9",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 48 56 56",
+    "sg:postcode":"14002",
+    "sg:province":"C\u00f3rdoba",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863901,
+        102191581,
+        404333687,
+        85633129,
+        404227361,
+        101748233,
+        85682697,
+        85863895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NwpqreHygk0Ssn2iMaIYF_37.886032_-4.779478@1306269473"
+    },
+    "wof:country":"ES",
+    "wof:created":1472544683,
+    "wof:geomhash":"39167a3d9854014bbd6872ad5c4dece4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863901,
+            "region_id":85682697,
+            "venue_id":991343149
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863895,
+            "region_id":85682697,
+            "venue_id":991343149
+        }
+    ],
+    "wof:id":991343149,
+    "wof:lastmodified":1472544683,
+    "wof:name":"Civico Rodas Jose",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7794780731,
+    37.8860321045,
+    -4.7794780731,
+    37.8860321045
+],
+  "geometry": {"coordinates":[-4.7794780731,37.8860321045],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1008187103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6875920296,40.4550895691,-3.6875920296,40.4550895691",
+    "geom:latitude":40.45509,
+    "geom:longitude":-3.687592,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Manuel De Falla, 3",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Inmobiliaria (agencias)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 58 74 83",
+    "sg:postcode":"28036",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863621,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0q5FQpZzhVx2qjh4RBFy3r_40.455090_-3.687592@1306269620"
+    },
+    "wof:country":"ES",
+    "wof:created":1472606562,
+    "wof:geomhash":"77d55786ea95e8f1eff53e1885ef12a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863621,
+            "region_id":85682783,
+            "venue_id":1008187103
+        }
+    ],
+    "wof:id":1008187103,
+    "wof:lastmodified":1472606562,
+    "wof:name":"Pastor Bueno Fernando",
+    "wof:parent_id":85863621,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6875920296,
+    40.4550895691,
+    -3.6875920296,
+    40.4550895691
+],
+  "geometry": {"coordinates":[-3.6875920296,40.4550895691],"type":"Point"}
+}

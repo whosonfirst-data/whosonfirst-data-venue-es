@@ -1,0 +1,67 @@
+{
+  "id": 1008180017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1805989742,41.4425430298,2.1805989742,41.4425430298",
+    "geom:latitude":41.442543,
+    "geom:longitude":2.180599,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pl Santa Engracia, 1",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Iglesia Cat\u00d3lica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 54 06 16",
+    "sg:postcode":"08016",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799517,
+        102191581,
+        404331425,
+        85633129,
+        404227379,
+        101748345,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2S5YwICdUiSZX91Qgu2SYf_41.442543_2.180599@1306269619"
+    },
+    "wof:country":"ES",
+    "wof:created":1472605220,
+    "wof:geomhash":"7e0f8163492e3ec76dbf6516029eac91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331425,
+            "locality_id":101748345,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799517,
+            "region_id":85682663,
+            "venue_id":1008180017
+        }
+    ],
+    "wof:id":1008180017,
+    "wof:lastmodified":1472605220,
+    "wof:name":"Parroquia Santa Engracia",
+    "wof:parent_id":85799517,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1805989742,
+    41.4425430298,
+    2.1805989742,
+    41.4425430298
+],
+  "geometry": {"coordinates":[2.1805989742,41.4425430298],"type":"Point"}
+}

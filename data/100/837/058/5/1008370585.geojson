@@ -1,0 +1,81 @@
+{
+  "id": 1008370585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1568310261,41.3931274414,2.1568310261,41.3931274414",
+    "geom:latitude":41.393127,
+    "geom:longitude":2.156831,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Rossello, 215",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 37 28 64",
+    "sg:postcode":"08008",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864017,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XyvUU1KkPUizygbUtbHp8_41.393127_2.156831@1306269645"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624387,
+    "wof:geomhash":"7b51e480987769b3775eac06b6b5bca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864017,
+            "region_id":85682663,
+            "venue_id":1008370585
+        }
+    ],
+    "wof:id":1008370585,
+    "wof:lastmodified":1472624387,
+    "wof:name":"Roc Rafales Maria Nuria",
+    "wof:parent_id":85864017,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ]
+},
+  "bbox": [
+    2.1568310261,
+    41.3931274414,
+    2.1568310261,
+    41.3931274414
+],
+  "geometry": {"coordinates":[2.1568310261,41.3931274414],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 991120705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1721858978,41.3972740173,2.1721858978,41.3972740173",
+    "geom:latitude":41.397274,
+    "geom:longitude":2.172186,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pg Sant Joan, 65",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Molduras, Junquillos, Listones Y Molduras Perforadas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 65 71 80",
+    "sg:postcode":"08009",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863999,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KnnpjdbnYBUMeFNVF6vsZ_41.397274_2.172186@1306269443"
+    },
+    "wof:country":"ES",
+    "wof:created":1472528436,
+    "wof:geomhash":"3da7e24a239041f16f333ddef57cdff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863999,
+            "region_id":85682663,
+            "venue_id":991120705
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":991120705
+        }
+    ],
+    "wof:id":991120705,
+    "wof:lastmodified":1472528436,
+    "wof:name":"Basart Milan Juan",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1721858978,
+    41.3972740173,
+    2.1721858978,
+    41.3972740173
+],
+  "geometry": {"coordinates":[2.1721858978,41.3972740173],"type":"Point"}
+}

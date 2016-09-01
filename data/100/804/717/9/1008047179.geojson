@@ -1,0 +1,59 @@
+{
+  "id": 1008047179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5851099491,40.4577140808,-3.5851099491,40.4577140808",
+    "geom:latitude":40.457714,
+    "geom:longitude":-3.58511,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Cantabria, 39",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Comerciantes Al Por Mayor De Vinos, Licores Y Alcoholes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 47 07 79",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863589,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cB66pBi58zKZJ9NL1muQR_40.457714_-3.585110@1306269601"
+    },
+    "wof:country":"ES",
+    "wof:created":1472597215,
+    "wof:geomhash":"68e9a0f398f3b8d349813f2b8c9986a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863589,
+            "region_id":85682783,
+            "venue_id":1008047179
+        }
+    ],
+    "wof:id":1008047179,
+    "wof:lastmodified":1472597215,
+    "wof:name":"Moreno Sanabria Carlos",
+    "wof:parent_id":85863589,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5851099491,
+    40.4577140808,
+    -3.5851099491,
+    40.4577140808
+],
+  "geometry": {"coordinates":[-3.5851099491,40.4577140808],"type":"Point"}
+}

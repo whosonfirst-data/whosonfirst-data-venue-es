@@ -1,0 +1,80 @@
+{
+  "id": 1007821579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8836989999,41.6679267883,-0.8836989999,41.6679267883",
+    "geom:latitude":41.667927,
+    "geom:longitude":-0.883699,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Leon Felipe, 25",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 51 04 00",
+    "sg:postcode":"50015",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "organismos",
+        "control"
+    ],
+    "sg:website":"www.lr.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863309,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bFm3Tn4kAqGHGdJMBdeP2_41.667927_-0.883699@1306269573"
+    },
+    "wof:country":"ES",
+    "wof:created":1472587369,
+    "wof:geomhash":"1c78b9f753c534a6634fd1ee3868c3b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863309,
+            "region_id":85682891,
+            "venue_id":1007821579
+        }
+    ],
+    "wof:id":1007821579,
+    "wof:lastmodified":1472587369,
+    "wof:name":"Lloyd's Register Espa\u00f1a S.a.",
+    "wof:parent_id":85863309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organismos",
+        "control"
+    ]
+},
+  "bbox": [
+    -0.8836989999,
+    41.6679267883,
+    -0.8836989999,
+    41.6679267883
+],
+  "geometry": {"coordinates":[-0.8836989999,41.6679267883],"type":"Point"}
+}

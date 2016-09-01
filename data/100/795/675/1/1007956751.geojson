@@ -1,0 +1,67 @@
+{
+  "id": 1007956751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1543850899,41.4005775452,2.1543850899,41.4005775452",
+    "geom:latitude":41.400578,
+    "geom:longitude":2.154385,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Gran De Gracia, 87",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 38 59 56",
+    "sg:postcode":"08012",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799393,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MdXXn4QzPOsBJRtBtvvlN_41.400578_2.154385@1306269589"
+    },
+    "wof:country":"ES",
+    "wof:created":1472593425,
+    "wof:geomhash":"a61f26837ec874fa814511f7423558e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799393,
+            "region_id":85682663,
+            "venue_id":1007956751
+        }
+    ],
+    "wof:id":1007956751,
+    "wof:lastmodified":1472593425,
+    "wof:name":"Mateos Navarro Silvia",
+    "wof:parent_id":85799393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1543850899,
+    41.4005775452,
+    2.1543850899,
+    41.4005775452
+],
+  "geometry": {"coordinates":[2.1543850899,41.4005775452],"type":"Point"}
+}

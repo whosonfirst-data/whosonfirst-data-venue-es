@@ -1,0 +1,67 @@
+{
+  "id": 1008686929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7679150105,40.4552612305,-3.7679150105,40.4552612305",
+    "geom:latitude":40.455261,
+    "geom:longitude":-3.767915,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Fuente Del Rey, 6",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 57 27 47",
+    "sg:postcode":"28023",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863607,
+        102191581,
+        404338935,
+        85633129,
+        404227387,
+        101753753,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Y7KqtSn78XbunQrlG3zhO_40.455261_-3.767915@1306269687"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637922,
+    "wof:geomhash":"50e745da9abea56a2f9958965d3ecdd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338935,
+            "locality_id":101753753,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863607,
+            "region_id":85682783,
+            "venue_id":1008686929
+        }
+    ],
+    "wof:id":1008686929,
+    "wof:lastmodified":1472637922,
+    "wof:name":"Valle Del Salazar S.a.",
+    "wof:parent_id":85863607,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7679150105,
+    40.4552612305,
+    -3.7679150105,
+    40.4552612305
+],
+  "geometry": {"coordinates":[-3.7679150105,40.4552612305],"type":"Point"}
+}

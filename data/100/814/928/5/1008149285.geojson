@@ -1,0 +1,59 @@
+{
+  "id": 1008149285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4799309969,38.3616981506,-0.4799309969,38.3616981506",
+    "geom:latitude":38.361698,
+    "geom:longitude":-0.479931,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Garbinet, 126",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Caf\u00c9s, Bares, Cervecer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 24 53 18",
+    "sg:postcode":"03012",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864065,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1C4J9YLbcGHup3dPbQDRRQ_38.361698_-0.479931@1306269615"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601809,
+    "wof:geomhash":"33c661284e8c337aebf0d35a19932857",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864065,
+            "region_id":85682625,
+            "venue_id":1008149285
+        }
+    ],
+    "wof:id":1008149285,
+    "wof:lastmodified":1472601809,
+    "wof:name":"Padilla Martinez Jose Luis",
+    "wof:parent_id":85864065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4799309969,
+    38.3616981506,
+    -0.4799309969,
+    38.3616981506
+],
+  "geometry": {"coordinates":[-0.4799309969,38.3616981506],"type":"Point"}
+}

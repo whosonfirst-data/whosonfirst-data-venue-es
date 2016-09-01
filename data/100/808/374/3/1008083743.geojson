@@ -1,0 +1,74 @@
+{
+  "id": 1008083743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1837060452,41.3973731995,2.1837060452,41.3973731995",
+    "geom:latitude":41.397373,
+    "geom:longitude":2.183706,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Marina, 140",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Droguer\u00cdas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 45 02 64",
+    "sg:postcode":"08013",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864013,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OQWsWSf0v3SOYQk4186yN_41.397373_2.183706@1306269606"
+    },
+    "wof:country":"ES",
+    "wof:created":1472598809,
+    "wof:geomhash":"0b2fcbbc3215471c95ece11efad9df05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864013,
+            "region_id":85682663,
+            "venue_id":1008083743
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008083743
+        }
+    ],
+    "wof:id":1008083743,
+    "wof:lastmodified":1472598809,
+    "wof:name":"Navarro Ferron Miriam",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1837060452,
+    41.3973731995,
+    2.1837060452,
+    41.3973731995
+],
+  "geometry": {"coordinates":[2.1837060452,41.3973731995],"type":"Point"}
+}

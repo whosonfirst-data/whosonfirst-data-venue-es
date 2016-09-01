@@ -1,0 +1,59 @@
+{
+  "id": 1008705983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8155140877,40.3548660278,-3.8155140877,40.3548660278",
+    "geom:latitude":40.354866,
+    "geom:longitude":-3.815514,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz San Juan De Covas, 2",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cerrajer\u00cda, Ferrallista",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 10 61 79",
+    "sg:postcode":"28925",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16yssCpbYyFkpCgDGLLTG6_40.354866_-3.815514@1306269689"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638795,
+    "wof:geomhash":"5b58cf7fc78d6b9d53dc2c4debba6982",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008705983
+        }
+    ],
+    "wof:id":1008705983,
+    "wof:lastmodified":1472638795,
+    "wof:name":"Ventura Sanchez Gregorio",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8155140877,
+    40.3548660278,
+    -3.8155140877,
+    40.3548660278
+],
+  "geometry": {"coordinates":[-3.8155140877,40.3548660278],"type":"Point"}
+}

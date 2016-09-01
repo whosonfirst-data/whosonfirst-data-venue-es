@@ -1,0 +1,64 @@
+{
+  "id": 991056539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6027140617,37.1700820923,-3.6027140617,37.1700820923",
+    "geom:latitude":37.170082,
+    "geom:longitude":-3.602714,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Tejeiro, 17",
+    "sg:city":"Granada",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 26 40 00",
+    "sg:postcode":"18005",
+    "sg:province":"Granada",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863847,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lw8rJ7mmr53oxaR3kReiN_37.170082_-3.602714@1306269435"
+    },
+    "wof:country":"ES",
+    "wof:created":1472523388,
+    "wof:geomhash":"39278c207fe2dfd57263271a5a9b2199",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863847,
+            "region_id":85682731,
+            "venue_id":991056539
+        }
+    ],
+    "wof:id":991056539,
+    "wof:lastmodified":1472523388,
+    "wof:name":"Autoescuela Jesus Molina S.l.",
+    "wof:parent_id":85863847,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6027140617,
+    37.1700820923,
+    -3.6027140617,
+    37.1700820923
+],
+  "geometry": {"coordinates":[-3.6027140617,37.1700820923],"type":"Point"}
+}

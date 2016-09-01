@@ -1,0 +1,64 @@
+{
+  "id": 1008144049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.743391037,40.4760055542,-3.743391037,40.4760055542",
+    "geom:latitude":40.476006,
+    "geom:longitude":-3.743391,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Vegafria, 5",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c9dicos: An\u00c1lisis Cl\u00cdnicos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 16 75 46",
+    "sg:postcode":"28035",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85682783,
+        102191581,
+        85633129,
+        101748283,
+        85863557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SPnISpE15Mcjy9XcjHOz1_40.476006_-3.743391@1306269614"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601565,
+    "wof:geomhash":"9e3d762ad43f89a62d02d1a2c54e9fae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748283,
+            "neighbourhood_id":85863557,
+            "region_id":85682783,
+            "venue_id":1008144049
+        }
+    ],
+    "wof:id":1008144049,
+    "wof:lastmodified":1472601565,
+    "wof:name":"Otero De Becerra Joaquin",
+    "wof:parent_id":85863557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.743391037,
+    40.4760055542,
+    -3.743391037,
+    40.4760055542
+],
+  "geometry": {"coordinates":[-3.743391037,40.4760055542],"type":"Point"}
+}

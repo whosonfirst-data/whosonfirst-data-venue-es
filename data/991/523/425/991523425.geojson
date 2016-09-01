@@ -1,0 +1,77 @@
+{
+  "id": 991523425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3664860129,39.4768066406,-0.3664860129,39.4768066406",
+    "geom:latitude":39.476807,
+    "geom:longitude":-0.366486,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pase Alameda, 1",
+    "sg:city":"Valencia",
+    "sg:classifiers":[
+        {
+            "category":"Tea Room",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 69 90 79",
+    "sg:postcode":"46010",
+    "sg:province":"Valencia",
+    "sg:tags":[
+        "snack"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864215,
+        102191581,
+        404345361,
+        85633129,
+        404227381,
+        101748241,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XhVuBwKjXO9I5GVUaSsK5_39.476807_-0.366486@1306269497"
+    },
+    "wof:country":"ES",
+    "wof:created":1472555613,
+    "wof:geomhash":"11f0fb2a8aa53a6025f42ce522e5475f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345361,
+            "locality_id":101748241,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864215,
+            "region_id":85682867,
+            "venue_id":991523425
+        }
+    ],
+    "wof:id":991523425,
+    "wof:lastmodified":1472555613,
+    "wof:name":"Dominguez Pastor Ernesto",
+    "wof:parent_id":85864215,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snack"
+    ]
+},
+  "bbox": [
+    -0.3664860129,
+    39.4768066406,
+    -0.3664860129,
+    39.4768066406
+],
+  "geometry": {"coordinates":[-0.3664860129,39.4768066406],"type":"Point"}
+}

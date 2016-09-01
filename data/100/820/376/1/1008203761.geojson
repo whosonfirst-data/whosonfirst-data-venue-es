@@ -1,0 +1,78 @@
+{
+  "id": 1008203761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8778840899,41.6502342224,-0.8778840899,41.6502342224",
+    "geom:latitude":41.650234,
+    "geom:longitude":-0.877884,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Rufas, 19",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Molduras, Junquillos, Listones Y Molduras Perforadas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 22 45 41",
+    "sg:postcode":"50001",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863349,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891,
+        85863361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55txMsYFxsflAJ3anou7FQ_41.650234_-0.877884@1306269622"
+    },
+    "wof:country":"ES",
+    "wof:created":1472610396,
+    "wof:geomhash":"00fad89e7b54bc2b7c85354f9702d864",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863349,
+            "region_id":85682891,
+            "venue_id":1008203761
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863361,
+            "region_id":85682891,
+            "venue_id":1008203761
+        }
+    ],
+    "wof:id":1008203761,
+    "wof:lastmodified":1472610396,
+    "wof:name":"Perales Navarro Mariano",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8778840899,
+    41.6502342224,
+    -0.8778840899,
+    41.6502342224
+],
+  "geometry": {"coordinates":[-0.8778840899,41.6502342224],"type":"Point"}
+}

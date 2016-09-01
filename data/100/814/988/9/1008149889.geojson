@@ -1,0 +1,67 @@
+{
+  "id": 1008149889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1556808949,41.4255218506,2.1556808949,41.4255218506",
+    "geom:latitude":41.425522,
+    "geom:longitude":2.155681,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pl Pastrana, 1",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 20 51 87",
+    "sg:postcode":"08032",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799399,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NvxV2nSjVjnkAuGcvhfQK_41.425522_2.155681@1306269615"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601834,
+    "wof:geomhash":"5d5d3fdf9ea930dc4a8d4f9c4376da57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799399,
+            "region_id":85682663,
+            "venue_id":1008149889
+        }
+    ],
+    "wof:id":1008149889,
+    "wof:lastmodified":1472601834,
+    "wof:name":"Padro Alcoverro Enrique",
+    "wof:parent_id":85799399,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1556808949,
+    41.4255218506,
+    2.1556808949,
+    41.4255218506
+],
+  "geometry": {"coordinates":[2.1556808949,41.4255218506],"type":"Point"}
+}

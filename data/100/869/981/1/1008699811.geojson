@@ -1,0 +1,65 @@
+{
+  "id": 1008699811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.309401989,41.4768257141,2.309401989,41.4768257141",
+    "geom:latitude":41.476826,
+    "geom:longitude":2.309402,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Mossen Jacint Verdaguer, 12",
+    "sg:city":"Masnou",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 935 55 51 15",
+    "sg:postcode":"08320",
+    "sg:province":"Barcelona",
+    "sg:website":"www.autoescuelapark.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799485,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aj9ptWOS6GcqsLiHCYEfC_41.476826_2.309402@1306269689"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638501,
+    "wof:geomhash":"757268eec01c788397bc3d1ee15cfe90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799485,
+            "region_id":85682663,
+            "venue_id":1008699811
+        }
+    ],
+    "wof:id":1008699811,
+    "wof:lastmodified":1472638501,
+    "wof:name":"Vega Ludena Maria Teresa",
+    "wof:parent_id":85799485,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.309401989,
+    41.4768257141,
+    2.309401989,
+    41.4768257141
+],
+  "geometry": {"coordinates":[2.309401989,41.4768257141],"type":"Point"}
+}

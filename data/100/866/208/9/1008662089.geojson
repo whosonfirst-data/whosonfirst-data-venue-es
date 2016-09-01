@@ -1,0 +1,59 @@
+{
+  "id": 1008662089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.8240849972,41.7267303467,1.8240849972,41.7267303467",
+    "geom:latitude":41.72673,
+    "geom:longitude":1.824085,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Casanova, 4",
+    "sg:city":"Manresa",
+    "sg:classifiers":[],
+    "sg:orig_category":"Enfermeras: Consultas, Atenci\u00d3n A Domicilio",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 938 72 27 24",
+    "sg:postcode":"08241",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BiYGFYff9myG8hgU7YpXD_41.726730_1.824085@1306269683"
+    },
+    "wof:country":"ES",
+    "wof:created":1472636891,
+    "wof:geomhash":"9dec3de65003e3e03e49fd369e4a6d2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008662089
+        }
+    ],
+    "wof:id":1008662089,
+    "wof:lastmodified":1472636891,
+    "wof:name":"Turmo Figueres Jordi",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.8240849972,
+    41.7267303467,
+    1.8240849972,
+    41.7267303467
+],
+  "geometry": {"coordinates":[1.8240849972,41.7267303467],"type":"Point"}
+}

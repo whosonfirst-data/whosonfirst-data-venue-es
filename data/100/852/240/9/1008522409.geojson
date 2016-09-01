@@ -1,0 +1,78 @@
+{
+  "id": 1008522409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2031950951,41.403793335,2.2031950951,41.403793335",
+    "geom:latitude":41.403793,
+    "geom:longitude":2.203195,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Pujades, 221",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Molduras, Junquillos, Listones Y Molduras Perforadas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 66 00 41",
+    "sg:postcode":"08005",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799265,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36CpjMwRHV0Duwgp2bbrq7_41.403793_2.203195@1306269665"
+    },
+    "wof:country":"ES",
+    "wof:created":1472630950,
+    "wof:geomhash":"859093db5ba8e6bc07993e56c336165a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799265,
+            "region_id":85682663,
+            "venue_id":1008522409
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864011,
+            "region_id":85682663,
+            "venue_id":1008522409
+        }
+    ],
+    "wof:id":1008522409,
+    "wof:lastmodified":1472630950,
+    "wof:name":"Sierra Salgado Amador",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2031950951,
+    41.403793335,
+    2.2031950951,
+    41.403793335
+],
+  "geometry": {"coordinates":[2.2031950951,41.403793335],"type":"Point"}
+}

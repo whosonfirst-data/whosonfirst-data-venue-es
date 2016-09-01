@@ -1,0 +1,59 @@
+{
+  "id": 1008199767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7278449535,40.3080787659,-3.7278449535,40.3080787659",
+    "geom:latitude":40.308079,
+    "geom:longitude":-3.727845,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Manzana, 10",
+    "sg:city":"Getafe",
+    "sg:classifiers":[],
+    "sg:orig_category":"Peluqueros: De Se\u00d1oras",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 83 40 56",
+    "sg:postcode":"28901",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Iwfs6szm97Lm8Wt3bDhDg_40.308079_-3.727845@1306269622"
+    },
+    "wof:country":"ES",
+    "wof:created":1472609483,
+    "wof:geomhash":"777b0a3f614fcbc26a25a51a4251482b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1008199767
+        }
+    ],
+    "wof:id":1008199767,
+    "wof:lastmodified":1472609483,
+    "wof:name":"Peluqueria Casin Cosin S.l.",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7278449535,
+    40.3080787659,
+    -3.7278449535,
+    40.3080787659
+],
+  "geometry": {"coordinates":[-3.7278449535,40.3080787659],"type":"Point"}
+}

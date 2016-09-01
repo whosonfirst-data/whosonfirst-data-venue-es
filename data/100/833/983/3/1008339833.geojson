@@ -1,0 +1,60 @@
+{
+  "id": 1008339833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8263099194,40.4712638855,-3.8263099194,40.4712638855",
+    "geom:latitude":40.471264,
+    "geom:longitude":-3.82631,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Victoria, 74",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asilos De Ancianos. Centros Privados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 72 83 19",
+    "sg:postcode":"28023",
+    "sg:province":"Madrid",
+    "sg:website":"www.grupocasablanca.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863657,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00uEGHRhEwolGZoF3wLn6Y_40.471264_-3.826310@1306269641"
+    },
+    "wof:country":"ES",
+    "wof:created":1472623052,
+    "wof:geomhash":"60872133cfc72102ccb421606b3577ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863657,
+            "region_id":85682783,
+            "venue_id":1008339833
+        }
+    ],
+    "wof:id":1008339833,
+    "wof:lastmodified":1472623052,
+    "wof:name":"Replan S.l.",
+    "wof:parent_id":85863657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8263099194,
+    40.4712638855,
+    -3.8263099194,
+    40.4712638855
+],
+  "geometry": {"coordinates":[-3.8263099194,40.4712638855],"type":"Point"}
+}

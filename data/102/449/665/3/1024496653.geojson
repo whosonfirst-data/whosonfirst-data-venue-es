@@ -1,0 +1,76 @@
+{
+  "id": 1024496653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1702738,41.3855558,2.1702738,41.3855558",
+    "geom:latitude":41.385556,
+    "geom:longitude":2.170274,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"rambla de canaletes, 140",
+    "sg:city":"barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"08002",
+    "sg:tags":[
+        "real-estate"
+    ],
+    "sg:website":"http://www.idealista.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799447,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AQzbVuwOA8GNUwdHsiBdg_41.385556_2.170274@1308163240"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641476,
+    "wof:geomhash":"6aaa9996a48bbdeb1e3e2c8da5ab0a68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799447,
+            "region_id":85682663,
+            "venue_id":1024496653
+        }
+    ],
+    "wof:id":1024496653,
+    "wof:lastmodified":1472641476,
+    "wof:name":"idealista.com",
+    "wof:parent_id":85799447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "real-estate"
+    ]
+},
+  "bbox": [
+    2.1702738,
+    41.3855558,
+    2.1702738,
+    41.3855558
+],
+  "geometry": {"coordinates":[2.1702738,41.3855558],"type":"Point"}
+}

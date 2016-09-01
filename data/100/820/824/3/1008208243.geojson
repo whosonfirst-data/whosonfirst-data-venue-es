@@ -1,0 +1,67 @@
+{
+  "id": 1008208243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1018579006,41.3751602173,2.1018579006,41.3751602173",
+    "geom:latitude":41.37516,
+    "geom:longitude":2.101858,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Gravina, 45",
+    "sg:city":"Hospitalet Llobregat",
+    "sg:classifiers":[],
+    "sg:orig_category":"Transporte En General",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 80 72 46",
+    "sg:postcode":"08906",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799283,
+        102191581,
+        404331105,
+        85633129,
+        404227379,
+        101748333,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GGPrhbrWhNzfnr2CqR8A3_41.375160_2.101858@1306269623"
+    },
+    "wof:country":"ES",
+    "wof:created":1472611403,
+    "wof:geomhash":"ab14302e3bc30bd4f6000e81c829e4b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331105,
+            "locality_id":101748333,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799283,
+            "region_id":85682663,
+            "venue_id":1008208243
+        }
+    ],
+    "wof:id":1008208243,
+    "wof:lastmodified":1472611403,
+    "wof:name":"Perez Barrientos Emiliano",
+    "wof:parent_id":85799283,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1018579006,
+    41.3751602173,
+    2.1018579006,
+    41.3751602173
+],
+  "geometry": {"coordinates":[2.1018579006,41.3751602173],"type":"Point"}
+}

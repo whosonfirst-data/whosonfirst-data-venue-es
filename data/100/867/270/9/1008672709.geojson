@@ -1,0 +1,60 @@
+{
+  "id": 1008672709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5485579967,40.5021591187,-3.5485579967,40.5021591187",
+    "geom:latitude":40.502159,
+    "geom:longitude":-3.548558,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Antonio Alonso Martin (de), 1",
+    "sg:city":"El Cruce",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alquiler De Muebles",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 58 01 50",
+    "sg:postcode":"28860",
+    "sg:province":"Madrid",
+    "sg:website":"www.strasserstand.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863587,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jvDgUmuCyI8BdKAqT5S34_40.502159_-3.548558@1306269685"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637308,
+    "wof:geomhash":"cafe80defe1872dc95b7307c56174400",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863587,
+            "region_id":85682783,
+            "venue_id":1008672709
+        }
+    ],
+    "wof:id":1008672709,
+    "wof:lastmodified":1472637308,
+    "wof:name":"Unitek Power S.l.",
+    "wof:parent_id":85863587,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5485579967,
+    40.5021591187,
+    -3.5485579967,
+    40.5021591187
+],
+  "geometry": {"coordinates":[-3.5485579967,40.5021591187],"type":"Point"}
+}

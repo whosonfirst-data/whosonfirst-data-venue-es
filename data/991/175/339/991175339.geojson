@@ -1,0 +1,71 @@
+{
+  "id": 991175339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3657299876,39.5067596436,-0.3657299876,39.5067596436",
+    "geom:latitude":39.50676,
+    "geom:longitude":-0.36573,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"C.v. Carpesa A Borboto, 9",
+    "sg:city":"Carpesa",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 961 85 96 69",
+    "sg:postcode":"46016",
+    "sg:province":"Valencia",
+    "sg:tags":[
+        "en",
+        "fundiciones"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864225,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5j0pwpgs2nKcYHJbZFF5mj_39.506760_-0.365730@1306269450"
+    },
+    "wof:country":"ES",
+    "wof:created":1472534533,
+    "wof:geomhash":"f6a98d42e7916f2238b83abeab9c7276",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864225,
+            "region_id":85682867,
+            "venue_id":991175339
+        }
+    ],
+    "wof:id":991175339,
+    "wof:lastmodified":1472534533,
+    "wof:name":"Bravo Ancillo Manuel",
+    "wof:parent_id":85864225,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "en",
+        "fundiciones"
+    ]
+},
+  "bbox": [
+    -0.3657299876,
+    39.5067596436,
+    -0.3657299876,
+    39.5067596436
+],
+  "geometry": {"coordinates":[-0.3657299876,39.5067596436],"type":"Point"}
+}

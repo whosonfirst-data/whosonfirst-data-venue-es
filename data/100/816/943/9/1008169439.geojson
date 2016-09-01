@@ -1,0 +1,59 @@
+{
+  "id": 1008169439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6826612949,40.4982948303,-3.6826612949,40.4982948303",
+    "geom:latitude":40.498295,
+    "geom:longitude":-3.682661,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Antonio De Cabezon, 69",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Art\u00cdculos Funerarios (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 29 02 15",
+    "sg:postcode":"28034",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DqFEy7Ku7IUjulN2QTvPc_40.498295_-3.682661@1306269617"
+    },
+    "wof:country":"ES",
+    "wof:created":1472603846,
+    "wof:geomhash":"bd752e62574a38640e4aa70947f7d3dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1008169439
+        }
+    ],
+    "wof:id":1008169439,
+    "wof:lastmodified":1472603846,
+    "wof:name":"Parque Cementerio De Alcobendas S.a.",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6826612949,
+    40.4982948303,
+    -3.6826612949,
+    40.4982948303
+],
+  "geometry": {"coordinates":[-3.6826612949,40.4982948303],"type":"Point"}
+}

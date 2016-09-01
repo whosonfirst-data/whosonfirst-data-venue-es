@@ -1,0 +1,67 @@
+{
+  "id": 991098541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9842190742,37.3899688721,-5.9842190742,37.3899688721",
+    "geom:latitude":37.389969,
+    "geom:longitude":-5.984219,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz San Agustin, 16",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 42 25 61",
+    "sg:postcode":"41003",
+    "sg:province":"Sevilla",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864155,
+        102191581,
+        404342947,
+        85633129,
+        404227361,
+        101748225,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sfBuUc4Ii7tEIjohgoA34_37.389969_-5.984219@1306269440"
+    },
+    "wof:country":"ES",
+    "wof:created":1472526683,
+    "wof:geomhash":"17ee0124a220b4534bad73145a94d76a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864155,
+            "region_id":85682841,
+            "venue_id":991098541
+        }
+    ],
+    "wof:id":991098541,
+    "wof:lastmodified":1472526683,
+    "wof:name":"Banco De Andalucia",
+    "wof:parent_id":85864155,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.9842190742,
+    37.3899688721,
+    -5.9842190742,
+    37.3899688721
+],
+  "geometry": {"coordinates":[-5.9842190742,37.3899688721],"type":"Point"}
+}

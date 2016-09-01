@@ -1,0 +1,67 @@
+{
+  "id": 1008721105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7033040524,40.4638748169,-3.7033040524,40.4638748169",
+    "geom:latitude":40.463875,
+    "geom:longitude":-3.703304,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Angel Puech, 4",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Chapister\u00cda",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 11 54 66",
+    "sg:postcode":"28039",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863561,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77pltlb6aSReJr64BJQ1EX_40.463875_-3.703304@1306269691"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639480,
+    "wof:geomhash":"90846d44cfe6102680011bd17e9d05d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863561,
+            "region_id":85682783,
+            "venue_id":1008721105
+        }
+    ],
+    "wof:id":1008721105,
+    "wof:lastmodified":1472639480,
+    "wof:name":"Vicente Rodriguez Silverio",
+    "wof:parent_id":85863561,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7033040524,
+    40.4638748169,
+    -3.7033040524,
+    40.4638748169
+],
+  "geometry": {"coordinates":[-3.7033040524,40.4638748169],"type":"Point"}
+}

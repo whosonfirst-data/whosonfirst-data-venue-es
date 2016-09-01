@@ -1,0 +1,59 @@
+{
+  "id": 1007895385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6271250248,39.5706863403,2.6271250248,39.5706863403",
+    "geom:latitude":39.570686,
+    "geom:longitude":2.627125,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Andrea Doria, 35",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Caf\u00c9s, Bares, Cervecer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 28 16 05",
+    "sg:postcode":"07014",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864107,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01WFC43GRxdkxuTQEixfPp_39.570686_2.627125@1306269582"
+    },
+    "wof:country":"ES",
+    "wof:created":1472590675,
+    "wof:geomhash":"588974dd24944223faac68bb657e1391",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864107,
+            "region_id":85682647,
+            "venue_id":1007895385
+        }
+    ],
+    "wof:id":1007895385,
+    "wof:lastmodified":1472590675,
+    "wof:name":"Maremoto C.b.",
+    "wof:parent_id":85864107,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6271250248,
+    39.5706863403,
+    2.6271250248,
+    39.5706863403
+],
+  "geometry": {"coordinates":[2.6271250248,39.5706863403],"type":"Point"}
+}

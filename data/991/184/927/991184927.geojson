@@ -1,0 +1,81 @@
+{
+  "id": 991184927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1751639843,41.4117355347,2.1751639843,41.4117355347",
+    "geom:latitude":41.411736,
+    "geom:longitude":2.175164,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sant Antoni Maria Claret, 238",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 35 13 96",
+    "sg:postcode":"08025",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864001,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I5xZ1v00PuIGVzzPIcW0q_41.411736_2.175164@1306269452"
+    },
+    "wof:country":"ES",
+    "wof:created":1472535311,
+    "wof:geomhash":"3c4db97baa9a16905e978f284b2356bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864001,
+            "region_id":85682663,
+            "venue_id":991184927
+        }
+    ],
+    "wof:id":991184927,
+    "wof:lastmodified":1472535311,
+    "wof:name":"Buil Palomera Ramon",
+    "wof:parent_id":85864001,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.1751639843,
+    41.4117355347,
+    2.1751639843,
+    41.4117355347
+],
+  "geometry": {"coordinates":[2.1751639843,41.4117355347],"type":"Point"}
+}

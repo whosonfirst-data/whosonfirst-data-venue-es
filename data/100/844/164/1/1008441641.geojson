@@ -1,0 +1,59 @@
+{
+  "id": 1008441641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6525979042,39.5812149048,2.6525979042,39.5812149048",
+    "geom:latitude":39.581215,
+    "geom:longitude":2.652598,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de 31 De Desembre, 44",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros Comerciales Y Grandes Tiendas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 20 00 50",
+    "sg:postcode":"07004",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864091,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jWe0BQ70ChHZTD8LBikzy_39.581215_2.652598@1306269654"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627627,
+    "wof:geomhash":"164cec51f87b34135b8163578b128d00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":1008441641
+        }
+    ],
+    "wof:id":1008441641,
+    "wof:lastmodified":1472627627,
+    "wof:name":"S'altre Senalla",
+    "wof:parent_id":85864091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6525979042,
+    39.5812149048,
+    2.6525979042,
+    39.5812149048
+],
+  "geometry": {"coordinates":[2.6525979042,39.5812149048],"type":"Point"}
+}

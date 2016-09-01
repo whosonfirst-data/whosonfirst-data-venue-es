@@ -1,0 +1,78 @@
+{
+  "id": 1007807989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4722540081,38.3586807251,-0.4722540081,38.3586807251",
+    "geom:latitude":38.358681,
+    "geom:longitude":-0.472254,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Padre Espla, 67",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Prensas Industriales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 15 61 61",
+    "sg:postcode":"03013",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864063,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625,
+        85864057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tgnUFMy1U03sSYRBd4fNX_38.358681_-0.472254@1306269571"
+    },
+    "wof:country":"ES",
+    "wof:created":1472586741,
+    "wof:geomhash":"89c78fab6252e9bb58eaed393be0be8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864063,
+            "region_id":85682625,
+            "venue_id":1007807989
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864057,
+            "region_id":85682625,
+            "venue_id":1007807989
+        }
+    ],
+    "wof:id":1007807989,
+    "wof:lastmodified":1472586741,
+    "wof:name":"Lillo Verdu Remedios",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4722540081,
+    38.3586807251,
+    -0.4722540081,
+    38.3586807251
+],
+  "geometry": {"coordinates":[-0.4722540081,38.3586807251],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1008224637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8119688034,40.3565330505,-3.8119688034,40.3565330505",
+    "geom:latitude":40.356533,
+    "geom:longitude":-3.811969,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Noya, 2",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c9dicos: Otorrinolaringolog\u00cda",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 19 19 05",
+    "sg:postcode":"28925",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FHK2UJ7X3vJDLw7FJjs0F_40.356533_-3.811969@1306269625"
+    },
+    "wof:country":"ES",
+    "wof:created":1472613745,
+    "wof:geomhash":"ce215a26daecc54fd7786a587f2ff250",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008224637
+        }
+    ],
+    "wof:id":1008224637,
+    "wof:lastmodified":1472613745,
+    "wof:name":"Perez Yanes Manuel",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8119688034,
+    40.3565330505,
+    -3.8119688034,
+    40.3565330505
+],
+  "geometry": {"coordinates":[-3.8119688034,40.3565330505],"type":"Point"}
+}

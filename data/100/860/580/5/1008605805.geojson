@@ -1,0 +1,67 @@
+{
+  "id": 1008605805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2144479752,41.411857605,2.2144479752,41.411857605",
+    "geom:latitude":41.411858,
+    "geom:longitude":2.214448,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Pujades, 428",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicios De Telecomunicaciones",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 66 05 67",
+    "sg:postcode":"08019",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864011,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42IZ9DaBjEd6U8pm048J7v_41.411858_2.214448@1306269676"
+    },
+    "wof:country":"ES",
+    "wof:created":1472634508,
+    "wof:geomhash":"929c08cb97dfd7c6fff990bc0eda9367",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864011,
+            "region_id":85682663,
+            "venue_id":1008605805
+        }
+    ],
+    "wof:id":1008605805,
+    "wof:lastmodified":1472634508,
+    "wof:name":"Tecnocontrol S.a.",
+    "wof:parent_id":85864011,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2144479752,
+    41.411857605,
+    2.2144479752,
+    41.411857605
+],
+  "geometry": {"coordinates":[2.2144479752,41.411857605],"type":"Point"}
+}

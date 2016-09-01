@@ -1,0 +1,59 @@
+{
+  "id": 1007745149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.8875179291,43.2400665283,-2.8875179291,43.2400665283",
+    "geom:latitude":43.240067,
+    "geom:longitude":-2.887518,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pozokoetxe, 12",
+    "sg:city":"Basauri",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cl\u00cdnicas Dentales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 40 34 02",
+    "sg:postcode":"48970",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799203,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11kcIdzKVOOBqsbMKbdvj7_43.240067_-2.887518@1306269563"
+    },
+    "wof:country":"ES",
+    "wof:created":1472583410,
+    "wof:geomhash":"1d4212ac0420d88d0d6bffd834b96d17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799203,
+            "region_id":85682879,
+            "venue_id":1007745149
+        }
+    ],
+    "wof:id":1007745149,
+    "wof:lastmodified":1472583410,
+    "wof:name":"Jose Luis Y Juan Carlos Arbide Iturriaga, C.b.",
+    "wof:parent_id":85799203,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.8875179291,
+    43.2400665283,
+    -2.8875179291,
+    43.2400665283
+],
+  "geometry": {"coordinates":[-2.8875179291,43.2400665283],"type":"Point"}
+}

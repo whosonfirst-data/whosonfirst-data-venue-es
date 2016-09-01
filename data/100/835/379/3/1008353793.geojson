@@ -1,0 +1,67 @@
+{
+  "id": 1008353793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1137690544,41.3939628601,2.1137690544,41.3939628601",
+    "geom:latitude":41.393963,
+    "geom:longitude":2.113769,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Pedralbes, 57",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 03 78 13",
+    "sg:postcode":"08034",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799605,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5caDB79v63vUaONdrTNSsX_41.393963_2.113769@1306269642"
+    },
+    "wof:country":"ES",
+    "wof:created":1472623684,
+    "wof:geomhash":"b4b12845eb03ad6f8bafc8189b91fc64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799605,
+            "region_id":85682663,
+            "venue_id":1008353793
+        }
+    ],
+    "wof:id":1008353793,
+    "wof:lastmodified":1472623684,
+    "wof:name":"Ribas Barange Francisco",
+    "wof:parent_id":85799605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1137690544,
+    41.3939628601,
+    2.1137690544,
+    41.3939628601
+],
+  "geometry": {"coordinates":[2.1137690544,41.3939628601],"type":"Point"}
+}

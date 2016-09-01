@@ -1,0 +1,63 @@
+{
+  "id": 1007810027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.188229084,41.3806877136,2.188229084,41.3806877136",
+    "geom:latitude":41.380688,
+    "geom:longitude":2.188229,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Maquinista, 9",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 19 27 26",
+    "sg:postcode":"08003",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ecKKuU7VvTavH5WcLj4js_41.380688_2.188229@1306269571"
+    },
+    "wof:country":"ES",
+    "wof:created":1472586844,
+    "wof:geomhash":"5c19d4268dd63c7d518bc07065170c1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":1007810027
+        }
+    ],
+    "wof:id":1007810027,
+    "wof:lastmodified":1472586844,
+    "wof:name":"Linares Bertolin Gaspar",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.188229084,
+    41.3806877136,
+    2.188229084,
+    41.3806877136
+],
+  "geometry": {"coordinates":[2.188229084,41.3806877136],"type":"Point"}
+}

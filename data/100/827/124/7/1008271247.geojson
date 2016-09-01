@@ -1,0 +1,78 @@
+{
+  "id": 1008271247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7025399208,40.4132537842,-3.7025399208,40.4132537842",
+    "geom:latitude":40.413254,
+    "geom:longitude":-3.70254,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Luis Velez De Guevara, 8",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asesor\u00cda Sobre Comunicaci\u00d3n De Empresas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 29 46 31",
+    "sg:postcode":"28012",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863793,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63TwUEV1MHdyDvkmXN1BKM_40.413254_-3.702540@1306269631"
+    },
+    "wof:country":"ES",
+    "wof:created":1472617166,
+    "wof:geomhash":"dbc6da914e690a52c38a776a6c128bc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863793,
+            "region_id":85682783,
+            "venue_id":1008271247
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863685,
+            "region_id":85682783,
+            "venue_id":1008271247
+        }
+    ],
+    "wof:id":1008271247,
+    "wof:lastmodified":1472617166,
+    "wof:name":"Presencia Internacional",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7025399208,
+    40.4132537842,
+    -3.7025399208,
+    40.4132537842
+],
+  "geometry": {"coordinates":[-3.7025399208,40.4132537842],"type":"Point"}
+}

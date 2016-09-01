@@ -1,0 +1,82 @@
+{
+  "id": 1008528791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6799519062,40.4256401062,-3.6799519062,40.4256401062",
+    "geom:latitude":40.42564,
+    "geom:longitude":-3.679952,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Principe De Vergara, 26",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 76 21 61",
+    "sg:postcode":"28001",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "salas",
+        "de",
+        "cine"
+    ],
+    "sg:website":"www.guidelocio.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863675,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HDnYNC24Khq3VZafRRIl8_40.425640_-3.679952@1306269666"
+    },
+    "wof:country":"ES",
+    "wof:created":1472631206,
+    "wof:geomhash":"2b786b017c40661debe34f89037849fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863675,
+            "region_id":85682783,
+            "venue_id":1008528791
+        }
+    ],
+    "wof:id":1008528791,
+    "wof:lastmodified":1472631206,
+    "wof:name":"Sirvepi S. A.",
+    "wof:parent_id":85863675,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salas",
+        "de",
+        "cine"
+    ]
+},
+  "bbox": [
+    -3.6799519062,
+    40.4256401062,
+    -3.6799519062,
+    40.4256401062
+],
+  "geometry": {"coordinates":[-3.6799519062,40.4256401062],"type":"Point"}
+}

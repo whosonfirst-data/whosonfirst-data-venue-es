@@ -1,0 +1,59 @@
+{
+  "id": 1007684705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.479501605,38.3616447449,-0.479501605,38.3616447449",
+    "geom:latitude":38.361645,
+    "geom:longitude":-0.479502,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Alonso Cano, 16",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reciclaje Y Tratamiento De Desechos Varios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 25 72 43",
+    "sg:postcode":"03012",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864065,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NUotpL4L9v6xok4ld7EpX_38.361645_-0.479502@1306269554"
+    },
+    "wof:country":"ES",
+    "wof:created":1472580235,
+    "wof:geomhash":"8359d948742b1679d1b8e288f6920568",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864065,
+            "region_id":85682625,
+            "venue_id":1007684705
+        }
+    ],
+    "wof:id":1007684705,
+    "wof:lastmodified":1472580235,
+    "wof:name":"Ingenieria Urbana S. A.",
+    "wof:parent_id":85864065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.479501605,
+    38.3616447449,
+    -0.479501605,
+    38.3616447449
+],
+  "geometry": {"coordinates":[-0.479501605,38.3616447449],"type":"Point"}
+}

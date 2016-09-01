@@ -1,0 +1,67 @@
+{
+  "id": 1008120251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1430609226,41.398639679,2.1430609226,41.398639679",
+    "geom:latitude":41.39864,
+    "geom:longitude":2.143061,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Via Augusta, 161",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 09 33 20",
+    "sg:postcode":"08021",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799611,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dFoZkXipuqqrT8jERbfql_41.398640_2.143061@1306269611"
+    },
+    "wof:country":"ES",
+    "wof:created":1472600398,
+    "wof:geomhash":"09165341bdc805264361ffc7ad7d923a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799611,
+            "region_id":85682663,
+            "venue_id":1008120251
+        }
+    ],
+    "wof:id":1008120251,
+    "wof:lastmodified":1472600398,
+    "wof:name":"Oliva Casas Josep",
+    "wof:parent_id":85799611,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1430609226,
+    41.398639679,
+    2.1430609226,
+    41.398639679
+],
+  "geometry": {"coordinates":[2.1430609226,41.398639679],"type":"Point"}
+}

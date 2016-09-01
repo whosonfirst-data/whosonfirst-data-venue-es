@@ -1,0 +1,78 @@
+{
+  "id": 991422901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1816630363,41.3847312927,2.1816630363,41.3847312927",
+    "geom:latitude":41.384731,
+    "geom:longitude":2.181663,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Montcada, 27",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 68 49 22",
+    "sg:postcode":"08003",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "sg:website":"www.galeriacontrast.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WFNDD9h1ZJkmy6tNFoZOS_41.384731_2.181663@1306269483"
+    },
+    "wof:country":"ES",
+    "wof:created":1472550106,
+    "wof:geomhash":"066661507df30dbdd18d4bea66af982b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":991422901
+        }
+    ],
+    "wof:id":991422901,
+    "wof:lastmodified":1472550106,
+    "wof:name":"Contrast 27 S.l.",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    2.1816630363,
+    41.3847312927,
+    2.1816630363,
+    41.3847312927
+],
+  "geometry": {"coordinates":[2.1816630363,41.3847312927],"type":"Point"}
+}

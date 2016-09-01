@@ -1,0 +1,81 @@
+{
+  "id": 1008581019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6582171917,40.3848304749,-3.6582171917,40.3848304749",
+    "geom:latitude":40.38483,
+    "geom:longitude":-3.658217,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Puerto Del Milagro, 6",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 80 81 73",
+    "sg:postcode":"28018",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "televisiones",
+        "y",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863733,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FpVSSB14WGhxgSQleQvgf_40.384830_-3.658217@1306269673"
+    },
+    "wof:country":"ES",
+    "wof:created":1472633414,
+    "wof:geomhash":"b5414efdc1593667b192934b7919758b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863733,
+            "region_id":85682783,
+            "venue_id":1008581019
+        }
+    ],
+    "wof:id":1008581019,
+    "wof:lastmodified":1472633414,
+    "wof:name":"Taller De Comunicacion Radio Vallecas",
+    "wof:parent_id":85863733,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "televisiones",
+        "y",
+        "radio"
+    ]
+},
+  "bbox": [
+    -3.6582171917,
+    40.3848304749,
+    -3.6582171917,
+    40.3848304749
+],
+  "geometry": {"coordinates":[-3.6582171917,40.3848304749],"type":"Point"}
+}

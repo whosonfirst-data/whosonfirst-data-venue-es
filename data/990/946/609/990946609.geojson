@@ -1,0 +1,81 @@
+{
+  "id": 990946609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.983546257,37.4018554688,-5.983546257,37.4018554688",
+    "geom:latitude":37.401855,
+    "geom:longitude":-5.983546,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Medalla Milagrosa, 28",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 35 66 03",
+    "sg:postcode":"41009",
+    "sg:province":"Sevilla",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864137,
+        102191581,
+        404342947,
+        85633129,
+        404227361,
+        101748225,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gLCxdkYwG1NwSA9zbB33W_37.401855_-5.983546@1306269420"
+    },
+    "wof:country":"ES",
+    "wof:created":1472513587,
+    "wof:geomhash":"0e92d110f463d12bf0cd0062b967928d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864137,
+            "region_id":85682841,
+            "venue_id":990946609
+        }
+    ],
+    "wof:id":990946609,
+    "wof:lastmodified":1472513587,
+    "wof:name":"Alonso Perez Santiago",
+    "wof:parent_id":85864137,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -5.983546257,
+    37.4018554688,
+    -5.983546257,
+    37.4018554688
+],
+  "geometry": {"coordinates":[-5.983546257,37.4018554688],"type":"Point"}
+}

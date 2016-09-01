@@ -1,0 +1,74 @@
+{
+  "id": 991476087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4765309989,38.3597106934,-0.4765309989,38.3597106934",
+    "geom:latitude":38.359711,
+    "geom:longitude":-0.476531,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Felipe Herrero Arias, 14",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alimentaci\u00d3n General (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 20 35 56",
+    "sg:postcode":"03013",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864063,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625,
+        85864065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RSFSh0ql2eEY3iYcb5InH_38.359711_-0.476531@1306269491"
+    },
+    "wof:country":"ES",
+    "wof:created":1472553119,
+    "wof:geomhash":"dbc2d0c89bebb2f14ea2ab3387c185f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864063,
+            "region_id":85682625,
+            "venue_id":991476087
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864065,
+            "region_id":85682625,
+            "venue_id":991476087
+        }
+    ],
+    "wof:id":991476087,
+    "wof:lastmodified":1472553119,
+    "wof:name":"De Gea Matallana Alfonso",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4765309989,
+    38.3597106934,
+    -0.4765309989,
+    38.3597106934
+],
+  "geometry": {"coordinates":[-0.4765309989,38.3597106934],"type":"Point"}
+}

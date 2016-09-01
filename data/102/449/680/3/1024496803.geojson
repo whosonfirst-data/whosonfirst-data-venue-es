@@ -1,0 +1,78 @@
+{
+  "id": 1024496803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.647013,40.456586,-3.647013,40.456586",
+    "geom:latitude":40.456586,
+    "geom:longitude":-3.647013,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle Toronga 23",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"28043",
+    "sg:tags":[
+        "mobile",
+        "mobile-marketing"
+    ],
+    "sg:website":"http://veedia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799409,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HCdREoNjuBMbWxOpsQaaO_40.456586_-3.647013@1308163238"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641482,
+    "wof:geomhash":"62ce9b4f0f858c13ca161571eb1f2208",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799409,
+            "region_id":85682783,
+            "venue_id":1024496803
+        }
+    ],
+    "wof:id":1024496803,
+    "wof:lastmodified":1472641482,
+    "wof:name":"Veedia",
+    "wof:parent_id":85799409,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "mobile-marketing"
+    ]
+},
+  "bbox": [
+    -3.647013,
+    40.456586,
+    -3.647013,
+    40.456586
+],
+  "geometry": {"coordinates":[-3.647013,40.456586],"type":"Point"}
+}

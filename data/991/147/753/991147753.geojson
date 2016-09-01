@@ -1,0 +1,81 @@
+{
+  "id": 991147753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8834289908,41.6406745911,-0.8834289908,41.6406745911",
+    "geom:latitude":41.640675,
+    "geom:longitude":-0.883429,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Tenor Fleta, 24",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 38 57 60",
+    "sg:postcode":"50007",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863361,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xakxvLzOJOHnbKOFcJpAS_41.640675_-0.883429@1306269447"
+    },
+    "wof:country":"ES",
+    "wof:created":1472531741,
+    "wof:geomhash":"48defbcc676cd2c6909b9d319fdd2099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863361,
+            "region_id":85682891,
+            "venue_id":991147753
+        }
+    ],
+    "wof:id":991147753,
+    "wof:lastmodified":1472531741,
+    "wof:name":"Biarge Rey Enrique",
+    "wof:parent_id":85863361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -0.8834289908,
+    41.6406745911,
+    -0.8834289908,
+    41.6406745911
+],
+  "geometry": {"coordinates":[-0.8834289908,41.6406745911],"type":"Point"}
+}

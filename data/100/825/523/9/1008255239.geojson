@@ -1,0 +1,67 @@
+{
+  "id": 1008255239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1200098991,41.3946533203,2.1200098991,41.3946533203",
+    "geom:latitude":41.394653,
+    "geom:longitude":2.12001,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Enric Gimenez, 4",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alimentaci\u00d3n General (al Por Mayor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 05 53 19",
+    "sg:postcode":"08034",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799605,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wnq7GigjmbuLGF5eV6raU_41.394653_2.120010@1306269629"
+    },
+    "wof:country":"ES",
+    "wof:created":1472616304,
+    "wof:geomhash":"8fba8a1bd065a7ec0065be3930ea18a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799605,
+            "region_id":85682663,
+            "venue_id":1008255239
+        }
+    ],
+    "wof:id":1008255239,
+    "wof:lastmodified":1472616304,
+    "wof:name":"Poballe S. A.",
+    "wof:parent_id":85799605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1200098991,
+    41.3946533203,
+    2.1200098991,
+    41.3946533203
+],
+  "geometry": {"coordinates":[2.1200098991,41.3946533203],"type":"Point"}
+}

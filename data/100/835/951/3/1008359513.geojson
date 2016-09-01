@@ -1,0 +1,78 @@
+{
+  "id": 1008359513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1580901146,41.3895645142,2.1580901146,41.3895645142",
+    "geom:latitude":41.389565,
+    "geom:longitude":2.15809,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Aribau, 82",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Molduras, Junquillos, Listones Y Molduras Perforadas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 54 06 38",
+    "sg:postcode":"08036",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864021,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IpaWNYRaa9xGrG9GSaFbz_41.389565_2.158090@1306269643"
+    },
+    "wof:country":"ES",
+    "wof:created":1472623912,
+    "wof:geomhash":"643d6c7fd091d566edea2f9849412e82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864021,
+            "region_id":85682663,
+            "venue_id":1008359513
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864017,
+            "region_id":85682663,
+            "venue_id":1008359513
+        }
+    ],
+    "wof:id":1008359513,
+    "wof:lastmodified":1472623912,
+    "wof:name":"Rio Alvarez Emilio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1580901146,
+    41.3895645142,
+    2.1580901146,
+    41.3895645142
+],
+  "geometry": {"coordinates":[2.1580901146,41.3895645142],"type":"Point"}
+}

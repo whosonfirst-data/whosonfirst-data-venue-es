@@ -1,0 +1,74 @@
+{
+  "id": 991424023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.3846831322,36.7314834595,-4.3846831322,36.7314834595",
+    "geom:latitude":36.731483,
+    "geom:longitude":-4.384683,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Flamencos, S/n",
+    "sg:city":"Malaga",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 20 03 38",
+    "sg:postcode":"29018",
+    "sg:province":"M\u00e1laga",
+    "sg:tags":[
+        "organismos",
+        "control"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101748185,
+        85863509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65zfS9hwPK45O4krum9UQm_36.731483_-4.384683@1306269484"
+    },
+    "wof:country":"ES",
+    "wof:created":1472550177,
+    "wof:geomhash":"9890472c1bda610d984a0bd1886d4ec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748185,
+            "neighbourhood_id":85863509,
+            "region_id":-1,
+            "venue_id":991424023
+        }
+    ],
+    "wof:id":991424023,
+    "wof:lastmodified":1472550177,
+    "wof:name":"Control Tecnico Y Prevencion De Riesgos S.a.",
+    "wof:parent_id":85863509,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organismos",
+        "control"
+    ]
+},
+  "bbox": [
+    -4.3846831322,
+    36.7314834595,
+    -4.3846831322,
+    36.7314834595
+],
+  "geometry": {"coordinates":[-4.3846831322,36.7314834595],"type":"Point"}
+}

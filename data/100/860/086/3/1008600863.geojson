@@ -1,0 +1,66 @@
+{
+  "id": 1008600863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.391369611,39.4863777161,-0.391369611,39.4863777161",
+    "geom:latitude":39.486378,
+    "geom:longitude":-0.39137,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Monestir De Poblet, 4",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mec\u00c1nico Del Autom\u00d3vil",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 47 81 87",
+    "sg:postcode":"46015",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864227,
+        85682867,
+        85799211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZOEzNnKnG1NoEkoHaXX3x_39.486378_-0.391370@1306269675"
+    },
+    "wof:country":"ES",
+    "wof:created":1472634294,
+    "wof:geomhash":"fa0de2e4cfabee1b846acfd0940fce12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864227,
+            "region_id":85682867,
+            "venue_id":1008600863
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799211,
+            "region_id":85682867,
+            "venue_id":1008600863
+        }
+    ],
+    "wof:id":1008600863,
+    "wof:lastmodified":1472634294,
+    "wof:name":"Tatay Llop Vicente",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.391369611,
+    39.4863777161,
+    -0.391369611,
+    39.4863777161
+],
+  "geometry": {"coordinates":[-0.391369611,39.4863777161],"type":"Point"}
+}

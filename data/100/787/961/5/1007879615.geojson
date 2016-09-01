@@ -1,0 +1,63 @@
+{
+  "id": 1007879615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-8.2352676392,43.4824180603,-8.2352676392,43.4824180603",
+    "geom:latitude":43.482418,
+    "geom:longitude":-8.235268,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rua Magdalena, 153",
+    "sg:city":"Ferrol",
+    "sg:classifiers":[],
+    "sg:orig_category":"Organizaciones Internacionales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 981 30 03 18",
+    "sg:postcode":"15402",
+    "sg:province":"La Coru\u00f1a",
+    "sg:website":"www.manosunidas.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101748407,
+        85799423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ReftIShgiGNQcMh0LORjY_43.482418_-8.235268@1306269580"
+    },
+    "wof:country":"ES",
+    "wof:created":1472590070,
+    "wof:geomhash":"4db9422a03ec46aae872caaddb3c39ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748407,
+            "neighbourhood_id":85799423,
+            "region_id":-1,
+            "venue_id":1007879615
+        }
+    ],
+    "wof:id":1007879615,
+    "wof:lastmodified":1472590070,
+    "wof:name":"Manos Unidas",
+    "wof:parent_id":85799423,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.2352676392,
+    43.4824180603,
+    -8.2352676392,
+    43.4824180603
+],
+  "geometry": {"coordinates":[-8.2352676392,43.4824180603],"type":"Point"}
+}

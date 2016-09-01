@@ -1,0 +1,73 @@
+{
+  "id": 1007780309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.8839957714,43.2521095276,-2.8839957714,43.2521095276",
+    "geom:latitude":43.25211,
+    "geom:longitude":-2.883996,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Andalucia, 2",
+    "sg:city":"Kukullaga",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 26 94 94",
+    "sg:postcode":"48450",
+    "sg:province":"Vizcaya",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799203,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CUngqpry415nfbSBJiMjr_43.252110_-2.883996@1306269567"
+    },
+    "wof:country":"ES",
+    "wof:created":1472585241,
+    "wof:geomhash":"10cf580291af07b9901c4bd2874b3af3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799203,
+            "region_id":85682879,
+            "venue_id":1007780309
+        }
+    ],
+    "wof:id":1007780309,
+    "wof:lastmodified":1472585241,
+    "wof:name":"Laguna Baca Vanesa",
+    "wof:parent_id":85799203,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -2.8839957714,
+    43.2521095276,
+    -2.8839957714,
+    43.2521095276
+],
+  "geometry": {"coordinates":[-2.8839957714,43.2521095276],"type":"Point"}
+}

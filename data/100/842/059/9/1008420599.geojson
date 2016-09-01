@@ -1,0 +1,78 @@
+{
+  "id": 1008420599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7063128948,40.4244384766,-3.7063128948,40.4244384766",
+    "geom:latitude":40.424438,
+    "geom:longitude":-3.706313,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Minas, 5",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Frutas, Legumbres Frescas Y Tempranas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 32 70 64",
+    "sg:postcode":"28004",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863665,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QzIOI9ypCShpJrBheUS27_40.424438_-3.706313@1306269651"
+    },
+    "wof:country":"ES",
+    "wof:created":1472626705,
+    "wof:geomhash":"9e9e2a00c6bedf054add9913446a6e0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863665,
+            "region_id":85682783,
+            "venue_id":1008420599
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863791,
+            "region_id":85682783,
+            "venue_id":1008420599
+        }
+    ],
+    "wof:id":1008420599,
+    "wof:lastmodified":1472626705,
+    "wof:name":"Ruiz Garcia Manuel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7063128948,
+    40.4244384766,
+    -3.7063128948,
+    40.4244384766
+],
+  "geometry": {"coordinates":[-3.7063128948,40.4244384766],"type":"Point"}
+}

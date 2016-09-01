@@ -1,0 +1,80 @@
+{
+  "id": 1008728931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0691230297,41.3724365234,2.0691230297,41.3724365234",
+    "geom:latitude":41.372437,
+    "geom:longitude":2.069123,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Antoni Gaudi, 3",
+    "sg:city":"S. Joan Despi",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c9dicos: Estomatolog\u00cda",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 77 10 31",
+    "sg:postcode":"08970",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799591,
+        102191581,
+        404331371,
+        85633129,
+        404227379,
+        101758753,
+        85682663,
+        85799381,
+        404331349,
+        101758769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BUmrKVozcfpkKuIEwSe5Z_41.372437_2.069123@1306269692"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639800,
+    "wof:geomhash":"a0cc3c6d7b0508f5c989f1c74a6c3417",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331371,
+            "locality_id":101758753,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799591,
+            "region_id":85682663,
+            "venue_id":1008728931
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331349,
+            "locality_id":101758769,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799381,
+            "region_id":85682663,
+            "venue_id":1008728931
+        }
+    ],
+    "wof:id":1008728931,
+    "wof:lastmodified":1472639800,
+    "wof:name":"Vila Mancho Emma",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0691230297,
+    41.3724365234,
+    2.0691230297,
+    41.3724365234
+],
+  "geometry": {"coordinates":[2.0691230297,41.3724365234],"type":"Point"}
+}

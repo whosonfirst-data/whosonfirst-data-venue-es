@@ -1,0 +1,78 @@
+{
+  "id": 1007884243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1625099182,41.381061554,2.1625099182,41.381061554",
+    "geom:latitude":41.381062,
+    "geom:longitude":2.16251,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Villarroel, 14",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros Empresariales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 23 61 63",
+    "sg:postcode":"08011",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864035,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LDMNKOuFaTEP9EquASNf3_41.381062_2.162510@1306269580"
+    },
+    "wof:country":"ES",
+    "wof:created":1472590248,
+    "wof:geomhash":"f2161cda478fa0ee8a5daeaf1374b563",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864035,
+            "region_id":85682663,
+            "venue_id":1007884243
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864027,
+            "region_id":85682663,
+            "venue_id":1007884243
+        }
+    ],
+    "wof:id":1007884243,
+    "wof:lastmodified":1472590248,
+    "wof:name":"Manuel Y Caty Colon Asociados S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1625099182,
+    41.381061554,
+    2.1625099182,
+    41.381061554
+],
+  "geometry": {"coordinates":[2.1625099182,41.381061554],"type":"Point"}
+}

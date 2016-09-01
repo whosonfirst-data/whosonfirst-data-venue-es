@@ -1,0 +1,68 @@
+{
+  "id": 1008673019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7240519524,40.4372024536,-3.7240519524,40.4372024536",
+    "geom:latitude":40.437202,
+    "geom:longitude":-3.724052,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Seneca, 2",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Universidades",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 52 04 00",
+    "sg:postcode":"28...",
+    "sg:province":"Madrid",
+    "sg:website":"www.ucm.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863655,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YtjHiptnrf2mEydPVONjh_40.437202_-3.724052@1306269685"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637319,
+    "wof:geomhash":"f8f44045478a0af59552e847ac4507c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863655,
+            "region_id":85682783,
+            "venue_id":1008673019
+        }
+    ],
+    "wof:id":1008673019,
+    "wof:lastmodified":1472637319,
+    "wof:name":"Universidad Complutense De Madrid",
+    "wof:parent_id":85863655,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7240519524,
+    40.4372024536,
+    -3.7240519524,
+    40.4372024536
+],
+  "geometry": {"coordinates":[-3.7240519524,40.4372024536],"type":"Point"}
+}

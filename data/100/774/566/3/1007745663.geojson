@@ -1,0 +1,59 @@
+{
+  "id": 1007745663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9137189388,43.2498931885,-2.9137189388,43.2498931885",
+    "geom:latitude":43.249893,
+    "geom:longitude":-2.913719,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Santa Cecilia, 4",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cristaler\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 12 35 35",
+    "sg:postcode":"48004",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799199,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3InHvECxG4AIntUa8R7e5U_43.249893_-2.913719@1306269563"
+    },
+    "wof:country":"ES",
+    "wof:created":1472583438,
+    "wof:geomhash":"714248a6ab6d85d3fecd890b1c2c56fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799199,
+            "region_id":85682879,
+            "venue_id":1007745663
+        }
+    ],
+    "wof:id":1007745663,
+    "wof:lastmodified":1472583438,
+    "wof:name":"Jose Maria Barrenechea Vega (cristaleria El Carmen)",
+    "wof:parent_id":85799199,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9137189388,
+    43.2498931885,
+    -2.9137189388,
+    43.2498931885
+],
+  "geometry": {"coordinates":[-2.9137189388,43.2498931885],"type":"Point"}
+}

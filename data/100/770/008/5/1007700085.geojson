@@ -1,0 +1,67 @@
+{
+  "id": 1007700085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.0096867085,43.308265686,-3.0096867085,43.308265686",
+    "geom:latitude":43.308266,
+    "geom:longitude":-3.009687,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Blas De Otero, 8",
+    "sg:city":"Sestao",
+    "sg:classifiers":[],
+    "sg:orig_category":"Seguridad Social",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 95 31 34",
+    "sg:postcode":"48910",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799675,
+        102191581,
+        404345933,
+        85633129,
+        404227393,
+        101748387,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32JbHVxkexdeVAmPGy2CiY_43.308266_-3.009687@1306269557"
+    },
+    "wof:country":"ES",
+    "wof:created":1472580972,
+    "wof:geomhash":"f2079040f2fb3b583cbff897f819192c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345933,
+            "locality_id":101748387,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85799675,
+            "region_id":85682879,
+            "venue_id":1007700085
+        }
+    ],
+    "wof:id":1007700085,
+    "wof:lastmodified":1472580972,
+    "wof:name":"Instituto Nacional De La Seguridad Social",
+    "wof:parent_id":85799675,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.0096867085,
+    43.308265686,
+    -3.0096867085,
+    43.308265686
+],
+  "geometry": {"coordinates":[-3.0096867085,43.308265686],"type":"Point"}
+}

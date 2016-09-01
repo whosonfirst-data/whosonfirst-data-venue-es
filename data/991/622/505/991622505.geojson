@@ -1,0 +1,67 @@
+{
+  "id": 991622505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3294019997,39.4648704529,-0.3294019997,39.4648704529",
+    "geom:latitude":39.46487,
+    "geom:longitude":-0.329402,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Reina, 25",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 24 30 51",
+    "sg:postcode":"46011",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864199,
+        102191581,
+        404345361,
+        85633129,
+        404227381,
+        101748241,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06gaWVzcCfQQKLcxAmzj3G_39.464870_-0.329402@1306269510"
+    },
+    "wof:country":"ES",
+    "wof:created":1472561429,
+    "wof:geomhash":"d3a39d127da717aa61568720fc5bcfd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345361,
+            "locality_id":101748241,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864199,
+            "region_id":85682867,
+            "venue_id":991622505
+        }
+    ],
+    "wof:id":991622505,
+    "wof:lastmodified":1472561429,
+    "wof:name":"Farmacia Reina 25 C.b.",
+    "wof:parent_id":85864199,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3294019997,
+    39.4648704529,
+    -0.3294019997,
+    39.4648704529
+],
+  "geometry": {"coordinates":[-0.3294019997,39.4648704529],"type":"Point"}
+}

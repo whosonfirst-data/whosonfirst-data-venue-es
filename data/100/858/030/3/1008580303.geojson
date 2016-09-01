@@ -1,0 +1,67 @@
+{
+  "id": 1008580303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.179639101,41.3853645325,2.179639101,41.3853645325",
+    "geom:latitude":41.385365,
+    "geom:longitude":2.179639,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Boquer, 3",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asociaciones, Organismos Culturales Y Socioeducativos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 19 60 69",
+    "sg:postcode":"08003",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799447,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zc0RLI1GteX1eq68dS22r_41.385365_2.179639@1306269673"
+    },
+    "wof:country":"ES",
+    "wof:created":1472633386,
+    "wof:geomhash":"db9dd4cb0d8e91631e055aaf4d44140a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799447,
+            "region_id":85682663,
+            "venue_id":1008580303
+        }
+    ],
+    "wof:id":1008580303,
+    "wof:lastmodified":1472633386,
+    "wof:name":"Taleia Cultura S.l.",
+    "wof:parent_id":85799447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.179639101,
+    41.3853645325,
+    2.179639101,
+    41.3853645325
+],
+  "geometry": {"coordinates":[2.179639101,41.3853645325],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 991872703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7066500187,40.4094238281,-3.7066500187,40.4094238281",
+    "geom:latitude":40.409424,
+    "geom:longitude":-3.70665,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Cayetano, 6",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 68 25 00",
+    "sg:postcode":"28005",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863793,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pnL0Hk1AWloqtA96zIO9m_40.409424_-3.706650@1306269543"
+    },
+    "wof:country":"ES",
+    "wof:created":1472576049,
+    "wof:geomhash":"74333d8a8a6a3b9cc6852099d3857e38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863793,
+            "region_id":85682783,
+            "venue_id":991872703
+        }
+    ],
+    "wof:id":991872703,
+    "wof:lastmodified":1472576049,
+    "wof:name":"Gutierrez Manchon Atienza Antonio",
+    "wof:parent_id":85863793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    -3.7066500187,
+    40.4094238281,
+    -3.7066500187,
+    40.4094238281
+],
+  "geometry": {"coordinates":[-3.7066500187,40.4094238281],"type":"Point"}
+}

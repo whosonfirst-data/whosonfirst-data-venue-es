@@ -1,0 +1,68 @@
+{
+  "id": 1008716803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.640994072,40.4360733032,-3.640994072,40.4360733032",
+    "geom:latitude":40.436073,
+    "geom:longitude":-3.640994,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Vicente Espinel, 3",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 67 13 00",
+    "sg:postcode":"28017",
+    "sg:province":"Madrid",
+    "sg:website":"www.viajesredondo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863639,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Tm2TDNjSKTOEwXlVIOSye_40.436073_-3.640994@1306269691"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639300,
+    "wof:geomhash":"60158102481a539061cae2d54034a2e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863639,
+            "region_id":85682783,
+            "venue_id":1008716803
+        }
+    ],
+    "wof:id":1008716803,
+    "wof:lastmodified":1472639300,
+    "wof:name":"Viajes Redondo S. A.",
+    "wof:parent_id":85863639,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.640994072,
+    40.4360733032,
+    -3.640994072,
+    40.4360733032
+],
+  "geometry": {"coordinates":[-3.640994072,40.4360733032],"type":"Point"}
+}

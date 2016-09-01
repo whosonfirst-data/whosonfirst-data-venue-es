@@ -1,0 +1,81 @@
+{
+  "id": 1008376845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6452560425,40.4278869629,-3.6452560425,40.4278869629",
+    "geom:latitude":40.427887,
+    "geom:longitude":-3.645256,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Guillen De Castro, 3",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 07 00 26",
+    "sg:postcode":"28017",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863695,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_110tXd0Hy0PwrZYrtYDLNn_40.427887_-3.645256@1306269645"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624641,
+    "wof:geomhash":"e4511eaa652994e076d1297dfed4c74e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863695,
+            "region_id":85682783,
+            "venue_id":1008376845
+        }
+    ],
+    "wof:id":1008376845,
+    "wof:lastmodified":1472624641,
+    "wof:name":"Rodriguez Del Rio Juan Luis",
+    "wof:parent_id":85863695,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.6452560425,
+    40.4278869629,
+    -3.6452560425,
+    40.4278869629
+],
+  "geometry": {"coordinates":[-3.6452560425,40.4278869629],"type":"Point"}
+}

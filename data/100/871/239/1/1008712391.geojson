@@ -1,0 +1,60 @@
+{
+  "id": 1008712391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8307199478,40.3371391296,-3.8307199478,40.3371391296",
+    "geom:latitude":40.337139,
+    "geom:longitude":-3.83072,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Retamas (las), 26",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 86 11 55",
+    "sg:postcode":"28922",
+    "sg:province":"Madrid",
+    "sg:website":"www.viajeselcorteingles.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yKfc7VqaYuCPYTi65eqW3_40.337139_-3.830720@1306269690"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639104,
+    "wof:geomhash":"136b6c0e4a3417266badd88879095da8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008712391
+        }
+    ],
+    "wof:id":1008712391,
+    "wof:lastmodified":1472639104,
+    "wof:name":"Viajes El Corte Ingles S.a.",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8307199478,
+    40.3371391296,
+    -3.8307199478,
+    40.3371391296
+],
+  "geometry": {"coordinates":[-3.8307199478,40.3371391296],"type":"Point"}
+}

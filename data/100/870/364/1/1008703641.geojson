@@ -1,0 +1,59 @@
+{
+  "id": 1008703641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8578490019,41.6593589783,-0.8578490019,41.6593589783",
+    "geom:latitude":41.659359,
+    "geom:longitude":-0.857849,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Manuel Viola, 11",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias Y Agentes Comerciales, Representantes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 47 60 19",
+    "sg:postcode":"50014",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863327,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gKqFWUNF8B5YwPfEbDYnt_41.659359_-0.857849@1306269689"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638696,
+    "wof:geomhash":"f48e64da79ca1ae9d497d1a119e6a40f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863327,
+            "region_id":85682891,
+            "venue_id":1008703641
+        }
+    ],
+    "wof:id":1008703641,
+    "wof:lastmodified":1472638696,
+    "wof:name":"Velazquez Toro Luis Gonzaga",
+    "wof:parent_id":85863327,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8578490019,
+    41.6593589783,
+    -0.8578490019,
+    41.6593589783
+],
+  "geometry": {"coordinates":[-0.8578490019,41.6593589783],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1008699805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8194859028,40.3359031677,-3.8194859028,40.3359031677",
+    "geom:latitude":40.335903,
+    "geom:longitude":-3.819486,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Industrias, 85",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electrodom\u00c9sticos (fabricaci\u00d3n, Al Por Mayor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 41 04 13",
+    "sg:postcode":"28925",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3N7Of2slo2KI0ihCUwm441_40.335903_-3.819486@1306269689"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638501,
+    "wof:geomhash":"fda0371d050265d3422cc4487b3bc449",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008699805
+        }
+    ],
+    "wof:id":1008699805,
+    "wof:lastmodified":1472638501,
+    "wof:name":"Vegalsa S.a.",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8194859028,
+    40.3359031677,
+    -3.8194859028,
+    40.3359031677
+],
+  "geometry": {"coordinates":[-3.8194859028,40.3359031677],"type":"Point"}
+}

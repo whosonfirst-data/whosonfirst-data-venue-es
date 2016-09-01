@@ -1,0 +1,61 @@
+{
+  "id": 1007726145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5772387981,40.4731483459,-3.5772387981,40.4731483459",
+    "geom:latitude":40.473148,
+    "geom:longitude":-3.577239,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Camarillas, 5",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros Empresariales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 01 00 81",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        102545773,
+        85863587,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76BJDfa7A4MzcKfZgx0BvV_40.473148_-3.577239@1306269560"
+    },
+    "wof:country":"ES",
+    "wof:created":1472582272,
+    "wof:geomhash":"0bb092c383970f1a826a5a4982b12f88",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545773,
+            "country_id":85633129,
+            "neighbourhood_id":85863587,
+            "region_id":85682783,
+            "venue_id":1007726145
+        }
+    ],
+    "wof:id":1007726145,
+    "wof:lastmodified":1472582272,
+    "wof:name":"Jesus Dominguez Y Mario Pallo C.b.",
+    "wof:parent_id":102545773,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5772387981,
+    40.4731483459,
+    -3.5772387981,
+    40.4731483459
+],
+  "geometry": {"coordinates":[-3.5772387981,40.4731483459],"type":"Point"}
+}

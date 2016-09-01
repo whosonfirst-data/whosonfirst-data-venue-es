@@ -1,0 +1,78 @@
+{
+  "id": 1008427489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.790512085,37.8811950684,-4.790512085,37.8811950684",
+    "geom:latitude":37.881195,
+    "geom:longitude":-4.790512,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Alderetes (los), 1",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[],
+    "sg:orig_category":"Zapatos (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 41 19 84",
+    "sg:postcode":"14004",
+    "sg:province":"C\u00f3rdoba",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863883,
+        102191581,
+        404333687,
+        85633129,
+        404227361,
+        101748233,
+        85682697,
+        85863885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Md1lAJAY3tXkk0HMxomc1_37.881195_-4.790512@1306269652"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627097,
+    "wof:geomhash":"41bf4fef9d5d3397fcf61ee99a89af96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863883,
+            "region_id":85682697,
+            "venue_id":1008427489
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863885,
+            "region_id":85682697,
+            "venue_id":1008427489
+        }
+    ],
+    "wof:id":1008427489,
+    "wof:lastmodified":1472627097,
+    "wof:name":"R.v. Calzados S.c",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.790512085,
+    37.8811950684,
+    -4.790512085,
+    37.8811950684
+],
+  "geometry": {"coordinates":[-4.790512085,37.8811950684],"type":"Point"}
+}

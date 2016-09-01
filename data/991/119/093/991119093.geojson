@@ -1,0 +1,67 @@
+{
+  "id": 991119093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6641507149,40.4302482605,-3.6641507149,40.4302482605",
+    "geom:latitude":40.430248,
+    "geom:longitude":-3.664151,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Alejandro Gonzalez, 2",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicio De Salud",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 26 47 01",
+    "sg:postcode":"28028",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863683,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7k5b1FmFiCuS2QQDyyP1Lt_40.430248_-3.664151@1306269443"
+    },
+    "wof:country":"ES",
+    "wof:created":1472528291,
+    "wof:geomhash":"b63a862f04182d7369853a7334da6f4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863683,
+            "region_id":85682783,
+            "venue_id":991119093
+        }
+    ],
+    "wof:id":991119093,
+    "wof:lastmodified":1472528291,
+    "wof:name":"Barroso Medina Jesus",
+    "wof:parent_id":85863683,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6641507149,
+    40.4302482605,
+    -3.6641507149,
+    40.4302482605
+],
+  "geometry": {"coordinates":[-3.6641507149,40.4302482605],"type":"Point"}
+}

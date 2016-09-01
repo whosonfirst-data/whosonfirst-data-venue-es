@@ -1,0 +1,59 @@
+{
+  "id": 1007811061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5716099739,40.4523963928,-3.5716099739,40.4523963928",
+    "geom:latitude":40.452396,
+    "geom:longitude":-3.57161,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de 5 Norte, S/n",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aeropuertos Y Servicios Aeroportuarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 85 01 27",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863629,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bbql04XIz0UIqOHjpPJQD_40.452396_-3.571610@1306269571"
+    },
+    "wof:country":"ES",
+    "wof:created":1472586904,
+    "wof:geomhash":"55bb929b887d4f7b9bcf6e4c4882cbf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863629,
+            "region_id":85682783,
+            "venue_id":1007811061
+        }
+    ],
+    "wof:id":1007811061,
+    "wof:lastmodified":1472586904,
+    "wof:name":"Lineas Aereas Alaire",
+    "wof:parent_id":85863629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5716099739,
+    40.4523963928,
+    -3.5716099739,
+    40.4523963928
+],
+  "geometry": {"coordinates":[-3.5716099739,40.4523963928],"type":"Point"}
+}

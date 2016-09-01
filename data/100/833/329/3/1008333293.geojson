@@ -1,0 +1,59 @@
+{
+  "id": 1008333293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7904319763,43.4633407593,-3.7904319763,43.4633407593",
+    "geom:latitude":43.463341,
+    "geom:longitude":-3.790432,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Castelar, 45",
+    "sg:city":"Santander",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pr\u00c9stamos Personales E Hipotecarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 31 88 99",
+    "sg:postcode":"39004",
+    "sg:province":"Cantabria",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799303,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OrBmUT33dZWc9tFCdqDmR_43.463341_-3.790432@1306269640"
+    },
+    "wof:country":"ES",
+    "wof:created":1472622758,
+    "wof:geomhash":"9865073d874d6c284e6170eec10c84f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799303,
+            "region_id":85682833,
+            "venue_id":1008333293
+        }
+    ],
+    "wof:id":1008333293,
+    "wof:lastmodified":1472622758,
+    "wof:name":"Registro De La Propiedad N-1",
+    "wof:parent_id":85799303,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7904319763,
+    43.4633407593,
+    -3.7904319763,
+    43.4633407593
+],
+  "geometry": {"coordinates":[-3.7904319763,43.4633407593],"type":"Point"}
+}

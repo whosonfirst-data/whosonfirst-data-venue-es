@@ -1,0 +1,60 @@
+{
+  "id": 1007969123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8654453754,41.6773796082,-0.8654453754,41.6773796082",
+    "geom:latitude":41.67738,
+    "geom:longitude":-0.865445,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de David Fahrenheit, 22",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Muebles",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 52 59 77",
+    "sg:postcode":"50015",
+    "sg:province":"Zaragoza",
+    "sg:website":"www.mecux.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863293,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GtFtdi2ck9T2BSzoqH0NI_41.677380_-0.865445@1306269591"
+    },
+    "wof:country":"ES",
+    "wof:created":1472593921,
+    "wof:geomhash":"96659ed0e1d6657805cb3001b2d24144",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863293,
+            "region_id":85682891,
+            "venue_id":1007969123
+        }
+    ],
+    "wof:id":1007969123,
+    "wof:lastmodified":1472593921,
+    "wof:name":"Mecux Oficinas S. L.",
+    "wof:parent_id":85863293,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8654453754,
+    41.6773796082,
+    -0.8654453754,
+    41.6773796082
+],
+  "geometry": {"coordinates":[-0.8654453754,41.6773796082],"type":"Point"}
+}

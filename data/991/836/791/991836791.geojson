@@ -1,0 +1,81 @@
+{
+  "id": 991836791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9946699142,43.2907066345,-2.9946699142,43.2907066345",
+    "geom:latitude":43.290707,
+    "geom:longitude":-2.99467,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Andalucia, 8",
+    "sg:city":"San Vicente De Barakaldo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 85 03 33",
+    "sg:postcode":"48902",
+    "sg:province":"Vizcaya",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799675,
+        102191581,
+        404345933,
+        85633129,
+        404227393,
+        101748387,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cTxUKe2pqfNX9yRBIwlYQ_43.290707_-2.994670@1306269539"
+    },
+    "wof:country":"ES",
+    "wof:created":1472573982,
+    "wof:geomhash":"7e8186ba04cc0e29a18406d58851a798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345933,
+            "locality_id":101748387,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85799675,
+            "region_id":85682879,
+            "venue_id":991836791
+        }
+    ],
+    "wof:id":991836791,
+    "wof:lastmodified":1472573982,
+    "wof:name":"Gonzalez Valencia Deogracias Alvaro",
+    "wof:parent_id":85799675,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -2.9946699142,
+    43.2907066345,
+    -2.9946699142,
+    43.2907066345
+],
+  "geometry": {"coordinates":[-2.9946699142,43.2907066345],"type":"Point"}
+}

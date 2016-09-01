@@ -1,0 +1,67 @@
+{
+  "id": 1007687539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.979861021,41.4736785889,1.979861021,41.4736785889",
+    "geom:latitude":41.473679,
+    "geom:longitude":1.979861,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Miquel Blanch, 6",
+    "sg:city":"Castellbisbal",
+    "sg:classifiers":[],
+    "sg:orig_category":"Inmobiliaria (agencias)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 72 08 94",
+    "sg:postcode":"08755",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864241,
+        102191581,
+        404331315,
+        85633129,
+        404227379,
+        101758749,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vYAIcrN2dzIXhQMYQXJuU_41.473679_1.979861@1306269555"
+    },
+    "wof:country":"ES",
+    "wof:created":1472580381,
+    "wof:geomhash":"0abd05ffe78677daafbceb14fa789235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331315,
+            "locality_id":101758749,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864241,
+            "region_id":85682663,
+            "venue_id":1007687539
+        }
+    ],
+    "wof:id":1007687539,
+    "wof:lastmodified":1472580381,
+    "wof:name":"Inmobiliaria Compast S.l.",
+    "wof:parent_id":85864241,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.979861021,
+    41.4736785889,
+    1.979861021,
+    41.4736785889
+],
+  "geometry": {"coordinates":[1.979861021,41.4736785889],"type":"Point"}
+}

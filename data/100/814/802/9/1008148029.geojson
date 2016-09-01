@@ -1,0 +1,67 @@
+{
+  "id": 1008148029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1895880699,41.428691864,2.1895880699,41.428691864",
+    "geom:latitude":41.428692,
+    "geom:longitude":2.189588,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sant Ildefons, 33",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ingeniero",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 11 17 06",
+    "sg:postcode":"08030",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863995,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73HHIZ8mxd5aje3IvMALin_41.428692_2.189588@1306269614"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601750,
+    "wof:geomhash":"1be55ee28dc5274d66972284d07a0839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863995,
+            "region_id":85682663,
+            "venue_id":1008148029
+        }
+    ],
+    "wof:id":1008148029,
+    "wof:lastmodified":1472601750,
+    "wof:name":"Pacheco Parejo Josefina",
+    "wof:parent_id":85863995,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1895880699,
+    41.428691864,
+    2.1895880699,
+    41.428691864
+],
+  "geometry": {"coordinates":[2.1895880699,41.428691864],"type":"Point"}
+}

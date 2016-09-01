@@ -1,0 +1,81 @@
+{
+  "id": 1008630083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1636691093,41.3951797485,2.1636691093,41.3951797485",
+    "geom:latitude":41.39518,
+    "geom:longitude":2.163669,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Pau Claris, 161",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 15 11 63",
+    "sg:postcode":"08037",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864017,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2A7cPalp4LqCZerKkE9xyA_41.395180_2.163669@1306269679"
+    },
+    "wof:country":"ES",
+    "wof:created":1472635550,
+    "wof:geomhash":"0a66b4b7db1d63b06cd624505927cdc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864017,
+            "region_id":85682663,
+            "venue_id":1008630083
+        }
+    ],
+    "wof:id":1008630083,
+    "wof:lastmodified":1472635550,
+    "wof:name":"Tomas Rogel Antonio",
+    "wof:parent_id":85864017,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.1636691093,
+    41.3951797485,
+    2.1636691093,
+    41.3951797485
+],
+  "geometry": {"coordinates":[2.1636691093,41.3951797485],"type":"Point"}
+}

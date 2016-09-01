@@ -1,0 +1,59 @@
+{
+  "id": 1008502841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6541519165,39.570526123,2.6541519165,39.570526123",
+    "geom:latitude":39.570526,
+    "geom:longitude":2.654152,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pl Mercadal, 7",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bazares, Art\u00cdculos De Limpieza Y De Cocina (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 71 14 05",
+    "sg:postcode":"07002",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864085,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01yKLbi3IKOQ9wDVZetL5x_39.570526_2.654152@1306269662"
+    },
+    "wof:country":"ES",
+    "wof:created":1472630144,
+    "wof:geomhash":"0625961f9e682ba7c7fc1278b6bbba64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864085,
+            "region_id":85682647,
+            "venue_id":1008502841
+        }
+    ],
+    "wof:id":1008502841,
+    "wof:lastmodified":1472630144,
+    "wof:name":"Serra Comercial Menaje C.b",
+    "wof:parent_id":85864085,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6541519165,
+    39.570526123,
+    2.6541519165,
+    39.570526123
+],
+  "geometry": {"coordinates":[2.6541519165,39.570526123],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1007696995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.116519928,41.3860321045,2.116519928,41.3860321045",
+    "geom:latitude":41.386032,
+    "geom:longitude":2.11652,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Diagonal, 686",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Museos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 80 50 24",
+    "sg:postcode":"08034",
+    "sg:province":"Barcelona",
+    "sg:website":"www.museuartdecorative.bcn.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799283,
+        102191581,
+        404331105,
+        85633129,
+        404227379,
+        101748333,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0g851yRcWzh28VTMvVDyQy_41.386032_2.116520@1306269556"
+    },
+    "wof:country":"ES",
+    "wof:created":1472580816,
+    "wof:geomhash":"917a330133022fd279c49b9dde6742cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331105,
+            "locality_id":101748333,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799283,
+            "region_id":85682663,
+            "venue_id":1007696995
+        }
+    ],
+    "wof:id":1007696995,
+    "wof:lastmodified":1472580816,
+    "wof:name":"Institut De Cultura De Barcelona",
+    "wof:parent_id":85799283,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.116519928,
+    41.3860321045,
+    2.116519928,
+    41.3860321045
+],
+  "geometry": {"coordinates":[2.116519928,41.3860321045],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 991234209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.704816103,40.386089325,-3.704816103,40.386089325",
+    "geom:latitude":40.386089,
+    "geom:longitude":-3.704816,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Marcelo Usera, 68",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Zapatos (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 76 76 08",
+    "sg:postcode":"28026",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863749,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0386cyd2GSo95FgkxqwAiH_40.386089_-3.704816@1306269458"
+    },
+    "wof:country":"ES",
+    "wof:created":1472539240,
+    "wof:geomhash":"8427ef8c65955e81ec0b199619afe4fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863749,
+            "region_id":85682783,
+            "venue_id":991234209
+        }
+    ],
+    "wof:id":991234209,
+    "wof:lastmodified":1472539240,
+    "wof:name":"Calzados Pradillo S.a.",
+    "wof:parent_id":85863749,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.704816103,
+    40.386089325,
+    -3.704816103,
+    40.386089325
+],
+  "geometry": {"coordinates":[-3.704816103,40.386089325],"type":"Point"}
+}

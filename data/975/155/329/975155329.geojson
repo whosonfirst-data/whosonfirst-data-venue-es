@@ -1,0 +1,78 @@
+{
+  "id": 975155329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6585698128,40.3929824829,-3.6585698128,40.3929824829",
+    "geom:latitude":40.392982,
+    "geom:longitude":-3.65857,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Josefa Diaz, 2",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Casquer\u00cda (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 77 27 95",
+    "sg:postcode":"28038",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863721,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PnFiXpjio2H9OzEy5lvec_40.392982_-3.658570@1306269411"
+    },
+    "wof:country":"ES",
+    "wof:created":1472507462,
+    "wof:geomhash":"b664b89d80a28eda963ea731ed409fd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863721,
+            "region_id":85682783,
+            "venue_id":975155329
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863733,
+            "region_id":85682783,
+            "venue_id":975155329
+        }
+    ],
+    "wof:id":975155329,
+    "wof:lastmodified":1472507462,
+    "wof:name":"Acero Acero Francisco",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6585698128,
+    40.3929824829,
+    -3.6585698128,
+    40.3929824829
+],
+  "geometry": {"coordinates":[-3.6585698128,40.3929824829],"type":"Point"}
+}

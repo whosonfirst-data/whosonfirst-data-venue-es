@@ -1,0 +1,59 @@
+{
+  "id": 1008000289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.09938097,41.5553207397,2.09938097,41.5553207397",
+    "geom:latitude":41.555321,
+    "geom:longitude":2.099381,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Riera Villaret, 14",
+    "sg:city":"Sabadell",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ense\u00d1anza: Comercio, Gesti\u00d3n, Inform\u00c1tica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 23 33 19",
+    "sg:postcode":"08208",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GcpewF9jvjBXXikzqq4sE_41.555321_2.099381@1306269595"
+    },
+    "wof:country":"ES",
+    "wof:created":1472595208,
+    "wof:geomhash":"733d0659a760b5223a056d42373680ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008000289
+        }
+    ],
+    "wof:id":1008000289,
+    "wof:lastmodified":1472595208,
+    "wof:name":"Mimo Codina Margarita",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.09938097,
+    41.5553207397,
+    2.09938097,
+    41.5553207397
+],
+  "geometry": {"coordinates":[2.09938097,41.5553207397],"type":"Point"}
+}

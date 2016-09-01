@@ -1,0 +1,76 @@
+{
+  "id": 1024496843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.651077,39.5857533,2.651077,39.5857533",
+    "geom:latitude":39.585753,
+    "geom:longitude":2.651077,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carretera de Valldemossa km 7,4 ParcBIT Edifici 17 D-9",
+    "sg:city":"Palma de Mallorca",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"07121",
+    "sg:tags":[
+        "contractors",
+        "construction",
+        "architecture",
+        "interior-design",
+        "renovation"
+    ],
+    "sg:website":"http://www.habitissimo.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864091,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LDwhqJMJc1Okd3PUbOeTZ_39.585753_2.651077@1308163242"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641484,
+    "wof:geomhash":"873fefccd0441d06e2c4769689b8c85a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":1024496843
+        }
+    ],
+    "wof:id":1024496843,
+    "wof:lastmodified":1472641484,
+    "wof:name":"Habitissimo",
+    "wof:parent_id":85864091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractors",
+        "construction",
+        "architecture",
+        "interior-design",
+        "renovation"
+    ]
+},
+  "bbox": [
+    2.651077,
+    39.5857533,
+    2.651077,
+    39.5857533
+],
+  "geometry": {"coordinates":[2.651077,39.5857533],"type":"Point"}
+}

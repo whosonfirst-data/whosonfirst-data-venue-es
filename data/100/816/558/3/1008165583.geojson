@@ -1,0 +1,67 @@
+{
+  "id": 1008165583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1443920135,41.3981742859,2.1443920135,41.3981742859",
+    "geom:latitude":41.398174,
+    "geom:longitude":2.144392,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Muntaner, 340",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 09 19 41",
+    "sg:postcode":"08021",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799611,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tXdQjyc4lyvDC5lGAuiEW_41.398174_2.144392@1306269617"
+    },
+    "wof:country":"ES",
+    "wof:created":1472603309,
+    "wof:geomhash":"d15514a3d594f896b4747137d450cd23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799611,
+            "region_id":85682663,
+            "venue_id":1008165583
+        }
+    ],
+    "wof:id":1008165583,
+    "wof:lastmodified":1472603309,
+    "wof:name":"Para Martin Antonio",
+    "wof:parent_id":85799611,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1443920135,
+    41.3981742859,
+    2.1443920135,
+    41.3981742859
+],
+  "geometry": {"coordinates":[2.1443920135,41.3981742859],"type":"Point"}
+}

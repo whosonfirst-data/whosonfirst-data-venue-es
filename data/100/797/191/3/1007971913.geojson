@@ -1,0 +1,81 @@
+{
+  "id": 1007971913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0846850872,41.3613624573,2.0846850872,41.3613624573",
+    "geom:latitude":41.361362,
+    "geom:longitude":2.084685,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Gerdera, 4",
+    "sg:city":"Cornella Llobregat",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 76 23 46",
+    "sg:postcode":"08940",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799283,
+        102191581,
+        404331105,
+        85633129,
+        404227379,
+        101748333,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oGF3rFxET4wrqT3DQOKQC_41.361362_2.084685@1306269591"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594034,
+    "wof:geomhash":"6f8f39556b08d95bb6b7c2743673a5a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331105,
+            "locality_id":101748333,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799283,
+            "region_id":85682663,
+            "venue_id":1007971913
+        }
+    ],
+    "wof:id":1007971913,
+    "wof:lastmodified":1472594034,
+    "wof:name":"Medina Tenorio Serafin",
+    "wof:parent_id":85799283,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.0846850872,
+    41.3613624573,
+    2.0846850872,
+    41.3613624573
+],
+  "geometry": {"coordinates":[2.0846850872,41.3613624573],"type":"Point"}
+}

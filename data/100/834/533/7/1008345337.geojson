@@ -1,0 +1,59 @@
+{
+  "id": 1008345337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1641769409,41.6309204102,2.1641769409,41.6309204102",
+    "geom:latitude":41.63092,
+    "geom:longitude":2.164177,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Font I Boet, 16",
+    "sg:city":"Caldes Montbui",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asilos De Ancianos. Centros Privados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 938 65 49 94",
+    "sg:postcode":"08140",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799453,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LeF9fXlfIQHSvSxZsmSjw_41.630920_2.164177@1306269641"
+    },
+    "wof:country":"ES",
+    "wof:created":1472623294,
+    "wof:geomhash":"d45e30b90affd98e11ce2f952cc48146",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799453,
+            "region_id":85682663,
+            "venue_id":1008345337
+        }
+    ],
+    "wof:id":1008345337,
+    "wof:lastmodified":1472623294,
+    "wof:name":"Residencia Santa Susana",
+    "wof:parent_id":85799453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1641769409,
+    41.6309204102,
+    2.1641769409,
+    41.6309204102
+],
+  "geometry": {"coordinates":[2.1641769409,41.6309204102],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1008311789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1451160908,41.3767280579,2.1451160908,41.3767280579",
+    "geom:latitude":41.376728,
+    "geom:longitude":2.145116,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Cai Celi, 9",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electricidad: Equipos Industriales, Componentes (fabricaci\u00d3n)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 24 20 49",
+    "sg:postcode":"08014",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864027,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2m9aM4eHhxfnKPD2mVUOqL_41.376728_2.145116@1306269637"
+    },
+    "wof:country":"ES",
+    "wof:created":1472621860,
+    "wof:geomhash":"f9d037959f1d0b7111515fb4434b6d0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864027,
+            "region_id":85682663,
+            "venue_id":1008311789
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864021,
+            "region_id":85682663,
+            "venue_id":1008311789
+        }
+    ],
+    "wof:id":1008311789,
+    "wof:lastmodified":1472621860,
+    "wof:name":"Ralux Sa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1451160908,
+    41.3767280579,
+    2.1451160908,
+    41.3767280579
+],
+  "geometry": {"coordinates":[2.1451160908,41.3767280579],"type":"Point"}
+}

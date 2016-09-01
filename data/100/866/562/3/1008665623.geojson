@@ -1,0 +1,60 @@
+{
+  "id": 1008665623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1739730835,41.3907775879,2.1739730835,41.3907775879",
+    "geom:latitude":41.390778,
+    "geom:longitude":2.173973,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Bruc, 21",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aeropuertos Y Servicios Aeroportuarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 01 23 65",
+    "sg:postcode":"08010",
+    "sg:province":"Barcelona",
+    "sg:website":"www.ukraine-international.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f5pCWrJTsye3KCHsSht2g_41.390778_2.173973@1306269684"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637042,
+    "wof:geomhash":"7e0dd6f7b04de2e8b16f714968818153",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008665623
+        }
+    ],
+    "wof:id":1008665623,
+    "wof:lastmodified":1472637042,
+    "wof:name":"Ukraine Internacional Airlines",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1739730835,
+    41.3907775879,
+    2.1739730835,
+    41.3907775879
+],
+  "geometry": {"coordinates":[2.1739730835,41.3907775879],"type":"Point"}
+}

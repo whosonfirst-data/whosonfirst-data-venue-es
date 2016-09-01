@@ -1,0 +1,78 @@
+{
+  "id": 1008131465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7366440296,40.3765335083,-3.7366440296,40.3765335083",
+    "geom:latitude":40.376534,
+    "geom:longitude":-3.736644,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Anocibar, S/n",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros De Educaci\u00d3n Especial",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 65 20 70",
+    "sg:postcode":"28025",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863819,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Zc2YCk3Mtc2KDuUee1K2Y_40.376534_-3.736644@1306269612"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601026,
+    "wof:geomhash":"789dbfe59d01c1b9f712d10be5c4a726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863819,
+            "region_id":85682783,
+            "venue_id":1008131465
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863761,
+            "region_id":85682783,
+            "venue_id":1008131465
+        }
+    ],
+    "wof:id":1008131465,
+    "wof:lastmodified":1472601026,
+    "wof:name":"Organismo Autonomo De Informatica Y Comunicaciones De La Comunidad De Madrid",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7366440296,
+    40.3765335083,
+    -3.7366440296,
+    40.3765335083
+],
+  "geometry": {"coordinates":[-3.7366440296,40.3765335083],"type":"Point"}
+}

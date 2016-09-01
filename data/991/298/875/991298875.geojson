@@ -1,0 +1,81 @@
+{
+  "id": 991298875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6396179199,39.5713539124,2.6396179199,39.5713539124",
+    "geom:latitude":39.571354,
+    "geom:longitude":2.639618,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Annibal, 4",
+    "sg:city":"Palma",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 73 45 19",
+    "sg:postcode":"07013",
+    "sg:province":"Islas Baleares",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864117,
+        102191581,
+        404330817,
+        85633129,
+        404227367,
+        101748237,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gPgPKVKk8On3fKNZwNkmD_39.571354_2.639618@1306269467"
+    },
+    "wof:country":"ES",
+    "wof:created":1472542590,
+    "wof:geomhash":"f2cbb6fbd1559f20f1fc5864c193c67b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864117,
+            "region_id":85682647,
+            "venue_id":991298875
+        }
+    ],
+    "wof:id":991298875,
+    "wof:lastmodified":1472542590,
+    "wof:name":"Catala Roig Miguel",
+    "wof:parent_id":85864117,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.6396179199,
+    39.5713539124,
+    2.6396179199,
+    39.5713539124
+],
+  "geometry": {"coordinates":[2.6396179199,39.5713539124],"type":"Point"}
+}

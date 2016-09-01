@@ -1,0 +1,81 @@
+{
+  "id": 990942595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6523389816,39.5799751282,2.6523389816,39.5799751282",
+    "geom:latitude":39.579975,
+    "geom:longitude":2.652339,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de 31 De Desembre, 27",
+    "sg:city":"Palma",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 75 01 64",
+    "sg:postcode":"07003",
+    "sg:province":"Islas Baleares",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864097,
+        102191581,
+        404330817,
+        85633129,
+        404227367,
+        101748237,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20acMpharrGkDY3B0R0h3Z_39.579975_2.652339@1306269419"
+    },
+    "wof:country":"ES",
+    "wof:created":1472512778,
+    "wof:geomhash":"2efb0b56238441bfb5447e3d0defa09c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864097,
+            "region_id":85682647,
+            "venue_id":990942595
+        }
+    ],
+    "wof:id":990942595,
+    "wof:lastmodified":1472512778,
+    "wof:name":"Alomar Tarongi Rafael",
+    "wof:parent_id":85864097,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.6523389816,
+    39.5799751282,
+    2.6523389816,
+    39.5799751282
+],
+  "geometry": {"coordinates":[2.6523389816,39.5799751282],"type":"Point"}
+}

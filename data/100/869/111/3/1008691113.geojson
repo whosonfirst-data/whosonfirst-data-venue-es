@@ -1,0 +1,67 @@
+{
+  "id": 1008691113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3670647144,39.453338623,-0.3670647144,39.453338623",
+    "geom:latitude":39.453339,
+    "geom:longitude":-0.367065,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Sollana, 24",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 74 76 27",
+    "sg:postcode":"46013",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864201,
+        102191581,
+        404345361,
+        85633129,
+        404227381,
+        101748241,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3H8Imns7ZLce0Gm48LOW05_39.453339_-0.367065@1306269687"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638120,
+    "wof:geomhash":"cac02d3db86f95a0d78f2ca86ae704aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345361,
+            "locality_id":101748241,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864201,
+            "region_id":85682867,
+            "venue_id":1008691113
+        }
+    ],
+    "wof:id":1008691113,
+    "wof:lastmodified":1472638120,
+    "wof:name":"Vanaclocha Luna Nuria",
+    "wof:parent_id":85864201,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3670647144,
+    39.453338623,
+    -0.3670647144,
+    39.453338623
+],
+  "geometry": {"coordinates":[-0.3670647144,39.453338623],"type":"Point"}
+}

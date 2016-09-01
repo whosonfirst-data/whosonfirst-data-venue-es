@@ -1,0 +1,67 @@
+{
+  "id": 1008100523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6533243656,40.4625434875,-3.6533243656,40.4625434875",
+    "geom:latitude":40.462543,
+    "geom:longitude":-3.653324,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Carril Del Conde, 100",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 00 30 25",
+    "sg:postcode":"28043",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863595,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OOUFsionGET6q3wIWLjcY_40.462543_-3.653324@1306269608"
+    },
+    "wof:country":"ES",
+    "wof:created":1472599549,
+    "wof:geomhash":"26fc2ce789bd56c925e4fe942aba2ff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863595,
+            "region_id":85682783,
+            "venue_id":1008100523
+        }
+    ],
+    "wof:id":1008100523,
+    "wof:lastmodified":1472599549,
+    "wof:name":"Noriega Rangel Esperanza",
+    "wof:parent_id":85863595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6533243656,
+    40.4625434875,
+    -3.6533243656,
+    40.4625434875
+],
+  "geometry": {"coordinates":[-3.6533243656,40.4625434875],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 991563347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.7497839928,37.8872909546,-4.7497839928,37.8872909546",
+    "geom:latitude":37.887291,
+    "geom:longitude":-4.749784,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Azabache, 10",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aguas (distribuci\u00d3n, Servicios)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 43 62 40",
+    "sg:postcode":"14014",
+    "sg:province":"C\u00f3rdoba",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863903,
+        102191581,
+        404333687,
+        85633129,
+        404227361,
+        101753677,
+        85682697,
+        85863905,
+        101748233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MJKtN4Y0W85GGYgcAgaj8_37.887291_-4.749784@1306269502"
+    },
+    "wof:country":"ES",
+    "wof:created":1472557876,
+    "wof:geomhash":"e786617be9072568bd22a07097f37483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101753677,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863903,
+            "region_id":85682697,
+            "venue_id":991563347
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863905,
+            "region_id":85682697,
+            "venue_id":991563347
+        }
+    ],
+    "wof:id":991563347,
+    "wof:lastmodified":1472557876,
+    "wof:name":"Empresa Municipal De Aguas De Cordoba S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7497839928,
+    37.8872909546,
+    -4.7497839928,
+    37.8872909546
+],
+  "geometry": {"coordinates":[-4.7497839928,37.8872909546],"type":"Point"}
+}

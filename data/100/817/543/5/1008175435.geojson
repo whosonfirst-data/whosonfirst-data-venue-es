@@ -1,0 +1,67 @@
+{
+  "id": 1008175435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7418649197,40.3797454834,-3.7418649197,40.3797454834",
+    "geom:latitude":40.379745,
+    "geom:longitude":-3.741865,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Parroquia, 1",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Iglesia Cat\u00d3lica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 62 85 36",
+    "sg:postcode":"28025",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863819,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2te8MeTn5ImIAQyYvv808V_40.379745_-3.741865@1306269618"
+    },
+    "wof:country":"ES",
+    "wof:created":1472604652,
+    "wof:geomhash":"82ca57d622d75f328305a27bfcef3c8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863819,
+            "region_id":85682783,
+            "venue_id":1008175435
+        }
+    ],
+    "wof:id":1008175435,
+    "wof:lastmodified":1472604652,
+    "wof:name":"Parroquia De San Sebastian Martir",
+    "wof:parent_id":85863819,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7418649197,
+    40.3797454834,
+    -3.7418649197,
+    40.3797454834
+],
+  "geometry": {"coordinates":[-3.7418649197,40.3797454834],"type":"Point"}
+}

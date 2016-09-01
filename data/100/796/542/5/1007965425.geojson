@@ -1,0 +1,72 @@
+{
+  "id": 1007965425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.171339035,41.4066696167,2.171339035,41.4066696167",
+    "geom:latitude":41.40667,
+    "geom:longitude":2.171339,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Marina, 305",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 47 83 26",
+    "sg:postcode":"08025",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863999,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07i09q14jEJBmANPnzmoB1_41.406670_2.171339@1306269590"
+    },
+    "wof:country":"ES",
+    "wof:created":1472593771,
+    "wof:geomhash":"10e644692ff93f32b1fb610e97469e0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863999,
+            "region_id":85682663,
+            "venue_id":1007965425
+        }
+    ],
+    "wof:id":1007965425,
+    "wof:lastmodified":1472593771,
+    "wof:name":"Ma\u00f1es Julian Jose",
+    "wof:parent_id":85863999,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.171339035,
+    41.4066696167,
+    2.171339035,
+    41.4066696167
+],
+  "geometry": {"coordinates":[2.171339035,41.4066696167],"type":"Point"}
+}

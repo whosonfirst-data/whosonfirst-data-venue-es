@@ -1,0 +1,67 @@
+{
+  "id": 1008567069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.155495882,41.4013786316,2.155495882,41.4013786316",
+    "geom:latitude":41.401379,
+    "geom:longitude":2.155496,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sant Joaquim, 27",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electricidad: Instaladores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 17 60 26",
+    "sg:postcode":"08012",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799393,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oSAhWru2mEXScivCKycRj_41.401379_2.155496@1306269671"
+    },
+    "wof:country":"ES",
+    "wof:created":1472632844,
+    "wof:geomhash":"d6f0a812db865f36167319715ded59ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799393,
+            "region_id":85682663,
+            "venue_id":1008567069
+        }
+    ],
+    "wof:id":1008567069,
+    "wof:lastmodified":1472632844,
+    "wof:name":"Sues Borras Ramon",
+    "wof:parent_id":85799393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.155495882,
+    41.4013786316,
+    2.155495882,
+    41.4013786316
+],
+  "geometry": {"coordinates":[2.155495882,41.4013786316],"type":"Point"}
+}

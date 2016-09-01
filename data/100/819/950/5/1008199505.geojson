@@ -1,0 +1,81 @@
+{
+  "id": 1008199505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6985032558,40.4480133057,-3.6985032558,40.4480133057",
+    "geom:latitude":40.448013,
+    "geom:longitude":-3.698503,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Comandante Zorita, 10",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 35 04 14",
+    "sg:postcode":"28020",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799245,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FEpPWBcxYp4eOTtDYBBeU_40.448013_-3.698503@1306269622"
+    },
+    "wof:country":"ES",
+    "wof:created":1472609437,
+    "wof:geomhash":"b74d37326f17530c4b526f4f5640e213",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799245,
+            "region_id":85682783,
+            "venue_id":1008199505
+        }
+    ],
+    "wof:id":1008199505,
+    "wof:lastmodified":1472609437,
+    "wof:name":"Peluqueria Alcavi C.b.",
+    "wof:parent_id":85799245,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.6985032558,
+    40.4480133057,
+    -3.6985032558,
+    40.4480133057
+],
+  "geometry": {"coordinates":[-3.6985032558,40.4480133057],"type":"Point"}
+}

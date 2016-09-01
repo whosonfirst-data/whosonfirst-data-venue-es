@@ -1,0 +1,59 @@
+{
+  "id": 1007755529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6477398872,39.5836105347,2.6477398872,39.5836105347",
+    "geom:latitude":39.583611,
+    "geom:longitude":2.64774,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sant Joaquim, 28",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Peluquer\u00cdas, Peluquer\u00cda Mixta",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 29 37 81",
+    "sg:postcode":"07010",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864091,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Zk21gKos6ZDOgcmlHoLcK_39.583611_2.647740@1306269564"
+    },
+    "wof:country":"ES",
+    "wof:created":1472584002,
+    "wof:geomhash":"c7be5d3bd39cea3768362be66c570bf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":1007755529
+        }
+    ],
+    "wof:id":1007755529,
+    "wof:lastmodified":1472584002,
+    "wof:name":"Juan Valenzuela Isabel",
+    "wof:parent_id":85864091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6477398872,
+    39.5836105347,
+    2.6477398872,
+    39.5836105347
+],
+  "geometry": {"coordinates":[2.6477398872,39.5836105347],"type":"Point"}
+}

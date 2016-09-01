@@ -1,0 +1,72 @@
+{
+  "id": 991055243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0820031166,41.3844223022,2.0820031166,41.3844223022",
+    "geom:latitude":41.384422,
+    "geom:longitude":2.082003,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sant Ferran, 16",
+    "sg:city":"S. Just Desvern",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 71 96 61",
+    "sg:postcode":"08960",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799591,
+        102191581,
+        404331371,
+        85633129,
+        404227379,
+        101758753,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ruEj0Rw06x87543S1IbIQ_41.384422_2.082003@1306269434"
+    },
+    "wof:country":"ES",
+    "wof:created":1472523296,
+    "wof:geomhash":"a39da0c5e2e8a0bb2aec17024246723d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331371,
+            "locality_id":101758753,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799591,
+            "region_id":85682663,
+            "venue_id":991055243
+        }
+    ],
+    "wof:id":991055243,
+    "wof:lastmodified":1472523296,
+    "wof:name":"Autoescolas La Campana S.c.p.",
+    "wof:parent_id":85799591,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0820031166,
+    41.3844223022,
+    2.0820031166,
+    41.3844223022
+],
+  "geometry": {"coordinates":[2.0820031166,41.3844223022],"type":"Point"}
+}

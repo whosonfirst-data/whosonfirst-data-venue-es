@@ -1,0 +1,59 @@
+{
+  "id": 1007807921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4860689938,38.3529014587,-0.4860689938,38.3529014587",
+    "geom:latitude":38.352901,
+    "geom:longitude":-0.486069,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Alcoy, 91",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bazares, Art\u00cdculos De Limpieza Y De Cocina (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 25 28 55",
+    "sg:postcode":"03009",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864065,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32xTi91ZnR60uKjdBOUzD5_38.352901_-0.486069@1306269571"
+    },
+    "wof:country":"ES",
+    "wof:created":1472586737,
+    "wof:geomhash":"2ef53806fa2002c47a6fc291bd416941",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864065,
+            "region_id":85682625,
+            "venue_id":1007807921
+        }
+    ],
+    "wof:id":1007807921,
+    "wof:lastmodified":1472586737,
+    "wof:name":"Lillo Ferrandiz Juan",
+    "wof:parent_id":85864065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4860689938,
+    38.3529014587,
+    -0.4860689938,
+    38.3529014587
+],
+  "geometry": {"coordinates":[-0.4860689938,38.3529014587],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1008655021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1744399071,41.3804473877,2.1744399071,41.3804473877",
+    "geom:latitude":41.380447,
+    "geom:longitude":2.17444,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Ferran, 6",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bares, Piano",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 01 74 18",
+    "sg:postcode":"08002",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864033,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gJx77EMM48rFFttEmHQvz_41.380447_2.174440@1306269683"
+    },
+    "wof:country":"ES",
+    "wof:created":1472636601,
+    "wof:geomhash":"0d9d1f0bb1e0f2e63ac769956dbaab77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864033,
+            "region_id":85682663,
+            "venue_id":1008655021
+        }
+    ],
+    "wof:id":1008655021,
+    "wof:lastmodified":1472636601,
+    "wof:name":"Tresimpex S.a.",
+    "wof:parent_id":85864033,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1744399071,
+    41.3804473877,
+    2.1744399071,
+    41.3804473877
+],
+  "geometry": {"coordinates":[2.1744399071,41.3804473877],"type":"Point"}
+}

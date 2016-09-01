@@ -1,0 +1,66 @@
+{
+  "id": 1008396917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5375680923,40.4264640808,-3.5375680923,40.4264640808",
+    "geom:latitude":40.426464,
+    "geom:longitude":-3.537568,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Ca\u00d1ada (de La), 15",
+    "sg:city":"Coslada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cristaler\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 72 92 60",
+    "sg:postcode":"28820",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863709,
+        85682783,
+        85863631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cVTO68zutgqYrDksAmfyj_40.426464_-3.537568@1306269648"
+    },
+    "wof:country":"ES",
+    "wof:created":1472625595,
+    "wof:geomhash":"bbb2cd65a403d8c9509e1b222b37c236",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863709,
+            "region_id":85682783,
+            "venue_id":1008396917
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863631,
+            "region_id":85682783,
+            "venue_id":1008396917
+        }
+    ],
+    "wof:id":1008396917,
+    "wof:lastmodified":1472625595,
+    "wof:name":"Roman Luna Julio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5375680923,
+    40.4264640808,
+    -3.5375680923,
+    40.4264640808
+],
+  "geometry": {"coordinates":[-3.5375680923,40.4264640808],"type":"Point"}
+}

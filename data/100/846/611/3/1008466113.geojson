@@ -1,0 +1,72 @@
+{
+  "id": 1008466113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0472180843,41.3821411133,2.0472180843,41.3821411133",
+    "geom:latitude":41.382141,
+    "geom:longitude":2.047218,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Vidal I Ribas, 30",
+    "sg:city":"Sant Feliu Llobregat",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 936 66 20 53",
+    "sg:postcode":"08980",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799381,
+        102191581,
+        404331349,
+        85633129,
+        404227379,
+        101758769,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EZEnyvW9CFz5m044kQeJd_41.382141_2.047218@1306269657"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628548,
+    "wof:geomhash":"d5f1017669c0ec474b5f90d3ff759842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331349,
+            "locality_id":101758769,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799381,
+            "region_id":85682663,
+            "venue_id":1008466113
+        }
+    ],
+    "wof:id":1008466113,
+    "wof:lastmodified":1472628548,
+    "wof:name":"Sandoval Tosca Alfonso",
+    "wof:parent_id":85799381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0472180843,
+    41.3821411133,
+    2.0472180843,
+    41.3821411133
+],
+  "geometry": {"coordinates":[2.0472180843,41.3821411133],"type":"Point"}
+}

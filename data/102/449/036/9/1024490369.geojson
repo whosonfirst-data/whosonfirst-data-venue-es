@@ -1,0 +1,63 @@
+{
+  "id": 1024490369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1811654568,41.3835678101,2.1811654568,41.3835678101",
+    "geom:latitude":41.383568,
+    "geom:longitude":2.181165,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de L'argenteria, 63",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Zapater\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 10 37 07",
+    "sg:postcode":"08003",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vnEw9a9xUkApksg5nbHrs_41.383568_2.181165@1306269697"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641209,
+    "wof:geomhash":"a825891687cd1144e466b07d2f40acaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":1024490369
+        }
+    ],
+    "wof:id":1024490369,
+    "wof:lastmodified":1472641209,
+    "wof:name":"Zaragoza Egea Dolores",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1811654568,
+    41.3835678101,
+    2.1811654568,
+    41.3835678101
+],
+  "geometry": {"coordinates":[2.1811654568,41.3835678101],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 991282657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7022979259,40.4127845764,-3.7022979259,40.4127845764",
+    "geom:latitude":40.412785,
+    "geom:longitude":-3.702298,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Luis Velez De Guevara, 9",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Transporte En General",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 69 38 16",
+    "sg:postcode":"28012",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863685,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Cwjsn0nJCAMJ92iLcLXKp_40.412785_-3.702298@1306269465"
+    },
+    "wof:country":"ES",
+    "wof:created":1472541856,
+    "wof:geomhash":"cbf2edd9edfa44098c3f92adc5904e0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863685,
+            "region_id":85682783,
+            "venue_id":991282657
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863793,
+            "region_id":85682783,
+            "venue_id":991282657
+        }
+    ],
+    "wof:id":991282657,
+    "wof:lastmodified":1472541856,
+    "wof:name":"Casa Martin S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7022979259,
+    40.4127845764,
+    -3.7022979259,
+    40.4127845764
+],
+  "geometry": {"coordinates":[-3.7022979259,40.4127845764],"type":"Point"}
+}

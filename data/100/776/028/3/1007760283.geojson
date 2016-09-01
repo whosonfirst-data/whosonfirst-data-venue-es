@@ -1,0 +1,78 @@
+{
+  "id": 1007760283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.7770457268,37.8853874207,-4.7770457268,37.8853874207",
+    "geom:latitude":37.885387,
+    "geom:longitude":-4.777046,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Alfonso Xiii, 4",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ense\u00d1anza, Formaci\u00d3n Profesional: Aprendizaje",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 47 94 94",
+    "sg:postcode":"14001",
+    "sg:province":"C\u00f3rdoba",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863901,
+        102191581,
+        404333687,
+        85633129,
+        404227361,
+        101748233,
+        85682697,
+        85863895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tYS6tOS5zWwVlTDNZSrLp_37.885387_-4.777046@1306269565"
+    },
+    "wof:country":"ES",
+    "wof:created":1472584261,
+    "wof:geomhash":"b93e449f19ed071ec9e9ed3f1f5b5025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863901,
+            "region_id":85682697,
+            "venue_id":1007760283
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863895,
+            "region_id":85682697,
+            "venue_id":1007760283
+        }
+    ],
+    "wof:id":1007760283,
+    "wof:lastmodified":1472584261,
+    "wof:name":"Junta De Andalucia",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7770457268,
+    37.8853874207,
+    -4.7770457268,
+    37.8853874207
+],
+  "geometry": {"coordinates":[-4.7770457268,37.8853874207],"type":"Point"}
+}

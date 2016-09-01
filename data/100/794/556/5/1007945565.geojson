@@ -1,0 +1,67 @@
+{
+  "id": 1007945565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6223852634,40.3797645569,-3.6223852634,40.3797645569",
+    "geom:latitude":40.379765,
+    "geom:longitude":-3.622385,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Manuel Velez, 4",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alimentaci\u00d3n General (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 03 93 73",
+    "sg:postcode":"28031",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863725,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IjPgAz2twxggnC5py0BEi_40.379765_-3.622385@1306269588"
+    },
+    "wof:country":"ES",
+    "wof:created":1472592943,
+    "wof:geomhash":"323c91bb8fd83332e7be719491088900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863725,
+            "region_id":85682783,
+            "venue_id":1007945565
+        }
+    ],
+    "wof:id":1007945565,
+    "wof:lastmodified":1472592943,
+    "wof:name":"Martin Ricote Serafin",
+    "wof:parent_id":85863725,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6223852634,
+    40.3797645569,
+    -3.6223852634,
+    40.3797645569
+],
+  "geometry": {"coordinates":[-3.6223852634,40.3797645569],"type":"Point"}
+}

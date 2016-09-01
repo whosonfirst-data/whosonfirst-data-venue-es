@@ -1,0 +1,59 @@
+{
+  "id": 1008007469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6529726982,39.5832099915,2.6529726982,39.5832099915",
+    "geom:latitude":39.58321,
+    "geom:longitude":2.652973,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Capitan Salom, 12",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electrodom\u00c9sticos (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 75 19 48",
+    "sg:postcode":"07004",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864091,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hppXiftS4e2lQyf3WCljM_39.583210_2.652973@1306269595"
+    },
+    "wof:country":"ES",
+    "wof:created":1472595515,
+    "wof:geomhash":"a2eb32b24ff039f25db4150db7159231",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":1008007469
+        }
+    ],
+    "wof:id":1008007469,
+    "wof:lastmodified":1472595515,
+    "wof:name":"Mirna Decoracion S.a.",
+    "wof:parent_id":85864091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6529726982,
+    39.5832099915,
+    2.6529726982,
+    39.5832099915
+],
+  "geometry": {"coordinates":[2.6529726982,39.5832099915],"type":"Point"}
+}

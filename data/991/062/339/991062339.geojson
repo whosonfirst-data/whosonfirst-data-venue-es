@@ -1,0 +1,78 @@
+{
+  "id": 991062339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.170183897,41.3748016357,2.170183897,41.3748016357",
+    "geom:latitude":41.374802,
+    "geom:longitude":2.170184,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Paral.lel, 61",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Parques De Atracciones Y Centros De Esparcimiento",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 29 01 28",
+    "sg:postcode":"08004",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864037,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fHiy1iViCcyCyl9wJ1eyl_41.374802_2.170184@1306269435"
+    },
+    "wof:country":"ES",
+    "wof:created":1472523833,
+    "wof:geomhash":"d3dc0d825c7057d2e6f6f7eb3dabf71d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864037,
+            "region_id":85682663,
+            "venue_id":991062339
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864035,
+            "region_id":85682663,
+            "venue_id":991062339
+        }
+    ],
+    "wof:id":991062339,
+    "wof:lastmodified":1472523833,
+    "wof:name":"Autopark S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.170183897,
+    41.3748016357,
+    2.170183897,
+    41.3748016357
+],
+  "geometry": {"coordinates":[2.170183897,41.3748016357],"type":"Point"}
+}

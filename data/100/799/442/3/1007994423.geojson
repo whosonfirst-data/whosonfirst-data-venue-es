@@ -1,0 +1,79 @@
+{
+  "id": 1007994423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8300590515,43.4473800659,-3.8300590515,43.4473800659",
+    "geom:latitude":43.44738,
+    "geom:longitude":-3.830059,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pe\u00d1a Bejo, S/n",
+    "sg:city":"Santander",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 32 48 73",
+    "sg:postcode":"39011",
+    "sg:province":"Cantabria",
+    "sg:tags":[
+        "en",
+        "fundiciones"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799521,
+        102191581,
+        404342209,
+        85633129,
+        404227371,
+        101748391,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bfuNWM0S74dBJLjymOvXe_43.447380_-3.830059@1306269594"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594953,
+    "wof:geomhash":"c8c2821707987b7e02dbf0928f5d475d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342209,
+            "locality_id":101748391,
+            "macroregion_id":404227371,
+            "neighbourhood_id":85799521,
+            "region_id":85682833,
+            "venue_id":1007994423
+        }
+    ],
+    "wof:id":1007994423,
+    "wof:lastmodified":1472594953,
+    "wof:name":"Micremi S.a.",
+    "wof:parent_id":85799521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "en",
+        "fundiciones"
+    ]
+},
+  "bbox": [
+    -3.8300590515,
+    43.4473800659,
+    -3.8300590515,
+    43.4473800659
+],
+  "geometry": {"coordinates":[-3.8300590515,43.4473800659],"type":"Point"}
+}

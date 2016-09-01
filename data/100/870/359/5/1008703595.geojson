@@ -1,0 +1,77 @@
+{
+  "id": 1008703595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7219119072,40.4801101685,-3.7219119072,40.4801101685",
+    "geom:latitude":40.48011,
+    "geom:longitude":-3.721912,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Isla De Ons, 18",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alimentaci\u00d3n General (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 39 98 94",
+    "sg:postcode":"28035",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799627,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IsoQfVyt5XApxmVAktMK2_40.480110_-3.721912@1306269689"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638695,
+    "wof:geomhash":"39f5d051d795de8c3c666881f5729630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799627,
+            "region_id":85682783,
+            "venue_id":1008703595
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748283,
+            "neighbourhood_id":85863557,
+            "region_id":85682783,
+            "venue_id":1008703595
+        }
+    ],
+    "wof:id":1008703595,
+    "wof:lastmodified":1472638695,
+    "wof:name":"Velazquez Rodriguez Lino",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7219119072,
+    40.4801101685,
+    -3.7219119072,
+    40.4801101685
+],
+  "geometry": {"coordinates":[-3.7219119072,40.4801101685],"type":"Point"}
+}

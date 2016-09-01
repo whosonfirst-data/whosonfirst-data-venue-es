@@ -1,0 +1,81 @@
+{
+  "id": 991035769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7622134686,40.3893013,-3.7622134686,40.3893013",
+    "geom:latitude":40.389301,
+    "geom:longitude":-3.762213,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Maqueda, 124",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 17 62 36",
+    "sg:postcode":"28024",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863765,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wJdgguxh3IkapabRtA8dm_40.389301_-3.762213@1306269432"
+    },
+    "wof:country":"ES",
+    "wof:created":1472521885,
+    "wof:geomhash":"c75199edeea0309603caadd0884e35a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863765,
+            "region_id":85682783,
+            "venue_id":991035769
+        }
+    ],
+    "wof:id":991035769,
+    "wof:lastmodified":1472521885,
+    "wof:name":"Asociacion De Yoga Paz Y Armonia",
+    "wof:parent_id":85863765,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ]
+},
+  "bbox": [
+    -3.7622134686,
+    40.3893013,
+    -3.7622134686,
+    40.3893013
+],
+  "geometry": {"coordinates":[-3.7622134686,40.3893013],"type":"Point"}
+}

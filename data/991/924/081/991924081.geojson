@@ -1,0 +1,67 @@
+{
+  "id": 991924081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1655580997,41.3853645325,2.1655580997,41.3853645325",
+    "geom:latitude":41.385365,
+    "geom:longitude":2.165558,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Gravina, 5",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hoteles",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 12 10 97",
+    "sg:postcode":"08001",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864035,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fcJffnfe4jO26mGElq3Ai_41.385365_2.165558@1306269550"
+    },
+    "wof:country":"ES",
+    "wof:created":1472578648,
+    "wof:geomhash":"dc8d3773a4c174d65c87bb5b0866bac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864035,
+            "region_id":85682663,
+            "venue_id":991924081
+        }
+    ],
+    "wof:id":991924081,
+    "wof:lastmodified":1472578648,
+    "wof:name":"Hotel Nova S.a.",
+    "wof:parent_id":85864035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1655580997,
+    41.3853645325,
+    2.1655580997,
+    41.3853645325
+],
+  "geometry": {"coordinates":[2.1655580997,41.3853645325],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 991010543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7057983875,40.4119224548,-3.7057983875,40.4119224548",
+    "geom:latitude":40.411922,
+    "geom:longitude":-3.705798,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Duque De Alba, 4",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 69 18 65",
+    "sg:postcode":"28012",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "salas",
+        "de",
+        "cine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863793,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SPLnJbj9gtRGXvP662uld_40.411922_-3.705798@1306269428"
+    },
+    "wof:country":"ES",
+    "wof:created":1472519937,
+    "wof:geomhash":"f73f4ac47a984eb890a01889527fc41e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863793,
+            "region_id":85682783,
+            "venue_id":991010543
+        }
+    ],
+    "wof:id":991010543,
+    "wof:lastmodified":1472519937,
+    "wof:name":"Arrendamientos Industriales S. A.",
+    "wof:parent_id":85863793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salas",
+        "de",
+        "cine"
+    ]
+},
+  "bbox": [
+    -3.7057983875,
+    40.4119224548,
+    -3.7057983875,
+    40.4119224548
+],
+  "geometry": {"coordinates":[-3.7057983875,40.4119224548],"type":"Point"}
+}

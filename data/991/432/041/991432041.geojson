@@ -1,0 +1,78 @@
+{
+  "id": 991432041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7290239334,40.3901252747,-3.7290239334,40.3901252747",
+    "geom:latitude":40.390125,
+    "geom:longitude":-3.729024,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de General Ricardos, 135",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Quincaller\u00cda (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 72 68 54",
+    "sg:postcode":"28019",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863759,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6M3UgAyaOhA1lU1V0iA88k_40.390125_-3.729024@1306269485"
+    },
+    "wof:country":"ES",
+    "wof:created":1472550630,
+    "wof:geomhash":"276db065a93e178f2ce57f5bb9deb4bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863759,
+            "region_id":85682783,
+            "venue_id":991432041
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863763,
+            "region_id":85682783,
+            "venue_id":991432041
+        }
+    ],
+    "wof:id":991432041,
+    "wof:lastmodified":1472550630,
+    "wof:name":"Corces Cordero Bernardo",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7290239334,
+    40.3901252747,
+    -3.7290239334,
+    40.3901252747
+],
+  "geometry": {"coordinates":[-3.7290239334,40.3901252747],"type":"Point"}
+}

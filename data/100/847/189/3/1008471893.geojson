@@ -1,0 +1,59 @@
+{
+  "id": 1008471893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8056390285,43.4626960754,-3.8056390285,43.4626960754",
+    "geom:latitude":43.462696,
+    "geom:longitude":-3.805639,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Rualasal, 22",
+    "sg:city":"Santander",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cl\u00cdnicas Dentales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 31 12 13",
+    "sg:postcode":"39001",
+    "sg:province":"Cantabria",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799303,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uLlqj7F7Oygs60fIECx0D_43.462696_-3.805639@1306269658"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628790,
+    "wof:geomhash":"8580ca76515d5d5774e08317d9c955bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799303,
+            "region_id":85682833,
+            "venue_id":1008471893
+        }
+    ],
+    "wof:id":1008471893,
+    "wof:lastmodified":1472628790,
+    "wof:name":"Santamaria Cabrillo Guillermo",
+    "wof:parent_id":85799303,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8056390285,
+    43.4626960754,
+    -3.8056390285,
+    43.4626960754
+],
+  "geometry": {"coordinates":[-3.8056390285,43.4626960754],"type":"Point"}
+}

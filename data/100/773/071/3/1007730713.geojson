@@ -1,0 +1,59 @@
+{
+  "id": 1007730713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3959929049,39.4910392761,-0.3959929049,39.4910392761",
+    "geom:latitude":39.491039,
+    "geom:longitude":-0.395993,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Doctor Nicasio Benlloch, 70",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mec\u00c1nico Del Autom\u00d3vil",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 49 64 56",
+    "sg:postcode":"46015",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864227,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jwGMR0stIVpkQcJAlgp2y_39.491039_-0.395993@1306269561"
+    },
+    "wof:country":"ES",
+    "wof:created":1472582519,
+    "wof:geomhash":"2ac22fbb51fafd36bd14eba022edc3e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864227,
+            "region_id":85682867,
+            "venue_id":1007730713
+        }
+    ],
+    "wof:id":1007730713,
+    "wof:lastmodified":1472582519,
+    "wof:name":"Jimenez Garrido Juan Pedro",
+    "wof:parent_id":85864227,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3959929049,
+    39.4910392761,
+    -0.3959929049,
+    39.4910392761
+],
+  "geometry": {"coordinates":[-0.3959929049,39.4910392761],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1008142257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3684340119,39.5085983276,-0.3684340119,39.5085983276",
+    "geom:latitude":39.508598,
+    "geom:longitude":-0.368434,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ramon Muntaner, 21",
+    "sg:city":"Tavernes Blanques",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros M\u00c9dicos Y Sociales, Dispensarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 961 86 08 19",
+    "sg:postcode":"46016",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864225,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_376UAKqvY0B42pp8Qyw23h_39.508598_-0.368434@1306269614"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601481,
+    "wof:geomhash":"d9dd4ddbd4b813bb45d8a390478ad670",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864225,
+            "region_id":85682867,
+            "venue_id":1008142257
+        }
+    ],
+    "wof:id":1008142257,
+    "wof:lastmodified":1472601481,
+    "wof:name":"Osianima S.l.",
+    "wof:parent_id":85864225,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3684340119,
+    39.5085983276,
+    -0.3684340119,
+    39.5085983276
+],
+  "geometry": {"coordinates":[-0.3684340119,39.5085983276],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 1008711959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7286829948,40.3094177246,-3.7286829948,40.3094177246",
+    "geom:latitude":40.309418,
+    "geom:longitude":-3.728683,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Madrid, 68",
+    "sg:city":"Getafe",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 81 35 51",
+    "sg:postcode":"28902",
+    "sg:province":"Madrid",
+    "sg:website":"www.viajescrisol.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VsqcbZDF9ABTuDw2IVChW_40.309418_-3.728683@1306269690"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639079,
+    "wof:geomhash":"c92747f2291a025dd44ea7ae57a51302",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1008711959
+        }
+    ],
+    "wof:id":1008711959,
+    "wof:lastmodified":1472639079,
+    "wof:name":"Viajes Crisol S A",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7286829948,
+    40.3094177246,
+    -3.7286829948,
+    40.3094177246
+],
+  "geometry": {"coordinates":[-3.7286829948,40.3094177246],"type":"Point"}
+}

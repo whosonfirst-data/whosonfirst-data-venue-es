@@ -1,0 +1,67 @@
+{
+  "id": 1007789901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1895489693,41.4364700317,2.1895489693,41.4364700317",
+    "geom:latitude":41.43647,
+    "geom:longitude":2.189549,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Gran De Sant Andreu, 295",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Zapatos (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 45 03 01",
+    "sg:postcode":"08030",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799559,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mRDhcnDTvpeJR4CP0Kunf_41.436470_2.189549@1306269569"
+    },
+    "wof:country":"ES",
+    "wof:created":1472585733,
+    "wof:geomhash":"e03f9ba11767be388d5d2564262351bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799559,
+            "region_id":85682663,
+            "venue_id":1007789901
+        }
+    ],
+    "wof:id":1007789901,
+    "wof:lastmodified":1472585733,
+    "wof:name":"Larriba Rodriguez Vanesa",
+    "wof:parent_id":85799559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1895489693,
+    41.4364700317,
+    2.1895489693,
+    41.4364700317
+],
+  "geometry": {"coordinates":[2.1895489693,41.4364700317],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1008006627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6970798969,40.4488983154,-3.6970798969,40.4488983154",
+    "geom:latitude":40.448898,
+    "geom:longitude":-3.69708,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de General Moscardo, 19",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Empresas De Limpieza",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 35 14 73",
+    "sg:postcode":"28020",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799245,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AnqBvYaIPuURttcO1aIyG_40.448898_-3.697080@1306269595"
+    },
+    "wof:country":"ES",
+    "wof:created":1472595476,
+    "wof:geomhash":"999ef0958ad97313d94f06b67eded021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799245,
+            "region_id":85682783,
+            "venue_id":1008006627
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863799,
+            "region_id":85682783,
+            "venue_id":1008006627
+        }
+    ],
+    "wof:id":1008006627,
+    "wof:lastmodified":1472595476,
+    "wof:name":"Miravalles Aldecoa Cecilia",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6970798969,
+    40.4488983154,
+    -3.6970798969,
+    40.4488983154
+],
+  "geometry": {"coordinates":[-3.6970798969,40.4488983154],"type":"Point"}
+}

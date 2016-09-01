@@ -1,0 +1,59 @@
+{
+  "id": 1008727745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1744689941,41.3903045654,2.1744689941,41.3903045654",
+    "geom:latitude":41.390305,
+    "geom:longitude":2.174469,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Ausias Marc, 12",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c9dicos: Medicina General Orientada A La Homeopat\u00cda",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 01 82 25",
+    "sg:postcode":"08010",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5u4td1pa5rnbP2G47t2qBs_41.390305_2.174469@1306269692"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639742,
+    "wof:geomhash":"b2a2a7f3145783c059f47756bf4ac6ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008727745
+        }
+    ],
+    "wof:id":1008727745,
+    "wof:lastmodified":1472639742,
+    "wof:name":"Vila Alcalde Jorge",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1744689941,
+    41.3903045654,
+    2.1744689941,
+    41.3903045654
+],
+  "geometry": {"coordinates":[2.1744689941,41.3903045654],"type":"Point"}
+}

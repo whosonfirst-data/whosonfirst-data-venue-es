@@ -1,0 +1,59 @@
+{
+  "id": 1008034231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3878636956,39.4579963684,-0.3878636956,39.4579963684",
+    "geom:latitude":39.457996,
+    "geom:longitude":-0.387864,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Carcagente, 11",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aparcamientos (infraestructuras, Accesorios)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 41 90 79",
+    "sg:postcode":"46007",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864205,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4e8PQ1lgj4ED8gSsU4T4aQ_39.457996_-0.387864@1306269599"
+    },
+    "wof:country":"ES",
+    "wof:created":1472596656,
+    "wof:geomhash":"41fbecf013756fc2abb93a2b03e22cfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864205,
+            "region_id":85682867,
+            "venue_id":1008034231
+        }
+    ],
+    "wof:id":1008034231,
+    "wof:lastmodified":1472596656,
+    "wof:name":"Monzo Hermanos Parkings C.b.",
+    "wof:parent_id":85864205,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3878636956,
+    39.4579963684,
+    -0.3878636956,
+    39.4579963684
+],
+  "geometry": {"coordinates":[-0.3878636956,39.4579963684],"type":"Point"}
+}

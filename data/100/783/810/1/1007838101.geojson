@@ -1,0 +1,64 @@
+{
+  "id": 1007838101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7204949856,40.4816703796,-3.7204949856,40.4816703796",
+    "geom:latitude":40.48167,
+    "geom:longitude":-3.720495,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pico Balaitus, 6",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Restaurantes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 39 14 06",
+    "sg:postcode":"28035",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85682783,
+        102191581,
+        85633129,
+        101748283,
+        85863557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CWTXzFmwufCwfyLahF6tP_40.481670_-3.720495@1306269574"
+    },
+    "wof:country":"ES",
+    "wof:created":1472588127,
+    "wof:geomhash":"de147cc9d2aa33373a5b94dcb8dc52e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748283,
+            "neighbourhood_id":85863557,
+            "region_id":85682783,
+            "venue_id":1007838101
+        }
+    ],
+    "wof:id":1007838101,
+    "wof:lastmodified":1472588127,
+    "wof:name":"Lopez Lopez Felipe",
+    "wof:parent_id":85863557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7204949856,
+    40.4816703796,
+    -3.7204949856,
+    40.4816703796
+],
+  "geometry": {"coordinates":[-3.7204949856,40.4816703796],"type":"Point"}
+}

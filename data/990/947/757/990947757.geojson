@@ -1,0 +1,78 @@
+{
+  "id": 990947757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9858498573,37.3897438049,-5.9858498573,37.3897438049",
+    "geom:latitude":37.389744,
+    "geom:longitude":-5.98585,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Esteban, 41",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cl\u00cdnicas Dentales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 53 40 40",
+    "sg:postcode":"41003",
+    "sg:province":"Sevilla",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864169,
+        102191581,
+        404342947,
+        85633129,
+        404227361,
+        101748225,
+        85682841,
+        85864155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qlvqt15HxckmyZ9MqpDWQ_37.389744_-5.985850@1306269420"
+    },
+    "wof:country":"ES",
+    "wof:created":1472513844,
+    "wof:geomhash":"65207549851d35feac2e378c8429300e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864169,
+            "region_id":85682841,
+            "venue_id":990947757
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864155,
+            "region_id":85682841,
+            "venue_id":990947757
+        }
+    ],
+    "wof:id":990947757,
+    "wof:lastmodified":1472513844,
+    "wof:name":"Alonso Villate Rocio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.9858498573,
+    37.3897438049,
+    -5.9858498573,
+    37.3897438049
+],
+  "geometry": {"coordinates":[-5.9858498573,37.3897438049],"type":"Point"}
+}

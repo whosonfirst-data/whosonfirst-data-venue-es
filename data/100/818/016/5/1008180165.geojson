@@ -1,0 +1,59 @@
+{
+  "id": 1008180165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.0345277786,37.4016151428,-6.0345277786,37.4016151428",
+    "geom:latitude":37.401615,
+    "geom:longitude":-6.034528,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Santa Maria De Gracia, 2",
+    "sg:city":"Camas",
+    "sg:classifiers":[],
+    "sg:orig_category":"Iglesia Cat\u00d3lica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 39 02 61",
+    "sg:postcode":"41900",
+    "sg:province":"Sevilla",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864121,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I5vmgyMCFrxtbbfh8k5TY_37.401615_-6.034528@1306269619"
+    },
+    "wof:country":"ES",
+    "wof:created":1472605238,
+    "wof:geomhash":"52b44612909b70797dd0f0b5f4353b37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864121,
+            "region_id":85682841,
+            "venue_id":1008180165
+        }
+    ],
+    "wof:id":1008180165,
+    "wof:lastmodified":1472605238,
+    "wof:name":"Parroquia Santa Maria De Gracia",
+    "wof:parent_id":85864121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0345277786,
+    37.4016151428,
+    -6.0345277786,
+    37.4016151428
+],
+  "geometry": {"coordinates":[-6.0345277786,37.4016151428],"type":"Point"}
+}

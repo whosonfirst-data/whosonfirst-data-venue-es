@@ -1,0 +1,67 @@
+{
+  "id": 1008246035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1523840427,41.3779220581,2.1523840427,41.3779220581",
+    "geom:latitude":41.377922,
+    "geom:longitude":2.152384,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"G.v. Corts Catalanes, 423",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ingeniero",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 23 72 00",
+    "sg:postcode":"08015",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864027,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_208y6FBprTLWitx6b4Mvbh_41.377922_2.152384@1306269628"
+    },
+    "wof:country":"ES",
+    "wof:created":1472615734,
+    "wof:geomhash":"0dbd3dac3f697aa87077d2406e4736e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864027,
+            "region_id":85682663,
+            "venue_id":1008246035
+        }
+    ],
+    "wof:id":1008246035,
+    "wof:lastmodified":1472615734,
+    "wof:name":"Pi Roca Jordi",
+    "wof:parent_id":85864027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1523840427,
+    41.3779220581,
+    2.1523840427,
+    41.3779220581
+],
+  "geometry": {"coordinates":[2.1523840427,41.3779220581],"type":"Point"}
+}

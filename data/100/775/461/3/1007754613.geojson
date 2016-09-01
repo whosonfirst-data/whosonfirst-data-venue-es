@@ -1,0 +1,65 @@
+{
+  "id": 1007754613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.2581830025,39.8860435486,4.2581830025,39.8860435486",
+    "geom:latitude":39.886044,
+    "geom:longitude":4.258183,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Menorca, 66",
+    "sg:city":"Mao",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 35 48 70",
+    "sg:postcode":"07703",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102545841,
+        85682647,
+        102191581,
+        404330799,
+        85633129,
+        404227367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6l5LAQEmw3hpuUqpM12ShD_39.886044_4.258183@1306269564"
+    },
+    "wof:country":"ES",
+    "wof:created":1472583952,
+    "wof:geomhash":"ebb1d2b20ac1b60bc302498a303b5b42",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545841,
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330799,
+            "macroregion_id":404227367,
+            "region_id":85682647,
+            "venue_id":1007754613
+        }
+    ],
+    "wof:id":1007754613,
+    "wof:lastmodified":1472583952,
+    "wof:name":"Juan Mora S.a.",
+    "wof:parent_id":102545841,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.2581830025,
+    39.8860435486,
+    4.2581830025,
+    39.8860435486
+],
+  "geometry": {"coordinates":[4.2581830025,39.8860435486],"type":"Point"}
+}

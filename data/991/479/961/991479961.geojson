@@ -1,0 +1,92 @@
+{
+  "id": 991479961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6743900776,40.4427566528,-3.6743900776,40.4427566528",
+    "geom:latitude":40.442757,
+    "geom:longitude":-3.67439,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de General Zabala, 2",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 61 02 44",
+    "sg:postcode":"28002",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863647,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33B7h4bwlM6IuSzaP4NXZQ_40.442757_-3.674390@1306269491"
+    },
+    "wof:country":"ES",
+    "wof:created":1472553310,
+    "wof:geomhash":"3dcd0e6b3a789e73fb9580f02ef84552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863647,
+            "region_id":85682783,
+            "venue_id":991479961
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863643,
+            "region_id":85682783,
+            "venue_id":991479961
+        }
+    ],
+    "wof:id":991479961,
+    "wof:lastmodified":1472553310,
+    "wof:name":"Del Fresno Delgado Luis",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.6743900776,
+    40.4427566528,
+    -3.6743900776,
+    40.4427566528
+],
+  "geometry": {"coordinates":[-3.6743900776,40.4427566528],"type":"Point"}
+}

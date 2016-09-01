@@ -1,0 +1,78 @@
+{
+  "id": 991029755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8952717185,41.6383476257,-0.8952717185,41.6383476257",
+    "geom:latitude":41.638348,
+    "geom:longitude":-0.895272,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Santa Teresa De Jesus, 57",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asociaciones, Organismos Culturales Y Socioeducativos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 35 98 72",
+    "sg:postcode":"50006",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863365,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891,
+        85863377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FtvipXv0E7b21J1r49xZv_41.638348_-0.895272@1306269431"
+    },
+    "wof:country":"ES",
+    "wof:created":1472521453,
+    "wof:geomhash":"5828a1d283c5de3c30a1a344f02a1a06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863365,
+            "region_id":85682891,
+            "venue_id":991029755
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863377,
+            "region_id":85682891,
+            "venue_id":991029755
+        }
+    ],
+    "wof:id":991029755,
+    "wof:lastmodified":1472521453,
+    "wof:name":"Asociacion Club Jumara",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8952717185,
+    41.6383476257,
+    -0.8952717185,
+    41.6383476257
+],
+  "geometry": {"coordinates":[-0.8952717185,41.6383476257],"type":"Point"}
+}

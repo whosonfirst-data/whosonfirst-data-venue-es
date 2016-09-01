@@ -1,0 +1,74 @@
+{
+  "id": 990979519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7238008976,40.48046875,-3.7238008976,40.48046875",
+    "geom:latitude":40.480469,
+    "geom:longitude":-3.723801,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ramon Gomez De La Serna, 2",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Tea Room",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 16 63 20",
+    "sg:postcode":"28035",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "snack"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85682783,
+        102191581,
+        85633129,
+        101748283,
+        85863557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KkK9ZZnoQihKpLzsrgkw6_40.480469_-3.723801@1306269424"
+    },
+    "wof:country":"ES",
+    "wof:created":1472517702,
+    "wof:geomhash":"ab5dfed56e30e2bc36e4ff9975b610e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748283,
+            "neighbourhood_id":85863557,
+            "region_id":85682783,
+            "venue_id":990979519
+        }
+    ],
+    "wof:id":990979519,
+    "wof:lastmodified":1472517702,
+    "wof:name":"Antigua Bodega De La Reina S.l.",
+    "wof:parent_id":85863557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snack"
+    ]
+},
+  "bbox": [
+    -3.7238008976,
+    40.48046875,
+    -3.7238008976,
+    40.48046875
+],
+  "geometry": {"coordinates":[-3.7238008976,40.48046875],"type":"Point"}
+}

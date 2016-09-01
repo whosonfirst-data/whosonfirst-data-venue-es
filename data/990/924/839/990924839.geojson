@@ -1,0 +1,81 @@
+{
+  "id": 990924839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0439975262,41.3804740906,2.0439975262,41.3804740906",
+    "geom:latitude":41.380474,
+    "geom:longitude":2.043998,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Josep M. De Molina, 2",
+    "sg:city":"Sant Feliu Llobregat",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 936 66 07 42",
+    "sg:postcode":"08980",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799381,
+        102191581,
+        404331349,
+        85633129,
+        404227379,
+        101758769,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lgYFwO6uDjrp8wZFIhtfG_41.380474_2.043998@1306269417"
+    },
+    "wof:country":"ES",
+    "wof:created":1472510870,
+    "wof:geomhash":"de00c7db91a919a358ce1b7561ec94a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331349,
+            "locality_id":101758769,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799381,
+            "region_id":85682663,
+            "venue_id":990924839
+        }
+    ],
+    "wof:id":990924839,
+    "wof:lastmodified":1472510870,
+    "wof:name":"Alcaraz Carbonell Carlos",
+    "wof:parent_id":85799381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.0439975262,
+    41.3804740906,
+    2.0439975262,
+    41.3804740906
+],
+  "geometry": {"coordinates":[2.0439975262,41.3804740906],"type":"Point"}
+}

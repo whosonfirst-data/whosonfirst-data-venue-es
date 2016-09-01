@@ -1,0 +1,67 @@
+{
+  "id": 1024490521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2034161091,41.4009590149,2.2034161091,41.4009590149",
+    "geom:latitude":41.400959,
+    "geom:longitude":2.203416,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Maria Aguilo, 94",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Doctores En Medicina",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 09 76 12",
+    "sg:postcode":"08005",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799265,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UPKY4X3FssDT7QljgKuLo_41.400959_2.203416@1306269697"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641215,
+    "wof:geomhash":"5e5575cf5af37ad8b9e309a2d000b23d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799265,
+            "region_id":85682663,
+            "venue_id":1024490521
+        }
+    ],
+    "wof:id":1024490521,
+    "wof:lastmodified":1472641215,
+    "wof:name":"Zaragoza Padro Francesc Xavier",
+    "wof:parent_id":85799265,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2034161091,
+    41.4009590149,
+    2.2034161091,
+    41.4009590149
+],
+  "geometry": {"coordinates":[2.2034161091,41.4009590149],"type":"Point"}
+}

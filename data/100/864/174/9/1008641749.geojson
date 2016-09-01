@@ -1,0 +1,59 @@
+{
+  "id": 1008641749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.7556519508,37.8982429504,-4.7556519508,37.8982429504",
+    "geom:latitude":37.898243,
+    "geom:longitude":-4.755652,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Escritor Gomez De Rivera, 2",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 25 84 96",
+    "sg:postcode":"14014",
+    "sg:province":"C\u00f3rdoba",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863909,
+        85682697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FDMJJOSHosefZTg2WDbN0_37.898243_-4.755652@1306269681"
+    },
+    "wof:country":"ES",
+    "wof:created":1472636045,
+    "wof:geomhash":"f2ab473a0a5d5861f2703cf930bfc658",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863909,
+            "region_id":85682697,
+            "venue_id":1008641749
+        }
+    ],
+    "wof:id":1008641749,
+    "wof:lastmodified":1472636045,
+    "wof:name":"Toscano Benavides Inmaculada",
+    "wof:parent_id":85863909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7556519508,
+    37.8982429504,
+    -4.7556519508,
+    37.8982429504
+],
+  "geometry": {"coordinates":[-4.7556519508,37.8982429504],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1007751345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-1.8055020571,43.3421173096,-1.8055020571,43.3421173096",
+    "geom:latitude":43.342117,
+    "geom:longitude":-1.805502,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Jaizkibel, 18",
+    "sg:city":"Irun",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 943 61 12 21",
+    "sg:postcode":"20301",
+    "sg:province":"Guip\u00f9zcoa",
+    "sg:tags":[
+        "televisiones",
+        "y",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102545785,
+        85682741,
+        102191581,
+        404336163,
+        85633129,
+        404227393,
+        101753809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5myz50dBeRrLYLaFXRglGx_43.342117_-1.805502@1306269563"
+    },
+    "wof:country":"ES",
+    "wof:created":1472583740,
+    "wof:geomhash":"a6d9a731be9b4d7aa79866695eb43562",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545785,
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404336163,
+            "locality_id":101753809,
+            "macroregion_id":404227393,
+            "region_id":85682741,
+            "venue_id":1007751345
+        }
+    ],
+    "wof:id":1007751345,
+    "wof:lastmodified":1472583740,
+    "wof:name":"Juan Achucarro Irulegi",
+    "wof:parent_id":102545785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "televisiones",
+        "y",
+        "radio"
+    ]
+},
+  "bbox": [
+    -1.8055020571,
+    43.3421173096,
+    -1.8055020571,
+    43.3421173096
+],
+  "geometry": {"coordinates":[-1.8055020571,43.3421173096],"type":"Point"}
+}

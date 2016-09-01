@@ -1,0 +1,67 @@
+{
+  "id": 1008136543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2043700218,41.4010543823,2.2043700218,41.4010543823",
+    "geom:latitude":41.401054,
+    "geom:longitude":2.20437,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Castanys, 35",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Promotores Constructores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 21 85 45",
+    "sg:postcode":"08005",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799265,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zV7blBL5AoMEqRyumogPq_41.401054_2.204370@1306269613"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601230,
+    "wof:geomhash":"6e72f353c49bc4636ab99665e1581e87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799265,
+            "region_id":85682663,
+            "venue_id":1008136543
+        }
+    ],
+    "wof:id":1008136543,
+    "wof:lastmodified":1472601230,
+    "wof:name":"Ortega Parra Pedro",
+    "wof:parent_id":85799265,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2043700218,
+    41.4010543823,
+    2.2043700218,
+    41.4010543823
+],
+  "geometry": {"coordinates":[2.2043700218,41.4010543823],"type":"Point"}
+}

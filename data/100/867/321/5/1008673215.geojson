@@ -1,0 +1,60 @@
+{
+  "id": 1008673215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8286159039,40.4726524353,-3.8286159039,40.4726524353",
+    "geom:latitude":40.472652,
+    "geom:longitude":-3.828616,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Jose Lombana Iglesias, 38",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Universidades",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 98 65 02",
+    "sg:postcode":"28...",
+    "sg:province":"Madrid",
+    "sg:website":"www.uned.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863657,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05Bx88TPyA1WQmOfdUpPsd_40.472652_-3.828616@1306269685"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637327,
+    "wof:geomhash":"0d873c1d7edd73adf12186ed536c449f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863657,
+            "region_id":85682783,
+            "venue_id":1008673215
+        }
+    ],
+    "wof:id":1008673215,
+    "wof:lastmodified":1472637327,
+    "wof:name":"Universidad Nacional De Educacion A Distancia",
+    "wof:parent_id":85863657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8286159039,
+    40.4726524353,
+    -3.8286159039,
+    40.4726524353
+],
+  "geometry": {"coordinates":[-3.8286159039,40.4726524353],"type":"Point"}
+}

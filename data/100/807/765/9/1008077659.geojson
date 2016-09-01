@@ -1,0 +1,80 @@
+{
+  "id": 1008077659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0761229992,41.3647613525,2.0761229992,41.3647613525",
+    "geom:latitude":41.364761,
+    "geom:longitude":2.076123,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Domenech I Montaner, 6",
+    "sg:city":"Cornella Llobregat",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asociaciones Y Clubs Deportivos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 75 68 15",
+    "sg:postcode":"08940",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799591,
+        102191581,
+        404331371,
+        85633129,
+        404227379,
+        101758753,
+        85682663,
+        85799381,
+        404331349,
+        101758769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31u9UEQyFOPt9SOyThMh5G_41.364761_2.076123@1306269605"
+    },
+    "wof:country":"ES",
+    "wof:created":1472598531,
+    "wof:geomhash":"ea5759ce39d76538ed1cb7ae2927954c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331371,
+            "locality_id":101758753,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799591,
+            "region_id":85682663,
+            "venue_id":1008077659
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331349,
+            "locality_id":101758769,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799381,
+            "region_id":85682663,
+            "venue_id":1008077659
+        }
+    ],
+    "wof:id":1008077659,
+    "wof:lastmodified":1472598531,
+    "wof:name":"Nadal Gaspar Albert",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0761229992,
+    41.3647613525,
+    2.0761229992,
+    41.3647613525
+],
+  "geometry": {"coordinates":[2.0761229992,41.3647613525],"type":"Point"}
+}

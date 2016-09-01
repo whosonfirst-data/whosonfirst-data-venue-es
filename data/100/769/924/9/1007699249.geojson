@@ -1,0 +1,59 @@
+{
+  "id": 1007699249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8793139458,40.4788284302,-3.8793139458,40.4788284302",
+    "geom:latitude":40.478828,
+    "geom:longitude":-3.879314,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Guadarrama, 42",
+    "sg:city":"Majadahonda",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ense\u00d1anza Secundaria: Colegios Y Escuelas Privadas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 38 74 23",
+    "sg:postcode":"28220",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863613,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59cMTKypLxq4cySQ9Dr4MG_40.478828_-3.879314@1306269556"
+    },
+    "wof:country":"ES",
+    "wof:created":1472580926,
+    "wof:geomhash":"bb8b8d452d548b80eac5393c6310653e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863613,
+            "region_id":85682783,
+            "venue_id":1007699249
+        }
+    ],
+    "wof:id":1007699249,
+    "wof:lastmodified":1472580926,
+    "wof:name":"Instituto E.s. Leonardo Da Vinci",
+    "wof:parent_id":85863613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8793139458,
+    40.4788284302,
+    -3.8793139458,
+    40.4788284302
+],
+  "geometry": {"coordinates":[-3.8793139458,40.4788284302],"type":"Point"}
+}

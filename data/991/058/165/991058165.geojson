@@ -1,0 +1,72 @@
+{
+  "id": 991058165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1108686924,41.3522529602,2.1108686924,41.3522529602",
+    "geom:latitude":41.352253,
+    "geom:longitude":2.110869,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rbla Marina, 242",
+    "sg:city":"Hospitalet Llobregat",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 36 07 51",
+    "sg:postcode":"08907",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799585,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rLZQcZf8VlCOYaeuPrhnU_41.352253_2.110869@1306269435"
+    },
+    "wof:country":"ES",
+    "wof:created":1472523515,
+    "wof:geomhash":"015bb5c1d466134ff0e8fe73e7f6485c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799585,
+            "region_id":85682663,
+            "venue_id":991058165
+        }
+    ],
+    "wof:id":991058165,
+    "wof:lastmodified":1472523515,
+    "wof:name":"Autoescuela Zona Franca S.l.",
+    "wof:parent_id":85799585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1108686924,
+    41.3522529602,
+    2.1108686924,
+    41.3522529602
+],
+  "geometry": {"coordinates":[2.1108686924,41.3522529602],"type":"Point"}
+}

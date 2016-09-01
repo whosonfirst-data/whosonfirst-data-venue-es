@@ -1,0 +1,65 @@
+{
+  "id": 1008187249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.4771509171,40.4585227966,-3.4771509171,40.4585227966",
+    "geom:latitude":40.458523,
+    "geom:longitude":-3.477151,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Soledad, 25",
+    "sg:city":"Torrejon Ardoz",
+    "sg:classifiers":[],
+    "sg:orig_category":"Procuradores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 77 89 32",
+    "sg:postcode":"28850",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102545765,
+        85682783,
+        102191581,
+        404339005,
+        85633129,
+        404227387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RrTIpcWtt2Q60lVUlJ2u0_40.458523_-3.477151@1306269620"
+    },
+    "wof:country":"ES",
+    "wof:created":1472606599,
+    "wof:geomhash":"2f6e487988816972ffc065f8b9cdb080",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545765,
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339005,
+            "macroregion_id":404227387,
+            "region_id":85682783,
+            "venue_id":1008187249
+        }
+    ],
+    "wof:id":1008187249,
+    "wof:lastmodified":1472606599,
+    "wof:name":"Pastor De Luz Jose",
+    "wof:parent_id":102545765,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.4771509171,
+    40.4585227966,
+    -3.4771509171,
+    40.4585227966
+],
+  "geometry": {"coordinates":[-3.4771509171,40.4585227966],"type":"Point"}
+}

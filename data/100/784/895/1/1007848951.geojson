@@ -1,0 +1,66 @@
+{
+  "id": 1007848951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5820391178,40.451374054,-3.5820391178,40.451374054",
+    "geom:latitude":40.451374,
+    "geom:longitude":-3.582039,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pradoluengo, S/n",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Estancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 47 64 39",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863629,
+        85682783,
+        85863589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4o7l8QCKwt1Jq1JTVD2D9I_40.451374_-3.582039@1306269576"
+    },
+    "wof:country":"ES",
+    "wof:created":1472588662,
+    "wof:geomhash":"36c22c190b6820395200bce77be0cd3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863629,
+            "region_id":85682783,
+            "venue_id":1007848951
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863589,
+            "region_id":85682783,
+            "venue_id":1007848951
+        }
+    ],
+    "wof:id":1007848951,
+    "wof:lastmodified":1472588662,
+    "wof:name":"Lorente Mu\u00f1oz Maria Cristina",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5820391178,
+    40.451374054,
+    -3.5820391178,
+    40.451374054
+],
+  "geometry": {"coordinates":[-3.5820391178,40.451374054],"type":"Point"}
+}

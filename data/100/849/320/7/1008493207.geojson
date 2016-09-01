@@ -1,0 +1,59 @@
+{
+  "id": 1008493207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1096110344,41.5472679138,2.1096110344,41.5472679138",
+    "geom:latitude":41.547268,
+    "geom:longitude":2.109611,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sant Joan, 40",
+    "sg:city":"Sabadell",
+    "sg:classifiers":[],
+    "sg:orig_category":"Confecci\u00d3n De Trajes Para Se\u00d1oras",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 45 01 13",
+    "sg:postcode":"08202",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pcJO8QPS1z2f593FSwMBt_41.547268_2.109611@1306269661"
+    },
+    "wof:country":"ES",
+    "wof:created":1472629692,
+    "wof:geomhash":"d15003f1acfd3bcea13d09dbac3db37a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008493207
+        }
+    ],
+    "wof:id":1008493207,
+    "wof:lastmodified":1472629692,
+    "wof:name":"Segura Galan Inma",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1096110344,
+    41.5472679138,
+    2.1096110344,
+    41.5472679138
+],
+  "geometry": {"coordinates":[2.1096110344,41.5472679138],"type":"Point"}
+}

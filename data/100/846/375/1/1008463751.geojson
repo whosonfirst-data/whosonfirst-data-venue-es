@@ -1,0 +1,67 @@
+{
+  "id": 1008463751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7075939178,40.4233131409,-3.7075939178,40.4233131409",
+    "geom:latitude":40.423313,
+    "geom:longitude":-3.707594,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Bernardo, 35",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 59 72 27",
+    "sg:postcode":"28015",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863667,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dtrRr2nJ0hNY8Ma1e3yx0_40.423313_-3.707594@1306269657"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628459,
+    "wof:geomhash":"81d639ae3d3f363ef6bf5e088832b077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863667,
+            "region_id":85682783,
+            "venue_id":1008463751
+        }
+    ],
+    "wof:id":1008463751,
+    "wof:lastmodified":1472628459,
+    "wof:name":"Sanchez Villasante Maria Jesus",
+    "wof:parent_id":85863667,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7075939178,
+    40.4233131409,
+    -3.7075939178,
+    40.4233131409
+],
+  "geometry": {"coordinates":[-3.7075939178,40.4233131409],"type":"Point"}
+}

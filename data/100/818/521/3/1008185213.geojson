@@ -1,0 +1,67 @@
+{
+  "id": 1008185213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6676559448,40.4245452881,-3.6676559448,40.4245452881",
+    "geom:latitude":40.424545,
+    "geom:longitude":-3.667656,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Fundadores, 6",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 56 21 39",
+    "sg:postcode":"28028",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863683,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kvbRYM07Wl9NzPmpvTICw_40.424545_-3.667656@1306269620"
+    },
+    "wof:country":"ES",
+    "wof:created":1472606075,
+    "wof:geomhash":"410619304f36f595f76de1e4195bdb68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863683,
+            "region_id":85682783,
+            "venue_id":1008185213
+        }
+    ],
+    "wof:id":1008185213,
+    "wof:lastmodified":1472606075,
+    "wof:name":"Pascual Verd Maria",
+    "wof:parent_id":85863683,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6676559448,
+    40.4245452881,
+    -3.6676559448,
+    40.4245452881
+],
+  "geometry": {"coordinates":[-3.6676559448,40.4245452881],"type":"Point"}
+}

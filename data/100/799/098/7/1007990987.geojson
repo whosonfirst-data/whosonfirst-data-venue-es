@@ -1,0 +1,60 @@
+{
+  "id": 1007990987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7001760006,40.3014602661,-3.7001760006,40.3014602661",
+    "geom:latitude":40.30146,
+    "geom:longitude":-3.700176,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Morse, 16",
+    "sg:city":"Getafe",
+    "sg:classifiers":[],
+    "sg:orig_category":"Suministros Y Materiales Industriales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 81 34 09",
+    "sg:postcode":"28906",
+    "sg:province":"Madrid",
+    "sg:website":"www.metalco.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16pEThhTfW608aKm8g6Sdc_40.301460_-3.700176@1306269594"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594795,
+    "wof:geomhash":"6b2add449865d5e2dbe746a3dad1b7db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1007990987
+        }
+    ],
+    "wof:id":1007990987,
+    "wof:lastmodified":1472594795,
+    "wof:name":"Metalco S.a.",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7001760006,
+    40.3014602661,
+    -3.7001760006,
+    40.3014602661
+],
+  "geometry": {"coordinates":[-3.7001760006,40.3014602661],"type":"Point"}
+}

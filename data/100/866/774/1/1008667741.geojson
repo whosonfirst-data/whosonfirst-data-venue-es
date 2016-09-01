@@ -1,0 +1,60 @@
+{
+  "id": 1008667741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.3532590866,36.7200317383,-4.3532590866,36.7200317383",
+    "geom:latitude":36.720032,
+    "geom:longitude":-4.353259,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Julio Gomez, S/n",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cajas De Ahorro",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 20 09 00",
+    "sg:postcode":"29018",
+    "sg:province":"M\u00e1laga",
+    "sg:website":"www.unicaja.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863521,
+        85682787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RtaY3PAO5OT2d79Rx8Yf4_36.720032_-4.353259@1306269684"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637123,
+    "wof:geomhash":"692bd58a39f7f671e619a415e43f7f61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863521,
+            "region_id":85682787,
+            "venue_id":1008667741
+        }
+    ],
+    "wof:id":1008667741,
+    "wof:lastmodified":1472637123,
+    "wof:name":"Unicaja",
+    "wof:parent_id":85863521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.3532590866,
+    36.7200317383,
+    -4.3532590866,
+    36.7200317383
+],
+  "geometry": {"coordinates":[-4.3532590866,36.7200317383],"type":"Point"}
+}

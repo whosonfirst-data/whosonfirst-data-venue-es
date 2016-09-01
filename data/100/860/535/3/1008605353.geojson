@@ -1,0 +1,81 @@
+{
+  "id": 1008605353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8910189867,41.644821167,-0.8910189867,41.644821167",
+    "geom:latitude":41.644821,
+    "geom:longitude":-0.891019,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Gran Via, 35",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 23 26 47",
+    "sg:postcode":"50006",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863341,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Npl5y6YoOHCvSgdIzUeob_41.644821_-0.891019@1306269676"
+    },
+    "wof:country":"ES",
+    "wof:created":1472634487,
+    "wof:geomhash":"e1aa5a7d48b9637d5c79cfe3761735a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863341,
+            "region_id":85682891,
+            "venue_id":1008605353
+        }
+    ],
+    "wof:id":1008605353,
+    "wof:lastmodified":1472634487,
+    "wof:name":"Tecnirest Sociedad Limitada",
+    "wof:parent_id":85863341,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [
+    -0.8910189867,
+    41.644821167,
+    -0.8910189867,
+    41.644821167
+],
+  "geometry": {"coordinates":[-0.8910189867,41.644821167],"type":"Point"}
+}

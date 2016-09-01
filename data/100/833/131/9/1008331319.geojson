@@ -1,0 +1,81 @@
+{
+  "id": 1008331319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6769757271,40.4225273132,-3.6769757271,40.4225273132",
+    "geom:latitude":40.422527,
+    "geom:longitude":-3.676976,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Duque De Sesto, 24",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 31 95 97",
+    "sg:postcode":"28009",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "mercado",
+        "de",
+        "estudios"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863677,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DxzKT5GnJ8E1P8A1YSwoq_40.422527_-3.676976@1306269639"
+    },
+    "wof:country":"ES",
+    "wof:created":1472622663,
+    "wof:geomhash":"f846042d0e75436fd1083f265d4be194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863677,
+            "region_id":85682783,
+            "venue_id":1008331319
+        }
+    ],
+    "wof:id":1008331319,
+    "wof:lastmodified":1472622663,
+    "wof:name":"Redysa Research S.l.",
+    "wof:parent_id":85863677,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mercado",
+        "de",
+        "estudios"
+    ]
+},
+  "bbox": [
+    -3.6769757271,
+    40.4225273132,
+    -3.6769757271,
+    40.4225273132
+],
+  "geometry": {"coordinates":[-3.6769757271,40.4225273132],"type":"Point"}
+}

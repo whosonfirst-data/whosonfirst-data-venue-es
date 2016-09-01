@@ -1,0 +1,78 @@
+{
+  "id": 1008597343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.702862978,40.4531593323,-3.702862978,40.4531593323",
+    "geom:latitude":40.453159,
+    "geom:longitude":-3.702863,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Bravo Murillo, 166",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c9dicos: Oftalmolog\u00cda",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 71 47 30",
+    "sg:postcode":"28020",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799245,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lhjLswleDgEBZeMGFy3gk_40.453159_-3.702863@1306269675"
+    },
+    "wof:country":"ES",
+    "wof:created":1472634133,
+    "wof:geomhash":"873942d5fd8b2837e504572e4f633eb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799245,
+            "region_id":85682783,
+            "venue_id":1008597343
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863621,
+            "region_id":85682783,
+            "venue_id":1008597343
+        }
+    ],
+    "wof:id":1008597343,
+    "wof:lastmodified":1472634133,
+    "wof:name":"Tapia Albaladejo Jose Antonio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.702862978,
+    40.4531593323,
+    -3.702862978,
+    40.4531593323
+],
+  "geometry": {"coordinates":[-3.702862978,40.4531593323],"type":"Point"}
+}

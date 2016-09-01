@@ -1,0 +1,67 @@
+{
+  "id": 1008574525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1747500896,41.4284820557,2.1747500896,41.4284820557",
+    "geom:latitude":41.428482,
+    "geom:longitude":2.17475,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Borbo, 64",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 49 94 14",
+    "sg:postcode":"08016",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799399,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5knxo9mcpLQnXquH4XDemC_41.428482_2.174750@1306269672"
+    },
+    "wof:country":"ES",
+    "wof:created":1472633165,
+    "wof:geomhash":"8fbb645a909b881507733110566007b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799399,
+            "region_id":85682663,
+            "venue_id":1008574525
+        }
+    ],
+    "wof:id":1008574525,
+    "wof:lastmodified":1472633165,
+    "wof:name":"Supermercats Jespac S. A.",
+    "wof:parent_id":85799399,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1747500896,
+    41.4284820557,
+    2.1747500896,
+    41.4284820557
+],
+  "geometry": {"coordinates":[2.1747500896,41.4284820557],"type":"Point"}
+}

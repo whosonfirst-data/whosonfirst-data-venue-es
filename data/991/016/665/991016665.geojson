@@ -1,0 +1,81 @@
+{
+  "id": 991016665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2023990154,41.4022369385,2.2023990154,41.4022369385",
+    "geom:latitude":41.402237,
+    "geom:longitude":2.202399,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ptge Saladrigas, 5",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 85 17 84",
+    "sg:postcode":"08005",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799265,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zrWzTLeUUpEcqPAv2IfnG_41.402237_2.202399@1306269429"
+    },
+    "wof:country":"ES",
+    "wof:created":1472520462,
+    "wof:geomhash":"665c46f1e0d6d7e5fd8ea63d3ff1d84b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799265,
+            "region_id":85682663,
+            "venue_id":991016665
+        }
+    ],
+    "wof:id":991016665,
+    "wof:lastmodified":1472520462,
+    "wof:name":"Artgrafic S. A.",
+    "wof:parent_id":85799265,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    2.2023990154,
+    41.4022369385,
+    2.2023990154,
+    41.4022369385
+],
+  "geometry": {"coordinates":[2.2023990154,41.4022369385],"type":"Point"}
+}

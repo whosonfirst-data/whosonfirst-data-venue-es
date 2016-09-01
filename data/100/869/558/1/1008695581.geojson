@@ -1,0 +1,67 @@
+{
+  "id": 1008695581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7082619667,40.4543838501,-3.7082619667,40.4543838501",
+    "geom:latitude":40.454384,
+    "geom:longitude":-3.708262,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Paravicinos, 9",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 11 12 30",
+    "sg:postcode":"28039",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863619,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32EMGxtB5fOmIUL7aVFa73_40.454384_-3.708262@1306269688"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638314,
+    "wof:geomhash":"0a29046ee3e43e9e7ca9c805d6c7dce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863619,
+            "region_id":85682783,
+            "venue_id":1008695581
+        }
+    ],
+    "wof:id":1008695581,
+    "wof:lastmodified":1472638314,
+    "wof:name":"Vazquez De Castro Del Pino Pedro",
+    "wof:parent_id":85863619,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7082619667,
+    40.4543838501,
+    -3.7082619667,
+    40.4543838501
+],
+  "geometry": {"coordinates":[-3.7082619667,40.4543838501],"type":"Point"}
+}

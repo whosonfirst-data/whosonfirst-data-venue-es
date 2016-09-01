@@ -1,0 +1,81 @@
+{
+  "id": 1008119429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.4249510765,36.7191352844,-4.4249510765,36.7191352844",
+    "geom:latitude":36.719135,
+    "geom:longitude":-4.424951,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Arriola, 1",
+    "sg:city":"Malaga",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 22 17 41",
+    "sg:postcode":"29005",
+    "sg:province":"M\u00e1laga",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863491,
+        102191581,
+        404339241,
+        85633129,
+        404227361,
+        101748185,
+        85682787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ls4DGjX3eWHEpraEzeLCF_36.719135_-4.424951@1306269610"
+    },
+    "wof:country":"ES",
+    "wof:created":1472600362,
+    "wof:geomhash":"140f75134ef7a77e3afea57cd6702926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863491,
+            "region_id":85682787,
+            "venue_id":1008119429
+        }
+    ],
+    "wof:id":1008119429,
+    "wof:lastmodified":1472600362,
+    "wof:name":"Olea Ramirez Juan",
+    "wof:parent_id":85863491,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -4.4249510765,
+    36.7191352844,
+    -4.4249510765,
+    36.7191352844
+],
+  "geometry": {"coordinates":[-4.4249510765,36.7191352844],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 1008712301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0999400616,41.5558395386,2.0999400616,41.5558395386",
+    "geom:latitude":41.55584,
+    "geom:longitude":2.09994,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Riera Baixa, S/n",
+    "sg:city":"Sabadell",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 23 62 22",
+    "sg:postcode":"08208",
+    "sg:province":"Barcelona",
+    "sg:website":"www.viajes.elcorteingles.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pB476OZmqAnSm1jVoXN2T_41.555840_2.099940@1306269690"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639094,
+    "wof:geomhash":"4dcbb17290300fc54b8d8eacebe06cc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008712301
+        }
+    ],
+    "wof:id":1008712301,
+    "wof:lastmodified":1472639094,
+    "wof:name":"Viajes El Corte Ingles S.a.",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0999400616,
+    41.5558395386,
+    2.0999400616,
+    41.5558395386
+],
+  "geometry": {"coordinates":[2.0999400616,41.5558395386],"type":"Point"}
+}

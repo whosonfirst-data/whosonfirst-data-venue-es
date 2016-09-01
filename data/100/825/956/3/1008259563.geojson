@@ -1,0 +1,78 @@
+{
+  "id": 1008259563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1447970867,41.4034347534,2.1447970867,41.4034347534",
+    "geom:latitude":41.403435,
+    "geom:longitude":2.144797,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sant Hermenegild, 26",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tapicer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 34 04 17",
+    "sg:postcode":"08006",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799611,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85799393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25qKoygOnvN1CaNizyetmL_41.403435_2.144797@1306269630"
+    },
+    "wof:country":"ES",
+    "wof:created":1472616509,
+    "wof:geomhash":"e01c328bfafd87566b745ad8a5cccb67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799611,
+            "region_id":85682663,
+            "venue_id":1008259563
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799393,
+            "region_id":85682663,
+            "venue_id":1008259563
+        }
+    ],
+    "wof:id":1008259563,
+    "wof:lastmodified":1472616509,
+    "wof:name":"Pons Ferrer Santiago",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1447970867,
+    41.4034347534,
+    2.1447970867,
+    41.4034347534
+],
+  "geometry": {"coordinates":[2.1447970867,41.4034347534],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 1008710583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.0040998459,37.4040145874,-6.0040998459,37.4040145874",
+    "geom:latitude":37.404015,
+    "geom:longitude":-6.0041,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Albert Einstein, S/n",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 46 03 31",
+    "sg:postcode":"41092",
+    "sg:province":"Sevilla",
+    "sg:website":"www.adrianoviajes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864121,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uO1jJnGB2UzxKuuzwvD5f_37.404015_-6.004100@1306269690"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639022,
+    "wof:geomhash":"c5fd03b62b3d0c2d5863db8a707cfe37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864121,
+            "region_id":85682841,
+            "venue_id":1008710583
+        }
+    ],
+    "wof:id":1008710583,
+    "wof:lastmodified":1472639022,
+    "wof:name":"Viajes Adriano Sal.",
+    "wof:parent_id":85864121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0040998459,
+    37.4040145874,
+    -6.0040998459,
+    37.4040145874
+],
+  "geometry": {"coordinates":[-6.0040998459,37.4040145874],"type":"Point"}
+}

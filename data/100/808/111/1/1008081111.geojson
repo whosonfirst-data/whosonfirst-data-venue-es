@@ -1,0 +1,60 @@
+{
+  "id": 1008081111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6563339233,40.5191040039,-3.6563339233,40.5191040039",
+    "geom:latitude":40.519104,
+    "geom:longitude":-3.656334,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Europa (de), 13",
+    "sg:city":"Alcobendas",
+    "sg:classifiers":[],
+    "sg:orig_category":"Muebles",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 84 15 65",
+    "sg:postcode":"28108",
+    "sg:province":"Madrid",
+    "sg:website":"www.natuzzi-iberica.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4k774QBrxalTLhZQg8NPNv_40.519104_-3.656334@1306269605"
+    },
+    "wof:country":"ES",
+    "wof:created":1472598691,
+    "wof:geomhash":"57226208db411a566b90b584ee38ef8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1008081111
+        }
+    ],
+    "wof:id":1008081111,
+    "wof:lastmodified":1472598691,
+    "wof:name":"Natuzzi Iberica S. A.",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6563339233,
+    40.5191040039,
+    -3.6563339233,
+    40.5191040039
+],
+  "geometry": {"coordinates":[-3.6563339233,40.5191040039],"type":"Point"}
+}

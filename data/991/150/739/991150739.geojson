@@ -1,0 +1,79 @@
+{
+  "id": 991150739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6905150414,40.4968795776,-3.6905150414,40.4968795776",
+    "geom:latitude":40.49688,
+    "geom:longitude":-3.690515,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Santa Ana Baja, 41",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias (repartici\u00d3n Y Al Por Mayor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 35 57 80",
+    "sg:postcode":"28034",
+    "sg:province":"Madrid",
+    "sg:website":"www.bodisnat.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863563,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85799465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GQgHZcjnUd6sIy4qp41Lc_40.496880_-3.690515@1306269447"
+    },
+    "wof:country":"ES",
+    "wof:created":1472532087,
+    "wof:geomhash":"de850435f9e367ca2b337eb475d34fc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863563,
+            "region_id":85682783,
+            "venue_id":991150739
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799465,
+            "region_id":85682783,
+            "venue_id":991150739
+        }
+    ],
+    "wof:id":991150739,
+    "wof:lastmodified":1472532087,
+    "wof:name":"Bio Disnat S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6905150414,
+    40.4968795776,
+    -3.6905150414,
+    40.4968795776
+],
+  "geometry": {"coordinates":[-3.6905150414,40.4968795776],"type":"Point"}
+}

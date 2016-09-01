@@ -1,0 +1,59 @@
+{
+  "id": 1007830739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1761579514,41.3980293274,2.1761579514,41.3980293274",
+    "geom:latitude":41.398029,
+    "geom:longitude":2.176158,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Napols, 168",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aparcamientos (infraestructuras, Accesorios)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 45 13 96",
+    "sg:postcode":"08013",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RCXUlQfmUpqiWsuy7DKUD_41.398029_2.176158@1306269574"
+    },
+    "wof:country":"ES",
+    "wof:created":1472587751,
+    "wof:geomhash":"1357b8cea6d11d6cd56f91128e39f1cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1007830739
+        }
+    ],
+    "wof:id":1007830739,
+    "wof:lastmodified":1472587751,
+    "wof:name":"Lopez Carballedo Jose Benito",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1761579514,
+    41.3980293274,
+    2.1761579514,
+    41.3980293274
+],
+  "geometry": {"coordinates":[2.1761579514,41.3980293274],"type":"Point"}
+}

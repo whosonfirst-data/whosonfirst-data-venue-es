@@ -1,0 +1,81 @@
+{
+  "id": 991522895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9971961975,37.3877906799,-5.9971961975,37.3877906799",
+    "geom:latitude":37.387791,
+    "geom:longitude":-5.997196,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Padre Marchena, 21",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 21 11 43",
+    "sg:postcode":"41001",
+    "sg:province":"Sevilla",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864165,
+        102191581,
+        404342947,
+        85633129,
+        404227361,
+        101748225,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i6XXnsoXpx5dMeyknEeyB_37.387791_-5.997196@1306269497"
+    },
+    "wof:country":"ES",
+    "wof:created":1472555579,
+    "wof:geomhash":"8a091b354d286013168efc5a182f5057",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864165,
+            "region_id":85682841,
+            "venue_id":991522895
+        }
+    ],
+    "wof:id":991522895,
+    "wof:lastmodified":1472555579,
+    "wof:name":"Dominguez Manso Juana",
+    "wof:parent_id":85864165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    -5.9971961975,
+    37.3877906799,
+    -5.9971961975,
+    37.3877906799
+],
+  "geometry": {"coordinates":[-5.9971961975,37.3877906799],"type":"Point"}
+}

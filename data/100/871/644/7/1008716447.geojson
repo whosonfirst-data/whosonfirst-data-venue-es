@@ -1,0 +1,67 @@
+{
+  "id": 1008716447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8820539713,41.6566886902,-0.8820539713,41.6566886902",
+    "geom:latitude":41.656689,
+    "geom:longitude":-0.882054,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Murallas Romanas, 4",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 29 11 52",
+    "sg:postcode":"50003",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863307,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iuibEQZaEfHSDTvT2HmB8_41.656689_-0.882054@1306269691"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639288,
+    "wof:geomhash":"0b10688278295ffdb5b7b797f51e895f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863307,
+            "region_id":85682891,
+            "venue_id":1008716447
+        }
+    ],
+    "wof:id":1008716447,
+    "wof:lastmodified":1472639288,
+    "wof:name":"Viajes Murallas S.a.",
+    "wof:parent_id":85863307,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8820539713,
+    41.6566886902,
+    -0.8820539713,
+    41.6566886902
+],
+  "geometry": {"coordinates":[-0.8820539713,41.6566886902],"type":"Point"}
+}

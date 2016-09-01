@@ -1,0 +1,59 @@
+{
+  "id": 1008017111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2426469326,41.4605484009,2.2426469326,41.4605484009",
+    "geom:latitude":41.460548,
+    "geom:longitude":2.242647,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carr Iberia, 2",
+    "sg:city":"Badalona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Artes Gr\u00c1ficas, Artes Pl\u00c1sticas (curso)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 60 13 59",
+    "sg:postcode":"08915",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799485,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Az8toiV3Y3fK9DpdzjxIv_41.460548_2.242647@1306269597"
+    },
+    "wof:country":"ES",
+    "wof:created":1472595908,
+    "wof:geomhash":"b578efa310e613b5bc616f331d267415",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799485,
+            "region_id":85682663,
+            "venue_id":1008017111
+        }
+    ],
+    "wof:id":1008017111,
+    "wof:lastmodified":1472595908,
+    "wof:name":"Molina Marcos Gregorio",
+    "wof:parent_id":85799485,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2426469326,
+    41.4605484009,
+    2.2426469326,
+    41.4605484009
+],
+  "geometry": {"coordinates":[2.2426469326,41.4605484009],"type":"Point"}
+}

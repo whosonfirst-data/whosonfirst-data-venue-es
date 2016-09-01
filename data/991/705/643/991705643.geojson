@@ -1,0 +1,78 @@
+{
+  "id": 991705643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.872871995,41.6395683289,-0.872871995,41.6395683289",
+    "geom:latitude":41.639568,
+    "geom:longitude":-0.872872,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Cesareo Alierta, 72",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Internados & Ense\u00d1anza Privada",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 41 18 36",
+    "sg:postcode":"50008",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863383,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891,
+        85863361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JZkpYvzKgdUUcu6iD3qe7_41.639568_-0.872872@1306269521"
+    },
+    "wof:country":"ES",
+    "wof:created":1472565723,
+    "wof:geomhash":"3d1b5d717f486d9053effcc05a960542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863383,
+            "region_id":85682891,
+            "venue_id":991705643
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863361,
+            "region_id":85682891,
+            "venue_id":991705643
+        }
+    ],
+    "wof:id":991705643,
+    "wof:lastmodified":1472565723,
+    "wof:name":"Fundacion Agustin Gerico",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.872871995,
+    41.6395683289,
+    -0.872871995,
+    41.6395683289
+],
+  "geometry": {"coordinates":[-0.872871995,41.6395683289],"type":"Point"}
+}

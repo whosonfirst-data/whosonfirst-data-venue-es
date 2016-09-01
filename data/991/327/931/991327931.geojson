@@ -1,0 +1,82 @@
+{
+  "id": 991327931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1421210766,41.3997955322,2.1421210766,41.3997955322",
+    "geom:latitude":41.399796,
+    "geom:longitude":2.142121,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Muntaner, 388",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 01 77 51",
+    "sg:postcode":"08006",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "sg:website":"www.frm.es/davidcervello",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799611,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3F2eFsSEjJAxM4gL8Nso4G_41.399796_2.142121@1306269471"
+    },
+    "wof:country":"ES",
+    "wof:created":1472543921,
+    "wof:geomhash":"a76bcd0f378417f7d543a12c8b6a8c3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799611,
+            "region_id":85682663,
+            "venue_id":991327931
+        }
+    ],
+    "wof:id":991327931,
+    "wof:lastmodified":1472543921,
+    "wof:name":"Cervello Ros David",
+    "wof:parent_id":85799611,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    2.1421210766,
+    41.3997955322,
+    2.1421210766,
+    41.3997955322
+],
+  "geometry": {"coordinates":[2.1421210766,41.3997955322],"type":"Point"}
+}

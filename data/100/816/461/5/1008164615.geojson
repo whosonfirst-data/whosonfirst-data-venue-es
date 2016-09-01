@@ -1,0 +1,60 @@
+{
+  "id": 1008164615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7562680244,40.2726707458,-3.7562680244,40.2726707458",
+    "geom:latitude":40.272671,
+    "geom:longitude":-3.756268,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Fragua (de La), 6",
+    "sg:city":"Fuenlabrada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Papel (al Por Mayor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 42 06 30",
+    "sg:postcode":"28944",
+    "sg:province":"Madrid",
+    "sg:website":"www.papeleselcarmen.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bKbrB9AelJfi53uOUuiK0_40.272671_-3.756268@1306269617"
+    },
+    "wof:country":"ES",
+    "wof:created":1472603179,
+    "wof:geomhash":"874e780d2d850c0c372d025c5c6d78ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1008164615
+        }
+    ],
+    "wof:id":1008164615,
+    "wof:lastmodified":1472603179,
+    "wof:name":"Papeles El Carmen S.a.",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7562680244,
+    40.2726707458,
+    -3.7562680244,
+    40.2726707458
+],
+  "geometry": {"coordinates":[-3.7562680244,40.2726707458],"type":"Point"}
+}

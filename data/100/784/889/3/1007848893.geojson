@@ -1,0 +1,81 @@
+{
+  "id": 1007848893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4906829894,38.34740448,-0.4906829894,38.34740448",
+    "geom:latitude":38.347404,
+    "geom:longitude":-0.490683,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Poeta Quintana, 66",
+    "sg:city":"Alacant",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 21 72 79",
+    "sg:postcode":"03004",
+    "sg:province":"Alicante",
+    "sg:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864055,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eLDnNSGIVsykxxhqebsuc_38.347404_-0.490683@1306269576"
+    },
+    "wof:country":"ES",
+    "wof:created":1472588658,
+    "wof:geomhash":"3295fb38d181d51f0f977f189734cf93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864055,
+            "region_id":85682625,
+            "venue_id":1007848893
+        }
+    ],
+    "wof:id":1007848893,
+    "wof:lastmodified":1472588658,
+    "wof:name":"Lorente Martinez Jose Manuel",
+    "wof:parent_id":85864055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ]
+},
+  "bbox": [
+    -0.4906829894,
+    38.34740448,
+    -0.4906829894,
+    38.34740448
+],
+  "geometry": {"coordinates":[-0.4906829894,38.34740448],"type":"Point"}
+}

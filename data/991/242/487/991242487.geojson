@@ -1,0 +1,73 @@
+{
+  "id": 991242487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7876718044,43.4664039612,-3.7876718044,43.4664039612",
+    "geom:latitude":43.466404,
+    "geom:longitude":-3.787672,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Barrio Camino, 35",
+    "sg:city":"Santander",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 27 43 25",
+    "sg:postcode":"39004",
+    "sg:province":"Cantabria",
+    "sg:tags":[
+        "televisiones",
+        "y",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799303,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wwrmERahxUyJVuiooclWL_43.466404_-3.787672@1306269459"
+    },
+    "wof:country":"ES",
+    "wof:created":1472539679,
+    "wof:geomhash":"e345c5f819c809c58721f080c4139802",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799303,
+            "region_id":85682833,
+            "venue_id":991242487
+        }
+    ],
+    "wof:id":991242487,
+    "wof:lastmodified":1472539679,
+    "wof:name":"Canal 67",
+    "wof:parent_id":85799303,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "televisiones",
+        "y",
+        "radio"
+    ]
+},
+  "bbox": [
+    -3.7876718044,
+    43.4664039612,
+    -3.7876718044,
+    43.4664039612
+],
+  "geometry": {"coordinates":[-3.7876718044,43.4664039612],"type":"Point"}
+}

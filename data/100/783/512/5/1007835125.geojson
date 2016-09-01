@@ -1,0 +1,67 @@
+{
+  "id": 1007835125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1372945309,41.362739563,2.1372945309,41.362739563",
+    "geom:latitude":41.36274,
+    "geom:longitude":2.137295,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pg Zona Franca, 228",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Droguer\u00cdas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 32 22 12",
+    "sg:postcode":"08038",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799585,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fpKNv5JbS101HTWxP835F_41.362740_2.137295@1306269574"
+    },
+    "wof:country":"ES",
+    "wof:created":1472587966,
+    "wof:geomhash":"e53172f25e8811014d0eddf5ae86d2f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799585,
+            "region_id":85682663,
+            "venue_id":1007835125
+        }
+    ],
+    "wof:id":1007835125,
+    "wof:lastmodified":1472587966,
+    "wof:name":"Lopez Garcia Ramiro",
+    "wof:parent_id":85799585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1372945309,
+    41.362739563,
+    2.1372945309,
+    41.362739563
+],
+  "geometry": {"coordinates":[2.1372945309,41.362739563],"type":"Point"}
+}

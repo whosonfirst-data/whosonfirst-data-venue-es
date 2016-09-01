@@ -1,0 +1,77 @@
+{
+  "id": 1008193543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.71717906,40.4884185791,-3.71717906,40.4884185791",
+    "geom:latitude":40.488419,
+    "geom:longitude":-3.717179,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Valle De Enmedio, 2",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Material Y Suministros Para Dentistas, Cirujanos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 76 32 96",
+    "sg:postcode":"28035",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85682783,
+        102191581,
+        85633129,
+        101748283,
+        85863553,
+        85863551,
+        404338863,
+        404227387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WOIDZqSvvKM1kMTEz8tfY_40.488419_-3.717179@1306269621"
+    },
+    "wof:country":"ES",
+    "wof:created":1472608081,
+    "wof:geomhash":"46bca11ccb0140f008ca793256f00f42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748283,
+            "neighbourhood_id":85863553,
+            "region_id":85682783,
+            "venue_id":1008193543
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863551,
+            "region_id":85682783,
+            "venue_id":1008193543
+        }
+    ],
+    "wof:id":1008193543,
+    "wof:lastmodified":1472608081,
+    "wof:name":"P.d. Per S. L.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.71717906,
+    40.4884185791,
+    -3.71717906,
+    40.4884185791
+],
+  "geometry": {"coordinates":[-3.71717906,40.4884185791],"type":"Point"}
+}

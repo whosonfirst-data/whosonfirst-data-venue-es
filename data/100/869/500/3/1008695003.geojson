@@ -1,0 +1,59 @@
+{
+  "id": 1008695003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8265080452,40.3455505371,-3.8265080452,40.3455505371",
+    "geom:latitude":40.345551,
+    "geom:longitude":-3.826508,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Huerta (la), 1",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Art\u00cdculos De Regalo (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 43 59 71",
+    "sg:postcode":"28921",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zNDpb1bKYpiy8nB8icxHK_40.345551_-3.826508@1306269688"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638286,
+    "wof:geomhash":"515a3f8243eb645cc7bae816ffa1b0dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008695003
+        }
+    ],
+    "wof:id":1008695003,
+    "wof:lastmodified":1472638286,
+    "wof:name":"Vazquez Alvarez Rosa Maria",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8265080452,
+    40.3455505371,
+    -3.8265080452,
+    40.3455505371
+],
+  "geometry": {"coordinates":[-3.8265080452,40.3455505371],"type":"Point"}
+}

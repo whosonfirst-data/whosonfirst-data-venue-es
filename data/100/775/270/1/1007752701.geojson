@@ -1,0 +1,59 @@
+{
+  "id": 1007752701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4829514921,38.3577308655,-0.4829514921,38.3577308655",
+    "geom:latitude":38.357731,
+    "geom:longitude":-0.482951,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de General Espartero, 6",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Internados & Ense\u00d1anza Privada",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 24 81 81",
+    "sg:postcode":"03012",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864065,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mhMyzympOj3XtnDT5x4ZX_38.357731_-0.482951@1306269564"
+    },
+    "wof:country":"ES",
+    "wof:created":1472583828,
+    "wof:geomhash":"995d5a783a858f499212222361a72be7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864065,
+            "region_id":85682625,
+            "venue_id":1007752701
+        }
+    ],
+    "wof:id":1007752701,
+    "wof:lastmodified":1472583828,
+    "wof:name":"Juan De La Cruz Ivorra Federico",
+    "wof:parent_id":85864065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4829514921,
+    38.3577308655,
+    -0.4829514921,
+    38.3577308655
+],
+  "geometry": {"coordinates":[-0.4829514921,38.3577308655],"type":"Point"}
+}

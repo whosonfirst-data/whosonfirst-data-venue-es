@@ -1,0 +1,64 @@
+{
+  "id": 991251973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.487706393,38.3542137146,-0.487706393,38.3542137146",
+    "geom:latitude":38.354214,
+    "geom:longitude":-0.487706,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Alferez Diaz Sanchis, 44",
+    "sg:city":"Alacant",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 24 33 32",
+    "sg:postcode":"03009",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864065,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Hgk9P3QmuQAlnlkDeW6Kf_38.354214_-0.487706@1306269461"
+    },
+    "wof:country":"ES",
+    "wof:created":1472540165,
+    "wof:geomhash":"25f6e0b203d81e8d8db201953c645e30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864065,
+            "region_id":85682625,
+            "venue_id":991251973
+        }
+    ],
+    "wof:id":991251973,
+    "wof:lastmodified":1472540165,
+    "wof:name":"Capo Pastor Jose Ramon",
+    "wof:parent_id":85864065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.487706393,
+    38.3542137146,
+    -0.487706393,
+    38.3542137146
+],
+  "geometry": {"coordinates":[-0.487706393,38.3542137146],"type":"Point"}
+}

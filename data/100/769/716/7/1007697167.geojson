@@ -1,0 +1,59 @@
+{
+  "id": 1007697167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1074800491,41.5460395813,2.1074800491,41.5460395813",
+    "geom:latitude":41.54604,
+    "geom:longitude":2.10748,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Advocat Cirera, 18",
+    "sg:city":"Sabadell",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cl\u00cdnicas M\u00c9dicas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 25 41 17",
+    "sg:postcode":"08201",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62Rw5KD7j4bd7XYSKrv3EV_41.546040_2.107480@1306269556"
+    },
+    "wof:country":"ES",
+    "wof:created":1472580822,
+    "wof:geomhash":"48c4bc3a92ba79d7cf0f18eac9f94eeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1007697167
+        }
+    ],
+    "wof:id":1007697167,
+    "wof:lastmodified":1472580822,
+    "wof:name":"Institut Marques Del Valles S.l.",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1074800491,
+    41.5460395813,
+    2.1074800491,
+    41.5460395813
+],
+  "geometry": {"coordinates":[2.1074800491,41.5460395813],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1007839517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4367497861,38.4022865295,-0.4367497861,38.4022865295",
+    "geom:latitude":38.402287,
+    "geom:longitude":-0.43675,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Comandante Seva, 24",
+    "sg:city":"Sant Joan D'alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Contenedores (mercanc\u00cdas)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 65 61 96",
+    "sg:postcode":"03550",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864073,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PinPhGVGPfAwpBhIiJHSv_38.402287_-0.436750@1306269575"
+    },
+    "wof:country":"ES",
+    "wof:created":1472588192,
+    "wof:geomhash":"58a6aed5c4443d6aa3c79c6cafbb1def",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864073,
+            "region_id":85682625,
+            "venue_id":1007839517
+        }
+    ],
+    "wof:id":1007839517,
+    "wof:lastmodified":1472588192,
+    "wof:name":"Lopez Martinez Antonio",
+    "wof:parent_id":85864073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4367497861,
+    38.4022865295,
+    -0.4367497861,
+    38.4022865295
+],
+  "geometry": {"coordinates":[-0.4367497861,38.4022865295],"type":"Point"}
+}

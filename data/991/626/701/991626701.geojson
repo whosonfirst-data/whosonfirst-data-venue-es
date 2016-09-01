@@ -1,0 +1,67 @@
+{
+  "id": 991626701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0484559536,41.3869285583,2.0484559536,41.3869285583",
+    "geom:latitude":41.386929,
+    "geom:longitude":2.048456,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Joaquim Monmany, 13",
+    "sg:city":"Sant Feliu Llobregat",
+    "sg:classifiers":[],
+    "sg:orig_category":"Deportes Diversos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 936 66 87 61",
+    "sg:postcode":"08980",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799381,
+        102191581,
+        404331349,
+        85633129,
+        404227379,
+        101758769,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Wffq56m3M6DoydkLW1YuC_41.386929_2.048456@1306269511"
+    },
+    "wof:country":"ES",
+    "wof:created":1472561602,
+    "wof:geomhash":"b54fc4ba2c45f9b2457d7aa41305f4fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331349,
+            "locality_id":101758769,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799381,
+            "region_id":85682663,
+            "venue_id":991626701
+        }
+    ],
+    "wof:id":991626701,
+    "wof:lastmodified":1472561602,
+    "wof:name":"Federacion Catalana De Futbol",
+    "wof:parent_id":85799381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0484559536,
+    41.3869285583,
+    2.0484559536,
+    41.3869285583
+],
+  "geometry": {"coordinates":[2.0484559536,41.3869285583],"type":"Point"}
+}

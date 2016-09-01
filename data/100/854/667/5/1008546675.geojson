@@ -1,0 +1,67 @@
+{
+  "id": 1008546675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1687068939,41.40883255,2.1687068939,41.40883255",
+    "geom:latitude":41.408833,
+    "geom:longitude":2.168707,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Marina, 343",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ingeniero",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 36 66 06",
+    "sg:postcode":"08025",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863999,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WI1r0ralenBt38eKyZxwW_41.408833_2.168707@1306269668"
+    },
+    "wof:country":"ES",
+    "wof:created":1472631965,
+    "wof:geomhash":"9167a5aba4defee4f4b07b7e3b390765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863999,
+            "region_id":85682663,
+            "venue_id":1008546675
+        }
+    ],
+    "wof:id":1008546675,
+    "wof:lastmodified":1472631965,
+    "wof:name":"Solera Armengol Sergi",
+    "wof:parent_id":85863999,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1687068939,
+    41.40883255,
+    2.1687068939,
+    41.40883255
+],
+  "geometry": {"coordinates":[2.1687068939,41.40883255],"type":"Point"}
+}

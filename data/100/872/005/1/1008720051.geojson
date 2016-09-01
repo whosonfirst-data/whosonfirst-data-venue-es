@@ -1,0 +1,59 @@
+{
+  "id": 1008720051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6319620609,40.5468902588,-3.6319620609,40.5468902588",
+    "geom:latitude":40.54689,
+    "geom:longitude":-3.631962,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Canarias (de), 6",
+    "sg:city":"San Sebastian De Los Reyes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electricidad: Instaladores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 912 41 57 80",
+    "sg:postcode":"28700",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50gZMi8QiZt2Wq4tEDsZFd_40.546890_-3.631962@1306269691"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639436,
+    "wof:geomhash":"8556605dc0401ab45fd2f3cf63d29c3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1008720051
+        }
+    ],
+    "wof:id":1008720051,
+    "wof:lastmodified":1472639436,
+    "wof:name":"Vicente De Arcos, S.l.",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6319620609,
+    40.5468902588,
+    -3.6319620609,
+    40.5468902588
+],
+  "geometry": {"coordinates":[-3.6319620609,40.5468902588],"type":"Point"}
+}

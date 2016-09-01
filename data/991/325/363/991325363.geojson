@@ -1,0 +1,81 @@
+{
+  "id": 991325363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9452049732,43.2628822327,-2.9452049732,43.2628822327",
+    "geom:latitude":43.262882,
+    "geom:longitude":-2.945205,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Poza Licenciado, 73",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 41 32 41",
+    "sg:postcode":"48013",
+    "sg:province":"Vizcaya",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863925,
+        102191581,
+        404345949,
+        85633129,
+        404227393,
+        101748385,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dbEwhptso7oBZ9XIHodq5_43.262882_-2.945205@1306269470"
+    },
+    "wof:country":"ES",
+    "wof:created":1472543819,
+    "wof:geomhash":"fee2fe876235e2252f5b0b8580971151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345949,
+            "locality_id":101748385,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863925,
+            "region_id":85682879,
+            "venue_id":991325363
+        }
+    ],
+    "wof:id":991325363,
+    "wof:lastmodified":1472543819,
+    "wof:name":"Cerio Marina Pilar",
+    "wof:parent_id":85863925,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    -2.9452049732,
+    43.2628822327,
+    -2.9452049732,
+    43.2628822327
+],
+  "geometry": {"coordinates":[-2.9452049732,43.2628822327],"type":"Point"}
+}

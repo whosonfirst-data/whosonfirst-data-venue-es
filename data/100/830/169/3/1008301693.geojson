@@ -1,0 +1,72 @@
+{
+  "id": 1008301693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1116170883,41.3526306152,2.1116170883,41.3526306152",
+    "geom:latitude":41.352631,
+    "geom:longitude":2.111617,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rbla Marina, 206",
+    "sg:city":"Hospitalet Llobregat",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 35 30 13",
+    "sg:postcode":"08907",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799585,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VvLENnA6pav9cKtR4YfsX_41.352631_2.111617@1306269635"
+    },
+    "wof:country":"ES",
+    "wof:created":1472620515,
+    "wof:geomhash":"1cf2dc259b704239e2f38f3b63db8625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799585,
+            "region_id":85682663,
+            "venue_id":1008301693
+        }
+    ],
+    "wof:id":1008301693,
+    "wof:lastmodified":1472620515,
+    "wof:name":"Queralt Mollar Maria",
+    "wof:parent_id":85799585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1116170883,
+    41.3526306152,
+    2.1116170883,
+    41.3526306152
+],
+  "geometry": {"coordinates":[2.1116170883,41.3526306152],"type":"Point"}
+}

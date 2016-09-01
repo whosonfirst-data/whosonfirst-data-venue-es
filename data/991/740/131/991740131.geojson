@@ -1,0 +1,67 @@
+{
+  "id": 991740131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.649561882,40.463306427,-3.649561882,40.463306427",
+    "geom:latitude":40.463306,
+    "geom:longitude":-3.649562,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Mentrida, 6",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Transporte En General",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 00 22 43",
+    "sg:postcode":"28043",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799409,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WbJjuihHnNRzr9XOIDLjH_40.463306_-3.649562@1306269526"
+    },
+    "wof:country":"ES",
+    "wof:created":1472567478,
+    "wof:geomhash":"041759488264b007639a964517a8cd1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799409,
+            "region_id":85682783,
+            "venue_id":991740131
+        }
+    ],
+    "wof:id":991740131,
+    "wof:lastmodified":1472567478,
+    "wof:name":"Garcia Culebras Jose Luis",
+    "wof:parent_id":85799409,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.649561882,
+    40.463306427,
+    -3.649561882,
+    40.463306427
+],
+  "geometry": {"coordinates":[-3.649561882,40.463306427],"type":"Point"}
+}

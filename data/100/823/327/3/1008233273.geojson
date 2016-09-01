@@ -1,0 +1,59 @@
+{
+  "id": 1008233273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6146500111,39.5956306458,2.6146500111,39.5956306458",
+    "geom:latitude":39.595631,
+    "geom:longitude":2.61465,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cami Vileta (la), S/n",
+    "sg:city":"Vileta",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cl\u00cdnicas M\u00c9dicas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 73 97 42",
+    "sg:postcode":"07011",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864119,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1amSqKGlunN5IxndiRUR1N_39.595631_2.614650@1306269626"
+    },
+    "wof:country":"ES",
+    "wof:created":1472614141,
+    "wof:geomhash":"833b92d0e93245c6092c14e2031232e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864119,
+            "region_id":85682647,
+            "venue_id":1008233273
+        }
+    ],
+    "wof:id":1008233273,
+    "wof:lastmodified":1472614141,
+    "wof:name":"Pe\u00f1afiel Ramirez Alberto",
+    "wof:parent_id":85864119,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6146500111,
+    39.5956306458,
+    2.6146500111,
+    39.5956306458
+],
+  "geometry": {"coordinates":[2.6146500111,39.5956306458],"type":"Point"}
+}

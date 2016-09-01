@@ -1,0 +1,78 @@
+{
+  "id": 1008478535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6363840103,40.4096107483,-3.6363840103,40.4096107483",
+    "geom:latitude":40.409611,
+    "geom:longitude":-3.636384,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Antonio Cumella, 8",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fabricaci\u00d3n De Pernos, Tornillos Y Clavos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 71 45 49",
+    "sg:postcode":"28030",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863715,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85799553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zPCyqZB6WAHfJEUJU9ntN_40.409611_-3.636384@1306269659"
+    },
+    "wof:country":"ES",
+    "wof:created":1472629056,
+    "wof:geomhash":"34095bfed1e73c434540cf5e8da14062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863715,
+            "region_id":85682783,
+            "venue_id":1008478535
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799553,
+            "region_id":85682783,
+            "venue_id":1008478535
+        }
+    ],
+    "wof:id":1008478535,
+    "wof:lastmodified":1472629056,
+    "wof:name":"Sanz  Rosa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6363840103,
+    40.4096107483,
+    -3.6363840103,
+    40.4096107483
+],
+  "geometry": {"coordinates":[-3.6363840103,40.4096107483],"type":"Point"}
+}

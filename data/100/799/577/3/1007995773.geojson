@@ -1,0 +1,59 @@
+{
+  "id": 1007995773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.8795313835,43.2384376526,-2.8795313835,43.2384376526",
+    "geom:latitude":43.238438,
+    "geom:longitude":-2.879531,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Catalunya, 27",
+    "sg:city":"Basauri",
+    "sg:classifiers":[],
+    "sg:orig_category":"Caf\u00c9s, Bares, Cervecer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 49 10 55",
+    "sg:postcode":"48970",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799203,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bf5pr5jhGCKtIloNmucnP_43.238438_-2.879531@1306269594"
+    },
+    "wof:country":"ES",
+    "wof:created":1472595014,
+    "wof:geomhash":"a06142eb44bd32d72bf30ba8ca8d2a78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799203,
+            "region_id":85682879,
+            "venue_id":1007995773
+        }
+    ],
+    "wof:id":1007995773,
+    "wof:lastmodified":1472595014,
+    "wof:name":"Miguel Angel San Martin De Becerril",
+    "wof:parent_id":85799203,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.8795313835,
+    43.2384376526,
+    -2.8795313835,
+    43.2384376526
+],
+  "geometry": {"coordinates":[-2.8795313835,43.2384376526],"type":"Point"}
+}

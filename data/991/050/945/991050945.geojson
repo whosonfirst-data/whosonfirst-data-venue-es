@@ -1,0 +1,73 @@
+{
+  "id": 991050945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1980240345,41.3947982788,2.1980240345,41.3947982788",
+    "geom:latitude":41.394798,
+    "geom:longitude":2.198024,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Avila, 27",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 21 30 83",
+    "sg:postcode":"08005",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "televisiones",
+        "y",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HlDtYe1PLn5jKy6lmp6xs_41.394798_2.198024@1306269434"
+    },
+    "wof:country":"ES",
+    "wof:created":1472522997,
+    "wof:geomhash":"1778a86a230e41da2654ae8189f27bf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":991050945
+        }
+    ],
+    "wof:id":991050945,
+    "wof:lastmodified":1472522997,
+    "wof:name":"Auna Telecomunicaciones S.a.u.",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "televisiones",
+        "y",
+        "radio"
+    ]
+},
+  "bbox": [
+    2.1980240345,
+    41.3947982788,
+    2.1980240345,
+    41.3947982788
+],
+  "geometry": {"coordinates":[2.1980240345,41.3947982788],"type":"Point"}
+}

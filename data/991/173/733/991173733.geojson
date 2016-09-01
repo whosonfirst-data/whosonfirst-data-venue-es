@@ -1,0 +1,77 @@
+{
+  "id": 991173733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6231350899,39.5591697693,2.6231350899,39.5591697693",
+    "geom:latitude":39.55917,
+    "geom:longitude":2.623135,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Robert Graves, 67",
+    "sg:city":"Palma",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 28 18 32",
+    "sg:postcode":"07015",
+    "sg:province":"Islas Baleares",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748237,
+        85864109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OKvlls9bUN8TyBfQd5x6h_39.559170_2.623135@1306269450"
+    },
+    "wof:country":"ES",
+    "wof:created":1472534433,
+    "wof:geomhash":"d8d6a0af2ee9ceeb3861311c9fb9dbe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748237,
+            "neighbourhood_id":85864109,
+            "region_id":-1,
+            "venue_id":991173733
+        }
+    ],
+    "wof:id":991173733,
+    "wof:lastmodified":1472534433,
+    "wof:name":"Bover Carbonell Rafael",
+    "wof:parent_id":85864109,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.6231350899,
+    39.5591697693,
+    2.6231350899,
+    39.5591697693
+],
+  "geometry": {"coordinates":[2.6231350899,39.5591697693],"type":"Point"}
+}

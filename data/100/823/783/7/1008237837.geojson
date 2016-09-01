@@ -1,0 +1,85 @@
+{
+  "id": 1008237837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4898340106,38.3421211243,-0.4898340106,38.3421211243",
+    "geom:latitude":38.342121,
+    "geom:longitude":-0.489834,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pintor Lorenzo Casanova, 18",
+    "sg:city":"Alacant",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 92 79 65",
+    "sg:postcode":"03003",
+    "sg:province":"Alicante",
+    "sg:tags":[
+        "confiter\u00cdas",
+        "y",
+        "de",
+        "fabricaci\u00d3n",
+        "chocolate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799185,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cve8XDo0ykka5UYiBKJ6W_38.342121_-0.489834@1306269627"
+    },
+    "wof:country":"ES",
+    "wof:created":1472614356,
+    "wof:geomhash":"5047232fccce80c803ad48af338b3bde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85799185,
+            "region_id":85682625,
+            "venue_id":1008237837
+        }
+    ],
+    "wof:id":1008237837,
+    "wof:lastmodified":1472614356,
+    "wof:name":"Pico Sanchis Ismael",
+    "wof:parent_id":85799185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confiter\u00cdas",
+        "y",
+        "de",
+        "fabricaci\u00d3n",
+        "chocolate"
+    ]
+},
+  "bbox": [
+    -0.4898340106,
+    38.3421211243,
+    -0.4898340106,
+    38.3421211243
+],
+  "geometry": {"coordinates":[-0.4898340106,38.3421211243],"type":"Point"}
+}

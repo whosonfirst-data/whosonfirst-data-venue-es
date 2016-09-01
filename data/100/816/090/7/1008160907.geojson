@@ -1,0 +1,67 @@
+{
+  "id": 1008160907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1753489971,41.3786277771,2.1753489971,41.3786277771",
+    "geom:latitude":41.378628,
+    "geom:longitude":2.175349,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de La Rambla, 29",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Comerciantes Al Por Mayor De Vinos, Licores Y Alcoholes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 02 20 09",
+    "sg:postcode":"08002",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864033,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zeoVJ4xWyyTobhTrOOcdv_41.378628_2.175349@1306269616"
+    },
+    "wof:country":"ES",
+    "wof:created":1472602800,
+    "wof:geomhash":"3aa10dc82988865a95fef7bd7b572bae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864033,
+            "region_id":85682663,
+            "venue_id":1008160907
+        }
+    ],
+    "wof:id":1008160907,
+    "wof:lastmodified":1472602800,
+    "wof:name":"Panam's S.a.",
+    "wof:parent_id":85864033,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1753489971,
+    41.3786277771,
+    2.1753489971,
+    41.3786277771
+],
+  "geometry": {"coordinates":[2.1753489971,41.3786277771],"type":"Point"}
+}

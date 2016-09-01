@@ -1,0 +1,81 @@
+{
+  "id": 991304335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.9079470038,41.6317596436,-0.9079470038,41.6317596436",
+    "geom:latitude":41.63176,
+    "geom:longitude":-0.907947,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Via (la), 32",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 55 10 27",
+    "sg:postcode":"50009",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863399,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vLNn2MsX63uwXXR7gLTJn_41.631760_-0.907947@1306269468"
+    },
+    "wof:country":"ES",
+    "wof:created":1472542854,
+    "wof:geomhash":"9a5174149015cebcc3ac21cbecf11967",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863399,
+            "region_id":85682891,
+            "venue_id":991304335
+        }
+    ],
+    "wof:id":991304335,
+    "wof:lastmodified":1472542854,
+    "wof:name":"Cebolla Izquierdo Justo",
+    "wof:parent_id":85863399,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -0.9079470038,
+    41.6317596436,
+    -0.9079470038,
+    41.6317596436
+],
+  "geometry": {"coordinates":[-0.9079470038,41.6317596436],"type":"Point"}
+}

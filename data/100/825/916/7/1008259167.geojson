@@ -1,0 +1,74 @@
+{
+  "id": 1008259167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2322499752,41.4470214844,2.2322499752,41.4470214844",
+    "geom:latitude":41.447021,
+    "geom:longitude":2.23225,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carr Maria Benlliure, 5",
+    "sg:city":"Badalona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Rectificaci\u00d3n, Mecanizado, Fresado",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 83 61 23",
+    "sg:postcode":"08917",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799485,
+        85682663,
+        85799179,
+        102191581,
+        404330911,
+        404227379,
+        101748319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DhziLW5K4KfsmnQn4R9bW_41.447021_2.232250@1306269630"
+    },
+    "wof:country":"ES",
+    "wof:created":1472616492,
+    "wof:geomhash":"e82306db73c59531e8957b8decca717b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799485,
+            "region_id":85682663,
+            "venue_id":1008259167
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330911,
+            "locality_id":101748319,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799179,
+            "region_id":85682663,
+            "venue_id":1008259167
+        }
+    ],
+    "wof:id":1008259167,
+    "wof:lastmodified":1472616492,
+    "wof:name":"Pon Lafront Mar\u00e7al",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2322499752,
+    41.4470214844,
+    2.2322499752,
+    41.4470214844
+],
+  "geometry": {"coordinates":[2.2322499752,41.4470214844],"type":"Point"}
+}

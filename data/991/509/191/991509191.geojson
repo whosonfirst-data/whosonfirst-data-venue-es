@@ -1,0 +1,73 @@
+{
+  "id": 991509191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6502559185,39.5837860107,2.6502559185,39.5837860107",
+    "geom:latitude":39.583786,
+    "geom:longitude":2.650256,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Ramon Muntaner, 48",
+    "sg:city":"Palma",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 20 03 05",
+    "sg:postcode":"07010",
+    "sg:province":"Islas Baleares",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864091,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TqLgCT4I6JK0ibVvzGqk2_39.583786_2.650256@1306269495"
+    },
+    "wof:country":"ES",
+    "wof:created":1472554850,
+    "wof:geomhash":"2f9420eba65d51cbc10b6a72a2e9cf54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":991509191
+        }
+    ],
+    "wof:id":991509191,
+    "wof:lastmodified":1472554850,
+    "wof:name":"Discomatic S.a.",
+    "wof:parent_id":85864091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [
+    2.6502559185,
+    39.5837860107,
+    2.6502559185,
+    39.5837860107
+],
+  "geometry": {"coordinates":[2.6502559185,39.5837860107],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1008449987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.0356330872,37.4071388245,-6.0356330872,37.4071388245",
+    "geom:latitude":37.407139,
+    "geom:longitude":-6.035633,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Mercedes De Velilla, 20",
+    "sg:city":"Camas",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alimentaci\u00d3n General (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 39 12 31",
+    "sg:postcode":"41900",
+    "sg:province":"Sevilla",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864121,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zQGdtopCXJcsJTNPOghDM_37.407139_-6.035633@1306269655"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627943,
+    "wof:geomhash":"51c72ddda5bf6675b91c7cb0dc7147d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864121,
+            "region_id":85682841,
+            "venue_id":1008449987
+        }
+    ],
+    "wof:id":1008449987,
+    "wof:lastmodified":1472627943,
+    "wof:name":"Sanchez Dominguez Andres",
+    "wof:parent_id":85864121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0356330872,
+    37.4071388245,
+    -6.0356330872,
+    37.4071388245
+],
+  "geometry": {"coordinates":[-6.0356330872,37.4071388245],"type":"Point"}
+}

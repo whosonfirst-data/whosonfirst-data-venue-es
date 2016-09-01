@@ -1,0 +1,67 @@
+{
+  "id": 1008450689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1374669075,41.3627357483,2.1374669075,41.3627357483",
+    "geom:latitude":41.362736,
+    "geom:longitude":2.137467,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pg Zona Franca, 234",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Empresas De Limpieza",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 22 64 04",
+    "sg:postcode":"08038",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799585,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qc0DIZIXrEzcCiIbyjVt6_41.362736_2.137467@1306269655"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627966,
+    "wof:geomhash":"a91b4583092a9ecbcffe3dae8ad450bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799585,
+            "region_id":85682663,
+            "venue_id":1008450689
+        }
+    ],
+    "wof:id":1008450689,
+    "wof:lastmodified":1472627966,
+    "wof:name":"Sanchez Fernandez Manuel",
+    "wof:parent_id":85799585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1374669075,
+    41.3627357483,
+    2.1374669075,
+    41.3627357483
+],
+  "geometry": {"coordinates":[2.1374669075,41.3627357483],"type":"Point"}
+}

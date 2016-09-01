@@ -1,0 +1,59 @@
+{
+  "id": 991513705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6197919846,40.5476264954,-3.6197919846,40.5476264954",
+    "geom:latitude":40.547626,
+    "geom:longitude":-3.619792,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Perales (de Los), 10",
+    "sg:city":"San Sebastian De Los Reyes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Comercio De Hierro",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 54 57 87",
+    "sg:postcode":"28700",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863585,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JxwTvwB4s7bEUCeS3Rx4E_40.547626_-3.619792@1306269496"
+    },
+    "wof:country":"ES",
+    "wof:created":1472555091,
+    "wof:geomhash":"19f2cf76f5f59b734a362619e46d676a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863585,
+            "region_id":85682783,
+            "venue_id":991513705
+        }
+    ],
+    "wof:id":991513705,
+    "wof:lastmodified":1472555091,
+    "wof:name":"Distribuciones Redis S.a.",
+    "wof:parent_id":85863585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6197919846,
+    40.5476264954,
+    -3.6197919846,
+    40.5476264954
+],
+  "geometry": {"coordinates":[-3.6197919846,40.5476264954],"type":"Point"}
+}

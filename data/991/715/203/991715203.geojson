@@ -1,0 +1,78 @@
+{
+  "id": 991715203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1562469006,41.3990974426,2.1562469006,41.3990974426",
+    "geom:latitude":41.399097,
+    "geom:longitude":2.156247,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Gran De Gracia, 43",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Filatelia",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 17 63 48",
+    "sg:postcode":"08012",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799393,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mH3Q6i6GBSW9yNXPVko82_41.399097_2.156247@1306269522"
+    },
+    "wof:country":"ES",
+    "wof:created":1472566211,
+    "wof:geomhash":"080c767c1c3866d76974c69478451226",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799393,
+            "region_id":85682663,
+            "venue_id":991715203
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864017,
+            "region_id":85682663,
+            "venue_id":991715203
+        }
+    ],
+    "wof:id":991715203,
+    "wof:lastmodified":1472566211,
+    "wof:name":"Gabalda Garcia Juan",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1562469006,
+    41.3990974426,
+    2.1562469006,
+    41.3990974426
+],
+  "geometry": {"coordinates":[2.1562469006,41.3990974426],"type":"Point"}
+}

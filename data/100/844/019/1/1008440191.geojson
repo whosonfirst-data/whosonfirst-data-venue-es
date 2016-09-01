@@ -1,0 +1,67 @@
+{
+  "id": 1008440191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1557679176,41.3862228394,2.1557679176,41.3862228394",
+    "geom:latitude":41.386223,
+    "geom:longitude":2.155768,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Roma, 133",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 53 88 58",
+    "sg:postcode":"08011",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864021,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gIOXWpZAmRtLcWbnU4H4T_41.386223_2.155768@1306269654"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627573,
+    "wof:geomhash":"0550257ac70d2eab3852858d21651ad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864021,
+            "region_id":85682663,
+            "venue_id":1008440191
+        }
+    ],
+    "wof:id":1008440191,
+    "wof:lastmodified":1472627573,
+    "wof:name":"Salles Gonzalez Asuncion",
+    "wof:parent_id":85864021,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1557679176,
+    41.3862228394,
+    2.1557679176,
+    41.3862228394
+],
+  "geometry": {"coordinates":[2.1557679176,41.3862228394],"type":"Point"}
+}

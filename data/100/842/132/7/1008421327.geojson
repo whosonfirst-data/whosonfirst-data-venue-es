@@ -1,0 +1,59 @@
+{
+  "id": 1008421327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8242781162,40.4719390869,-3.8242781162,40.4719390869",
+    "geom:latitude":40.471939,
+    "geom:longitude":-3.824278,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Walman, 17",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Internados & Ense\u00d1anza Privada",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 07 70 42",
+    "sg:postcode":"28023",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863657,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36wu0s5MgvLpT93KeIGjTj_40.471939_-3.824278@1306269651"
+    },
+    "wof:country":"ES",
+    "wof:created":1472626744,
+    "wof:geomhash":"86bb485c7b5f94dc9a26a0fb7034a37e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863657,
+            "region_id":85682783,
+            "venue_id":1008421327
+        }
+    ],
+    "wof:id":1008421327,
+    "wof:lastmodified":1472626744,
+    "wof:name":"Ruiz Herreras Maria Antonia",
+    "wof:parent_id":85863657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8242781162,
+    40.4719390869,
+    -3.8242781162,
+    40.4719390869
+],
+  "geometry": {"coordinates":[-3.8242781162,40.4719390869],"type":"Point"}
+}

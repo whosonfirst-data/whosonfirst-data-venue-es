@@ -1,0 +1,64 @@
+{
+  "id": 991055411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5685288906,40.425075531,-3.5685288906,40.425075531",
+    "geom:latitude":40.425076,
+    "geom:longitude":-3.568529,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Constitucion (de La), 42",
+    "sg:city":"Coslada",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 73 82 82",
+    "sg:postcode":"28820",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863629,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Po1dS7OnEME51YqSut3E5_40.425076_-3.568529@1306269434"
+    },
+    "wof:country":"ES",
+    "wof:created":1472523312,
+    "wof:geomhash":"ee6d726b6962eb42a632041fcb0f5075",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863629,
+            "region_id":85682783,
+            "venue_id":991055411
+        }
+    ],
+    "wof:id":991055411,
+    "wof:lastmodified":1472523312,
+    "wof:name":"Auto-escuela 2000 S.a.",
+    "wof:parent_id":85863629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5685288906,
+    40.425075531,
+    -3.5685288906,
+    40.425075531
+],
+  "geometry": {"coordinates":[-3.5685288906,40.425075531],"type":"Point"}
+}

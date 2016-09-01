@@ -1,0 +1,67 @@
+{
+  "id": 1008353769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1797740459,41.4022865295,2.1797740459,41.4022865295",
+    "geom:latitude":41.402287,
+    "geom:longitude":2.179774,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Lepant, 226",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grafistas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 32 34 37",
+    "sg:postcode":"08013",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864013,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BRhndGmyBFOFMuOhN7GWz_41.402287_2.179774@1306269642"
+    },
+    "wof:country":"ES",
+    "wof:created":1472623683,
+    "wof:geomhash":"4aff2591133b6c3340686a4e70712595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864013,
+            "region_id":85682663,
+            "venue_id":1008353769
+        }
+    ],
+    "wof:id":1008353769,
+    "wof:lastmodified":1472623683,
+    "wof:name":"Ribas Andreu Jorge",
+    "wof:parent_id":85864013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1797740459,
+    41.4022865295,
+    2.1797740459,
+    41.4022865295
+],
+  "geometry": {"coordinates":[2.1797740459,41.4022865295],"type":"Point"}
+}

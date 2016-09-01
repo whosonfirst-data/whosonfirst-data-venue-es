@@ -1,0 +1,67 @@
+{
+  "id": 1007832815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1483540535,41.4076347351,2.1483540535,41.4076347351",
+    "geom:latitude":41.407635,
+    "geom:longitude":2.148354,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Republica Argentina, 14",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 17 20 42",
+    "sg:postcode":"08023",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799393,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6l0CPZ1VYKYIvRgFBgOzl3_41.407635_2.148354@1306269574"
+    },
+    "wof:country":"ES",
+    "wof:created":1472587862,
+    "wof:geomhash":"0f12434a85ac6ac9e2f7f1a002246b99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799393,
+            "region_id":85682663,
+            "venue_id":1007832815
+        }
+    ],
+    "wof:id":1007832815,
+    "wof:lastmodified":1472587862,
+    "wof:name":"Lopez Diaz Montserrat",
+    "wof:parent_id":85799393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1483540535,
+    41.4076347351,
+    2.1483540535,
+    41.4076347351
+],
+  "geometry": {"coordinates":[2.1483540535,41.4076347351],"type":"Point"}
+}

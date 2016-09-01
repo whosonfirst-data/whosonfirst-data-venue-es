@@ -1,0 +1,78 @@
+{
+  "id": 1008472109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7052710056,40.4239273071,-3.7052710056,40.4239273071",
+    "geom:latitude":40.423927,
+    "geom:longitude":-3.705271,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Jesus Del Valle, 1",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Molduras, Junquillos, Listones Y Molduras Perforadas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 31 36 85",
+    "sg:postcode":"28004",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863665,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zOJqRHoyabmIElNxxlAUR_40.423927_-3.705271@1306269658"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628798,
+    "wof:geomhash":"3e2734bdd6332258f5f3ebb2bd729b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863665,
+            "region_id":85682783,
+            "venue_id":1008472109
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863667,
+            "region_id":85682783,
+            "venue_id":1008472109
+        }
+    ],
+    "wof:id":1008472109,
+    "wof:lastmodified":1472628798,
+    "wof:name":"Santamaria Gonzalez Oliver",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7052710056,
+    40.4239273071,
+    -3.7052710056,
+    40.4239273071
+],
+  "geometry": {"coordinates":[-3.7052710056,40.4239273071],"type":"Point"}
+}

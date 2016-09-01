@@ -1,0 +1,63 @@
+{
+  "id": 1008655513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1878190041,41.3791999817,2.1878190041,41.3791999817",
+    "geom:latitude":41.3792,
+    "geom:longitude":2.187819,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pg Joan Borbo Comte Barcelo, 27",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grafistas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 21 47 97",
+    "sg:postcode":"08003",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6keAH2VZ9ry2hRgVOOKDj2_41.379200_2.187819@1306269683"
+    },
+    "wof:country":"ES",
+    "wof:created":1472636619,
+    "wof:geomhash":"246253253d5e79266e2c71ef62595d4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":1008655513
+        }
+    ],
+    "wof:id":1008655513,
+    "wof:lastmodified":1472636619,
+    "wof:name":"Triangle S.cv",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1878190041,
+    41.3791999817,
+    2.1878190041,
+    41.3791999817
+],
+  "geometry": {"coordinates":[2.1878190041,41.3791999817],"type":"Point"}
+}

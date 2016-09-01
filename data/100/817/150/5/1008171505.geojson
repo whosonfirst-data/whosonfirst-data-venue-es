@@ -1,0 +1,59 @@
+{
+  "id": 1008171505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.798183918,37.8769874573,-4.798183918,37.8769874573",
+    "geom:latitude":37.876987,
+    "geom:longitude":-4.798184,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Guerrita, 23",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[],
+    "sg:orig_category":"Iglesia Cat\u00d3lica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 23 91 97",
+    "sg:postcode":"14005",
+    "sg:province":"C\u00f3rdoba",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863887,
+        85682697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25zkx7hVS2rx5pemlRWw7I_37.876987_-4.798184@1306269618"
+    },
+    "wof:country":"ES",
+    "wof:created":1472604110,
+    "wof:geomhash":"351c812c06f98d21dd13e1c63f8b717e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863887,
+            "region_id":85682697,
+            "venue_id":1008171505
+        }
+    ],
+    "wof:id":1008171505,
+    "wof:lastmodified":1472604110,
+    "wof:name":"Parroquia Beato Alvaro De Cordoba",
+    "wof:parent_id":85863887,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.798183918,
+    37.8769874573,
+    -4.798183918,
+    37.8769874573
+],
+  "geometry": {"coordinates":[-4.798183918,37.8769874573],"type":"Point"}
+}

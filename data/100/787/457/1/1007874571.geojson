@@ -1,0 +1,67 @@
+{
+  "id": 1007874571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1807489395,41.3863563538,2.1807489395,41.3863563538",
+    "geom:latitude":41.386356,
+    "geom:longitude":2.180749,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Blanqueria, 14",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 19 70 95",
+    "sg:postcode":"08003",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799447,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oEwNO2l5ueEyi692Mae4h_41.386356_2.180749@1306269579"
+    },
+    "wof:country":"ES",
+    "wof:created":1472589877,
+    "wof:geomhash":"a491bbdc471c42f32a9494507046bdf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799447,
+            "region_id":85682663,
+            "venue_id":1007874571
+        }
+    ],
+    "wof:id":1007874571,
+    "wof:lastmodified":1472589877,
+    "wof:name":"Malet Vidal Montserrat",
+    "wof:parent_id":85799447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1807489395,
+    41.3863563538,
+    2.1807489395,
+    41.3863563538
+],
+  "geometry": {"coordinates":[2.1807489395,41.3863563538],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1007833763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5601820946,40.4242935181,-3.5601820946,40.4242935181",
+    "geom:latitude":40.424294,
+    "geom:longitude":-3.560182,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Luis Braille (de), 8",
+    "sg:city":"Coslada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Droguer\u00cdas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 72 02 62",
+    "sg:postcode":"28820",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863629,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EXu0qBejcglMuE6wqPcP7_40.424294_-3.560182@1306269574"
+    },
+    "wof:country":"ES",
+    "wof:created":1472587907,
+    "wof:geomhash":"4b7fe3953f620465a143d532e4bbf17f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863629,
+            "region_id":85682783,
+            "venue_id":1007833763
+        }
+    ],
+    "wof:id":1007833763,
+    "wof:lastmodified":1472587907,
+    "wof:name":"Lopez Fernandez Juan Jose",
+    "wof:parent_id":85863629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5601820946,
+    40.4242935181,
+    -3.5601820946,
+    40.4242935181
+],
+  "geometry": {"coordinates":[-3.5601820946,40.4242935181],"type":"Point"}
+}

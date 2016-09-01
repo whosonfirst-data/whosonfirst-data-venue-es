@@ -1,0 +1,67 @@
+{
+  "id": 1008716861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7011580467,40.4095306396,-3.7011580467,40.4095306396",
+    "geom:latitude":40.409531,
+    "geom:longitude":-3.701158,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ave Maria, 47",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 68 29 10",
+    "sg:postcode":"28012",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863793,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_394Cn8q4HHvi8eOcaygnAZ_40.409531_-3.701158@1306269691"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639302,
+    "wof:geomhash":"64a7d8f67494b41d71e9b6ce0d873780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863793,
+            "region_id":85682783,
+            "venue_id":1008716861
+        }
+    ],
+    "wof:id":1008716861,
+    "wof:lastmodified":1472639302,
+    "wof:name":"Viajes Rodas S. A.",
+    "wof:parent_id":85863793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7011580467,
+    40.4095306396,
+    -3.7011580467,
+    40.4095306396
+],
+  "geometry": {"coordinates":[-3.7011580467,40.4095306396],"type":"Point"}
+}

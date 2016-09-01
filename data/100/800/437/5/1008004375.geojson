@@ -1,0 +1,59 @@
+{
+  "id": 1008004375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8244100213,41.6850471497,-0.8244100213,41.6850471497",
+    "geom:latitude":41.685047,
+    "geom:longitude":-0.82441,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Iglesia (monta\u00d1ana), 2",
+    "sg:city":"Monta\u00d1ana",
+    "sg:classifiers":[],
+    "sg:orig_category":"Estancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 57 69 96",
+    "sg:postcode":"50059",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863295,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33pE6dh5LjJm7p8QPAIsz1_41.685047_-0.824410@1306269595"
+    },
+    "wof:country":"ES",
+    "wof:created":1472595366,
+    "wof:geomhash":"1bfd13ad5e8355dd01be5d7bc6e6461b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863295,
+            "region_id":85682891,
+            "venue_id":1008004375
+        }
+    ],
+    "wof:id":1008004375,
+    "wof:lastmodified":1472595366,
+    "wof:name":"Miralles Ferrer Pilar",
+    "wof:parent_id":85863295,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8244100213,
+    41.6850471497,
+    -0.8244100213,
+    41.6850471497
+],
+  "geometry": {"coordinates":[-0.8244100213,41.6850471497],"type":"Point"}
+}

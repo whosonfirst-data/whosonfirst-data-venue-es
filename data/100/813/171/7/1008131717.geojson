@@ -1,0 +1,59 @@
+{
+  "id": 1008131717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7333168983,40.3034591675,-3.7333168983,40.3034591675",
+    "geom:latitude":40.303459,
+    "geom:longitude":-3.733317,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Miguel Angel Blanco Garrido, 3",
+    "sg:city":"Getafe",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros De Coordinaci\u00d3n",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 96 10 00",
+    "sg:postcode":"28901",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SB0CismSjbHAG1LCcIiyN_40.303459_-3.733317@1306269612"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601035,
+    "wof:geomhash":"3a1733357f94dcae3f9d795d43c97676",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1008131717
+        }
+    ],
+    "wof:id":1008131717,
+    "wof:lastmodified":1472601035,
+    "wof:name":"Organizacion 2000 S.a.",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7333168983,
+    40.3034591675,
+    -3.7333168983,
+    40.3034591675
+],
+  "geometry": {"coordinates":[-3.7333168983,40.3034591675],"type":"Point"}
+}

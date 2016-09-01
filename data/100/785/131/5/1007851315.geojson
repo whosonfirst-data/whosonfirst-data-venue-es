@@ -1,0 +1,78 @@
+{
+  "id": 1007851315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.0035290718,37.3769683838,-6.0035290718,37.3769683838",
+    "geom:latitude":37.376968,
+    "geom:longitude":-6.003529,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Republica Argentina, 33",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c9dicos: Medicina Interna",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 45 71 51",
+    "sg:postcode":"41011",
+    "sg:province":"Sevilla",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864129,
+        102191581,
+        404342947,
+        85633129,
+        404227361,
+        101748225,
+        85682841,
+        85864127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GHJ1PArphGeFdwBzo2img_37.376968_-6.003529@1306269576"
+    },
+    "wof:country":"ES",
+    "wof:created":1472588781,
+    "wof:geomhash":"4831e8faf144e9e0dbe124f37a438c59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864129,
+            "region_id":85682841,
+            "venue_id":1007851315
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864127,
+            "region_id":85682841,
+            "venue_id":1007851315
+        }
+    ],
+    "wof:id":1007851315,
+    "wof:lastmodified":1472588781,
+    "wof:name":"Losada Villasante Fernando",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0035290718,
+    37.3769683838,
+    -6.0035290718,
+    37.3769683838
+],
+  "geometry": {"coordinates":[-6.0035290718,37.3769683838],"type":"Point"}
+}

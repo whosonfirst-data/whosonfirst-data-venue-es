@@ -1,0 +1,67 @@
+{
+  "id": 991622299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4940361977,38.3615112305,-0.4940361977,38.3615112305",
+    "geom:latitude":38.361511,
+    "geom:longitude":-0.494036,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Gran Via, 1",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 24 28 50",
+    "sg:postcode":"03009",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864083,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pwelqWkRKIfe6LaNw1nk6_38.361511_-0.494036@1306269510"
+    },
+    "wof:country":"ES",
+    "wof:created":1472561421,
+    "wof:geomhash":"de1809ce67c6af51cbd5d4271b0c8ba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864083,
+            "region_id":85682625,
+            "venue_id":991622299
+        }
+    ],
+    "wof:id":991622299,
+    "wof:lastmodified":1472561421,
+    "wof:name":"Farmacia Moreno Manteca C.b.",
+    "wof:parent_id":85864083,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4940361977,
+    38.3615112305,
+    -0.4940361977,
+    38.3615112305
+],
+  "geometry": {"coordinates":[-0.4940361977,38.3615112305],"type":"Point"}
+}

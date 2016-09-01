@@ -1,0 +1,81 @@
+{
+  "id": 991150487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6175689697,40.4272117615,-3.6175689697,40.4272117615",
+    "geom:latitude":40.427212,
+    "geom:longitude":-3.617569,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pobladura Del Valle, 15",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 13 13 64",
+    "sg:postcode":"28037",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863701,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WwmtPaDfU6TPJx0q5c0nr_40.427212_-3.617569@1306269447"
+    },
+    "wof:country":"ES",
+    "wof:created":1472532060,
+    "wof:geomhash":"2afb9122a78b4e91a1abcfaa23c14e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863701,
+            "region_id":85682783,
+            "venue_id":991150487
+        }
+    ],
+    "wof:id":991150487,
+    "wof:lastmodified":1472532060,
+    "wof:name":"Bingplay S. A.",
+    "wof:parent_id":85863701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [
+    -3.6175689697,
+    40.4272117615,
+    -3.6175689697,
+    40.4272117615
+],
+  "geometry": {"coordinates":[-3.6175689697,40.4272117615],"type":"Point"}
+}

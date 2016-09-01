@@ -1,0 +1,72 @@
+{
+  "id": 991746959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.4355201721,36.7045860291,-4.4355201721,36.7045860291",
+    "geom:latitude":36.704586,
+    "geom:longitude":-4.43552,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Tomas Echeverria, 7",
+    "sg:city":"Malaga",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 35 67 81",
+    "sg:postcode":"29002",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863441,
+        102191581,
+        404339241,
+        85633129,
+        404227361,
+        101748185,
+        85682787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54AQdLUN5CEaLsDxjU01A2_36.704586_-4.435520@1306269527"
+    },
+    "wof:country":"ES",
+    "wof:created":1472568012,
+    "wof:geomhash":"a5c8c10e68d8c3319674012da18566ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863441,
+            "region_id":85682787,
+            "venue_id":991746959
+        }
+    ],
+    "wof:id":991746959,
+    "wof:lastmodified":1472568012,
+    "wof:name":"Garcia Gomez Jose",
+    "wof:parent_id":85863441,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4355201721,
+    36.7045860291,
+    -4.4355201721,
+    36.7045860291
+],
+  "geometry": {"coordinates":[-4.4355201721,36.7045860291],"type":"Point"}
+}

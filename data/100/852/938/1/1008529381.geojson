@@ -1,0 +1,74 @@
+{
+  "id": 1008529381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.665874958,39.5715446472,2.665874958,39.5715446472",
+    "geom:latitude":39.571545,
+    "geom:longitude":2.665875,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Manacor, 81",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Molduras, Junquillos, Listones Y Molduras Perforadas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 24 38 62",
+    "sg:postcode":"07007",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864089,
+        102191581,
+        404330817,
+        85633129,
+        404227367,
+        101748237,
+        85682647,
+        85864087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WLyTMabdgT2MFQ7xXFC51_39.571545_2.665875@1306269666"
+    },
+    "wof:country":"ES",
+    "wof:created":1472631231,
+    "wof:geomhash":"54e040413e3813cc9c92385f61b70198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864089,
+            "region_id":85682647,
+            "venue_id":1008529381
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864087,
+            "region_id":85682647,
+            "venue_id":1008529381
+        }
+    ],
+    "wof:id":1008529381,
+    "wof:lastmodified":1472631231,
+    "wof:name":"Sistelcom-telemensaje S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.665874958,
+    39.5715446472,
+    2.665874958,
+    39.5715446472
+],
+  "geometry": {"coordinates":[2.665874958,39.5715446472],"type":"Point"}
+}

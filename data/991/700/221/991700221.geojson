@@ -1,0 +1,63 @@
+{
+  "id": 991700221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1903159618,41.3801994324,2.1903159618,41.3801994324",
+    "geom:latitude":41.380199,
+    "geom:longitude":2.190316,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Andrea Doria, 12",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Frutas, Legumbres Frescas Y Tempranas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 24 70 11",
+    "sg:postcode":"08003",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HVAZpGFNKvzDfx4zZ6yUZ_41.380199_2.190316@1306269520"
+    },
+    "wof:country":"ES",
+    "wof:created":1472565481,
+    "wof:geomhash":"5b8f353a381a4292f8f8b8fbefd5ed8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":991700221
+        }
+    ],
+    "wof:id":991700221,
+    "wof:lastmodified":1472565481,
+    "wof:name":"Frutas Roura S.a.",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1903159618,
+    41.3801994324,
+    2.1903159618,
+    41.3801994324
+],
+  "geometry": {"coordinates":[2.1903159618,41.3801994324],"type":"Point"}
+}

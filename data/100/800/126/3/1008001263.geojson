@@ -1,0 +1,67 @@
+{
+  "id": 1008001263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.5099319816,38.3415222168,-0.5099319816,38.3415222168",
+    "geom:latitude":38.341522,
+    "geom:longitude":-0.509932,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Jose Salvetti, 7",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 10 63 26",
+    "sg:postcode":"03007",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864049,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22jwEpACVkIZs8LYRTsb5O_38.341522_-0.509932@1306269595"
+    },
+    "wof:country":"ES",
+    "wof:created":1472595249,
+    "wof:geomhash":"812ab45c17ea22b2c8bf36d7291edf17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864049,
+            "region_id":85682625,
+            "venue_id":1008001263
+        }
+    ],
+    "wof:id":1008001263,
+    "wof:lastmodified":1472595249,
+    "wof:name":"Minguespar S.l.",
+    "wof:parent_id":85864049,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.5099319816,
+    38.3415222168,
+    -0.5099319816,
+    38.3415222168
+],
+  "geometry": {"coordinates":[-0.5099319816,38.3415222168],"type":"Point"}
+}

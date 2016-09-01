@@ -1,0 +1,73 @@
+{
+  "id": 991859003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4998539984,38.3397407532,-0.4998539984,38.3397407532",
+    "geom:latitude":38.339741,
+    "geom:longitude":-0.499854,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Catedratico Soler, 10",
+    "sg:city":"Alacant",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 12 06 04",
+    "sg:postcode":"03007",
+    "sg:province":"Alicante",
+    "sg:website":"www.autoescuelasanfrancisco.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799185,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2W2e0uoszf7LiwSVn8Weiw_38.339741_-0.499854@1306269542"
+    },
+    "wof:country":"ES",
+    "wof:created":1472575290,
+    "wof:geomhash":"08ada2f4f185b198c9a7a1eedccb30b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85799185,
+            "region_id":85682625,
+            "venue_id":991859003
+        }
+    ],
+    "wof:id":991859003,
+    "wof:lastmodified":1472575290,
+    "wof:name":"Gruposan S.l.",
+    "wof:parent_id":85799185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4998539984,
+    38.3397407532,
+    -0.4998539984,
+    38.3397407532
+],
+  "geometry": {"coordinates":[-0.4998539984,38.3397407532],"type":"Point"}
+}

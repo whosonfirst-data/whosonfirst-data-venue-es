@@ -1,0 +1,59 @@
+{
+  "id": 1008112305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4882569909,38.3577690125,-0.4882569909,38.3577690125",
+    "geom:latitude":38.357769,
+    "geom:longitude":-0.488257,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Zarandieta, 2",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros Empresariales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 24 80 84",
+    "sg:postcode":"03010",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864065,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sxNyeowfN3pBU0yXQ78N8_38.357769_-0.488257@1306269610"
+    },
+    "wof:country":"ES",
+    "wof:created":1472600043,
+    "wof:geomhash":"33f9fe09123e459ac6261566dcf2fad2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864065,
+            "region_id":85682625,
+            "venue_id":1008112305
+        }
+    ],
+    "wof:id":1008112305,
+    "wof:lastmodified":1472600043,
+    "wof:name":"Obras E Infraestructuras Del Mediterraneo Sl",
+    "wof:parent_id":85864065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4882569909,
+    38.3577690125,
+    -0.4882569909,
+    38.3577690125
+],
+  "geometry": {"coordinates":[-0.4882569909,38.3577690125],"type":"Point"}
+}

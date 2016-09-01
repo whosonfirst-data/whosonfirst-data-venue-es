@@ -1,0 +1,81 @@
+{
+  "id": 991458035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1429998875,41.3843841553,2.1429998875,41.3843841553",
+    "geom:latitude":41.384384,
+    "geom:longitude":2.143,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Corsega, 49",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 30 51 80",
+    "sg:postcode":"08029",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799597,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sFj32OBHH8oOr8NSWOdjj_41.384384_2.143000@1306269488"
+    },
+    "wof:country":"ES",
+    "wof:created":1472552116,
+    "wof:geomhash":"9851206ef274797dbdd6a80b6898999f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799597,
+            "region_id":85682663,
+            "venue_id":991458035
+        }
+    ],
+    "wof:id":991458035,
+    "wof:lastmodified":1472552116,
+    "wof:name":"Cruz Sanchez Jose",
+    "wof:parent_id":85799597,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.1429998875,
+    41.3843841553,
+    2.1429998875,
+    41.3843841553
+],
+  "geometry": {"coordinates":[2.1429998875,41.3843841553],"type":"Point"}
+}

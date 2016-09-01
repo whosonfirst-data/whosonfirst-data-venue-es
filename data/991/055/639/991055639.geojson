@@ -1,0 +1,72 @@
+{
+  "id": 991055639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3754490018,39.4659461975,-0.3754490018,39.4659461975",
+    "geom:latitude":39.465946,
+    "geom:longitude":-0.375449,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Psaj Doctor Serra, 25",
+    "sg:city":"Valencia",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 51 96 41",
+    "sg:postcode":"46004",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864207,
+        102191581,
+        404345361,
+        85633129,
+        404227381,
+        101748241,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32bFqx1RDzuBhxuxpw8NV3_39.465946_-0.375449@1306269434"
+    },
+    "wof:country":"ES",
+    "wof:created":1472523326,
+    "wof:geomhash":"da45eb6b5d4c68c47ad54738f07817cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345361,
+            "locality_id":101748241,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864207,
+            "region_id":85682867,
+            "venue_id":991055639
+        }
+    ],
+    "wof:id":991055639,
+    "wof:lastmodified":1472523326,
+    "wof:name":"Autoescuela Asfalto S.l.",
+    "wof:parent_id":85864207,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3754490018,
+    39.4659461975,
+    -0.3754490018,
+    39.4659461975
+],
+  "geometry": {"coordinates":[-0.3754490018,39.4659461975],"type":"Point"}
+}

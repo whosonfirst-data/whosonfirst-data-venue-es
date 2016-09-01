@@ -1,0 +1,59 @@
+{
+  "id": 1008575697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7616279125,40.3193092346,-3.7616279125,40.3193092346",
+    "geom:latitude":40.319309,
+    "geom:longitude":-3.761628,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Carlos Sainz (de), 5",
+    "sg:city":"Leganes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agentes, Concesionarios Y Sucursales De Veh\u00cdculos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 98 76 10",
+    "sg:postcode":"28914",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863785,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CBTakahIiQbc0PA7pmbX5_40.319309_-3.761628@1306269672"
+    },
+    "wof:country":"ES",
+    "wof:created":1472633204,
+    "wof:geomhash":"60cf67ae327d53d91fe8cc4f9234813a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863785,
+            "region_id":85682783,
+            "venue_id":1008575697
+        }
+    ],
+    "wof:id":1008575697,
+    "wof:lastmodified":1472633204,
+    "wof:name":"Surmocion, S.a.",
+    "wof:parent_id":85863785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7616279125,
+    40.3193092346,
+    -3.7616279125,
+    40.3193092346
+],
+  "geometry": {"coordinates":[-3.7616279125,40.3193092346],"type":"Point"}
+}

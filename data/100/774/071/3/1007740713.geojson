@@ -1,0 +1,67 @@
+{
+  "id": 1007740713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1234610081,41.3866577148,2.1234610081,41.3866577148",
+    "geom:latitude":41.386658,
+    "geom:longitude":2.123461,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sabino Arana, 56",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Doctores En Medicina",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 30 74 03",
+    "sg:postcode":"08028",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799597,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kuqfQWGfbxPyHDMxZ7hvR_41.386658_2.123461@1306269562"
+    },
+    "wof:country":"ES",
+    "wof:created":1472583158,
+    "wof:geomhash":"b652b608ca9d5224e62e31fc559596fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799597,
+            "region_id":85682663,
+            "venue_id":1007740713
+        }
+    ],
+    "wof:id":1007740713,
+    "wof:lastmodified":1472583158,
+    "wof:name":"Jordi Llop Juan Jose",
+    "wof:parent_id":85799597,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1234610081,
+    41.3866577148,
+    2.1234610081,
+    41.3866577148
+],
+  "geometry": {"coordinates":[2.1234610081,41.3866577148],"type":"Point"}
+}

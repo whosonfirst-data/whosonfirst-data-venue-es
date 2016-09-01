@@ -1,0 +1,81 @@
+{
+  "id": 991040795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4944896102,38.3469085693,-0.4944896102,38.3469085693",
+    "geom:latitude":38.346909,
+    "geom:longitude":-0.49449,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Cardenal Belluga, 3",
+    "sg:city":"Alacant",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 12 07 41",
+    "sg:postcode":"03005",
+    "sg:province":"Alicante",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864055,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xWKtkY09zHgTrTwUrWtMj_38.346909_-0.494490@1306269432"
+    },
+    "wof:country":"ES",
+    "wof:created":1472522253,
+    "wof:geomhash":"d9f6eb26221b2ce9d6285456afc854de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864055,
+            "region_id":85682625,
+            "venue_id":991040795
+        }
+    ],
+    "wof:id":991040795,
+    "wof:lastmodified":1472522253,
+    "wof:name":"Asociacion Provincial De Empresarios De Peluquerias De Caballeros",
+    "wof:parent_id":85864055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -0.4944896102,
+    38.3469085693,
+    -0.4944896102,
+    38.3469085693
+],
+  "geometry": {"coordinates":[-0.4944896102,38.3469085693],"type":"Point"}
+}

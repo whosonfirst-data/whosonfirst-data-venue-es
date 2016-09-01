@@ -1,0 +1,82 @@
+{
+  "id": 1008672053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6034209728,37.171333313,-3.6034209728,37.171333313",
+    "geom:latitude":37.171333,
+    "geom:longitude":-3.603421,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Recogidas, 37",
+    "sg:city":"Granada",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 25 90 00",
+    "sg:postcode":"18002",
+    "sg:province":"Granada",
+    "sg:tags":[
+        "televisiones",
+        "y",
+        "radio"
+    ],
+    "sg:website":"www.ondacero.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863841,
+        102191581,
+        404335211,
+        85633129,
+        404227361,
+        101748197,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bdlwWhtN6F87UmsHDJ5ge_37.171333_-3.603421@1306269685"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637280,
+    "wof:geomhash":"b26675aca3e371f8ff979b42a0cd7997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404335211,
+            "locality_id":101748197,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863841,
+            "region_id":85682731,
+            "venue_id":1008672053
+        }
+    ],
+    "wof:id":1008672053,
+    "wof:lastmodified":1472637280,
+    "wof:name":"Uniprex-onda Cero",
+    "wof:parent_id":85863841,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "televisiones",
+        "y",
+        "radio"
+    ]
+},
+  "bbox": [
+    -3.6034209728,
+    37.171333313,
+    -3.6034209728,
+    37.171333313
+],
+  "geometry": {"coordinates":[-3.6034209728,37.171333313],"type":"Point"}
+}

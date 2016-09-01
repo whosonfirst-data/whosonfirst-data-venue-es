@@ -1,0 +1,59 @@
+{
+  "id": 1007875241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6333329678,39.5706787109,2.6333329678,39.5706787109",
+    "geom:latitude":39.570679,
+    "geom:longitude":2.633333,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Mestres D'aixa, S/n",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pistas Y Clases De Tenis",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 45 47 17",
+    "sg:postcode":"07014",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864107,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZDQwmerdEUQPYIr4rbwi3_39.570679_2.633333@1306269579"
+    },
+    "wof:country":"ES",
+    "wof:created":1472589908,
+    "wof:geomhash":"66a8aeff6f1a450df962a9d625e62690",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864107,
+            "region_id":85682647,
+            "venue_id":1007875241
+        }
+    ],
+    "wof:id":1007875241,
+    "wof:lastmodified":1472589908,
+    "wof:name":"Mallorca Tenis Club",
+    "wof:parent_id":85864107,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6333329678,
+    39.5706787109,
+    2.6333329678,
+    39.5706787109
+],
+  "geometry": {"coordinates":[2.6333329678,39.5706787109],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1008467897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7219440937,40.3891716003,-3.7219440937,40.3891716003",
+    "geom:latitude":40.389172,
+    "geom:longitude":-3.721944,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Victor Manuel Iii, 12",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Plomeros",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 69 43 30",
+    "sg:postcode":"28019",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863759,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5u2Ix2Uc7oTgtk9EPgdva5_40.389172_-3.721944@1306269658"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628625,
+    "wof:geomhash":"dac23d7ac005a795cb079daf39dca294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863759,
+            "region_id":85682783,
+            "venue_id":1008467897
+        }
+    ],
+    "wof:id":1008467897,
+    "wof:lastmodified":1472628625,
+    "wof:name":"Sanitarios Madrid S. A.",
+    "wof:parent_id":85863759,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7219440937,
+    40.3891716003,
+    -3.7219440937,
+    40.3891716003
+],
+  "geometry": {"coordinates":[-3.7219440937,40.3891716003],"type":"Point"}
+}

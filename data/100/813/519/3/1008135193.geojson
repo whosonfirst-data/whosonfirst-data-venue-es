@@ -1,0 +1,67 @@
+{
+  "id": 1008135193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4946449995,38.3485527039,-0.4946449995,38.3485527039",
+    "geom:latitude":38.348553,
+    "geom:longitude":-0.494645,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Santa Felicitas, 7",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 12 48 79",
+    "sg:postcode":"03005",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864055,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SBHnHLe6QW505ZDreiJ1h_38.348553_-0.494645@1306269613"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601177,
+    "wof:geomhash":"021531c900cc8b5a0532c8e3b8265eae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864055,
+            "region_id":85682625,
+            "venue_id":1008135193
+        }
+    ],
+    "wof:id":1008135193,
+    "wof:lastmodified":1472601177,
+    "wof:name":"Ortega Castro Luis",
+    "wof:parent_id":85864055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4946449995,
+    38.3485527039,
+    -0.4946449995,
+    38.3485527039
+],
+  "geometry": {"coordinates":[-0.4946449995,38.3485527039],"type":"Point"}
+}

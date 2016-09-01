@@ -1,0 +1,78 @@
+{
+  "id": 1008493091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1644620895,41.3861656189,2.1644620895,41.3861656189",
+    "geom:latitude":41.386166,
+    "geom:longitude":2.164462,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rond Universitat, 12",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 17 82 41",
+    "sg:postcode":"08007",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864035,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13S1VnDHOB0osCxRXcRN0A_41.386166_2.164462@1306269661"
+    },
+    "wof:country":"ES",
+    "wof:created":1472629686,
+    "wof:geomhash":"f953c33422bef4bf6efb36755b67cf5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864035,
+            "region_id":85682663,
+            "venue_id":1008493091
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864017,
+            "region_id":85682663,
+            "venue_id":1008493091
+        }
+    ],
+    "wof:id":1008493091,
+    "wof:lastmodified":1472629686,
+    "wof:name":"Segura De Luna Ernesto",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1644620895,
+    41.3861656189,
+    2.1644620895,
+    41.3861656189
+],
+  "geometry": {"coordinates":[2.1644620895,41.3861656189],"type":"Point"}
+}

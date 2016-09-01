@@ -1,0 +1,68 @@
+{
+  "id": 1008715173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1686830521,41.4037818909,2.1686830521,41.4037818909",
+    "geom:latitude":41.403782,
+    "geom:longitude":2.168683,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Corsega, 493",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 57 16 44",
+    "sg:postcode":"08025",
+    "sg:province":"Barcelona",
+    "sg:website":"www.iltrida.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863999,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_374VVwQNbj1N0pKtvD5Skf_41.403782_2.168683@1306269691"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639237,
+    "wof:geomhash":"3fcc426786c6604448b7cc079dcf8220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863999,
+            "region_id":85682663,
+            "venue_id":1008715173
+        }
+    ],
+    "wof:id":1008715173,
+    "wof:lastmodified":1472639237,
+    "wof:name":"Viajes Iltrida S.a.",
+    "wof:parent_id":85863999,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1686830521,
+    41.4037818909,
+    2.1686830521,
+    41.4037818909
+],
+  "geometry": {"coordinates":[2.1686830521,41.4037818909],"type":"Point"}
+}

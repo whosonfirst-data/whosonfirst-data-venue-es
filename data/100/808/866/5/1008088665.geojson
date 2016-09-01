@@ -1,0 +1,63 @@
+{
+  "id": 1008088665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1802630424,41.3815689087,2.1802630424,41.3815689087",
+    "geom:latitude":41.381569,
+    "geom:longitude":2.180263,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Gignas, 25",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alimentaci\u00d3n General (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 10 79 39",
+    "sg:postcode":"08002",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HbqojyxhietuIQlCty45P_41.381569_2.180263@1306269606"
+    },
+    "wof:country":"ES",
+    "wof:created":1472599033,
+    "wof:geomhash":"7710eb0e545a3c3d194a3e40a40c0aed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":1008088665
+        }
+    ],
+    "wof:id":1008088665,
+    "wof:lastmodified":1472599033,
+    "wof:name":"Nebreda Gonzalez Lazaro",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1802630424,
+    41.3815689087,
+    2.1802630424,
+    41.3815689087
+],
+  "geometry": {"coordinates":[2.1802630424,41.3815689087],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1008491781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1462030411,41.3724555969,2.1462030411,41.3724555969",
+    "geom:latitude":41.372456,
+    "geom:longitude":2.146203,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"G.v. Corts Catalanes, 304",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hoteles",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 23 98 07",
+    "sg:postcode":"08004",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864039,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6E1xok2o0uqe0t9zSG5QHB_41.372456_2.146203@1306269661"
+    },
+    "wof:country":"ES",
+    "wof:created":1472629629,
+    "wof:geomhash":"e17bb79326335ee62843990c301a20b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864039,
+            "region_id":85682663,
+            "venue_id":1008491781
+        }
+    ],
+    "wof:id":1008491781,
+    "wof:lastmodified":1472629629,
+    "wof:name":"Segarra Puig Josefa",
+    "wof:parent_id":85864039,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1462030411,
+    41.3724555969,
+    2.1462030411,
+    41.3724555969
+],
+  "geometry": {"coordinates":[2.1462030411,41.3724555969],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1024496717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.168518,41.387411,2.168518,41.387411",
+    "geom:latitude":41.387411,
+    "geom:longitude":2.168518,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rambla de Catalunya 77, 1B",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"08007",
+    "sg:tags":[
+        "mobile-social-networking",
+        "lbs",
+        "geo-messaging",
+        "mobile-communities"
+    ],
+    "sg:website":"http://www.geo-me.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799447,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xju75wKAVuOl6j7EVrce5_41.387411_2.168518@1308163238"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641479,
+    "wof:geomhash":"5d5ae63b65352be6f6405d1bceee47a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799447,
+            "region_id":85682663,
+            "venue_id":1024496717
+        }
+    ],
+    "wof:id":1024496717,
+    "wof:lastmodified":1472641479,
+    "wof:name":"GeoMe",
+    "wof:parent_id":85799447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile-social-networking",
+        "lbs",
+        "geo-messaging",
+        "mobile-communities"
+    ]
+},
+  "bbox": [
+    2.168518,
+    41.387411,
+    2.168518,
+    41.387411
+],
+  "geometry": {"coordinates":[2.168518,41.387411],"type":"Point"}
+}

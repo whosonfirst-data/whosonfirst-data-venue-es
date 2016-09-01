@@ -1,0 +1,81 @@
+{
+  "id": 1008622833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6005990505,37.1731491089,-3.6005990505,37.1731491089",
+    "geom:latitude":37.173149,
+    "geom:longitude":-3.600599,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Recogidas, 2",
+    "sg:city":"Granada",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 25 20 56",
+    "sg:postcode":"18002",
+    "sg:province":"Granada",
+    "sg:tags":[
+        "salas",
+        "de",
+        "cine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863841,
+        102191581,
+        404335211,
+        85633129,
+        404227361,
+        101748197,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ht9Nx7aI15M7vcz2NjWeY_37.173149_-3.600599@1306269678"
+    },
+    "wof:country":"ES",
+    "wof:created":1472635247,
+    "wof:geomhash":"c36428c438708876eadbb3612037340e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404335211,
+            "locality_id":101748197,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863841,
+            "region_id":85682731,
+            "venue_id":1008622833
+        }
+    ],
+    "wof:id":1008622833,
+    "wof:lastmodified":1472635247,
+    "wof:name":"T.i.c.e. S.a.",
+    "wof:parent_id":85863841,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salas",
+        "de",
+        "cine"
+    ]
+},
+  "bbox": [
+    -3.6005990505,
+    37.1731491089,
+    -3.6005990505,
+    37.1731491089
+],
+  "geometry": {"coordinates":[-3.6005990505,37.1731491089],"type":"Point"}
+}

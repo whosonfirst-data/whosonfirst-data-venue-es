@@ -1,0 +1,102 @@
+{
+  "id": 1024496591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.192023,41.406335,2.192023,41.406335",
+    "geom:latitude":41.406335,
+    "geom:longitude":2.192023,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Llacuna 162",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"08018",
+    "sg:tags":[
+        "music-recommendation",
+        "collaborative-filtering",
+        "playlist-creation",
+        "sound-synthesis",
+        "discovery-engine",
+        "acoustic-fingerprinting",
+        "digital-watermarking",
+        "audio-analysis",
+        "song-identification",
+        "mtg",
+        "yamaha",
+        "intel",
+        "freesound",
+        "orchard"
+    ],
+    "sg:website":"http://www.bmat.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799265,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hiNPtF10R5GthHLAYW3ZD_41.406335_2.192023@1308163237"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641474,
+    "wof:geomhash":"9ff977a2d86b60b8ef771ecbcedace24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799265,
+            "region_id":85682663,
+            "venue_id":1024496591
+        }
+    ],
+    "wof:id":1024496591,
+    "wof:lastmodified":1472641474,
+    "wof:name":"BMAT",
+    "wof:parent_id":85799265,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "music-recommendation",
+        "collaborative-filtering",
+        "playlist-creation",
+        "sound-synthesis",
+        "discovery-engine",
+        "acoustic-fingerprinting",
+        "digital-watermarking",
+        "audio-analysis",
+        "song-identification",
+        "mtg",
+        "yamaha",
+        "intel",
+        "freesound",
+        "orchard"
+    ]
+},
+  "bbox": [
+    2.192023,
+    41.406335,
+    2.192023,
+    41.406335
+],
+  "geometry": {"coordinates":[2.192023,41.406335],"type":"Point"}
+}

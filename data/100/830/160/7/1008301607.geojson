@@ -1,0 +1,59 @@
+{
+  "id": 1008301607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6485729218,39.5890922546,2.6485729218,39.5890922546",
+    "geom:latitude":39.589092,
+    "geom:longitude":2.648573,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Alfons El Savi, 9",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Venta, Alquiler, Mantenimiento De Calderas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 20 12 16",
+    "sg:postcode":"07010",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864091,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37B24b5KcDbc2OK4WGQhsg_39.589092_2.648573@1306269635"
+    },
+    "wof:country":"ES",
+    "wof:created":1472620484,
+    "wof:geomhash":"f82f1e779e27f58899b4545b31219bcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":1008301607
+        }
+    ],
+    "wof:id":1008301607,
+    "wof:lastmodified":1472620484,
+    "wof:name":"Quemadores Palma S.l.",
+    "wof:parent_id":85864091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6485729218,
+    39.5890922546,
+    2.6485729218,
+    39.5890922546
+],
+  "geometry": {"coordinates":[2.6485729218,39.5890922546],"type":"Point"}
+}

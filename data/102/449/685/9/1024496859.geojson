@@ -1,0 +1,104 @@
+{
+  "id": 1024496859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1573033,41.4135895,2.1573033,41.4135895",
+    "geom:latitude":41.41359,
+    "geom:longitude":2.157303,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Head Office c/ Verdi 217, bajos",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"08024",
+    "sg:tags":[
+        "tourism",
+        "tour-operator",
+        "independent-travellers",
+        "audio-guide",
+        "hire-cars",
+        "broadcast",
+        "spain",
+        "new-zealand",
+        "south-africa",
+        "hawaii",
+        "northern-ireland",
+        "history",
+        "culture",
+        "music",
+        "intellipoint-system"
+    ],
+    "sg:website":"http://www.tourismradio.co.za",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863993,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Qr94YuOvRyurwrfCk4zbk_41.413590_2.157303@1308163242"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641484,
+    "wof:geomhash":"6c8171e01a6bd80a5010930725794cdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863993,
+            "region_id":85682663,
+            "venue_id":1024496859
+        }
+    ],
+    "wof:id":1024496859,
+    "wof:lastmodified":1472641484,
+    "wof:name":"Tourism Radio",
+    "wof:parent_id":85863993,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tourism",
+        "tour-operator",
+        "independent-travellers",
+        "audio-guide",
+        "hire-cars",
+        "broadcast",
+        "spain",
+        "new-zealand",
+        "south-africa",
+        "hawaii",
+        "northern-ireland",
+        "history",
+        "culture",
+        "music",
+        "intellipoint-system"
+    ]
+},
+  "bbox": [
+    2.1573033,
+    41.4135895,
+    2.1573033,
+    41.4135895
+],
+  "geometry": {"coordinates":[2.1573033,41.4135895],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1008263127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9689311981,37.3892631531,-5.9689311981,37.3892631531",
+    "geom:latitude":37.389263,
+    "geom:longitude":-5.968931,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Sebastian Recasens, 10",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 57 39 58",
+    "sg:postcode":"41007",
+    "sg:province":"Sevilla",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864159,
+        102191581,
+        404342947,
+        85633129,
+        404227361,
+        101748225,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rcncoFspMgdFTH0Z4u7TG_37.389263_-5.968931@1306269630"
+    },
+    "wof:country":"ES",
+    "wof:created":1472616677,
+    "wof:geomhash":"fdc47d5110d6c091a57878230288aa5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864159,
+            "region_id":85682841,
+            "venue_id":1008263127
+        }
+    ],
+    "wof:id":1008263127,
+    "wof:lastmodified":1472616677,
+    "wof:name":"Portillo Exposito Luis",
+    "wof:parent_id":85864159,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -5.9689311981,
+    37.3892631531,
+    -5.9689311981,
+    37.3892631531
+],
+  "geometry": {"coordinates":[-5.9689311981,37.3892631531],"type":"Point"}
+}

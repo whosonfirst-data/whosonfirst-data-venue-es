@@ -1,0 +1,59 @@
+{
+  "id": 1008700417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2385129929,41.4518241882,2.2385129929,41.4518241882",
+    "geom:latitude":41.451824,
+    "geom:longitude":2.238513,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carr Coll I Pujol, 151",
+    "sg:city":"Badalona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cerrajer\u00cda, Ferrallista",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 60 01 36",
+    "sg:postcode":"08917",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799485,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DXz6xlLgQGCxsbTmARfiF_41.451824_2.238513@1306269689"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638538,
+    "wof:geomhash":"2880ee93eb06ed2da8d62c189581bdd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799485,
+            "region_id":85682663,
+            "venue_id":1008700417
+        }
+    ],
+    "wof:id":1008700417,
+    "wof:lastmodified":1472638538,
+    "wof:name":"Vega Seguridad Y Cerrajeria S.l.",
+    "wof:parent_id":85799485,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2385129929,
+    41.4518241882,
+    2.2385129929,
+    41.4518241882
+],
+  "geometry": {"coordinates":[2.2385129929,41.4518241882],"type":"Point"}
+}

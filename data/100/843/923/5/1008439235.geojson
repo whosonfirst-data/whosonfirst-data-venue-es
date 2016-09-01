@@ -1,0 +1,76 @@
+{
+  "id": 1008439235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.3743047714,36.7222747803,-4.3743047714,36.7222747803",
+    "geom:latitude":36.722275,
+    "geom:longitude":-4.374305,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Juan Sebastian Elcano, 74",
+    "sg:city":"Malaga",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 29 45 98",
+    "sg:postcode":"29017",
+    "sg:province":"M\u00e1laga",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101748185,
+        85863513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lZnx6CZXEHk9I2ShT8iq7_36.722275_-4.374305@1306269654"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627542,
+    "wof:geomhash":"2716cbb4e14fa23b15e5ce78285bca1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748185,
+            "neighbourhood_id":85863513,
+            "region_id":-1,
+            "venue_id":1008439235
+        }
+    ],
+    "wof:id":1008439235,
+    "wof:lastmodified":1472627542,
+    "wof:name":"Salguero Ramirez Oscar",
+    "wof:parent_id":85863513,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -4.3743047714,
+    36.7222747803,
+    -4.3743047714,
+    36.7222747803
+],
+  "geometry": {"coordinates":[-4.3743047714,36.7222747803],"type":"Point"}
+}

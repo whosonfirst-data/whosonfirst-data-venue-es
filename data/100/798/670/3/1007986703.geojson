@@ -1,0 +1,78 @@
+{
+  "id": 1007986703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6990098953,40.4445838928,-3.6990098953,40.4445838928",
+    "geom:latitude":40.444584,
+    "geom:longitude":-3.69901,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ponzano, 91",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 34 85 27",
+    "sg:postcode":"28003",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799245,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GR2BMnMtzO9mw0d9SjBzu_40.444584_-3.699010@1306269593"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594594,
+    "wof:geomhash":"96c9b6015b7d9a1b917a5f7d312c57a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799245,
+            "region_id":85682783,
+            "venue_id":1007986703
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863649,
+            "region_id":85682783,
+            "venue_id":1007986703
+        }
+    ],
+    "wof:id":1007986703,
+    "wof:lastmodified":1472594594,
+    "wof:name":"Merelo Cueva Arturo",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6990098953,
+    40.4445838928,
+    -3.6990098953,
+    40.4445838928
+],
+  "geometry": {"coordinates":[-3.6990098953,40.4445838928],"type":"Point"}
+}

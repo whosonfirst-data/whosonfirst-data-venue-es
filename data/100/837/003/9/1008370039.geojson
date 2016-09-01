@@ -1,0 +1,59 @@
+{
+  "id": 1008370039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0961709023,41.5562896729,2.0961709023,41.5562896729",
+    "geom:latitude":41.55629,
+    "geom:longitude":2.096171,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Abat Escarre, 11",
+    "sg:city":"Sabadell",
+    "sg:classifiers":[],
+    "sg:orig_category":"Panader\u00cdas, Panader\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 17 77 37",
+    "sg:postcode":"08206",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hJoeuMjzEOr3raxKYCPA5_41.556290_2.096171@1306269645"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624366,
+    "wof:geomhash":"431eb1afec50d02a0f7c2aab585db1c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008370039
+        }
+    ],
+    "wof:id":1008370039,
+    "wof:lastmodified":1472624366,
+    "wof:name":"Rocha Gonzalez Maria Jose",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0961709023,
+    41.5562896729,
+    2.0961709023,
+    41.5562896729
+],
+  "geometry": {"coordinates":[2.0961709023,41.5562896729],"type":"Point"}
+}

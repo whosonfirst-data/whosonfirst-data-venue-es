@@ -1,0 +1,73 @@
+{
+  "id": 1008027939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.677241087,39.6069869995,2.677241087,39.6069869995",
+    "geom:latitude":39.606987,
+    "geom:longitude":2.677241,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Gabriel Cortes, 9",
+    "sg:city":"Indioteria",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 76 06 13",
+    "sg:postcode":"07009",
+    "sg:province":"Islas Baleares",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864091,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GsvncbGqqItOqIr4Xho5R_39.606987_2.677241@1306269598"
+    },
+    "wof:country":"ES",
+    "wof:created":1472596402,
+    "wof:geomhash":"f8c8ddd4f21ed64add643b61d5a62899",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":1008027939
+        }
+    ],
+    "wof:id":1008027939,
+    "wof:lastmodified":1472596402,
+    "wof:name":"Montblanc Gaya Bartolome",
+    "wof:parent_id":85864091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.677241087,
+    39.6069869995,
+    2.677241087,
+    39.6069869995
+],
+  "geometry": {"coordinates":[2.677241087,39.6069869995],"type":"Point"}
+}

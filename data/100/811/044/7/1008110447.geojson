@@ -1,0 +1,66 @@
+{
+  "id": 1008110447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.3600559235,36.721321106,-4.3600559235,36.721321106",
+    "geom:latitude":36.721321,
+    "geom:longitude":-4.360056,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Villafuerte, 1",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Iglesia Cat\u00d3lica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 29 07 90",
+    "sg:postcode":"29017",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863517,
+        85682787,
+        85863521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ee4IwnlLCsalk20v02dgH_36.721321_-4.360056@1306269609"
+    },
+    "wof:country":"ES",
+    "wof:created":1472599972,
+    "wof:geomhash":"487208fb30db2287a6cbeeb2777e8f79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863517,
+            "region_id":85682787,
+            "venue_id":1008110447
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863521,
+            "region_id":85682787,
+            "venue_id":1008110447
+        }
+    ],
+    "wof:id":1008110447,
+    "wof:lastmodified":1472599972,
+    "wof:name":"Obispado De Malaga",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.3600559235,
+    36.721321106,
+    -4.3600559235,
+    36.721321106
+],
+  "geometry": {"coordinates":[-4.3600559235,36.721321106],"type":"Point"}
+}

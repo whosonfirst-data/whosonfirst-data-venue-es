@@ -1,0 +1,79 @@
+{
+  "id": 991711357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.822521925,43.3990821838,-3.822521925,43.3990821838",
+    "geom:latitude":43.399082,
+    "geom:longitude":-3.822522,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Poli Industrial, S/n",
+    "sg:city":"Guarnizo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 54 06 22",
+    "sg:postcode":"39611",
+    "sg:province":"Cantabria",
+    "sg:tags":[
+        "en",
+        "fundiciones"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799521,
+        102191581,
+        404342209,
+        85633129,
+        404227371,
+        101748391,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uadleE5MIBvlG7bUmAzry_43.399082_-3.822522@1306269522"
+    },
+    "wof:country":"ES",
+    "wof:created":1472566014,
+    "wof:geomhash":"fdaa9f50a6152ca507b529465cb73100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342209,
+            "locality_id":101748391,
+            "macroregion_id":404227371,
+            "neighbourhood_id":85799521,
+            "region_id":85682833,
+            "venue_id":991711357
+        }
+    ],
+    "wof:id":991711357,
+    "wof:lastmodified":1472566014,
+    "wof:name":"Fundiciones Cotero S.c.",
+    "wof:parent_id":85799521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "en",
+        "fundiciones"
+    ]
+},
+  "bbox": [
+    -3.822521925,
+    43.3990821838,
+    -3.822521925,
+    43.3990821838
+],
+  "geometry": {"coordinates":[-3.822521925,43.3990821838],"type":"Point"}
+}

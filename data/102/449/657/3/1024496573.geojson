@@ -1,0 +1,90 @@
+{
+  "id": 1024496573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.190006,41.3793,2.190006,41.3793",
+    "geom:latitude":41.3793,
+    "geom:longitude":2.190006,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"C/ Atlantida, 57",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"08003",
+    "sg:tags":[
+        "education",
+        "learning",
+        "teaching",
+        "cms",
+        "course-management-system",
+        "lms",
+        "learning-management-system",
+        "virtual-learning-environment-vle",
+        "web-classroom",
+        "virtual-classroom"
+    ],
+    "sg:website":"http://sclipo.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aqdaCZD3ZTCTqGALFu3TG_41.379300_2.190006@1308163236"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641473,
+    "wof:geomhash":"edefb7209e0c18ffdb059e1e102c5831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":1024496573
+        }
+    ],
+    "wof:id":1024496573,
+    "wof:lastmodified":1472641473,
+    "wof:name":"Sclipo - Web Learning Application",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "education",
+        "learning",
+        "teaching",
+        "cms",
+        "course-management-system",
+        "lms",
+        "learning-management-system",
+        "virtual-learning-environment-vle",
+        "web-classroom",
+        "virtual-classroom"
+    ]
+},
+  "bbox": [
+    2.190006,
+    41.3793,
+    2.190006,
+    41.3793
+],
+  "geometry": {"coordinates":[2.190006,41.3793],"type":"Point"}
+}

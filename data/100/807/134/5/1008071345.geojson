@@ -1,0 +1,72 @@
+{
+  "id": 1008071345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7286100388,40.3801422119,-3.7286100388,40.3801422119",
+    "geom:latitude":40.380142,
+    "geom:longitude":-3.72861,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Abrantes, 60",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 65 19 65",
+    "sg:postcode":"28025",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863761,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DH9SYlPRHySAbGi9o95of_40.380142_-3.728610@1306269604"
+    },
+    "wof:country":"ES",
+    "wof:created":1472598231,
+    "wof:geomhash":"e75bcb9e70a05730c782906f33da8e07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863761,
+            "region_id":85682783,
+            "venue_id":1008071345
+        }
+    ],
+    "wof:id":1008071345,
+    "wof:lastmodified":1472598231,
+    "wof:name":"Mu\u00f1oz Bartolome Francisco Javier",
+    "wof:parent_id":85863761,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7286100388,
+    40.3801422119,
+    -3.7286100388,
+    40.3801422119
+],
+  "geometry": {"coordinates":[-3.7286100388,40.3801422119],"type":"Point"}
+}

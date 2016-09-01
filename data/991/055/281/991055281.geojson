@@ -1,0 +1,72 @@
+{
+  "id": 991055281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.186819315,41.4148368835,2.186819315,41.4148368835",
+    "geom:latitude":41.414837,
+    "geom:longitude":2.186819,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Meridiana, 199",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 49 92 04",
+    "sg:postcode":"08026",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864003,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dIukOH2NXaJHRED6Hm0N8_41.414837_2.186819@1306269434"
+    },
+    "wof:country":"ES",
+    "wof:created":1472523298,
+    "wof:geomhash":"4ef046dfca0178c5532d7a691e1650ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864003,
+            "region_id":85682663,
+            "venue_id":991055281
+        }
+    ],
+    "wof:id":991055281,
+    "wof:lastmodified":1472523298,
+    "wof:name":"Autoescoles Belair S.l.",
+    "wof:parent_id":85864003,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.186819315,
+    41.4148368835,
+    2.186819315,
+    41.4148368835
+],
+  "geometry": {"coordinates":[2.186819315,41.4148368835],"type":"Point"}
+}

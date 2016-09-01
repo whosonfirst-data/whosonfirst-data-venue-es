@@ -1,0 +1,73 @@
+{
+  "id": 991894265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0941739082,41.5576934814,2.0941739082,41.5576934814",
+    "geom:latitude":41.557693,
+    "geom:longitude":2.094174,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Via Aurelia, 36",
+    "sg:city":"Sabadell",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 24 22 00",
+    "sg:postcode":"08206",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5roTFAlrvNvbMoyDdSk1zn_41.557693_2.094174@1306269546"
+    },
+    "wof:country":"ES",
+    "wof:created":1472577231,
+    "wof:geomhash":"456ddbe1474819a7fc796591c0569790",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":991894265
+        }
+    ],
+    "wof:id":991894265,
+    "wof:lastmodified":1472577231,
+    "wof:name":"Hernandez Del Toro Alonso",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.0941739082,
+    41.5576934814,
+    2.0941739082,
+    41.5576934814
+],
+  "geometry": {"coordinates":[2.0941739082,41.5576934814],"type":"Point"}
+}

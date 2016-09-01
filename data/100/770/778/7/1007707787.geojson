@@ -1,0 +1,59 @@
+{
+  "id": 1007707787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5346610546,40.4309768677,-3.5346610546,40.4309768677",
+    "geom:latitude":40.430977,
+    "geom:longitude":-3.534661,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ingeniero Fernandez Casado (del), 15",
+    "sg:city":"Coslada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electricidad Veh\u00cdculo",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 71 46 62",
+    "sg:postcode":"28820",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863709,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JCDgEJVtebWgja22r1Ys0_40.430977_-3.534661@1306269558"
+    },
+    "wof:country":"ES",
+    "wof:created":1472581350,
+    "wof:geomhash":"dcef2cadaf8c93debad69f1999306f60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863709,
+            "region_id":85682783,
+            "venue_id":1007707787
+        }
+    ],
+    "wof:id":1007707787,
+    "wof:lastmodified":1472581350,
+    "wof:name":"Inyelec S.a.",
+    "wof:parent_id":85863709,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5346610546,
+    40.4309768677,
+    -3.5346610546,
+    40.4309768677
+],
+  "geometry": {"coordinates":[-3.5346610546,40.4309768677],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1008501233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6827149391,40.4291992188,-3.6827149391,40.4291992188",
+    "geom:latitude":40.429199,
+    "geom:longitude":-3.682715,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Don Ramon De La Cruz, 27",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 31 05 93",
+    "sg:postcode":"28001",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863675,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TrSog5uOL273sPeGxzwOI_40.429199_-3.682715@1306269662"
+    },
+    "wof:country":"ES",
+    "wof:created":1472630075,
+    "wof:geomhash":"38e6015c4b9eb3a4db7c6dce4f744309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863675,
+            "region_id":85682783,
+            "venue_id":1008501233
+        }
+    ],
+    "wof:id":1008501233,
+    "wof:lastmodified":1472630075,
+    "wof:name":"Serie Dise\u00f1o S. A.",
+    "wof:parent_id":85863675,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    -3.6827149391,
+    40.4291992188,
+    -3.6827149391,
+    40.4291992188
+],
+  "geometry": {"coordinates":[-3.6827149391,40.4291992188],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1008294839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1708240509,41.4087524414,2.1708240509,41.4087524414",
+    "geom:latitude":41.408752,
+    "geom:longitude":2.170824,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Lepant, 357",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electricidad: Resistencias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 36 10 95",
+    "sg:postcode":"08025",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863999,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DrrUfSYlfoRnzTxJhHbps_41.408752_2.170824@1306269634"
+    },
+    "wof:country":"ES",
+    "wof:created":1472618540,
+    "wof:geomhash":"77f2fa17e8977df0c6c7267a0a8c4bfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863999,
+            "region_id":85682663,
+            "venue_id":1008294839
+        }
+    ],
+    "wof:id":1008294839,
+    "wof:lastmodified":1472618540,
+    "wof:name":"Puigbo S. A.",
+    "wof:parent_id":85863999,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1708240509,
+    41.4087524414,
+    2.1708240509,
+    41.4087524414
+],
+  "geometry": {"coordinates":[2.1708240509,41.4087524414],"type":"Point"}
+}

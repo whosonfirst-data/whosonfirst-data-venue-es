@@ -1,0 +1,74 @@
+{
+  "id": 991948771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1994810104,41.397151947,2.1994810104,41.397151947",
+    "geom:latitude":41.397152,
+    "geom:longitude":2.199481,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Ciutat De Granada, 29",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Chapister\u00cda",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 25 13 69",
+    "sg:postcode":"08005",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799265,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12wiBV4lRiyxtU1a3gfnmW_41.397152_2.199481@1306269553"
+    },
+    "wof:country":"ES",
+    "wof:created":1472579880,
+    "wof:geomhash":"0ee602b02880d20063dc07742b9df2ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799265,
+            "region_id":85682663,
+            "venue_id":991948771
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":991948771
+        }
+    ],
+    "wof:id":991948771,
+    "wof:lastmodified":1472579880,
+    "wof:name":"Industrial Metalurgica Huca S. A.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1994810104,
+    41.397151947,
+    2.1994810104,
+    41.397151947
+],
+  "geometry": {"coordinates":[2.1994810104,41.397151947],"type":"Point"}
+}

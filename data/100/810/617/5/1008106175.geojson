@@ -1,0 +1,59 @@
+{
+  "id": 1008106175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5679726601,40.4256286621,-3.5679726601,40.4256286621",
+    "geom:latitude":40.425629,
+    "geom:longitude":-3.567973,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Bego\u00d1a, 16",
+    "sg:city":"Coslada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Notarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 69 68 00",
+    "sg:postcode":"28820",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863629,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36nXDe2hRsayMBhXQAZBFs_40.425629_-3.567973@1306269609"
+    },
+    "wof:country":"ES",
+    "wof:created":1472599783,
+    "wof:geomhash":"af2a1892696aac55d5afda3e02af4621",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863629,
+            "region_id":85682783,
+            "venue_id":1008106175
+        }
+    ],
+    "wof:id":1008106175,
+    "wof:lastmodified":1472599783,
+    "wof:name":"Nu\u00d1ez De Villaveiran Y Olivas",
+    "wof:parent_id":85863629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5679726601,
+    40.4256286621,
+    -3.5679726601,
+    40.4256286621
+],
+  "geometry": {"coordinates":[-3.5679726601,40.4256286621],"type":"Point"}
+}

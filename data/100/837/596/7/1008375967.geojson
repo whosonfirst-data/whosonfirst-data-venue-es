@@ -1,0 +1,63 @@
+{
+  "id": 1008375967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.184525013,41.3848838806,2.184525013,41.3848838806",
+    "geom:latitude":41.384884,
+    "geom:longitude":2.184525,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Comer\u00c7, 29",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pensiones Familiares",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 19 23 67",
+    "sg:postcode":"08003",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24HcYGItpCvAtP8EQBBNpr_41.384884_2.184525@1306269645"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624606,
+    "wof:geomhash":"fa3f183371fd09dc5bf41c9b16de00b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":1008375967
+        }
+    ],
+    "wof:id":1008375967,
+    "wof:lastmodified":1472624606,
+    "wof:name":"Rodriguez Cid Maria Rosa",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.184525013,
+    41.3848838806,
+    2.184525013,
+    41.3848838806
+],
+  "geometry": {"coordinates":[2.184525013,41.3848838806],"type":"Point"}
+}

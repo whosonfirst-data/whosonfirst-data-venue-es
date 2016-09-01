@@ -1,0 +1,78 @@
+{
+  "id": 991392231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.664249897,40.3747901917,-3.664249897,40.3747901917",
+    "geom:latitude":40.37479,
+    "geom:longitude":-3.66425,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Cazorla, 91",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros De Educaci\u00d3n Especial",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 85 59 23",
+    "sg:postcode":"28053",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863733,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0worcuTNJVcwShmpk9WhHA_40.374790_-3.664250@1306269479"
+    },
+    "wof:country":"ES",
+    "wof:created":1472548252,
+    "wof:geomhash":"88c5144d1793566e2deec328aea26137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863733,
+            "region_id":85682783,
+            "venue_id":991392231
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863729,
+            "region_id":85682783,
+            "venue_id":991392231
+        }
+    ],
+    "wof:id":991392231,
+    "wof:lastmodified":1472548252,
+    "wof:name":"Comunidad Autonoma De Madrid-centros De Educacion",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.664249897,
+    40.3747901917,
+    -3.664249897,
+    40.3747901917
+],
+  "geometry": {"coordinates":[-3.664249897,40.3747901917],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1007993355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2009150982,41.4259185791,2.2009150982,41.4259185791",
+    "geom:latitude":41.425919,
+    "geom:longitude":2.200915,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Santander, 28",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 14 10 17",
+    "sg:postcode":"08020",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864011,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1t2llVtuoVDo12XhEMT5id_41.425919_2.200915@1306269594"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594908,
+    "wof:geomhash":"077d2c79c078f62c9c4d0e7fe6bc01ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864011,
+            "region_id":85682663,
+            "venue_id":1007993355
+        }
+    ],
+    "wof:id":1007993355,
+    "wof:lastmodified":1472594908,
+    "wof:name":"Mezquita Pipio Vicente",
+    "wof:parent_id":85864011,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2009150982,
+    41.4259185791,
+    2.2009150982,
+    41.4259185791
+],
+  "geometry": {"coordinates":[2.2009150982,41.4259185791],"type":"Point"}
+}

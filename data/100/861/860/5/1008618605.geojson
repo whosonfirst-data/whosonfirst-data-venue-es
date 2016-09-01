@@ -1,0 +1,64 @@
+{
+  "id": 1008618605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7342386246,40.4836616516,-3.7342386246,40.4836616516",
+    "geom:latitude":40.483662,
+    "geom:longitude":-3.734239,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Gabriela Mistral, 50",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 73 63 19",
+    "sg:postcode":"28035",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85682783,
+        102191581,
+        85633129,
+        101748283,
+        85863557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xPWwgfMzPJE4Lob0l8wpx_40.483662_-3.734239@1306269678"
+    },
+    "wof:country":"ES",
+    "wof:created":1472635073,
+    "wof:geomhash":"f0d4adec422a256cd76aa0874f5c97cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748283,
+            "neighbourhood_id":85863557,
+            "region_id":85682783,
+            "venue_id":1008618605
+        }
+    ],
+    "wof:id":1008618605,
+    "wof:lastmodified":1472635073,
+    "wof:name":"Tersse Giani Jorge",
+    "wof:parent_id":85863557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7342386246,
+    40.4836616516,
+    -3.7342386246,
+    40.4836616516
+],
+  "geometry": {"coordinates":[-3.7342386246,40.4836616516],"type":"Point"}
+}

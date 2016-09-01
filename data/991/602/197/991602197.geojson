@@ -1,0 +1,80 @@
+{
+  "id": 991602197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6196672916,40.4397583008,-3.6196672916,40.4397583008",
+    "geom:latitude":40.439758,
+    "geom:longitude":-3.619667,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Albasanz, 79",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 04 43 65",
+    "sg:postcode":"28037",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "organismos",
+        "control"
+    ],
+    "sg:website":"www.eurocontrol.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863625,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_513M7dW9aip891TOeHPJUY_40.439758_-3.619667@1306269507"
+    },
+    "wof:country":"ES",
+    "wof:created":1472559685,
+    "wof:geomhash":"72c35cd68f1d13984457634a5cc5cbe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863625,
+            "region_id":85682783,
+            "venue_id":991602197
+        }
+    ],
+    "wof:id":991602197,
+    "wof:lastmodified":1472559685,
+    "wof:name":"Eurocontrol S.a.",
+    "wof:parent_id":85863625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organismos",
+        "control"
+    ]
+},
+  "bbox": [
+    -3.6196672916,
+    40.4397583008,
+    -3.6196672916,
+    40.4397583008
+],
+  "geometry": {"coordinates":[-3.6196672916,40.4397583008],"type":"Point"}
+}

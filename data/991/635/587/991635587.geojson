@@ -1,0 +1,78 @@
+{
+  "id": 991635587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1613349915,41.3871078491,2.1613349915,41.3871078491",
+    "geom:latitude":41.387108,
+    "geom:longitude":2.161335,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Aribau, 30",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 54 05 24",
+    "sg:postcode":"08011",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864017,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xKrZBXkcctsYKRHayLIwT_41.387108_2.161335@1306269512"
+    },
+    "wof:country":"ES",
+    "wof:created":1472562276,
+    "wof:geomhash":"17d62c15c59501e3156a7a0e19d682b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864017,
+            "region_id":85682663,
+            "venue_id":991635587
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864021,
+            "region_id":85682663,
+            "venue_id":991635587
+        }
+    ],
+    "wof:id":991635587,
+    "wof:lastmodified":1472562276,
+    "wof:name":"Fernandez Casado Jose Luis",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1613349915,
+    41.3871078491,
+    2.1613349915,
+    41.3871078491
+],
+  "geometry": {"coordinates":[2.1613349915,41.3871078491],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1007712089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6842648983,40.4256591797,-3.6842648983,40.4256591797",
+    "geom:latitude":40.425659,
+    "geom:longitude":-3.684265,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Velazquez, 35",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicios De Telecomunicaciones",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 31 54 26",
+    "sg:postcode":"28001",
+    "sg:province":"Madrid",
+    "sg:website":"www.islalink.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863809,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14aDavWqC9vMNSd4WVm5M7_40.425659_-3.684265@1306269558"
+    },
+    "wof:country":"ES",
+    "wof:created":1472581548,
+    "wof:geomhash":"8ac91c717ca909b4a4bea976d98d5186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863809,
+            "region_id":85682783,
+            "venue_id":1007712089
+        }
+    ],
+    "wof:id":1007712089,
+    "wof:lastmodified":1472581548,
+    "wof:name":"Islalink Sa",
+    "wof:parent_id":85863809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6842648983,
+    40.4256591797,
+    -3.6842648983,
+    40.4256591797
+],
+  "geometry": {"coordinates":[-3.6842648983,40.4256591797],"type":"Point"}
+}

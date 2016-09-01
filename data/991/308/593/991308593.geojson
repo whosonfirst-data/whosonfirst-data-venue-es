@@ -1,0 +1,85 @@
+{
+  "id": 991308593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1616919041,41.3951873779,2.1616919041,41.3951873779",
+    "geom:latitude":41.395187,
+    "geom:longitude":2.161692,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pg Gracia, 92",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 15 36 32",
+    "sg:postcode":"08008",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "cemento",
+        "y",
+        "de",
+        "fabricaci\u00d3n",
+        "cal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864017,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0f67ORzKV4G2OrUB95ZmIa_41.395187_2.161692@1306269468"
+    },
+    "wof:country":"ES",
+    "wof:created":1472543046,
+    "wof:geomhash":"0f15df99f8b382d0507fbf9923a8d1c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864017,
+            "region_id":85682663,
+            "venue_id":991308593
+        }
+    ],
+    "wof:id":991308593,
+    "wof:lastmodified":1472543046,
+    "wof:name":"Cementos Molins S.a.",
+    "wof:parent_id":85864017,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemento",
+        "y",
+        "de",
+        "fabricaci\u00d3n",
+        "cal"
+    ]
+},
+  "bbox": [
+    2.1616919041,
+    41.3951873779,
+    2.1616919041,
+    41.3951873779
+],
+  "geometry": {"coordinates":[2.1616919041,41.3951873779],"type":"Point"}
+}

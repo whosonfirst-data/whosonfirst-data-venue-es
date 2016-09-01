@@ -1,0 +1,78 @@
+{
+  "id": 1007731091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6042466164,37.1842689514,-3.6042466164,37.1842689514",
+    "geom:latitude":37.184269,
+    "geom:longitude":-3.604247,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Constitucion (de La), 12",
+    "sg:city":"Granada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Caf\u00c9s, Bares, Cervecer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 20 40 89",
+    "sg:postcode":"18012",
+    "sg:province":"Granada",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863849,
+        102191581,
+        404335211,
+        85633129,
+        404227361,
+        101748197,
+        85682731,
+        85863841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2874GfLTpe993uyV7hDuOA_37.184269_-3.604247@1306269561"
+    },
+    "wof:country":"ES",
+    "wof:created":1472582538,
+    "wof:geomhash":"2dc5368cc61d376b52eb96c723742ae8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404335211,
+            "locality_id":101748197,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863849,
+            "region_id":85682731,
+            "venue_id":1007731091
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404335211,
+            "locality_id":101748197,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863841,
+            "region_id":85682731,
+            "venue_id":1007731091
+        }
+    ],
+    "wof:id":1007731091,
+    "wof:lastmodified":1472582538,
+    "wof:name":"Jimenez Granados Francisco Jose",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6042466164,
+    37.1842689514,
+    -3.6042466164,
+    37.1842689514
+],
+  "geometry": {"coordinates":[-3.6042466164,37.1842689514],"type":"Point"}
+}

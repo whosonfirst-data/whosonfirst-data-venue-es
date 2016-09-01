@@ -1,0 +1,79 @@
+{
+  "id": 1024474433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.4770636559,36.6919593811,-4.4770636559,36.6919593811",
+    "geom:latitude":36.691959,
+    "geom:longitude":-4.477064,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Alejandro Casona, 30",
+    "sg:city":"Malaga",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 24 15 50",
+    "sg:postcode":"29004",
+    "sg:province":"M\u00e1laga",
+    "sg:tags":[
+        "organismos",
+        "control"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863535,
+        102191581,
+        404339241,
+        85633129,
+        404227361,
+        101748185,
+        85682787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wWmQWEsRdkGgrQjYYdHQO_36.691959_-4.477064@1306269695"
+    },
+    "wof:country":"ES",
+    "wof:created":1472640533,
+    "wof:geomhash":"cbd594686aaa3594858da9695500d17e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863535,
+            "region_id":85682787,
+            "venue_id":1024474433
+        }
+    ],
+    "wof:id":1024474433,
+    "wof:lastmodified":1472640533,
+    "wof:name":"Vorsevi S.a.",
+    "wof:parent_id":85863535,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organismos",
+        "control"
+    ]
+},
+  "bbox": [
+    -4.4770636559,
+    36.6919593811,
+    -4.4770636559,
+    36.6919593811
+],
+  "geometry": {"coordinates":[-4.4770636559,36.6919593811],"type":"Point"}
+}

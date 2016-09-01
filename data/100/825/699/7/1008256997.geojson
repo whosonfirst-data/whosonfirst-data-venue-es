@@ -1,0 +1,59 @@
+{
+  "id": 1008256997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4835590124,38.3596305847,-0.4835590124,38.3596305847",
+    "geom:latitude":38.359631,
+    "geom:longitude":-0.483559,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Maestro Alonso, 54",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alimentaci\u00d3n General (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 24 64 23",
+    "sg:postcode":"03012",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864065,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Fd3LSEXFQ5VD8TsEPIz1o_38.359631_-0.483559@1306269629"
+    },
+    "wof:country":"ES",
+    "wof:created":1472616400,
+    "wof:geomhash":"1f5f5b8ae8005c88e9a03975311c0b6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864065,
+            "region_id":85682625,
+            "venue_id":1008256997
+        }
+    ],
+    "wof:id":1008256997,
+    "wof:lastmodified":1472616400,
+    "wof:name":"Pollos Alacant C.b.",
+    "wof:parent_id":85864065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4835590124,
+    38.3596305847,
+    -0.4835590124,
+    38.3596305847
+],
+  "geometry": {"coordinates":[-0.4835590124,38.3596305847],"type":"Point"}
+}

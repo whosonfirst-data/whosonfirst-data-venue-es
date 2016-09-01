@@ -1,0 +1,91 @@
+{
+  "id": 1008001105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4821968079,38.344543457,-0.4821968079,38.344543457",
+    "geom:latitude":38.344543,
+    "geom:longitude":-0.482197,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Rafael Altamira, 18",
+    "sg:city":"Alacant",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 21 38 94",
+    "sg:postcode":"03002",
+    "sg:province":"Alicante",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864067,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625,
+        85864069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TYkJsuH5vmhYlSn84Ahid_38.344543_-0.482197@1306269595"
+    },
+    "wof:country":"ES",
+    "wof:created":1472595239,
+    "wof:geomhash":"a6faf6874dc993cbc6d68525eddfbb27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864067,
+            "region_id":85682625,
+            "venue_id":1008001105
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748211,
+            "neighbourhood_id":85864069,
+            "region_id":-1,
+            "venue_id":1008001105
+        }
+    ],
+    "wof:id":1008001105,
+    "wof:lastmodified":1472595239,
+    "wof:name":"Mingot Cours Jose",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    -0.4821968079,
+    38.344543457,
+    -0.4821968079,
+    38.344543457
+],
+  "geometry": {"coordinates":[-0.4821968079,38.344543457],"type":"Point"}
+}

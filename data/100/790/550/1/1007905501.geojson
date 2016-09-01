@@ -1,0 +1,67 @@
+{
+  "id": 1007905501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1654999256,41.3817825317,2.1654999256,41.3817825317",
+    "geom:latitude":41.381783,
+    "geom:longitude":2.1655,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Ferlandina, 49",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 42 98 04",
+    "sg:postcode":"08001",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864035,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27sDn43HAMYZgIzy2RIkyw_41.381783_2.165500@1306269583"
+    },
+    "wof:country":"ES",
+    "wof:created":1472591102,
+    "wof:geomhash":"2fbbae970984a820de6607c2c8e62e16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864035,
+            "region_id":85682663,
+            "venue_id":1007905501
+        }
+    ],
+    "wof:id":1007905501,
+    "wof:lastmodified":1472591102,
+    "wof:name":"Mario Corea Arquitectura S.l.",
+    "wof:parent_id":85864035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1654999256,
+    41.3817825317,
+    2.1654999256,
+    41.3817825317
+],
+  "geometry": {"coordinates":[2.1654999256,41.3817825317],"type":"Point"}
+}

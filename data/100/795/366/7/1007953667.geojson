@@ -1,0 +1,81 @@
+{
+  "id": 1007953667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1680355072,41.3786811829,2.1680355072,41.3786811829",
+    "geom:latitude":41.378681,
+    "geom:longitude":2.168036,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de L'aurora, 12",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 42 00 22",
+    "sg:postcode":"08001",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864035,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aFk9R7icd0umwfl9BgTI6_41.378681_2.168036@1306269589"
+    },
+    "wof:country":"ES",
+    "wof:created":1472593293,
+    "wof:geomhash":"31b12c81c005a72fb9db866693e3875a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864035,
+            "region_id":85682663,
+            "venue_id":1007953667
+        }
+    ],
+    "wof:id":1007953667,
+    "wof:lastmodified":1472593293,
+    "wof:name":"Master Solutions S.c.p.",
+    "wof:parent_id":85864035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ]
+},
+  "bbox": [
+    2.1680355072,
+    41.3786811829,
+    2.1680355072,
+    41.3786811829
+],
+  "geometry": {"coordinates":[2.1680355072,41.3786811829],"type":"Point"}
+}

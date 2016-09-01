@@ -1,0 +1,81 @@
+{
+  "id": 1007800161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.17552495,41.423866272,2.17552495,41.423866272",
+    "geom:latitude":41.423866,
+    "geom:longitude":2.175525,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Mare Deu De Montserrat, 253",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 36 93 38",
+    "sg:postcode":"08041",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863995,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59WjTYF6U1WuBq0owC7IpR_41.423866_2.175525@1306269570"
+    },
+    "wof:country":"ES",
+    "wof:created":1472586340,
+    "wof:geomhash":"4601e5cd0a58cc0ced9fd6b5e9b37407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863995,
+            "region_id":85682663,
+            "venue_id":1007800161
+        }
+    ],
+    "wof:id":1007800161,
+    "wof:lastmodified":1472586340,
+    "wof:name":"L'eix Del Yoga S.c.p.",
+    "wof:parent_id":85863995,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ]
+},
+  "bbox": [
+    2.17552495,
+    41.423866272,
+    2.17552495,
+    41.423866272
+],
+  "geometry": {"coordinates":[2.17552495,41.423866272],"type":"Point"}
+}

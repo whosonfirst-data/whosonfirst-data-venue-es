@@ -1,0 +1,78 @@
+{
+  "id": 1008502745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2032749653,41.4020576477,2.2032749653,41.4020576477",
+    "geom:latitude":41.402058,
+    "geom:longitude":2.203275,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Llull, 209",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mec\u00c1nico Del Autom\u00d3vil",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 09 99 39",
+    "sg:postcode":"08005",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799265,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gQrZrpt7bi4fQsPFprUny_41.402058_2.203275@1306269662"
+    },
+    "wof:country":"ES",
+    "wof:created":1472630140,
+    "wof:geomhash":"7d284306f8062cd2699eec6c6f04da56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799265,
+            "region_id":85682663,
+            "venue_id":1008502745
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864011,
+            "region_id":85682663,
+            "venue_id":1008502745
+        }
+    ],
+    "wof:id":1008502745,
+    "wof:lastmodified":1472630140,
+    "wof:name":"Serra Calderon Manuel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2032749653,
+    41.4020576477,
+    2.2032749653,
+    41.4020576477
+],
+  "geometry": {"coordinates":[2.2032749653,41.4020576477],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1008379559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1581380367,41.3799133301,2.1581380367,41.3799133301",
+    "geom:latitude":41.379913,
+    "geom:longitude":2.158138,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sepulveda, S/n",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Librer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 26 45 77",
+    "sg:postcode":"08015",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864027,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pXPl5oiRNRrO7RPUM6MsR_41.379913_2.158138@1306269646"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624742,
+    "wof:geomhash":"cb0f4a579c1ce6cfc0d313facf18c154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864027,
+            "region_id":85682663,
+            "venue_id":1008379559
+        }
+    ],
+    "wof:id":1008379559,
+    "wof:lastmodified":1472624742,
+    "wof:name":"Rodriguez Garcia Meditacion",
+    "wof:parent_id":85864027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1581380367,
+    41.3799133301,
+    2.1581380367,
+    41.3799133301
+],
+  "geometry": {"coordinates":[2.1581380367,41.3799133301],"type":"Point"}
+}

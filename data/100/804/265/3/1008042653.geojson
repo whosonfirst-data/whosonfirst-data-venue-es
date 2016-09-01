@@ -1,0 +1,81 @@
+{
+  "id": 1008042653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9766917229,37.4079017639,-5.9766917229,37.4079017639",
+    "geom:latitude":37.407902,
+    "geom:longitude":-5.976692,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Constantina, 12",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 35 98 64",
+    "sg:postcode":"41008",
+    "sg:province":"Sevilla",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864137,
+        102191581,
+        404342947,
+        85633129,
+        404227361,
+        101748225,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xkZzj3qGsJGqDnM1R0QjR_37.407902_-5.976692@1306269600"
+    },
+    "wof:country":"ES",
+    "wof:created":1472597007,
+    "wof:geomhash":"d1cb09a127900e4deee2763150835c95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864137,
+            "region_id":85682841,
+            "venue_id":1008042653
+        }
+    ],
+    "wof:id":1008042653,
+    "wof:lastmodified":1472597007,
+    "wof:name":"Moreno Carrasquilla Juan Antonio",
+    "wof:parent_id":85864137,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -5.9766917229,
+    37.4079017639,
+    -5.9766917229,
+    37.4079017639
+],
+  "geometry": {"coordinates":[-5.9766917229,37.4079017639],"type":"Point"}
+}

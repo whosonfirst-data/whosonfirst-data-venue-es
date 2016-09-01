@@ -1,0 +1,81 @@
+{
+  "id": 1008639041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6662869453,40.3832931519,-3.6662869453,40.3832931519",
+    "geom:latitude":40.383293,
+    "geom:longitude":-3.666287,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Puerto De Morcuera, 15",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 07 66 21",
+    "sg:postcode":"28018",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863729,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lMx83OIxD1RaHEDLskqsp_40.383293_-3.666287@1306269680"
+    },
+    "wof:country":"ES",
+    "wof:created":1472635921,
+    "wof:geomhash":"cc78dcbba622eee8643b17c75749a1b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863729,
+            "region_id":85682783,
+            "venue_id":1008639041
+        }
+    ],
+    "wof:id":1008639041,
+    "wof:lastmodified":1472635921,
+    "wof:name":"Torres Morales Manuel Fernando",
+    "wof:parent_id":85863729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.6662869453,
+    40.3832931519,
+    -3.6662869453,
+    40.3832931519
+],
+  "geometry": {"coordinates":[-3.6662869453,40.3832931519],"type":"Point"}
+}

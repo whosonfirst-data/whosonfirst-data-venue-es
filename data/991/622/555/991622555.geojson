@@ -1,0 +1,67 @@
+{
+  "id": 991622555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1562790871,41.3737640381,2.1562790871,41.3737640381",
+    "geom:latitude":41.373764,
+    "geom:longitude":2.156279,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pl Santa Madrona, 8",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 23 56 25",
+    "sg:postcode":"08004",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864037,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CjY0MteIF1QrqWXfKLYnL_41.373764_2.156279@1306269510"
+    },
+    "wof:country":"ES",
+    "wof:created":1472561436,
+    "wof:geomhash":"cda1734cc12f967ca2d7ff2348376646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864037,
+            "region_id":85682663,
+            "venue_id":991622555
+        }
+    ],
+    "wof:id":991622555,
+    "wof:lastmodified":1472561436,
+    "wof:name":"Farmacia Roca Vers S.c.p.",
+    "wof:parent_id":85864037,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1562790871,
+    41.3737640381,
+    2.1562790871,
+    41.3737640381
+],
+  "geometry": {"coordinates":[2.1562790871,41.3737640381],"type":"Point"}
+}

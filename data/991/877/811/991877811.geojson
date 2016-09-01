@@ -1,0 +1,70 @@
+{
+  "id": 991877811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8046560287,43.4628715515,-3.8046560287,43.4628715515",
+    "geom:latitude":43.462872,
+    "geom:longitude":-3.804656,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Medio, 9",
+    "sg:city":"Santander",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Wine Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 22 92 04",
+    "sg:postcode":"39003",
+    "sg:province":"Cantabria",
+    "sg:tags":[
+        "cd"
+    ],
+    "sg:website":"www.harmoniamundi.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799303,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tuktFfVA7huE5mil4VtfW_43.462872_-3.804656@1306269544"
+    },
+    "wof:country":"ES",
+    "wof:created":1472576325,
+    "wof:geomhash":"6e3e241fdcf996e88af383d3ae118358",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799303,
+            "region_id":85682833,
+            "venue_id":991877811
+        }
+    ],
+    "wof:id":991877811,
+    "wof:lastmodified":1472576325,
+    "wof:name":"Harmonia Mundi Iberica S.a.",
+    "wof:parent_id":85799303,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cd"
+    ]
+},
+  "bbox": [
+    -3.8046560287,
+    43.4628715515,
+    -3.8046560287,
+    43.4628715515
+],
+  "geometry": {"coordinates":[-3.8046560287,43.4628715515],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1008708771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1060268879,41.5457878113,2.1060268879,41.5457878113",
+    "geom:latitude":41.545788,
+    "geom:longitude":2.106027,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sant Feliu, 10",
+    "sg:city":"Sabadell",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pr\u00c9stamos Personales E Hipotecarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 15 52 32",
+    "sg:postcode":"08201",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zUr5JtsfN0UGsNw3SfOSW_41.545788_2.106027@1306269690"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638947,
+    "wof:geomhash":"b01ce245a2e7b5d23be75cb8c898cd53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008708771
+        }
+    ],
+    "wof:id":1008708771,
+    "wof:lastmodified":1472638947,
+    "wof:name":"Verger Amengual Miguel",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1060268879,
+    41.5457878113,
+    2.1060268879,
+    41.5457878113
+],
+  "geometry": {"coordinates":[2.1060268879,41.5457878113],"type":"Point"}
+}

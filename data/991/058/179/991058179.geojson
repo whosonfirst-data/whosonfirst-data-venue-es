@@ -1,0 +1,64 @@
+{
+  "id": 991058179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6280379295,40.5443344116,-3.6280379295,40.5443344116",
+    "geom:latitude":40.544334,
+    "geom:longitude":-3.628038,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Prensa (la), 2",
+    "sg:city":"San Sebastian De Los Reyes",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 52 20 27",
+    "sg:postcode":"28700",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Uu3sNhlsViTHVKLo3svUT_40.544334_-3.628038@1306269435"
+    },
+    "wof:country":"ES",
+    "wof:created":1472523516,
+    "wof:geomhash":"470609c446cd4735bee61bd3ca9822b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":991058179
+        }
+    ],
+    "wof:id":991058179,
+    "wof:lastmodified":1472523516,
+    "wof:name":"Autoescula Prensa Sl",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6280379295,
+    40.5443344116,
+    -3.6280379295,
+    40.5443344116
+],
+  "geometry": {"coordinates":[-3.6280379295,40.5443344116],"type":"Point"}
+}

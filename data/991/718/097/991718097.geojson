@@ -1,0 +1,73 @@
+{
+  "id": 991718097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5812749863,40.4609146118,-3.5812749863,40.4609146118",
+    "geom:latitude":40.460915,
+    "geom:longitude":-3.581275,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Soto Hidalgo, 22",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 29 06 21",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863589,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0O5XnarN7Q64DpkzvJRoTk_40.460915_-3.581275@1306269523"
+    },
+    "wof:country":"ES",
+    "wof:created":1472566374,
+    "wof:geomhash":"870f365900449f109b880c22c4ba19ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863589,
+            "region_id":85682783,
+            "venue_id":991718097
+        }
+    ],
+    "wof:id":991718097,
+    "wof:lastmodified":1472566374,
+    "wof:name":"Ga Gu C.b.",
+    "wof:parent_id":85863589,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [
+    -3.5812749863,
+    40.4609146118,
+    -3.5812749863,
+    40.4609146118
+],
+  "geometry": {"coordinates":[-3.5812749863,40.4609146118],"type":"Point"}
+}

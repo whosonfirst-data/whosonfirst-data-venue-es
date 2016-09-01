@@ -1,0 +1,81 @@
+{
+  "id": 991530885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7088749409,40.4333648682,-3.7088749409,40.4333648682",
+    "geom:latitude":40.433365,
+    "geom:longitude":-3.708875,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Vallehermoso, 37",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 47 90 85",
+    "sg:postcode":"28015",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863659,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zbNoAt7GDkZ9P7vbyaNZC_40.433365_-3.708875@1306269498"
+    },
+    "wof:country":"ES",
+    "wof:created":1472556048,
+    "wof:geomhash":"ffbfc61645271c5cd24e03c7d98776a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863659,
+            "region_id":85682783,
+            "venue_id":991530885
+        }
+    ],
+    "wof:id":991530885,
+    "wof:lastmodified":1472556048,
+    "wof:name":"Due\u00f1as Medina Carlos",
+    "wof:parent_id":85863659,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.7088749409,
+    40.4333648682,
+    -3.7088749409,
+    40.4333648682
+],
+  "geometry": {"coordinates":[-3.7088749409,40.4333648682],"type":"Point"}
+}

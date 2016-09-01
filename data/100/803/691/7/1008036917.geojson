@@ -1,0 +1,67 @@
+{
+  "id": 1008036917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.351312995,39.4714431763,-0.351312995,39.4714431763",
+    "geom:latitude":39.471443,
+    "geom:longitude":-0.351313,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Poeta Mas Y Ros, 7",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 60 23 02",
+    "sg:postcode":"46021",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864213,
+        102191581,
+        404345361,
+        85633129,
+        404227381,
+        101748241,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1C3ovT42BLw8aO2SJLgl0s_39.471443_-0.351313@1306269599"
+    },
+    "wof:country":"ES",
+    "wof:created":1472596760,
+    "wof:geomhash":"126dedb475253c12e4cd3d8f52b9817d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345361,
+            "locality_id":101748241,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864213,
+            "region_id":85682867,
+            "venue_id":1008036917
+        }
+    ],
+    "wof:id":1008036917,
+    "wof:lastmodified":1472596760,
+    "wof:name":"Morales Gonzalez Joaquin",
+    "wof:parent_id":85864213,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.351312995,
+    39.4714431763,
+    -0.351312995,
+    39.4714431763
+],
+  "geometry": {"coordinates":[-0.351312995,39.4714431763],"type":"Point"}
+}

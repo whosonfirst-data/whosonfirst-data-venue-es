@@ -1,0 +1,59 @@
+{
+  "id": 1007752279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5922152996,40.4629898071,-3.5922152996,40.4629898071",
+    "geom:latitude":40.46299,
+    "geom:longitude":-3.592215,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Bahia De Palma, 16",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 47 73 41",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863589,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AahziAGRoChXRHqkQ7z1f_40.462990_-3.592215@1306269563"
+    },
+    "wof:country":"ES",
+    "wof:created":1472583802,
+    "wof:geomhash":"3ba824303db92c28be76dbc6adb9ae01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863589,
+            "region_id":85682783,
+            "venue_id":1007752279
+        }
+    ],
+    "wof:id":1007752279,
+    "wof:lastmodified":1472583802,
+    "wof:name":"Juan Carlos Junquera Yebes Y Beatriz Sevillano Bravo Cdad",
+    "wof:parent_id":85863589,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5922152996,
+    40.4629898071,
+    -3.5922152996,
+    40.4629898071
+],
+  "geometry": {"coordinates":[-3.5922152996,40.4629898071],"type":"Point"}
+}

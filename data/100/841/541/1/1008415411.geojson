@@ -1,0 +1,81 @@
+{
+  "id": 1008415411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0967309475,41.3219070435,2.0967309475,41.3219070435",
+    "geom:latitude":41.321907,
+    "geom:longitude":2.096731,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Coronel Sanfeliu, 106",
+    "sg:city":"Prat Llobregat",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 70 39 49",
+    "sg:postcode":"08820",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799585,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78QbxChvHhvLDFVVSK38O7_41.321907_2.096731@1306269651"
+    },
+    "wof:country":"ES",
+    "wof:created":1472626489,
+    "wof:geomhash":"0538b406dd06e0be15bab1e1e7d5997d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799585,
+            "region_id":85682663,
+            "venue_id":1008415411
+        }
+    ],
+    "wof:id":1008415411,
+    "wof:lastmodified":1472626489,
+    "wof:name":"Rubio Saucedo Marcelino",
+    "wof:parent_id":85799585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.0967309475,
+    41.3219070435,
+    2.0967309475,
+    41.3219070435
+],
+  "geometry": {"coordinates":[2.0967309475,41.3219070435],"type":"Point"}
+}

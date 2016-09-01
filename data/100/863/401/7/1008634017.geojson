@@ -1,0 +1,67 @@
+{
+  "id": 1008634017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.20896101,41.4103469849,2.20896101,41.4103469849",
+    "geom:latitude":41.410347,
+    "geom:longitude":2.208961,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ptge Treball, 30",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Barnizadores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 03 39 10",
+    "sg:postcode":"08019",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864011,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hoANI3K0InLgLKZyTNNLE_41.410347_2.208961@1306269680"
+    },
+    "wof:country":"ES",
+    "wof:created":1472635708,
+    "wof:geomhash":"8fafc8a12ca0c58d9a8ea0f310af0cc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864011,
+            "region_id":85682663,
+            "venue_id":1008634017
+        }
+    ],
+    "wof:id":1008634017,
+    "wof:lastmodified":1472635708,
+    "wof:name":"Torralba Ferrer Juan",
+    "wof:parent_id":85864011,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.20896101,
+    41.4103469849,
+    2.20896101,
+    41.4103469849
+],
+  "geometry": {"coordinates":[2.20896101,41.4103469849],"type":"Point"}
+}

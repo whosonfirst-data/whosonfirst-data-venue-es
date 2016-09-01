@@ -1,0 +1,74 @@
+{
+  "id": 1008645791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.7663908005,37.8966827393,-4.7663908005,37.8966827393",
+    "geom:latitude":37.896683,
+    "geom:longitude":-4.766391,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Agrupacion Cordoba, 17",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[],
+    "sg:orig_category":"Contenedores (mercanc\u00cdas)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 43 50 08",
+    "sg:postcode":"14007",
+    "sg:province":"C\u00f3rdoba",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863895,
+        102191581,
+        404333687,
+        85633129,
+        404227361,
+        101748233,
+        85682697,
+        85863899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3T94OVfOn6XLo9zwrtIIn5_37.896683_-4.766391@1306269681"
+    },
+    "wof:country":"ES",
+    "wof:created":1472636228,
+    "wof:geomhash":"d31b8af8ef11be0df1db8a8edfe4eb46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863895,
+            "region_id":85682697,
+            "venue_id":1008645791
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863899,
+            "region_id":85682697,
+            "venue_id":1008645791
+        }
+    ],
+    "wof:id":1008645791,
+    "wof:lastmodified":1472636228,
+    "wof:name":"Transcecor S.c.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7663908005,
+    37.8966827393,
+    -4.7663908005,
+    37.8966827393
+],
+  "geometry": {"coordinates":[-4.7663908005,37.8966827393],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1008206209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.5091037154,38.3368492126,-0.5091037154,38.3368492126",
+    "geom:latitude":38.336849,
+    "geom:longitude":-0.509104,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Actor Arturo Lledo, 33",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 28 37 22",
+    "sg:postcode":"03008",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864045,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kwfU4JjEekUb5rZEiY9pk_38.336849_-0.509104@1306269623"
+    },
+    "wof:country":"ES",
+    "wof:created":1472610926,
+    "wof:geomhash":"1f5e0a447188e5baf72b5030f143159e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864045,
+            "region_id":85682625,
+            "venue_id":1008206209
+        }
+    ],
+    "wof:id":1008206209,
+    "wof:lastmodified":1472610926,
+    "wof:name":"Perellan S.l.",
+    "wof:parent_id":85864045,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.5091037154,
+    38.3368492126,
+    -0.5091037154,
+    38.3368492126
+],
+  "geometry": {"coordinates":[-0.5091037154,38.3368492126],"type":"Point"}
+}

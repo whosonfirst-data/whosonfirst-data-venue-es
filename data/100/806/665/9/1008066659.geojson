@@ -1,0 +1,81 @@
+{
+  "id": 1008066659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6344110966,40.4662513733,-3.6344110966,40.4662513733",
+    "geom:latitude":40.466251,
+    "geom:longitude":-3.634411,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Rafael Bergamin, 5",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 13 59 93",
+    "sg:postcode":"28043",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799409,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47xFdm2ymIBQmooVsbP8r5_40.466251_-3.634411@1306269603"
+    },
+    "wof:country":"ES",
+    "wof:created":1472598026,
+    "wof:geomhash":"7b4491a4b47c0cce8b569696401f934f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799409,
+            "region_id":85682783,
+            "venue_id":1008066659
+        }
+    ],
+    "wof:id":1008066659,
+    "wof:lastmodified":1472598026,
+    "wof:name":"Murano T.c.",
+    "wof:parent_id":85799409,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ]
+},
+  "bbox": [
+    -3.6344110966,
+    40.4662513733,
+    -3.6344110966,
+    40.4662513733
+],
+  "geometry": {"coordinates":[-3.6344110966,40.4662513733],"type":"Point"}
+}

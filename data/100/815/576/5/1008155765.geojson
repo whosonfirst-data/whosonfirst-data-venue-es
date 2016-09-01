@@ -1,0 +1,67 @@
+{
+  "id": 1008155765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.375925988,39.4577331543,-0.375925988,39.4577331543",
+    "geom:latitude":39.457733,
+    "geom:longitude":-0.375926,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Filipinas, 39",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 16 30 56",
+    "sg:postcode":"46006",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864201,
+        102191581,
+        404345361,
+        85633129,
+        404227381,
+        101748241,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5X3LFaEPAif43u5hK3BGS0_39.457733_-0.375926@1306269616"
+    },
+    "wof:country":"ES",
+    "wof:created":1472602202,
+    "wof:geomhash":"cb2c64bbbb25cf308f90f23ec2dd9e0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345361,
+            "locality_id":101748241,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864201,
+            "region_id":85682867,
+            "venue_id":1008155765
+        }
+    ],
+    "wof:id":1008155765,
+    "wof:lastmodified":1472602202,
+    "wof:name":"Palmero Mora Miguel Angel",
+    "wof:parent_id":85864201,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.375925988,
+    39.4577331543,
+    -0.375925988,
+    39.4577331543
+],
+  "geometry": {"coordinates":[-0.375925988,39.4577331543],"type":"Point"}
+}

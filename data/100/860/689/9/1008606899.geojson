@@ -1,0 +1,71 @@
+{
+  "id": 1008606899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7299149036,40.3008079529,-3.7299149036,40.3008079529",
+    "geom:latitude":40.300808,
+    "geom:longitude":-3.729915,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Fuerzas Armadas (de Las), 21",
+    "sg:city":"Getafe",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 82 65 45",
+    "sg:postcode":"28901",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "organismos",
+        "control"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QMf4ZOcWiZcefSNo2VOvJ_40.300808_-3.729915@1306269676"
+    },
+    "wof:country":"ES",
+    "wof:created":1472634547,
+    "wof:geomhash":"f6bcd7cfbc31305e7d1ac62122b4a567",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1008606899
+        }
+    ],
+    "wof:id":1008606899,
+    "wof:lastmodified":1472634547,
+    "wof:name":"Tecnoquality Consulting S.l.",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organismos",
+        "control"
+    ]
+},
+  "bbox": [
+    -3.7299149036,
+    40.3008079529,
+    -3.7299149036,
+    40.3008079529
+],
+  "geometry": {"coordinates":[-3.7299149036,40.3008079529],"type":"Point"}
+}

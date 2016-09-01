@@ -1,0 +1,67 @@
+{
+  "id": 1008050549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1835339069,41.3903579712,2.1835339069,41.3903579712",
+    "geom:latitude":41.390358,
+    "geom:longitude":2.183534,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Roger De Flor, 9",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 09 92 70",
+    "sg:postcode":"08018",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799447,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Y6EFTI2GEryyyjVJxrc0w_41.390358_2.183534@1306269601"
+    },
+    "wof:country":"ES",
+    "wof:created":1472597360,
+    "wof:geomhash":"8450278f04923f22f6e08c88db5a06a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799447,
+            "region_id":85682663,
+            "venue_id":1008050549
+        }
+    ],
+    "wof:id":1008050549,
+    "wof:lastmodified":1472597360,
+    "wof:name":"Morral Bautista Jose Maria",
+    "wof:parent_id":85799447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1835339069,
+    41.3903579712,
+    2.1835339069,
+    41.3903579712
+],
+  "geometry": {"coordinates":[2.1835339069,41.3903579712],"type":"Point"}
+}

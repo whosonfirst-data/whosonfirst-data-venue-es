@@ -1,0 +1,59 @@
+{
+  "id": 1008460695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6398420334,40.5424804688,-3.6398420334,40.5424804688",
+    "geom:latitude":40.54248,
+    "geom:longitude":-3.639842,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Zamora (de), 3",
+    "sg:city":"Alcobendas",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias Y Agentes Comerciales, Representantes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 61 51 65",
+    "sg:postcode":"28100",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MRwQa28DOv1gN0r8XkFxF_40.542480_-3.639842@1306269657"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628347,
+    "wof:geomhash":"e38976a026ba3584e03878d0cc0db2d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1008460695
+        }
+    ],
+    "wof:id":1008460695,
+    "wof:lastmodified":1472628347,
+    "wof:name":"Sanchez Rubio Jorge",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6398420334,
+    40.5424804688,
+    -3.6398420334,
+    40.5424804688
+],
+  "geometry": {"coordinates":[-3.6398420334,40.5424804688],"type":"Point"}
+}

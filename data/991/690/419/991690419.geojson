@@ -1,0 +1,64 @@
+{
+  "id": 991690419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7154889107,40.3116264343,-3.7154889107,40.3116264343",
+    "geom:latitude":40.311626,
+    "geom:longitude":-3.715489,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Zaragoza, 9",
+    "sg:city":"Getafe",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 96 27 03",
+    "sg:postcode":"28903",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aVxnoG5LuF13b6iu3kfJL_40.311626_-3.715489@1306269519"
+    },
+    "wof:country":"ES",
+    "wof:created":1472565016,
+    "wof:geomhash":"a3c9b39e2675b0dfbcb3a84fd69bafaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":991690419
+        }
+    ],
+    "wof:id":991690419,
+    "wof:lastmodified":1472565016,
+    "wof:name":"Francisco Marban Gallego Y Manuel Marban Gallego C.b.",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7154889107,
+    40.3116264343,
+    -3.7154889107,
+    40.3116264343
+],
+  "geometry": {"coordinates":[-3.7154889107,40.3116264343],"type":"Point"}
+}

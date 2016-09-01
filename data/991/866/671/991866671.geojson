@@ -1,0 +1,74 @@
+{
+  "id": 991866671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6600780487,39.583984375,2.6600780487,39.583984375",
+    "geom:latitude":39.583984,
+    "geom:longitude":2.660078,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Jaume Ferran, 68",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electrodom\u00c9sticos (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 75 18 85",
+    "sg:postcode":"07004",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864089,
+        102191581,
+        404330817,
+        85633129,
+        404227367,
+        101748237,
+        85682647,
+        85864091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qiXb6jACfzpHjjN31lu6A_39.583984_2.660078@1306269543"
+    },
+    "wof:country":"ES",
+    "wof:created":1472575733,
+    "wof:geomhash":"1014c991b386967272647aea6bfdde5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864089,
+            "region_id":85682647,
+            "venue_id":991866671
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":991866671
+        }
+    ],
+    "wof:id":991866671,
+    "wof:lastmodified":1472575733,
+    "wof:name":"Guillen Barranquero Andres",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6600780487,
+    39.583984375,
+    2.6600780487,
+    39.583984375
+],
+  "geometry": {"coordinates":[2.6600780487,39.583984375],"type":"Point"}
+}

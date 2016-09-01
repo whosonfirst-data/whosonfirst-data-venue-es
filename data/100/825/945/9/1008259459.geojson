@@ -1,0 +1,67 @@
+{
+  "id": 1008259459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1541450024,41.4008636475,2.1541450024,41.4008636475",
+    "geom:latitude":41.400864,
+    "geom:longitude":2.154145,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Gran De Gracia, 93",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Doctores En Medicina",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 17 93 30",
+    "sg:postcode":"08012",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799393,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mdE5nl9DIga6273cX5A8Y_41.400864_2.154145@1306269630"
+    },
+    "wof:country":"ES",
+    "wof:created":1472616505,
+    "wof:geomhash":"45261852e45ffddc3cb8fe5c9e59f536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799393,
+            "region_id":85682663,
+            "venue_id":1008259459
+        }
+    ],
+    "wof:id":1008259459,
+    "wof:lastmodified":1472616505,
+    "wof:name":"Pons Cisquella Carme",
+    "wof:parent_id":85799393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1541450024,
+    41.4008636475,
+    2.1541450024,
+    41.4008636475
+],
+  "geometry": {"coordinates":[2.1541450024,41.4008636475],"type":"Point"}
+}

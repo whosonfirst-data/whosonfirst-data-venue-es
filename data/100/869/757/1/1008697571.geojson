@@ -1,0 +1,59 @@
+{
+  "id": 1008697571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7697219849,40.329372406,-3.7697219849,40.329372406",
+    "geom:latitude":40.329372,
+    "geom:longitude":-3.769722,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Santa Teresa, 14",
+    "sg:city":"Leganes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Comerciantes Al Por Mayor De Vinos, Licores Y Alcoholes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 93 92 64",
+    "sg:postcode":"28911",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863785,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IaQnhei3jYjhv3eqc6l0C_40.329372_-3.769722@1306269688"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638408,
+    "wof:geomhash":"e295df34b03f0c69e5c66e78d1a36004",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863785,
+            "region_id":85682783,
+            "venue_id":1008697571
+        }
+    ],
+    "wof:id":1008697571,
+    "wof:lastmodified":1472638408,
+    "wof:name":"Vazquez Rodriguez Heliodoro",
+    "wof:parent_id":85863785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7697219849,
+    40.329372406,
+    -3.7697219849,
+    40.329372406
+],
+  "geometry": {"coordinates":[-3.7697219849,40.329372406],"type":"Point"}
+}

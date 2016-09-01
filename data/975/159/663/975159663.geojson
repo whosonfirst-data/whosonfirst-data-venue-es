@@ -1,0 +1,60 @@
+{
+  "id": 975159663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.8246581554,41.7235603333,1.8246581554,41.7235603333",
+    "geom:latitude":41.72356,
+    "geom:longitude":1.824658,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Alfons Xii, 28",
+    "sg:city":"Manresa",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Trabajo Temporal",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 938 76 82 42",
+    "sg:postcode":"08241",
+    "sg:province":"Barcelona",
+    "sg:website":"www.adecco.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03pdARRV10sbETMxQRc3MJ_41.723560_1.824658@1306269412"
+    },
+    "wof:country":"ES",
+    "wof:created":1472507788,
+    "wof:geomhash":"caee531e487049d0d0888ef9bbd15ae3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":975159663
+        }
+    ],
+    "wof:id":975159663,
+    "wof:lastmodified":1472507788,
+    "wof:name":"Adecco E.t.t. S.a.",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.8246581554,
+    41.7235603333,
+    1.8246581554,
+    41.7235603333
+],
+  "geometry": {"coordinates":[1.8246581554,41.7235603333],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1007929657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6641099453,39.5794792175,2.6641099453,39.5794792175",
+    "geom:latitude":39.579479,
+    "geom:longitude":2.66411,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Arago, 86",
+    "sg:city":"Palma",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 24 32 60",
+    "sg:postcode":"07008",
+    "sg:province":"Islas Baleares",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864089,
+        102191581,
+        404330817,
+        85633129,
+        404227367,
+        101748237,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Cj3T4dJoJmhGJf7fjbSk3_39.579479_2.664110@1306269586"
+    },
+    "wof:country":"ES",
+    "wof:created":1472592216,
+    "wof:geomhash":"fb63b459ba7624ee274ec711deb17e61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864089,
+            "region_id":85682647,
+            "venue_id":1007929657
+        }
+    ],
+    "wof:id":1007929657,
+    "wof:lastmodified":1472592216,
+    "wof:name":"Martinez Matias Jose",
+    "wof:parent_id":85864089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.6641099453,
+    39.5794792175,
+    2.6641099453,
+    39.5794792175
+],
+  "geometry": {"coordinates":[2.6641099453,39.5794792175],"type":"Point"}
+}

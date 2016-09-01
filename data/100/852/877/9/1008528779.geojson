@@ -1,0 +1,74 @@
+{
+  "id": 1008528779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4760850072,38.3590202332,-0.4760850072,38.3590202332",
+    "geom:latitude":38.35902,
+    "geom:longitude":-0.476085,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Maestro Luis Torregrosa, 1",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Animales (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 20 27 63",
+    "sg:postcode":"03013",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864063,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625,
+        85864065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DcrROFzcRX7P1voFcUdWR_38.359020_-0.476085@1306269666"
+    },
+    "wof:country":"ES",
+    "wof:created":1472631206,
+    "wof:geomhash":"0990434b10714db9496db5828ff78f13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864063,
+            "region_id":85682625,
+            "venue_id":1008528779
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864065,
+            "region_id":85682625,
+            "venue_id":1008528779
+        }
+    ],
+    "wof:id":1008528779,
+    "wof:lastmodified":1472631206,
+    "wof:name":"Sirvent Torregrosa Caridad",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4760850072,
+    38.3590202332,
+    -0.4760850072,
+    38.3590202332
+],
+  "geometry": {"coordinates":[-0.4760850072,38.3590202332],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1024484347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.911438942,43.2512054443,-2.911438942,43.2512054443",
+    "geom:latitude":43.251205,
+    "geom:longitude":-2.911439,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Cosa Juan De La, 26",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[],
+    "sg:orig_category":"Peluquer\u00cdas, Peluquer\u00cda Mixta",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 01 36 81",
+    "sg:postcode":"48004",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863967,
+        102191581,
+        404345949,
+        85633129,
+        404227393,
+        101748385,
+        85682879,
+        85799199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Gh3EAymXn8r0izm4LQwVz_43.251205_-2.911439@1306269696"
+    },
+    "wof:country":"ES",
+    "wof:created":1472640944,
+    "wof:geomhash":"d911e3e99502d7cbe2b80c451006ce8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345949,
+            "locality_id":101748385,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863967,
+            "region_id":85682879,
+            "venue_id":1024484347
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799199,
+            "region_id":85682879,
+            "venue_id":1024484347
+        }
+    ],
+    "wof:id":1024484347,
+    "wof:lastmodified":1472640944,
+    "wof:name":"Yolanda Digon Fernandez",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.911438942,
+    43.2512054443,
+    -2.911438942,
+    43.2512054443
+],
+  "geometry": {"coordinates":[-2.911438942,43.2512054443],"type":"Point"}
+}

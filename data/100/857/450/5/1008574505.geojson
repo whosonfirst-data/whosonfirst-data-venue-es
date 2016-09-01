@@ -1,0 +1,59 @@
+{
+  "id": 1008574505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1687860489,41.6284599304,2.1687860489,41.6284599304",
+    "geom:latitude":41.62846,
+    "geom:longitude":2.168786,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sant Ramon, 65",
+    "sg:city":"Caldes Montbui",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 938 65 40 77",
+    "sg:postcode":"08140",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799453,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LLuyoBXbKv8NiBLGEQ7Te_41.628460_2.168786@1306269672"
+    },
+    "wof:country":"ES",
+    "wof:created":1472633164,
+    "wof:geomhash":"e1c6f79fe5df2e76fbceef91f6d46f0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799453,
+            "region_id":85682663,
+            "venue_id":1008574505
+        }
+    ],
+    "wof:id":1008574505,
+    "wof:lastmodified":1472633164,
+    "wof:name":"Supermercat Rius S.l",
+    "wof:parent_id":85799453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1687860489,
+    41.6284599304,
+    2.1687860489,
+    41.6284599304
+],
+  "geometry": {"coordinates":[2.1687860489,41.6284599304],"type":"Point"}
+}

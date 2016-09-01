@@ -1,0 +1,67 @@
+{
+  "id": 1008367193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6523430347,40.4691810608,-3.6523430347,40.4691810608",
+    "geom:latitude":40.469181,
+    "geom:longitude":-3.652343,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Lopez De Hoyos, 351",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 66 70 80",
+    "sg:postcode":"28043",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863583,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DNtqX1Iz0xvBN73D9i1Gz_40.469181_-3.652343@1306269644"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624256,
+    "wof:geomhash":"937802d26e2d1c2a5916068d4dc6e85b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863583,
+            "region_id":85682783,
+            "venue_id":1008367193
+        }
+    ],
+    "wof:id":1008367193,
+    "wof:lastmodified":1472624256,
+    "wof:name":"Robledo Cobisa Julio",
+    "wof:parent_id":85863583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6523430347,
+    40.4691810608,
+    -3.6523430347,
+    40.4691810608
+],
+  "geometry": {"coordinates":[-3.6523430347,40.4691810608],"type":"Point"}
+}

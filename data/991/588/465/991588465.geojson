@@ -1,0 +1,59 @@
+{
+  "id": 991588465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8128039837,43.4616966248,-3.8128039837,43.4616966248",
+    "geom:latitude":43.461697,
+    "geom:longitude":-3.812804,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Jesus De Monasterio, S/n",
+    "sg:city":"Santander",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aparcamientos (infraestructuras, Accesorios)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 37 36 45",
+    "sg:postcode":"39008",
+    "sg:province":"Cantabria",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799303,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gN1jWfCzNJQartyGtFn4n_43.461697_-3.812804@1306269506"
+    },
+    "wof:country":"ES",
+    "wof:created":1472559072,
+    "wof:geomhash":"0eb28f45684b9a35a48ed6beeb2ebe1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799303,
+            "region_id":85682833,
+            "venue_id":991588465
+        }
+    ],
+    "wof:id":991588465,
+    "wof:lastmodified":1472559072,
+    "wof:name":"Estacionamientos Controlados S.a.",
+    "wof:parent_id":85799303,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8128039837,
+    43.4616966248,
+    -3.8128039837,
+    43.4616966248
+],
+  "geometry": {"coordinates":[-3.8128039837,43.4616966248],"type":"Point"}
+}

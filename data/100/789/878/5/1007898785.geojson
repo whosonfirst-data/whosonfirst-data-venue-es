@@ -1,0 +1,81 @@
+{
+  "id": 1007898785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.0079689026,43.3082427979,-3.0079689026,43.3082427979",
+    "geom:latitude":43.308243,
+    "geom:longitude":-3.007969,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Via Galindo, 9",
+    "sg:city":"Sestao",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 72 17 66",
+    "sg:postcode":"48910",
+    "sg:province":"Vizcaya",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799675,
+        102191581,
+        404345933,
+        85633129,
+        404227393,
+        101748387,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wl8y81Thl2qgSyPX7h5aP_43.308243_-3.007969@1306269582"
+    },
+    "wof:country":"ES",
+    "wof:created":1472590776,
+    "wof:geomhash":"754292851190bc10ee9f0c1ab0a01b5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345933,
+            "locality_id":101748387,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85799675,
+            "region_id":85682879,
+            "venue_id":1007898785
+        }
+    ],
+    "wof:id":1007898785,
+    "wof:lastmodified":1472590776,
+    "wof:name":"Maria Del Mar Otero Vaz",
+    "wof:parent_id":85799675,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.0079689026,
+    43.3082427979,
+    -3.0079689026,
+    43.3082427979
+],
+  "geometry": {"coordinates":[-3.0079689026,43.3082427979],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1008524771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1704039574,41.4058189392,2.1704039574,41.4058189392",
+    "geom:latitude":41.405819,
+    "geom:longitude":2.170404,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sardenya, 364",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Restaurantes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 56 45 73",
+    "sg:postcode":"08025",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863999,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bJtxFN8dTDqd4CC51cUSN_41.405819_2.170404@1306269665"
+    },
+    "wof:country":"ES",
+    "wof:created":1472631057,
+    "wof:geomhash":"bf792c066206ef9a4bda7f53d56278cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863999,
+            "region_id":85682663,
+            "venue_id":1008524771
+        }
+    ],
+    "wof:id":1008524771,
+    "wof:lastmodified":1472631057,
+    "wof:name":"Silva Vazquez Manuel",
+    "wof:parent_id":85863999,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1704039574,
+    41.4058189392,
+    2.1704039574,
+    41.4058189392
+],
+  "geometry": {"coordinates":[2.1704039574,41.4058189392],"type":"Point"}
+}

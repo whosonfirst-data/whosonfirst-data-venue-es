@@ -1,0 +1,64 @@
+{
+  "id": 1007845411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7426290512,40.4798088074,-3.7426290512,40.4798088074",
+    "geom:latitude":40.479809,
+    "geom:longitude":-3.742629,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Gavilanes (blq), 90",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias Y Agentes Comerciales, Representantes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 88 56 55",
+    "sg:postcode":"28043",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85682783,
+        102191581,
+        85633129,
+        101748283,
+        85863557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0J3s6kerYnCR3PUhe35Fnv_40.479809_-3.742629@1306269575"
+    },
+    "wof:country":"ES",
+    "wof:created":1472588481,
+    "wof:geomhash":"abdb10d1e82dc14858e926fb02d762e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748283,
+            "neighbourhood_id":85863557,
+            "region_id":85682783,
+            "venue_id":1007845411
+        }
+    ],
+    "wof:id":1007845411,
+    "wof:lastmodified":1472588481,
+    "wof:name":"Lopez Sanchez Eduardo",
+    "wof:parent_id":85863557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7426290512,
+    40.4798088074,
+    -3.7426290512,
+    40.4798088074
+],
+  "geometry": {"coordinates":[-3.7426290512,40.4798088074],"type":"Point"}
+}

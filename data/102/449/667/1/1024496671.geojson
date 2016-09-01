@@ -1,0 +1,94 @@
+{
+  "id": 1024496671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7323543,40.4084159,-3.7323543,40.4084159",
+    "geom:latitude":40.408416,
+    "geom:longitude":-3.732354,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"C/ Maria Isabel, 15 1st Floor",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"28011",
+    "sg:tags":[
+        "internet",
+        "web-agency",
+        "marketing-online",
+        "ecommerce",
+        "b2b",
+        "b2c",
+        "elearning",
+        "crm",
+        "erp",
+        "cms"
+    ],
+    "sg:website":"http://www.micmic.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863773,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sW3EHj1mGDAU652NGixEr_40.408416_-3.732354@1308163240"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641477,
+    "wof:geomhash":"2ba7ca1a96cd4d9f957e7b03009405e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863773,
+            "region_id":85682783,
+            "venue_id":1024496671
+        }
+    ],
+    "wof:id":1024496671,
+    "wof:lastmodified":1472641477,
+    "wof:name":"MicMic",
+    "wof:parent_id":85863773,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "internet",
+        "web-agency",
+        "marketing-online",
+        "ecommerce",
+        "b2b",
+        "b2c",
+        "elearning",
+        "crm",
+        "erp",
+        "cms"
+    ]
+},
+  "bbox": [
+    -3.7323543,
+    40.4084159,
+    -3.7323543,
+    40.4084159
+],
+  "geometry": {"coordinates":[-3.7323543,40.4084159],"type":"Point"}
+}

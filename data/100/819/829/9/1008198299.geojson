@@ -1,0 +1,81 @@
+{
+  "id": 1008198299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6977040768,40.4241523743,-3.6977040768,40.4241523743",
+    "geom:latitude":40.424152,
+    "geom:longitude":-3.697704,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pelayo, 47",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 19 29 44",
+    "sg:postcode":"28004",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863791,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IHEPQXYxmMsboyVD9AcCk_40.424152_-3.697704@1306269621"
+    },
+    "wof:country":"ES",
+    "wof:created":1472609166,
+    "wof:geomhash":"459e071607d4cd0f70f9e48e6b0828ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863791,
+            "region_id":85682783,
+            "venue_id":1008198299
+        }
+    ],
+    "wof:id":1008198299,
+    "wof:lastmodified":1472609166,
+    "wof:name":"Pelayo 47 Cb",
+    "wof:parent_id":85863791,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    -3.6977040768,
+    40.4241523743,
+    -3.6977040768,
+    40.4241523743
+],
+  "geometry": {"coordinates":[-3.6977040768,40.4241523743],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1008562601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1853129864,41.3834266663,2.1853129864,41.3834266663",
+    "geom:latitude":41.383427,
+    "geom:longitude":2.185313,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Duana, 7",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asociaciones Y Clubs Deportivos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 15 05 18",
+    "sg:postcode":"08003",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64gsw4V5gWkBYwcjSIVML5_41.383427_2.185313@1306269670"
+    },
+    "wof:country":"ES",
+    "wof:created":1472632667,
+    "wof:geomhash":"be8a099d625b1310c30b87cc5762c9f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":1008562601
+        }
+    ],
+    "wof:id":1008562601,
+    "wof:lastmodified":1472632667,
+    "wof:name":"Suarez Arias Rosario Maria",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1853129864,
+    41.3834266663,
+    2.1853129864,
+    41.3834266663
+],
+  "geometry": {"coordinates":[2.1853129864,41.3834266663],"type":"Point"}
+}

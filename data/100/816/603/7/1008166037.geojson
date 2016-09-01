@@ -1,0 +1,59 @@
+{
+  "id": 1008166037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8691999912,40.4906082153,-3.8691999912,40.4906082153",
+    "geom:latitude":40.490608,
+    "geom:longitude":-3.8692,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Real, 61",
+    "sg:city":"Rozas De Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alimentaci\u00d3n General (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 37 59 44",
+    "sg:postcode":"28230",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863613,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3owXrIApI1ZHaG2ex0mwkq_40.490608_-3.869200@1306269617"
+    },
+    "wof:country":"ES",
+    "wof:created":1472603371,
+    "wof:geomhash":"b752f93dfe106ab3164fe8fbf9d6baed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863613,
+            "region_id":85682783,
+            "venue_id":1008166037
+        }
+    ],
+    "wof:id":1008166037,
+    "wof:lastmodified":1472603371,
+    "wof:name":"Pardillo Iglesias Tiburcio",
+    "wof:parent_id":85863613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8691999912,
+    40.4906082153,
+    -3.8691999912,
+    40.4906082153
+],
+  "geometry": {"coordinates":[-3.8691999912,40.4906082153],"type":"Point"}
+}

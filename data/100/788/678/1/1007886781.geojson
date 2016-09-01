@@ -1,0 +1,59 @@
+{
+  "id": 1007886781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5668795109,40.4237098694,-3.5668795109,40.4237098694",
+    "geom:latitude":40.42371,
+    "geom:longitude":-3.56688,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Dr Fleming (del), 19",
+    "sg:city":"Coslada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tiendas De Grano, Frutas Y Legumbres Secas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 74 35 53",
+    "sg:postcode":"28820",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863629,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4m9fE6ErRtu4sOEyMLnwzV_40.423710_-3.566880@1306269581"
+    },
+    "wof:country":"ES",
+    "wof:created":1472590325,
+    "wof:geomhash":"ba0111857225e0d97c045f479d0a046f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863629,
+            "region_id":85682783,
+            "venue_id":1007886781
+        }
+    ],
+    "wof:id":1007886781,
+    "wof:lastmodified":1472590325,
+    "wof:name":"Manzano Gonzalez Santiago",
+    "wof:parent_id":85863629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5668795109,
+    40.4237098694,
+    -3.5668795109,
+    40.4237098694
+],
+  "geometry": {"coordinates":[-3.5668795109,40.4237098694],"type":"Point"}
+}

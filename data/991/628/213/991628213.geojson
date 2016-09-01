@@ -1,0 +1,87 @@
+{
+  "id": 991628213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4898679852,38.3391571045,-0.4898679852,38.3391571045",
+    "geom:latitude":38.339157,
+    "geom:longitude":-0.489868,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pintor Aparicio, 3",
+    "sg:city":"Alacant",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 92 87 30",
+    "sg:postcode":"03003",
+    "sg:province":"Alicante",
+    "sg:tags":[
+        "caza",
+        "pr\u00c1ctica",
+        "la",
+        "de",
+        "pesca",
+        "y"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799185,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7C0MLuNlZTuWJia9WR2zs6_38.339157_-0.489868@1306269511"
+    },
+    "wof:country":"ES",
+    "wof:created":1472561675,
+    "wof:geomhash":"6f496f867749326ba18d2d4c58d8a6d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85799185,
+            "region_id":85682625,
+            "venue_id":991628213
+        }
+    ],
+    "wof:id":991628213,
+    "wof:lastmodified":1472561675,
+    "wof:name":"Federacion Provincial Cofradia De Pescadores",
+    "wof:parent_id":85799185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caza",
+        "pr\u00c1ctica",
+        "la",
+        "de",
+        "pesca",
+        "y"
+    ]
+},
+  "bbox": [
+    -0.4898679852,
+    38.3391571045,
+    -0.4898679852,
+    38.3391571045
+],
+  "geometry": {"coordinates":[-0.4898679852,38.3391571045],"type":"Point"}
+}

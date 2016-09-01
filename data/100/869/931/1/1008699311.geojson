@@ -1,0 +1,81 @@
+{
+  "id": 1008699311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.697250843,43.538734436,-5.697250843,43.538734436",
+    "geom:latitude":43.538734,
+    "geom:longitude":-5.697251,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Venezuela, 8",
+    "sg:city":"Gijon",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 985 30 12 98",
+    "sg:postcode":"33213",
+    "sg:province":"Asturias",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799415,
+        102191581,
+        404340333,
+        85633129,
+        404227365,
+        101748401,
+        85682805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49UKKeAEmth2yPziHiZtxd_43.538734_-5.697251@1306269688"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638483,
+    "wof:geomhash":"2edf0c56322e8341a6d75e3ae790461f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404340333,
+            "locality_id":101748401,
+            "macroregion_id":404227365,
+            "neighbourhood_id":85799415,
+            "region_id":85682805,
+            "venue_id":1008699311
+        }
+    ],
+    "wof:id":1008699311,
+    "wof:lastmodified":1472638483,
+    "wof:name":"Vega Diaz Enrique",
+    "wof:parent_id":85799415,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -5.697250843,
+    43.538734436,
+    -5.697250843,
+    43.538734436
+],
+  "geometry": {"coordinates":[-5.697250843,43.538734436],"type":"Point"}
+}

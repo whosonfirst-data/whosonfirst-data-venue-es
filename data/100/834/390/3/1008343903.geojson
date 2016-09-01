@@ -1,0 +1,59 @@
+{
+  "id": 1008343903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9209589958,43.2409515381,-2.9209589958,43.2409515381",
+    "geom:latitude":43.240952,
+    "geom:longitude":-2.920959,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Zamacola, 79",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asilos De Ancianos. Centros Privados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 15 26 06",
+    "sg:postcode":"48003",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799199,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13ZVKvJpQddqmTs2irCLIw_43.240952_-2.920959@1306269641"
+    },
+    "wof:country":"ES",
+    "wof:created":1472623233,
+    "wof:geomhash":"0234c4071c8987d7f22e5b37a8b193c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799199,
+            "region_id":85682879,
+            "venue_id":1008343903
+        }
+    ],
+    "wof:id":1008343903,
+    "wof:lastmodified":1472623233,
+    "wof:name":"Residencia Aravella S.l.",
+    "wof:parent_id":85799199,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9209589958,
+    43.2409515381,
+    -2.9209589958,
+    43.2409515381
+],
+  "geometry": {"coordinates":[-2.9209589958,43.2409515381],"type":"Point"}
+}

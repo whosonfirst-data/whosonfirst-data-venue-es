@@ -1,0 +1,60 @@
+{
+  "id": 1008673289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7649290562,40.3305091858,-3.7649290562,40.3305091858",
+    "geom:latitude":40.330509,
+    "geom:longitude":-3.764929,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Universidad, 30",
+    "sg:city":"Leganes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Universidades",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 24 91 53",
+    "sg:postcode":"28...",
+    "sg:province":"Madrid",
+    "sg:website":"www.uc3m.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863785,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5w388XxvWz3Nydluvzc4ga_40.330509_-3.764929@1306269685"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637329,
+    "wof:geomhash":"79144236d4eb8f8171d10d97bbba564c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863785,
+            "region_id":85682783,
+            "venue_id":1008673289
+        }
+    ],
+    "wof:id":1008673289,
+    "wof:lastmodified":1472637329,
+    "wof:name":"Universidad Sur - Carlos Iii",
+    "wof:parent_id":85863785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7649290562,
+    40.3305091858,
+    -3.7649290562,
+    40.3305091858
+],
+  "geometry": {"coordinates":[-3.7649290562,40.3305091858],"type":"Point"}
+}

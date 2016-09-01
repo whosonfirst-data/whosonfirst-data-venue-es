@@ -1,0 +1,65 @@
+{
+  "id": 1008121089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.3495488167,36.1614608765,-5.3495488167,36.1614608765",
+    "geom:latitude":36.161461,
+    "geom:longitude":-5.349549,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Hercules, 17",
+    "sg:city":"Linea De La Concepcion",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 956 76 53 06",
+    "sg:postcode":"11300",
+    "sg:province":"C\u00e1diz",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "85633167",
+        85794121,
+        "102191581",
+        "85633159",
+        101753853,
+        85684619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gYxKj1m6Bw5fZ4NFK9jJk_36.161461_-5.349549@1306269611"
+    },
+    "wof:country":"ES",
+    "wof:created":1472600437,
+    "wof:geomhash":"532a7323b2cffa0ee9b687ead2d854f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "dependency_id":"85633167",
+            "locality_id":101753853,
+            "neighbourhood_id":85794121,
+            "region_id":85684619,
+            "venue_id":1008121089
+        }
+    ],
+    "wof:id":1008121089,
+    "wof:lastmodified":1472600437,
+    "wof:name":"Olivares Santiago Manuel",
+    "wof:parent_id":85794121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.3495488167,
+    36.1614608765,
+    -5.3495488167,
+    36.1614608765
+],
+  "geometry": {"coordinates":[-5.3495488167,36.1614608765],"type":"Point"}
+}

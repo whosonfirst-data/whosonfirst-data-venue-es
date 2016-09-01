@@ -1,0 +1,60 @@
+{
+  "id": 991163013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6101970673,40.5497703552,-3.6101970673,40.5497703552",
+    "geom:latitude":40.54977,
+    "geom:longitude":-3.610197,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Pirineos (de Los), 9",
+    "sg:city":"San Sebastian De Los Reyes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Compresores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 59 18 14",
+    "sg:postcode":"28700",
+    "sg:province":"Madrid",
+    "sg:website":"www.boge.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863585,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36l8GPD4sADKQNagzoREmn_40.549770_-3.610197@1306269449"
+    },
+    "wof:country":"ES",
+    "wof:created":1472533570,
+    "wof:geomhash":"bd1e84a7657392ce4acba164b9c70517",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863585,
+            "region_id":85682783,
+            "venue_id":991163013
+        }
+    ],
+    "wof:id":991163013,
+    "wof:lastmodified":1472533570,
+    "wof:name":"Boge Compresores Iberica",
+    "wof:parent_id":85863585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6101970673,
+    40.5497703552,
+    -3.6101970673,
+    40.5497703552
+],
+  "geometry": {"coordinates":[-3.6101970673,40.5497703552],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1008370217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7029390335,40.2947425842,-3.7029390335,40.2947425842",
+    "geom:latitude":40.294743,
+    "geom:longitude":-3.702939,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Eratostenes, 3",
+    "sg:city":"Getafe",
+    "sg:classifiers":[],
+    "sg:orig_category":"Laboratorios Farmac\u00c9uticos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 81 34 06",
+    "sg:postcode":"28906",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RaF9602XIVP0n7GI4tviW_40.294743_-3.702939@1306269645"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624372,
+    "wof:geomhash":"b4f838a0d2344ee6da5ea8cc38a687af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1008370217
+        }
+    ],
+    "wof:id":1008370217,
+    "wof:lastmodified":1472624372,
+    "wof:name":"Roche Farma S.a.",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7029390335,
+    40.2947425842,
+    -3.7029390335,
+    40.2947425842
+],
+  "geometry": {"coordinates":[-3.7029390335,40.2947425842],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1007695273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4835959971,38.3536491394,-0.4835959971,38.3536491394",
+    "geom:latitude":38.353649,
+    "geom:longitude":-0.483596,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Carlos, 31",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Venta, Alquiler, Mantenimiento De Calderas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 24 04 16",
+    "sg:postcode":"03012",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864065,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yx5UdXGAgM9bO57eyQRq7_38.353649_-0.483596@1306269556"
+    },
+    "wof:country":"ES",
+    "wof:created":1472580746,
+    "wof:geomhash":"7112a1b2fcf5bf29c4ee0678251483da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864065,
+            "region_id":85682625,
+            "venue_id":1007695273
+        }
+    ],
+    "wof:id":1007695273,
+    "wof:lastmodified":1472580746,
+    "wof:name":"Instalaciones Termicas Alicantinas S. L.",
+    "wof:parent_id":85864065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4835959971,
+    38.3536491394,
+    -0.4835959971,
+    38.3536491394
+],
+  "geometry": {"coordinates":[-0.4835959971,38.3536491394],"type":"Point"}
+}

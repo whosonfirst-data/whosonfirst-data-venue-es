@@ -1,0 +1,81 @@
+{
+  "id": 1008307369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6090099812,40.3824729919,-3.6090099812,40.3824729919",
+    "geom:latitude":40.382473,
+    "geom:longitude":-3.60901,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Puentelarra, 7",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 31 93 68",
+    "sg:postcode":"28031",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863725,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1g3GhTpxHpzroD714TyjGf_40.382473_-3.609010@1306269636"
+    },
+    "wof:country":"ES",
+    "wof:created":1472621682,
+    "wof:geomhash":"17a8350761ec78eb7c0329c8d08cb2c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863725,
+            "region_id":85682783,
+            "venue_id":1008307369
+        }
+    ],
+    "wof:id":1008307369,
+    "wof:lastmodified":1472621682,
+    "wof:name":"Rabadan Prado Paloma",
+    "wof:parent_id":85863725,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [
+    -3.6090099812,
+    40.3824729919,
+    -3.6090099812,
+    40.3824729919
+],
+  "geometry": {"coordinates":[-3.6090099812,40.3824729919],"type":"Point"}
+}

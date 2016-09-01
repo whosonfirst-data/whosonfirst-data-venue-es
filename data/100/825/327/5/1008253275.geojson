@@ -1,0 +1,59 @@
+{
+  "id": 1008253275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6463215351,40.3751602173,-3.6463215351,40.3751602173",
+    "geom:latitude":40.37516,
+    "geom:longitude":-3.646322,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Luis I, S/n",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Venta, Colocaci\u00d3n De Autoradios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 03 09 57",
+    "sg:postcode":"28031",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863779,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ssS2kUNOEn21P0Dj5knom_40.375160_-3.646322@1306269629"
+    },
+    "wof:country":"ES",
+    "wof:created":1472616196,
+    "wof:geomhash":"d4572b6dc415d75f2d271af3c8600b84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863779,
+            "region_id":85682783,
+            "venue_id":1008253275
+        }
+    ],
+    "wof:id":1008253275,
+    "wof:lastmodified":1472616196,
+    "wof:name":"Plato 600 S.a.",
+    "wof:parent_id":85863779,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6463215351,
+    40.3751602173,
+    -3.6463215351,
+    40.3751602173
+],
+  "geometry": {"coordinates":[-3.6463215351,40.3751602173],"type":"Point"}
+}

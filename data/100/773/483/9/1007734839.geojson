@@ -1,0 +1,77 @@
+{
+  "id": 1007734839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.4246258736,36.7147598267,-4.4246258736,36.7147598267",
+    "geom:latitude":36.71476,
+    "geom:longitude":-4.424626,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Alam Colon, 18",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Procuradores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 60 43 87",
+    "sg:postcode":"29001",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863491,
+        102191581,
+        404339241,
+        85633129,
+        404227361,
+        101748185,
+        85682787,
+        85863541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wgJzz0TmLCtdrNPYAi7qs_36.714760_-4.424626@1306269561"
+    },
+    "wof:country":"ES",
+    "wof:created":1472582753,
+    "wof:geomhash":"04b7b9ffc02da7849c5b145c336ced82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863491,
+            "region_id":85682787,
+            "venue_id":1007734839
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748185,
+            "neighbourhood_id":85863541,
+            "region_id":-1,
+            "venue_id":1007734839
+        }
+    ],
+    "wof:id":1007734839,
+    "wof:lastmodified":1472582753,
+    "wof:name":"Jimenez Segado Jose Carlos",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4246258736,
+    36.7147598267,
+    -4.4246258736,
+    36.7147598267
+],
+  "geometry": {"coordinates":[-4.4246258736,36.7147598267],"type":"Point"}
+}

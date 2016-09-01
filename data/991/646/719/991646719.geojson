@@ -1,0 +1,81 @@
+{
+  "id": 991646719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7457060814,40.3858604431,-3.7457060814,40.3858604431",
+    "geom:latitude":40.38586,
+    "geom:longitude":-3.745706,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Guabairo, 6",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 61 65 42",
+    "sg:postcode":"28047",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863819,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NnCA8wHwnoTVgv1CdpHei_40.385860_-3.745706@1306269513"
+    },
+    "wof:country":"ES",
+    "wof:created":1472562833,
+    "wof:geomhash":"4184a86598ba5bb47bed7d9b8155918f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863819,
+            "region_id":85682783,
+            "venue_id":991646719
+        }
+    ],
+    "wof:id":991646719,
+    "wof:lastmodified":1472562833,
+    "wof:name":"Fernandez Nu\u00f1ez Alfonso",
+    "wof:parent_id":85863819,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.7457060814,
+    40.3858604431,
+    -3.7457060814,
+    40.3858604431
+],
+  "geometry": {"coordinates":[-3.7457060814,40.3858604431],"type":"Point"}
+}

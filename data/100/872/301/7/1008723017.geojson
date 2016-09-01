@@ -1,0 +1,67 @@
+{
+  "id": 1008723017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6817159653,40.4288749695,-3.6817159653,40.4288749695",
+    "geom:latitude":40.428875,
+    "geom:longitude":-3.681716,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Don Ramon De La Cruz, 38",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 31 20 03",
+    "sg:postcode":"28001",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863675,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7V0RAHGd193hk7n5h5MG8C_40.428875_-3.681716@1306269692"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639551,
+    "wof:geomhash":"85c05f54b21ed13452747d91ba473745",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863675,
+            "region_id":85682783,
+            "venue_id":1008723017
+        }
+    ],
+    "wof:id":1008723017,
+    "wof:lastmodified":1472639551,
+    "wof:name":"Vidal Caruana Gonzalo",
+    "wof:parent_id":85863675,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6817159653,
+    40.4288749695,
+    -3.6817159653,
+    40.4288749695
+],
+  "geometry": {"coordinates":[-3.6817159653,40.4288749695],"type":"Point"}
+}

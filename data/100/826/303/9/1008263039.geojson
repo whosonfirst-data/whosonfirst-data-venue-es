@@ -1,0 +1,78 @@
+{
+  "id": 1008263039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9193849564,43.2572975159,-2.9193849564,43.2572975159",
+    "geom:latitude":43.257298,
+    "geom:longitude":-2.919385,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Zumarraga, 8",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reposter\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 15 07 63",
+    "sg:postcode":"48006",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863965,
+        102191581,
+        404345949,
+        85633129,
+        404227393,
+        101748385,
+        85682879,
+        85863961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dFcsL7vflCG1VO39yG2yK_43.257298_-2.919385@1306269630"
+    },
+    "wof:country":"ES",
+    "wof:created":1472616673,
+    "wof:geomhash":"0e05b20c1cc64e446168ca9dfa692575",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345949,
+            "locality_id":101748385,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863965,
+            "region_id":85682879,
+            "venue_id":1008263039
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345949,
+            "locality_id":101748385,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863961,
+            "region_id":85682879,
+            "venue_id":1008263039
+        }
+    ],
+    "wof:id":1008263039,
+    "wof:lastmodified":1472616673,
+    "wof:name":"Portilla Solana Luis Enrique",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9193849564,
+    43.2572975159,
+    -2.9193849564,
+    43.2572975159
+],
+  "geometry": {"coordinates":[-2.9193849564,43.2572975159],"type":"Point"}
+}

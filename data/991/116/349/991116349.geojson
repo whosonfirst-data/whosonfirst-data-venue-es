@@ -1,0 +1,78 @@
+{
+  "id": 991116349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1508200169,41.3932952881,2.1508200169,41.3932952881",
+    "geom:latitude":41.393295,
+    "geom:longitude":2.15082,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Muntaner, 210",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 15 29 34",
+    "sg:postcode":"08036",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864021,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eIUU6Weud3hUzEwOpoiyC_41.393295_2.150820@1306269443"
+    },
+    "wof:country":"ES",
+    "wof:created":1472528075,
+    "wof:geomhash":"0bfa92cbf276a130e0ca0fc4a10018e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864021,
+            "region_id":85682663,
+            "venue_id":991116349
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864017,
+            "region_id":85682663,
+            "venue_id":991116349
+        }
+    ],
+    "wof:id":991116349,
+    "wof:lastmodified":1472528075,
+    "wof:name":"Barrera Domenech Arquitectes Associats S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1508200169,
+    41.3932952881,
+    2.1508200169,
+    41.3932952881
+],
+  "geometry": {"coordinates":[2.1508200169,41.3932952881],"type":"Point"}
+}

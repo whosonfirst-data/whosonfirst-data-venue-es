@@ -1,0 +1,68 @@
+{
+  "id": 1007984395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6026859283,37.1857528687,-3.6026859283,37.1857528687",
+    "geom:latitude":37.185753,
+    "geom:longitude":-3.602686,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ancha De Capuchinos, 11",
+    "sg:city":"Granada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 28 34 80",
+    "sg:postcode":"18012",
+    "sg:province":"Granada",
+    "sg:website":"www.mercadona.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863849,
+        102191581,
+        404335211,
+        85633129,
+        404227361,
+        101748197,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TCRijNq36iSXeLKR5kFHb_37.185753_-3.602686@1306269593"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594507,
+    "wof:geomhash":"0168abb47952e8d6cacd3a2432393a68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404335211,
+            "locality_id":101748197,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863849,
+            "region_id":85682731,
+            "venue_id":1007984395
+        }
+    ],
+    "wof:id":1007984395,
+    "wof:lastmodified":1472594507,
+    "wof:name":"Mercadona S.a.",
+    "wof:parent_id":85863849,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6026859283,
+    37.1857528687,
+    -3.6026859283,
+    37.1857528687
+],
+  "geometry": {"coordinates":[-3.6026859283,37.1857528687],"type":"Point"}
+}

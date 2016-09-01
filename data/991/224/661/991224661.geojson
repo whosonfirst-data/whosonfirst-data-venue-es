@@ -1,0 +1,67 @@
+{
+  "id": 991224661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1972339153,41.4048652649,2.1972339153,41.4048652649",
+    "geom:latitude":41.404865,
+    "geom:longitude":2.197234,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ptge Burrull, 4",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cajas De Ahorro",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 20 83 08",
+    "sg:postcode":"08018",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799265,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pqRRMGWMYcLgAUjsBY0he_41.404865_2.197234@1306269457"
+    },
+    "wof:country":"ES",
+    "wof:created":1472538743,
+    "wof:geomhash":"d6f3d9fa9f67cbf95cdcfdb66900cb88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799265,
+            "region_id":85682663,
+            "venue_id":991224661
+        }
+    ],
+    "wof:id":991224661,
+    "wof:lastmodified":1472538743,
+    "wof:name":"Cajastur",
+    "wof:parent_id":85799265,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1972339153,
+    41.4048652649,
+    2.1972339153,
+    41.4048652649
+],
+  "geometry": {"coordinates":[2.1972339153,41.4048652649],"type":"Point"}
+}

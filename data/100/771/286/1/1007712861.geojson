@@ -1,0 +1,59 @@
+{
+  "id": 1007712861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6955759525,40.3104896545,-3.6955759525,40.3104896545",
+    "geom:latitude":40.31049,
+    "geom:longitude":-3.695576,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Torneros, 66",
+    "sg:city":"Getafe",
+    "sg:classifiers":[],
+    "sg:orig_category":"Lavado, Limpieza De Veh\u00cdculos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 01 02 10",
+    "sg:postcode":"28906",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pB1gXS7nsY2WvqEIQjdMV_40.310490_-3.695576@1306269558"
+    },
+    "wof:country":"ES",
+    "wof:created":1472581601,
+    "wof:geomhash":"9abcefe8cd433a6461c9871ce2ebbdbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1007712861
+        }
+    ],
+    "wof:id":1007712861,
+    "wof:lastmodified":1472581601,
+    "wof:name":"Istobal S.a.",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6955759525,
+    40.3104896545,
+    -3.6955759525,
+    40.3104896545
+],
+  "geometry": {"coordinates":[-3.6955759525,40.3104896545],"type":"Point"}
+}

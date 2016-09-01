@@ -1,0 +1,60 @@
+{
+  "id": 1008404045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7592389584,40.3225898743,-3.7592389584,40.3225898743",
+    "geom:latitude":40.32259,
+    "geom:longitude":-3.759239,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Derechos Humanos, 51",
+    "sg:city":"Leganes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mudanzas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 94 94 14",
+    "sg:postcode":"28912",
+    "sg:province":"Madrid",
+    "sg:website":"www.mudanzascrespo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863785,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IOQOmqpieqH9TjCJIvHFM_40.322590_-3.759239@1306269649"
+    },
+    "wof:country":"ES",
+    "wof:created":1472625877,
+    "wof:geomhash":"82c7e156727259ca5b1cd981ce66803d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863785,
+            "region_id":85682783,
+            "venue_id":1008404045
+        }
+    ],
+    "wof:id":1008404045,
+    "wof:lastmodified":1472625877,
+    "wof:name":"Roque Crespo Andres",
+    "wof:parent_id":85863785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7592389584,
+    40.3225898743,
+    -3.7592389584,
+    40.3225898743
+],
+  "geometry": {"coordinates":[-3.7592389584,40.3225898743],"type":"Point"}
+}

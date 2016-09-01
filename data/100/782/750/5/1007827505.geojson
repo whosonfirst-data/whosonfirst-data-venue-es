@@ -1,0 +1,78 @@
+{
+  "id": 1007827505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7111458778,40.4382705688,-3.7111458778,40.4382705688",
+    "geom:latitude":40.438271,
+    "geom:longitude":-3.711146,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Blasco De Garay, 88",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alquiler De Veh\u00cdculos: Turismos Y Utilitarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 36 07 94",
+    "sg:postcode":"28015",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863655,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DHHL0qdAw9VqR4yxiOhu0_40.438271_-3.711146@1306269573"
+    },
+    "wof:country":"ES",
+    "wof:created":1472587582,
+    "wof:geomhash":"7478f1045f9234ffd3fe4ef70ac942d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863655,
+            "region_id":85682783,
+            "venue_id":1007827505
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863653,
+            "region_id":85682783,
+            "venue_id":1007827505
+        }
+    ],
+    "wof:id":1007827505,
+    "wof:lastmodified":1472587582,
+    "wof:name":"Longrent Automoviles S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7111458778,
+    40.4382705688,
+    -3.7111458778,
+    40.4382705688
+],
+  "geometry": {"coordinates":[-3.7111458778,40.4382705688],"type":"Point"}
+}

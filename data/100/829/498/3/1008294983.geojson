@@ -1,0 +1,74 @@
+{
+  "id": 1008294983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1977069378,41.3970985413,2.1977069378,41.3970985413",
+    "geom:latitude":41.397099,
+    "geom:longitude":2.197707,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Badajoz, 60",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Calderer\u00cda",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 09 63 35",
+    "sg:postcode":"08005",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799265,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dDmlPRK9pAMHMe0uym0lo_41.397099_2.197707@1306269635"
+    },
+    "wof:country":"ES",
+    "wof:created":1472618546,
+    "wof:geomhash":"4a7f2b5e9c68683c9a10e532f8e91e2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799265,
+            "region_id":85682663,
+            "venue_id":1008294983
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008294983
+        }
+    ],
+    "wof:id":1008294983,
+    "wof:lastmodified":1472618546,
+    "wof:name":"Puig Colldeforns Francisco",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1977069378,
+    41.3970985413,
+    2.1977069378,
+    41.3970985413
+],
+  "geometry": {"coordinates":[2.1977069378,41.3970985413],"type":"Point"}
+}

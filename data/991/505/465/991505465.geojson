@@ -1,0 +1,60 @@
+{
+  "id": 991505465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1702558994,41.3939704895,2.1702558994,41.3939704895",
+    "geom:latitude":41.39397,
+    "geom:longitude":2.170256,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Bruc, 78",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros Empresariales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 87 43 66",
+    "sg:postcode":"08009",
+    "sg:province":"Barcelona",
+    "sg:website":"www.dinamictraspas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5W1LcsvMFQZyU35qNPS5xd_41.393970_2.170256@1306269494"
+    },
+    "wof:country":"ES",
+    "wof:created":1472554683,
+    "wof:geomhash":"f9813d0011389ea06a03c44ed6717d8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":991505465
+        }
+    ],
+    "wof:id":991505465,
+    "wof:lastmodified":1472554683,
+    "wof:name":"Dinamic Traspas S.l.",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1702558994,
+    41.3939704895,
+    2.1702558994,
+    41.3939704895
+],
+  "geometry": {"coordinates":[2.1702558994,41.3939704895],"type":"Point"}
+}

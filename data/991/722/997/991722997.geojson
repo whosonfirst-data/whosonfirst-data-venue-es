@@ -1,0 +1,72 @@
+{
+  "id": 991722997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1004838943,41.3689308167,2.1004838943,41.3689308167",
+    "geom:latitude":41.368931,
+    "geom:longitude":2.100484,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Electricitat, 28",
+    "sg:city":"Hospitalet Llobregat",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 38 78 87",
+    "sg:postcode":"08906",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799283,
+        102191581,
+        404331105,
+        85633129,
+        404227379,
+        101748333,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lAEPETPwsv406Av5v5CET_41.368931_2.100484@1306269523"
+    },
+    "wof:country":"ES",
+    "wof:created":1472566615,
+    "wof:geomhash":"8cba041bba203543dd57a64d2390098f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331105,
+            "locality_id":101748333,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799283,
+            "region_id":85682663,
+            "venue_id":991722997
+        }
+    ],
+    "wof:id":991722997,
+    "wof:lastmodified":1472566615,
+    "wof:name":"Gallardo Caballero Gregorio",
+    "wof:parent_id":85799283,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1004838943,
+    41.3689308167,
+    2.1004838943,
+    41.3689308167
+],
+  "geometry": {"coordinates":[2.1004838943,41.3689308167],"type":"Point"}
+}

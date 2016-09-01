@@ -1,0 +1,59 @@
+{
+  "id": 1007691771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6418004036,40.521572113,-3.6418004036,40.521572113",
+    "geom:latitude":40.521572,
+    "geom:longitude":-3.6418,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Dalia (de La), S/n",
+    "sg:city":"Alcobendas",
+    "sg:classifiers":[],
+    "sg:orig_category":"Internados & Ense\u00d1anza Privada",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 50 06 53",
+    "sg:postcode":"28109",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BOhP93BvV1oRRPcbetgRd_40.521572_-3.641800@1306269555"
+    },
+    "wof:country":"ES",
+    "wof:created":1472580590,
+    "wof:geomhash":"45b8519ecc7a3bd5dcef571876442f16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1007691771
+        }
+    ],
+    "wof:id":1007691771,
+    "wof:lastmodified":1472580590,
+    "wof:name":"Insde S.l. Colegio San Patricio",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6418004036,
+    40.521572113,
+    -3.6418004036,
+    40.521572113
+],
+  "geometry": {"coordinates":[-3.6418004036,40.521572113],"type":"Point"}
+}

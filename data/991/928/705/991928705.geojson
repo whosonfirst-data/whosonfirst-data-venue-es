@@ -1,0 +1,78 @@
+{
+  "id": 991928705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6746189594,40.4380111694,-3.6746189594,40.4380111694",
+    "geom:latitude":40.438011,
+    "geom:longitude":-3.674619,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pilar De Zaragoza, 93",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Polideportivos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 55 32 01",
+    "sg:postcode":"28028",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863673,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Pplh3HWQ9FLERcYyWtOfA_40.438011_-3.674619@1306269551"
+    },
+    "wof:country":"ES",
+    "wof:created":1472578874,
+    "wof:geomhash":"96da70a53cff5bcd649bd0bada0f7a5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863673,
+            "region_id":85682783,
+            "venue_id":991928705
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863643,
+            "region_id":85682783,
+            "venue_id":991928705
+        }
+    ],
+    "wof:id":991928705,
+    "wof:lastmodified":1472578874,
+    "wof:name":"Iam Informatica Del Ayuntamiento De Madrid",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6746189594,
+    40.4380111694,
+    -3.6746189594,
+    40.4380111694
+],
+  "geometry": {"coordinates":[-3.6746189594,40.4380111694],"type":"Point"}
+}

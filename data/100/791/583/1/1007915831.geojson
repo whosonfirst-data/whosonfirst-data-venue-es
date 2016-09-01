@@ -1,0 +1,59 @@
+{
+  "id": 1007915831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6549012661,40.5502471924,-3.6549012661,40.5502471924",
+    "geom:latitude":40.550247,
+    "geom:longitude":-3.654901,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Dolores Ibarruri (de), 17",
+    "sg:city":"Alcobendas",
+    "sg:classifiers":[],
+    "sg:orig_category":"Frutas, Legumbres Frescas Y Tempranas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 62 66 80",
+    "sg:postcode":"28100",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1afjtJuZkpXUqQ04GVRHlC_40.550247_-3.654901@1306269584"
+    },
+    "wof:country":"ES",
+    "wof:created":1472591566,
+    "wof:geomhash":"1da52b36ed1fccf309a2d268c0efa254",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1007915831
+        }
+    ],
+    "wof:id":1007915831,
+    "wof:lastmodified":1472591566,
+    "wof:name":"Martin Blanco Consolacion",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6549012661,
+    40.5502471924,
+    -3.6549012661,
+    40.5502471924
+],
+  "geometry": {"coordinates":[-3.6549012661,40.5502471924],"type":"Point"}
+}

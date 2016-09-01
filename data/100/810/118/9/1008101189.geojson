@@ -1,0 +1,64 @@
+{
+  "id": 1008101189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.187319994,41.379989624,2.187319994,41.379989624",
+    "geom:latitude":41.37999,
+    "geom:longitude":2.18732,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pg Joan Borbo Comte Barcelo, S/n",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Construcciones Navales Y Fluviales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 21 60 56",
+    "sg:postcode":"08003",
+    "sg:province":"Barcelona",
+    "sg:website":"www.northwindyachts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29mqYcP28MdXORg6OjcLqp_41.379990_2.187320@1306269608"
+    },
+    "wof:country":"ES",
+    "wof:created":1472599574,
+    "wof:geomhash":"8933fac7e2a27a991d45358fd4356339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":1008101189
+        }
+    ],
+    "wof:id":1008101189,
+    "wof:lastmodified":1472599574,
+    "wof:name":"North Wind Yard S. L.",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.187319994,
+    41.379989624,
+    2.187319994,
+    41.379989624
+],
+  "geometry": {"coordinates":[2.187319994,41.379989624],"type":"Point"}
+}

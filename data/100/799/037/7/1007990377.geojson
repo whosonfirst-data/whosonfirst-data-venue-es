@@ -1,0 +1,78 @@
+{
+  "id": 1007990377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1588201523,41.4099769592,2.1588201523,41.4099769592",
+    "geom:latitude":41.409977,
+    "geom:longitude":2.15882,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de L'escorial, 156",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c9dicos: Medicina General Orientada A La Homeopat\u00cda",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 13 37 38",
+    "sg:postcode":"08024",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863993,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85799393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47PrpZbZn6lRlEfr05Bka2_41.409977_2.158820@1306269593"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594770,
+    "wof:geomhash":"db8388810567b4940b6fafe6ae4a8b42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863993,
+            "region_id":85682663,
+            "venue_id":1007990377
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799393,
+            "region_id":85682663,
+            "venue_id":1007990377
+        }
+    ],
+    "wof:id":1007990377,
+    "wof:lastmodified":1472594770,
+    "wof:name":"Mestre Blabia Assumpta",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1588201523,
+    41.4099769592,
+    2.1588201523,
+    41.4099769592
+],
+  "geometry": {"coordinates":[2.1588201523,41.4099769592],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1008211459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.593506813,37.1632118225,-3.593506813,37.1632118225",
+    "geom:latitude":37.163212,
+    "geom:longitude":-3.593507,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Agustin Lara, 24",
+    "sg:city":"Granada",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 13 37 03",
+    "sg:postcode":"18008",
+    "sg:province":"Granada",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863847,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CldpwbU8MeosBEAT7blVB_37.163212_-3.593507@1306269623"
+    },
+    "wof:country":"ES",
+    "wof:created":1472612139,
+    "wof:geomhash":"7b6c493ece17efa346d7707e40c407c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863847,
+            "region_id":85682731,
+            "venue_id":1008211459
+        }
+    ],
+    "wof:id":1008211459,
+    "wof:lastmodified":1472612139,
+    "wof:name":"Perez Duran Pedro Jose",
+    "wof:parent_id":85863847,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.593506813,
+    37.1632118225,
+    -3.593506813,
+    37.1632118225
+],
+  "geometry": {"coordinates":[-3.593506813,37.1632118225],"type":"Point"}
+}

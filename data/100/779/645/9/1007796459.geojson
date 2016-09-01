@@ -1,0 +1,59 @@
+{
+  "id": 1007796459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8033208847,40.3536262512,-3.8033208847,40.3536262512",
+    "geom:latitude":40.353626,
+    "geom:longitude":-3.803321,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Nardos (los), 145",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias Y Agentes Comerciales, Representantes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 11 76 69",
+    "sg:postcode":"28925",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eLCxrZN3W0FCoiLgaRAiq_40.353626_-3.803321@1306269569"
+    },
+    "wof:country":"ES",
+    "wof:created":1472586124,
+    "wof:geomhash":"d4516740300684078ae34d8e23b4b5ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1007796459
+        }
+    ],
+    "wof:id":1007796459,
+    "wof:lastmodified":1472586124,
+    "wof:name":"Lazaro Menendez Sergio",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8033208847,
+    40.3536262512,
+    -3.8033208847,
+    40.3536262512
+],
+  "geometry": {"coordinates":[-3.8033208847,40.3536262512],"type":"Point"}
+}

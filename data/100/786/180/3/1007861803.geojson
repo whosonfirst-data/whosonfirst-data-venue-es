@@ -1,0 +1,66 @@
+{
+  "id": 1007861803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6244440079,37.1913223267,-3.6244440079,37.1913223267",
+    "geom:latitude":37.191322,
+    "geom:longitude":-3.624444,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Sagrada Familia, 15",
+    "sg:city":"Granada",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c9dicos: Estomatolog\u00cda",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 20 74 45",
+    "sg:postcode":"18015",
+    "sg:province":"Granada",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863835,
+        85682731,
+        85863831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iwBEjE8DzON6aoJ9miXLy_37.191322_-3.624444@1306269578"
+    },
+    "wof:country":"ES",
+    "wof:created":1472589296,
+    "wof:geomhash":"d0845563e9ac14222e5e4a190a4247be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863835,
+            "region_id":85682731,
+            "venue_id":1007861803
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863831,
+            "region_id":85682731,
+            "venue_id":1007861803
+        }
+    ],
+    "wof:id":1007861803,
+    "wof:lastmodified":1472589296,
+    "wof:name":"Luque Torres Maria Del Carmen",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6244440079,
+    37.1913223267,
+    -3.6244440079,
+    37.1913223267
+],
+  "geometry": {"coordinates":[-3.6244440079,37.1913223267],"type":"Point"}
+}

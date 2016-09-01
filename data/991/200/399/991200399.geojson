@@ -1,0 +1,79 @@
+{
+  "id": 991200399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.0031328201,37.3770179749,-6.0031328201,37.3770179749",
+    "geom:latitude":37.377018,
+    "geom:longitude":-6.003133,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Republica Argentina, 31",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cajas De Ahorro",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 99 10 23",
+    "sg:postcode":"41011",
+    "sg:province":"Sevilla",
+    "sg:website":"www.caixanova.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864129,
+        102191581,
+        404342947,
+        85633129,
+        404227361,
+        101748225,
+        85682841,
+        85864127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fX21rRERK4NbBKIoJqU0Z_37.377018_-6.003133@1306269454"
+    },
+    "wof:country":"ES",
+    "wof:created":1472536535,
+    "wof:geomhash":"e309912b259c08cc3dbceb1b1a97264e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864129,
+            "region_id":85682841,
+            "venue_id":991200399
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864127,
+            "region_id":85682841,
+            "venue_id":991200399
+        }
+    ],
+    "wof:id":991200399,
+    "wof:lastmodified":1472536535,
+    "wof:name":"Caixa De Aforros De Vigo Ourense E Pontevedra",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0031328201,
+    37.3770179749,
+    -6.0031328201,
+    37.3770179749
+],
+  "geometry": {"coordinates":[-6.0031328201,37.3770179749],"type":"Point"}
+}

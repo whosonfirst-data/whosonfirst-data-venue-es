@@ -1,0 +1,64 @@
+{
+  "id": 1008440123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3940060139,39.4788093567,-0.3940060139,39.4788093567",
+    "geom:latitude":39.478809,
+    "geom:longitude":-0.394006,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Campanar, 43",
+    "sg:city":"Valencia",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 40 70 18",
+    "sg:postcode":"46009",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799211,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DWu5o1HWx72p3mvRiwXaM_39.478809_-0.394006@1306269654"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627571,
+    "wof:geomhash":"5582db06428f7ec6a0fd8ffb754e85a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799211,
+            "region_id":85682867,
+            "venue_id":1008440123
+        }
+    ],
+    "wof:id":1008440123,
+    "wof:lastmodified":1472627571,
+    "wof:name":"Salla S.l.",
+    "wof:parent_id":85799211,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3940060139,
+    39.4788093567,
+    -0.3940060139,
+    39.4788093567
+],
+  "geometry": {"coordinates":[-0.3940060139,39.4788093567],"type":"Point"}
+}

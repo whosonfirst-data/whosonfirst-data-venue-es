@@ -1,0 +1,81 @@
+{
+  "id": 1008489567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8730289936,41.6282234192,-0.8730289936,41.6282234192",
+    "geom:latitude":41.628223,
+    "geom:longitude":-0.873029,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pescara, 28",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 37 00 95",
+    "sg:postcode":"50007",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863383,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_188vCOpgjYFNH0sFvZjfCC_41.628223_-0.873029@1306269660"
+    },
+    "wof:country":"ES",
+    "wof:created":1472629534,
+    "wof:geomhash":"a212bc183396cd0a4fae0f3af4ed8a6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863383,
+            "region_id":85682891,
+            "venue_id":1008489567
+        }
+    ],
+    "wof:id":1008489567,
+    "wof:lastmodified":1472629534,
+    "wof:name":"Sebastian Castellot Josefina",
+    "wof:parent_id":85863383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ]
+},
+  "bbox": [
+    -0.8730289936,
+    41.6282234192,
+    -0.8730289936,
+    41.6282234192
+],
+  "geometry": {"coordinates":[-0.8730289936,41.6282234192],"type":"Point"}
+}

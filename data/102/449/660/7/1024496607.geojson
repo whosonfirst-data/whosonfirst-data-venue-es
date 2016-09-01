@@ -1,0 +1,71 @@
+{
+  "id": 1024496607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8166758,40.432883,-3.8166758,40.432883",
+    "geom:latitude":40.432883,
+    "geom:longitude":-3.816676,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle Luis Garcia 5, 1 E  Pozuelo de Alarcon",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"28223 ",
+    "sg:website":"http://www.adoos.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799153,
+        102191581,
+        404338935,
+        85633129,
+        404227387,
+        101748291,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_604SVq2MwTpI2Toqxq2qQK_40.432883_-3.816676@1308163239"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641474,
+    "wof:geomhash":"6441edfa41199860c9fd394d48c2de77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338935,
+            "locality_id":101748291,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799153,
+            "region_id":85682783,
+            "venue_id":1024496607
+        }
+    ],
+    "wof:id":1024496607,
+    "wof:lastmodified":1472641474,
+    "wof:name":"Adoos",
+    "wof:parent_id":85799153,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8166758,
+    40.432883,
+    -3.8166758,
+    40.432883
+],
+  "geometry": {"coordinates":[-3.8166758,40.432883],"type":"Point"}
+}

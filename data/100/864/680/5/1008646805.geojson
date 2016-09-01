@@ -1,0 +1,59 @@
+{
+  "id": 1008646805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1841681004,41.3964767456,2.1841681004,41.3964767456",
+    "geom:latitude":41.396477,
+    "geom:longitude":2.184168,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Marina, 123",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Delegados, Agentes De Tr\u00c1nsito, Auxiliares De Transporte Internacional",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 65 81 07",
+    "sg:postcode":"08013",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cT9HcBJH3Nkm6kiO7Fl7I_41.396477_2.184168@1306269681"
+    },
+    "wof:country":"ES",
+    "wof:created":1472636274,
+    "wof:geomhash":"119a08fcf93fa485a953ee9e700328c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008646805
+        }
+    ],
+    "wof:id":1008646805,
+    "wof:lastmodified":1472636274,
+    "wof:name":"Trans J. Marti S.a.",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1841681004,
+    41.3964767456,
+    2.1841681004,
+    41.3964767456
+],
+  "geometry": {"coordinates":[2.1841681004,41.3964767456],"type":"Point"}
+}

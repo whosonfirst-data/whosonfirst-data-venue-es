@@ -1,0 +1,78 @@
+{
+  "id": 1007840905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6581499577,40.3926544189,-3.6581499577,40.3926544189",
+    "geom:latitude":40.392654,
+    "geom:longitude":-3.65815,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Albufera, 137",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asociaciones Y Clubs Deportivos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 78 38 42",
+    "sg:postcode":"28038",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863721,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ata9Em8wY5WaJhNHjcwAH_40.392654_-3.658150@1306269575"
+    },
+    "wof:country":"ES",
+    "wof:created":1472588257,
+    "wof:geomhash":"688c4d583fef6d399bbc5388b8f3d814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863721,
+            "region_id":85682783,
+            "venue_id":1007840905
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863733,
+            "region_id":85682783,
+            "venue_id":1007840905
+        }
+    ],
+    "wof:id":1007840905,
+    "wof:lastmodified":1472588257,
+    "wof:name":"Lopez Morcillo Encarnacion",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6581499577,
+    40.3926544189,
+    -3.6581499577,
+    40.3926544189
+],
+  "geometry": {"coordinates":[-3.6581499577,40.3926544189],"type":"Point"}
+}

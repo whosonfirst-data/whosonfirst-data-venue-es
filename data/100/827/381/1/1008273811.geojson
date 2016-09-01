@@ -1,0 +1,67 @@
+{
+  "id": 1008273811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7524433136,40.401058197,-3.7524433136,40.401058197",
+    "geom:latitude":40.401058,
+    "geom:longitude":-3.752443,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Berlanas, 5",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 70 00 19",
+    "sg:postcode":"28047",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799479,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mjRUWGlKduJN1vpXnHu1l_40.401058_-3.752443@1306269632"
+    },
+    "wof:country":"ES",
+    "wof:created":1472617290,
+    "wof:geomhash":"76bce3275de5536cc5603deab6e24aeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799479,
+            "region_id":85682783,
+            "venue_id":1008273811
+        }
+    ],
+    "wof:id":1008273811,
+    "wof:lastmodified":1472617290,
+    "wof:name":"Prieto Rodriguez Santos",
+    "wof:parent_id":85799479,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7524433136,
+    40.401058197,
+    -3.7524433136,
+    40.401058197
+],
+  "geometry": {"coordinates":[-3.7524433136,40.401058197],"type":"Point"}
+}

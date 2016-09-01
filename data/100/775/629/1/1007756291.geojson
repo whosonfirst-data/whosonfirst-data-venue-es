@@ -1,0 +1,81 @@
+{
+  "id": 1007756291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3980149925,39.4632263184,-0.3980149925,39.4632263184",
+    "geom:latitude":39.463226,
+    "geom:longitude":-0.398015,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Jose Maria Mortes Lerma, 4",
+    "sg:city":"Valencia",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 78 63 54",
+    "sg:postcode":"46014",
+    "sg:province":"Valencia",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864219,
+        102191581,
+        404345047,
+        85633129,
+        404227381,
+        101753691,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PGaalMp54u8ZQx7PcLHsz_39.463226_-0.398015@1306269564"
+    },
+    "wof:country":"ES",
+    "wof:created":1472584049,
+    "wof:geomhash":"f554dc02748641121cca547e4728d94c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345047,
+            "locality_id":101753691,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864219,
+            "region_id":85682867,
+            "venue_id":1007756291
+        }
+    ],
+    "wof:id":1007756291,
+    "wof:lastmodified":1472584049,
+    "wof:name":"Jubing S.a.",
+    "wof:parent_id":85864219,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [
+    -0.3980149925,
+    39.4632263184,
+    -0.3980149925,
+    39.4632263184
+],
+  "geometry": {"coordinates":[-0.3980149925,39.4632263184],"type":"Point"}
+}

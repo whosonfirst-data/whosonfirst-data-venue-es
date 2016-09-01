@@ -1,0 +1,67 @@
+{
+  "id": 975164205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.711933136,40.424495697,-3.711933136,40.424495697",
+    "geom:latitude":40.424496,
+    "geom:longitude":-3.711933,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Princesa, 1",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aeropuertos Y Servicios Aeroportuarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 59 68 98",
+    "sg:postcode":"28008",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863667,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PhwCsjX0GtahWj13Tl8dV_40.424496_-3.711933@1306269413"
+    },
+    "wof:country":"ES",
+    "wof:created":1472508105,
+    "wof:geomhash":"3d0eaf0a0a827b41d0896ed194d3f846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863667,
+            "region_id":85682783,
+            "venue_id":975164205
+        }
+    ],
+    "wof:id":975164205,
+    "wof:lastmodified":1472508105,
+    "wof:name":"Aerovias De Mexico S. A.",
+    "wof:parent_id":85863667,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.711933136,
+    40.424495697,
+    -3.711933136,
+    40.424495697
+],
+  "geometry": {"coordinates":[-3.711933136,40.424495697],"type":"Point"}
+}

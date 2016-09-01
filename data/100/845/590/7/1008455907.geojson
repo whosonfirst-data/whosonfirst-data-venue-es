@@ -1,0 +1,59 @@
+{
+  "id": 1008455907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7866411209,40.3159713745,-3.7866411209,40.3159713745",
+    "geom:latitude":40.315971,
+    "geom:longitude":-3.786641,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Alcalde Pedro Gonzalez Gonzalez, 19",
+    "sg:city":"Leganes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bazares, Art\u00cdculos De Limpieza Y De Cocina (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 48 43 95",
+    "sg:postcode":"28914",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863785,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VzArZXcpxv1745FoIuhUr_40.315971_-3.786641@1306269656"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628154,
+    "wof:geomhash":"c1e444a5e0b848c2d20db33c3c145c66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863785,
+            "region_id":85682783,
+            "venue_id":1008455907
+        }
+    ],
+    "wof:id":1008455907,
+    "wof:lastmodified":1472628154,
+    "wof:name":"Sanchez Martinez Francisca",
+    "wof:parent_id":85863785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7866411209,
+    40.3159713745,
+    -3.7866411209,
+    40.3159713745
+],
+  "geometry": {"coordinates":[-3.7866411209,40.3159713745],"type":"Point"}
+}

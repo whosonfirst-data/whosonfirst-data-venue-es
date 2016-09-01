@@ -1,0 +1,75 @@
+{
+  "id": 991430841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.17258811,41.3969688416,2.17258811,41.3969688416",
+    "geom:latitude":41.396969,
+    "geom:longitude":2.172588,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pg Sant Joan, 57",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fotocopias, Reprograf\u00cda",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 65 52 94",
+    "sg:postcode":"08009",
+    "sg:province":"Barcelona",
+    "sg:website":"www.miraclepro.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863999,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PvpnFoxrmjI2euNjQI7rF_41.396969_2.172588@1306269484"
+    },
+    "wof:country":"ES",
+    "wof:created":1472550561,
+    "wof:geomhash":"178bdf79c5ba4e836c55dbecf5694231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863999,
+            "region_id":85682663,
+            "venue_id":991430841
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":991430841
+        }
+    ],
+    "wof:id":991430841,
+    "wof:lastmodified":1472550561,
+    "wof:name":"Copisteria Miracle S. A.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.17258811,
+    41.3969688416,
+    2.17258811,
+    41.3969688416
+],
+  "geometry": {"coordinates":[2.17258811,41.3969688416],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1008504563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7180550098,40.3985939026,-3.7180550098,40.3985939026",
+    "geom:latitude":40.398594,
+    "geom:longitude":-3.718055,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Santa Saturnina, 8",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 69 17 45",
+    "sg:postcode":"28019",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "mercado",
+        "de",
+        "estudios"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863759,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yxh2bEwsA9g4EOQ18bjFP_40.398594_-3.718055@1306269662"
+    },
+    "wof:country":"ES",
+    "wof:created":1472630214,
+    "wof:geomhash":"c04e3774dafcdcc5567ade3b1cc81123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863759,
+            "region_id":85682783,
+            "venue_id":1008504563
+        }
+    ],
+    "wof:id":1008504563,
+    "wof:lastmodified":1472630214,
+    "wof:name":"Serrano Fernandez Ana Isabel",
+    "wof:parent_id":85863759,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mercado",
+        "de",
+        "estudios"
+    ]
+},
+  "bbox": [
+    -3.7180550098,
+    40.3985939026,
+    -3.7180550098,
+    40.3985939026
+],
+  "geometry": {"coordinates":[-3.7180550098,40.3985939026],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1008469027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6982119083,40.3032341003,-3.6982119083,40.3032341003",
+    "geom:latitude":40.303234,
+    "geom:longitude":-3.698212,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Marconi, 10",
+    "sg:city":"Getafe",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mec\u00c1nico Del Autom\u00d3vil",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 82 42 62",
+    "sg:postcode":"28906",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7F94CTHbmIZjg6NkYytd48_40.303234_-3.698212@1306269658"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628677,
+    "wof:geomhash":"4a418ecc566abb4ae24b27e2bbb1240c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1008469027
+        }
+    ],
+    "wof:id":1008469027,
+    "wof:lastmodified":1472628677,
+    "wof:name":"San Marcos Motor S. A.",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6982119083,
+    40.3032341003,
+    -3.6982119083,
+    40.3032341003
+],
+  "geometry": {"coordinates":[-3.6982119083,40.3032341003],"type":"Point"}
+}

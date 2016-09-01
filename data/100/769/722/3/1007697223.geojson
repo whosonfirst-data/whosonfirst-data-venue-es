@@ -1,0 +1,67 @@
+{
+  "id": 1007697223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1871790886,41.4361724854,2.1871790886,41.4361724854",
+    "geom:latitude":41.436172,
+    "geom:longitude":2.187179,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Basconia, 48",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros De Educaci\u00d3n Especial",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 11 57 56",
+    "sg:postcode":"08030",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799559,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6N089cwCIBDoFvLl53OUwT_41.436172_2.187179@1306269556"
+    },
+    "wof:country":"ES",
+    "wof:created":1472580825,
+    "wof:geomhash":"6a69cb280ce69814737069f7a13e3837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799559,
+            "region_id":85682663,
+            "venue_id":1007697223
+        }
+    ],
+    "wof:id":1007697223,
+    "wof:lastmodified":1472580825,
+    "wof:name":"Institut Municipal D'educacio De Barcelona",
+    "wof:parent_id":85799559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1871790886,
+    41.4361724854,
+    2.1871790886,
+    41.4361724854
+],
+  "geometry": {"coordinates":[2.1871790886,41.4361724854],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1008025193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.8299599886,41.7269897461,1.8299599886,41.7269897461",
+    "geom:latitude":41.72699,
+    "geom:longitude":1.82996,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Reparadores, 3",
+    "sg:city":"Manresa",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aparcamientos (infraestructuras, Accesorios)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 938 73 91 04",
+    "sg:postcode":"08241",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5clN1TYbIWoyjKMf868x9t_41.726990_1.829960@1306269598"
+    },
+    "wof:country":"ES",
+    "wof:created":1472596277,
+    "wof:geomhash":"320b23a0b8dfe5a84bc4004a634fd62f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008025193
+        }
+    ],
+    "wof:id":1008025193,
+    "wof:lastmodified":1472596277,
+    "wof:name":"Montagut Carrera Oscar",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.8299599886,
+    41.7269897461,
+    1.8299599886,
+    41.7269897461
+],
+  "geometry": {"coordinates":[1.8299599886,41.7269897461],"type":"Point"}
+}

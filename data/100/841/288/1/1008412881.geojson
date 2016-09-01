@@ -1,0 +1,65 @@
+{
+  "id": 1008412881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.3509168625,36.1635093689,-5.3509168625,36.1635093689",
+    "geom:latitude":36.163509,
+    "geom:longitude":-5.350917,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Carteya, 15",
+    "sg:city":"Linea De La Concepcion",
+    "sg:classifiers":[],
+    "sg:orig_category":"Muebles, Minoristas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 956 17 56 21",
+    "sg:postcode":"11300",
+    "sg:province":"C\u00e1diz",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "85633167",
+        85794121,
+        "102191581",
+        "85633159",
+        101753853,
+        85684619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rNJq4W1jcd44WyUCx1h7h_36.163509_-5.350917@1306269650"
+    },
+    "wof:country":"ES",
+    "wof:created":1472626382,
+    "wof:geomhash":"cd115ce2fc04e959014b62f31467d168",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "dependency_id":"85633167",
+            "locality_id":101753853,
+            "neighbourhood_id":85794121,
+            "region_id":85684619,
+            "venue_id":1008412881
+        }
+    ],
+    "wof:id":1008412881,
+    "wof:lastmodified":1472626382,
+    "wof:name":"Rubiales Moreno Maria Del Mar",
+    "wof:parent_id":85794121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.3509168625,
+    36.1635093689,
+    -5.3509168625,
+    36.1635093689
+],
+  "geometry": {"coordinates":[-5.3509168625,36.1635093689],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 1008081093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.866797924,40.4555473328,-3.866797924,40.4555473328",
+    "geom:latitude":40.455547,
+    "geom:longitude":-3.866798,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Moreras, S/n",
+    "sg:city":"Majadahonda",
+    "sg:classifiers":[],
+    "sg:orig_category":"Muebles",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 39 40 50",
+    "sg:postcode":"28220",
+    "sg:province":"Madrid",
+    "sg:website":"www.natuzzi.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863657,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tVNucrqovF4CacDbo7AfE_40.455547_-3.866798@1306269605"
+    },
+    "wof:country":"ES",
+    "wof:created":1472598691,
+    "wof:geomhash":"163c2e0853d62f3e801aadb8b23df7f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863657,
+            "region_id":85682783,
+            "venue_id":1008081093
+        }
+    ],
+    "wof:id":1008081093,
+    "wof:lastmodified":1472598691,
+    "wof:name":"Natuzzi Iberica S. A.",
+    "wof:parent_id":85863657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.866797924,
+    40.4555473328,
+    -3.866797924,
+    40.4555473328
+],
+  "geometry": {"coordinates":[-3.866797924,40.4555473328],"type":"Point"}
+}

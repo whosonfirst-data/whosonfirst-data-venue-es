@@ -1,0 +1,59 @@
+{
+  "id": 1008116555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3842790127,39.4567337036,-0.3842790127,39.4567337036",
+    "geom:latitude":39.456734,
+    "geom:longitude":-0.384279,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Medico Esteve, 21",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Inform\u00c1tica Equipo Y Programas (al Por Mayor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 41 66 08",
+    "sg:postcode":"46007",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864205,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fr0QxrUv34mJN8rLr6Bnk_39.456734_-0.384279@1306269610"
+    },
+    "wof:country":"ES",
+    "wof:created":1472600229,
+    "wof:geomhash":"a71ccdd425c7754bebca0e8796def96b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864205,
+            "region_id":85682867,
+            "venue_id":1008116555
+        }
+    ],
+    "wof:id":1008116555,
+    "wof:lastmodified":1472600229,
+    "wof:name":"Ofidealers S.l.",
+    "wof:parent_id":85864205,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3842790127,
+    39.4567337036,
+    -0.3842790127,
+    39.4567337036
+],
+  "geometry": {"coordinates":[-0.3842790127,39.4567337036],"type":"Point"}
+}

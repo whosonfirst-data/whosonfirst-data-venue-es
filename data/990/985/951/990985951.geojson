@@ -1,0 +1,74 @@
+{
+  "id": 990985951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.7678642273,37.8967132568,-4.7678642273,37.8967132568",
+    "geom:latitude":37.896713,
+    "geom:longitude":-4.767864,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Lahore, 1",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c9dicos: Fisioterapia Y Rehabilitaci\u00d3n",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 43 07 02",
+    "sg:postcode":"14007",
+    "sg:province":"C\u00f3rdoba",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863895,
+        102191581,
+        404333687,
+        85633129,
+        404227361,
+        101748233,
+        85682697,
+        85863899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tvg6EKQ23sCs72rwvcNJH_37.896713_-4.767864@1306269425"
+    },
+    "wof:country":"ES",
+    "wof:created":1472518116,
+    "wof:geomhash":"fb497bc370942f8a9a45f65ce24b132b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863895,
+            "region_id":85682697,
+            "venue_id":990985951
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863899,
+            "region_id":85682697,
+            "venue_id":990985951
+        }
+    ],
+    "wof:id":990985951,
+    "wof:lastmodified":1472518116,
+    "wof:name":"Aperfosa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7678642273,
+    37.8967132568,
+    -4.7678642273,
+    37.8967132568
+],
+  "geometry": {"coordinates":[-4.7678642273,37.8967132568],"type":"Point"}
+}

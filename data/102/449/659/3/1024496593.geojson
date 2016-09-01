@@ -1,0 +1,82 @@
+{
+  "id": 1024496593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1699187,41.387917,2.1699187,41.387917",
+    "geom:latitude":41.387917,
+    "geom:longitude":2.169919,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"2-4, Rambla de Catalunya",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"08007",
+    "sg:tags":[
+        "onlinetravel",
+        "luxurytravel",
+        "travelbooking",
+        "travelsearch"
+    ],
+    "sg:website":"http://www.splendia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799447,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RBxyCwciVhx5HAknMRENx_41.387917_2.169919@1308163237"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641474,
+    "wof:geomhash":"88a1c7119e0407e5e6d78dd809973a96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799447,
+            "region_id":85682663,
+            "venue_id":1024496593
+        }
+    ],
+    "wof:id":1024496593,
+    "wof:lastmodified":1472641474,
+    "wof:name":"Splendia",
+    "wof:parent_id":85799447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "onlinetravel",
+        "luxurytravel",
+        "travelbooking",
+        "travelsearch"
+    ]
+},
+  "bbox": [
+    2.1699187,
+    41.387917,
+    2.1699187,
+    41.387917
+],
+  "geometry": {"coordinates":[2.1699187,41.387917],"type":"Point"}
+}

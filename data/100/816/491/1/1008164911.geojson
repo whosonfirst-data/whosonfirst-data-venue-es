@@ -1,0 +1,59 @@
+{
+  "id": 1008164911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1718978882,41.3917121887,2.1718978882,41.3917121887",
+    "geom:latitude":41.391712,
+    "geom:longitude":2.171898,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"G.v. Corts Catalanes, 670",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ense\u00d1ante, Direcci\u00d3n",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 17 73 88",
+    "sg:postcode":"08010",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iJMVq1tXmAb43waYbgbDp_41.391712_2.171898@1306269617"
+    },
+    "wof:country":"ES",
+    "wof:created":1472603216,
+    "wof:geomhash":"b7b3f02b0b4578a85d29466846444c38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008164911
+        }
+    ],
+    "wof:id":1008164911,
+    "wof:lastmodified":1472603216,
+    "wof:name":"Papio Richol Isidro",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1718978882,
+    41.3917121887,
+    2.1718978882,
+    41.3917121887
+],
+  "geometry": {"coordinates":[2.1718978882,41.3917121887],"type":"Point"}
+}

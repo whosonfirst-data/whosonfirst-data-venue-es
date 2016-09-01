@@ -1,0 +1,78 @@
+{
+  "id": 990924835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1582868099,41.3837852478,2.1582868099,41.3837852478",
+    "geom:latitude":41.383785,
+    "geom:longitude":2.158287,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Diputacio, 164",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Doctores En Medicina",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 54 85 87",
+    "sg:postcode":"08011",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864027,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CemL9wTtUawNN33imX93T_41.383785_2.158287@1306269417"
+    },
+    "wof:country":"ES",
+    "wof:created":1472510870,
+    "wof:geomhash":"14b00c71a08c0a5a9c43978e8243407f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864027,
+            "region_id":85682663,
+            "venue_id":990924835
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864021,
+            "region_id":85682663,
+            "venue_id":990924835
+        }
+    ],
+    "wof:id":990924835,
+    "wof:lastmodified":1472510870,
+    "wof:name":"Alcaraz Caminal Francisco",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1582868099,
+    41.3837852478,
+    2.1582868099,
+    41.3837852478
+],
+  "geometry": {"coordinates":[2.1582868099,41.3837852478],"type":"Point"}
+}

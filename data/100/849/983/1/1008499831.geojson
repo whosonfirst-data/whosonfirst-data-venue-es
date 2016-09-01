@@ -1,0 +1,74 @@
+{
+  "id": 1008499831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6357550621,40.4723777771,-3.6357550621,40.4723777771",
+    "geom:latitude":40.472378,
+    "geom:longitude":-3.635755,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Guayabal, 10",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Empresarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 81 10 83",
+    "sg:postcode":"28033",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863583,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Nvy4ca9Mr6QN2k60u8GpL_40.472378_-3.635755@1306269662"
+    },
+    "wof:country":"ES",
+    "wof:created":1472630008,
+    "wof:geomhash":"518f488383f78739bfb43313d70a6ea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863583,
+            "region_id":85682783,
+            "venue_id":1008499831
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863581,
+            "region_id":85682783,
+            "venue_id":1008499831
+        }
+    ],
+    "wof:id":1008499831,
+    "wof:lastmodified":1472630008,
+    "wof:name":"Seramax S.l.u.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6357550621,
+    40.4723777771,
+    -3.6357550621,
+    40.4723777771
+],
+  "geometry": {"coordinates":[-3.6357550621,40.4723777771],"type":"Point"}
+}

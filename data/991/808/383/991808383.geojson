@@ -1,0 +1,61 @@
+{
+  "id": 991808383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.591506958,40.4535064697,-3.591506958,40.4535064697",
+    "geom:latitude":40.453506,
+    "geom:longitude":-3.591507,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Canoa, 18",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electricidad: Instaladores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 93 19 60",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        102545773,
+        85863587,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ef1EAYBn509TqLYEBf31o_40.453506_-3.591507@1306269535"
+    },
+    "wof:country":"ES",
+    "wof:created":1472572379,
+    "wof:geomhash":"1ac2be7448a515177a6c42f4a3624eeb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545773,
+            "country_id":85633129,
+            "neighbourhood_id":85863587,
+            "region_id":85682783,
+            "venue_id":991808383
+        }
+    ],
+    "wof:id":991808383,
+    "wof:lastmodified":1472572379,
+    "wof:name":"Gomez Escudero Gonzalo",
+    "wof:parent_id":102545773,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.591506958,
+    40.4535064697,
+    -3.591506958,
+    40.4535064697
+],
+  "geometry": {"coordinates":[-3.591506958,40.4535064697],"type":"Point"}
+}

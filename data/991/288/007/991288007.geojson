@@ -1,0 +1,81 @@
+{
+  "id": 991288007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.2986750603,36.5343322754,-6.2986750603,36.5343322754",
+    "geom:latitude":36.534332,
+    "geom:longitude":-6.298675,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz San Antonio, 16",
+    "sg:city":"Cadiz",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 956 21 17 64",
+    "sg:postcode":"11001",
+    "sg:province":"C\u00e1diz",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799573,
+        102191581,
+        404333033,
+        85633129,
+        404227361,
+        101748173,
+        85682679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UEFIND9ipa5KL5AYqKHKP_36.534332_-6.298675@1306269465"
+    },
+    "wof:country":"ES",
+    "wof:created":1472542105,
+    "wof:geomhash":"d87728a95f54c69c7de700984ccb1e83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333033,
+            "locality_id":101748173,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85799573,
+            "region_id":85682679,
+            "venue_id":991288007
+        }
+    ],
+    "wof:id":991288007,
+    "wof:lastmodified":1472542105,
+    "wof:name":"Casino Gaditano",
+    "wof:parent_id":85799573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [
+    -6.2986750603,
+    36.5343322754,
+    -6.2986750603,
+    36.5343322754
+],
+  "geometry": {"coordinates":[-6.2986750603,36.5343322754],"type":"Point"}
+}

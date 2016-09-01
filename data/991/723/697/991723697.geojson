@@ -1,0 +1,67 @@
+{
+  "id": 991723697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1639549732,41.3840141296,2.1639549732,41.3840141296",
+    "geom:latitude":41.384014,
+    "geom:longitude":2.163955,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rond Sant Antoni, 88",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 42 61 74",
+    "sg:postcode":"08001",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864035,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FZnlhNoTqrZaUwvlLZI0v_41.384014_2.163955@1306269524"
+    },
+    "wof:country":"ES",
+    "wof:created":1472566657,
+    "wof:geomhash":"a37d85dc5d4913a68351e6113386ac3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864035,
+            "region_id":85682663,
+            "venue_id":991723697
+        }
+    ],
+    "wof:id":991723697,
+    "wof:lastmodified":1472566657,
+    "wof:name":"Gallardo Sauret Montserrat",
+    "wof:parent_id":85864035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1639549732,
+    41.3840141296,
+    2.1639549732,
+    41.3840141296
+],
+  "geometry": {"coordinates":[2.1639549732,41.3840141296],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1008217099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8917351961,41.6771583557,-0.8917351961,41.6771583557",
+    "geom:latitude":41.677158,
+    "geom:longitude":-0.891735,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Alejandro Casona, 9",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Papeler\u00cdas, Librer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 73 65 47",
+    "sg:postcode":"50015",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863297,
+        85682891,
+        85863309,
+        102191581,
+        404347363,
+        404227363,
+        101748361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33sUcfCaDfZ9uRiBpEvsLJ_41.677158_-0.891735@1306269624"
+    },
+    "wof:country":"ES",
+    "wof:created":1472613262,
+    "wof:geomhash":"c2172ffedbdc89aead9941fddaad4d82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863297,
+            "region_id":85682891,
+            "venue_id":1008217099
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863309,
+            "region_id":85682891,
+            "venue_id":1008217099
+        }
+    ],
+    "wof:id":1008217099,
+    "wof:lastmodified":1472613262,
+    "wof:name":"Perez Martin Maria Josefa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8917351961,
+    41.6771583557,
+    -0.8917351961,
+    41.6771583557
+],
+  "geometry": {"coordinates":[-0.8917351961,41.6771583557],"type":"Point"}
+}

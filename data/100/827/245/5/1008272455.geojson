@@ -1,0 +1,81 @@
+{
+  "id": 1008272455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6855449677,40.3430633545,-3.6855449677,40.3430633545",
+    "geom:latitude":40.343063,
+    "geom:longitude":-3.685545,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Rocafort, 129",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 98 39 25",
+    "sg:postcode":"28021",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799667,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08EOh2Ra0ZOUZ5zNldoQDc_40.343063_-3.685545@1306269632"
+    },
+    "wof:country":"ES",
+    "wof:created":1472617227,
+    "wof:geomhash":"96c4bfb4cd99200c366295e5690005cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799667,
+            "region_id":85682783,
+            "venue_id":1008272455
+        }
+    ],
+    "wof:id":1008272455,
+    "wof:lastmodified":1472617227,
+    "wof:name":"Prieto Arrabal Gonzalo",
+    "wof:parent_id":85799667,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.6855449677,
+    40.3430633545,
+    -3.6855449677,
+    40.3430633545
+],
+  "geometry": {"coordinates":[-3.6855449677,40.3430633545],"type":"Point"}
+}

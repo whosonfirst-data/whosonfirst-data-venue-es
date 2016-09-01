@@ -1,0 +1,60 @@
+{
+  "id": 1008217003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7667179108,40.3276939392,-3.7667179108,40.3276939392",
+    "geom:latitude":40.327694,
+    "geom:longitude":-3.766718,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Sol (el), 5",
+    "sg:city":"Leganes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servidores Y Editores De Bases De Datos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 93 60 58",
+    "sg:postcode":"28911",
+    "sg:province":"Madrid",
+    "sg:website":"www.lawebdelavivienda.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863785,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5d5NtcZwalTgQW33wtHLNe_40.327694_-3.766718@1306269624"
+    },
+    "wof:country":"ES",
+    "wof:created":1472613258,
+    "wof:geomhash":"262dc4708cb6da30df009663c8a1ac29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863785,
+            "region_id":85682783,
+            "venue_id":1008217003
+        }
+    ],
+    "wof:id":1008217003,
+    "wof:lastmodified":1472613258,
+    "wof:name":"Perez Martin Florian",
+    "wof:parent_id":85863785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7667179108,
+    40.3276939392,
+    -3.7667179108,
+    40.3276939392
+],
+  "geometry": {"coordinates":[-3.7667179108,40.3276939392],"type":"Point"}
+}

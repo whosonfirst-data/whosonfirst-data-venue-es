@@ -1,0 +1,73 @@
+{
+  "id": 991619193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.4203238487,36.7509002686,-4.4203238487,36.7509002686",
+    "geom:latitude":36.7509,
+    "geom:longitude":-4.420324,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Juan Montes Hoyo, 16",
+    "sg:city":"Malaga",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 26 81 23",
+    "sg:postcode":"29014",
+    "sg:province":"M\u00e1laga",
+    "sg:tags":[
+        "te",
+        "de",
+        "salones"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863495,
+        85682787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rwQYg3jJCP64pbcUAUXeG_36.750900_-4.420324@1306269510"
+    },
+    "wof:country":"ES",
+    "wof:created":1472560962,
+    "wof:geomhash":"7219b0750cb8b8ec61d8d78f427dcf19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863495,
+            "region_id":85682787,
+            "venue_id":991619193
+        }
+    ],
+    "wof:id":991619193,
+    "wof:lastmodified":1472560962,
+    "wof:name":"Falcon Galan Jose Antonio",
+    "wof:parent_id":85863495,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "te",
+        "de",
+        "salones"
+    ]
+},
+  "bbox": [
+    -4.4203238487,
+    36.7509002686,
+    -4.4203238487,
+    36.7509002686
+],
+  "geometry": {"coordinates":[-4.4203238487,36.7509002686],"type":"Point"}
+}

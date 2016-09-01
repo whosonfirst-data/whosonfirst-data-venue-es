@@ -1,0 +1,59 @@
+{
+  "id": 1008068671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2478699684,41.4523391724,2.2478699684,41.4523391724",
+    "geom:latitude":41.452339,
+    "geom:longitude":2.24787,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pl Assemblea Catalunya, 1",
+    "sg:city":"Badalona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Museos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 84 17 50",
+    "sg:postcode":"08911",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799485,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hvG4yjAYDtHr1qL1pEISz_41.452339_2.247870@1306269604"
+    },
+    "wof:country":"ES",
+    "wof:created":1472598115,
+    "wof:geomhash":"f82d94331e18131e52639ec6a93b996f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799485,
+            "region_id":85682663,
+            "venue_id":1008068671
+        }
+    ],
+    "wof:id":1008068671,
+    "wof:lastmodified":1472598115,
+    "wof:name":"Museu De Badalona",
+    "wof:parent_id":85799485,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2478699684,
+    41.4523391724,
+    2.2478699684,
+    41.4523391724
+],
+  "geometry": {"coordinates":[2.2478699684,41.4523391724],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1008132701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.611082077,40.5471725464,-3.611082077,40.5471725464",
+    "geom:latitude":40.547173,
+    "geom:longitude":-3.611082,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Cerro Del Aguila (del), 21",
+    "sg:city":"San Sebastian De Los Reyes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Art\u00cdculos De Decoraci\u00d3n",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 54 68 64",
+    "sg:postcode":"28700",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863585,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13ECZTUXaN2Zh97fBdrbv0_40.547173_-3.611082@1306269612"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601072,
+    "wof:geomhash":"35c9f9c4c4e3581e3fe82add4eb85482",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863585,
+            "region_id":85682783,
+            "venue_id":1008132701
+        }
+    ],
+    "wof:id":1008132701,
+    "wof:lastmodified":1472601072,
+    "wof:name":"Original Madrid S.l.",
+    "wof:parent_id":85863585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.611082077,
+    40.5471725464,
+    -3.611082077,
+    40.5471725464
+],
+  "geometry": {"coordinates":[-3.611082077,40.5471725464],"type":"Point"}
+}

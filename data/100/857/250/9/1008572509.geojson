@@ -1,0 +1,59 @@
+{
+  "id": 1008572509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6252727509,37.1904258728,-3.6252727509,37.1904258728",
+    "geom:latitude":37.190426,
+    "geom:longitude":-3.625273,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Virgen De La Fuensanta, 1",
+    "sg:city":"Granada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 20 37 08",
+    "sg:postcode":"18015",
+    "sg:province":"Granada",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863835,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GtshXA3rznyKYxpVKZFmy_37.190426_-3.625273@1306269672"
+    },
+    "wof:country":"ES",
+    "wof:created":1472633069,
+    "wof:geomhash":"67ee2cfd7c8ce66cc2ab137d94e6652f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863835,
+            "region_id":85682731,
+            "venue_id":1008572509
+        }
+    ],
+    "wof:id":1008572509,
+    "wof:lastmodified":1472633069,
+    "wof:name":"Supergran S.a.",
+    "wof:parent_id":85863835,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6252727509,
+    37.1904258728,
+    -3.6252727509,
+    37.1904258728
+],
+  "geometry": {"coordinates":[-3.6252727509,37.1904258728],"type":"Point"}
+}

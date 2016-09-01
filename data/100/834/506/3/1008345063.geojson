@@ -1,0 +1,78 @@
+{
+  "id": 1008345063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1512179375,41.4182929993,2.1512179375,41.4182929993",
+    "geom:latitude":41.418293,
+    "geom:longitude":2.151218,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Portell, 11",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asilos De Ancianos. Centros Privados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 13 21 31",
+    "sg:postcode":"08023",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863993,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85863985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28KVDIP7CTkE4tJ614LHOD_41.418293_2.151218@1306269641"
+    },
+    "wof:country":"ES",
+    "wof:created":1472623277,
+    "wof:geomhash":"57a7de467a1fa15d0dbb18f5ac94fa90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863993,
+            "region_id":85682663,
+            "venue_id":1008345063
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863985,
+            "region_id":85682663,
+            "venue_id":1008345063
+        }
+    ],
+    "wof:id":1008345063,
+    "wof:lastmodified":1472623277,
+    "wof:name":"Residencia Mullerat S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1512179375,
+    41.4182929993,
+    2.1512179375,
+    41.4182929993
+],
+  "geometry": {"coordinates":[2.1512179375,41.4182929993],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1008253943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1849339008,41.4253692627,2.1849339008,41.4253692627",
+    "geom:latitude":41.425369,
+    "geom:longitude":2.184934,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Cardenal Tedeschini, 15",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Librer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 40 67 59",
+    "sg:postcode":"08027",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863995,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nA44gjnFkNtWLEO3UnUMO_41.425369_2.184934@1306269629"
+    },
+    "wof:country":"ES",
+    "wof:created":1472616232,
+    "wof:geomhash":"eaf1f1a36b88968b8cf1125547a40170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863995,
+            "region_id":85682663,
+            "venue_id":1008253943
+        }
+    ],
+    "wof:id":1008253943,
+    "wof:lastmodified":1472616232,
+    "wof:name":"Plaza Jimenez Eugenio",
+    "wof:parent_id":85863995,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1849339008,
+    41.4253692627,
+    2.1849339008,
+    41.4253692627
+],
+  "geometry": {"coordinates":[2.1849339008,41.4253692627],"type":"Point"}
+}

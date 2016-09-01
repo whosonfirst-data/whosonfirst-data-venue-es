@@ -1,0 +1,62 @@
+{
+  "id": 1007970721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6591389179,39.5660743713,2.6591389179,39.5660743713",
+    "geom:latitude":39.566074,
+    "geom:longitude":2.659139,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Josep Rover Motta, 19",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Estancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 46 33 82",
+    "sg:postcode":"07006",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101748237,
+        85864115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4m04H60svGmhAQq48ahuhV_39.566074_2.659139@1306269591"
+    },
+    "wof:country":"ES",
+    "wof:created":1472593986,
+    "wof:geomhash":"f7419a947524813d69c8e54a1437705d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748237,
+            "neighbourhood_id":85864115,
+            "region_id":-1,
+            "venue_id":1007970721
+        }
+    ],
+    "wof:id":1007970721,
+    "wof:lastmodified":1472593986,
+    "wof:name":"Medina Fernandez Alejandro",
+    "wof:parent_id":85864115,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6591389179,
+    39.5660743713,
+    2.6591389179,
+    39.5660743713
+],
+  "geometry": {"coordinates":[2.6591389179,39.5660743713],"type":"Point"}
+}

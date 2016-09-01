@@ -1,0 +1,72 @@
+{
+  "id": 1008098283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.6679191589,43.5232391357,-5.6679191589,43.5232391357",
+    "geom:latitude":43.523239,
+    "geom:longitude":-5.667919,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Grup Carsa, 34",
+    "sg:city":"Gijon",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 985 38 96 62",
+    "sg:postcode":"33210",
+    "sg:province":"Asturias",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799415,
+        102191581,
+        404340333,
+        85633129,
+        404227365,
+        101748401,
+        85682805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6crKZ2VWGcRIWcboqwyw9k_43.523239_-5.667919@1306269608"
+    },
+    "wof:country":"ES",
+    "wof:created":1472599445,
+    "wof:geomhash":"242d97ed48323f09edb5cb25f3a51f9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404340333,
+            "locality_id":101748401,
+            "macroregion_id":404227365,
+            "neighbourhood_id":85799415,
+            "region_id":85682805,
+            "venue_id":1008098283
+        }
+    ],
+    "wof:id":1008098283,
+    "wof:lastmodified":1472599445,
+    "wof:name":"Noe Martinez Lorenzo",
+    "wof:parent_id":85799415,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.6679191589,
+    43.5232391357,
+    -5.6679191589,
+    43.5232391357
+],
+  "geometry": {"coordinates":[-5.6679191589,43.5232391357],"type":"Point"}
+}

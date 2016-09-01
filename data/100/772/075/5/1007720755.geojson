@@ -1,0 +1,81 @@
+{
+  "id": 1007720755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1752839088,41.4427223206,2.1752839088,41.4427223206",
+    "geom:latitude":41.442722,
+    "geom:longitude":2.175284,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Almansa, 35",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 50 30 24",
+    "sg:postcode":"08042",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799399,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SXIKHFCPeDDV9wBqfP40V_41.442722_2.175284@1306269559"
+    },
+    "wof:country":"ES",
+    "wof:created":1472582002,
+    "wof:geomhash":"e2117c8660b681cf5c869f9bdf6238ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799399,
+            "region_id":85682663,
+            "venue_id":1007720755
+        }
+    ],
+    "wof:id":1007720755,
+    "wof:lastmodified":1472582002,
+    "wof:name":"Jaramillo Peluqueros S.c.p.",
+    "wof:parent_id":85799399,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.1752839088,
+    41.4427223206,
+    2.1752839088,
+    41.4427223206
+],
+  "geometry": {"coordinates":[2.1752839088,41.4427223206],"type":"Point"}
+}

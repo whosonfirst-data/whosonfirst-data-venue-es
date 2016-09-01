@@ -1,0 +1,77 @@
+{
+  "id": 991724147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1803460121,41.3806762695,2.1803460121,41.3806762695",
+    "geom:latitude":41.380676,
+    "geom:longitude":2.180346,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Ample, 34",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Molduras, Junquillos, Listones Y Molduras Perforadas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 15 26 79",
+    "sg:postcode":"08002",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864033,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SzynjXW7zBAuvN4SJ4cFu_41.380676_2.180346@1306269524"
+    },
+    "wof:country":"ES",
+    "wof:created":1472566675,
+    "wof:geomhash":"bb54dd9538fa442259a286fb1c95e7a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864033,
+            "region_id":85682663,
+            "venue_id":991724147
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":991724147
+        }
+    ],
+    "wof:id":991724147,
+    "wof:lastmodified":1472566675,
+    "wof:name":"Gallego Barreira Julio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1803460121,
+    41.3806762695,
+    2.1803460121,
+    41.3806762695
+],
+  "geometry": {"coordinates":[2.1803460121,41.3806762695],"type":"Point"}
+}

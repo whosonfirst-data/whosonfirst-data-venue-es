@@ -1,0 +1,78 @@
+{
+  "id": 1007878999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3840526938,39.4744796753,-0.3840526938,39.4744796753",
+    "geom:latitude":39.47448,
+    "geom:longitude":-0.384053,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Guillem De Castro, 115",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ferreter\u00cda (diversos)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 91 30 20",
+    "sg:postcode":"46008",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864217,
+        102191581,
+        404345361,
+        85633129,
+        404227381,
+        101748241,
+        85682867,
+        85864207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nWqAnTxOGVVzWDW9v34Ia_39.474480_-0.384053@1306269580"
+    },
+    "wof:country":"ES",
+    "wof:created":1472590052,
+    "wof:geomhash":"b7b215fe0858f292e43b4c23f912a2a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345361,
+            "locality_id":101748241,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864217,
+            "region_id":85682867,
+            "venue_id":1007878999
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345361,
+            "locality_id":101748241,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864207,
+            "region_id":85682867,
+            "venue_id":1007878999
+        }
+    ],
+    "wof:id":1007878999,
+    "wof:lastmodified":1472590052,
+    "wof:name":"Manistil S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3840526938,
+    39.4744796753,
+    -0.3840526938,
+    39.4744796753
+],
+  "geometry": {"coordinates":[-0.3840526938,39.4744796753],"type":"Point"}
+}

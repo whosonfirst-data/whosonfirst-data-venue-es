@@ -1,0 +1,67 @@
+{
+  "id": 1008584213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1668119431,41.429485321,2.1668119431,41.429485321",
+    "geom:latitude":41.429485,
+    "geom:longitude":2.166812,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Cartella, 154",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electricidad Veh\u00cdculo",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 20 49 22",
+    "sg:postcode":"08031",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799399,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DffybpVY1qYSeUVfq4j2P_41.429485_2.166812@1306269673"
+    },
+    "wof:country":"ES",
+    "wof:created":1472633538,
+    "wof:geomhash":"bfe3d59f22218123cc6b26c45a8d67f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799399,
+            "region_id":85682663,
+            "venue_id":1008584213
+        }
+    ],
+    "wof:id":1008584213,
+    "wof:lastmodified":1472633538,
+    "wof:name":"Talleres C.h.p.",
+    "wof:parent_id":85799399,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1668119431,
+    41.429485321,
+    2.1668119431,
+    41.429485321
+],
+  "geometry": {"coordinates":[2.1668119431,41.429485321],"type":"Point"}
+}

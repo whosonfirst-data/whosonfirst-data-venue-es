@@ -1,0 +1,79 @@
+{
+  "id": 1008715991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6721379757,40.4446372986,-3.6721379757,40.4446372986",
+    "geom:latitude":40.444637,
+    "geom:longitude":-3.672138,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ros De Olano, 2",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 13 73 57",
+    "sg:postcode":"28002",
+    "sg:province":"Madrid",
+    "sg:website":"www.marsans.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799435,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Nu7VnB8JWE2uWrCfw4LMi_40.444637_-3.672138@1306269691"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639272,
+    "wof:geomhash":"0bbf548c3fecaceda9c61e7afd568f3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799435,
+            "region_id":85682783,
+            "venue_id":1008715991
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863647,
+            "region_id":85682783,
+            "venue_id":1008715991
+        }
+    ],
+    "wof:id":1008715991,
+    "wof:lastmodified":1472639272,
+    "wof:name":"Viajes Marsans S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6721379757,
+    40.4446372986,
+    -3.6721379757,
+    40.4446372986
+],
+  "geometry": {"coordinates":[-3.6721379757,40.4446372986],"type":"Point"}
+}

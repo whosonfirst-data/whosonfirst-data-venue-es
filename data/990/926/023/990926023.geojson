@@ -1,0 +1,74 @@
+{
+  "id": 990926023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6683030128,39.571269989,2.6683030128,39.571269989",
+    "geom:latitude":39.57127,
+    "geom:longitude":2.668303,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Manacor, 80",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Venta, Colocaci\u00d3n De Autoradios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 25 05 57",
+    "sg:postcode":"07007",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864089,
+        102191581,
+        404330817,
+        85633129,
+        404227367,
+        101748237,
+        85682647,
+        85864087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mQqh0fL7bTWQTYUe5kChJ_39.571270_2.668303@1306269417"
+    },
+    "wof:country":"ES",
+    "wof:created":1472510960,
+    "wof:geomhash":"60347019b666de2ef156fb2f7eee395d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864089,
+            "region_id":85682647,
+            "venue_id":990926023
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864087,
+            "region_id":85682647,
+            "venue_id":990926023
+        }
+    ],
+    "wof:id":990926023,
+    "wof:lastmodified":1472510960,
+    "wof:name":"Alcina Rossello Juan Guillermo",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6683030128,
+    39.571269989,
+    2.6683030128,
+    39.571269989
+],
+  "geometry": {"coordinates":[2.6683030128,39.571269989],"type":"Point"}
+}

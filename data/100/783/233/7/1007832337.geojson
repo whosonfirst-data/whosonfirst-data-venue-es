@@ -1,0 +1,67 @@
+{
+  "id": 1007832337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9867987633,37.3838386536,-5.9867987633,37.3838386536",
+    "geom:latitude":37.383839,
+    "geom:longitude":-5.986799,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Menendez Pelayo, 18",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[],
+    "sg:orig_category":"Procuradores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 42 57 53",
+    "sg:postcode":"41004",
+    "sg:province":"Sevilla",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864169,
+        102191581,
+        404342947,
+        85633129,
+        404227361,
+        101748225,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50LX8SFrlWSuAGp5g0MLS2_37.383839_-5.986799@1306269574"
+    },
+    "wof:country":"ES",
+    "wof:created":1472587841,
+    "wof:geomhash":"57db84d5c5d939cbc930b192fe2e4bb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864169,
+            "region_id":85682841,
+            "venue_id":1007832337
+        }
+    ],
+    "wof:id":1007832337,
+    "wof:lastmodified":1472587841,
+    "wof:name":"Lopez De Lemus Juan",
+    "wof:parent_id":85864169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.9867987633,
+    37.3838386536,
+    -5.9867987633,
+    37.3838386536
+],
+  "geometry": {"coordinates":[-5.9867987633,37.3838386536],"type":"Point"}
+}

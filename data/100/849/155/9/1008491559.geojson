@@ -1,0 +1,74 @@
+{
+  "id": 1008491559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4166980088,39.470161438,-0.4166980088,39.470161438",
+    "geom:latitude":39.470161,
+    "geom:longitude":-0.416698,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Marcelino Oreja, 17",
+    "sg:city":"Mislata",
+    "sg:classifiers":[],
+    "sg:orig_category":"Empresas De Carpinter\u00cda",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 79 52 04",
+    "sg:postcode":"46920",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864219,
+        102191581,
+        404345047,
+        85633129,
+        404227381,
+        101753691,
+        85682867,
+        85799211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kfFeDSirOaXBseTStwVmE_39.470161_-0.416698@1306269661"
+    },
+    "wof:country":"ES",
+    "wof:created":1472629620,
+    "wof:geomhash":"b2521e2f3a1b61dc812d594174446e5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345047,
+            "locality_id":101753691,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864219,
+            "region_id":85682867,
+            "venue_id":1008491559
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799211,
+            "region_id":85682867,
+            "venue_id":1008491559
+        }
+    ],
+    "wof:id":1008491559,
+    "wof:lastmodified":1472629620,
+    "wof:name":"Segametal S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4166980088,
+    39.470161438,
+    -0.4166980088,
+    39.470161438
+],
+  "geometry": {"coordinates":[-0.4166980088,39.470161438],"type":"Point"}
+}

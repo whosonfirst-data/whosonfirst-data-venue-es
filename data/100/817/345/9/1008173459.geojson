@@ -1,0 +1,59 @@
+{
+  "id": 1008173459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8867990971,41.6779975891,-0.8867990971,41.6779975891",
+    "geom:latitude":41.677998,
+    "geom:longitude":-0.886799,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Anton Garcia Abril, 29",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Iglesia Cat\u00d3lica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 51 95 54",
+    "sg:postcode":"50018",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863297,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34jALnZGCoaLfLORv8q0I2_41.677998_-0.886799@1306269618"
+    },
+    "wof:country":"ES",
+    "wof:created":1472604375,
+    "wof:geomhash":"5eac56546ab24edfb1ed38f23d192132",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863297,
+            "region_id":85682891,
+            "venue_id":1008173459
+        }
+    ],
+    "wof:id":1008173459,
+    "wof:lastmodified":1472604375,
+    "wof:name":"Parroquia De San Andres Apostol",
+    "wof:parent_id":85863297,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8867990971,
+    41.6779975891,
+    -0.8867990971,
+    41.6779975891
+],
+  "geometry": {"coordinates":[-0.8867990971,41.6779975891],"type":"Point"}
+}

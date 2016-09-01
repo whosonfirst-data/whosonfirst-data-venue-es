@@ -1,0 +1,60 @@
+{
+  "id": 991933601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.8224819899,41.7332954407,1.8224819899,41.7332954407",
+    "geom:latitude":41.733295,
+    "geom:longitude":1.822482,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Barcelona, 59",
+    "sg:city":"Manresa",
+    "sg:classifiers":[],
+    "sg:orig_category":"Monedas, Medallas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 938 74 57 28",
+    "sg:postcode":"08242",
+    "sg:province":"Barcelona",
+    "sg:website":"www.numismaticaborras.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Y1f92WOWHUpaJAQ5cW7qW_41.733295_1.822482@1306269551"
+    },
+    "wof:country":"ES",
+    "wof:created":1472579110,
+    "wof:geomhash":"2cf27e96baf6f31a3e3c70813bd3ea5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":991933601
+        }
+    ],
+    "wof:id":991933601,
+    "wof:lastmodified":1472579110,
+    "wof:name":"I.borras S.c.p.",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.8224819899,
+    41.7332954407,
+    1.8224819899,
+    41.7332954407
+],
+  "geometry": {"coordinates":[1.8224819899,41.7332954407],"type":"Point"}
+}

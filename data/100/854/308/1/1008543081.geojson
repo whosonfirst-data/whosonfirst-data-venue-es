@@ -1,0 +1,67 @@
+{
+  "id": 1008543081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.6747488976,43.5311355591,-5.6747488976,43.5311355591",
+    "geom:latitude":43.531136,
+    "geom:longitude":-5.674749,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Puerto De Ventana, 20",
+    "sg:city":"Gijon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros Empresariales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 985 99 10 00",
+    "sg:postcode":"33207",
+    "sg:province":"Asturias",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799415,
+        102191581,
+        404340333,
+        85633129,
+        404227365,
+        101748401,
+        85682805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3F6sSIPDjJKwED73S6wHan_43.531136_-5.674749@1306269668"
+    },
+    "wof:country":"ES",
+    "wof:created":1472631829,
+    "wof:geomhash":"e86ecfda03eab61fb02bb5ed8f77bd20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404340333,
+            "locality_id":101748401,
+            "macroregion_id":404227365,
+            "neighbourhood_id":85799415,
+            "region_id":85682805,
+            "venue_id":1008543081
+        }
+    ],
+    "wof:id":1008543081,
+    "wof:lastmodified":1472631829,
+    "wof:name":"Sodeka Slu",
+    "wof:parent_id":85799415,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.6747488976,
+    43.5311355591,
+    -5.6747488976,
+    43.5311355591
+],
+  "geometry": {"coordinates":[-5.6747488976,43.5311355591],"type":"Point"}
+}

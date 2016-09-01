@@ -1,0 +1,67 @@
+{
+  "id": 1007932443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1400110722,41.4010658264,2.1400110722,41.4010658264",
+    "geom:latitude":41.401066,
+    "geom:longitude":2.140011,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Muntaner, 439",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Restaurantes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 01 60 07",
+    "sg:postcode":"08021",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799611,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7C97puxHgtrrj9WGEVtMJS_41.401066_2.140011@1306269586"
+    },
+    "wof:country":"ES",
+    "wof:created":1472592345,
+    "wof:geomhash":"d44ed953e008f565665d1986c4699afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799611,
+            "region_id":85682663,
+            "venue_id":1007932443
+        }
+    ],
+    "wof:id":1007932443,
+    "wof:lastmodified":1472592345,
+    "wof:name":"Martinez Perez Rufino",
+    "wof:parent_id":85799611,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1400110722,
+    41.4010658264,
+    2.1400110722,
+    41.4010658264
+],
+  "geometry": {"coordinates":[2.1400110722,41.4010658264],"type":"Point"}
+}

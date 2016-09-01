@@ -1,0 +1,67 @@
+{
+  "id": 991373161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7041211128,40.4254188538,-3.7041211128,40.4254188538",
+    "geom:latitude":40.425419,
+    "geom:longitude":-3.704121,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Tesoro, 1",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 22 35 40",
+    "sg:postcode":"28004",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863665,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jXZwsOUkCaUm37uLoZN66_40.425419_-3.704121@1306269477"
+    },
+    "wof:country":"ES",
+    "wof:created":1472546878,
+    "wof:geomhash":"125f6f730812265f19a627dd169ee325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863665,
+            "region_id":85682783,
+            "venue_id":991373161
+        }
+    ],
+    "wof:id":991373161,
+    "wof:lastmodified":1472546878,
+    "wof:name":"Coll Cuota Beatriz",
+    "wof:parent_id":85863665,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7041211128,
+    40.4254188538,
+    -3.7041211128,
+    40.4254188538
+],
+  "geometry": {"coordinates":[-3.7041211128,40.4254188538],"type":"Point"}
+}

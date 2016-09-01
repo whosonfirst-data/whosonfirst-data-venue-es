@@ -1,0 +1,60 @@
+{
+  "id": 1008299299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5304629803,40.5045433044,-3.5304629803,40.5045433044",
+    "geom:latitude":40.504543,
+    "geom:longitude":-3.530463,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Real, 21",
+    "sg:city":"Paracuellos De Jarama",
+    "sg:classifiers":[],
+    "sg:orig_category":"Inmobiliaria (agencias)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 58 26 30",
+    "sg:postcode":"28860",
+    "sg:province":"Madrid",
+    "sg:website":"www.puntonorte.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863587,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Kz85Pge4LKi3hpdIzXQPV_40.504543_-3.530463@1306269635"
+    },
+    "wof:country":"ES",
+    "wof:created":1472619561,
+    "wof:geomhash":"cf32ffd1fb90d14ef82641c4498600a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863587,
+            "region_id":85682783,
+            "venue_id":1008299299
+        }
+    ],
+    "wof:id":1008299299,
+    "wof:lastmodified":1472619561,
+    "wof:name":"Punto Norte Paracuellos S. L.",
+    "wof:parent_id":85863587,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5304629803,
+    40.5045433044,
+    -3.5304629803,
+    40.5045433044
+],
+  "geometry": {"coordinates":[-3.5304629803,40.5045433044],"type":"Point"}
+}

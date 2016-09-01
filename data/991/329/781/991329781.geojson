@@ -1,0 +1,81 @@
+{
+  "id": 991329781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6862428188,40.4274139404,-3.6862428188,40.4274139404",
+    "geom:latitude":40.427414,
+    "geom:longitude":-3.686243,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Claudio Coello, 50",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 75 47 97",
+    "sg:postcode":"28001",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "mercado",
+        "de",
+        "estudios"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863809,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GpAh0svGS2GxqP9RXhSdx_40.427414_-3.686243@1306269471"
+    },
+    "wof:country":"ES",
+    "wof:created":1472544014,
+    "wof:geomhash":"4c4ee2d919b52249d4f8512fc2e7e0e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863809,
+            "region_id":85682783,
+            "venue_id":991329781
+        }
+    ],
+    "wof:id":991329781,
+    "wof:lastmodified":1472544014,
+    "wof:name":"C.f.m. S.a.",
+    "wof:parent_id":85863809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mercado",
+        "de",
+        "estudios"
+    ]
+},
+  "bbox": [
+    -3.6862428188,
+    40.4274139404,
+    -3.6862428188,
+    40.4274139404
+],
+  "geometry": {"coordinates":[-3.6862428188,40.4274139404],"type":"Point"}
+}

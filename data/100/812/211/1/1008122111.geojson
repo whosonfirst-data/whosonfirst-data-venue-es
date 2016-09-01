@@ -1,0 +1,81 @@
+{
+  "id": 1008122111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6491000652,39.5763664246,2.6491000652,39.5763664246",
+    "geom:latitude":39.576366,
+    "geom:longitude":2.6491,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Cecili Metel, 6",
+    "sg:city":"Palma",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 72 36 43",
+    "sg:postcode":"07003",
+    "sg:province":"Islas Baleares",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864097,
+        102191581,
+        404330817,
+        85633129,
+        404227367,
+        101748237,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KFdMwFGtCZcKc6d3VjLrC_39.576366_2.649100@1306269611"
+    },
+    "wof:country":"ES",
+    "wof:created":1472600479,
+    "wof:geomhash":"a07c5222851bba3fc5e265f2d43f7e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864097,
+            "region_id":85682647,
+            "venue_id":1008122111
+        }
+    ],
+    "wof:id":1008122111,
+    "wof:lastmodified":1472600479,
+    "wof:name":"Oliver Fuster Juan",
+    "wof:parent_id":85864097,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    2.6491000652,
+    39.5763664246,
+    2.6491000652,
+    39.5763664246
+],
+  "geometry": {"coordinates":[2.6491000652,39.5763664246],"type":"Point"}
+}

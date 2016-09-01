@@ -1,0 +1,68 @@
+{
+  "id": 1007984207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4920290112,38.3415374756,-0.4920290112,38.3415374756",
+    "geom:latitude":38.341537,
+    "geom:longitude":-0.492029,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Reyes Catolicos, 47",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 12 27 76",
+    "sg:postcode":"03003",
+    "sg:province":"Alicante",
+    "sg:website":"www.mercadona.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799185,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_011Pibsu6adfBeuzPK7duN_38.341537_-0.492029@1306269593"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594501,
+    "wof:geomhash":"3c7517380a4699ce68437b6e4e3ca889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85799185,
+            "region_id":85682625,
+            "venue_id":1007984207
+        }
+    ],
+    "wof:id":1007984207,
+    "wof:lastmodified":1472594501,
+    "wof:name":"Mercadona S A",
+    "wof:parent_id":85799185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4920290112,
+    38.3415374756,
+    -0.4920290112,
+    38.3415374756
+],
+  "geometry": {"coordinates":[-0.4920290112,38.3415374756],"type":"Point"}
+}

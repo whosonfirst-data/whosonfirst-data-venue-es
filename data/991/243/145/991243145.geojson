@@ -1,0 +1,73 @@
+{
+  "id": 991243145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8656160831,40.4708862305,-3.8656160831,40.4708862305",
+    "geom:latitude":40.470886,
+    "geom:longitude":-3.865616,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Santa Brigida, 1",
+    "sg:city":"Majadahonda",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 34 26 79",
+    "sg:postcode":"28220",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "televisiones",
+        "y",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863657,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZuU8TJRMpUDX39fKfigAh_40.470886_-3.865616@1306269459"
+    },
+    "wof:country":"ES",
+    "wof:created":1472539738,
+    "wof:geomhash":"4438e9b511ea8467c74ae87b8e26f122",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863657,
+            "region_id":85682783,
+            "venue_id":991243145
+        }
+    ],
+    "wof:id":991243145,
+    "wof:lastmodified":1472539738,
+    "wof:name":"Canal Rural Television S.l",
+    "wof:parent_id":85863657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "televisiones",
+        "y",
+        "radio"
+    ]
+},
+  "bbox": [
+    -3.8656160831,
+    40.4708862305,
+    -3.8656160831,
+    40.4708862305
+],
+  "geometry": {"coordinates":[-3.8656160831,40.4708862305],"type":"Point"}
+}

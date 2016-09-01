@@ -1,0 +1,74 @@
+{
+  "id": 991893815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4759370089,38.3593215942,-0.4759370089,38.3593215942",
+    "geom:latitude":38.359322,
+    "geom:longitude":-0.475937,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Maestro Luis Torregrosa, 7",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Perfumer\u00cda (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 20 79 35",
+    "sg:postcode":"03013",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864063,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625,
+        85864065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1X62wADs0RL5VIvoE9h2wR_38.359322_-0.475937@1306269546"
+    },
+    "wof:country":"ES",
+    "wof:created":1472577213,
+    "wof:geomhash":"808942a0b0c33e61bc7f459676ca0c11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864063,
+            "region_id":85682625,
+            "venue_id":991893815
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864065,
+            "region_id":85682625,
+            "venue_id":991893815
+        }
+    ],
+    "wof:id":991893815,
+    "wof:lastmodified":1472577213,
+    "wof:name":"Hernandez Casta\u00f1o Ignacio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4759370089,
+    38.3593215942,
+    -0.4759370089,
+    38.3593215942
+],
+  "geometry": {"coordinates":[-0.4759370089,38.3593215942],"type":"Point"}
+}

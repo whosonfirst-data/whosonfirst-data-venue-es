@@ -1,0 +1,79 @@
+{
+  "id": 1007871269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9849348068,37.3897094727,-5.9849348068,37.3897094727",
+    "geom:latitude":37.389709,
+    "geom:longitude":-5.984935,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Muro De Los Navarros, 7",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[],
+    "sg:orig_category":"Librer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 53 23 91",
+    "sg:postcode":"41003",
+    "sg:province":"Sevilla",
+    "sg:website":"www.zoom.es/usuario/magiacadabra",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864169,
+        102191581,
+        404342947,
+        85633129,
+        404227361,
+        101748225,
+        85682841,
+        85864155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lnEbH7H8dXfZ1qA8sse5M_37.389709_-5.984935@1306269579"
+    },
+    "wof:country":"ES",
+    "wof:created":1472589732,
+    "wof:geomhash":"d91fbc90246a6bd6e5ed370a493a8d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864169,
+            "region_id":85682841,
+            "venue_id":1007871269
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864155,
+            "region_id":85682841,
+            "venue_id":1007871269
+        }
+    ],
+    "wof:id":1007871269,
+    "wof:lastmodified":1472589732,
+    "wof:name":"Magiacadabra S.c.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.9849348068,
+    37.3897094727,
+    -5.9849348068,
+    37.3897094727
+],
+  "geometry": {"coordinates":[-5.9849348068,37.3897094727],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 991079305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.4306697845,36.7098350525,-4.4306697845,36.7098350525",
+    "geom:latitude":36.709835,
+    "geom:longitude":-4.43067,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Gongora, S/n",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sanatorios M\u00c9dico",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 04 02 72",
+    "sg:postcode":"29002",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863493,
+        102191581,
+        404339241,
+        85633129,
+        404227361,
+        101748185,
+        85682787,
+        85863541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79IMBOgO1qaxs7VU5p403b_36.709835_-4.430670@1306269438"
+    },
+    "wof:country":"ES",
+    "wof:created":1472525170,
+    "wof:geomhash":"f1eb989636569bb075a0635617d8bc78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863493,
+            "region_id":85682787,
+            "venue_id":991079305
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748185,
+            "neighbourhood_id":85863541,
+            "region_id":-1,
+            "venue_id":991079305
+        }
+    ],
+    "wof:id":991079305,
+    "wof:lastmodified":1472525170,
+    "wof:name":"Ayuntamiento De Malaga",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4306697845,
+    36.7098350525,
+    -4.4306697845,
+    36.7098350525
+],
+  "geometry": {"coordinates":[-4.4306697845,36.7098350525],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1007910429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1998579502,41.3964881897,2.1998579502,41.3964881897",
+    "geom:latitude":41.396488,
+    "geom:longitude":2.199858,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ptge Mas De Roda, 16",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 21 96 24",
+    "sg:postcode":"08005",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NJ4gR3ZbjlEmNxV8EPjBO_41.396488_2.199858@1306269583"
+    },
+    "wof:country":"ES",
+    "wof:created":1472591336,
+    "wof:geomhash":"8ba82a1cf69ab5d74d7093255398c6b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1007910429
+        }
+    ],
+    "wof:id":1007910429,
+    "wof:lastmodified":1472591336,
+    "wof:name":"Marques Sanchez Fernando",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ]
+},
+  "bbox": [
+    2.1998579502,
+    41.3964881897,
+    2.1998579502,
+    41.3964881897
+],
+  "geometry": {"coordinates":[2.1998579502,41.3964881897],"type":"Point"}
+}

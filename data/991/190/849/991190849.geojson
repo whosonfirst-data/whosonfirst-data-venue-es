@@ -1,0 +1,91 @@
+{
+  "id": 991190849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6598320007,39.567855835,2.6598320007,39.567855835",
+    "geom:latitude":39.567856,
+    "geom:longitude":2.659832,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Joan Alcover, 34",
+    "sg:city":"Palma",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 77 16 11",
+    "sg:postcode":"07006",
+    "sg:province":"Islas Baleares",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864089,
+        102191581,
+        404330817,
+        85633129,
+        404227367,
+        101748237,
+        85682647,
+        85864115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ifTX1YRRe14Hefx9M6vCR_39.567856_2.659832@1306269453"
+    },
+    "wof:country":"ES",
+    "wof:created":1472535773,
+    "wof:geomhash":"cf2611d7fe97f05c63bf0ad2cf979b6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864089,
+            "region_id":85682647,
+            "venue_id":991190849
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748237,
+            "neighbourhood_id":85864115,
+            "region_id":-1,
+            "venue_id":991190849
+        }
+    ],
+    "wof:id":991190849,
+    "wof:lastmodified":1472535773,
+    "wof:name":"Caballero Pons Antonio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.6598320007,
+    39.567855835,
+    2.6598320007,
+    39.567855835
+],
+  "geometry": {"coordinates":[2.6598320007,39.567855835],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1008497167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6914279461,40.4632072449,-3.6914279461,40.4632072449",
+    "geom:latitude":40.463207,
+    "geom:longitude":-3.691428,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Capitan Haya, 60",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cl\u00cdnicas M\u00c9dicas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 70 89 11",
+    "sg:postcode":"28020",
+    "sg:province":"Madrid",
+    "sg:website":"www.semes.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863603,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5m5CFiFQ45syOBD5MS1rBK_40.463207_-3.691428@1306269661"
+    },
+    "wof:country":"ES",
+    "wof:created":1472629877,
+    "wof:geomhash":"c288eacdbbaaf74c9538023cc413558c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863603,
+            "region_id":85682783,
+            "venue_id":1008497167
+        }
+    ],
+    "wof:id":1008497167,
+    "wof:lastmodified":1472629877,
+    "wof:name":"Semes",
+    "wof:parent_id":85863603,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6914279461,
+    40.4632072449,
+    -3.6914279461,
+    40.4632072449
+],
+  "geometry": {"coordinates":[-3.6914279461,40.4632072449],"type":"Point"}
+}

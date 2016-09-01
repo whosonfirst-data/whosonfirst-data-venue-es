@@ -1,0 +1,81 @@
+{
+  "id": 1008082897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.7764620781,37.866317749,-4.7764620781,37.866317749",
+    "geom:latitude":37.866318,
+    "geom:longitude":-4.776462,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Moriles, 6",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 29 97 20",
+    "sg:postcode":"14013",
+    "sg:province":"C\u00f3rdoba",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863871,
+        102191581,
+        404333687,
+        85633129,
+        404227361,
+        101748233,
+        85682697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WPXnbfWbwAie3RriFJmmW_37.866318_-4.776462@1306269606"
+    },
+    "wof:country":"ES",
+    "wof:created":1472598776,
+    "wof:geomhash":"d87b8769315bec44cf595b9e639d6f21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863871,
+            "region_id":85682697,
+            "venue_id":1008082897
+        }
+    ],
+    "wof:id":1008082897,
+    "wof:lastmodified":1472598776,
+    "wof:name":"Navarro Benabente Juan Mario",
+    "wof:parent_id":85863871,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -4.7764620781,
+    37.866317749,
+    -4.7764620781,
+    37.866317749
+],
+  "geometry": {"coordinates":[-4.7764620781,37.866317749],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1008068181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0952160358,41.3264923096,2.0952160358,41.3264923096",
+    "geom:latitude":41.326492,
+    "geom:longitude":2.095216,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Castella, 25",
+    "sg:city":"Prat Llobregat",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 70 44 99",
+    "sg:postcode":"08820",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799585,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35nwX4e4y8SRsRZ3ZQeIez_41.326492_2.095216@1306269604"
+    },
+    "wof:country":"ES",
+    "wof:created":1472598095,
+    "wof:geomhash":"99f5abe210e708dce102808a834e1f1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799585,
+            "region_id":85682663,
+            "venue_id":1008068181
+        }
+    ],
+    "wof:id":1008068181,
+    "wof:lastmodified":1472598095,
+    "wof:name":"Muro Saez Luis",
+    "wof:parent_id":85799585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.0952160358,
+    41.3264923096,
+    2.0952160358,
+    41.3264923096
+],
+  "geometry": {"coordinates":[2.0952160358,41.3264923096],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1007920299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.441054821,36.7303695679,-4.441054821,36.7303695679",
+    "geom:latitude":36.73037,
+    "geom:longitude":-4.441055,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Miraflores, 8",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agentes Generales De Seguros",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 27 90 53",
+    "sg:postcode":"29011",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863455,
+        102191581,
+        404339241,
+        85633129,
+        404227361,
+        101748185,
+        85682787,
+        85863471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0y1PmDH2owyctwkCNlf0k6_36.730370_-4.441055@1306269585"
+    },
+    "wof:country":"ES",
+    "wof:created":1472591761,
+    "wof:geomhash":"436c31a1870f8f048f006fad1c46e078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863455,
+            "region_id":85682787,
+            "venue_id":1007920299
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863471,
+            "region_id":85682787,
+            "venue_id":1007920299
+        }
+    ],
+    "wof:id":1007920299,
+    "wof:lastmodified":1472591761,
+    "wof:name":"Martinez Camino Manuel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.441054821,
+    36.7303695679,
+    -4.441054821,
+    36.7303695679
+],
+  "geometry": {"coordinates":[-4.441054821,36.7303695679],"type":"Point"}
+}

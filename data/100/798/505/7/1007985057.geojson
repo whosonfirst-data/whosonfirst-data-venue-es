@@ -1,0 +1,68 @@
+{
+  "id": 1007985057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.348134011,39.467212677,-0.348134011,39.467212677",
+    "geom:latitude":39.467213,
+    "geom:longitude":-0.348134,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Leones, 29",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 55 62 22",
+    "sg:postcode":"46022",
+    "sg:province":"Valencia",
+    "sg:website":"www.mercadona.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864213,
+        102191581,
+        404345361,
+        85633129,
+        404227381,
+        101748241,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1b7N4T3ArFxF9irrRNOaJl_39.467213_-0.348134@1306269593"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594527,
+    "wof:geomhash":"8ed7be31ff6cda91fea19cbf62672fd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345361,
+            "locality_id":101748241,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864213,
+            "region_id":85682867,
+            "venue_id":1007985057
+        }
+    ],
+    "wof:id":1007985057,
+    "wof:lastmodified":1472594527,
+    "wof:name":"Mercadona S.a.",
+    "wof:parent_id":85864213,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.348134011,
+    39.467212677,
+    -0.348134011,
+    39.467212677
+],
+  "geometry": {"coordinates":[-0.348134011,39.467212677],"type":"Point"}
+}

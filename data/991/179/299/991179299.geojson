@@ -1,0 +1,71 @@
+{
+  "id": 991179299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.46641469,40.4460792542,-3.46641469,40.4460792542",
+    "geom:latitude":40.446079,
+    "geom:longitude":-3.466415,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Charca De Los Peces, 2",
+    "sg:city":"Torrejon Ardoz",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 75 01 45",
+    "sg:postcode":"28850",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "en",
+        "fundiciones"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863709,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Yeb6K84wcF5bICOFv3a0b_40.446079_-3.466415@1306269451"
+    },
+    "wof:country":"ES",
+    "wof:created":1472534837,
+    "wof:geomhash":"bf2f311754f5dd9fe77b6b5e3d036b38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863709,
+            "region_id":85682783,
+            "venue_id":991179299
+        }
+    ],
+    "wof:id":991179299,
+    "wof:lastmodified":1472534837,
+    "wof:name":"Bronces Ibericos S.a.l.",
+    "wof:parent_id":85863709,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "en",
+        "fundiciones"
+    ]
+},
+  "bbox": [
+    -3.46641469,
+    40.4460792542,
+    -3.46641469,
+    40.4460792542
+],
+  "geometry": {"coordinates":[-3.46641469,40.4460792542],"type":"Point"}
+}

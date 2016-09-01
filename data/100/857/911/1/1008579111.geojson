@@ -1,0 +1,67 @@
+{
+  "id": 1008579111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7494530678,40.3716201782,-3.7494530678,40.3716201782",
+    "geom:latitude":40.37162,
+    "geom:longitude":-3.749453,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Duquesa De Tamames, 33",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 08 64 00",
+    "sg:postcode":"28044",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863781,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101753743,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GXeTD4VaiYAhFN6dSXNia_40.371620_-3.749453@1306269672"
+    },
+    "wof:country":"ES",
+    "wof:created":1472633340,
+    "wof:geomhash":"e17e8123d46e3eddb38259a618d0ac16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101753743,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863781,
+            "region_id":85682783,
+            "venue_id":1008579111
+        }
+    ],
+    "wof:id":1008579111,
+    "wof:lastmodified":1472633340,
+    "wof:name":"Tadeo Brugos Eladia",
+    "wof:parent_id":85863781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7494530678,
+    40.3716201782,
+    -3.7494530678,
+    40.3716201782
+],
+  "geometry": {"coordinates":[-3.7494530678,40.3716201782],"type":"Point"}
+}

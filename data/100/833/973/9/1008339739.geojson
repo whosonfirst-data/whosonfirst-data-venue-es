@@ -1,0 +1,59 @@
+{
+  "id": 1008339739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7612540722,40.2651634216,-3.7612540722,40.2651634216",
+    "geom:latitude":40.265163,
+    "geom:longitude":-3.761254,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Tortola, 15",
+    "sg:city":"Fuenlabrada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electricidad: Equipos Industriales, Componentes (fabricaci\u00d3n)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 42 28 25",
+    "sg:postcode":"28946",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nLwqQLIPjH04isspqbvIz_40.265163_-3.761254@1306269641"
+    },
+    "wof:country":"ES",
+    "wof:created":1472623047,
+    "wof:geomhash":"e8a140c2c6803334da739eeeeba36b0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1008339739
+        }
+    ],
+    "wof:id":1008339739,
+    "wof:lastmodified":1472623047,
+    "wof:name":"Repel S. L.",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7612540722,
+    40.2651634216,
+    -3.7612540722,
+    40.2651634216
+],
+  "geometry": {"coordinates":[-3.7612540722,40.2651634216],"type":"Point"}
+}

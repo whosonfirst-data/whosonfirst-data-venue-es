@@ -1,0 +1,63 @@
+{
+  "id": 1008049843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1806349754,41.3814086914,2.1806349754,41.3814086914",
+    "geom:latitude":41.381409,
+    "geom:longitude":2.180635,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Ample, 53",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 68 40 92",
+    "sg:postcode":"08002",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0c5jn1YuRQTC2A6WrZd2PO_41.381409_2.180635@1306269601"
+    },
+    "wof:country":"ES",
+    "wof:created":1472597324,
+    "wof:geomhash":"37de822bdb071ed7ad742676dc0a2eca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":1008049843
+        }
+    ],
+    "wof:id":1008049843,
+    "wof:lastmodified":1472597324,
+    "wof:name":"Morla Bayon Juan Carlos",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1806349754,
+    41.3814086914,
+    2.1806349754,
+    41.3814086914
+],
+  "geometry": {"coordinates":[2.1806349754,41.3814086914],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1008462383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7521250248,40.3939437866,-3.7521250248,40.3939437866",
+    "geom:latitude":40.393944,
+    "geom:longitude":-3.752125,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Yebenes, 89",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 09 82 60",
+    "sg:postcode":"28047",
+    "sg:province":"Madrid",
+    "sg:website":"www.autoescuelazaragoza.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863765,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZXCQrBrlKxWu8MwWkfkL2_40.393944_-3.752125@1306269657"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628408,
+    "wof:geomhash":"5b2dda1cd6fb3a652d9b666d915b9c3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863765,
+            "region_id":85682783,
+            "venue_id":1008462383
+        }
+    ],
+    "wof:id":1008462383,
+    "wof:lastmodified":1472628408,
+    "wof:name":"Sanchez Serrano Atanasio",
+    "wof:parent_id":85863765,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7521250248,
+    40.3939437866,
+    -3.7521250248,
+    40.3939437866
+],
+  "geometry": {"coordinates":[-3.7521250248,40.3939437866],"type":"Point"}
+}

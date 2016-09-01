@@ -1,0 +1,74 @@
+{
+  "id": 991317887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6318600178,39.5727386475,2.6318600178,39.5727386475",
+    "geom:latitude":39.572739,
+    "geom:longitude":2.63186,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Parc, 13",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Empresas De Limpieza",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 45 41 36",
+    "sg:postcode":"07014",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864107,
+        85682647,
+        85864103,
+        102191581,
+        404330817,
+        404227367,
+        101748237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dHBVRCZzpKlWvWgfD5YCf_39.572739_2.631860@1306269469"
+    },
+    "wof:country":"ES",
+    "wof:created":1472543474,
+    "wof:geomhash":"b15066da6ef34a1af7dab77edf8abffe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864107,
+            "region_id":85682647,
+            "venue_id":991317887
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864103,
+            "region_id":85682647,
+            "venue_id":991317887
+        }
+    ],
+    "wof:id":991317887,
+    "wof:lastmodified":1472543474,
+    "wof:name":"Centro Especial De Empleo Y Proyectos Integrales S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6318600178,
+    39.5727386475,
+    2.6318600178,
+    39.5727386475
+],
+  "geometry": {"coordinates":[2.6318600178,39.5727386475],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1008371325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5825469494,37.1656723022,-3.5825469494,37.1656723022",
+    "geom:latitude":37.165672,
+    "geom:longitude":-3.582547,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ctra Sierra (de La), 52",
+    "sg:city":"Granada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Caf\u00c9s, Bares, Cervecer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 22 41 79",
+    "sg:postcode":"18008",
+    "sg:province":"Granada",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863829,
+        85682731,
+        85863847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ekUnzpCjETmMxgh1N1NuL_37.165672_-3.582547@1306269645"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624418,
+    "wof:geomhash":"f262b50be553d50dd7869b7e4800230a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863829,
+            "region_id":85682731,
+            "venue_id":1008371325
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863847,
+            "region_id":85682731,
+            "venue_id":1008371325
+        }
+    ],
+    "wof:id":1008371325,
+    "wof:lastmodified":1472624418,
+    "wof:name":"Rodelas Padilla Fernando",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5825469494,
+    37.1656723022,
+    -3.5825469494,
+    37.1656723022
+],
+  "geometry": {"coordinates":[-3.5825469494,37.1656723022],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1007790713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.7762870789,37.8711471558,-4.7762870789,37.8711471558",
+    "geom:latitude":37.871147,
+    "geom:longitude":-4.776287,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Carretera De Castro, 30",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[],
+    "sg:orig_category":"Inform\u00c1tica, Ofim\u00c1tica (estudios, Asesor\u00cda, Ingenier\u00cda, Formaci\u00d3n)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 20 30 67",
+    "sg:postcode":"14009",
+    "sg:province":"C\u00f3rdoba",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863871,
+        102191581,
+        404333687,
+        85633129,
+        404227361,
+        101748233,
+        85682697,
+        85863875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZNMLYZ9PY3RcDhhCTOXNd_37.871147_-4.776287@1306269569"
+    },
+    "wof:country":"ES",
+    "wof:created":1472585778,
+    "wof:geomhash":"a5b70868566b7bf0595139d25e6a54e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863871,
+            "region_id":85682697,
+            "venue_id":1007790713
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863875,
+            "region_id":85682697,
+            "venue_id":1007790713
+        }
+    ],
+    "wof:id":1007790713,
+    "wof:lastmodified":1472585778,
+    "wof:name":"Lasarte Leon Manuel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7762870789,
+    37.8711471558,
+    -4.7762870789,
+    37.8711471558
+],
+  "geometry": {"coordinates":[-4.7762870789,37.8711471558],"type":"Point"}
+}

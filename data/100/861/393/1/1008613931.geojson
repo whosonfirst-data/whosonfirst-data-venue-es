@@ -1,0 +1,61 @@
+{
+  "id": 1008613931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5858991146,40.4555282593,-3.5858991146,40.4555282593",
+    "geom:latitude":40.455528,
+    "geom:longitude":-3.585899,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Galeon, 36",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sociedades, Compa\u00d1\u00cdas Aseguradoras",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 47 65 04",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        102545773,
+        85863587,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kU8GpOVkCfUcZhq0jrBVU_40.455528_-3.585899@1306269677"
+    },
+    "wof:country":"ES",
+    "wof:created":1472634865,
+    "wof:geomhash":"d092dee9116bf9a413eb00e2143da8cd",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545773,
+            "country_id":85633129,
+            "neighbourhood_id":85863587,
+            "region_id":85682783,
+            "venue_id":1008613931
+        }
+    ],
+    "wof:id":1008613931,
+    "wof:lastmodified":1472634865,
+    "wof:name":"Tellez Sancho Alejandro",
+    "wof:parent_id":102545773,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5858991146,
+    40.4555282593,
+    -3.5858991146,
+    40.4555282593
+],
+  "geometry": {"coordinates":[-3.5858991146,40.4555282593],"type":"Point"}
+}

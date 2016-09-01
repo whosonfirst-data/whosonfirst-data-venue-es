@@ -1,0 +1,73 @@
+{
+  "id": 1007822561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.4613699913,40.4473953247,-3.4613699913,40.4473953247",
+    "geom:latitude":40.447395,
+    "geom:longitude":-3.46137,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Silicio, 34",
+    "sg:city":"Torrejon Ardoz",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 75 55 33",
+    "sg:postcode":"28850",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863709,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ASfKxhrpTw2d7G4QsdPbk_40.447395_-3.461370@1306269573"
+    },
+    "wof:country":"ES",
+    "wof:created":1472587420,
+    "wof:geomhash":"a662f89dbc3daa0ac4e4238e46fdcf50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863709,
+            "region_id":85682783,
+            "venue_id":1007822561
+        }
+    ],
+    "wof:id":1007822561,
+    "wof:lastmodified":1472587420,
+    "wof:name":"Lobato Abad Jose Juan",
+    "wof:parent_id":85863709,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.4613699913,
+    40.4473953247,
+    -3.4613699913,
+    40.4473953247
+],
+  "geometry": {"coordinates":[-3.4613699913,40.4473953247],"type":"Point"}
+}

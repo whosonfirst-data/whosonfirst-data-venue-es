@@ -1,0 +1,67 @@
+{
+  "id": 1008574287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1901340485,41.4164886475,2.1901340485,41.4164886475",
+    "geom:latitude":41.416489,
+    "geom:longitude":2.190134,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Espronceda, 310",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 08 25 84",
+    "sg:postcode":"08027",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864003,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zptt75wCe3JHBV1RmAOfm_41.416489_2.190134@1306269672"
+    },
+    "wof:country":"ES",
+    "wof:created":1472633156,
+    "wof:geomhash":"618e1fe8d055f963531b0a1846d3e106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864003,
+            "region_id":85682663,
+            "venue_id":1008574287
+        }
+    ],
+    "wof:id":1008574287,
+    "wof:lastmodified":1472633156,
+    "wof:name":"Supermercados Somar S.a.",
+    "wof:parent_id":85864003,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1901340485,
+    41.4164886475,
+    2.1901340485,
+    41.4164886475
+],
+  "geometry": {"coordinates":[2.1901340485,41.4164886475],"type":"Point"}
+}

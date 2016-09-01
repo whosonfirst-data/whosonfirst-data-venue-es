@@ -1,0 +1,67 @@
+{
+  "id": 1008696349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7104051113,40.4323768616,-3.7104051113,40.4323768616",
+    "geom:latitude":40.432377,
+    "geom:longitude":-3.710405,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Galileo, 25",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Procuradores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 47 09 01",
+    "sg:postcode":"28015",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863659,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xikNnbxCF6rjKmgjZF6AL_40.432377_-3.710405@1306269688"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638343,
+    "wof:geomhash":"f32ace21885835746bdac89d75998907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863659,
+            "region_id":85682783,
+            "venue_id":1008696349
+        }
+    ],
+    "wof:id":1008696349,
+    "wof:lastmodified":1472638343,
+    "wof:name":"Vazquez Guillen Argimiro",
+    "wof:parent_id":85863659,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7104051113,
+    40.4323768616,
+    -3.7104051113,
+    40.4323768616
+],
+  "geometry": {"coordinates":[-3.7104051113,40.4323768616],"type":"Point"}
+}

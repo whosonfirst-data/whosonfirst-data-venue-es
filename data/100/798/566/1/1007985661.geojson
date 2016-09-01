@@ -1,0 +1,67 @@
+{
+  "id": 1007985661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7599089146,40.3952674866,-3.7599089146,40.3952674866",
+    "geom:latitude":40.395267,
+    "geom:longitude":-3.759909,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Tembleque, 66",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 18 62 14",
+    "sg:postcode":"28024",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799479,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12ONOEWYn4Pfoybv4addG2_40.395267_-3.759909@1306269593"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594549,
+    "wof:geomhash":"5e2f6da22c917ae891132478d7e5296b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799479,
+            "region_id":85682783,
+            "venue_id":1007985661
+        }
+    ],
+    "wof:id":1007985661,
+    "wof:lastmodified":1472594549,
+    "wof:name":"Mercaparque Cb",
+    "wof:parent_id":85799479,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7599089146,
+    40.3952674866,
+    -3.7599089146,
+    40.3952674866
+],
+  "geometry": {"coordinates":[-3.7599089146,40.3952674866],"type":"Point"}
+}

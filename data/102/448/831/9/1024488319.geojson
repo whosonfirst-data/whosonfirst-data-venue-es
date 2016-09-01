@@ -1,0 +1,59 @@
+{
+  "id": 1024488319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9478459358,43.2511062622,-2.9478459358,43.2511062622",
+    "geom:latitude":43.251106,
+    "geom:longitude":-2.947846,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Villabaso Camilo, 32",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[],
+    "sg:orig_category":"Muebles, Minoristas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 43 38 46",
+    "sg:postcode":"48002",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863947,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EWaZre5TB1vpM47RjG69I_43.251106_-2.947846@1306269696"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641112,
+    "wof:geomhash":"7d1c42cc275a6a7cacb35fdfc05490b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863947,
+            "region_id":85682879,
+            "venue_id":1024488319
+        }
+    ],
+    "wof:id":1024488319,
+    "wof:lastmodified":1472641112,
+    "wof:name":"Zamorano Centeno Jose Maria",
+    "wof:parent_id":85863947,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9478459358,
+    43.2511062622,
+    -2.9478459358,
+    43.2511062622
+],
+  "geometry": {"coordinates":[-2.9478459358,43.2511062622],"type":"Point"}
+}

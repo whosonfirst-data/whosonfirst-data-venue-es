@@ -1,0 +1,78 @@
+{
+  "id": 1008588271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7345700264,40.3933410645,-3.7345700264,40.3933410645",
+    "geom:latitude":40.393341,
+    "geom:longitude":-3.73457,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Toboso, 116",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mec\u00c1nico Del Autom\u00d3vil",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 72 63 25",
+    "sg:postcode":"28019",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863763,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20NoLwWNtemo1UBVtW8H7m_40.393341_-3.734570@1306269674"
+    },
+    "wof:country":"ES",
+    "wof:created":1472633695,
+    "wof:geomhash":"d1182d551aec9c40c6583a0e585fec5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863763,
+            "region_id":85682783,
+            "venue_id":1008588271
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863765,
+            "region_id":85682783,
+            "venue_id":1008588271
+        }
+    ],
+    "wof:id":1008588271,
+    "wof:lastmodified":1472633695,
+    "wof:name":"Talleres Jumi S. A.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7345700264,
+    40.3933410645,
+    -3.7345700264,
+    40.3933410645
+],
+  "geometry": {"coordinates":[-3.7345700264,40.3933410645],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1007914101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3311530948,39.4726867676,-0.3311530948,39.4726867676",
+    "geom:latitude":39.472687,
+    "geom:longitude":-0.331153,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Nicolau De Monsoriu, 16",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ingeniero",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 71 57 15",
+    "sg:postcode":"46011",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101748241,
+        85799297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FgtOUILjGGBF6JnajwDVy_39.472687_-0.331153@1306269584"
+    },
+    "wof:country":"ES",
+    "wof:created":1472591495,
+    "wof:geomhash":"9dce2b40cc2330c86260a576572baf3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748241,
+            "neighbourhood_id":85799297,
+            "region_id":-1,
+            "venue_id":1007914101
+        }
+    ],
+    "wof:id":1007914101,
+    "wof:lastmodified":1472591495,
+    "wof:name":"Marti Garcia Juan Bautista",
+    "wof:parent_id":85799297,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3311530948,
+    39.4726867676,
+    -0.3311530948,
+    39.4726867676
+],
+  "geometry": {"coordinates":[-0.3311530948,39.4726867676],"type":"Point"}
+}

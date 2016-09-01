@@ -1,0 +1,77 @@
+{
+  "id": 991147809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.4172210693,36.7237625122,-4.4172210693,36.7237625122",
+    "geom:latitude":36.723763,
+    "geom:longitude":-4.417221,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Merced, 17",
+    "sg:city":"Malaga",
+    "sg:classifiers":[
+        {
+            "category":"Tea Room",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 21 90 93",
+    "sg:postcode":"29012",
+    "sg:province":"M\u00e1laga",
+    "sg:tags":[
+        "snack"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863505,
+        102191581,
+        404339241,
+        85633129,
+        404227361,
+        101748185,
+        85682787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Cec5VhN7YFhdzH4b3oxfH_36.723763_-4.417221@1306269447"
+    },
+    "wof:country":"ES",
+    "wof:created":1472531748,
+    "wof:geomhash":"5858f13b61fb485bdc7a9e5674c86792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863505,
+            "region_id":85682787,
+            "venue_id":991147809
+        }
+    ],
+    "wof:id":991147809,
+    "wof:lastmodified":1472531748,
+    "wof:name":"Bibal Gestion S.l.",
+    "wof:parent_id":85863505,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snack"
+    ]
+},
+  "bbox": [
+    -4.4172210693,
+    36.7237625122,
+    -4.4172210693,
+    36.7237625122
+],
+  "geometry": {"coordinates":[-4.4172210693,36.7237625122],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 991356411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4766489863,38.3585700989,-0.4766489863,38.3585700989",
+    "geom:latitude":38.35857,
+    "geom:longitude":-0.476649,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Enrique Madrid, 5",
+    "sg:city":"Alacant",
+    "sg:classifiers":[
+        {
+            "category":"Tea Room",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 21 00 71",
+    "sg:postcode":"03013",
+    "sg:province":"Alicante",
+    "sg:tags":[
+        "snack"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864063,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57IQmrm2WWgczODrOLUPZy_38.358570_-0.476649@1306269475"
+    },
+    "wof:country":"ES",
+    "wof:created":1472545576,
+    "wof:geomhash":"e1a832df99fa7af1f220c549dbb63d23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864063,
+            "region_id":85682625,
+            "venue_id":991356411
+        }
+    ],
+    "wof:id":991356411,
+    "wof:lastmodified":1472545576,
+    "wof:name":"Cobos Ubeda Mariano",
+    "wof:parent_id":85864063,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snack"
+    ]
+},
+  "bbox": [
+    -0.4766489863,
+    38.3585700989,
+    -0.4766489863,
+    38.3585700989
+],
+  "geometry": {"coordinates":[-0.4766489863,38.3585700989],"type":"Point"}
+}

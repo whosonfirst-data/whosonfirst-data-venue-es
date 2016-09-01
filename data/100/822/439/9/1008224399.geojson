@@ -1,0 +1,67 @@
+{
+  "id": 1008224399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1509599686,41.4053955078,2.1509599686,41.4053955078",
+    "geom:latitude":41.405396,
+    "geom:longitude":2.15096,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Gran De Gracia, 256",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Restaurantes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 37 86 39",
+    "sg:postcode":"08012",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799393,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zVG74oPq9qhZ98ajSa451_41.405396_2.150960@1306269625"
+    },
+    "wof:country":"ES",
+    "wof:created":1472613735,
+    "wof:geomhash":"a64dc2d1d0ada5a0f832f02b0905ea72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799393,
+            "region_id":85682663,
+            "venue_id":1008224399
+        }
+    ],
+    "wof:id":1008224399,
+    "wof:lastmodified":1472613735,
+    "wof:name":"Perez Vidal Alfonso",
+    "wof:parent_id":85799393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1509599686,
+    41.4053955078,
+    2.1509599686,
+    41.4053955078
+],
+  "geometry": {"coordinates":[2.1509599686,41.4053955078],"type":"Point"}
+}

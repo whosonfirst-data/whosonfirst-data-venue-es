@@ -1,0 +1,77 @@
+{
+  "id": 991855095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.4123740196,36.7257881165,-4.4123740196,36.7257881165",
+    "geom:latitude":36.725788,
+    "geom:longitude":-4.412374,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Lazaro, 3",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Promotores Constructores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 25 98 86",
+    "sg:postcode":"29012",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863505,
+        102191581,
+        404339241,
+        85633129,
+        404227361,
+        101748185,
+        85682787,
+        85863549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35SYTloJlmZsQxAwmPBOU8_36.725788_-4.412374@1306269541"
+    },
+    "wof:country":"ES",
+    "wof:created":1472575091,
+    "wof:geomhash":"de32a329c4407b709ee75335d874ec39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863505,
+            "region_id":85682787,
+            "venue_id":991855095
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748185,
+            "neighbourhood_id":85863549,
+            "region_id":-1,
+            "venue_id":991855095
+        }
+    ],
+    "wof:id":991855095,
+    "wof:lastmodified":1472575091,
+    "wof:name":"Grupo De Edificaciones Y Obras S. A.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4123740196,
+    36.7257881165,
+    -4.4123740196,
+    36.7257881165
+],
+  "geometry": {"coordinates":[-4.4123740196,36.7257881165],"type":"Point"}
+}

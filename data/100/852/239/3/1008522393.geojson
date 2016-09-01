@@ -1,0 +1,59 @@
+{
+  "id": 1008522393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6001091003,37.2066268921,-3.6001091003,37.2066268921",
+    "geom:latitude":37.206627,
+    "geom:longitude":-3.600109,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Henriquez De Jorquera, S/n",
+    "sg:city":"Granada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 15 35 08",
+    "sg:postcode":"18011",
+    "sg:province":"Granada",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799289,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tHMITn45Gw3jtya1XgXSH_37.206627_-3.600109@1306269665"
+    },
+    "wof:country":"ES",
+    "wof:created":1472630949,
+    "wof:geomhash":"0057c65a9b6f0b224f3adb10c92f455c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799289,
+            "region_id":85682731,
+            "venue_id":1008522393
+        }
+    ],
+    "wof:id":1008522393,
+    "wof:lastmodified":1472630949,
+    "wof:name":"Sierra Ruiz De La Fuente Jesus",
+    "wof:parent_id":85799289,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6001091003,
+    37.2066268921,
+    -3.6001091003,
+    37.2066268921
+],
+  "geometry": {"coordinates":[-3.6001091003,37.2066268921],"type":"Point"}
+}

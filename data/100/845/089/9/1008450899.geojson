@@ -1,0 +1,67 @@
+{
+  "id": 1008450899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6803910732,40.4335975647,-3.6803910732,40.4335975647",
+    "geom:latitude":40.433598,
+    "geom:longitude":-3.680391,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Maldonado, 30",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 64 24 67",
+    "sg:postcode":"28006",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863673,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xrLNwh5q1aNs0yBWdDWnm_40.433598_-3.680391@1306269655"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627972,
+    "wof:geomhash":"8cb64aa8ffe4bdf53c4188257f0aa9cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863673,
+            "region_id":85682783,
+            "venue_id":1008450899
+        }
+    ],
+    "wof:id":1008450899,
+    "wof:lastmodified":1472627972,
+    "wof:name":"Sanchez Foncueva Susana",
+    "wof:parent_id":85863673,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6803910732,
+    40.4335975647,
+    -3.6803910732,
+    40.4335975647
+],
+  "geometry": {"coordinates":[-3.6803910732,40.4335975647],"type":"Point"}
+}

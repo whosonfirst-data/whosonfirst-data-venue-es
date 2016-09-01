@@ -1,0 +1,66 @@
+{
+  "id": 991348247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5374310017,40.4271316528,-3.5374310017,40.4271316528",
+    "geom:latitude":40.427132,
+    "geom:longitude":-3.537431,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ca\u00d1ada, 30",
+    "sg:city":"San Fernando De Henares",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cl\u00cdnicas Dentales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 71 91 64",
+    "sg:postcode":"28830",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863631,
+        85682783,
+        85863709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gDL7DRZf8oziYQPaRMpvt_40.427132_-3.537431@1306269473"
+    },
+    "wof:country":"ES",
+    "wof:created":1472545025,
+    "wof:geomhash":"4982739e3fd82cbdb9042acac717ca6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863631,
+            "region_id":85682783,
+            "venue_id":991348247
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863709,
+            "region_id":85682783,
+            "venue_id":991348247
+        }
+    ],
+    "wof:id":991348247,
+    "wof:lastmodified":1472545025,
+    "wof:name":"Clinica Dental San Jose S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5374310017,
+    40.4271316528,
+    -3.5374310017,
+    40.4271316528
+],
+  "geometry": {"coordinates":[-3.5374310017,40.4271316528],"type":"Point"}
+}

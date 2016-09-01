@@ -1,0 +1,59 @@
+{
+  "id": 1007779895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5308244228,40.5054969788,-3.5308244228,40.5054969788",
+    "geom:latitude":40.505497,
+    "geom:longitude":-3.530824,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Real De Burgos (del), 30",
+    "sg:city":"Paracuellos De Jarama",
+    "sg:classifiers":[],
+    "sg:orig_category":"Comerciantes Al Por Mayor De Vinos, Licores Y Alcoholes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 58 21 13",
+    "sg:postcode":"28860",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863587,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3C9MXmdG82RQGRG99ziyJa_40.505497_-3.530824@1306269567"
+    },
+    "wof:country":"ES",
+    "wof:created":1472585224,
+    "wof:geomhash":"6216fd6b00e598d2d644491ed1847d81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863587,
+            "region_id":85682783,
+            "venue_id":1007779895
+        }
+    ],
+    "wof:id":1007779895,
+    "wof:lastmodified":1472585224,
+    "wof:name":"Lago Perez Purificacion",
+    "wof:parent_id":85863587,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5308244228,
+    40.5054969788,
+    -3.5308244228,
+    40.5054969788
+],
+  "geometry": {"coordinates":[-3.5308244228,40.5054969788],"type":"Point"}
+}

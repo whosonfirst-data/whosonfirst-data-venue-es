@@ -1,0 +1,68 @@
+{
+  "id": 1008395825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1656899452,41.4027328491,2.1656899452,41.4027328491",
+    "geom:latitude":41.402733,
+    "geom:longitude":2.16569,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pg Sant Joan, 160",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servidores Y Editores De Bases De Datos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 01 66 50",
+    "sg:postcode":"08037",
+    "sg:province":"Barcelona",
+    "sg:website":"www.roldos.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863999,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ViNxkl7QpVfLyMHgqdJUQ_41.402733_2.165690@1306269648"
+    },
+    "wof:country":"ES",
+    "wof:created":1472625551,
+    "wof:geomhash":"46bd4e2f5ed78dd9cd4f050d81181c3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863999,
+            "region_id":85682663,
+            "venue_id":1008395825
+        }
+    ],
+    "wof:id":1008395825,
+    "wof:lastmodified":1472625551,
+    "wof:name":"Roldos S. A.",
+    "wof:parent_id":85863999,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1656899452,
+    41.4027328491,
+    2.1656899452,
+    41.4027328491
+],
+  "geometry": {"coordinates":[2.1656899452,41.4027328491],"type":"Point"}
+}

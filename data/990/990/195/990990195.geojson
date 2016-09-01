@@ -1,0 +1,81 @@
+{
+  "id": 990990195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.907525599,41.6530189514,-0.907525599,41.6530189514",
+    "geom:latitude":41.653019,
+    "geom:longitude":-0.907526,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Marcos Zapata, 42",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 32 86 20",
+    "sg:postcode":"50010",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863331,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pag7uZYHIQ1bK6Mv6iyL1_41.653019_-0.907526@1306269426"
+    },
+    "wof:country":"ES",
+    "wof:created":1472518383,
+    "wof:geomhash":"ca2184500b43aaba4f58b74024e0d218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863331,
+            "region_id":85682891,
+            "venue_id":990990195
+        }
+    ],
+    "wof:id":990990195,
+    "wof:lastmodified":1472518383,
+    "wof:name":"Aragonesa Juegos Sociedad Anonima",
+    "wof:parent_id":85863331,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [
+    -0.907525599,
+    41.6530189514,
+    -0.907525599,
+    41.6530189514
+],
+  "geometry": {"coordinates":[-0.907525599,41.6530189514],"type":"Point"}
+}

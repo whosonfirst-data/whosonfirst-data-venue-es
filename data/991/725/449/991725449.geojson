@@ -1,0 +1,78 @@
+{
+  "id": 991725449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7064476013,40.4131240845,-3.7064476013,40.4131240845",
+    "geom:latitude":40.413124,
+    "geom:longitude":-3.706448,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Duque De Rivas, 8",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asociaciones Y Clubs Deportivos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 54 06 94",
+    "sg:postcode":"28012",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863793,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LCet5qavBwTyqbHtBp7Go_40.413124_-3.706448@1306269524"
+    },
+    "wof:country":"ES",
+    "wof:created":1472566744,
+    "wof:geomhash":"8c9f935b16456781b475f6fcbfbc7db8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863793,
+            "region_id":85682783,
+            "venue_id":991725449
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863747,
+            "region_id":85682783,
+            "venue_id":991725449
+        }
+    ],
+    "wof:id":991725449,
+    "wof:lastmodified":1472566744,
+    "wof:name":"Gallegos Carballo Encarnacion",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7064476013,
+    40.4131240845,
+    -3.7064476013,
+    40.4131240845
+],
+  "geometry": {"coordinates":[-3.7064476013,40.4131240845],"type":"Point"}
+}

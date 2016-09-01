@@ -1,0 +1,72 @@
+{
+  "id": 1008161849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9863686562,43.2454986572,-2.9863686562,43.2454986572",
+    "geom:latitude":43.245499,
+    "geom:longitude":-2.986369,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Lasao, 5",
+    "sg:city":"Alonsotegi",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 98 07 95",
+    "sg:postcode":"48810",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863983,
+        102191581,
+        404346149,
+        85633129,
+        404227393,
+        101850537,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lqjR5iW3xmXFxjI9Argn4_43.245499_-2.986369@1306269616"
+    },
+    "wof:country":"ES",
+    "wof:created":1472602916,
+    "wof:geomhash":"69145b19b14578ffc0b51c752e9d6835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404346149,
+            "locality_id":101850537,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863983,
+            "region_id":85682879,
+            "venue_id":1008161849
+        }
+    ],
+    "wof:id":1008161849,
+    "wof:lastmodified":1472602916,
+    "wof:name":"Paniagua Tristan Luis Angel",
+    "wof:parent_id":85863983,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9863686562,
+    43.2454986572,
+    -2.9863686562,
+    43.2454986572
+],
+  "geometry": {"coordinates":[-2.9863686562,43.2454986572],"type":"Point"}
+}

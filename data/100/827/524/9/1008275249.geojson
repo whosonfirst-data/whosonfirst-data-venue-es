@@ -1,0 +1,81 @@
+{
+  "id": 1008275249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1581468582,41.4106674194,2.1581468582,41.4106674194",
+    "geom:latitude":41.410667,
+    "geom:longitude":2.158147,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de L'escorial, 174",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 84 57 70",
+    "sg:postcode":"08024",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863993,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GBHyulOaENxtMLcZyrido_41.410667_2.158147@1306269632"
+    },
+    "wof:country":"ES",
+    "wof:created":1472617356,
+    "wof:geomhash":"18e1ac92fca04ca864cbeddc890e4671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863993,
+            "region_id":85682663,
+            "venue_id":1008275249
+        }
+    ],
+    "wof:id":1008275249,
+    "wof:lastmodified":1472617356,
+    "wof:name":"Prisma Suport Al Marketing S.a.",
+    "wof:parent_id":85863993,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ]
+},
+  "bbox": [
+    2.1581468582,
+    41.4106674194,
+    2.1581468582,
+    41.4106674194
+],
+  "geometry": {"coordinates":[2.1581468582,41.4106674194],"type":"Point"}
+}

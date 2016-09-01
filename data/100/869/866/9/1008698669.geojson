@@ -1,0 +1,65 @@
+{
+  "id": 1008698669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.4777350426,40.4627723694,-3.4777350426,40.4627723694",
+    "geom:latitude":40.462772,
+    "geom:longitude":-3.477735,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Madrid, 28",
+    "sg:city":"Torrejon Ardoz",
+    "sg:classifiers":[],
+    "sg:orig_category":"Zapatos (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 76 85 64",
+    "sg:postcode":"28850",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102545765,
+        85682783,
+        102191581,
+        404339005,
+        85633129,
+        404227387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08EvhxcPKTOjdmmIiHgKDd_40.462772_-3.477735@1306269688"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638454,
+    "wof:geomhash":"712637dba1e5a44bda98aa6d6445aed0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545765,
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339005,
+            "macroregion_id":404227387,
+            "region_id":85682783,
+            "venue_id":1008698669
+        }
+    ],
+    "wof:id":1008698669,
+    "wof:lastmodified":1472638454,
+    "wof:name":"Vecino Jorge Manuel Jesus",
+    "wof:parent_id":102545765,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.4777350426,
+    40.4627723694,
+    -3.4777350426,
+    40.4627723694
+],
+  "geometry": {"coordinates":[-3.4777350426,40.4627723694],"type":"Point"}
+}

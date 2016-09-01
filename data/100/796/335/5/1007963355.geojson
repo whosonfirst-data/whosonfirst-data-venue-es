@@ -1,0 +1,94 @@
+{
+  "id": 1007963355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.9116119742,41.6271057129,-0.9116119742,41.6271057129",
+    "geom:latitude":41.627106,
+    "geom:longitude":-0.911612,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Riglos, 11",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 56 37 86",
+    "sg:postcode":"50012",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863399,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891,
+        85863419,
+        404346911,
+        101831079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16me1ZF0DiBJvixtVEPyoX_41.627106_-0.911612@1306269590"
+    },
+    "wof:country":"ES",
+    "wof:created":1472593690,
+    "wof:geomhash":"eabfa808510c718031d0a035dfcf58f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863399,
+            "region_id":85682891,
+            "venue_id":1007963355
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404346911,
+            "locality_id":101831079,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863419,
+            "region_id":85682891,
+            "venue_id":1007963355
+        }
+    ],
+    "wof:id":1007963355,
+    "wof:lastmodified":1472593690,
+    "wof:name":"Mayor Coste Manuela",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ]
+},
+  "bbox": [
+    -0.9116119742,
+    41.6271057129,
+    -0.9116119742,
+    41.6271057129
+],
+  "geometry": {"coordinates":[-0.9116119742,41.6271057129],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 991034005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1827645302,41.4215354919,2.1827645302,41.4215354919",
+    "geom:latitude":41.421535,
+    "geom:longitude":2.182765,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Jordi De Sant Jordi, 11",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asociaciones Y Clubs Deportivos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 43 16 26",
+    "sg:postcode":"08027",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863995,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Qp6UrblDPiA47OwpWZm5J_41.421535_2.182765@1306269431"
+    },
+    "wof:country":"ES",
+    "wof:created":1472521745,
+    "wof:geomhash":"82077e3a371a43143c65346e9338fe52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863995,
+            "region_id":85682663,
+            "venue_id":991034005
+        }
+    ],
+    "wof:id":991034005,
+    "wof:lastmodified":1472521745,
+    "wof:name":"Asociacion De Minusvalidos De Barcelona",
+    "wof:parent_id":85863995,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1827645302,
+    41.4215354919,
+    2.1827645302,
+    41.4215354919
+],
+  "geometry": {"coordinates":[2.1827645302,41.4215354919],"type":"Point"}
+}

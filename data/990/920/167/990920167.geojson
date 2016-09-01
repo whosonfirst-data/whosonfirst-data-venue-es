@@ -1,0 +1,81 @@
+{
+  "id": 990920167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.5226954818,38.4016036987,-0.5226954818,38.4016036987",
+    "geom:latitude":38.401604,
+    "geom:longitude":-0.522695,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Joaquin Blume, 21",
+    "sg:city":"San Vicente Del Raspeig-sant Vicent Del Raspeig",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 66 62 01",
+    "sg:postcode":"03690",
+    "sg:province":"Alicante",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864079,
+        102191581,
+        404329521,
+        85633129,
+        404227381,
+        101753655,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NvDrvTNTApBgQc6RAkieF_38.401604_-0.522695@1306269416"
+    },
+    "wof:country":"ES",
+    "wof:created":1472510473,
+    "wof:geomhash":"69db052f2a0d24d58c0fdb820f2fb873",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329521,
+            "locality_id":101753655,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864079,
+            "region_id":85682625,
+            "venue_id":990920167
+        }
+    ],
+    "wof:id":990920167,
+    "wof:lastmodified":1472510473,
+    "wof:name":"Albarracin Perez Francisco",
+    "wof:parent_id":85864079,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [
+    -0.5226954818,
+    38.4016036987,
+    -0.5226954818,
+    38.4016036987
+],
+  "geometry": {"coordinates":[-0.5226954818,38.4016036987],"type":"Point"}
+}

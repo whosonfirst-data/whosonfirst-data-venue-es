@@ -1,0 +1,82 @@
+{
+  "id": 991340257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.713340044,40.4244728088,-3.713340044,40.4244728088",
+    "geom:latitude":40.424473,
+    "geom:longitude":-3.71334,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Martin De Los Heros, 12",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 41 39 14",
+    "sg:postcode":"28008",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "salas",
+        "de",
+        "cine"
+    ],
+    "sg:website":"www.cinesrenoir.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863669,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_018xxbj7PAJ60gErALUiVj_40.424473_-3.713340@1306269472"
+    },
+    "wof:country":"ES",
+    "wof:created":1472544553,
+    "wof:geomhash":"6cb0826cb2194d3fd2f1e66429b5bab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863669,
+            "region_id":85682783,
+            "venue_id":991340257
+        }
+    ],
+    "wof:id":991340257,
+    "wof:lastmodified":1472544553,
+    "wof:name":"Cines Renoir S.a.",
+    "wof:parent_id":85863669,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salas",
+        "de",
+        "cine"
+    ]
+},
+  "bbox": [
+    -3.713340044,
+    40.4244728088,
+    -3.713340044,
+    40.4244728088
+],
+  "geometry": {"coordinates":[-3.713340044,40.4244728088],"type":"Point"}
+}

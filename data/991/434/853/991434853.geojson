@@ -1,0 +1,78 @@
+{
+  "id": 991434853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.707105875,40.4236907959,-3.707105875,40.4236907959",
+    "geom:latitude":40.423691,
+    "geom:longitude":-3.707106,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Cruz Verde, 14",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Comisarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 21 71 05",
+    "sg:postcode":"28004",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863667,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TF4EsyhXIWE1Skd20rNDh_40.423691_-3.707106@1306269485"
+    },
+    "wof:country":"ES",
+    "wof:created":1472550785,
+    "wof:geomhash":"589c8952fc3c3a2ababd218beb3f0b22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863667,
+            "region_id":85682783,
+            "venue_id":991434853
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863791,
+            "region_id":85682783,
+            "venue_id":991434853
+        }
+    ],
+    "wof:id":991434853,
+    "wof:lastmodified":1472550785,
+    "wof:name":"Coronado Coronado Fernando",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.707105875,
+    40.4236907959,
+    -3.707105875,
+    40.4236907959
+],
+  "geometry": {"coordinates":[-3.707105875,40.4236907959],"type":"Point"}
+}

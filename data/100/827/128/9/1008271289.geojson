@@ -1,0 +1,78 @@
+{
+  "id": 1008271289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.37549299,39.4655342102,-0.37549299,39.4655342102",
+    "geom:latitude":39.465534,
+    "geom:longitude":-0.375493,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de General San Martin, 5",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asociaciones Y Clubs Deportivos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 34 51 72",
+    "sg:postcode":"46004",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864209,
+        102191581,
+        404345361,
+        85633129,
+        404227381,
+        101748241,
+        85682867,
+        85864207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zUt0YTZShJMY6gOvMwvbY_39.465534_-0.375493@1306269631"
+    },
+    "wof:country":"ES",
+    "wof:created":1472617167,
+    "wof:geomhash":"416ca5228f2cbd6a03a8c472f85cdd62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345361,
+            "locality_id":101748241,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864209,
+            "region_id":85682867,
+            "venue_id":1008271289
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345361,
+            "locality_id":101748241,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864207,
+            "region_id":85682867,
+            "venue_id":1008271289
+        }
+    ],
+    "wof:id":1008271289,
+    "wof:lastmodified":1472617167,
+    "wof:name":"President Centro Deportivo S. A.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.37549299,
+    39.4655342102,
+    -0.37549299,
+    39.4655342102
+],
+  "geometry": {"coordinates":[-0.37549299,39.4655342102],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1007820961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8164923191,40.3445663452,-3.8164923191,40.3445663452",
+    "geom:latitude":40.344566,
+    "geom:longitude":-3.816492,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Olimpiada, 3",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alimentaci\u00d3n General (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 19 79 50",
+    "sg:postcode":"28923",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NHaAWOyeTqplTXOrvM9ad_40.344566_-3.816492@1306269572"
+    },
+    "wof:country":"ES",
+    "wof:created":1472587341,
+    "wof:geomhash":"ac6e3ac0a31059a51e9a838f49db0c71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1007820961
+        }
+    ],
+    "wof:id":1007820961,
+    "wof:lastmodified":1472587341,
+    "wof:name":"Llorente Sanz Santos",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8164923191,
+    40.3445663452,
+    -3.8164923191,
+    40.3445663452
+],
+  "geometry": {"coordinates":[-3.8164923191,40.3445663452],"type":"Point"}
+}

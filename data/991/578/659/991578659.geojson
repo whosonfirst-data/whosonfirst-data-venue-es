@@ -1,0 +1,81 @@
+{
+  "id": 991578659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7328839302,40.4277801514,-3.7328839302,40.4277801514",
+    "geom:latitude":40.42778,
+    "geom:longitude":-3.732884,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pase Comandante Fortea, 57",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 59 27 63",
+    "sg:postcode":"28008",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863669,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4m9i1KvkIi834atdsMoqtG_40.427780_-3.732884@1306269504"
+    },
+    "wof:country":"ES",
+    "wof:created":1472558642,
+    "wof:geomhash":"19d9448daca0136e0ea55eba8f67c172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863669,
+            "region_id":85682783,
+            "venue_id":991578659
+        }
+    ],
+    "wof:id":991578659,
+    "wof:lastmodified":1472558642,
+    "wof:name":"Escudero Gonzalez Pedro",
+    "wof:parent_id":85863669,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.7328839302,
+    40.4277801514,
+    -3.7328839302,
+    40.4277801514
+],
+  "geometry": {"coordinates":[-3.7328839302,40.4277801514],"type":"Point"}
+}

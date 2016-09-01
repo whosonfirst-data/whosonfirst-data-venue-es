@@ -1,0 +1,82 @@
+{
+  "id": 991287987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8848295212,41.6501693726,-0.8848295212,41.6501693726",
+    "geom:latitude":41.650169,
+    "geom:longitude":-0.88483,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Casa Jimenez, S/n",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 21 32 99",
+    "sg:postcode":"50004",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "sg:website":"www.grupocomar.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863361,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vddFyNyS8kvlOr1vq4cjG_41.650169_-0.884830@1306269465"
+    },
+    "wof:country":"ES",
+    "wof:created":1472542104,
+    "wof:geomhash":"aa590414f3caa53577cd9c6437ebc4ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863361,
+            "region_id":85682891,
+            "venue_id":991287987
+        }
+    ],
+    "wof:id":991287987,
+    "wof:lastmodified":1472542104,
+    "wof:name":"Casino De Zaragoza S.a.",
+    "wof:parent_id":85863361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [
+    -0.8848295212,
+    41.6501693726,
+    -0.8848295212,
+    41.6501693726
+],
+  "geometry": {"coordinates":[-0.8848295212,41.6501693726],"type":"Point"}
+}

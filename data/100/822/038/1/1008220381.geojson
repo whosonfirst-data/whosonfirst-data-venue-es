@@ -1,0 +1,78 @@
+{
+  "id": 1008220381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6967008114,40.4311027527,-3.6967008114,40.4311027527",
+    "geom:latitude":40.431103,
+    "geom:longitude":-3.696701,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Espa\u00d1oleto, 4",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Librer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 48 60 15",
+    "sg:postcode":"28010",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863671,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3R97TAYEOZwonenwyF2w0X_40.431103_-3.696701@1306269625"
+    },
+    "wof:country":"ES",
+    "wof:created":1472613392,
+    "wof:geomhash":"02820a2658c9fd4f8e19c074c6881c8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863671,
+            "region_id":85682783,
+            "venue_id":1008220381
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863661,
+            "region_id":85682783,
+            "venue_id":1008220381
+        }
+    ],
+    "wof:id":1008220381,
+    "wof:lastmodified":1472613392,
+    "wof:name":"Perez Perez Pilar",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6967008114,
+    40.4311027527,
+    -3.6967008114,
+    40.4311027527
+],
+  "geometry": {"coordinates":[-3.6967008114,40.4311027527],"type":"Point"}
+}

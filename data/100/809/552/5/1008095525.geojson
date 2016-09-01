@@ -1,0 +1,77 @@
+{
+  "id": 1008095525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6751580238,40.4015922546,-3.6751580238,40.4015922546",
+    "geom:latitude":40.401592,
+    "geom:longitude":-3.675158,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Ciudad De Barcelona, 77",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Tea Room",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 51 31 53",
+    "sg:postcode":"28007",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "snack"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863739,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vDY0RLWlHOMKMb1yhv4Ok_40.401592_-3.675158@1306269607"
+    },
+    "wof:country":"ES",
+    "wof:created":1472599325,
+    "wof:geomhash":"5c6b87541121c5863bf520fb341c1fb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863739,
+            "region_id":85682783,
+            "venue_id":1008095525
+        }
+    ],
+    "wof:id":1008095525,
+    "wof:lastmodified":1472599325,
+    "wof:name":"Nieto Jimenez Julio",
+    "wof:parent_id":85863739,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snack"
+    ]
+},
+  "bbox": [
+    -3.6751580238,
+    40.4015922546,
+    -3.6751580238,
+    40.4015922546
+],
+  "geometry": {"coordinates":[-3.6751580238,40.4015922546],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1008282129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3734630048,39.4883308411,-0.3734630048,39.4883308411",
+    "geom:latitude":39.488331,
+    "geom:longitude":-0.373463,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Luz Casanova, 13",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Promotores Constructores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 65 17 73",
+    "sg:postcode":"46009",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864223,
+        102191581,
+        404345361,
+        85633129,
+        404227381,
+        101748241,
+        85682867,
+        85864225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sEja6Z3oeOpO45YY3ioHW_39.488331_-0.373463@1306269633"
+    },
+    "wof:country":"ES",
+    "wof:created":1472617824,
+    "wof:geomhash":"a58786e010c264757177f9c7cc369b51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345361,
+            "locality_id":101748241,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864223,
+            "region_id":85682867,
+            "venue_id":1008282129
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864225,
+            "region_id":85682867,
+            "venue_id":1008282129
+        }
+    ],
+    "wof:id":1008282129,
+    "wof:lastmodified":1472617824,
+    "wof:name":"Promociones Grupo V.albertos S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3734630048,
+    39.4883308411,
+    -0.3734630048,
+    39.4883308411
+],
+  "geometry": {"coordinates":[-0.3734630048,39.4883308411],"type":"Point"}
+}

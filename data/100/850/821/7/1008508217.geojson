@@ -1,0 +1,59 @@
+{
+  "id": 1008508217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0947248936,41.553768158,2.0947248936,41.553768158",
+    "geom:latitude":41.553768,
+    "geom:longitude":2.094725,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Lluis Companys, S/n",
+    "sg:city":"Sabadell",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sanatorios M\u00c9dico",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 24 79 20",
+    "sg:postcode":"08206",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dfSwPDzeTnbQT28vxlnzr_41.553768_2.094725@1306269663"
+    },
+    "wof:country":"ES",
+    "wof:created":1472630368,
+    "wof:geomhash":"c3816a14fbac6c5ddad27945a04edb5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008508217
+        }
+    ],
+    "wof:id":1008508217,
+    "wof:lastmodified":1472630368,
+    "wof:name":"Serveis D'atencio Primaria Parc Tauli S.a.",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0947248936,
+    41.553768158,
+    2.0947248936,
+    41.553768158
+],
+  "geometry": {"coordinates":[2.0947248936,41.553768158],"type":"Point"}
+}

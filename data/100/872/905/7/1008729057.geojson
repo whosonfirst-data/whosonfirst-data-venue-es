@@ -1,0 +1,67 @@
+{
+  "id": 1008729057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.173995018,41.4252929688,2.173995018,41.4252929688",
+    "geom:latitude":41.425293,
+    "geom:longitude":2.173995,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Lluis Sagnier, 55",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 35 40 87",
+    "sg:postcode":"08032",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799399,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XixjCMS9rMq6CcR1fWJG2_41.425293_2.173995@1306269692"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639820,
+    "wof:geomhash":"1dcda1a54db3def93897b07031494b99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799399,
+            "region_id":85682663,
+            "venue_id":1008729057
+        }
+    ],
+    "wof:id":1008729057,
+    "wof:lastmodified":1472639820,
+    "wof:name":"Vila Morell Margarita",
+    "wof:parent_id":85799399,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.173995018,
+    41.4252929688,
+    2.173995018,
+    41.4252929688
+],
+  "geometry": {"coordinates":[2.173995018,41.4252929688],"type":"Point"}
+}

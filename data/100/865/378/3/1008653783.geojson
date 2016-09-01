@@ -1,0 +1,59 @@
+{
+  "id": 1008653783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7639739513,40.2684707642,-3.7639739513,40.2684707642",
+    "geom:latitude":40.268471,
+    "geom:longitude":-3.763974,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Amonio, S/n",
+    "sg:city":"Fuenlabrada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Suministros Para Exposiciones, Ferias, Salones",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 42 24 05",
+    "sg:postcode":"28946",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27Zb5lMcVK6BlodAjMB7qm_40.268471_-3.763974@1306269682"
+    },
+    "wof:country":"ES",
+    "wof:created":1472636556,
+    "wof:geomhash":"5ecf1bc5f7acc743e6fef50b98f6540c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1008653783
+        }
+    ],
+    "wof:id":1008653783,
+    "wof:lastmodified":1472636556,
+    "wof:name":"Trazos Y Tendencias S. L.",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7639739513,
+    40.2684707642,
+    -3.7639739513,
+    40.2684707642
+],
+  "geometry": {"coordinates":[-3.7639739513,40.2684707642],"type":"Point"}
+}

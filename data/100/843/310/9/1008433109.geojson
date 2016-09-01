@@ -1,0 +1,72 @@
+{
+  "id": 1008433109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9833600521,43.3157081604,-2.9833600521,43.3157081604",
+    "geom:latitude":43.315708,
+    "geom:longitude":-2.98336,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Lurberri, 6",
+    "sg:city":"Astrabudua",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 17 08 97",
+    "sg:postcode":"48950",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799311,
+        102191581,
+        404346127,
+        85633129,
+        404227393,
+        101758861,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3e8HMZlPu7epQuh0DmSJz4_43.315708_-2.983360@1306269653"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627312,
+    "wof:geomhash":"b05c9918dd872007239f1c6f188cccf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404346127,
+            "locality_id":101758861,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85799311,
+            "region_id":85682879,
+            "venue_id":1008433109
+        }
+    ],
+    "wof:id":1008433109,
+    "wof:lastmodified":1472627312,
+    "wof:name":"Sagredo Bilbao Santiago",
+    "wof:parent_id":85799311,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9833600521,
+    43.3157081604,
+    -2.9833600521,
+    43.3157081604
+],
+  "geometry": {"coordinates":[-2.9833600521,43.3157081604],"type":"Point"}
+}

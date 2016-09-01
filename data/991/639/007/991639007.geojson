@@ -1,0 +1,61 @@
+{
+  "id": 991639007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5802619457,40.4594650269,-3.5802619457,40.4594650269",
+    "geom:latitude":40.459465,
+    "geom:longitude":-3.580262,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Soto Hidalgo, 2",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ingeniero",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 29 23 49",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        102545773,
+        85863587,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XnCRZtxfe1nJ36MLNFlEI_40.459465_-3.580262@1306269512"
+    },
+    "wof:country":"ES",
+    "wof:created":1472562440,
+    "wof:geomhash":"ae95288c8a83bc6935275d465404052e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545773,
+            "country_id":85633129,
+            "neighbourhood_id":85863587,
+            "region_id":85682783,
+            "venue_id":991639007
+        }
+    ],
+    "wof:id":991639007,
+    "wof:lastmodified":1472562440,
+    "wof:name":"Fernandez Fernandez Maria Josefa Elena",
+    "wof:parent_id":102545773,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5802619457,
+    40.4594650269,
+    -3.5802619457,
+    40.4594650269
+],
+  "geometry": {"coordinates":[-3.5802619457,40.4594650269],"type":"Point"}
+}

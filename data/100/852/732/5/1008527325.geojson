@@ -1,0 +1,59 @@
+{
+  "id": 1008527325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5806798935,40.4758529663,-3.5806798935,40.4758529663",
+    "geom:latitude":40.475853,
+    "geom:longitude":-3.58068,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Jupiter, 7",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sindicatos De Trabajadores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 05 62 72",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863589,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Kxlj1mWmDT5fLmX6bb0Ri_40.475853_-3.580680@1306269665"
+    },
+    "wof:country":"ES",
+    "wof:created":1472631156,
+    "wof:geomhash":"e6d7bc29dae55da4cb8e690a1aaeafd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863589,
+            "region_id":85682783,
+            "venue_id":1008527325
+        }
+    ],
+    "wof:id":1008527325,
+    "wof:lastmodified":1472631156,
+    "wof:name":"Sindicato De Tripulantes Auxiliares De Vuelo De Lineas Aereas",
+    "wof:parent_id":85863589,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5806798935,
+    40.4758529663,
+    -3.5806798935,
+    40.4758529663
+],
+  "geometry": {"coordinates":[-3.5806798935,40.4758529663],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1008694257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.208370924,41.4520072937,2.208370924,41.4520072937",
+    "geom:latitude":41.452007,
+    "geom:longitude":2.208371,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Pedro, 5",
+    "sg:city":"Santa Coloma De Gramenet",
+    "sg:classifiers":[],
+    "sg:orig_category":"Dibujos Animados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 66 35 71",
+    "sg:postcode":"08921",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799559,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85799517,
+        404331425,
+        101748345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17Jhux3jCnceVDtYRXUbd8_41.452007_2.208371@1306269688"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638249,
+    "wof:geomhash":"9b76d7112872bfaf965b23627aef5dd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799559,
+            "region_id":85682663,
+            "venue_id":1008694257
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331425,
+            "locality_id":101748345,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799517,
+            "region_id":85682663,
+            "venue_id":1008694257
+        }
+    ],
+    "wof:id":1008694257,
+    "wof:lastmodified":1472638249,
+    "wof:name":"Varo Navarro Miguel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.208370924,
+    41.4520072937,
+    2.208370924,
+    41.4520072937
+],
+  "geometry": {"coordinates":[2.208370924,41.4520072937],"type":"Point"}
+}

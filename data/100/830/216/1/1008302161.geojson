@@ -1,0 +1,79 @@
+{
+  "id": 1008302161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6877059937,40.4553642273,-3.6877059937,40.4553642273",
+    "geom:latitude":40.455364,
+    "geom:longitude":-3.687706,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Manuel De Falla, 6",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c9dicos: Cirug\u00cda Pl\u00c1stica, Reconstructiva Y Est\u00c9tica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 50 33 31",
+    "sg:postcode":"28036",
+    "sg:province":"Madrid",
+    "sg:website":"www.querub.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799237,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ER2tnGaKrgSvjhNeW7aqU_40.455364_-3.687706@1306269635"
+    },
+    "wof:country":"ES",
+    "wof:created":1472620676,
+    "wof:geomhash":"8df90c1ca56902e85ffc5019d0c35dec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799237,
+            "region_id":85682783,
+            "venue_id":1008302161
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863621,
+            "region_id":85682783,
+            "venue_id":1008302161
+        }
+    ],
+    "wof:id":1008302161,
+    "wof:lastmodified":1472620676,
+    "wof:name":"Querub Caro Esther",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6877059937,
+    40.4553642273,
+    -3.6877059937,
+    40.4553642273
+],
+  "geometry": {"coordinates":[-3.6877059937,40.4553642273],"type":"Point"}
+}

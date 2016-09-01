@@ -1,0 +1,64 @@
+{
+  "id": 1008498221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1644780636,41.6316261292,2.1644780636,41.6316261292",
+    "geom:latitude":41.631626,
+    "geom:longitude":2.164478,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Pi I Margall, 26",
+    "sg:city":"Caldes Montbui",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 938 65 02 28",
+    "sg:postcode":"08140",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799453,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fJmYdePf4A3IfnoMIltd7_41.631626_2.164478@1306269662"
+    },
+    "wof:country":"ES",
+    "wof:created":1472629934,
+    "wof:geomhash":"16570e64b38d7c41f1263b20b0006631",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799453,
+            "region_id":85682663,
+            "venue_id":1008498221
+        }
+    ],
+    "wof:id":1008498221,
+    "wof:lastmodified":1472629934,
+    "wof:name":"Sendra Catafau Antonio",
+    "wof:parent_id":85799453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1644780636,
+    41.6316261292,
+    2.1644780636,
+    41.6316261292
+],
+  "geometry": {"coordinates":[2.1644780636,41.6316261292],"type":"Point"}
+}

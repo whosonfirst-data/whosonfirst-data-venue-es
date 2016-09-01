@@ -1,0 +1,59 @@
+{
+  "id": 1007930837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8094420433,40.3522949219,-3.8094420433,40.3522949219",
+    "geom:latitude":40.352295,
+    "geom:longitude":-3.809442,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Venus, 12",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Peluquer\u00cdas, Peluquer\u00cda Mixta",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 10 20 52",
+    "sg:postcode":"28925",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PKPtmPfGPUgCNJJ9dIqu9_40.352295_-3.809442@1306269586"
+    },
+    "wof:country":"ES",
+    "wof:created":1472592272,
+    "wof:geomhash":"0b56acc9b20f955c358348f6b9fb83aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1007930837
+        }
+    ],
+    "wof:id":1007930837,
+    "wof:lastmodified":1472592272,
+    "wof:name":"Martinez Naranjo Maria Del Carmen",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8094420433,
+    40.3522949219,
+    -3.8094420433,
+    40.3522949219
+],
+  "geometry": {"coordinates":[-3.8094420433,40.3522949219],"type":"Point"}
+}

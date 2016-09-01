@@ -1,0 +1,73 @@
+{
+  "id": 990944121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8725438118,40.4915008545,-3.8725438118,40.4915008545",
+    "geom:latitude":40.491501,
+    "geom:longitude":-3.872544,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Mieses, 2",
+    "sg:city":"Rozas De Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 40 63 91",
+    "sg:postcode":"28230",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863613,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FD442vh9iFNobA3akOlC1_40.491501_-3.872544@1306269419"
+    },
+    "wof:country":"ES",
+    "wof:created":1472513055,
+    "wof:geomhash":"b520aa242c560b674ef769665a5a521b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863613,
+            "region_id":85682783,
+            "venue_id":990944121
+        }
+    ],
+    "wof:id":990944121,
+    "wof:lastmodified":1472513055,
+    "wof:name":"Alonso Diez Isabel",
+    "wof:parent_id":85863613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ]
+},
+  "bbox": [
+    -3.8725438118,
+    40.4915008545,
+    -3.8725438118,
+    40.4915008545
+],
+  "geometry": {"coordinates":[-3.8725438118,40.4915008545],"type":"Point"}
+}

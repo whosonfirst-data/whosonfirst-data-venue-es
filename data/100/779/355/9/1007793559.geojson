@@ -1,0 +1,66 @@
+{
+  "id": 1007793559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9119033813,43.2468070984,-2.9119033813,43.2468070984",
+    "geom:latitude":43.246807,
+    "geom:longitude":-2.911903,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Miraflores, 10",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electricidad Veh\u00cdculo",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 73 25 65",
+    "sg:postcode":"48004",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799203,
+        85682879,
+        85799199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fDciXmHiCZd4KXke5P2d1_43.246807_-2.911903@1306269569"
+    },
+    "wof:country":"ES",
+    "wof:created":1472585948,
+    "wof:geomhash":"71ea12f1c61f5bbd6b93af614021ce90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799203,
+            "region_id":85682879,
+            "venue_id":1007793559
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799199,
+            "region_id":85682879,
+            "venue_id":1007793559
+        }
+    ],
+    "wof:id":1007793559,
+    "wof:lastmodified":1472585948,
+    "wof:name":"Laukintza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9119033813,
+    43.2468070984,
+    -2.9119033813,
+    43.2468070984
+],
+  "geometry": {"coordinates":[-2.9119033813,43.2468070984],"type":"Point"}
+}

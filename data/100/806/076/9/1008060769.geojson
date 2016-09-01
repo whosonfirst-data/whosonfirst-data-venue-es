@@ -1,0 +1,59 @@
+{
+  "id": 1008060769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4874840081,38.3607559204,-0.4874840081,38.3607559204",
+    "geom:latitude":38.360756,
+    "geom:longitude":-0.487484,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Monse\u00d1or Romero, S/n",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Muebles, Minoristas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 25 14 12",
+    "sg:postcode":"03010",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864065,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7g1oJAp1MjYnc9dsJdDnks_38.360756_-0.487484@1306269603"
+    },
+    "wof:country":"ES",
+    "wof:created":1472597769,
+    "wof:geomhash":"66b31e3cafbc9faecd0b386e6e378807",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864065,
+            "region_id":85682625,
+            "venue_id":1008060769
+        }
+    ],
+    "wof:id":1008060769,
+    "wof:lastmodified":1472597769,
+    "wof:name":"Muebles Orbe C.b.",
+    "wof:parent_id":85864065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4874840081,
+    38.3607559204,
+    -0.4874840081,
+    38.3607559204
+],
+  "geometry": {"coordinates":[-0.4874840081,38.3607559204],"type":"Point"}
+}

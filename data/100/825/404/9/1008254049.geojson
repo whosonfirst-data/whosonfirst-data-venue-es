@@ -1,0 +1,78 @@
+{
+  "id": 1008254049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6779689789,40.4301528931,-3.6779689789,40.4301528931",
+    "geom:latitude":40.430153,
+    "geom:longitude":-3.677969,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Jose Ortega Y Gasset, 43",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c9dicos: Estomatolog\u00cda",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 01 51 66",
+    "sg:postcode":"28006",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863675,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NtIsUEcpiUMfENVB4w5Tt_40.430153_-3.677969@1306269629"
+    },
+    "wof:country":"ES",
+    "wof:created":1472616237,
+    "wof:geomhash":"f4533dea8e5f5176edc99a5ee9a8f061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863675,
+            "region_id":85682783,
+            "venue_id":1008254049
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863673,
+            "region_id":85682783,
+            "venue_id":1008254049
+        }
+    ],
+    "wof:id":1008254049,
+    "wof:lastmodified":1472616237,
+    "wof:name":"Plaza Mayor Alfonso",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6779689789,
+    40.4301528931,
+    -3.6779689789,
+    40.4301528931
+],
+  "geometry": {"coordinates":[-3.6779689789,40.4301528931],"type":"Point"}
+}

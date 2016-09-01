@@ -1,0 +1,78 @@
+{
+  "id": 1024492943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7160413265,40.4212837219,-3.7160413265,40.4212837219",
+    "geom:latitude":40.421284,
+    "geom:longitude":-3.716041,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Arriaza, 10",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alimentaci\u00d3n General (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 42 08 82",
+    "sg:postcode":"28008",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863747,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53mWZSrm3gH00srzgknmmW_40.421284_-3.716041@1306269697"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641330,
+    "wof:geomhash":"d3584d5e406322ac54d5afe1df0c9009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863747,
+            "region_id":85682783,
+            "venue_id":1024492943
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863669,
+            "region_id":85682783,
+            "venue_id":1024492943
+        }
+    ],
+    "wof:id":1024492943,
+    "wof:lastmodified":1472641330,
+    "wof:name":"Zhang  Yvijao",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7160413265,
+    40.4212837219,
+    -3.7160413265,
+    40.4212837219
+],
+  "geometry": {"coordinates":[-3.7160413265,40.4212837219],"type":"Point"}
+}

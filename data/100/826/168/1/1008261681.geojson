@@ -1,0 +1,78 @@
+{
+  "id": 1008261681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6255431175,40.4289932251,-3.6255431175,40.4289932251",
+    "geom:latitude":40.428993,
+    "geom:longitude":-3.625543,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Zaratan, S/n",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Muebles, Minoristas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 04 40 04",
+    "sg:postcode":"28037",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863641,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DyFTzs1SnzoN3k1W1obAG_40.428993_-3.625543@1306269630"
+    },
+    "wof:country":"ES",
+    "wof:created":1472616600,
+    "wof:geomhash":"9b196959f679a300e1a44a843fe2a291",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863641,
+            "region_id":85682783,
+            "venue_id":1008261681
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863701,
+            "region_id":85682783,
+            "venue_id":1008261681
+        }
+    ],
+    "wof:id":1008261681,
+    "wof:lastmodified":1472616600,
+    "wof:name":"Porras Serrano Mariano",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6255431175,
+    40.4289932251,
+    -3.6255431175,
+    40.4289932251
+],
+  "geometry": {"coordinates":[-3.6255431175,40.4289932251],"type":"Point"}
+}

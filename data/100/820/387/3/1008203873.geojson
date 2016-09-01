@@ -1,0 +1,67 @@
+{
+  "id": 1008203873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1838829517,41.4095458984,2.1838829517,41.4095458984",
+    "geom:latitude":41.409546,
+    "geom:longitude":2.183883,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Rogent, 37",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alumbrados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 46 05 39",
+    "sg:postcode":"08026",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799265,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UussGu7aGHOyFcMik8v7U_41.409546_2.183883@1306269622"
+    },
+    "wof:country":"ES",
+    "wof:created":1472610427,
+    "wof:geomhash":"94c62b8264f0433873711a4d2855cc8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799265,
+            "region_id":85682663,
+            "venue_id":1008203873
+        }
+    ],
+    "wof:id":1008203873,
+    "wof:lastmodified":1472610427,
+    "wof:name":"Pera Llado Francesc",
+    "wof:parent_id":85799265,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1838829517,
+    41.4095458984,
+    2.1838829517,
+    41.4095458984
+],
+  "geometry": {"coordinates":[2.1838829517,41.4095458984],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 991005909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6645622253,39.5713729858,2.6645622253,39.5713729858",
+    "geom:latitude":39.571373,
+    "geom:longitude":2.664562,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Manacor, 54",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Armas Y Municiones (fabricaci\u00d3n, Al Por Mayor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 46 91 63",
+    "sg:postcode":"07006",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864089,
+        102191581,
+        404330817,
+        85633129,
+        404227367,
+        101748237,
+        85682647,
+        85864087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2spB6paNe0DvcdRSFe3Snn_39.571373_2.664562@1306269428"
+    },
+    "wof:country":"ES",
+    "wof:created":1472519519,
+    "wof:geomhash":"00e38e9d86f8db9f2e8069c353f757c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864089,
+            "region_id":85682647,
+            "venue_id":991005909
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864087,
+            "region_id":85682647,
+            "venue_id":991005909
+        }
+    ],
+    "wof:id":991005909,
+    "wof:lastmodified":1472519519,
+    "wof:name":"Armeria Serra Piza S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6645622253,
+    39.5713729858,
+    2.6645622253,
+    39.5713729858
+],
+  "geometry": {"coordinates":[2.6645622253,39.5713729858],"type":"Point"}
+}

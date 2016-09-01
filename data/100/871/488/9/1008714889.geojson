@@ -1,0 +1,67 @@
+{
+  "id": 1008714889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.6523499489,43.5380363464,-5.6523499489,43.5380363464",
+    "geom:latitude":43.538036,
+    "geom:longitude":-5.65235,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Menendez Pelayo, 13",
+    "sg:city":"Gijon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 985 33 27 50",
+    "sg:postcode":"33202",
+    "sg:province":"Asturias",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799415,
+        102191581,
+        404340333,
+        85633129,
+        404227365,
+        101748401,
+        85682805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Rv6PAhpA9Hcxolc5rimoy_43.538036_-5.652350@1306269690"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639227,
+    "wof:geomhash":"54df7f2852981007eb98729c2a9b5a78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404340333,
+            "locality_id":101748401,
+            "macroregion_id":404227365,
+            "neighbourhood_id":85799415,
+            "region_id":85682805,
+            "venue_id":1008714889
+        }
+    ],
+    "wof:id":1008714889,
+    "wof:lastmodified":1472639227,
+    "wof:name":"Viajes Iberia S.a.",
+    "wof:parent_id":85799415,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.6523499489,
+    43.5380363464,
+    -5.6523499489,
+    43.5380363464
+],
+  "geometry": {"coordinates":[-5.6523499489,43.5380363464],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1008143209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0810449123,41.3609771729,2.0810449123,41.3609771729",
+    "geom:latitude":41.360977,
+    "geom:longitude":2.081045,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Bruc, 4",
+    "sg:city":"Cornella Llobregat",
+    "sg:classifiers":[],
+    "sg:orig_category":"Estancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 76 19 45",
+    "sg:postcode":"08940",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799283,
+        102191581,
+        404331105,
+        85633129,
+        404227379,
+        101748333,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51y1XyifgoHls2hUtz8PDj_41.360977_2.081045@1306269614"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601531,
+    "wof:geomhash":"85e7d60a46d0f43d8f0620e047900885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331105,
+            "locality_id":101748333,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799283,
+            "region_id":85682663,
+            "venue_id":1008143209
+        }
+    ],
+    "wof:id":1008143209,
+    "wof:lastmodified":1472601531,
+    "wof:name":"Osuna Martin Araceli",
+    "wof:parent_id":85799283,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0810449123,
+    41.3609771729,
+    2.0810449123,
+    41.3609771729
+],
+  "geometry": {"coordinates":[2.0810449123,41.3609771729],"type":"Point"}
+}

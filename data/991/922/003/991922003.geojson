@@ -1,0 +1,67 @@
+{
+  "id": 991922003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7149209976,40.4112854004,-3.7149209976,40.4112854004",
+    "geom:latitude":40.411285,
+    "geom:longitude":-3.714921,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Buenaventura, 1",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hospitales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 65 76 57",
+    "sg:postcode":"28005",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863775,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TEE659Yz5ofyLW3OQsOu1_40.411285_-3.714921@1306269550"
+    },
+    "wof:country":"ES",
+    "wof:created":1472578558,
+    "wof:geomhash":"4922ab4cb30abcc4260fdef88c4c6139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863775,
+            "region_id":85682783,
+            "venue_id":991922003
+        }
+    ],
+    "wof:id":991922003,
+    "wof:lastmodified":1472578558,
+    "wof:name":"Hospital De La Venerable Orden Tercera",
+    "wof:parent_id":85863775,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7149209976,
+    40.4112854004,
+    -3.7149209976,
+    40.4112854004
+],
+  "geometry": {"coordinates":[-3.7149209976,40.4112854004],"type":"Point"}
+}

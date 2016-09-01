@@ -1,0 +1,67 @@
+{
+  "id": 1008370169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1610000134,41.4313392639,2.1610000134,41.4313392639",
+    "geom:latitude":41.431339,
+    "geom:longitude":2.161,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Chapi, 17",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grafistas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 20 97 54",
+    "sg:postcode":"08031",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799399,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31VOKS9gVGKIBWQUfTRU5m_41.431339_2.161000@1306269645"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624371,
+    "wof:geomhash":"e8cab409105c7fc50050443758a602f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799399,
+            "region_id":85682663,
+            "venue_id":1008370169
+        }
+    ],
+    "wof:id":1008370169,
+    "wof:lastmodified":1472624371,
+    "wof:name":"Roch Boix Jordi",
+    "wof:parent_id":85799399,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1610000134,
+    41.4313392639,
+    2.1610000134,
+    41.4313392639
+],
+  "geometry": {"coordinates":[2.1610000134,41.4313392639],"type":"Point"}
+}

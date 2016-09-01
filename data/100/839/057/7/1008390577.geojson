@@ -1,0 +1,67 @@
+{
+  "id": 1008390577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6872396469,40.4206237793,-3.6872396469,40.4206237793",
+    "geom:latitude":40.420624,
+    "geom:longitude":-3.68724,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Claudio Coello, 4",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Restaurantes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 76 41 86",
+    "sg:postcode":"28001",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863809,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WpuIsB7CEm2kOE3yeSYOc_40.420624_-3.687240@1306269647"
+    },
+    "wof:country":"ES",
+    "wof:created":1472625341,
+    "wof:geomhash":"7a168f5072dac286aefe34afd9ef7ea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863809,
+            "region_id":85682783,
+            "venue_id":1008390577
+        }
+    ],
+    "wof:id":1008390577,
+    "wof:lastmodified":1472625341,
+    "wof:name":"Rodriguez Suarez Domingo",
+    "wof:parent_id":85863809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6872396469,
+    40.4206237793,
+    -3.6872396469,
+    40.4206237793
+],
+  "geometry": {"coordinates":[-3.6872396469,40.4206237793],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1008397763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9455962181,43.2488555908,-2.9455962181,43.2488555908",
+    "geom:latitude":43.248856,
+    "geom:longitude":-2.945596,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Bizkargi, 24",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias Y Agentes Comerciales, Representantes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 44 64 49",
+    "sg:postcode":"48002",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863947,
+        85682879,
+        85863927,
+        102191581,
+        404345949,
+        404227393,
+        101748385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zDuujwJQ9DVVeEpgBoyTx_43.248856_-2.945596@1306269648"
+    },
+    "wof:country":"ES",
+    "wof:created":1472625626,
+    "wof:geomhash":"322efd02e67c35fb1c5d7cf5406b2fcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863947,
+            "region_id":85682879,
+            "venue_id":1008397763
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345949,
+            "locality_id":101748385,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863927,
+            "region_id":85682879,
+            "venue_id":1008397763
+        }
+    ],
+    "wof:id":1008397763,
+    "wof:lastmodified":1472625626,
+    "wof:name":"Roma\u00f1a Fernandez Juan Luis",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9455962181,
+    43.2488555908,
+    -2.9455962181,
+    43.2488555908
+],
+  "geometry": {"coordinates":[-2.9455962181,43.2488555908],"type":"Point"}
+}

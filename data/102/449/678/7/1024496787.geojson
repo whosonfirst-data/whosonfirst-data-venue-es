@@ -1,0 +1,80 @@
+{
+  "id": 1024496787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1577193,41.3930567,2.1577193,41.3930567",
+    "geom:latitude":41.393057,
+    "geom:longitude":2.157719,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Muntaner 147 4o-3a",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"08036",
+    "sg:tags":[
+        "innovation",
+        "travel",
+        "development"
+    ],
+    "sg:website":"http://www.projectravel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864017,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lYQRvYILlrV8S7p5lq5AM_41.393057_2.157719@1308163241"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641481,
+    "wof:geomhash":"3b7c20e5b8f66658d6112737a47d9979",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864017,
+            "region_id":85682663,
+            "venue_id":1024496787
+        }
+    ],
+    "wof:id":1024496787,
+    "wof:lastmodified":1472641481,
+    "wof:name":"Plain White Paper, Ltd. ",
+    "wof:parent_id":85864017,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "innovation",
+        "travel",
+        "development"
+    ]
+},
+  "bbox": [
+    2.1577193,
+    41.3930567,
+    2.1577193,
+    41.3930567
+],
+  "geometry": {"coordinates":[2.1577193,41.3930567],"type":"Point"}
+}

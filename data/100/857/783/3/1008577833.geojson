@@ -1,0 +1,59 @@
+{
+  "id": 1008577833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.537966013,40.425579071,-3.537966013,40.425579071",
+    "geom:latitude":40.425579,
+    "geom:longitude":-3.537966,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Fuente (de La), 2",
+    "sg:city":"Coslada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Caf\u00c9s, Bares, Cervecer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 73 61 38",
+    "sg:postcode":"28820",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863631,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YULKrvLdGosfO2hJQrfKW_40.425579_-3.537966@1306269672"
+    },
+    "wof:country":"ES",
+    "wof:created":1472633290,
+    "wof:geomhash":"beff586c1b5f0c2608e9e9b7530ee5b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863631,
+            "region_id":85682783,
+            "venue_id":1008577833
+        }
+    ],
+    "wof:id":1008577833,
+    "wof:lastmodified":1472633290,
+    "wof:name":"Tabacor",
+    "wof:parent_id":85863631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.537966013,
+    40.425579071,
+    -3.537966013,
+    40.425579071
+],
+  "geometry": {"coordinates":[-3.537966013,40.425579071],"type":"Point"}
+}

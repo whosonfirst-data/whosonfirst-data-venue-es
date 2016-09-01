@@ -1,0 +1,59 @@
+{
+  "id": 1008572957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.8869903088,43.208240509,-2.8869903088,43.208240509",
+    "geom:latitude":43.208241,
+    "geom:longitude":-2.88699,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Iparraguirre, 1",
+    "sg:city":"Arrigorriaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 946 71 06 24",
+    "sg:postcode":"48480",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799203,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13EtJaP2AHuhHMGKnNFa02_43.208241_-2.886990@1306269672"
+    },
+    "wof:country":"ES",
+    "wof:created":1472633093,
+    "wof:geomhash":"62db703c7b6bb5a3efcc3ef16caade94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799203,
+            "region_id":85682879,
+            "venue_id":1008572957
+        }
+    ],
+    "wof:id":1008572957,
+    "wof:lastmodified":1472633093,
+    "wof:name":"Supermercado Ercoreca S.a.",
+    "wof:parent_id":85799203,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.8869903088,
+    43.208240509,
+    -2.8869903088,
+    43.208240509
+],
+  "geometry": {"coordinates":[-2.8869903088,43.208240509],"type":"Point"}
+}

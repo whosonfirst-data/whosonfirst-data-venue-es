@@ -1,0 +1,64 @@
+{
+  "id": 1008418213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6510961056,39.5888519287,2.6510961056,39.5888519287",
+    "geom:latitude":39.588852,
+    "geom:longitude":2.651096,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Jaume Vidal Alcove, 11",
+    "sg:city":"Palma",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 29 89 21",
+    "sg:postcode":"07004",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864091,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qRM4ynKaPSS7zEFb92HMy_39.588852_2.651096@1306269651"
+    },
+    "wof:country":"ES",
+    "wof:created":1472626616,
+    "wof:geomhash":"98f6821109ee9005c4658f5cda40babd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":1008418213
+        }
+    ],
+    "wof:id":1008418213,
+    "wof:lastmodified":1472626616,
+    "wof:name":"Ruiz Bengoa Autoescuela S L",
+    "wof:parent_id":85864091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6510961056,
+    39.5888519287,
+    2.6510961056,
+    39.5888519287
+],
+  "geometry": {"coordinates":[2.6510961056,39.5888519287],"type":"Point"}
+}

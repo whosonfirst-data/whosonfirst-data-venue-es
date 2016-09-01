@@ -1,0 +1,60 @@
+{
+  "id": 991205621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5409140587,40.4283447266,-3.5409140587,40.4283447266",
+    "geom:latitude":40.428345,
+    "geom:longitude":-3.540914,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Mejico, 35",
+    "sg:city":"Coslada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cajas De Ahorro",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 69 69 42",
+    "sg:postcode":"28820",
+    "sg:province":"Madrid",
+    "sg:website":"www.lacaixa.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863631,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HQ8Beqw1cBHWr5ZeLpDDa_40.428345_-3.540914@1306269454"
+    },
+    "wof:country":"ES",
+    "wof:created":1472536941,
+    "wof:geomhash":"e406350bc863087f419e9e576693e251",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863631,
+            "region_id":85682783,
+            "venue_id":991205621
+        }
+    ],
+    "wof:id":991205621,
+    "wof:lastmodified":1472536941,
+    "wof:name":"Caixa D'estalvis I Pensions De Barcelona",
+    "wof:parent_id":85863631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5409140587,
+    40.4283447266,
+    -3.5409140587,
+    40.4283447266
+],
+  "geometry": {"coordinates":[-3.5409140587,40.4283447266],"type":"Point"}
+}

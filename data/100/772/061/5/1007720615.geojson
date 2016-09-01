@@ -1,0 +1,59 @@
+{
+  "id": 1007720615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.3041849136,41.4775390625,2.3041849136,41.4775390625",
+    "geom:latitude":41.477539,
+    "geom:longitude":2.304185,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Josep Pla, 3",
+    "sg:city":"Masnou",
+    "sg:classifiers":[],
+    "sg:orig_category":"Congelados: Productos Alimentarios (fabricaci\u00d3n, Al Por Mayor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 935 40 12 20",
+    "sg:postcode":"08320",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799485,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qLxciTrb6wsH7Efw7VhW5_41.477539_2.304185@1306269559"
+    },
+    "wof:country":"ES",
+    "wof:created":1472581997,
+    "wof:geomhash":"f81a18749ba435c46c36a87e8f0b2ee9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799485,
+            "region_id":85682663,
+            "venue_id":1007720615
+        }
+    ],
+    "wof:id":1007720615,
+    "wof:lastmodified":1472581997,
+    "wof:name":"Jara Gomez Romualdo",
+    "wof:parent_id":85799485,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.3041849136,
+    41.4775390625,
+    2.3041849136,
+    41.4775390625
+],
+  "geometry": {"coordinates":[2.3041849136,41.4775390625],"type":"Point"}
+}

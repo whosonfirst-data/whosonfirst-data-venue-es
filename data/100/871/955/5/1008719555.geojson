@@ -1,0 +1,67 @@
+{
+  "id": 1008719555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1704850197,41.3757362366,2.1704850197,41.3757362366",
+    "geom:latitude":41.375736,
+    "geom:longitude":2.170485,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Nou De La Rambla, 94",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Estancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 41 11 68",
+    "sg:postcode":"08001",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864035,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZvW7MdM68mdHLvW05C6rW_41.375736_2.170485@1306269691"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639417,
+    "wof:geomhash":"bd43dd5d287ee5f30d77cad748ad9603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864035,
+            "region_id":85682663,
+            "venue_id":1008719555
+        }
+    ],
+    "wof:id":1008719555,
+    "wof:lastmodified":1472639417,
+    "wof:name":"Vicente Abadia Concepcion",
+    "wof:parent_id":85864035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1704850197,
+    41.3757362366,
+    2.1704850197,
+    41.3757362366
+],
+  "geometry": {"coordinates":[2.1704850197,41.3757362366],"type":"Point"}
+}

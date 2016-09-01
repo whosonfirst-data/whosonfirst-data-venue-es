@@ -1,0 +1,64 @@
+{
+  "id": 1007735441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7279450893,40.3122291565,-3.7279450893,40.3122291565",
+    "geom:latitude":40.312229,
+    "geom:longitude":-3.727945,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Madrid, 111",
+    "sg:city":"Getafe",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 82 53 11",
+    "sg:postcode":"28902",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Smz79BaUNic4WQFVMVvnX_40.312229_-3.727945@1306269561"
+    },
+    "wof:country":"ES",
+    "wof:created":1472582821,
+    "wof:geomhash":"e4328721dc512b25b9f3cc3e852b1c5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1007735441
+        }
+    ],
+    "wof:id":1007735441,
+    "wof:lastmodified":1472582821,
+    "wof:name":"Jimenez Vinagre Juan Manuel",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7279450893,
+    40.3122291565,
+    -3.7279450893,
+    40.3122291565
+],
+  "geometry": {"coordinates":[-3.7279450893,40.3122291565],"type":"Point"}
+}

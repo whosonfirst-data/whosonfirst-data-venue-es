@@ -1,0 +1,59 @@
+{
+  "id": 1008452651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7188339233,40.3141860962,-3.7188339233,40.3141860962",
+    "geom:latitude":40.314186,
+    "geom:longitude":-3.718834,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Valencia, S/n",
+    "sg:city":"Getafe",
+    "sg:classifiers":[],
+    "sg:orig_category":"Poller\u00cda Y Caza (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 95 87 97",
+    "sg:postcode":"28903",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wGgy2kwARmSNOr5I8MZpf_40.314186_-3.718834@1306269656"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628038,
+    "wof:geomhash":"84eefb0141a91648dab5c881f0a10959",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1008452651
+        }
+    ],
+    "wof:id":1008452651,
+    "wof:lastmodified":1472628038,
+    "wof:name":"Sanchez Gonzalez Juana",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7188339233,
+    40.3141860962,
+    -3.7188339233,
+    40.3141860962
+],
+  "geometry": {"coordinates":[-3.7188339233,40.3141860962],"type":"Point"}
+}

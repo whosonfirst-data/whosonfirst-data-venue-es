@@ -1,0 +1,85 @@
+{
+  "id": 991613809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6914100647,40.4507675171,-3.6914100647,40.4507675171",
+    "geom:latitude":40.450768,
+    "geom:longitude":-3.69141,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pase Castellana, 93",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 17 46 20",
+    "sg:postcode":"28046",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "cemento",
+        "y",
+        "de",
+        "fabricaci\u00d3n",
+        "cal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863621,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3guMozRYALZql3gvTuUzC2_40.450768_-3.691410@1306269509"
+    },
+    "wof:country":"ES",
+    "wof:created":1472560243,
+    "wof:geomhash":"1a95284d7bc23cf70d6a2380f94afbe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863621,
+            "region_id":85682783,
+            "venue_id":991613809
+        }
+    ],
+    "wof:id":991613809,
+    "wof:lastmodified":1472560243,
+    "wof:name":"Exportadora Espa\u00d1ola Cementos Portland S.a.",
+    "wof:parent_id":85863621,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemento",
+        "y",
+        "de",
+        "fabricaci\u00d3n",
+        "cal"
+    ]
+},
+  "bbox": [
+    -3.6914100647,
+    40.4507675171,
+    -3.6914100647,
+    40.4507675171
+],
+  "geometry": {"coordinates":[-3.6914100647,40.4507675171],"type":"Point"}
+}

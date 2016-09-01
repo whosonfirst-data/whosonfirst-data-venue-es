@@ -1,0 +1,63 @@
+{
+  "id": 1007910465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1892559528,41.3788032532,2.1892559528,41.3788032532",
+    "geom:latitude":41.378803,
+    "geom:longitude":2.189256,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Baluard, 66",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Caf\u00c9s, Bares, Cervecer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 21 40 10",
+    "sg:postcode":"08003",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FhEIL7VRJhjFIFnBUDTKm_41.378803_2.189256@1306269583"
+    },
+    "wof:country":"ES",
+    "wof:created":1472591338,
+    "wof:geomhash":"904eeba4c62c64e3ee3aaae15abfae9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":1007910465
+        }
+    ],
+    "wof:id":1007910465,
+    "wof:lastmodified":1472591338,
+    "wof:name":"Marques Vicente Consuelo",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1892559528,
+    41.3788032532,
+    2.1892559528,
+    41.3788032532
+],
+  "geometry": {"coordinates":[2.1892559528,41.3788032532],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1008040391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5702180862,40.4243507385,-3.5702180862,40.4243507385",
+    "geom:latitude":40.424351,
+    "geom:longitude":-3.570218,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Unamuno, 4",
+    "sg:city":"Coslada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Empresas De Carpinter\u00cda Met\u00c1lica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 71 17 61",
+    "sg:postcode":"28820",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863629,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4k7g8oX1KWtGheq8mM6TYE_40.424351_-3.570218@1306269600"
+    },
+    "wof:country":"ES",
+    "wof:created":1472596918,
+    "wof:geomhash":"a6632fbd2c57c488879d7486cb30480b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863629,
+            "region_id":85682783,
+            "venue_id":1008040391
+        }
+    ],
+    "wof:id":1008040391,
+    "wof:lastmodified":1472596918,
+    "wof:name":"Morato Garcia Jesus",
+    "wof:parent_id":85863629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5702180862,
+    40.4243507385,
+    -3.5702180862,
+    40.4243507385
+],
+  "geometry": {"coordinates":[-3.5702180862,40.4243507385],"type":"Point"}
+}

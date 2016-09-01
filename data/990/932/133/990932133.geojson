@@ -1,0 +1,81 @@
+{
+  "id": 990932133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1284809113,41.3728256226,2.1284809113,41.3728256226",
+    "geom:latitude":41.372826,
+    "geom:longitude":2.128481,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Bacardi, 43",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 22 05 31",
+    "sg:postcode":"08028",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799597,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MsAaEGiaII9GsKTEYFXD4_41.372826_2.128481@1306269418"
+    },
+    "wof:country":"ES",
+    "wof:created":1472511413,
+    "wof:geomhash":"e01b7de914f4c689a59d195ee2c23768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799597,
+            "region_id":85682663,
+            "venue_id":990932133
+        }
+    ],
+    "wof:id":990932133,
+    "wof:lastmodified":1472511413,
+    "wof:name":"Alfonso Alvarez Jose",
+    "wof:parent_id":85799597,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.1284809113,
+    41.3728256226,
+    2.1284809113,
+    41.3728256226
+],
+  "geometry": {"coordinates":[2.1284809113,41.3728256226],"type":"Point"}
+}

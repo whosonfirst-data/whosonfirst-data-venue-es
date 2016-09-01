@@ -1,0 +1,66 @@
+{
+  "id": 1008159351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9115169048,43.2469367981,-2.9115169048,43.2469367981",
+    "geom:latitude":43.246937,
+    "geom:longitude":-2.911517,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Miraflores, 83",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reposter\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 11 41 78",
+    "sg:postcode":"48004",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799203,
+        85682879,
+        85799199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bccQj1oyIwLAY8klu8dHB_43.246937_-2.911517@1306269616"
+    },
+    "wof:country":"ES",
+    "wof:created":1472602619,
+    "wof:geomhash":"ba3d9fa7a40e42e7b2ebc030dccea367",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799203,
+            "region_id":85682879,
+            "venue_id":1008159351
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799199,
+            "region_id":85682879,
+            "venue_id":1008159351
+        }
+    ],
+    "wof:id":1008159351,
+    "wof:lastmodified":1472602619,
+    "wof:name":"Panaderia Maria Dolores Gonzalez",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9115169048,
+    43.2469367981,
+    -2.9115169048,
+    43.2469367981
+],
+  "geometry": {"coordinates":[-2.9115169048,43.2469367981],"type":"Point"}
+}

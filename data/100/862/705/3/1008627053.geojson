@@ -1,0 +1,78 @@
+{
+  "id": 1008627053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1705861092,41.3750038147,2.1705861092,41.3750038147",
+    "geom:latitude":41.375004,
+    "geom:longitude":2.170586,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Paral.lel, 56",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Papeler\u00cdas, Librer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 42 74 38",
+    "sg:postcode":"08001",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864037,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3trBs5hUn7LktE694aHHJa_41.375004_2.170586@1306269679"
+    },
+    "wof:country":"ES",
+    "wof:created":1472635431,
+    "wof:geomhash":"2beb39bdb4ba6c7975748c26b3cbb0fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864037,
+            "region_id":85682663,
+            "venue_id":1008627053
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864035,
+            "region_id":85682663,
+            "venue_id":1008627053
+        }
+    ],
+    "wof:id":1008627053,
+    "wof:lastmodified":1472635431,
+    "wof:name":"Toda Yudici Jordi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1705861092,
+    41.3750038147,
+    2.1705861092,
+    41.3750038147
+],
+  "geometry": {"coordinates":[2.1705861092,41.3750038147],"type":"Point"}
+}

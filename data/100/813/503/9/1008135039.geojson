@@ -1,0 +1,67 @@
+{
+  "id": 1008135039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6799390316,40.4405708313,-3.6799390316,40.4405708313",
+    "geom:latitude":40.440571,
+    "geom:longitude":-3.679939,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Lopez De Hoyos, 60",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 62 09 06",
+    "sg:postcode":"28002",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863673,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NDRO4NCI1eH7n24Lr3mgW_40.440571_-3.679939@1306269613"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601171,
+    "wof:geomhash":"e1c1c7b378c7ba92db33a84433c16b51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863673,
+            "region_id":85682783,
+            "venue_id":1008135039
+        }
+    ],
+    "wof:id":1008135039,
+    "wof:lastmodified":1472601171,
+    "wof:name":"Ortega Blanco Fernando",
+    "wof:parent_id":85863673,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6799390316,
+    40.4405708313,
+    -3.6799390316,
+    40.4405708313
+],
+  "geometry": {"coordinates":[-3.6799390316,40.4405708313],"type":"Point"}
+}

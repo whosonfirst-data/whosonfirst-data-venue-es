@@ -1,0 +1,67 @@
+{
+  "id": 1008120323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1632559299,41.4337882996,2.1632559299,41.4337882996",
+    "geom:latitude":41.433788,
+    "geom:longitude":2.163256,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pg Fabra I Puig, 383",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 74 93 63",
+    "sg:postcode":"08031",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799399,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6blWtXWk0u7GJZYH7V9oiG_41.433788_2.163256@1306269611"
+    },
+    "wof:country":"ES",
+    "wof:created":1472600401,
+    "wof:geomhash":"65f141a4770fa6f7c7dbfd08ed0027c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799399,
+            "region_id":85682663,
+            "venue_id":1008120323
+        }
+    ],
+    "wof:id":1008120323,
+    "wof:lastmodified":1472600401,
+    "wof:name":"Oliva Duran Juan",
+    "wof:parent_id":85799399,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1632559299,
+    41.4337882996,
+    2.1632559299,
+    41.4337882996
+],
+  "geometry": {"coordinates":[2.1632559299,41.4337882996],"type":"Point"}
+}

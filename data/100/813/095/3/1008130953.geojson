@@ -1,0 +1,59 @@
+{
+  "id": 1008130953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8625869751,40.4723510742,-3.8625869751,40.4723510742",
+    "geom:latitude":40.472351,
+    "geom:longitude":-3.862587,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Claveles, 31",
+    "sg:city":"Majadahonda",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cl\u00cdnicas M\u00c9dicas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 34 38 73",
+    "sg:postcode":"28220",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863657,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zyA8bPVVyRSWo7jyTcxAB_40.472351_-3.862587@1306269612"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601002,
+    "wof:geomhash":"d1980daa62ee75cef4abbacb963d4aa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863657,
+            "region_id":85682783,
+            "venue_id":1008130953
+        }
+    ],
+    "wof:id":1008130953,
+    "wof:lastmodified":1472601002,
+    "wof:name":"Orengo Garcia Francisco",
+    "wof:parent_id":85863657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8625869751,
+    40.4723510742,
+    -3.8625869751,
+    40.4723510742
+],
+  "geometry": {"coordinates":[-3.8625869751,40.4723510742],"type":"Point"}
+}

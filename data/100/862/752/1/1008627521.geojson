@@ -1,0 +1,59 @@
+{
+  "id": 1008627521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6338570118,40.5552024841,-3.6338570118,40.5552024841",
+    "geom:latitude":40.555202,
+    "geom:longitude":-3.633857,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Euzkadi (de), S/n",
+    "sg:city":"San Sebastian De Los Reyes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 53 16 28",
+    "sg:postcode":"28700",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fJWngkq0lSKXlDNx3DhzO_40.555202_-3.633857@1306269679"
+    },
+    "wof:country":"ES",
+    "wof:created":1472635453,
+    "wof:geomhash":"7bd5a8df99ce35e5215b927229e05275",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1008627521
+        }
+    ],
+    "wof:id":1008627521,
+    "wof:lastmodified":1472635453,
+    "wof:name":"Todymas S.a.",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6338570118,
+    40.5552024841,
+    -3.6338570118,
+    40.5552024841
+],
+  "geometry": {"coordinates":[-3.6338570118,40.5552024841],"type":"Point"}
+}

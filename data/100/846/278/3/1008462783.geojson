@@ -1,0 +1,59 @@
+{
+  "id": 1008462783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8290905952,40.3497238159,-3.8290905952,40.3497238159",
+    "geom:latitude":40.349724,
+    "geom:longitude":-3.829091,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Cid (del), 3",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Empresas De Carpinter\u00cda",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 42 62 85",
+    "sg:postcode":"28921",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SAx4Edejm8HX49idhce9e_40.349724_-3.829091@1306269657"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628424,
+    "wof:geomhash":"1d3d8e41c0e89ce197260f623cff77d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008462783
+        }
+    ],
+    "wof:id":1008462783,
+    "wof:lastmodified":1472628424,
+    "wof:name":"Sanchez Tello Inocencia",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8290905952,
+    40.3497238159,
+    -3.8290905952,
+    40.3497238159
+],
+  "geometry": {"coordinates":[-3.8290905952,40.3497238159],"type":"Point"}
+}

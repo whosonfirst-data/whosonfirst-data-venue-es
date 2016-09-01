@@ -1,0 +1,67 @@
+{
+  "id": 1007885119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2134830952,41.4569892883,2.2134830952,41.4569892883",
+    "geom:latitude":41.456989,
+    "geom:longitude":2.213483,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Lincoln, 8",
+    "sg:city":"Santa Coloma De Gramenet",
+    "sg:classifiers":[],
+    "sg:orig_category":"Planchado",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 91 60 26",
+    "sg:postcode":"08921",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799517,
+        102191581,
+        404331425,
+        85633129,
+        404227379,
+        101748345,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uZgxSdZi7kwaU18SIX8et_41.456989_2.213483@1306269580"
+    },
+    "wof:country":"ES",
+    "wof:created":1472590279,
+    "wof:geomhash":"5e74643edb24881eb417b586ab3df6a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331425,
+            "locality_id":101748345,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799517,
+            "region_id":85682663,
+            "venue_id":1007885119
+        }
+    ],
+    "wof:id":1007885119,
+    "wof:lastmodified":1472590279,
+    "wof:name":"Manufacturas Quino S.l.",
+    "wof:parent_id":85799517,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2134830952,
+    41.4569892883,
+    2.2134830952,
+    41.4569892883
+],
+  "geometry": {"coordinates":[2.2134830952,41.4569892883],"type":"Point"}
+}

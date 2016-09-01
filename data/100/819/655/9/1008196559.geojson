@@ -1,0 +1,81 @@
+{
+  "id": 1008196559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6373450756,39.5713996887,2.6373450756,39.5713996887",
+    "geom:latitude":39.5714,
+    "geom:longitude":2.637345,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Dameto, 6",
+    "sg:city":"Palma",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 73 38 02",
+    "sg:postcode":"07013",
+    "sg:province":"Islas Baleares",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864117,
+        102191581,
+        404330817,
+        85633129,
+        404227367,
+        101748237,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Gdg4XVsMJQeQzgxmqQCvQ_39.571400_2.637345@1306269621"
+    },
+    "wof:country":"ES",
+    "wof:created":1472608762,
+    "wof:geomhash":"e81188d6e587b9f5819f935d5231e34c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864117,
+            "region_id":85682647,
+            "venue_id":1008196559
+        }
+    ],
+    "wof:id":1008196559,
+    "wof:lastmodified":1472608762,
+    "wof:name":"Pegaca S.a.",
+    "wof:parent_id":85864117,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [
+    2.6373450756,
+    39.5713996887,
+    2.6373450756,
+    39.5713996887
+],
+  "geometry": {"coordinates":[2.6373450756,39.5713996887],"type":"Point"}
+}

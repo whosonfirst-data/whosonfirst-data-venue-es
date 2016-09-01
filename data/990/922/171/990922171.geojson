@@ -1,0 +1,81 @@
+{
+  "id": 990922171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4891720116,38.3616523743,-0.4891720116,38.3616523743",
+    "geom:latitude":38.361652,
+    "geom:longitude":-0.489172,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Francisco Carratala Cern., 28",
+    "sg:city":"Alacant",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 24 30 32",
+    "sg:postcode":"03010",
+    "sg:province":"Alicante",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864083,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49ZRP4WJZC9zqdcGJbkel3_38.361652_-0.489172@1306269417"
+    },
+    "wof:country":"ES",
+    "wof:created":1472510648,
+    "wof:geomhash":"50e74b8497dd3d17aab0d949eae9c624",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864083,
+            "region_id":85682625,
+            "venue_id":990922171
+        }
+    ],
+    "wof:id":990922171,
+    "wof:lastmodified":1472510648,
+    "wof:name":"Albert Sistach Monserrat",
+    "wof:parent_id":85864083,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    -0.4891720116,
+    38.3616523743,
+    -0.4891720116,
+    38.3616523743
+],
+  "geometry": {"coordinates":[-0.4891720116,38.3616523743],"type":"Point"}
+}

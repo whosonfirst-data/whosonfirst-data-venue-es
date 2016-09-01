@@ -1,0 +1,67 @@
+{
+  "id": 1008546815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1837410927,41.4065093994,2.1837410927,41.4065093994",
+    "geom:latitude":41.406509,
+    "geom:longitude":2.183741,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Arago, 537",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 32 00 56",
+    "sg:postcode":"08026",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799265,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0c9CikFxvH0iBGwfB3Jl4a_41.406509_2.183741@1306269668"
+    },
+    "wof:country":"ES",
+    "wof:created":1472631970,
+    "wof:geomhash":"0f83238b71110a81c1bfcb635ef4e91d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799265,
+            "region_id":85682663,
+            "venue_id":1008546815
+        }
+    ],
+    "wof:id":1008546815,
+    "wof:lastmodified":1472631970,
+    "wof:name":"Soler Aragones Monserrat",
+    "wof:parent_id":85799265,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1837410927,
+    41.4065093994,
+    2.1837410927,
+    41.4065093994
+],
+  "geometry": {"coordinates":[2.1837410927,41.4065093994],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1007696999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1773519516,41.3841018677,2.1773519516,41.3841018677",
+    "geom:latitude":41.384102,
+    "geom:longitude":2.177352,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pl Rei, S/n",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Museos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 15 11 11",
+    "sg:postcode":"08002",
+    "sg:province":"Barcelona",
+    "sg:website":"www.museuhistoria.bcn.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799447,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IKMi1entAnRSEvmH0ld9d_41.384102_2.177352@1306269556"
+    },
+    "wof:country":"ES",
+    "wof:created":1472580817,
+    "wof:geomhash":"3c3316d3c3cfd5fc8e3a160904af7d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799447,
+            "region_id":85682663,
+            "venue_id":1007696999
+        }
+    ],
+    "wof:id":1007696999,
+    "wof:lastmodified":1472580817,
+    "wof:name":"Institut De Cultura De Barcelona",
+    "wof:parent_id":85799447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1773519516,
+    41.3841018677,
+    2.1773519516,
+    41.3841018677
+],
+  "geometry": {"coordinates":[2.1773519516,41.3841018677],"type":"Point"}
+}

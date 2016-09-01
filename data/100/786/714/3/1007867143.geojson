@@ -1,0 +1,60 @@
+{
+  "id": 1007867143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7702815533,40.2794647217,-3.7702815533,40.2794647217",
+    "geom:latitude":40.279465,
+    "geom:longitude":-3.770282,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Constitucion (de La), 77",
+    "sg:city":"Fuenlabrada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Negocio De Madera",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 06 11 11",
+    "sg:postcode":"28946",
+    "sg:province":"Madrid",
+    "sg:website":"www.maderasmedina.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Y3F4GDDzJttYvFXmP83ED_40.279465_-3.770282@1306269578"
+    },
+    "wof:country":"ES",
+    "wof:created":1472589534,
+    "wof:geomhash":"64a92a5e9c277de0391bbca8eb16df4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1007867143
+        }
+    ],
+    "wof:id":1007867143,
+    "wof:lastmodified":1472589534,
+    "wof:name":"Maderas Medina S. A.",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7702815533,
+    40.2794647217,
+    -3.7702815533,
+    40.2794647217
+],
+  "geometry": {"coordinates":[-3.7702815533,40.2794647217],"type":"Point"}
+}

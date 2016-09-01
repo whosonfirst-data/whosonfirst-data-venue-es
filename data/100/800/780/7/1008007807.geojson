@@ -1,0 +1,67 @@
+{
+  "id": 1008007807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.0042772293,37.3758087158,-6.0042772293,37.3758087158",
+    "geom:latitude":37.375809,
+    "geom:longitude":-6.004277,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Niebla, 41",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 45 85 07",
+    "sg:postcode":"41011",
+    "sg:province":"Sevilla",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864127,
+        102191581,
+        404342947,
+        85633129,
+        404227361,
+        101748225,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ia7PmiEMHisw1pt0L55Kl_37.375809_-6.004277@1306269596"
+    },
+    "wof:country":"ES",
+    "wof:created":1472595530,
+    "wof:geomhash":"e546c8fb806f0ca13d3aa7d1679a18f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864127,
+            "region_id":85682841,
+            "venue_id":1008007807
+        }
+    ],
+    "wof:id":1008007807,
+    "wof:lastmodified":1472595530,
+    "wof:name":"Miron Yanes Jesus",
+    "wof:parent_id":85864127,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.0042772293,
+    37.3758087158,
+    -6.0042772293,
+    37.3758087158
+],
+  "geometry": {"coordinates":[-6.0042772293,37.3758087158],"type":"Point"}
+}

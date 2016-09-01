@@ -1,0 +1,81 @@
+{
+  "id": 1007882807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9956803322,37.3967247009,-5.9956803322,37.3967247009",
+    "geom:latitude":37.396725,
+    "geom:longitude":-5.99568,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Conde De Barajas, 21",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 90 58 26",
+    "sg:postcode":"41002",
+    "sg:province":"Sevilla",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864155,
+        102191581,
+        404342947,
+        85633129,
+        404227361,
+        101748225,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2woytuha9PB87fppQTxttl_37.396725_-5.995680@1306269580"
+    },
+    "wof:country":"ES",
+    "wof:created":1472590180,
+    "wof:geomhash":"033b174411d9e0accdd9ce32a52391aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864155,
+            "region_id":85682841,
+            "venue_id":1007882807
+        }
+    ],
+    "wof:id":1007882807,
+    "wof:lastmodified":1472590180,
+    "wof:name":"Manuela Talaverano S.c",
+    "wof:parent_id":85864155,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    -5.9956803322,
+    37.3967247009,
+    -5.9956803322,
+    37.3967247009
+],
+  "geometry": {"coordinates":[-5.9956803322,37.3967247009],"type":"Point"}
+}

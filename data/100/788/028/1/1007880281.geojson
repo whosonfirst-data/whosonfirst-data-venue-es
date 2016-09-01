@@ -1,0 +1,59 @@
+{
+  "id": 1007880281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.8249969482,41.7251853943,1.8249969482,41.7251853943",
+    "geom:latitude":41.725185,
+    "geom:longitude":1.824997,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Muralla Del Carme, 15",
+    "sg:city":"Manresa",
+    "sg:classifiers":[],
+    "sg:orig_category":"Caf\u00c9s, Bares, Cervecer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 938 72 43 09",
+    "sg:postcode":"08241",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ogK6AE4QvNDBF7FMKp99w_41.725185_1.824997@1306269580"
+    },
+    "wof:country":"ES",
+    "wof:created":1472590088,
+    "wof:geomhash":"5e4ffec39a80e7603332e4ac03da1302",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1007880281
+        }
+    ],
+    "wof:id":1007880281,
+    "wof:lastmodified":1472590088,
+    "wof:name":"Manresa Esportiu Basquet",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.8249969482,
+    41.7251853943,
+    1.8249969482,
+    41.7251853943
+],
+  "geometry": {"coordinates":[1.8249969482,41.7251853943],"type":"Point"}
+}

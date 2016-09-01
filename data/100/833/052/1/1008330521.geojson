@@ -1,0 +1,59 @@
+{
+  "id": 1008330521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8322319984,40.3460426331,-3.8322319984,40.3460426331",
+    "geom:latitude":40.346043,
+    "geom:longitude":-3.832232,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Infantas, 12",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Comerciantes Al Por Mayor De Vinos, Licores Y Alcoholes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 43 62 65",
+    "sg:postcode":"28922",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Egd2VrTwlMJmgP6PGxKzs_40.346043_-3.832232@1306269639"
+    },
+    "wof:country":"ES",
+    "wof:created":1472622635,
+    "wof:geomhash":"9cd6fdc51e4218d15efea47fc4b4a896",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008330521
+        }
+    ],
+    "wof:id":1008330521,
+    "wof:lastmodified":1472622635,
+    "wof:name":"Redondo Gomez Rafael",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8322319984,
+    40.3460426331,
+    -3.8322319984,
+    40.3460426331
+],
+  "geometry": {"coordinates":[-3.8322319984,40.3460426331],"type":"Point"}
+}

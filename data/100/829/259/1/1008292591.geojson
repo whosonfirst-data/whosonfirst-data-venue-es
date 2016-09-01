@@ -1,0 +1,59 @@
+{
+  "id": 1008292591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1907029152,41.3940734863,2.1907029152,41.3940734863",
+    "geom:latitude":41.394073,
+    "geom:longitude":2.190703,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Pujades, 50",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electricidad, Electr\u00d3nica: Material Y Suministros (al Por Mayor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 09 79 85",
+    "sg:postcode":"08005",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5d9UPjmZHDqjLnlDEuWfXN_41.394073_2.190703@1306269634"
+    },
+    "wof:country":"ES",
+    "wof:created":1472618419,
+    "wof:geomhash":"21ba6738ac529a406aa23276c2a8c04b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008292591
+        }
+    ],
+    "wof:id":1008292591,
+    "wof:lastmodified":1472618419,
+    "wof:name":"Puente Xirau Juan Ignacio",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1907029152,
+    41.3940734863,
+    2.1907029152,
+    41.3940734863
+],
+  "geometry": {"coordinates":[2.1907029152,41.3940734863],"type":"Point"}
+}

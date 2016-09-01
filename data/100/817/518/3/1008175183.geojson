@@ -1,0 +1,59 @@
+{
+  "id": 1008175183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6323900223,40.5409355164,-3.6323900223,40.5409355164",
+    "geom:latitude":40.540936,
+    "geom:longitude":-3.63239,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Felipe Alvarez Gadea (de), 2",
+    "sg:city":"Alcobendas",
+    "sg:classifiers":[],
+    "sg:orig_category":"Iglesia Cat\u00d3lica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 52 12 02",
+    "sg:postcode":"28100",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31QVO8GmOjae4SaXFS05oI_40.540936_-3.632390@1306269618"
+    },
+    "wof:country":"ES",
+    "wof:created":1472604615,
+    "wof:geomhash":"a6fcd8e902575a8401a1873f6103e51e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1008175183
+        }
+    ],
+    "wof:id":1008175183,
+    "wof:lastmodified":1472604615,
+    "wof:name":"Parroquia De San Pedro Apostol",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6323900223,
+    40.5409355164,
+    -3.6323900223,
+    40.5409355164
+],
+  "geometry": {"coordinates":[-3.6323900223,40.5409355164],"type":"Point"}
+}

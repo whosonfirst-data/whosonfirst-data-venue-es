@@ -1,0 +1,81 @@
+{
+  "id": 991286529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7064609528,40.4099082947,-3.7064609528,40.4099082947",
+    "geom:latitude":40.409908,
+    "geom:longitude":-3.706461,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Embajadores, 14",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 39 89 04",
+    "sg:postcode":"28012",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "mercado",
+        "de",
+        "estudios"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863793,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kdHdTfe740LBxitSepfx5_40.409908_-3.706461@1306269465"
+    },
+    "wof:country":"ES",
+    "wof:created":1472542044,
+    "wof:geomhash":"b8c273ce06afd94e8ae25a739cd0414f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863793,
+            "region_id":85682783,
+            "venue_id":991286529
+        }
+    ],
+    "wof:id":991286529,
+    "wof:lastmodified":1472542044,
+    "wof:name":"Casco Martin Pablo Jose",
+    "wof:parent_id":85863793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mercado",
+        "de",
+        "estudios"
+    ]
+},
+  "bbox": [
+    -3.7064609528,
+    40.4099082947,
+    -3.7064609528,
+    40.4099082947
+],
+  "geometry": {"coordinates":[-3.7064609528,40.4099082947],"type":"Point"}
+}

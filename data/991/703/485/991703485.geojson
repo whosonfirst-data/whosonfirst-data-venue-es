@@ -1,0 +1,59 @@
+{
+  "id": 991703485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5243890285,40.4208946228,-3.5243890285,40.4208946228",
+    "geom:latitude":40.420895,
+    "geom:longitude":-3.524389,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Somorrostro (del), S/n",
+    "sg:city":"San Fernando De Henares",
+    "sg:classifiers":[],
+    "sg:orig_category":"Librer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 69 77 49",
+    "sg:postcode":"28830",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863709,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lidhmtU5KGfanHHVSp1Pa_40.420895_-3.524389@1306269521"
+    },
+    "wof:country":"ES",
+    "wof:created":1472565616,
+    "wof:geomhash":"dcf192a3ed2398f37b6ec98f734a1f1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863709,
+            "region_id":85682783,
+            "venue_id":991703485
+        }
+    ],
+    "wof:id":991703485,
+    "wof:lastmodified":1472565616,
+    "wof:name":"Fuentes Oca\u00f1a Esperanza",
+    "wof:parent_id":85863709,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5243890285,
+    40.4208946228,
+    -3.5243890285,
+    40.4208946228
+],
+  "geometry": {"coordinates":[-3.5243890285,40.4208946228],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 1007966801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5603969097,40.444896698,-3.5603969097,40.444896698",
+    "geom:latitude":40.444897,
+    "geom:longitude":-3.560397,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Mario Roso De Luna, 31",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mensajer\u00cda Express, Portes Internacionales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 12 02 50",
+    "sg:postcode":"28022",
+    "sg:province":"Madrid",
+    "sg:website":"www.mdl.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863629,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65ozGZmQKyGQ35HViDz2BM_40.444897_-3.560397@1306269591"
+    },
+    "wof:country":"ES",
+    "wof:created":1472593825,
+    "wof:geomhash":"8fad2f2f76c2b6d124296af9016dd5eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863629,
+            "region_id":85682783,
+            "venue_id":1007966801
+        }
+    ],
+    "wof:id":1007966801,
+    "wof:lastmodified":1472593825,
+    "wof:name":"M.d.l. Distribucion Logistica S.a.",
+    "wof:parent_id":85863629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5603969097,
+    40.444896698,
+    -3.5603969097,
+    40.444896698
+],
+  "geometry": {"coordinates":[-3.5603969097,40.444896698],"type":"Point"}
+}

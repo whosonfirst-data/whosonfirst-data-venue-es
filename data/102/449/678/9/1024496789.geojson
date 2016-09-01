@@ -1,0 +1,90 @@
+{
+  "id": 1024496789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6845894,40.458178,-3.6845894,40.458178",
+    "geom:latitude":40.458178,
+    "geom:longitude":-3.684589,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Alberto Alcocer 24",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"28036",
+    "sg:tags":[
+        "website-builder",
+        "make-a-website",
+        "make-your-own-website",
+        "site-builder",
+        "web-site-builder",
+        "create-a-website",
+        "build-a-website",
+        "small-business-website"
+    ],
+    "sg:website":"http://www.WebPiston.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799237,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZsJGrh85rbDbaaga1VnuV_40.458178_-3.684589@1308163241"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641482,
+    "wof:geomhash":"fcbab7cfdc44bea1cb916acc52f4a04f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799237,
+            "region_id":85682783,
+            "venue_id":1024496789
+        }
+    ],
+    "wof:id":1024496789,
+    "wof:lastmodified":1472641482,
+    "wof:name":"Web Piston",
+    "wof:parent_id":85799237,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "website-builder",
+        "make-a-website",
+        "make-your-own-website",
+        "site-builder",
+        "web-site-builder",
+        "create-a-website",
+        "build-a-website",
+        "small-business-website"
+    ]
+},
+  "bbox": [
+    -3.6845894,
+    40.458178,
+    -3.6845894,
+    40.458178
+],
+  "geometry": {"coordinates":[-3.6845894,40.458178],"type":"Point"}
+}

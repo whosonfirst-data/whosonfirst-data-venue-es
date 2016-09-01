@@ -1,0 +1,67 @@
+{
+  "id": 1008185253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.158536911,41.4103012085,2.158536911,41.4103012085",
+    "geom:latitude":41.410301,
+    "geom:longitude":2.158537,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de L'escorial, 164",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 10 76 41",
+    "sg:postcode":"08024",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863993,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BoqKHtpE7TNN4eF8aRjar_41.410301_2.158537@1306269620"
+    },
+    "wof:country":"ES",
+    "wof:created":1472606084,
+    "wof:geomhash":"9d83ba383d937ea00e9c2a3d8be498d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863993,
+            "region_id":85682663,
+            "venue_id":1008185253
+        }
+    ],
+    "wof:id":1008185253,
+    "wof:lastmodified":1472606084,
+    "wof:name":"Pascual Vivers Roger",
+    "wof:parent_id":85863993,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.158536911,
+    41.4103012085,
+    2.158536911,
+    41.4103012085
+],
+  "geometry": {"coordinates":[2.158536911,41.4103012085],"type":"Point"}
+}

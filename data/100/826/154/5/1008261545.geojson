@@ -1,0 +1,64 @@
+{
+  "id": 1008261545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8707323074,40.4738426208,-3.8707323074,40.4738426208",
+    "geom:latitude":40.473843,
+    "geom:longitude":-3.870732,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Doctor Calero, 34",
+    "sg:city":"Majadahonda",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 34 30 17",
+    "sg:postcode":"28220",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863657,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51OSssyVy0S8Rm0qDm4HO4_40.473843_-3.870732@1306269630"
+    },
+    "wof:country":"ES",
+    "wof:created":1472616595,
+    "wof:geomhash":"2e15b8715b955500473ddbaceb1afdcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863657,
+            "region_id":85682783,
+            "venue_id":1008261545
+        }
+    ],
+    "wof:id":1008261545,
+    "wof:lastmodified":1472616595,
+    "wof:name":"Porras Gutierrez Juan Manuel",
+    "wof:parent_id":85863657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8707323074,
+    40.4738426208,
+    -3.8707323074,
+    40.4738426208
+],
+  "geometry": {"coordinates":[-3.8707323074,40.4738426208],"type":"Point"}
+}

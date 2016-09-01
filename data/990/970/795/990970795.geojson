@@ -1,0 +1,59 @@
+{
+  "id": 990970795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8140234947,40.3488998413,-3.8140234947,40.3488998413",
+    "geom:latitude":40.3489,
+    "geom:longitude":-3.814023,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de General Davila, 25",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 19 23 84",
+    "sg:postcode":"28924",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62XHdrYe93KF6yHVnviHhN_40.348900_-3.814023@1306269423"
+    },
+    "wof:country":"ES",
+    "wof:created":1472516869,
+    "wof:geomhash":"a46a349cd5fdcd7a21a19e1d5cbf9894",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":990970795
+        }
+    ],
+    "wof:id":990970795,
+    "wof:lastmodified":1472516869,
+    "wof:name":"Andaluz Peque\u00f1o Nicasio",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8140234947,
+    40.3488998413,
+    -3.8140234947,
+    40.3488998413
+],
+  "geometry": {"coordinates":[-3.8140234947,40.3488998413],"type":"Point"}
+}

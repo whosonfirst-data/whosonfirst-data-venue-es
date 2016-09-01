@@ -1,0 +1,67 @@
+{
+  "id": 1007713373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7265160084,40.3947715759,-3.7265160084,40.3947715759",
+    "geom:latitude":40.394772,
+    "geom:longitude":-3.726516,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Jose Del Rio, 27",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electricidad: Instaladores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 71 89 27",
+    "sg:postcode":"28019",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863759,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GsoYn1MTLhvwtS6Ig75L8_40.394772_-3.726516@1306269558"
+    },
+    "wof:country":"ES",
+    "wof:created":1472581631,
+    "wof:geomhash":"468ec71a5c3013d40b7e00b702d175e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863759,
+            "region_id":85682783,
+            "venue_id":1007713373
+        }
+    ],
+    "wof:id":1007713373,
+    "wof:lastmodified":1472581631,
+    "wof:name":"Item S.a.",
+    "wof:parent_id":85863759,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7265160084,
+    40.3947715759,
+    -3.7265160084,
+    40.3947715759
+],
+  "geometry": {"coordinates":[-3.7265160084,40.3947715759],"type":"Point"}
+}

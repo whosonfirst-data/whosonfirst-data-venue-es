@@ -1,0 +1,81 @@
+{
+  "id": 991334821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7334749699,40.3875350952,-3.7334749699,40.3875350952",
+    "geom:latitude":40.387535,
+    "geom:longitude":-3.733475,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de General Ricardos, 170",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 25 15 71",
+    "sg:postcode":"28025",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799217,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2F5YwJWhHSdWzsO4pkTGLP_40.387535_-3.733475@1306269472"
+    },
+    "wof:country":"ES",
+    "wof:created":1472544280,
+    "wof:geomhash":"14b47730c2a1042cb22f24571822adcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799217,
+            "region_id":85682783,
+            "venue_id":991334821
+        }
+    ],
+    "wof:id":991334821,
+    "wof:lastmodified":1472544280,
+    "wof:name":"Chica Monje Manuel",
+    "wof:parent_id":85799217,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.7334749699,
+    40.3875350952,
+    -3.7334749699,
+    40.3875350952
+],
+  "geometry": {"coordinates":[-3.7334749699,40.3875350952],"type":"Point"}
+}

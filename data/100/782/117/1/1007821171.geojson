@@ -1,0 +1,59 @@
+{
+  "id": 1007821171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8266746998,40.3454704285,-3.8266746998,40.3454704285",
+    "geom:latitude":40.34547,
+    "geom:longitude":-3.826675,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Huerta (la), 1",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"\u00d3ptica: Instrumentos (fabricaci\u00d3n)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 43 58 30",
+    "sg:postcode":"28921",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HoT7i8xj7IKy3gREaMfv4_40.345470_-3.826675@1306269572"
+    },
+    "wof:country":"ES",
+    "wof:created":1472587351,
+    "wof:geomhash":"1d33f67dde55ed6cc786361eee90be4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1007821171
+        }
+    ],
+    "wof:id":1007821171,
+    "wof:lastmodified":1472587351,
+    "wof:name":"Lloret Navarro Francisco Antonio",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8266746998,
+    40.3454704285,
+    -3.8266746998,
+    40.3454704285
+],
+  "geometry": {"coordinates":[-3.8266746998,40.3454704285],"type":"Point"}
+}

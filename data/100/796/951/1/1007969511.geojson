@@ -1,0 +1,82 @@
+{
+  "id": 1007969511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.171200037,41.3885192871,2.171200037,41.3885192871",
+    "geom:latitude":41.388519,
+    "geom:longitude":2.1712,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rond Sant Pere, 11",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 17 23 07",
+    "sg:postcode":"08010",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ],
+    "sg:website":"www.tuelecciom.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799447,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ncDpLsbKZC4GJkbv8pU8x_41.388519_2.171200@1306269591"
+    },
+    "wof:country":"ES",
+    "wof:created":1472593937,
+    "wof:geomhash":"7d4eabba54c95cb1b8646b07c6c6d8f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799447,
+            "region_id":85682663,
+            "venue_id":1007969511
+        }
+    ],
+    "wof:id":1007969511,
+    "wof:lastmodified":1472593937,
+    "wof:name":"Mediaglow Slu S.l.u.",
+    "wof:parent_id":85799447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ]
+},
+  "bbox": [
+    2.171200037,
+    41.3885192871,
+    2.171200037,
+    41.3885192871
+],
+  "geometry": {"coordinates":[2.171200037,41.3885192871],"type":"Point"}
+}

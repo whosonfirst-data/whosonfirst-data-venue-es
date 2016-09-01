@@ -1,0 +1,68 @@
+{
+  "id": 1008711913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9803700447,37.3926124573,-5.9803700447,37.3926124573",
+    "geom:latitude":37.392612,
+    "geom:longitude":-5.98037,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Jose Laguillo, 20",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 53 12 20",
+    "sg:postcode":"41003",
+    "sg:province":"Sevilla",
+    "sg:website":"www.viajescrisol.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864155,
+        102191581,
+        404342947,
+        85633129,
+        404227361,
+        101748225,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6u6TDQvVpLdID0xd7k26Au_37.392612_-5.980370@1306269690"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639078,
+    "wof:geomhash":"a790c40c5896fb085da7d625c368cfc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864155,
+            "region_id":85682841,
+            "venue_id":1008711913
+        }
+    ],
+    "wof:id":1008711913,
+    "wof:lastmodified":1472639078,
+    "wof:name":"Viajes Crisol",
+    "wof:parent_id":85864155,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.9803700447,
+    37.3926124573,
+    -5.9803700447,
+    37.3926124573
+],
+  "geometry": {"coordinates":[-5.9803700447,37.3926124573],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 1008531145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.4635810852,40.4462776184,-3.4635810852,40.4462776184",
+    "geom:latitude":40.446278,
+    "geom:longitude":-3.463581,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pozo De Las Nieves, 22",
+    "sg:city":"Torrejon Ardoz",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aceros Inoxidables",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 76 71 36",
+    "sg:postcode":"28850",
+    "sg:province":"Madrid",
+    "sg:website":"www.rohso.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863709,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1P3xSfY438pWs7OZr0ZOF9_40.446278_-3.463581@1306269666"
+    },
+    "wof:country":"ES",
+    "wof:created":1472631304,
+    "wof:geomhash":"61b4a398da42f9c46c20ca586c59b739",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863709,
+            "region_id":85682783,
+            "venue_id":1008531145
+        }
+    ],
+    "wof:id":1008531145,
+    "wof:lastmodified":1472631304,
+    "wof:name":"Sistemas Rohso S. L.",
+    "wof:parent_id":85863709,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.4635810852,
+    40.4462776184,
+    -3.4635810852,
+    40.4462776184
+],
+  "geometry": {"coordinates":[-3.4635810852,40.4462776184],"type":"Point"}
+}

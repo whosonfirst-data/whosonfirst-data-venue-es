@@ -1,0 +1,92 @@
+{
+  "id": 991459605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6761100292,40.4386787415,-3.6761100292,40.4386787415",
+    "geom:latitude":40.438679,
+    "geom:longitude":-3.67611,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda America, 17",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 11 16 91",
+    "sg:postcode":"28002",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863673,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lHQYnMuubKGIUPf2NuD52_40.438679_-3.676110@1306269488"
+    },
+    "wof:country":"ES",
+    "wof:created":1472552226,
+    "wof:geomhash":"01cc70d0d1582af1cc6b05ea7740f45c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863673,
+            "region_id":85682783,
+            "venue_id":991459605
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863643,
+            "region_id":85682783,
+            "venue_id":991459605
+        }
+    ],
+    "wof:id":991459605,
+    "wof:lastmodified":1472552226,
+    "wof:name":"Cuadros Viosquez Ana Maria",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.6761100292,
+    40.4386787415,
+    -3.6761100292,
+    40.4386787415
+],
+  "geometry": {"coordinates":[-3.6761100292,40.4386787415],"type":"Point"}
+}

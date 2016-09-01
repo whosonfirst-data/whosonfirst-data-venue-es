@@ -1,0 +1,67 @@
+{
+  "id": 1007741611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.08096385,41.3781661987,2.08096385,41.3781661987",
+    "geom:latitude":41.378166,
+    "geom:longitude":2.080964,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Laurea Miro, 353",
+    "sg:city":"Esplugues Llobregat",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 71 41 61",
+    "sg:postcode":"08950",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799591,
+        102191581,
+        404331371,
+        85633129,
+        404227379,
+        101758753,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wFpGGJMMQ2KvKX4nPYhA5_41.378166_2.080964@1306269562"
+    },
+    "wof:country":"ES",
+    "wof:created":1472583210,
+    "wof:geomhash":"ef0b37c5e99b131852e11f27230d28e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331371,
+            "locality_id":101758753,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799591,
+            "region_id":85682663,
+            "venue_id":1007741611
+        }
+    ],
+    "wof:id":1007741611,
+    "wof:lastmodified":1472583210,
+    "wof:name":"Jortor",
+    "wof:parent_id":85799591,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.08096385,
+    41.3781661987,
+    2.08096385,
+    41.3781661987
+],
+  "geometry": {"coordinates":[2.08096385,41.3781661987],"type":"Point"}
+}

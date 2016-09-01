@@ -1,0 +1,78 @@
+{
+  "id": 991616417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8955039978,41.6409797668,-0.8955039978,41.6409797668",
+    "geom:latitude":41.64098,
+    "geom:longitude":-0.895504,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz San Francisco, 18",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fisioterapia",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 35 86 32",
+    "sg:postcode":"50006",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863365,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891,
+        85863377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yoxrdGLwUXv8HKxIzlEi0_41.640980_-0.895504@1306269509"
+    },
+    "wof:country":"ES",
+    "wof:created":1472560497,
+    "wof:geomhash":"31318ca0c35a4cfeb03f657303c8bb2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863365,
+            "region_id":85682891,
+            "venue_id":991616417
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863377,
+            "region_id":85682891,
+            "venue_id":991616417
+        }
+    ],
+    "wof:id":991616417,
+    "wof:lastmodified":1472560497,
+    "wof:name":"Fabregas Martinez Cristina",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8955039978,
+    41.6409797668,
+    -0.8955039978,
+    41.6409797668
+],
+  "geometry": {"coordinates":[-0.8955039978,41.6409797668],"type":"Point"}
+}

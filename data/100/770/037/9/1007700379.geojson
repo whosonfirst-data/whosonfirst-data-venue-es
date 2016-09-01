@@ -1,0 +1,67 @@
+{
+  "id": 1007700379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7730441093,40.4569969177,-3.7730441093,40.4569969177",
+    "geom:latitude":40.456997,
+    "geom:longitude":-3.773044,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Fuente Del Rey, 32",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Discapacitados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 40 02 03",
+    "sg:postcode":"28023",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799153,
+        102191581,
+        404338935,
+        85633129,
+        404227387,
+        101748291,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qQyTm2JQClIb34Ji2z4Z6_40.456997_-3.773044@1306269557"
+    },
+    "wof:country":"ES",
+    "wof:created":1472580994,
+    "wof:geomhash":"3c4b5cf9430fc30add722071d51b9fa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338935,
+            "locality_id":101748291,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799153,
+            "region_id":85682783,
+            "venue_id":1007700379
+        }
+    ],
+    "wof:id":1007700379,
+    "wof:lastmodified":1472580994,
+    "wof:name":"Institutos Fay Para La Estimulacion Multisensorial",
+    "wof:parent_id":85799153,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7730441093,
+    40.4569969177,
+    -3.7730441093,
+    40.4569969177
+],
+  "geometry": {"coordinates":[-3.7730441093,40.4569969177],"type":"Point"}
+}

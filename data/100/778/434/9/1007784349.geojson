@@ -1,0 +1,67 @@
+{
+  "id": 1007784349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7186200619,40.4815483093,-3.7186200619,40.4815483093",
+    "geom:latitude":40.481548,
+    "geom:longitude":-3.71862,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Isla De Tavira, 30",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Estancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 30 53 98",
+    "sg:postcode":"28035",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863551,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IQaYPNi9yDoiLWSg3UC2w_40.481548_-3.718620@1306269568"
+    },
+    "wof:country":"ES",
+    "wof:created":1472585443,
+    "wof:geomhash":"731658bb1454bdc8972774c784d2057e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863551,
+            "region_id":85682783,
+            "venue_id":1007784349
+        }
+    ],
+    "wof:id":1007784349,
+    "wof:lastmodified":1472585443,
+    "wof:name":"Lancho Vizcaino Francisco",
+    "wof:parent_id":85863551,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7186200619,
+    40.4815483093,
+    -3.7186200619,
+    40.4815483093
+],
+  "geometry": {"coordinates":[-3.7186200619,40.4815483093],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1008603561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6126770973,40.5544052124,-3.6126770973,40.5544052124",
+    "geom:latitude":40.554405,
+    "geom:longitude":-3.612677,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Moncayo (del), 46",
+    "sg:city":"San Sebastian De Los Reyes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electricidad: Instaladores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 61 77 20",
+    "sg:postcode":"28700",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863585,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DfN8xkX3Lr6ij486FQGLo_40.554405_-3.612677@1306269676"
+    },
+    "wof:country":"ES",
+    "wof:created":1472634409,
+    "wof:geomhash":"a61b63acf3013bb5acbcab3e9e44cea1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863585,
+            "region_id":85682783,
+            "venue_id":1008603561
+        }
+    ],
+    "wof:id":1008603561,
+    "wof:lastmodified":1472634409,
+    "wof:name":"Tecnesur S. A.",
+    "wof:parent_id":85863585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6126770973,
+    40.5544052124,
+    -3.6126770973,
+    40.5544052124
+],
+  "geometry": {"coordinates":[-3.6126770973,40.5544052124],"type":"Point"}
+}

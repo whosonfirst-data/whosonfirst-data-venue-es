@@ -1,0 +1,80 @@
+{
+  "id": 991045183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6679391861,40.479019165,-3.6679391861,40.479019165",
+    "geom:latitude":40.479019,
+    "geom:longitude":-3.667939,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Arturo Soria, 324",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 02 44 10",
+    "sg:postcode":"28033",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "organismos",
+        "control"
+    ],
+    "sg:website":"www.aqa.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863567,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gr29W6f920hV6GJ43Sc0j_40.479019_-3.667939@1306269433"
+    },
+    "wof:country":"ES",
+    "wof:created":1472522581,
+    "wof:geomhash":"06369b3a46fb6afc0a1fae3353e869fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863567,
+            "region_id":85682783,
+            "venue_id":991045183
+        }
+    ],
+    "wof:id":991045183,
+    "wof:lastmodified":1472522581,
+    "wof:name":"Assurance Quality Assessors S.l.",
+    "wof:parent_id":85863567,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organismos",
+        "control"
+    ]
+},
+  "bbox": [
+    -3.6679391861,
+    40.479019165,
+    -3.6679391861,
+    40.479019165
+],
+  "geometry": {"coordinates":[-3.6679391861,40.479019165],"type":"Point"}
+}

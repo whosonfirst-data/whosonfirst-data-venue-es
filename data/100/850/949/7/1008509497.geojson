@@ -1,0 +1,65 @@
+{
+  "id": 1008509497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.3475899696,36.1639556885,-5.3475899696,36.1639556885",
+    "geom:latitude":36.163956,
+    "geom:longitude":-5.34759,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Zaragoza, 1",
+    "sg:city":"Linea De La Concepcion",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ense\u00d1anza, Formaci\u00d3n Profesional: Aprendizaje",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 956 17 04 04",
+    "sg:postcode":"11300",
+    "sg:province":"C\u00e1diz",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "85633167",
+        85794121,
+        "102191581",
+        "85633159",
+        101753853,
+        85684619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jFP0AXeegYogHidda6y1E_36.163956_-5.347590@1306269663"
+    },
+    "wof:country":"ES",
+    "wof:created":1472630424,
+    "wof:geomhash":"56ed802d42ab22f002df8e7dc859ea5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "dependency_id":"85633167",
+            "locality_id":101753853,
+            "neighbourhood_id":85794121,
+            "region_id":85684619,
+            "venue_id":1008509497
+        }
+    ],
+    "wof:id":1008509497,
+    "wof:lastmodified":1472630424,
+    "wof:name":"Servicio Andaluz De Empleo",
+    "wof:parent_id":85794121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.3475899696,
+    36.1639556885,
+    -5.3475899696,
+    36.1639556885
+],
+  "geometry": {"coordinates":[-5.3475899696,36.1639556885],"type":"Point"}
+}

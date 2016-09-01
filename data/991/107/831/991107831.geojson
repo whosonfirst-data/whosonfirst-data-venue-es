@@ -1,0 +1,80 @@
+{
+  "id": 991107831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1232039928,41.378364563,2.1232039928,41.378364563",
+    "geom:latitude":41.378365,
+    "geom:longitude":2.123204,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Pintor Pahissa, 8",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 40 62 81",
+    "sg:postcode":"08028",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799597,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85799283,
+        404331105,
+        101748333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FNQ6wHhSXtBwMiHUeJJCS_41.378365_2.123204@1306269442"
+    },
+    "wof:country":"ES",
+    "wof:created":1472527408,
+    "wof:geomhash":"f521d168c82cc4f0ac235bfda10f9c72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799597,
+            "region_id":85682663,
+            "venue_id":991107831
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331105,
+            "locality_id":101748333,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799283,
+            "region_id":85682663,
+            "venue_id":991107831
+        }
+    ],
+    "wof:id":991107831,
+    "wof:lastmodified":1472527408,
+    "wof:name":"Barba Carbonell Josep Maria",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1232039928,
+    41.378364563,
+    2.1232039928,
+    41.378364563
+],
+  "geometry": {"coordinates":[2.1232039928,41.378364563],"type":"Point"}
+}

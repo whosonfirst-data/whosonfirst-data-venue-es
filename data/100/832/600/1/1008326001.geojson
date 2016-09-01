@@ -1,0 +1,81 @@
+{
+  "id": 1008326001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.7830929756,37.8827667236,-4.7830929756,37.8827667236",
+    "geom:latitude":37.882767,
+    "geom:longitude":-4.783093,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Trinidad (de La), 3",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 20 20 11",
+    "sg:postcode":"14003",
+    "sg:province":"C\u00f3rdoba",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863901,
+        102191581,
+        404333687,
+        85633129,
+        404227361,
+        101748233,
+        85682697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2u7h1AB28gsPC36Gl3fP2O_37.882767_-4.783093@1306269639"
+    },
+    "wof:country":"ES",
+    "wof:created":1472622430,
+    "wof:geomhash":"7a3c40cb6936bf734468e221d7c70073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863901,
+            "region_id":85682697,
+            "venue_id":1008326001
+        }
+    ],
+    "wof:id":1008326001,
+    "wof:lastmodified":1472622430,
+    "wof:name":"Recap S.l.",
+    "wof:parent_id":85863901,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    -4.7830929756,
+    37.8827667236,
+    -4.7830929756,
+    37.8827667236
+],
+  "geometry": {"coordinates":[-4.7830929756,37.8827667236],"type":"Point"}
+}

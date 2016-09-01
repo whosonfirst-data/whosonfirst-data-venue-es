@@ -1,0 +1,81 @@
+{
+  "id": 991924733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9852719307,37.3936080933,-5.9852719307,37.3936080933",
+    "geom:latitude":37.393608,
+    "geom:longitude":-5.985272,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Escuelas Pias, 23",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 22 13 94",
+    "sg:postcode":"41003",
+    "sg:province":"Sevilla",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864155,
+        102191581,
+        404342947,
+        85633129,
+        404227361,
+        101748225,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BHfyxjdtoxGUYX7OQZyjt_37.393608_-5.985272@1306269550"
+    },
+    "wof:country":"ES",
+    "wof:created":1472578685,
+    "wof:geomhash":"3153450d182e87c6f4f496ddbfd6275d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864155,
+            "region_id":85682841,
+            "venue_id":991924733
+        }
+    ],
+    "wof:id":991924733,
+    "wof:lastmodified":1472578685,
+    "wof:name":"Hoyo Gonzalez Manuel",
+    "wof:parent_id":85864155,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -5.9852719307,
+    37.3936080933,
+    -5.9852719307,
+    37.3936080933
+],
+  "geometry": {"coordinates":[-5.9852719307,37.3936080933],"type":"Point"}
+}

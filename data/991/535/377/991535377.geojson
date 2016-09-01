@@ -1,0 +1,80 @@
+{
+  "id": 991535377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.152919054,41.396900177,2.152919054,41.396900177",
+    "geom:latitude":41.3969,
+    "geom:longitude":2.152919,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Balmes, 190",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 38 65 40",
+    "sg:postcode":"08006",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "organismos",
+        "control"
+    ],
+    "sg:website":"www.eca.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864017,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4k3RcBMI3yko7nV7X9RHlY_41.396900_2.152919@1306269498"
+    },
+    "wof:country":"ES",
+    "wof:created":1472556270,
+    "wof:geomhash":"5d6ff55d3cf4231db3561a2fdbd5fa48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864017,
+            "region_id":85682663,
+            "venue_id":991535377
+        }
+    ],
+    "wof:id":991535377,
+    "wof:lastmodified":1472556270,
+    "wof:name":"Eca,entidad Colaboradora De La Administracion S.a.u.",
+    "wof:parent_id":85864017,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organismos",
+        "control"
+    ]
+},
+  "bbox": [
+    2.152919054,
+    41.396900177,
+    2.152919054,
+    41.396900177
+],
+  "geometry": {"coordinates":[2.152919054,41.396900177],"type":"Point"}
+}

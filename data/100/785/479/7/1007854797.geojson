@@ -1,0 +1,81 @@
+{
+  "id": 1007854797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.893896997,41.6561737061,-0.893896997,41.6561737061",
+    "geom:latitude":41.656174,
+    "geom:longitude":-0.893897,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Madrid, 2",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 28 41 54",
+    "sg:postcode":"50004",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863323,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36UDSDCdFQpPX7FSqmcmkL_41.656174_-0.893897@1306269577"
+    },
+    "wof:country":"ES",
+    "wof:created":1472588932,
+    "wof:geomhash":"6f8c8c53ff7d60c80f806f258dce984c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863323,
+            "region_id":85682891,
+            "venue_id":1007854797
+        }
+    ],
+    "wof:id":1007854797,
+    "wof:lastmodified":1472588932,
+    "wof:name":"Lozano Tejada Fernando",
+    "wof:parent_id":85863323,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -0.893896997,
+    41.6561737061,
+    -0.893896997,
+    41.6561737061
+],
+  "geometry": {"coordinates":[-0.893896997,41.6561737061],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1008260161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1803889275,41.3829078674,2.1803889275,41.3829078674",
+    "geom:latitude":41.382908,
+    "geom:longitude":2.180389,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Via Laietana, 12",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 68 05 37",
+    "sg:postcode":"08003",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qWdQbaSJ7ahjKUR15ODtC_41.382908_2.180389@1306269630"
+    },
+    "wof:country":"ES",
+    "wof:created":1472616534,
+    "wof:geomhash":"359419a7214a338418c90ba8ca0af0ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":1008260161
+        }
+    ],
+    "wof:id":1008260161,
+    "wof:lastmodified":1472616534,
+    "wof:name":"Pons Sais Pedro",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1803889275,
+    41.3829078674,
+    2.1803889275,
+    41.3829078674
+],
+  "geometry": {"coordinates":[2.1803889275,41.3829078674],"type":"Point"}
+}

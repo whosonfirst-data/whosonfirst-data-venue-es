@@ -1,0 +1,59 @@
+{
+  "id": 1008553871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3718756139,39.4932937622,-0.3718756139,39.4932937622",
+    "geom:latitude":39.493294,
+    "geom:longitude":-0.371876,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Juan Bosco, 48",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alimentaci\u00d3n General (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 65 56 75",
+    "sg:postcode":"46019",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864225,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1X8aJD0hlk4kG7VnsKRVoe_39.493294_-0.371876@1306269669"
+    },
+    "wof:country":"ES",
+    "wof:created":1472632272,
+    "wof:geomhash":"f6c43061dcc017bb4aaf4101a5c9908b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864225,
+            "region_id":85682867,
+            "venue_id":1008553871
+        }
+    ],
+    "wof:id":1008553871,
+    "wof:lastmodified":1472632272,
+    "wof:name":"Soriano Martinez Vicente",
+    "wof:parent_id":85864225,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3718756139,
+    39.4932937622,
+    -0.3718756139,
+    39.4932937622
+],
+  "geometry": {"coordinates":[-0.3718756139,39.4932937622],"type":"Point"}
+}

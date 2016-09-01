@@ -1,0 +1,67 @@
+{
+  "id": 1007739615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7031049728,40.4528007507,-3.7031049728,40.4528007507",
+    "geom:latitude":40.452801,
+    "geom:longitude":-3.703105,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Bravo Murillo, 169",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asociaciones Y Clubs Deportivos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 98 02 30",
+    "sg:postcode":"28020",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799245,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J36trPVLOM4dyzTegAFWK_40.452801_-3.703105@1306269562"
+    },
+    "wof:country":"ES",
+    "wof:created":1472583095,
+    "wof:geomhash":"c98da15fcb45174f2767c82b6bd0979e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799245,
+            "region_id":85682783,
+            "venue_id":1007739615
+        }
+    ],
+    "wof:id":1007739615,
+    "wof:lastmodified":1472583095,
+    "wof:name":"Joma Sport S.a.",
+    "wof:parent_id":85799245,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7031049728,
+    40.4528007507,
+    -3.7031049728,
+    40.4528007507
+],
+  "geometry": {"coordinates":[-3.7031049728,40.4528007507],"type":"Point"}
+}

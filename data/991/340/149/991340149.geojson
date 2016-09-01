@@ -1,0 +1,73 @@
+{
+  "id": 991340149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6501979828,39.5847206116,2.6501979828,39.5847206116",
+    "geom:latitude":39.584721,
+    "geom:longitude":2.650198,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Emperadriu Eugenia, 6",
+    "sg:city":"Palma",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 20 54 53",
+    "sg:postcode":"07010",
+    "sg:province":"Islas Baleares",
+    "sg:tags":[
+        "salas",
+        "de",
+        "cine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864091,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gajzFBzX8SsLsA7hKvfIf_39.584721_2.650198@1306269472"
+    },
+    "wof:country":"ES",
+    "wof:created":1472544548,
+    "wof:geomhash":"298501bce731f8ba8ce868ce9879736f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":991340149
+        }
+    ],
+    "wof:id":991340149,
+    "wof:lastmodified":1472544548,
+    "wof:name":"Cinematografica Almudaina S.a.",
+    "wof:parent_id":85864091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salas",
+        "de",
+        "cine"
+    ]
+},
+  "bbox": [
+    2.6501979828,
+    39.5847206116,
+    2.6501979828,
+    39.5847206116
+],
+  "geometry": {"coordinates":[2.6501979828,39.5847206116],"type":"Point"}
+}

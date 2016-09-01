@@ -1,0 +1,72 @@
+{
+  "id": 1008312749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8777009845,41.6370735168,-0.8777009845,41.6370735168",
+    "geom:latitude":41.637074,
+    "geom:longitude":-0.877701,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Jose Pellicer, 3",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 27 69 49",
+    "sg:postcode":"50007",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863361,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2I2gTWjE8im1ZBICpOkXOQ_41.637074_-0.877701@1306269637"
+    },
+    "wof:country":"ES",
+    "wof:created":1472621893,
+    "wof:geomhash":"543274c4cf10b9e6ee8df24e2c47cf32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863361,
+            "region_id":85682891,
+            "venue_id":1008312749
+        }
+    ],
+    "wof:id":1008312749,
+    "wof:lastmodified":1472621893,
+    "wof:name":"Ramirez Alonso Jose Maria",
+    "wof:parent_id":85863361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8777009845,
+    41.6370735168,
+    -0.8777009845,
+    41.6370735168
+],
+  "geometry": {"coordinates":[-0.8777009845,41.6370735168],"type":"Point"}
+}

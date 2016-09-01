@@ -1,0 +1,72 @@
+{
+  "id": 1008378835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.6468000412,43.5389900208,-5.6468000412,43.5389900208",
+    "geom:latitude":43.53899,
+    "geom:longitude":-5.6468,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Manso, 22",
+    "sg:city":"Gijon",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 985 36 63 46",
+    "sg:postcode":"33203",
+    "sg:province":"Asturias",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799415,
+        102191581,
+        404340333,
+        85633129,
+        404227365,
+        101748401,
+        85682805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CIqB7gEgCYHVUdtotuXLs_43.538990_-5.646800@1306269646"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624719,
+    "wof:geomhash":"7565da505a521445debbae6d97851a6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404340333,
+            "locality_id":101748401,
+            "macroregion_id":404227365,
+            "neighbourhood_id":85799415,
+            "region_id":85682805,
+            "venue_id":1008378835
+        }
+    ],
+    "wof:id":1008378835,
+    "wof:lastmodified":1472624719,
+    "wof:name":"Rodriguez Gallinal Jesus",
+    "wof:parent_id":85799415,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.6468000412,
+    43.5389900208,
+    -5.6468000412,
+    43.5389900208
+],
+  "geometry": {"coordinates":[-5.6468000412,43.5389900208],"type":"Point"}
+}

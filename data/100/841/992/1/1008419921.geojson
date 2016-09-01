@@ -1,0 +1,77 @@
+{
+  "id": 1008419921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.3035478592,36.5299682617,-6.3035478592,36.5299682617",
+    "geom:latitude":36.529968,
+    "geom:longitude":-6.303548,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Corralon De Los Carros, 66",
+    "sg:city":"Cadiz",
+    "sg:classifiers":[
+        {
+            "category":"Tea Room",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 956 21 36 03",
+    "sg:postcode":"11002",
+    "sg:province":"C\u00e1diz",
+    "sg:tags":[
+        "snack"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799573,
+        102191581,
+        404333033,
+        85633129,
+        404227361,
+        101748173,
+        85682679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1y8FTUUoJ6dehel0J5TioK_36.529968_-6.303548@1306269651"
+    },
+    "wof:country":"ES",
+    "wof:created":1472626680,
+    "wof:geomhash":"e9a11c4ca997bd422adafd79d08f0d91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333033,
+            "locality_id":101748173,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85799573,
+            "region_id":85682679,
+            "venue_id":1008419921
+        }
+    ],
+    "wof:id":1008419921,
+    "wof:lastmodified":1472626680,
+    "wof:name":"Ruiz Fabrellas Tomas",
+    "wof:parent_id":85799573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snack"
+    ]
+},
+  "bbox": [
+    -6.3035478592,
+    36.5299682617,
+    -6.3035478592,
+    36.5299682617
+],
+  "geometry": {"coordinates":[-6.3035478592,36.5299682617],"type":"Point"}
+}

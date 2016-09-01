@@ -1,0 +1,67 @@
+{
+  "id": 1008458303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7310090065,40.4090576172,-3.7310090065,40.4090576172",
+    "geom:latitude":40.409058,
+    "geom:longitude":-3.731009,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pericles, 13",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 63 38 44",
+    "sg:postcode":"28011",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863773,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JLFfT4sFL0kqt1XWSeQmQ_40.409058_-3.731009@1306269656"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628244,
+    "wof:geomhash":"19eecf814a96d1f5bcc3e93390da095b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863773,
+            "region_id":85682783,
+            "venue_id":1008458303
+        }
+    ],
+    "wof:id":1008458303,
+    "wof:lastmodified":1472628244,
+    "wof:name":"Sanchez Parra Isabel",
+    "wof:parent_id":85863773,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7310090065,
+    40.4090576172,
+    -3.7310090065,
+    40.4090576172
+],
+  "geometry": {"coordinates":[-3.7310090065,40.4090576172],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1008356359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7245559692,40.3915977478,-3.7245559692,40.3915977478",
+    "geom:latitude":40.391598,
+    "geom:longitude":-3.724556,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Braulio, 1",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alimentaci\u00d3n General (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 71 45 57",
+    "sg:postcode":"28019",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863759,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qgvUciWkqaXmOQfynP599_40.391598_-3.724556@1306269643"
+    },
+    "wof:country":"ES",
+    "wof:created":1472623781,
+    "wof:geomhash":"926d757f9e8b7bf6055fc11297c70dfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863759,
+            "region_id":85682783,
+            "venue_id":1008356359
+        }
+    ],
+    "wof:id":1008356359,
+    "wof:lastmodified":1472623781,
+    "wof:name":"Rico Huerta Manuel",
+    "wof:parent_id":85863759,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7245559692,
+    40.3915977478,
+    -3.7245559692,
+    40.3915977478
+],
+  "geometry": {"coordinates":[-3.7245559692,40.3915977478],"type":"Point"}
+}

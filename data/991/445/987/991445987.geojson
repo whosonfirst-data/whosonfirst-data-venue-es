@@ -1,0 +1,78 @@
+{
+  "id": 991445987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7052156925,40.448764801,-3.7052156925,40.448764801",
+    "geom:latitude":40.448765,
+    "geom:longitude":-3.705216,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Almansa, 24",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 912 97 79 84",
+    "sg:postcode":"28039",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799245,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VQcE3DJ75CJqQ1yqUVF0K_40.448765_-3.705216@1306269487"
+    },
+    "wof:country":"ES",
+    "wof:created":1472551474,
+    "wof:geomhash":"8365bb0dd0c85d19a1c34ea998b422dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799245,
+            "region_id":85682783,
+            "venue_id":991445987
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863653,
+            "region_id":85682783,
+            "venue_id":991445987
+        }
+    ],
+    "wof:id":991445987,
+    "wof:lastmodified":1472551474,
+    "wof:name":"Covadonga Moreno Sanchez",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7052156925,
+    40.448764801,
+    -3.7052156925,
+    40.448764801
+],
+  "geometry": {"coordinates":[-3.7052156925,40.448764801],"type":"Point"}
+}

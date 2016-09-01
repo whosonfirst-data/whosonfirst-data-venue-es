@@ -1,0 +1,59 @@
+{
+  "id": 1008185623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1743850708,41.3972702026,2.1743850708,41.3972702026",
+    "geom:latitude":41.39727,
+    "geom:longitude":2.174385,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Roger De Flor, 143",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Confiter\u00cdas, Chocolater\u00cdas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 47 18 94",
+    "sg:postcode":"08013",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KBPNyyJITO6wAB8QsKRFR_41.397270_2.174385@1306269620"
+    },
+    "wof:country":"ES",
+    "wof:created":1472606182,
+    "wof:geomhash":"372258731a2d106b8ca09bd0574ff347",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008185623
+        }
+    ],
+    "wof:id":1008185623,
+    "wof:lastmodified":1472606182,
+    "wof:name":"Passos Baldellou Beatriz De",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1743850708,
+    41.3972702026,
+    2.1743850708,
+    41.3972702026
+],
+  "geometry": {"coordinates":[2.1743850708,41.3972702026],"type":"Point"}
+}

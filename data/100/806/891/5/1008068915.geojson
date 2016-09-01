@@ -1,0 +1,87 @@
+{
+  "id": 1008068915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1382880211,41.3761253357,2.1382880211,41.3761253357",
+    "geom:latitude":41.376125,
+    "geom:longitude":2.138288,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Riego, 15",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 32 33 50",
+    "sg:postcode":"08014",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "accesorios",
+        "para",
+        "bares",
+        "cervecer\u00cdas",
+        "caf\u00c9s",
+        "y"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799597,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31Jz9427i74qQUqmHvFBtR_41.376125_2.138288@1306269604"
+    },
+    "wof:country":"ES",
+    "wof:created":1472598130,
+    "wof:geomhash":"6944753fc3654f05d5038fe7749f27c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799597,
+            "region_id":85682663,
+            "venue_id":1008068915
+        }
+    ],
+    "wof:id":1008068915,
+    "wof:lastmodified":1472598130,
+    "wof:name":"Musiqueta S.c.p.",
+    "wof:parent_id":85799597,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accesorios",
+        "para",
+        "bares",
+        "cervecer\u00cdas",
+        "caf\u00c9s",
+        "y"
+    ]
+},
+  "bbox": [
+    2.1382880211,
+    41.3761253357,
+    2.1382880211,
+    41.3761253357
+],
+  "geometry": {"coordinates":[2.1382880211,41.3761253357],"type":"Point"}
+}

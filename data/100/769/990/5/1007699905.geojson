@@ -1,0 +1,67 @@
+{
+  "id": 1007699905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1260869503,41.3686714172,2.1260869503,41.3686714172",
+    "geom:latitude":41.368671,
+    "geom:longitude":2.126087,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rond Torrassa, 99",
+    "sg:city":"Hospitalet Llobregat",
+    "sg:classifiers":[],
+    "sg:orig_category":"Seguridad Social",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 31 51 55",
+    "sg:postcode":"08903",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799585,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TM5wEiLFY78Z4DNjTk2pW_41.368671_2.126087@1306269556"
+    },
+    "wof:country":"ES",
+    "wof:created":1472580963,
+    "wof:geomhash":"5b7d888f7ceec1bfe3eb0cdfd8d191ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799585,
+            "region_id":85682663,
+            "venue_id":1007699905
+        }
+    ],
+    "wof:id":1007699905,
+    "wof:lastmodified":1472580963,
+    "wof:name":"Instituto Nacional De La Seguridad Social Hospitalet 1",
+    "wof:parent_id":85799585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1260869503,
+    41.3686714172,
+    2.1260869503,
+    41.3686714172
+],
+  "geometry": {"coordinates":[2.1260869503,41.3686714172],"type":"Point"}
+}

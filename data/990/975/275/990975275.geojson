@@ -1,0 +1,81 @@
+{
+  "id": 990975275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9734289646,43.2761573792,-2.9734289646,43.2761573792",
+    "geom:latitude":43.276157,
+    "geom:longitude":-2.973429,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Estd Abaro, 2",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 99 49 87",
+    "sg:postcode":"48013",
+    "sg:province":"Vizcaya",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799675,
+        102191581,
+        404345933,
+        85633129,
+        404227393,
+        101748387,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PNMEQ1KrvnRUDBFVEDabH_43.276157_-2.973429@1306269424"
+    },
+    "wof:country":"ES",
+    "wof:created":1472517313,
+    "wof:geomhash":"bd32d6ccf66a375878a4eb1def218ffb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345933,
+            "locality_id":101748387,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85799675,
+            "region_id":85682879,
+            "venue_id":990975275
+        }
+    ],
+    "wof:id":990975275,
+    "wof:lastmodified":1472517313,
+    "wof:name":"Angel Garcia Ga\u00f1an",
+    "wof:parent_id":85799675,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -2.9734289646,
+    43.2761573792,
+    -2.9734289646,
+    43.2761573792
+],
+  "geometry": {"coordinates":[-2.9734289646,43.2761573792],"type":"Point"}
+}

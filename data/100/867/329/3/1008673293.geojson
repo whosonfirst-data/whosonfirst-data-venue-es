@@ -1,0 +1,60 @@
+{
+  "id": 1008673293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7272050381,40.3151397705,-3.7272050381,40.3151397705",
+    "geom:latitude":40.31514,
+    "geom:longitude":-3.727205,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Madrid, 126",
+    "sg:city":"Getafe",
+    "sg:classifiers":[],
+    "sg:orig_category":"Universidades",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 24 95 00",
+    "sg:postcode":"28...",
+    "sg:province":"Madrid",
+    "sg:website":"www.uc3m.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27wFbRQCsiOjzdZQs8IM2v_40.315140_-3.727205@1306269685"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637330,
+    "wof:geomhash":"f7b2b5c304e340f82c2d5ef0b3e4636f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1008673293
+        }
+    ],
+    "wof:id":1008673293,
+    "wof:lastmodified":1472637330,
+    "wof:name":"Universidad Sur - Carlos Iii",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7272050381,
+    40.3151397705,
+    -3.7272050381,
+    40.3151397705
+],
+  "geometry": {"coordinates":[-3.7272050381,40.3151397705],"type":"Point"}
+}

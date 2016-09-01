@@ -1,0 +1,59 @@
+{
+  "id": 1008524433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1760849953,41.3959922791,2.1760849953,41.3959922791",
+    "geom:latitude":41.395992,
+    "geom:longitude":2.176085,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Roger De Flor, 115",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Peluquer\u00cdas, Peluquer\u00cda Mixta",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 31 56 99",
+    "sg:postcode":"08013",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VWPFSi1kmYzNijc9rnRaM_41.395992_2.176085@1306269665"
+    },
+    "wof:country":"ES",
+    "wof:created":1472631045,
+    "wof:geomhash":"9292fec2e2311e313241a126b7d150e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008524433
+        }
+    ],
+    "wof:id":1008524433,
+    "wof:lastmodified":1472631045,
+    "wof:name":"Silva Lopes-pinto Maria Teresa",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1760849953,
+    41.3959922791,
+    2.1760849953,
+    41.3959922791
+],
+  "geometry": {"coordinates":[2.1760849953,41.3959922791],"type":"Point"}
+}

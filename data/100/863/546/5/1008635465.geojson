@@ -1,0 +1,59 @@
+{
+  "id": 1008635465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4326936901,38.3936767578,-0.4326936901,38.3936767578",
+    "geom:latitude":38.393677,
+    "geom:longitude":-0.432694,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Benimagrell, 5",
+    "sg:city":"Sant Joan D'alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bricolaje, Herramientas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 65 72 74",
+    "sg:postcode":"03550",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864073,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Swo27L1FWi1d5eNffHHCc_38.393677_-0.432694@1306269680"
+    },
+    "wof:country":"ES",
+    "wof:created":1472635785,
+    "wof:geomhash":"edafbac5db5bd7bd065e1812a4057e68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864073,
+            "region_id":85682625,
+            "venue_id":1008635465
+        }
+    ],
+    "wof:id":1008635465,
+    "wof:lastmodified":1472635785,
+    "wof:name":"Torregrosa Sanchez Jose Francisco",
+    "wof:parent_id":85864073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4326936901,
+    38.3936767578,
+    -0.4326936901,
+    38.3936767578
+],
+  "geometry": {"coordinates":[-0.4326936901,38.3936767578],"type":"Point"}
+}

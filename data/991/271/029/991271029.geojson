@@ -1,0 +1,73 @@
+{
+  "id": 991271029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9034352303,37.3839263916,-5.9034352303,37.3839263916",
+    "geom:latitude":37.383926,
+    "geom:longitude":-5.903435,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Torremegia, 67",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 40 04 00",
+    "sg:postcode":"41016",
+    "sg:province":"Sevilla",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799541,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2A0lQsJ95i8Zaps8vgNZGO_37.383926_-5.903435@1306269463"
+    },
+    "wof:country":"ES",
+    "wof:created":1472541292,
+    "wof:geomhash":"9511b938befa1ddd4a057e6663c64292",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799541,
+            "region_id":85682841,
+            "venue_id":991271029
+        }
+    ],
+    "wof:id":991271029,
+    "wof:lastmodified":1472541292,
+    "wof:name":"Carrasco Acosta Daniel",
+    "wof:parent_id":85799541,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -5.9034352303,
+    37.3839263916,
+    -5.9034352303,
+    37.3839263916
+],
+  "geometry": {"coordinates":[-5.9034352303,37.3839263916],"type":"Point"}
+}

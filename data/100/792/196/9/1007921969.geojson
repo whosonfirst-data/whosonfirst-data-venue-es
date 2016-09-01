@@ -1,0 +1,83 @@
+{
+  "id": 1007921969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6774380207,40.4155197144,-3.6774380207,40.4155197144",
+    "geom:latitude":40.41552,
+    "geom:longitude":-3.677438,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Doce De Octubre, 4",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 73 02 21",
+    "sg:postcode":"28009",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863689,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1q4AMWroKvoDTCJNKrXUfa_40.415520_-3.677438@1306269585"
+    },
+    "wof:country":"ES",
+    "wof:created":1472591837,
+    "wof:geomhash":"77185173f72a15db4bdf539ea60bbcda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863689,
+            "region_id":85682783,
+            "venue_id":1007921969
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863687,
+            "region_id":85682783,
+            "venue_id":1007921969
+        }
+    ],
+    "wof:id":1007921969,
+    "wof:lastmodified":1472591837,
+    "wof:name":"Martinez De La Fuente Ildefonso",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6774380207,
+    40.4155197144,
+    -3.6774380207,
+    40.4155197144
+],
+  "geometry": {"coordinates":[-3.6774380207,40.4155197144],"type":"Point"}
+}

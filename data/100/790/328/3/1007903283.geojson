@@ -1,0 +1,67 @@
+{
+  "id": 1007903283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1798620224,41.4003677368,2.1798620224,41.4003677368",
+    "geom:latitude":41.400368,
+    "geom:longitude":2.179862,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Marina, 200",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Estancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 46 06 78",
+    "sg:postcode":"08013",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864013,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10MjuciePliJZy4wEC5i04_41.400368_2.179862@1306269582"
+    },
+    "wof:country":"ES",
+    "wof:created":1472590989,
+    "wof:geomhash":"03f63feaf8e56c4a80a675b198391a31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864013,
+            "region_id":85682663,
+            "venue_id":1007903283
+        }
+    ],
+    "wof:id":1007903283,
+    "wof:lastmodified":1472590989,
+    "wof:name":"Marin Buendia Mamerto",
+    "wof:parent_id":85864013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1798620224,
+    41.4003677368,
+    2.1798620224,
+    41.4003677368
+],
+  "geometry": {"coordinates":[2.1798620224,41.4003677368],"type":"Point"}
+}

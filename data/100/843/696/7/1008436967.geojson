@@ -1,0 +1,67 @@
+{
+  "id": 1008436967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.200633049,41.4212417603,2.200633049,41.4212417603",
+    "geom:latitude":41.421242,
+    "geom:longitude":2.200633,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Josep Miret, 4",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 78 80 83",
+    "sg:postcode":"08020",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864011,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v48hljEUhSELHR8HQMW8E_41.421242_2.200633@1306269653"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627462,
+    "wof:geomhash":"d2a9316900297aabbedc7404fd7d9ccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864011,
+            "region_id":85682663,
+            "venue_id":1008436967
+        }
+    ],
+    "wof:id":1008436967,
+    "wof:lastmodified":1472627462,
+    "wof:name":"Salavert Girona Maria Del Carmen",
+    "wof:parent_id":85864011,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.200633049,
+    41.4212417603,
+    2.200633049,
+    41.4212417603
+],
+  "geometry": {"coordinates":[2.200633049,41.4212417603],"type":"Point"}
+}

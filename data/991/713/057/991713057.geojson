@@ -1,0 +1,63 @@
+{
+  "id": 991713057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1836819649,41.3865699768,2.1836819649,41.3865699768",
+    "geom:latitude":41.38657,
+    "geom:longitude":2.183682,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Fusina, 6",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Urbanistas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 10 07 15",
+    "sg:postcode":"08003",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ih15JBwv9cgB5agSapcSg_41.386570_2.183682@1306269522"
+    },
+    "wof:country":"ES",
+    "wof:created":1472566110,
+    "wof:geomhash":"de6c9cbc9515adc8f9ef4da88825d51a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":991713057
+        }
+    ],
+    "wof:id":991713057,
+    "wof:lastmodified":1472566110,
+    "wof:name":"Fusina 6 S.c.p.",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1836819649,
+    41.3865699768,
+    2.1836819649,
+    41.3865699768
+],
+  "geometry": {"coordinates":[2.1836819649,41.3865699768],"type":"Point"}
+}

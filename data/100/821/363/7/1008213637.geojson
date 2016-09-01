@@ -1,0 +1,80 @@
+{
+  "id": 1008213637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1250360012,41.3758811951,2.1250360012,41.3758811951",
+    "geom:latitude":41.375881,
+    "geom:longitude":2.125036,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Arizala, 3",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Papeler\u00cdas, Librer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 48 12 59",
+    "sg:postcode":"08028",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799597,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85799283,
+        404331105,
+        101748333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FVbNdoeotPfuu6rE6r3rF_41.375881_2.125036@1306269624"
+    },
+    "wof:country":"ES",
+    "wof:created":1472612639,
+    "wof:geomhash":"5f1eedff3f2ae25b18d967a5f049e40a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799597,
+            "region_id":85682663,
+            "venue_id":1008213637
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331105,
+            "locality_id":101748333,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799283,
+            "region_id":85682663,
+            "venue_id":1008213637
+        }
+    ],
+    "wof:id":1008213637,
+    "wof:lastmodified":1472612639,
+    "wof:name":"Perez Gerique Consuelo",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1250360012,
+    41.3758811951,
+    2.1250360012,
+    41.3758811951
+],
+  "geometry": {"coordinates":[2.1250360012,41.3758811951],"type":"Point"}
+}

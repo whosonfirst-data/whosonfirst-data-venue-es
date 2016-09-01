@@ -1,0 +1,78 @@
+{
+  "id": 1008166053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8665180206,41.6446075439,-0.8665180206,41.6446075439",
+    "geom:latitude":41.644608,
+    "geom:longitude":-0.866518,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Batalla De Pavia, 12",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ense\u00d1anza Variada",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 59 73 37",
+    "sg:postcode":"50002",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863349,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891,
+        85863355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AESDC7vnMhQ1IbmeXvknQ_41.644608_-0.866518@1306269617"
+    },
+    "wof:country":"ES",
+    "wof:created":1472603373,
+    "wof:geomhash":"1035d09bff579d8576ff4d39d77e54bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863349,
+            "region_id":85682891,
+            "venue_id":1008166053
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863355,
+            "region_id":85682891,
+            "venue_id":1008166053
+        }
+    ],
+    "wof:id":1008166053,
+    "wof:lastmodified":1472603373,
+    "wof:name":"Pardillos Perea Ignacio Emilio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8665180206,
+    41.6446075439,
+    -0.8665180206,
+    41.6446075439
+],
+  "geometry": {"coordinates":[-0.8665180206,41.6446075439],"type":"Point"}
+}

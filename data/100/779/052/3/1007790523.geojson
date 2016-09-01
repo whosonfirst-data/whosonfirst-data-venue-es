@@ -1,0 +1,59 @@
+{
+  "id": 1007790523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.9288489819,41.5890808105,-0.9288489819,41.5890808105",
+    "geom:latitude":41.589081,
+    "geom:longitude":-0.928849,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ramon Y Cajal, 22",
+    "sg:city":"Cuarte Huerva",
+    "sg:classifiers":[],
+    "sg:orig_category":"Laboratorios Y Cl\u00cdnicas Veterinarias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 50 50 69",
+    "sg:postcode":"50410",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863423,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VPqOOHu7b6FFxrvp3PxZK_41.589081_-0.928849@1306269569"
+    },
+    "wof:country":"ES",
+    "wof:created":1472585765,
+    "wof:geomhash":"c5a86df8f8b58d46a4591dd273c73214",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863423,
+            "region_id":85682891,
+            "venue_id":1007790523
+        }
+    ],
+    "wof:id":1007790523,
+    "wof:lastmodified":1472585765,
+    "wof:name":"Lasala Sancho Maria Luisa",
+    "wof:parent_id":85863423,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.9288489819,
+    41.5890808105,
+    -0.9288489819,
+    41.5890808105
+],
+  "geometry": {"coordinates":[-0.9288489819,41.5890808105],"type":"Point"}
+}

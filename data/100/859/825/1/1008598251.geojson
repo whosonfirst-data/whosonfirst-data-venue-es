@@ -1,0 +1,77 @@
+{
+  "id": 1008598251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.4277558327,36.715007782,-4.4277558327,36.715007782",
+    "geom:latitude":36.715008,
+    "geom:longitude":-4.427756,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Peregrino, 14",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias Y Agentes Comerciales, Representantes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 36 38 96",
+    "sg:postcode":"29002",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863493,
+        102191581,
+        404339241,
+        85633129,
+        404227361,
+        101748185,
+        85682787,
+        85863541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0D9ubWdhVjAyfEXNivqPTy_36.715008_-4.427756@1306269675"
+    },
+    "wof:country":"ES",
+    "wof:created":1472634169,
+    "wof:geomhash":"a0f417a707b87713fd0d272332b12282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863493,
+            "region_id":85682787,
+            "venue_id":1008598251
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748185,
+            "neighbourhood_id":85863541,
+            "region_id":-1,
+            "venue_id":1008598251
+        }
+    ],
+    "wof:id":1008598251,
+    "wof:lastmodified":1472634169,
+    "wof:name":"Tapies Cera Laureano",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4277558327,
+    36.715007782,
+    -4.4277558327,
+    36.715007782
+],
+  "geometry": {"coordinates":[-4.4277558327,36.715007782],"type":"Point"}
+}

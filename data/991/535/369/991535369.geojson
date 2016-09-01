@@ -1,0 +1,71 @@
+{
+  "id": 991535369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.8237999678,41.72631073,1.8237999678,41.72631073",
+    "geom:latitude":41.726311,
+    "geom:longitude":1.8238,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pg Pere Iii, 14",
+    "sg:city":"Manresa",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 938 75 08 88",
+    "sg:postcode":"08242",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "organismos",
+        "control"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Yl9o4BatIcLtenKEEDzzc_41.726311_1.823800@1306269498"
+    },
+    "wof:country":"ES",
+    "wof:created":1472556270,
+    "wof:geomhash":"25ae22c9b06de754821a8f102a8e3082",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":991535369
+        }
+    ],
+    "wof:id":991535369,
+    "wof:lastmodified":1472556270,
+    "wof:name":"Eca,entidad Colaboradora De La Administracion S.a.u.",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organismos",
+        "control"
+    ]
+},
+  "bbox": [
+    1.8237999678,
+    41.72631073,
+    1.8237999678,
+    41.72631073
+],
+  "geometry": {"coordinates":[1.8237999678,41.72631073],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1008209181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7082788944,40.4831771851,-3.7082788944,40.4831771851",
+    "geom:latitude":40.483177,
+    "geom:longitude":-3.708279,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Fermin Caballero, 60",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Albergues",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 38 58 43",
+    "sg:postcode":"28034",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863551,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7U02Uw97hHM1qQyQNQBTJK_40.483177_-3.708279@1306269623"
+    },
+    "wof:country":"ES",
+    "wof:created":1472611624,
+    "wof:geomhash":"3733e3ed8c1921ab6d2413d8b48cd8a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863551,
+            "region_id":85682783,
+            "venue_id":1008209181
+        }
+    ],
+    "wof:id":1008209181,
+    "wof:lastmodified":1472611624,
+    "wof:name":"Perez Calvo Maria Dolores",
+    "wof:parent_id":85863551,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7082788944,
+    40.4831771851,
+    -3.7082788944,
+    40.4831771851
+],
+  "geometry": {"coordinates":[-3.7082788944,40.4831771851],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1008553277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1609809399,41.3822555542,2.1609809399,41.3822555542",
+    "geom:latitude":41.382256,
+    "geom:longitude":2.160981,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sepulveda, 147",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Contables",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 54 73 40",
+    "sg:postcode":"08011",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864027,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZrWpVrwPCTWmAGXRLaxDr_41.382256_2.160981@1306269669"
+    },
+    "wof:country":"ES",
+    "wof:created":1472632249,
+    "wof:geomhash":"f0796b9ff6c5c426d46576e7366619cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864027,
+            "region_id":85682663,
+            "venue_id":1008553277
+        }
+    ],
+    "wof:id":1008553277,
+    "wof:lastmodified":1472632249,
+    "wof:name":"Soria Inform S.l.",
+    "wof:parent_id":85864027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1609809399,
+    41.3822555542,
+    2.1609809399,
+    41.3822555542
+],
+  "geometry": {"coordinates":[2.1609809399,41.3822555542],"type":"Point"}
+}

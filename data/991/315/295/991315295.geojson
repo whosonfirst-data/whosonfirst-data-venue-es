@@ -1,0 +1,71 @@
+{
+  "id": 991315295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9317183495,37.4111404419,-5.9317183495,37.4111404419",
+    "geom:latitude":37.41114,
+    "geom:longitude":-5.931718,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ciudad De Manises, S/n",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 52 05 53",
+    "sg:postcode":"41020",
+    "sg:province":"Sevilla",
+    "sg:tags":[
+        "organismos",
+        "control"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799527,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28Cy5QasIF400FrWaBjM34_37.411140_-5.931718@1306269469"
+    },
+    "wof:country":"ES",
+    "wof:created":1472543363,
+    "wof:geomhash":"50019ff8fb0a5254ca29d290bedfe946",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799527,
+            "region_id":85682841,
+            "venue_id":991315295
+        }
+    ],
+    "wof:id":991315295,
+    "wof:lastmodified":1472543363,
+    "wof:name":"Centro De Estudios De Materiales Y Control De Obra S.a.",
+    "wof:parent_id":85799527,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organismos",
+        "control"
+    ]
+},
+  "bbox": [
+    -5.9317183495,
+    37.4111404419,
+    -5.9317183495,
+    37.4111404419
+],
+  "geometry": {"coordinates":[-5.9317183495,37.4111404419],"type":"Point"}
+}

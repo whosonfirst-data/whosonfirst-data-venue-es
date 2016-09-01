@@ -1,0 +1,73 @@
+{
+  "id": 1008382633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2380199432,41.4524002075,2.2380199432,41.4524002075",
+    "geom:latitude":41.4524,
+    "geom:longitude":2.23802,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carr Coll I Pujol, 180",
+    "sg:city":"Badalona",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 97 37 37",
+    "sg:postcode":"08917",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799485,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sIP9TJBs1oVdNqG5Xt1IF_41.452400_2.238020@1306269646"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624865,
+    "wof:geomhash":"3bf75afce7f6b02be0e1b3fec2225885",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799485,
+            "region_id":85682663,
+            "venue_id":1008382633
+        }
+    ],
+    "wof:id":1008382633,
+    "wof:lastmodified":1472624865,
+    "wof:name":"Rodriguez Lorente Mari Carmen",
+    "wof:parent_id":85799485,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.2380199432,
+    41.4524002075,
+    2.2380199432,
+    41.4524002075
+],
+  "geometry": {"coordinates":[2.2380199432,41.4524002075],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1008205243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6765902042,40.4330444336,-3.6765902042,40.4330444336",
+    "geom:latitude":40.433044,
+    "geom:longitude":-3.67659,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de General Diaz Porlier, 87",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Procuradores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 09 19 36",
+    "sg:postcode":"28006",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863805,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PoNpOYpBQxCH7cW0Ok3LC_40.433044_-3.676590@1306269622"
+    },
+    "wof:country":"ES",
+    "wof:created":1472610713,
+    "wof:geomhash":"a5a92133263db3356d61603581c8d306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863805,
+            "region_id":85682783,
+            "venue_id":1008205243
+        }
+    ],
+    "wof:id":1008205243,
+    "wof:lastmodified":1472610713,
+    "wof:name":"Pereda Gil Sofia",
+    "wof:parent_id":85863805,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6765902042,
+    40.4330444336,
+    -3.6765902042,
+    40.4330444336
+],
+  "geometry": {"coordinates":[-3.6765902042,40.4330444336],"type":"Point"}
+}

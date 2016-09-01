@@ -1,0 +1,73 @@
+{
+  "id": 1008057335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5868880749,40.4725761414,-3.5868880749,40.4725761414",
+    "geom:latitude":40.472576,
+    "geom:longitude":-3.586888,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Timon, 29",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 01 01 58",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863589,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4STDwfMjTfzuv3Q5J3RW1s_40.472576_-3.586888@1306269602"
+    },
+    "wof:country":"ES",
+    "wof:created":1472597628,
+    "wof:geomhash":"be68536269ebece2d3c0355c926f6546",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863589,
+            "region_id":85682783,
+            "venue_id":1008057335
+        }
+    ],
+    "wof:id":1008057335,
+    "wof:lastmodified":1472597628,
+    "wof:name":"Muan Marketing Sl",
+    "wof:parent_id":85863589,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ]
+},
+  "bbox": [
+    -3.5868880749,
+    40.4725761414,
+    -3.5868880749,
+    40.4725761414
+],
+  "geometry": {"coordinates":[-3.5868880749,40.4725761414],"type":"Point"}
+}

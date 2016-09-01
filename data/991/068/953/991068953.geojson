@@ -1,0 +1,72 @@
+{
+  "id": 991068953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.660541296,40.3976020813,-3.660541296,40.3976020813",
+    "geom:latitude":40.397602,
+    "geom:longitude":-3.660541,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Venancio Martin, 27",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 30 52 40",
+    "sg:postcode":"28038",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863731,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0k4ouocor6ETK6t0QcFS7q_40.397602_-3.660541@1306269436"
+    },
+    "wof:country":"ES",
+    "wof:created":1472524400,
+    "wof:geomhash":"7df0bbe9c4cd47c03542b47ca8a168e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863731,
+            "region_id":85682783,
+            "venue_id":991068953
+        }
+    ],
+    "wof:id":991068953,
+    "wof:lastmodified":1472524400,
+    "wof:name":"Avila Fernandez Antonio",
+    "wof:parent_id":85863731,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.660541296,
+    40.3976020813,
+    -3.660541296,
+    40.3976020813
+],
+  "geometry": {"coordinates":[-3.660541296,40.3976020813],"type":"Point"}
+}

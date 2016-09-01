@@ -1,0 +1,78 @@
+{
+  "id": 1008379045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2029359341,41.4035873413,2.2029359341,41.4035873413",
+    "geom:latitude":41.403587,
+    "geom:longitude":2.202936,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Pujades, 213",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Relojer\u00cda (al Por Menor, Reparaci\u00d3n)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 07 93 22",
+    "sg:postcode":"08005",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799265,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_532MoIRZq4sXcog0XVkdce_41.403587_2.202936@1306269646"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624726,
+    "wof:geomhash":"aa796aef6b022d0689b87578d68805ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799265,
+            "region_id":85682663,
+            "venue_id":1008379045
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864011,
+            "region_id":85682663,
+            "venue_id":1008379045
+        }
+    ],
+    "wof:id":1008379045,
+    "wof:lastmodified":1472624726,
+    "wof:name":"Rodriguez Garcia Carmen",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2029359341,
+    41.4035873413,
+    2.2029359341,
+    41.4035873413
+],
+  "geometry": {"coordinates":[2.2029359341,41.4035873413],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1008477453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5980629921,40.4485244751,-3.5980629921,40.4485244751",
+    "geom:latitude":40.448524,
+    "geom:longitude":-3.598063,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Via, 7",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Estancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 69 21 30",
+    "sg:postcode":"28019",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        102545773,
+        85863587,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44GLH8nUbmuFWKLrsXJBDN_40.448524_-3.598063@1306269659"
+    },
+    "wof:country":"ES",
+    "wof:created":1472629011,
+    "wof:geomhash":"53d5e1c49731315f7a9aebf81a03ba14",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545773,
+            "country_id":85633129,
+            "neighbourhood_id":85863587,
+            "region_id":85682783,
+            "venue_id":1008477453
+        }
+    ],
+    "wof:id":1008477453,
+    "wof:lastmodified":1472629011,
+    "wof:name":"Santos Murcia Juan Bautista",
+    "wof:parent_id":102545773,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5980629921,
+    40.4485244751,
+    -3.5980629921,
+    40.4485244751
+],
+  "geometry": {"coordinates":[-3.5980629921,40.4485244751],"type":"Point"}
+}

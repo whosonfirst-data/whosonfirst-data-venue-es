@@ -1,0 +1,76 @@
+{
+  "id": 1008465631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-8.2386922836,43.4822731018,-8.2386922836,43.4822731018",
+    "geom:latitude":43.482273,
+    "geom:longitude":-8.238692,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rua Maria, 179",
+    "sg:city":"Ferrol",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 981 35 35 95",
+    "sg:postcode":"15401",
+    "sg:province":"La Coru\u00f1a",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101748407,
+        85799423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ITVZv4nLed21oJnvuXJpy_43.482273_-8.238692@1306269657"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628531,
+    "wof:geomhash":"2f1779064e5aa08f9fe9e97c7da922e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748407,
+            "neighbourhood_id":85799423,
+            "region_id":-1,
+            "venue_id":1008465631
+        }
+    ],
+    "wof:id":1008465631,
+    "wof:lastmodified":1472628531,
+    "wof:name":"Sanda Cao Alfonso",
+    "wof:parent_id":85799423,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -8.2386922836,
+    43.4822731018,
+    -8.2386922836,
+    43.4822731018
+],
+  "geometry": {"coordinates":[-8.2386922836,43.4822731018],"type":"Point"}
+}

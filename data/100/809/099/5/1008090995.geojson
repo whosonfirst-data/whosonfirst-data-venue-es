@@ -1,0 +1,67 @@
+{
+  "id": 1008090995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7717413902,40.3808860779,-3.7717413902,40.3808860779",
+    "geom:latitude":40.380886,
+    "geom:longitude":-3.771741,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Jose De Cadalso, 23",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mantenimiento Industrial",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 09 51 66",
+    "sg:postcode":"28044",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863787,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JxFlA7JYKJQQLvjFwUMCD_40.380886_-3.771741@1306269607"
+    },
+    "wof:country":"ES",
+    "wof:created":1472599127,
+    "wof:geomhash":"ad09f4cd2f66ff8375ed02266948d165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863787,
+            "region_id":85682783,
+            "venue_id":1008090995
+        }
+    ],
+    "wof:id":1008090995,
+    "wof:lastmodified":1472599127,
+    "wof:name":"Netserver Phone Sll",
+    "wof:parent_id":85863787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7717413902,
+    40.3808860779,
+    -3.7717413902,
+    40.3808860779
+],
+  "geometry": {"coordinates":[-3.7717413902,40.3808860779],"type":"Point"}
+}

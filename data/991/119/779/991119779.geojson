@@ -1,0 +1,72 @@
+{
+  "id": 991119779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6709239483,40.442741394,-3.6709239483,40.442741394",
+    "geom:latitude":40.442741,
+    "geom:longitude":-3.670924,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Puenteareas, 5",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 15 86 77",
+    "sg:postcode":"28002",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799435,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nwwDqZJ8woxPe443fzvs7_40.442741_-3.670924@1306269443"
+    },
+    "wof:country":"ES",
+    "wof:created":1472528359,
+    "wof:geomhash":"c5274f6a592877d08cd456f86c4e23a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799435,
+            "region_id":85682783,
+            "venue_id":991119779
+        }
+    ],
+    "wof:id":991119779,
+    "wof:lastmodified":1472528359,
+    "wof:name":"Bartolome Bartolome Hermelinda",
+    "wof:parent_id":85799435,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6709239483,
+    40.442741394,
+    -3.6709239483,
+    40.442741394
+],
+  "geometry": {"coordinates":[-3.6709239483,40.442741394],"type":"Point"}
+}

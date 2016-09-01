@@ -1,0 +1,74 @@
+{
+  "id": 1024481373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1702039242,41.3929672241,2.1702039242,41.3929672241",
+    "geom:latitude":41.392967,
+    "geom:longitude":2.170204,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Diputacio, 311",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cuidado Del Cabello",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 88 15 21",
+    "sg:postcode":"08009",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864017,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wT2pDZ0jT87Ht08OfHabs_41.392967_2.170204@1306269696"
+    },
+    "wof:country":"ES",
+    "wof:created":1472640817,
+    "wof:geomhash":"131811cae405c00b804a5c11c606e6d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864017,
+            "region_id":85682663,
+            "venue_id":1024481373
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1024481373
+        }
+    ],
+    "wof:id":1024481373,
+    "wof:lastmodified":1472640817,
+    "wof:name":"Yafari Ismail Rayab",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1702039242,
+    41.3929672241,
+    2.1702039242,
+    41.3929672241
+],
+  "geometry": {"coordinates":[2.1702039242,41.3929672241],"type":"Point"}
+}

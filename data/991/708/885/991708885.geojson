@@ -1,0 +1,78 @@
+{
+  "id": 991708885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7135500908,40.4306488037,-3.7135500908,40.4306488037",
+    "geom:latitude":40.430649,
+    "geom:longitude":-3.71355,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Guzman El Bueno, 3",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asociaciones, Organismos Culturales Y Socioeducativos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 43 46 73",
+    "sg:postcode":"28015",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863659,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32cJdhqRrllP6TOjquLi0M_40.430649_-3.713550@1306269522"
+    },
+    "wof:country":"ES",
+    "wof:created":1472565900,
+    "wof:geomhash":"8a888bd0bf5446cd9168df93f9e9908d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863659,
+            "region_id":85682783,
+            "venue_id":991708885
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863655,
+            "region_id":85682783,
+            "venue_id":991708885
+        }
+    ],
+    "wof:id":991708885,
+    "wof:lastmodified":1472565900,
+    "wof:name":"Fundacion Occidental De Cultura Islamica",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7135500908,
+    40.4306488037,
+    -3.7135500908,
+    40.4306488037
+],
+  "geometry": {"coordinates":[-3.7135500908,40.4306488037],"type":"Point"}
+}

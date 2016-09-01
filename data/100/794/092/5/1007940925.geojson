@@ -1,0 +1,67 @@
+{
+  "id": 1007940925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.898450613,41.6605758667,-0.898450613,41.6605758667",
+    "geom:latitude":41.660576,
+    "geom:longitude":-0.898451,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Pablo Gargallo, 55",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Estancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 43 38 28",
+    "sg:postcode":"50003",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863323,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KE9sdPSe4YZdxAD7mBOAn_41.660576_-0.898451@1306269587"
+    },
+    "wof:country":"ES",
+    "wof:created":1472592734,
+    "wof:geomhash":"d0f27ec813b2df2d3fb94f437143b6b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863323,
+            "region_id":85682891,
+            "venue_id":1007940925
+        }
+    ],
+    "wof:id":1007940925,
+    "wof:lastmodified":1472592734,
+    "wof:name":"Martin Guerrero Francisca",
+    "wof:parent_id":85863323,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.898450613,
+    41.6605758667,
+    -0.898450613,
+    41.6605758667
+],
+  "geometry": {"coordinates":[-0.898450613,41.6605758667],"type":"Point"}
+}

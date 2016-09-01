@@ -1,0 +1,78 @@
+{
+  "id": 1008371161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6318769455,40.4298439026,-3.6318769455,40.4298439026",
+    "geom:latitude":40.429844,
+    "geom:longitude":-3.631877,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Hermanos Garcia Noblejas, 49",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Flores Y Plantas Naturales (al Por Mayor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 04 68 17",
+    "sg:postcode":"28037",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863697,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17O4Oq097ACr77c90j1C0s_40.429844_-3.631877@1306269645"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624413,
+    "wof:geomhash":"96220357fd96a12bf25ad803b7582274",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863697,
+            "region_id":85682783,
+            "venue_id":1008371161
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863641,
+            "region_id":85682783,
+            "venue_id":1008371161
+        }
+    ],
+    "wof:id":1008371161,
+    "wof:lastmodified":1472624413,
+    "wof:name":"Rodas Garcia Miguel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6318769455,
+    40.4298439026,
+    -3.6318769455,
+    40.4298439026
+],
+  "geometry": {"coordinates":[-3.6318769455,40.4298439026],"type":"Point"}
+}

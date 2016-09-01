@@ -1,0 +1,81 @@
+{
+  "id": 991150215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9356770515,43.2617454529,-2.9356770515,43.2617454529",
+    "geom:latitude":43.261745,
+    "geom:longitude":-2.935677,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Alam Recalde, 44",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 21 65 37",
+    "sg:postcode":"48011",
+    "sg:province":"Vizcaya",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863957,
+        102191581,
+        404345949,
+        85633129,
+        404227393,
+        101748385,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1goN7DFYTAczQNaUaBAwlE_43.261745_-2.935677@1306269447"
+    },
+    "wof:country":"ES",
+    "wof:created":1472532036,
+    "wof:geomhash":"ac14f08254fbac227110cff3b1d4605c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345949,
+            "locality_id":101748385,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863957,
+            "region_id":85682879,
+            "venue_id":991150215
+        }
+    ],
+    "wof:id":991150215,
+    "wof:lastmodified":1472532036,
+    "wof:name":"Bilza S.a.",
+    "wof:parent_id":85863957,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [
+    -2.9356770515,
+    43.2617454529,
+    -2.9356770515,
+    43.2617454529
+],
+  "geometry": {"coordinates":[-2.9356770515,43.2617454529],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1007868695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8897505999,41.6506118774,-0.8897505999,41.6506118774",
+    "geom:latitude":41.650612,
+    "geom:longitude":-0.889751,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Doctor Horno Alcorta, 5",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 55 17 32",
+    "sg:postcode":"50004",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863341,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hkUHqhetvWFRkvXrtc52e_41.650612_-0.889751@1306269579"
+    },
+    "wof:country":"ES",
+    "wof:created":1472589611,
+    "wof:geomhash":"4390851ad10cd49f54df8b1a49743b6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863341,
+            "region_id":85682891,
+            "venue_id":1007868695
+        }
+    ],
+    "wof:id":1007868695,
+    "wof:lastmodified":1472589611,
+    "wof:name":"Madrid Redes De Campo S.a.",
+    "wof:parent_id":85863341,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ]
+},
+  "bbox": [
+    -0.8897505999,
+    41.6506118774,
+    -0.8897505999,
+    41.6506118774
+],
+  "geometry": {"coordinates":[-0.8897505999,41.6506118774],"type":"Point"}
+}

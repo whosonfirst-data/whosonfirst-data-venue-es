@@ -1,0 +1,67 @@
+{
+  "id": 1008466261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6212489605,40.3768463135,-3.6212489605,40.3768463135",
+    "geom:latitude":40.376846,
+    "geom:longitude":-3.621249,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Monte Aya, 25",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicio De Salud",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 32 15 77",
+    "sg:postcode":"28031",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863725,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xvFH0bJBRtKw8jLdJXijQ_40.376846_-3.621249@1306269657"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628554,
+    "wof:geomhash":"c8442624d6a4feb6bbea8aefdf9c9025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863725,
+            "region_id":85682783,
+            "venue_id":1008466261
+        }
+    ],
+    "wof:id":1008466261,
+    "wof:lastmodified":1472628554,
+    "wof:name":"Saneamiento Hermanos Diaz C.b",
+    "wof:parent_id":85863725,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6212489605,
+    40.3768463135,
+    -3.6212489605,
+    40.3768463135
+],
+  "geometry": {"coordinates":[-3.6212489605,40.3768463135],"type":"Point"}
+}

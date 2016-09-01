@@ -1,0 +1,82 @@
+{
+  "id": 991335965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6523349285,40.468082428,-3.6523349285,40.468082428",
+    "geom:latitude":40.468082,
+    "geom:longitude":-3.652335,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Olimpio Lopez, 10",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 912 97 37 28",
+    "sg:postcode":"28043",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "sg:website":"www.chiquipark.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863583,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DW3WAFfdIMhY93RaubSZc_40.468082_-3.652335@1306269472"
+    },
+    "wof:country":"ES",
+    "wof:created":1472544339,
+    "wof:geomhash":"a6d9ce0c433eb874518d7fe0c0cd71af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863583,
+            "region_id":85682783,
+            "venue_id":991335965
+        }
+    ],
+    "wof:id":991335965,
+    "wof:lastmodified":1472544339,
+    "wof:name":"Chiqui Park S.l. Sociedad Unipersonal",
+    "wof:parent_id":85863583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [
+    -3.6523349285,
+    40.468082428,
+    -3.6523349285,
+    40.468082428
+],
+  "geometry": {"coordinates":[-3.6523349285,40.468082428],"type":"Point"}
+}

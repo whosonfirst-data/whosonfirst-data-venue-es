@@ -1,0 +1,78 @@
+{
+  "id": 1008705319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.7859220505,37.8615913391,-4.7859220505,37.8615913391",
+    "geom:latitude":37.861591,
+    "geom:longitude":-4.785922,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av La Torrecilla, 1",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agentes, Concesionarios Y Sucursales De Veh\u00cdculos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 29 45 81",
+    "sg:postcode":"14013",
+    "sg:province":"C\u00f3rdoba",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863871,
+        102191581,
+        404333687,
+        85633129,
+        404227361,
+        101748233,
+        85682697,
+        85863857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IKTzB8CCi8JfRuC2wceSw_37.861591_-4.785922@1306269689"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638768,
+    "wof:geomhash":"290a0bad6384501edc321879a379968f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863871,
+            "region_id":85682697,
+            "venue_id":1008705319
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863857,
+            "region_id":85682697,
+            "venue_id":1008705319
+        }
+    ],
+    "wof:id":1008705319,
+    "wof:lastmodified":1472638768,
+    "wof:name":"Ventauto Cordoba S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7859220505,
+    37.8615913391,
+    -4.7859220505,
+    37.8615913391
+],
+  "geometry": {"coordinates":[-4.7859220505,37.8615913391],"type":"Point"}
+}

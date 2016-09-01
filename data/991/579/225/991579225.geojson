@@ -1,0 +1,72 @@
+{
+  "id": 991579225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6572399139,39.5747489929,2.6572399139,39.5747489929",
+    "geom:latitude":39.574749,
+    "geom:longitude":2.65724,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Costa I Llobera, 16",
+    "sg:city":"Palma",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 46 38 67",
+    "sg:postcode":"07005",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864089,
+        102191581,
+        404330817,
+        85633129,
+        404227367,
+        101748237,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74NJNWtvGUQV4uAbJ03pQ0_39.574749_2.657240@1306269504"
+    },
+    "wof:country":"ES",
+    "wof:created":1472558668,
+    "wof:geomhash":"72ddf705885ba9adf06f34b8af5afd1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864089,
+            "region_id":85682647,
+            "venue_id":991579225
+        }
+    ],
+    "wof:id":991579225,
+    "wof:lastmodified":1472558668,
+    "wof:name":"Escuela De Conductores De Baleares S. C. L.",
+    "wof:parent_id":85864089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6572399139,
+    39.5747489929,
+    2.6572399139,
+    39.5747489929
+],
+  "geometry": {"coordinates":[2.6572399139,39.5747489929],"type":"Point"}
+}

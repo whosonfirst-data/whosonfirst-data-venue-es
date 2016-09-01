@@ -1,0 +1,59 @@
+{
+  "id": 1008144553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8316454887,40.3478851318,-3.8316454887,40.3478851318",
+    "geom:latitude":40.347885,
+    "geom:longitude":-3.831645,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Torrijos, 1",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tiendas De Grano, Frutas Y Legumbres Secas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 11 62 43",
+    "sg:postcode":"28921",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gmWHKPFkE6GLbGWoqNDtv_40.347885_-3.831645@1306269614"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601586,
+    "wof:geomhash":"24b4cc66a3ff51787e289d77241f26bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008144553
+        }
+    ],
+    "wof:id":1008144553,
+    "wof:lastmodified":1472601586,
+    "wof:name":"Otero Raez Jose Miguel",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8316454887,
+    40.3478851318,
+    -3.8316454887,
+    40.3478851318
+],
+  "geometry": {"coordinates":[-3.8316454887,40.3478851318],"type":"Point"}
+}

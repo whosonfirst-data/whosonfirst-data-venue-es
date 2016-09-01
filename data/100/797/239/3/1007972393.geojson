@@ -1,0 +1,81 @@
+{
+  "id": 1007972393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6474580765,39.5701675415,2.6474580765,39.5701675415",
+    "geom:latitude":39.570168,
+    "geom:longitude":2.647458,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Can Puigdorfila, 4",
+    "sg:city":"Palma",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 71 03 59",
+    "sg:postcode":"07001",
+    "sg:province":"Islas Baleares",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864117,
+        102191581,
+        404330817,
+        85633129,
+        404227367,
+        101748237,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WQ6shP8ZwPW5MYzfIJOVx_39.570168_2.647458@1306269591"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594054,
+    "wof:geomhash":"065b5290f3644d02b5c5185215c6adec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864117,
+            "region_id":85682647,
+            "venue_id":1007972393
+        }
+    ],
+    "wof:id":1007972393,
+    "wof:lastmodified":1472594054,
+    "wof:name":"Mediterranean Art Cb",
+    "wof:parent_id":85864117,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    2.6474580765,
+    39.5701675415,
+    2.6474580765,
+    39.5701675415
+],
+  "geometry": {"coordinates":[2.6474580765,39.5701675415],"type":"Point"}
+}

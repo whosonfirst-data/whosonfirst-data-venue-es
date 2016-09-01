@@ -1,0 +1,78 @@
+{
+  "id": 991809023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8685594201,41.656829834,-0.8685594201,41.656829834",
+    "geom:latitude":41.65683,
+    "geom:longitude":-0.868559,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Alfonso Solans, 3",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Psic\u00d3logos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 20 54 81",
+    "sg:postcode":"50014",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863329,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891,
+        85863325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EeuFT35Gb2DErwndC3viy_41.656830_-0.868559@1306269535"
+    },
+    "wof:country":"ES",
+    "wof:created":1472572417,
+    "wof:geomhash":"ddb3d274a5fc2791fc18d6dae7ccc627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863329,
+            "region_id":85682891,
+            "venue_id":991809023
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863325,
+            "region_id":85682891,
+            "venue_id":991809023
+        }
+    ],
+    "wof:id":991809023,
+    "wof:lastmodified":1472572417,
+    "wof:name":"Gomez Garcia Alicia",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8685594201,
+    41.656829834,
+    -0.8685594201,
+    41.656829834
+],
+  "geometry": {"coordinates":[-0.8685594201,41.656829834],"type":"Point"}
+}

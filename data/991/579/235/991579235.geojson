@@ -1,0 +1,73 @@
+{
+  "id": 991579235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2293660641,41.4400749207,2.2293660641,41.4400749207",
+    "geom:latitude":41.440075,
+    "geom:longitude":2.229366,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avgd Alfons Xiii, 246",
+    "sg:city":"Badalona",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 87 74 31",
+    "sg:postcode":"08914",
+    "sg:province":"Barcelona",
+    "sg:website":"www.aemontecarlo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799179,
+        102191581,
+        404330911,
+        85633129,
+        404227379,
+        101748319,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zBdP1JUuKUEjIpyWtTEwc_41.440075_2.229366@1306269504"
+    },
+    "wof:country":"ES",
+    "wof:created":1472558670,
+    "wof:geomhash":"40b2e7e05f652b6e7a7a46543aaa3c36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330911,
+            "locality_id":101748319,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799179,
+            "region_id":85682663,
+            "venue_id":991579235
+        }
+    ],
+    "wof:id":991579235,
+    "wof:lastmodified":1472558670,
+    "wof:name":"Escuela De Conductores Montecarlo S.l.",
+    "wof:parent_id":85799179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2293660641,
+    41.4400749207,
+    2.2293660641,
+    41.4400749207
+],
+  "geometry": {"coordinates":[2.2293660641,41.4400749207],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1007786401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.4662590027,40.445728302,-3.4662590027,40.445728302",
+    "geom:latitude":40.445728,
+    "geom:longitude":-3.466259,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ctra Loeches, 55",
+    "sg:city":"Torrejon Ardoz",
+    "sg:classifiers":[],
+    "sg:orig_category":"Lavado, Limpieza De Veh\u00cdculos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 56 87 60",
+    "sg:postcode":"28850",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863709,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gQivt12Ar1Kde8p5J6cMf_40.445728_-3.466259@1306269568"
+    },
+    "wof:country":"ES",
+    "wof:created":1472585551,
+    "wof:geomhash":"c1264b2663ad8cad8590f5b89bca25eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863709,
+            "region_id":85682783,
+            "venue_id":1007786401
+        }
+    ],
+    "wof:id":1007786401,
+    "wof:lastmodified":1472585551,
+    "wof:name":"La Peninsular Alcalde Hermanos S.a.",
+    "wof:parent_id":85863709,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.4662590027,
+    40.445728302,
+    -3.4662590027,
+    40.445728302
+],
+  "geometry": {"coordinates":[-3.4662590027,40.445728302],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1024496795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1762262,41.3803265,2.1762262,41.3803265",
+    "geom:latitude":41.380327,
+    "geom:longitude":2.176226,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer Escudellers Blancs 7, 2",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"08002",
+    "sg:tags":[
+        "sustainability",
+        "eco-news",
+        "citizen-journalism",
+        "diy",
+        "blogging",
+        "green-community",
+        "ethical-database"
+    ],
+    "sg:website":"http://faircompanies.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864033,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Y0jHppYL7UI8ktLSKUs0Q_41.380327_2.176226@1308163241"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641482,
+    "wof:geomhash":"2fc969d169dafbadfba74d9646223a1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864033,
+            "region_id":85682663,
+            "venue_id":1024496795
+        }
+    ],
+    "wof:id":1024496795,
+    "wof:lastmodified":1472641482,
+    "wof:name":"*faircompanies",
+    "wof:parent_id":85864033,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sustainability",
+        "eco-news",
+        "citizen-journalism",
+        "diy",
+        "blogging",
+        "green-community",
+        "ethical-database"
+    ]
+},
+  "bbox": [
+    2.1762262,
+    41.3803265,
+    2.1762262,
+    41.3803265
+],
+  "geometry": {"coordinates":[2.1762262,41.3803265],"type":"Point"}
+}

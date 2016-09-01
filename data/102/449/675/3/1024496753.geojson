@@ -1,0 +1,72 @@
+{
+  "id": 1024496753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.696277,40.4158236,-3.696277,40.4158236",
+    "geom:latitude":40.415824,
+    "geom:longitude":-3.696277,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaza Cortes 2 plaza cortes2",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"28014",
+    "sg:province":"CO",
+    "sg:website":"http://www.tuenti.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863685,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1z8YSuI9guCMMCNcoRf8m9_40.415824_-3.696277@1308163241"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641480,
+    "wof:geomhash":"5524d1a28817e82bea61e2105edf9178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863685,
+            "region_id":85682783,
+            "venue_id":1024496753
+        }
+    ],
+    "wof:id":1024496753,
+    "wof:lastmodified":1472641480,
+    "wof:name":"Tuenti Technologies",
+    "wof:parent_id":85863685,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.696277,
+    40.4158236,
+    -3.696277,
+    40.4158236
+],
+  "geometry": {"coordinates":[-3.696277,40.4158236],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 975155271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6931872368,40.4824447632,-3.6931872368,40.4824447632",
+    "geom:latitude":40.482445,
+    "geom:longitude":-3.693187,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Julio Palacios, 6",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 14 31 96",
+    "sg:postcode":"28029",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863569,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OhymDgktlSGbiQUM7aPYF_40.482445_-3.693187@1306269411"
+    },
+    "wof:country":"ES",
+    "wof:created":1472507459,
+    "wof:geomhash":"d03ebdff89b8a06a876c58e49255309e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863569,
+            "region_id":85682783,
+            "venue_id":975155271
+        }
+    ],
+    "wof:id":975155271,
+    "wof:lastmodified":1472507459,
+    "wof:name":"Acercarte Al Arte S.l",
+    "wof:parent_id":85863569,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    -3.6931872368,
+    40.4824447632,
+    -3.6931872368,
+    40.4824447632
+],
+  "geometry": {"coordinates":[-3.6931872368,40.4824447632],"type":"Point"}
+}

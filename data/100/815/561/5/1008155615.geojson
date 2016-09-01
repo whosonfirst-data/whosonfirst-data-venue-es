@@ -1,0 +1,69 @@
+{
+  "id": 1008155615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1754200459,41.3966789246,2.1754200459,41.3966789246",
+    "geom:latitude":41.396679,
+    "geom:longitude":2.17542,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Diputacio, 346",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Tea Room",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 46 25 49",
+    "sg:postcode":"08013",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "snack"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OH0T6VT3C8BUlJkLIhQbb_41.396679_2.175420@1306269615"
+    },
+    "wof:country":"ES",
+    "wof:created":1472602186,
+    "wof:geomhash":"1e1d85945acf607a385ec019ee0735df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008155615
+        }
+    ],
+    "wof:id":1008155615,
+    "wof:lastmodified":1472602186,
+    "wof:name":"Palmeiro Palmeiro Antonio",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snack"
+    ]
+},
+  "bbox": [
+    2.1754200459,
+    41.3966789246,
+    2.1754200459,
+    41.3966789246
+],
+  "geometry": {"coordinates":[2.1754200459,41.3966789246],"type":"Point"}
+}

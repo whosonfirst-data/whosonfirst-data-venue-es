@@ -1,0 +1,73 @@
+{
+  "id": 1008123549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.3604707718,36.7201805115,-4.3604707718,36.7201805115",
+    "geom:latitude":36.720181,
+    "geom:longitude":-4.360471,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ortega Munilla, 22",
+    "sg:city":"Malaga",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 29 00 79",
+    "sg:postcode":"29017",
+    "sg:province":"M\u00e1laga",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863521,
+        85682787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0T4pqKU7P49cIxEH4DodfI_36.720181_-4.360471@1306269611"
+    },
+    "wof:country":"ES",
+    "wof:created":1472600625,
+    "wof:geomhash":"9fff33f8ba04857b5681ac97565de1cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863521,
+            "region_id":85682787,
+            "venue_id":1008123549
+        }
+    ],
+    "wof:id":1008123549,
+    "wof:lastmodified":1472600625,
+    "wof:name":"Olmo Cespedes Jose",
+    "wof:parent_id":85863521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -4.3604707718,
+    36.7201805115,
+    -4.3604707718,
+    36.7201805115
+],
+  "geometry": {"coordinates":[-4.3604707718,36.7201805115],"type":"Point"}
+}

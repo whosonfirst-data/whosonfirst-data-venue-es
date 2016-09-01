@@ -1,0 +1,81 @@
+{
+  "id": 1008381911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9336299896,43.2612686157,-2.9336299896,43.2612686157",
+    "geom:latitude":43.261269,
+    "geom:longitude":-2.93363,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Eguillor Pedro, 2",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 16 06 48",
+    "sg:postcode":"48008",
+    "sg:province":"Vizcaya",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863957,
+        102191581,
+        404345949,
+        85633129,
+        404227393,
+        101748385,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ev0Wfx4w8Z0UScSzocZvI_43.261269_-2.933630@1306269646"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624836,
+    "wof:geomhash":"7e298e13c737304512624b777b5611dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345949,
+            "locality_id":101748385,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863957,
+            "region_id":85682879,
+            "venue_id":1008381911
+        }
+    ],
+    "wof:id":1008381911,
+    "wof:lastmodified":1472624836,
+    "wof:name":"Rodriguez Laguna Maria Del Carmen",
+    "wof:parent_id":85863957,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -2.9336299896,
+    43.2612686157,
+    -2.9336299896,
+    43.2612686157
+],
+  "geometry": {"coordinates":[-2.9336299896,43.2612686157],"type":"Point"}
+}

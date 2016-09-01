@@ -1,0 +1,59 @@
+{
+  "id": 1008551441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8208379745,40.3499336243,-3.8208379745,40.3499336243",
+    "geom:latitude":40.349934,
+    "geom:longitude":-3.820838,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Principe Don Juan Carlos, 2",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Papeler\u00cdas, Librer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 11 77 54",
+    "sg:postcode":"28924",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73thZHu1HNJXEVVtrPZO6Q_40.349934_-3.820838@1306269669"
+    },
+    "wof:country":"ES",
+    "wof:created":1472632168,
+    "wof:geomhash":"39391242d7b3f8eac2a03d35831cd472",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008551441
+        }
+    ],
+    "wof:id":1008551441,
+    "wof:lastmodified":1472632168,
+    "wof:name":"Somoza Diaz Manuela",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8208379745,
+    40.3499336243,
+    -3.8208379745,
+    40.3499336243
+],
+  "geometry": {"coordinates":[-3.8208379745,40.3499336243],"type":"Point"}
+}

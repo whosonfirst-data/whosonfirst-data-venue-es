@@ -1,0 +1,60 @@
+{
+  "id": 1008273119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6101861,40.5501823425,-3.6101861,40.5501823425",
+    "geom:latitude":40.550182,
+    "geom:longitude":-3.610186,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Pirineos (de Los), 13",
+    "sg:city":"San Sebastian De Los Reyes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ingeniero",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 51 12 98",
+    "sg:postcode":"28700",
+    "sg:province":"Madrid",
+    "sg:website":"www.tryp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863585,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UsxigXRDA9P8GE6b2hQjD_40.550182_-3.610186@1306269632"
+    },
+    "wof:country":"ES",
+    "wof:created":1472617255,
+    "wof:geomhash":"0a26da76be0dc65aadffbc73774b4640",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863585,
+            "region_id":85682783,
+            "venue_id":1008273119
+        }
+    ],
+    "wof:id":1008273119,
+    "wof:lastmodified":1472617255,
+    "wof:name":"Prieto Gracia Ana",
+    "wof:parent_id":85863585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6101861,
+    40.5501823425,
+    -3.6101861,
+    40.5501823425
+],
+  "geometry": {"coordinates":[-3.6101861,40.5501823425],"type":"Point"}
+}

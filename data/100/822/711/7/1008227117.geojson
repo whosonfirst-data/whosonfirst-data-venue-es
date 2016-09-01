@@ -1,0 +1,60 @@
+{
+  "id": 1008227117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9566569328,37.4072608948,-5.9566569328,37.4072608948",
+    "geom:latitude":37.407261,
+    "geom:longitude":-5.956657,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Rodio, S/n",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[],
+    "sg:orig_category":"Suministros Y Materiales Industriales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 35 72 99",
+    "sg:postcode":"41007",
+    "sg:province":"Sevilla",
+    "sg:website":"www.permarin.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864145,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nAqgn91v4vfWOgzx2jzZA_37.407261_-5.956657@1306269625"
+    },
+    "wof:country":"ES",
+    "wof:created":1472613875,
+    "wof:geomhash":"fd171792775f75d187828b9b8b789e07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864145,
+            "region_id":85682841,
+            "venue_id":1008227117
+        }
+    ],
+    "wof:id":1008227117,
+    "wof:lastmodified":1472613875,
+    "wof:name":"Permarin S.a.",
+    "wof:parent_id":85864145,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.9566569328,
+    37.4072608948,
+    -5.9566569328,
+    37.4072608948
+],
+  "geometry": {"coordinates":[-5.9566569328,37.4072608948],"type":"Point"}
+}

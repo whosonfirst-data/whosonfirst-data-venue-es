@@ -1,0 +1,59 @@
+{
+  "id": 1007845159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7746195793,40.3339614868,-3.7746195793,40.3339614868",
+    "geom:latitude":40.333961,
+    "geom:longitude":-3.77462,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Rio Guadiana, 12",
+    "sg:city":"Leganes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electricidad Veh\u00cdculo",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 94 63 65",
+    "sg:postcode":"28913",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863785,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ggTY8Ob8cLxiD33kmCCMv_40.333961_-3.774620@1306269575"
+    },
+    "wof:country":"ES",
+    "wof:created":1472588462,
+    "wof:geomhash":"c97d0d91256e83048e5fdb041ae98d53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863785,
+            "region_id":85682783,
+            "venue_id":1007845159
+        }
+    ],
+    "wof:id":1007845159,
+    "wof:lastmodified":1472588462,
+    "wof:name":"Lopez Sacristan Emilio",
+    "wof:parent_id":85863785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7746195793,
+    40.3339614868,
+    -3.7746195793,
+    40.3339614868
+],
+  "geometry": {"coordinates":[-3.7746195793,40.3339614868],"type":"Point"}
+}

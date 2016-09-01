@@ -1,0 +1,59 @@
+{
+  "id": 1007945579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8097109795,43.4604454041,-3.8097109795,43.4604454041",
+    "geom:latitude":43.460445,
+    "geom:longitude":-3.809711,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ruamayor, 8",
+    "sg:city":"Santander",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c9dicos: Medicina Interna",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 22 80 47",
+    "sg:postcode":"39008",
+    "sg:province":"Cantabria",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799303,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6919IAhHA6lphEi3CfqwHm_43.460445_-3.809711@1306269588"
+    },
+    "wof:country":"ES",
+    "wof:created":1472592943,
+    "wof:geomhash":"7e006a874f1bd69fee36eeb9f8376b49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799303,
+            "region_id":85682833,
+            "venue_id":1007945579
+        }
+    ],
+    "wof:id":1007945579,
+    "wof:lastmodified":1472592943,
+    "wof:name":"Martin-riva Porrua Luis",
+    "wof:parent_id":85799303,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8097109795,
+    43.4604454041,
+    -3.8097109795,
+    43.4604454041
+],
+  "geometry": {"coordinates":[-3.8097109795,43.4604454041],"type":"Point"}
+}

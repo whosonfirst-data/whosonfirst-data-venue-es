@@ -1,0 +1,60 @@
+{
+  "id": 1008489103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.4880700111,40.457649231,-3.4880700111,40.457649231",
+    "geom:latitude":40.457649,
+    "geom:longitude":-3.48807,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Torrejon, 26",
+    "sg:city":"Torrejon Ardoz",
+    "sg:classifiers":[],
+    "sg:orig_category":"Transporte En General",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 77 81 48",
+    "sg:postcode":"28...",
+    "sg:province":"Madrid",
+    "sg:website":"www.sdf.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863631,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09S0XyUbubWwWVs6lyHC6v_40.457649_-3.488070@1306269660"
+    },
+    "wof:country":"ES",
+    "wof:created":1472629509,
+    "wof:geomhash":"6c11e0447fd5e4f531d679ea954113fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863631,
+            "region_id":85682783,
+            "venue_id":1008489103
+        }
+    ],
+    "wof:id":1008489103,
+    "wof:lastmodified":1472629509,
+    "wof:name":"Sdf Iberica S.a.",
+    "wof:parent_id":85863631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.4880700111,
+    40.457649231,
+    -3.4880700111,
+    40.457649231
+],
+  "geometry": {"coordinates":[-3.4880700111,40.457649231],"type":"Point"}
+}

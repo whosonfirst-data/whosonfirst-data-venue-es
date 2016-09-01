@@ -1,0 +1,81 @@
+{
+  "id": 991791529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7063639164,40.4587211609,-3.7063639164,40.4587211609",
+    "geom:latitude":40.458721,
+    "geom:longitude":-3.706364,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Burgos, 3",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 59 82 62",
+    "sg:postcode":"28039",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "mercado",
+        "de",
+        "estudios"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863797,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WdaTE08ayRGOiyXn65cYa_40.458721_-3.706364@1306269533"
+    },
+    "wof:country":"ES",
+    "wof:created":1472571496,
+    "wof:geomhash":"2afc45fb19ac2acab81a134e207fead4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863797,
+            "region_id":85682783,
+            "venue_id":991791529
+        }
+    ],
+    "wof:id":991791529,
+    "wof:lastmodified":1472571496,
+    "wof:name":"Gil Carmena Enrique",
+    "wof:parent_id":85863797,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mercado",
+        "de",
+        "estudios"
+    ]
+},
+  "bbox": [
+    -3.7063639164,
+    40.4587211609,
+    -3.7063639164,
+    40.4587211609
+],
+  "geometry": {"coordinates":[-3.7063639164,40.4587211609],"type":"Point"}
+}

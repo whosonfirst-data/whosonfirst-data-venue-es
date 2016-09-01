@@ -1,0 +1,67 @@
+{
+  "id": 1008573527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.707668066,40.403755188,-3.707668066,40.403755188",
+    "geom:latitude":40.403755,
+    "geom:longitude":-3.707668,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pase Acacias, 24",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 39 65 63",
+    "sg:postcode":"28005",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863743,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KP3LJxAHqAdr3VAOiuQC9_40.403755_-3.707668@1306269672"
+    },
+    "wof:country":"ES",
+    "wof:created":1472633130,
+    "wof:geomhash":"4e15e6b783d19c30210e9087e23c4f56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863743,
+            "region_id":85682783,
+            "venue_id":1008573527
+        }
+    ],
+    "wof:id":1008573527,
+    "wof:lastmodified":1472633130,
+    "wof:name":"Supermercados De Alimentacion De Madrid S.l.",
+    "wof:parent_id":85863743,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.707668066,
+    40.403755188,
+    -3.707668066,
+    40.403755188
+],
+  "geometry": {"coordinates":[-3.707668066,40.403755188],"type":"Point"}
+}

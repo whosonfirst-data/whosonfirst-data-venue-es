@@ -1,0 +1,59 @@
+{
+  "id": 1008011841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4088580012,39.5077667236,-0.4088580012,39.5077667236",
+    "geom:latitude":39.507767,
+    "geom:longitude":-0.408858,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carr Blasco Iba\u00d1ez, 79",
+    "sg:city":"Burjassot",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicio De Salud",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 63 42 39",
+    "sg:postcode":"46100",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864227,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ajVqkO6T93cXAWP2HJEJO_39.507767_-0.408858@1306269596"
+    },
+    "wof:country":"ES",
+    "wof:created":1472595695,
+    "wof:geomhash":"d8a39385382d4cfda4b02ef3d7c386f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864227,
+            "region_id":85682867,
+            "venue_id":1008011841
+        }
+    ],
+    "wof:id":1008011841,
+    "wof:lastmodified":1472595695,
+    "wof:name":"Modagres Moreno S.l.",
+    "wof:parent_id":85864227,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4088580012,
+    39.5077667236,
+    -0.4088580012,
+    39.5077667236
+],
+  "geometry": {"coordinates":[-0.4088580012,39.5077667236],"type":"Point"}
+}

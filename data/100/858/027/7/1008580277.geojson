@@ -1,0 +1,59 @@
+{
+  "id": 1008580277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8586289883,41.6561813354,-0.8586289883,41.6561813354",
+    "geom:latitude":41.656181,
+    "geom:longitude":-0.858629,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Balbino Orensanz, 55",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electricidad: Equipos Industriales, Componentes (fabricaci\u00d3n)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 20 43 71",
+    "sg:postcode":"50014",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863327,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v3IJsqCd1641s42VX5ysD_41.656181_-0.858629@1306269673"
+    },
+    "wof:country":"ES",
+    "wof:created":1472633385,
+    "wof:geomhash":"6073bb12fa6746cea61ae8fcb3d20edf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863327,
+            "region_id":85682891,
+            "venue_id":1008580277
+        }
+    ],
+    "wof:id":1008580277,
+    "wof:lastmodified":1472633385,
+    "wof:name":"Talayero Perez Francisco Jose",
+    "wof:parent_id":85863327,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8586289883,
+    41.6561813354,
+    -0.8586289883,
+    41.6561813354
+],
+  "geometry": {"coordinates":[-0.8586289883,41.6561813354],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1007794171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5970339775,37.1649894714,-3.5970339775,37.1649894714",
+    "geom:latitude":37.164989,
+    "geom:longitude":-3.597034,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Profesor Tierno Galvan, 1",
+    "sg:city":"Granada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Lavado, Limpieza De Veh\u00cdculos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 12 31 79",
+    "sg:postcode":"18006",
+    "sg:province":"Granada",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863847,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TpVw7erqybY3qm7SLI0HZ_37.164989_-3.597034@1306269569"
+    },
+    "wof:country":"ES",
+    "wof:created":1472585983,
+    "wof:geomhash":"4227ea7f5532b47ccbbd5348e0eb1783",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863847,
+            "region_id":85682731,
+            "venue_id":1007794171
+        }
+    ],
+    "wof:id":1007794171,
+    "wof:lastmodified":1472585983,
+    "wof:name":"Lavado Emili S.l.u",
+    "wof:parent_id":85863847,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5970339775,
+    37.1649894714,
+    -3.5970339775,
+    37.1649894714
+],
+  "geometry": {"coordinates":[-3.5970339775,37.1649894714],"type":"Point"}
+}

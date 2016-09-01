@@ -1,0 +1,67 @@
+{
+  "id": 1008388753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7504329681,40.3927497864,-3.7504329681,40.3927497864",
+    "geom:latitude":40.39275,
+    "geom:longitude":-3.750433,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Yebenes, 175",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electricidad: Instaladores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 18 34 81",
+    "sg:postcode":"28047",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863765,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vXfbvPAPD2Y7ySP5MsOgf_40.392750_-3.750433@1306269647"
+    },
+    "wof:country":"ES",
+    "wof:created":1472625269,
+    "wof:geomhash":"93972b21b2411dc5411cc3dc5b06e799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863765,
+            "region_id":85682783,
+            "venue_id":1008388753
+        }
+    ],
+    "wof:id":1008388753,
+    "wof:lastmodified":1472625269,
+    "wof:name":"Rodriguez Rodriguez Pedro",
+    "wof:parent_id":85863765,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7504329681,
+    40.3927497864,
+    -3.7504329681,
+    40.3927497864
+],
+  "geometry": {"coordinates":[-3.7504329681,40.3927497864],"type":"Point"}
+}

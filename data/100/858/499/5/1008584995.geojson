@@ -1,0 +1,59 @@
+{
+  "id": 1008584995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.4840245247,40.4460411072,-3.4840245247,40.4460411072",
+    "geom:latitude":40.446041,
+    "geom:longitude":-3.484025,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Primavera, 34",
+    "sg:city":"Torrejon Ardoz",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mec\u00c1nico Del Autom\u00d3vil",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 75 21 02",
+    "sg:postcode":"28850",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863709,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7U0EGiI4pkMznsCROxeCvm_40.446041_-3.484025@1306269673"
+    },
+    "wof:country":"ES",
+    "wof:created":1472633567,
+    "wof:geomhash":"c1a926c4df0210d78202b78f8736e596",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863709,
+            "region_id":85682783,
+            "venue_id":1008584995
+        }
+    ],
+    "wof:id":1008584995,
+    "wof:lastmodified":1472633567,
+    "wof:name":"Talleres Diesel Serrano C.b.",
+    "wof:parent_id":85863709,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.4840245247,
+    40.4460411072,
+    -3.4840245247,
+    40.4460411072
+],
+  "geometry": {"coordinates":[-3.4840245247,40.4460411072],"type":"Point"}
+}

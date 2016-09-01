@@ -1,0 +1,64 @@
+{
+  "id": 1007770331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.8861849308,43.207950592,-2.8861849308,43.207950592",
+    "geom:latitude":43.207951,
+    "geom:longitude":-2.886185,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Joseba Andoni Uriarte, 1",
+    "sg:city":"Arrigorriaga",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 946 71 06 73",
+    "sg:postcode":"48480",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799203,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41XAQlRykV6jNT0ixiDTHG_43.207951_-2.886185@1306269566"
+    },
+    "wof:country":"ES",
+    "wof:created":1472584778,
+    "wof:geomhash":"cc63aee11d8bf5fda7370a6f8923f859",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799203,
+            "region_id":85682879,
+            "venue_id":1007770331
+        }
+    ],
+    "wof:id":1007770331,
+    "wof:lastmodified":1472584778,
+    "wof:name":"Kontuz Y Billy S.l",
+    "wof:parent_id":85799203,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.8861849308,
+    43.207950592,
+    -2.8861849308,
+    43.207950592
+],
+  "geometry": {"coordinates":[-2.8861849308,43.207950592],"type":"Point"}
+}

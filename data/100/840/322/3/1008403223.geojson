@@ -1,0 +1,66 @@
+{
+  "id": 1008403223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3907330036,39.4866256714,-0.3907330036,39.4866256714",
+    "geom:latitude":39.486626,
+    "geom:longitude":-0.390733,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Campanar, 22",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Promotores Constructores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 47 41 25",
+    "sg:postcode":"46015",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864227,
+        85682867,
+        85799211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7D3kAAAVEYqrtRejlELI48_39.486626_-0.390733@1306269649"
+    },
+    "wof:country":"ES",
+    "wof:created":1472625833,
+    "wof:geomhash":"33839f1d976ded11fbdb1121281df16b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864227,
+            "region_id":85682867,
+            "venue_id":1008403223
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799211,
+            "region_id":85682867,
+            "venue_id":1008403223
+        }
+    ],
+    "wof:id":1008403223,
+    "wof:lastmodified":1472625833,
+    "wof:name":"Romymar S. A.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3907330036,
+    39.4866256714,
+    -0.3907330036,
+    39.4866256714
+],
+  "geometry": {"coordinates":[-0.3907330036,39.4866256714],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 975163891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1700758934,41.3922424316,2.1700758934,41.3922424316",
+    "geom:latitude":41.392242,
+    "geom:longitude":2.170076,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Roger De Lluria, 44",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros Empresariales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 12 04 63",
+    "sg:postcode":"08009",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864017,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50eaKi9evKViBJYZKCWvpM_41.392242_2.170076@1306269413"
+    },
+    "wof:country":"ES",
+    "wof:created":1472508086,
+    "wof:geomhash":"f8c91e55f0b8e837c389cc305e34fa11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864017,
+            "region_id":85682663,
+            "venue_id":975163891
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":975163891
+        }
+    ],
+    "wof:id":975163891,
+    "wof:lastmodified":1472508086,
+    "wof:name":"Aepsat",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1700758934,
+    41.3922424316,
+    2.1700758934,
+    41.3922424316
+],
+  "geometry": {"coordinates":[2.1700758934,41.3922424316],"type":"Point"}
+}

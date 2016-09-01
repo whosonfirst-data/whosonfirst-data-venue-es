@@ -1,0 +1,78 @@
+{
+  "id": 1008084673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6533510685,40.4285545349,-3.6533510685,40.4285545349",
+    "geom:latitude":40.428555,
+    "geom:longitude":-3.653351,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pedrezuela, 9",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 04 20 36",
+    "sg:postcode":"28017",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799257,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PjXR7gbOSaYjrU9GTjJSY_40.428555_-3.653351@1306269606"
+    },
+    "wof:country":"ES",
+    "wof:created":1472598851,
+    "wof:geomhash":"0adff8786216e805d1f20a058215c1ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799257,
+            "region_id":85682783,
+            "venue_id":1008084673
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863683,
+            "region_id":85682783,
+            "venue_id":1008084673
+        }
+    ],
+    "wof:id":1008084673,
+    "wof:lastmodified":1472598851,
+    "wof:name":"Navarro Lopez Jose Maria",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6533510685,
+    40.4285545349,
+    -3.6533510685,
+    40.4285545349
+],
+  "geometry": {"coordinates":[-3.6533510685,40.4285545349],"type":"Point"}
+}

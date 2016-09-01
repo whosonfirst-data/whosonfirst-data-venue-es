@@ -1,0 +1,80 @@
+{
+  "id": 990945429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7355239391,40.4077301025,-3.7355239391,40.4077301025",
+    "geom:latitude":40.40773,
+    "geom:longitude":-3.735524,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Agila, 1",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mercados De Productos Alimenticios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 79 47 51",
+    "sg:postcode":"28011",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863811,
+        102191581,
+        404338935,
+        85633129,
+        404227387,
+        101753753,
+        85682783,
+        85863773,
+        404338863,
+        101748283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76rJ60B650QM96fP0If5iB_40.407730_-3.735524@1306269420"
+    },
+    "wof:country":"ES",
+    "wof:created":1472513337,
+    "wof:geomhash":"a7ae485a2c03ffd0712a5707b137e742",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338935,
+            "locality_id":101753753,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863811,
+            "region_id":85682783,
+            "venue_id":990945429
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863773,
+            "region_id":85682783,
+            "venue_id":990945429
+        }
+    ],
+    "wof:id":990945429,
+    "wof:lastmodified":1472513337,
+    "wof:name":"Alonso Lera Ricardo",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7355239391,
+    40.4077301025,
+    -3.7355239391,
+    40.4077301025
+],
+  "geometry": {"coordinates":[-3.7355239391,40.4077301025],"type":"Point"}
+}

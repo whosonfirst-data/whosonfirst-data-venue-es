@@ -1,0 +1,59 @@
+{
+  "id": 1008350599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8599460125,41.6470870972,-0.8599460125,41.6470870972",
+    "geom:latitude":41.647087,
+    "geom:longitude":-0.859946,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Amistad (la), 12",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Promotores Constructores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 59 47 24",
+    "sg:postcode":"50002",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863353,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UeM9SrsQi6QYXbT2MQO6w_41.647087_-0.859946@1306269642"
+    },
+    "wof:country":"ES",
+    "wof:created":1472623542,
+    "wof:geomhash":"a53d70aa9b61a631f57f480db110f3b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863353,
+            "region_id":85682891,
+            "venue_id":1008350599
+        }
+    ],
+    "wof:id":1008350599,
+    "wof:lastmodified":1472623542,
+    "wof:name":"Reycon Y Garal S.l.",
+    "wof:parent_id":85863353,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8599460125,
+    41.6470870972,
+    -0.8599460125,
+    41.6470870972
+],
+  "geometry": {"coordinates":[-0.8599460125,41.6470870972],"type":"Point"}
+}

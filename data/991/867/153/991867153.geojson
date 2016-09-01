@@ -1,0 +1,78 @@
+{
+  "id": 991867153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1698660851,41.4144325256,2.1698660851,41.4144325256",
+    "geom:latitude":41.414433,
+    "geom:longitude":2.169866,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Cartagena, 385",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Poller\u00cda Y Caza (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 50 02 46",
+    "sg:postcode":"08024",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864001,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85863997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FJBw1gHMfW45CEjT74Orn_41.414433_2.169866@1306269543"
+    },
+    "wof:country":"ES",
+    "wof:created":1472575759,
+    "wof:geomhash":"8011bda34a6f8037c80b872e51c59eb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864001,
+            "region_id":85682663,
+            "venue_id":991867153
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863997,
+            "region_id":85682663,
+            "venue_id":991867153
+        }
+    ],
+    "wof:id":991867153,
+    "wof:lastmodified":1472575759,
+    "wof:name":"Guillen Martinez Francisco",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1698660851,
+    41.4144325256,
+    2.1698660851,
+    41.4144325256
+],
+  "geometry": {"coordinates":[2.1698660851,41.4144325256],"type":"Point"}
+}

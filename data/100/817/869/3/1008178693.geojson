@@ -1,0 +1,67 @@
+{
+  "id": 1008178693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3912160099,39.4753379822,-0.3912160099,39.4753379822",
+    "geom:latitude":39.475338,
+    "geom:longitude":-0.391216,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Jacinto, 20",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Iglesia Cat\u00d3lica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 82 27 08",
+    "sg:postcode":"46008",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864207,
+        102191581,
+        404345361,
+        85633129,
+        404227381,
+        101748241,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oHCFBTGeQL4xGWItLEY15_39.475338_-0.391216@1306269619"
+    },
+    "wof:country":"ES",
+    "wof:created":1472605062,
+    "wof:geomhash":"d8ec2ee621c870796736be93108b515e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345361,
+            "locality_id":101748241,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864207,
+            "region_id":85682867,
+            "venue_id":1008178693
+        }
+    ],
+    "wof:id":1008178693,
+    "wof:lastmodified":1472605062,
+    "wof:name":"Parroquia San Antonio De Padua",
+    "wof:parent_id":85864207,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3912160099,
+    39.4753379822,
+    -0.3912160099,
+    39.4753379822
+],
+  "geometry": {"coordinates":[-0.3912160099,39.4753379822],"type":"Point"}
+}

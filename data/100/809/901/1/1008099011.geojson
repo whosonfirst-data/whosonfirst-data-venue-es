@@ -1,0 +1,67 @@
+{
+  "id": 1008099011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6626598835,41.6178321838,2.6626598835,41.6178321838",
+    "geom:latitude":41.617832,
+    "geom:longitude":2.66266,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sant Jaume, S/n",
+    "sg:city":"Calella",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 69 47 54",
+    "sg:postcode":"08370",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799549,
+        102191581,
+        404331245,
+        85633129,
+        404227379,
+        101828575,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iT43WuQ7f3Qs8Kch7CN3J_41.617832_2.662660@1306269608"
+    },
+    "wof:country":"ES",
+    "wof:created":1472599479,
+    "wof:geomhash":"241f05a5d87de0323a16add6976dd869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331245,
+            "locality_id":101828575,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799549,
+            "region_id":85682663,
+            "venue_id":1008099011
+        }
+    ],
+    "wof:id":1008099011,
+    "wof:lastmodified":1472599479,
+    "wof:name":"Noguera Martorell Enrique",
+    "wof:parent_id":85799549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6626598835,
+    41.6178321838,
+    2.6626598835,
+    41.6178321838
+],
+  "geometry": {"coordinates":[2.6626598835,41.6178321838],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1007801999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.5166190267,38.3454284668,-0.5166190267,38.3454284668",
+    "geom:latitude":38.345428,
+    "geom:longitude":-0.516619,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Orihuela, 6",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ense\u00d1anza: Costura",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 11 64 16",
+    "sg:postcode":"03006",
+    "sg:province":"Alicante",
+    "sg:website":"www.academiaparis.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864049,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625,
+        85864043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TU2WoQpvbXb8xYZATaRoe_38.345428_-0.516619@1306269570"
+    },
+    "wof:country":"ES",
+    "wof:created":1472586431,
+    "wof:geomhash":"9ca6d9ad175367db1b6a5e1857656730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864049,
+            "region_id":85682625,
+            "venue_id":1007801999
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864043,
+            "region_id":85682625,
+            "venue_id":1007801999
+        }
+    ],
+    "wof:id":1007801999,
+    "wof:lastmodified":1472586431,
+    "wof:name":"Leon Fernandez Regina De",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.5166190267,
+    38.3454284668,
+    -0.5166190267,
+    38.3454284668
+],
+  "geometry": {"coordinates":[-0.5166190267,38.3454284668],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 991804793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6604850292,40.5200386047,-3.6604850292,40.5200386047",
+    "geom:latitude":40.520039,
+    "geom:longitude":-3.660485,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Europa (de), S/n",
+    "sg:city":"Alcobendas",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 61 44 44",
+    "sg:postcode":"28108",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "y",
+        "de",
+        "campos",
+        "clases"
+    ],
+    "sg:website":"www.golfpark.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26PgNxKSpDT0RHh794mHLL_40.520039_-3.660485@1306269534"
+    },
+    "wof:country":"ES",
+    "wof:created":1472572202,
+    "wof:geomhash":"ac6c7b7ac673b02a91f38a76f1b1cc5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":991804793
+        }
+    ],
+    "wof:id":991804793,
+    "wof:lastmodified":1472572202,
+    "wof:name":"Golf Park Entertaiment S.a.",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "y",
+        "de",
+        "campos",
+        "clases"
+    ]
+},
+  "bbox": [
+    -3.6604850292,
+    40.5200386047,
+    -3.6604850292,
+    40.5200386047
+],
+  "geometry": {"coordinates":[-3.6604850292,40.5200386047],"type":"Point"}
+}

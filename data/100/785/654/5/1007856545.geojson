@@ -1,0 +1,59 @@
+{
+  "id": 1007856545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4733259976,38.3627967834,-0.4733259976,38.3627967834",
+    "geom:latitude":38.362797,
+    "geom:longitude":-0.473326,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Medico Vicente Reyes, 12",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Inmobiliaria (agencias)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 91 02 65",
+    "sg:postcode":"03012",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864065,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5l8u1JJGBeRenTeaifoYAK_38.362797_-0.473326@1306269577"
+    },
+    "wof:country":"ES",
+    "wof:created":1472589030,
+    "wof:geomhash":"6927e0c0b8e48b75d2c414060d8dd38a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864065,
+            "region_id":85682625,
+            "venue_id":1007856545
+        }
+    ],
+    "wof:id":1007856545,
+    "wof:lastmodified":1472589030,
+    "wof:name":"Luceron Cano Juan Pablo",
+    "wof:parent_id":85864065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4733259976,
+    38.3627967834,
+    -0.4733259976,
+    38.3627967834
+],
+  "geometry": {"coordinates":[-0.4733259976,38.3627967834],"type":"Point"}
+}

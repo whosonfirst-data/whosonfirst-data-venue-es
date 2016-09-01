@@ -1,0 +1,59 @@
+{
+  "id": 1008260525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8035340309,43.4680747986,-3.8035340309,43.4680747986",
+    "geom:latitude":43.468075,
+    "geom:longitude":-3.803534,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ramon Menendez Pidal, 2",
+    "sg:city":"Santander",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cl\u00cdnicas Dentales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 31 33 44",
+    "sg:postcode":"39006",
+    "sg:province":"Cantabria",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799303,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JcOUunSkA7EVRpadfk9fI_43.468075_-3.803534@1306269630"
+    },
+    "wof:country":"ES",
+    "wof:created":1472616547,
+    "wof:geomhash":"df6530fd9670151b55c02a2350814ae3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799303,
+            "region_id":85682833,
+            "venue_id":1008260525
+        }
+    ],
+    "wof:id":1008260525,
+    "wof:lastmodified":1472616547,
+    "wof:name":"Pontigo Roces Maria Celina",
+    "wof:parent_id":85799303,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8035340309,
+    43.4680747986,
+    -3.8035340309,
+    43.4680747986
+],
+  "geometry": {"coordinates":[-3.8035340309,43.4680747986],"type":"Point"}
+}

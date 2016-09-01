@@ -1,0 +1,72 @@
+{
+  "id": 1007784525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9844808578,37.3515434265,-5.9844808578,37.3515434265",
+    "geom:latitude":37.351543,
+    "geom:longitude":-5.984481,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Grecia, 8",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 62 32 06",
+    "sg:postcode":"41012",
+    "sg:province":"Sevilla",
+    "sg:tags":[
+        "organismos",
+        "control"
+    ],
+    "sg:website":"www.landaluz.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864193,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2swbw88km3WaMdLry86O0W_37.351543_-5.984481@1306269568"
+    },
+    "wof:country":"ES",
+    "wof:created":1472585450,
+    "wof:geomhash":"f9a13f4633d616660978519373e32d9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864193,
+            "region_id":85682841,
+            "venue_id":1007784525
+        }
+    ],
+    "wof:id":1007784525,
+    "wof:lastmodified":1472585450,
+    "wof:name":"Landaluz Asociacion Empresarial De La Calidad Agroalimentaria",
+    "wof:parent_id":85864193,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organismos",
+        "control"
+    ]
+},
+  "bbox": [
+    -5.9844808578,
+    37.3515434265,
+    -5.9844808578,
+    37.3515434265
+],
+  "geometry": {"coordinates":[-5.9844808578,37.3515434265],"type":"Point"}
+}

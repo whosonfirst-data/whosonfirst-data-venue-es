@@ -1,0 +1,81 @@
+{
+  "id": 1008444383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8839877248,41.6703567505,-0.8839877248,41.6703567505",
+    "geom:latitude":41.670357,
+    "geom:longitude":-0.883988,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Blas De Otero, 4",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 73 46 23",
+    "sg:postcode":"50015",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863309,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dN3ge0W6CLuef4apoZsnf_41.670357_-0.883988@1306269654"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627733,
+    "wof:geomhash":"97481ae8f94c18936c095b12a3a21adf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863309,
+            "region_id":85682891,
+            "venue_id":1008444383
+        }
+    ],
+    "wof:id":1008444383,
+    "wof:lastmodified":1472627733,
+    "wof:name":"Samper Carnicer Ana Belen",
+    "wof:parent_id":85863309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    -0.8839877248,
+    41.6703567505,
+    -0.8839877248,
+    41.6703567505
+],
+  "geometry": {"coordinates":[-0.8839877248,41.6703567505],"type":"Point"}
+}

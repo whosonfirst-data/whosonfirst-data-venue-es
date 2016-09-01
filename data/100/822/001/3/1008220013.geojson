@@ -1,0 +1,62 @@
+{
+  "id": 1008220013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.4317280054,38.9103355408,1.4317280054,38.9103355408",
+    "geom:latitude":38.910336,
+    "geom:longitude":1.431728,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carr Pere De Portugal, 11",
+    "sg:city":"Eivissa",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 31 18 06",
+    "sg:postcode":"07800",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101777557,
+        85864231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fCPF7TfQ41GgPN97CYvu2_38.910336_1.431728@1306269624"
+    },
+    "wof:country":"ES",
+    "wof:created":1472613377,
+    "wof:geomhash":"3685c2b7136a3feade1d2339db6d55eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101777557,
+            "neighbourhood_id":85864231,
+            "region_id":-1,
+            "venue_id":1008220013
+        }
+    ],
+    "wof:id":1008220013,
+    "wof:lastmodified":1472613377,
+    "wof:name":"Perez Perez Francisco",
+    "wof:parent_id":85864231,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.4317280054,
+    38.9103355408,
+    1.4317280054,
+    38.9103355408
+],
+  "geometry": {"coordinates":[1.4317280054,38.9103355408],"type":"Point"}
+}

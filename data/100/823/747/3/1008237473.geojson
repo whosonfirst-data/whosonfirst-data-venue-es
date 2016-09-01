@@ -1,0 +1,59 @@
+{
+  "id": 1008237473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8012669086,40.4673881531,-3.8012669086,40.4673881531",
+    "geom:latitude":40.467388,
+    "geom:longitude":-3.801267,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Musgo, 5",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Caf\u00c9s, Bares, Cervecer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 07 65 97",
+    "sg:postcode":"28023",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863657,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eWlMbtJ2tBRwAc08WP2O9_40.467388_-3.801267@1306269627"
+    },
+    "wof:country":"ES",
+    "wof:created":1472614338,
+    "wof:geomhash":"d8dd4f7b0b9cf72da74f5f21810378f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863657,
+            "region_id":85682783,
+            "venue_id":1008237473
+        }
+    ],
+    "wof:id":1008237473,
+    "wof:lastmodified":1472614338,
+    "wof:name":"Pick-lunch S.a.",
+    "wof:parent_id":85863657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8012669086,
+    40.4673881531,
+    -3.8012669086,
+    40.4673881531
+],
+  "geometry": {"coordinates":[-3.8012669086,40.4673881531],"type":"Point"}
+}

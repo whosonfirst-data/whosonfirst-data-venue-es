@@ -1,0 +1,66 @@
+{
+  "id": 1008491461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.359662056,36.7218170166,-4.359662056,36.7218170166",
+    "geom:latitude":36.721817,
+    "geom:longitude":-4.359662,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Villafuerte, 12",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cristaler\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 29 03 76",
+    "sg:postcode":"29017",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863517,
+        85682787,
+        85863521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gFexcWDh1fScvuH51Oqs1_36.721817_-4.359662@1306269661"
+    },
+    "wof:country":"ES",
+    "wof:created":1472629616,
+    "wof:geomhash":"3e0559953dec7cefea4652e740cc9fc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863517,
+            "region_id":85682787,
+            "venue_id":1008491461
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863521,
+            "region_id":85682787,
+            "venue_id":1008491461
+        }
+    ],
+    "wof:id":1008491461,
+    "wof:lastmodified":1472629616,
+    "wof:name":"Segado Altillo Juan",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.359662056,
+    36.7218170166,
+    -4.359662056,
+    36.7218170166
+],
+  "geometry": {"coordinates":[-4.359662056,36.7218170166],"type":"Point"}
+}

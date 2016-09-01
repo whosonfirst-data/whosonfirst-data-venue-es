@@ -1,0 +1,71 @@
+{
+  "id": 1008331441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7515661716,40.2607841492,-3.7515661716,40.2607841492",
+    "geom:latitude":40.260784,
+    "geom:longitude":-3.751566,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Valtuille, 1",
+    "sg:city":"Fuenlabrada",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 42 05 67",
+    "sg:postcode":"28947",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "en",
+        "fundiciones"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7C4Pgs4Vu9QLoqDaRpzOm4_40.260784_-3.751566@1306269639"
+    },
+    "wof:country":"ES",
+    "wof:created":1472622668,
+    "wof:geomhash":"458aeb8d6680d7732393a79689c03acb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1008331441
+        }
+    ],
+    "wof:id":1008331441,
+    "wof:lastmodified":1472622668,
+    "wof:name":"Refineria Diaz S. A.",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "en",
+        "fundiciones"
+    ]
+},
+  "bbox": [
+    -3.7515661716,
+    40.2607841492,
+    -3.7515661716,
+    40.2607841492
+],
+  "geometry": {"coordinates":[-3.7515661716,40.2607841492],"type":"Point"}
+}

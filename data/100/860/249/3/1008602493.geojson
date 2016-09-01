@@ -1,0 +1,67 @@
+{
+  "id": 1008602493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1698179245,41.3858757019,2.1698179245,41.3858757019",
+    "geom:latitude":41.385876,
+    "geom:longitude":2.169818,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pl Catalunya, 1",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sales (al Por Mayor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 01 70 76",
+    "sg:postcode":"08002",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799447,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Y7BHtsFtVx5oz424gEsmj_41.385876_2.169818@1306269676"
+    },
+    "wof:country":"ES",
+    "wof:created":1472634363,
+    "wof:geomhash":"af48da8d760ae36a4fcf32c7499a3bcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799447,
+            "region_id":85682663,
+            "venue_id":1008602493
+        }
+    ],
+    "wof:id":1008602493,
+    "wof:lastmodified":1472634363,
+    "wof:name":"Tea Shop Triangle S.l.",
+    "wof:parent_id":85799447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1698179245,
+    41.3858757019,
+    2.1698179245,
+    41.3858757019
+],
+  "geometry": {"coordinates":[2.1698179245,41.3858757019],"type":"Point"}
+}

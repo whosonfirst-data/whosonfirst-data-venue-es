@@ -1,0 +1,60 @@
+{
+  "id": 1008361895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2488598824,41.4513511658,2.2488598824,41.4513511658",
+    "geom:latitude":41.451351,
+    "geom:longitude":2.24886,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carr Carme, 2",
+    "sg:city":"Badalona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Notarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 84 19 61",
+    "sg:postcode":"08911",
+    "sg:province":"Barcelona",
+    "sg:website":"www.gasparripoll.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799485,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WXzXXVYhm7rjVjPzpirCR_41.451351_2.248860@1306269643"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624015,
+    "wof:geomhash":"4cc1a347ac53131d0b556c603d5fede3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799485,
+            "region_id":85682663,
+            "venue_id":1008361895
+        }
+    ],
+    "wof:id":1008361895,
+    "wof:lastmodified":1472624015,
+    "wof:name":"Ripoll Orti Gaspar Augusto",
+    "wof:parent_id":85799485,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2488598824,
+    41.4513511658,
+    2.2488598824,
+    41.4513511658
+],
+  "geometry": {"coordinates":[2.2488598824,41.4513511658],"type":"Point"}
+}

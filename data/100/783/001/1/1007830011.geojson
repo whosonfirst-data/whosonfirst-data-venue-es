@@ -1,0 +1,67 @@
+{
+  "id": 1007830011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1260769367,41.392906189,2.1260769367,41.392906189",
+    "geom:latitude":41.392906,
+    "geom:longitude":2.126077,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Francesc Carbonell, 36",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 04 63 01",
+    "sg:postcode":"08034",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799611,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6O7QeB9chETQNDyyl5TTci_41.392906_2.126077@1306269573"
+    },
+    "wof:country":"ES",
+    "wof:created":1472587716,
+    "wof:geomhash":"c557c09c3781c65d2da30a706ea2d641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799611,
+            "region_id":85682663,
+            "venue_id":1007830011
+        }
+    ],
+    "wof:id":1007830011,
+    "wof:lastmodified":1472587716,
+    "wof:name":"Lopez Bonet Ignacio De Loyola",
+    "wof:parent_id":85799611,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1260769367,
+    41.392906189,
+    2.1260769367,
+    41.392906189
+],
+  "geometry": {"coordinates":[2.1260769367,41.392906189],"type":"Point"}
+}

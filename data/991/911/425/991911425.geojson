@@ -1,0 +1,77 @@
+{
+  "id": 991911425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9946789742,37.3865318298,-5.9946789742,37.3865318298",
+    "geom:latitude":37.386532,
+    "geom:longitude":-5.994679,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Garcia De Vinuesa, 11",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[
+        {
+            "category":"Tea Room",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 22 12 42",
+    "sg:postcode":"41001",
+    "sg:province":"Sevilla",
+    "sg:tags":[
+        "snack"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864165,
+        102191581,
+        404342947,
+        85633129,
+        404227361,
+        101748225,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6shyWP4tG1q4e6JFo7L0X5_37.386532_-5.994679@1306269549"
+    },
+    "wof:country":"ES",
+    "wof:created":1472578059,
+    "wof:geomhash":"d83cf95a9d67e415a517fc3edea64bf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864165,
+            "region_id":85682841,
+            "venue_id":991911425
+        }
+    ],
+    "wof:id":991911425,
+    "wof:lastmodified":1472578059,
+    "wof:name":"Hijos De Eduardo Morales S. En C.",
+    "wof:parent_id":85864165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snack"
+    ]
+},
+  "bbox": [
+    -5.9946789742,
+    37.3865318298,
+    -5.9946789742,
+    37.3865318298
+],
+  "geometry": {"coordinates":[-5.9946789742,37.3865318298],"type":"Point"}
+}

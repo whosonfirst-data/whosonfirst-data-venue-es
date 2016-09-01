@@ -1,0 +1,81 @@
+{
+  "id": 991459239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7061190605,40.4181442261,-3.7061190605,40.4181442261",
+    "geom:latitude":40.418144,
+    "geom:longitude":-3.706119,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Descalzas, S/n",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 32 62 79",
+    "sg:postcode":"28013",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863747,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Pb1D1lG93Na3zDe73IDUT_40.418144_-3.706119@1306269488"
+    },
+    "wof:country":"ES",
+    "wof:created":1472552194,
+    "wof:geomhash":"08166e64a63d70e34ac0c0bafd1eb153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863747,
+            "region_id":85682783,
+            "venue_id":991459239
+        }
+    ],
+    "wof:id":991459239,
+    "wof:lastmodified":1472552194,
+    "wof:name":"Cuadrado Sanchez Manuel",
+    "wof:parent_id":85863747,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.7061190605,
+    40.4181442261,
+    -3.7061190605,
+    40.4181442261
+],
+  "geometry": {"coordinates":[-3.7061190605,40.4181442261],"type":"Point"}
+}

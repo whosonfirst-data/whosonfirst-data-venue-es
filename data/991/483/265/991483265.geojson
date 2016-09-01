@@ -1,0 +1,81 @@
+{
+  "id": 991483265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7112300396,40.4315872192,-3.7112300396,40.4315872192",
+    "geom:latitude":40.431587,
+    "geom:longitude":-3.71123,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Rodriguez San Pedro, 25",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 46 95 28",
+    "sg:postcode":"28015",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863659,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0udSpqZVxevqmmkBpkY5sq_40.431587_-3.711230@1306269491"
+    },
+    "wof:country":"ES",
+    "wof:created":1472553534,
+    "wof:geomhash":"4a0ebf91c78a6de9e4a643657a349fc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863659,
+            "region_id":85682783,
+            "venue_id":991483265
+        }
+    ],
+    "wof:id":991483265,
+    "wof:lastmodified":1472553534,
+    "wof:name":"Del Pozo Delgado Francisco Jose",
+    "wof:parent_id":85863659,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.7112300396,
+    40.4315872192,
+    -3.7112300396,
+    40.4315872192
+],
+  "geometry": {"coordinates":[-3.7112300396,40.4315872192],"type":"Point"}
+}

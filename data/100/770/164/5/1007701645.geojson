@@ -1,0 +1,80 @@
+{
+  "id": 1007701645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.0025396347,37.3789482117,-6.0025396347,37.3789482117",
+    "geom:latitude":37.378948,
+    "geom:longitude":-6.00254,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ardilla, 13",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 27 74 38",
+    "sg:postcode":"41010",
+    "sg:province":"Sevilla",
+    "sg:tags":[
+        "organismos",
+        "control"
+    ],
+    "sg:website":"www.inteinco.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864129,
+        102191581,
+        404342947,
+        85633129,
+        404227361,
+        101748225,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DtXF9baOdGzakpjGaegOo_37.378948_-6.002540@1306269557"
+    },
+    "wof:country":"ES",
+    "wof:created":1472581053,
+    "wof:geomhash":"c004abb98032e26caccf93a9a9f0ea16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864129,
+            "region_id":85682841,
+            "venue_id":1007701645
+        }
+    ],
+    "wof:id":1007701645,
+    "wof:lastmodified":1472581053,
+    "wof:name":"Inteinco S.a.",
+    "wof:parent_id":85864129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organismos",
+        "control"
+    ]
+},
+  "bbox": [
+    -6.0025396347,
+    37.3789482117,
+    -6.0025396347,
+    37.3789482117
+],
+  "geometry": {"coordinates":[-6.0025396347,37.3789482117],"type":"Point"}
+}

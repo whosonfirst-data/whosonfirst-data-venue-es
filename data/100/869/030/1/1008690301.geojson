@@ -1,0 +1,59 @@
+{
+  "id": 1008690301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5375030041,40.4395370483,-3.5375030041,40.4395370483",
+    "geom:latitude":40.439537,
+    "geom:longitude":-3.537503,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Copernico, 70",
+    "sg:city":"Coslada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Impuestos, Tesoro P\u00dablico",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 72 42 96",
+    "sg:postcode":"28820",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863631,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IhVvONqDa9uLBnyqvxpDf_40.439537_-3.537503@1306269687"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638088,
+    "wof:geomhash":"d12bfd6d241326acf58e77b6d87ca869",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863631,
+            "region_id":85682783,
+            "venue_id":1008690301
+        }
+    ],
+    "wof:id":1008690301,
+    "wof:lastmodified":1472638088,
+    "wof:name":"Valtecnic S.a.",
+    "wof:parent_id":85863631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5375030041,
+    40.4395370483,
+    -3.5375030041,
+    40.4395370483
+],
+  "geometry": {"coordinates":[-3.5375030041,40.4395370483],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1008046759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8164701462,40.3409919739,-3.8164701462,40.3409919739",
+    "geom:latitude":40.340992,
+    "geom:longitude":-3.81647,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Olimpico Francisco Fernandez Ochoa, 1",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alimentaci\u00d3n General (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 41 58 63",
+    "sg:postcode":"28923",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77EVLjtA43oL3JY0n2ceEY_40.340992_-3.816470@1306269601"
+    },
+    "wof:country":"ES",
+    "wof:created":1472597197,
+    "wof:geomhash":"f29263a0161a107258b4ff82f414f3cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008046759
+        }
+    ],
+    "wof:id":1008046759,
+    "wof:lastmodified":1472597197,
+    "wof:name":"Moreno Rocha Juan",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8164701462,
+    40.3409919739,
+    -3.8164701462,
+    40.3409919739
+],
+  "geometry": {"coordinates":[-3.8164701462,40.3409919739],"type":"Point"}
+}

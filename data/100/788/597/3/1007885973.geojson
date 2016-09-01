@@ -1,0 +1,67 @@
+{
+  "id": 1007885973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6407539845,40.3842849731,-3.6407539845,40.3842849731",
+    "geom:latitude":40.384285,
+    "geom:longitude":-3.640754,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Torremolinos, 8",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Estancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 78 26 02",
+    "sg:postcode":"28018",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799645,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27Gp3UiuXDZFLRrv5zrYj8_40.384285_-3.640754@1306269581"
+    },
+    "wof:country":"ES",
+    "wof:created":1472590302,
+    "wof:geomhash":"a203122cade201794f040d727c7bd60a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799645,
+            "region_id":85682783,
+            "venue_id":1007885973
+        }
+    ],
+    "wof:id":1007885973,
+    "wof:lastmodified":1472590302,
+    "wof:name":"Manzanares Lopez Vicente",
+    "wof:parent_id":85799645,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6407539845,
+    40.3842849731,
+    -3.6407539845,
+    40.3842849731
+],
+  "geometry": {"coordinates":[-3.6407539845,40.3842849731],"type":"Point"}
+}

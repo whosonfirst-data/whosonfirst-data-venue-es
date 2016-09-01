@@ -1,0 +1,72 @@
+{
+  "id": 1007944073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.072455883,41.3563156128,2.072455883,41.3563156128",
+    "geom:latitude":41.356316,
+    "geom:longitude":2.072456,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Josep Cuxart, 1",
+    "sg:city":"Cornella Llobregat",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 77 75 88",
+    "sg:postcode":"08940",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799381,
+        102191581,
+        404331349,
+        85633129,
+        404227379,
+        101758769,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vdm4crLhXyoEB9nvQFLza_41.356316_2.072456@1306269588"
+    },
+    "wof:country":"ES",
+    "wof:created":1472592872,
+    "wof:geomhash":"c94ad913a4c38a77557702739978f70d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331349,
+            "locality_id":101758769,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799381,
+            "region_id":85682663,
+            "venue_id":1007944073
+        }
+    ],
+    "wof:id":1007944073,
+    "wof:lastmodified":1472592872,
+    "wof:name":"Martin Murciano Ricardo",
+    "wof:parent_id":85799381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.072455883,
+    41.3563156128,
+    2.072455883,
+    41.3563156128
+],
+  "geometry": {"coordinates":[2.072455883,41.3563156128],"type":"Point"}
+}

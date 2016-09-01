@@ -1,0 +1,81 @@
+{
+  "id": 1008421013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9979538918,37.3736839294,-5.9979538918,37.3736839294",
+    "geom:latitude":37.373684,
+    "geom:longitude":-5.997954,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Virgen Del Valle, 95",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 27 82 47",
+    "sg:postcode":"41011",
+    "sg:province":"Sevilla",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864133,
+        102191581,
+        404342947,
+        85633129,
+        404227361,
+        101748225,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Yq61WtTS0TbojFYq7V0J3_37.373684_-5.997954@1306269651"
+    },
+    "wof:country":"ES",
+    "wof:created":1472626727,
+    "wof:geomhash":"37402dc511bf195066cb1fe6cd6bc5c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864133,
+            "region_id":85682841,
+            "venue_id":1008421013
+        }
+    ],
+    "wof:id":1008421013,
+    "wof:lastmodified":1472626727,
+    "wof:name":"Ruiz Gonzalez Jose Luis",
+    "wof:parent_id":85864133,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -5.9979538918,
+    37.3736839294,
+    -5.9979538918,
+    37.3736839294
+],
+  "geometry": {"coordinates":[-5.9979538918,37.3736839294],"type":"Point"}
+}

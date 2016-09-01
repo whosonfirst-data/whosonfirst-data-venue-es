@@ -1,0 +1,59 @@
+{
+  "id": 1008140405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1057620049,41.5453834534,2.1057620049,41.5453834534",
+    "geom:latitude":41.545383,
+    "geom:longitude":2.105762,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Torras I Bages, 2",
+    "sg:city":"Sabadell",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asesor\u00cda Fiscal Y Jur\u00cddica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 27 00 97",
+    "sg:postcode":"08201",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CJEhLPwbp18K8pL9tqhTV_41.545383_2.105762@1306269613"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601402,
+    "wof:geomhash":"c454ca82c1a90b00f656520227f6d46d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008140405
+        }
+    ],
+    "wof:id":1008140405,
+    "wof:lastmodified":1472601402,
+    "wof:name":"Ortomesa S.a.",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1057620049,
+    41.5453834534,
+    2.1057620049,
+    41.5453834534
+],
+  "geometry": {"coordinates":[2.1057620049,41.5453834534],"type":"Point"}
+}

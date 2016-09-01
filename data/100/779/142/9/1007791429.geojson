@@ -1,0 +1,60 @@
+{
+  "id": 1007791429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.8247230053,41.727596283,1.8247230053,41.727596283",
+    "geom:latitude":41.727596,
+    "geom:longitude":1.824723,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Angel Guimera, 42",
+    "sg:city":"Manresa",
+    "sg:classifiers":[],
+    "sg:orig_category":"Congelados: Productos Alimentarios (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 938 74 28 08",
+    "sg:postcode":"08241",
+    "sg:province":"Barcelona",
+    "sg:website":"www.lasirena.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uLnnHd1x5pSuKBONdpBOH_41.727596_1.824723@1306269569"
+    },
+    "wof:country":"ES",
+    "wof:created":1472585818,
+    "wof:geomhash":"8716ddd95baf8ead6209b5119edf5d69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1007791429
+        }
+    ],
+    "wof:id":1007791429,
+    "wof:lastmodified":1472585818,
+    "wof:name":"La Sirena Alimentacion Congelada S.l.u.",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.8247230053,
+    41.727596283,
+    1.8247230053,
+    41.727596283
+],
+  "geometry": {"coordinates":[1.8247230053,41.727596283],"type":"Point"}
+}

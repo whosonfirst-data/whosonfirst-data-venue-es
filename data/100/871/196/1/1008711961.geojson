@@ -1,0 +1,60 @@
+{
+  "id": 1008711961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6285569668,40.5453414917,-3.6285569668,40.5453414917",
+    "geom:latitude":40.545341,
+    "geom:longitude":-3.628557,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Colmenar Viejo (de), 12",
+    "sg:city":"San Sebastian De Los Reyes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 53 46 86",
+    "sg:postcode":"28700",
+    "sg:province":"Madrid",
+    "sg:website":"www.viajescrisol.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eWzvVy7sFeOUL8DojGjSL_40.545341_-3.628557@1306269690"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639080,
+    "wof:geomhash":"6cfd3c871d1aa19900257d0092098454",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1008711961
+        }
+    ],
+    "wof:id":1008711961,
+    "wof:lastmodified":1472639080,
+    "wof:name":"Viajes Crisol S A",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6285569668,
+    40.5453414917,
+    -3.6285569668,
+    40.5453414917
+],
+  "geometry": {"coordinates":[-3.6285569668,40.5453414917],"type":"Point"}
+}

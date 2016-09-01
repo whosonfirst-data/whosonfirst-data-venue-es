@@ -1,0 +1,80 @@
+{
+  "id": 1008046415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1253008842,41.3735466003,2.1253008842,41.3735466003",
+    "geom:latitude":41.373547,
+    "geom:longitude":2.125301,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Puig I Valls, 30",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Contenedores (mercanc\u00cdas)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 33 14 09",
+    "sg:postcode":"08028",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799597,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85799283,
+        404331105,
+        101748333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7b2Jovb5tetfSuRl2yUneM_41.373547_2.125301@1306269600"
+    },
+    "wof:country":"ES",
+    "wof:created":1472597184,
+    "wof:geomhash":"1c39c0828c89a741255550a160ab7d8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799597,
+            "region_id":85682663,
+            "venue_id":1008046415
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331105,
+            "locality_id":101748333,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799283,
+            "region_id":85682663,
+            "venue_id":1008046415
+        }
+    ],
+    "wof:id":1008046415,
+    "wof:lastmodified":1472597184,
+    "wof:name":"Moreno Perez Tomas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1253008842,
+    41.3735466003,
+    2.1253008842,
+    41.3735466003
+],
+  "geometry": {"coordinates":[2.1253008842,41.3735466003],"type":"Point"}
+}

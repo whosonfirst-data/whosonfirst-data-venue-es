@@ -1,0 +1,62 @@
+{
+  "id": 1008645487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4803130031,38.3454437256,-0.4803130031,38.3454437256",
+    "geom:latitude":38.345444,
+    "geom:longitude":-0.480313,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Jorge Juan, 6",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Organizaciones Profesionales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 14 21 00",
+    "sg:postcode":"03002",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101748211,
+        85864069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iQqUKD3ipjeVY5kmniNnJ_38.345444_-0.480313@1306269681"
+    },
+    "wof:country":"ES",
+    "wof:created":1472636218,
+    "wof:geomhash":"bc5a62b78b0a58b7bd9859a55a97682e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748211,
+            "neighbourhood_id":85864069,
+            "region_id":-1,
+            "venue_id":1008645487
+        }
+    ],
+    "wof:id":1008645487,
+    "wof:lastmodified":1472636218,
+    "wof:name":"Transamares Levante S.a.",
+    "wof:parent_id":85864069,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4803130031,
+    38.3454437256,
+    -0.4803130031,
+    38.3454437256
+],
+  "geometry": {"coordinates":[-0.4803130031,38.3454437256],"type":"Point"}
+}

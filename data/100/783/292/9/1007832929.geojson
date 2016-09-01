@@ -1,0 +1,64 @@
+{
+  "id": 1007832929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8265445232,40.3422393799,-3.8265445232,40.3422393799",
+    "geom:latitude":40.342239,
+    "geom:longitude":-3.826545,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Cantos (los), 24",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 41 33 84",
+    "sg:postcode":"28922",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4q5hfMhlJDt9aaE8Wa0DXK_40.342239_-3.826545@1306269574"
+    },
+    "wof:country":"ES",
+    "wof:created":1472587867,
+    "wof:geomhash":"feacb00517f0fc6219deb2578fd1ffdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1007832929
+        }
+    ],
+    "wof:id":1007832929,
+    "wof:lastmodified":1472587867,
+    "wof:name":"Lopez Domingo Aquilino",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8265445232,
+    40.3422393799,
+    -3.8265445232,
+    40.3422393799
+],
+  "geometry": {"coordinates":[-3.8265445232,40.3422393799],"type":"Point"}
+}

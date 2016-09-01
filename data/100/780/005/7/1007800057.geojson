@@ -1,0 +1,81 @@
+{
+  "id": 1007800057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.4479870796,36.7304878235,-4.4479870796,36.7304878235",
+    "geom:latitude":36.730488,
+    "geom:longitude":-4.447987,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Galeno, 22",
+    "sg:city":"Malaga",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 39 51 11",
+    "sg:postcode":"29011",
+    "sg:province":"M\u00e1laga",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863467,
+        102191581,
+        404339241,
+        85633129,
+        404227361,
+        101748185,
+        85682787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vcsCnGLFJS95lUvI9vdaE_36.730488_-4.447987@1306269570"
+    },
+    "wof:country":"ES",
+    "wof:created":1472586334,
+    "wof:geomhash":"6233e1e5ce064e00b73611abe0ce5834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863467,
+            "region_id":85682787,
+            "venue_id":1007800057
+        }
+    ],
+    "wof:id":1007800057,
+    "wof:lastmodified":1472586334,
+    "wof:name":"Leiva Merida Juan",
+    "wof:parent_id":85863467,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -4.4479870796,
+    36.7304878235,
+    -4.4479870796,
+    36.7304878235
+],
+  "geometry": {"coordinates":[-4.4479870796,36.7304878235],"type":"Point"}
+}

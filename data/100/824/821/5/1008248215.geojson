@@ -1,0 +1,63 @@
+{
+  "id": 1008248215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1914689541,41.3796653748,2.1914689541,41.3796653748",
+    "geom:latitude":41.379665,
+    "geom:longitude":2.191469,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sant Carles, 31",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Estancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 21 68 87",
+    "sg:postcode":"08003",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RXmsxbDrBS1wL1is0hn5D_41.379665_2.191469@1306269628"
+    },
+    "wof:country":"ES",
+    "wof:created":1472615865,
+    "wof:geomhash":"4b92df812205474a806ed16a5244233a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":1008248215
+        }
+    ],
+    "wof:id":1008248215,
+    "wof:lastmodified":1472615865,
+    "wof:name":"Pi\u00f1a Sanchez Clotilde",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1914689541,
+    41.3796653748,
+    2.1914689541,
+    41.3796653748
+],
+  "geometry": {"coordinates":[2.1914689541,41.3796653748],"type":"Point"}
+}

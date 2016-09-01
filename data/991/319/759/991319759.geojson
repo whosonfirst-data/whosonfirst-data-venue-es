@@ -1,0 +1,65 @@
+{
+  "id": 991319759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.4712440968,40.4643096924,-3.4712440968,40.4643096924",
+    "geom:latitude":40.46431,
+    "geom:longitude":-3.471244,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Madrid, S/n",
+    "sg:city":"Torrejon Ardoz",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sanatorios M\u00c9dico",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 76 25 12",
+    "sg:postcode":"28850",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102545765,
+        85682783,
+        102191581,
+        404339005,
+        85633129,
+        404227387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ei7Bw5r6kInur5rQZdCH3_40.464310_-3.471244@1306269470"
+    },
+    "wof:country":"ES",
+    "wof:created":1472543564,
+    "wof:geomhash":"e05601fc006b488cb8be04d083b58610",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545765,
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339005,
+            "macroregion_id":404227387,
+            "region_id":85682783,
+            "venue_id":991319759
+        }
+    ],
+    "wof:id":991319759,
+    "wof:lastmodified":1472543564,
+    "wof:name":"Centro Municipal De La Salud",
+    "wof:parent_id":102545765,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.4712440968,
+    40.4643096924,
+    -3.4712440968,
+    40.4643096924
+],
+  "geometry": {"coordinates":[-3.4712440968,40.4643096924],"type":"Point"}
+}

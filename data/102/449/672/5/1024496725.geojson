@@ -1,0 +1,94 @@
+{
+  "id": 1024496725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3983456,39.4612679,-0.3983456,39.4612679",
+    "geom:latitude":39.461268,
+    "geom:longitude":-0.398346,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"C/Alqueria de Benlloch 24",
+    "sg:city":"Valencia",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"46014",
+    "sg:tags":[
+        "control",
+        "zigbee",
+        "home",
+        "domotics",
+        "automation",
+        "wireless",
+        "franchise",
+        "gsm",
+        "sms",
+        "lte"
+    ],
+    "sg:website":"http://www.domodesk.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864219,
+        102191581,
+        404345047,
+        85633129,
+        404227381,
+        101753691,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lAVsJrtGANbpmTWTHdjkU_39.461268_-0.398346@1308163240"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641479,
+    "wof:geomhash":"da0990716a3fc9adff675ea6178ef866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345047,
+            "locality_id":101753691,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864219,
+            "region_id":85682867,
+            "venue_id":1024496725
+        }
+    ],
+    "wof:id":1024496725,
+    "wof:lastmodified":1472641479,
+    "wof:name":"DOMODESK",
+    "wof:parent_id":85864219,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "zigbee",
+        "home",
+        "domotics",
+        "automation",
+        "wireless",
+        "franchise",
+        "gsm",
+        "sms",
+        "lte"
+    ]
+},
+  "bbox": [
+    -0.3983456,
+    39.4612679,
+    -0.3983456,
+    39.4612679
+],
+  "geometry": {"coordinates":[-0.3983456,39.4612679],"type":"Point"}
+}

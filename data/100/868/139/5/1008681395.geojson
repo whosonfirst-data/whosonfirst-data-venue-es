@@ -1,0 +1,67 @@
+{
+  "id": 1008681395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7162330151,40.438659668,-3.7162330151,40.438659668",
+    "geom:latitude":40.43866,
+    "geom:longitude":-3.716233,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Hilarion Eslava, 62",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 49 10 04",
+    "sg:postcode":"28015",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863655,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_298o6CoGNixpnTeS8i9wJ8_40.438660_-3.716233@1306269686"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637684,
+    "wof:geomhash":"3401157c9c5ecadc5be18f2f092aac31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863655,
+            "region_id":85682783,
+            "venue_id":1008681395
+        }
+    ],
+    "wof:id":1008681395,
+    "wof:lastmodified":1472637684,
+    "wof:name":"Valcarcel Abogados",
+    "wof:parent_id":85863655,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7162330151,
+    40.438659668,
+    -3.7162330151,
+    40.438659668
+],
+  "geometry": {"coordinates":[-3.7162330151,40.438659668],"type":"Point"}
+}

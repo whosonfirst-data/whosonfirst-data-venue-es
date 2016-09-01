@@ -1,0 +1,59 @@
+{
+  "id": 1008419093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7199912071,40.3155937195,-3.7199912071,40.3155937195",
+    "geom:latitude":40.315594,
+    "geom:longitude":-3.719991,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Catalu\u00d1a, 17",
+    "sg:city":"Getafe",
+    "sg:classifiers":[],
+    "sg:orig_category":"Frutas, Legumbres Frescas Y Tempranas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 83 83 79",
+    "sg:postcode":"28903",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HOpmqeiXgPp9Vn2mueCzL_40.315594_-3.719991@1306269651"
+    },
+    "wof:country":"ES",
+    "wof:created":1472626649,
+    "wof:geomhash":"0021af85c5ddaa8c47c36b2ff749dda6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1008419093
+        }
+    ],
+    "wof:id":1008419093,
+    "wof:lastmodified":1472626649,
+    "wof:name":"Ruiz Cruz Lucio",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7199912071,
+    40.3155937195,
+    -3.7199912071,
+    40.3155937195
+],
+  "geometry": {"coordinates":[-3.7199912071,40.3155937195],"type":"Point"}
+}

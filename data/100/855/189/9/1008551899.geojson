@@ -1,0 +1,78 @@
+{
+  "id": 1008551899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7073347569,40.4075469971,-3.7073347569,40.4075469971",
+    "geom:latitude":40.407547,
+    "geom:longitude":-3.707335,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ribera De Curtidores, 18",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Animales (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 67 50 01",
+    "sg:postcode":"28005",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863793,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6abzpYYVAqzMj9rFfhyU0j_40.407547_-3.707335@1306269669"
+    },
+    "wof:country":"ES",
+    "wof:created":1472632188,
+    "wof:geomhash":"aafa2db396d0d537a633327b1cb21301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863793,
+            "region_id":85682783,
+            "venue_id":1008551899
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863743,
+            "region_id":85682783,
+            "venue_id":1008551899
+        }
+    ],
+    "wof:id":1008551899,
+    "wof:lastmodified":1472632188,
+    "wof:name":"Sonia De La Fuente Barahona Y Mariano Jose Villa Hidalgo S.c.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7073347569,
+    40.4075469971,
+    -3.7073347569,
+    40.4075469971
+],
+  "geometry": {"coordinates":[-3.7073347569,40.4075469971],"type":"Point"}
+}

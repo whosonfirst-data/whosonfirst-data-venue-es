@@ -1,0 +1,59 @@
+{
+  "id": 1008387865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6282000542,40.5603561401,-3.6282000542,40.5603561401",
+    "geom:latitude":40.560356,
+    "geom:longitude":-3.6282,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Navarrondan (de), 20",
+    "sg:city":"San Sebastian De Los Reyes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 52 05 79",
+    "sg:postcode":"28700",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wug702cyAg0iaSF8hfL55_40.560356_-3.628200@1306269647"
+    },
+    "wof:country":"ES",
+    "wof:created":1472625233,
+    "wof:geomhash":"fef88de54e78e1798df84bc5c9ebf2c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1008387865
+        }
+    ],
+    "wof:id":1008387865,
+    "wof:lastmodified":1472625233,
+    "wof:name":"Rodriguez Rodriguez Almudena",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6282000542,
+    40.5603561401,
+    -3.6282000542,
+    40.5603561401
+],
+  "geometry": {"coordinates":[-3.6282000542,40.5603561401],"type":"Point"}
+}

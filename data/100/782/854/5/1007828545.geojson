@@ -1,0 +1,59 @@
+{
+  "id": 1007828545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8329384327,40.3473320007,-3.8329384327,40.3473320007",
+    "geom:latitude":40.347332,
+    "geom:longitude":-3.832938,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Caceres, 26",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mec\u00c1nico Del Autom\u00d3vil",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 43 65 14",
+    "sg:postcode":"28921",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wbrbS9k4VRyM1JDbJBgVv_40.347332_-3.832938@1306269573"
+    },
+    "wof:country":"ES",
+    "wof:created":1472587635,
+    "wof:geomhash":"0281863835d6ae8bbd391e75403a245a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1007828545
+        }
+    ],
+    "wof:id":1007828545,
+    "wof:lastmodified":1472587635,
+    "wof:name":"Lopez Alvarez Jose",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8329384327,
+    40.3473320007,
+    -3.8329384327,
+    40.3473320007
+],
+  "geometry": {"coordinates":[-3.8329384327,40.3473320007],"type":"Point"}
+}

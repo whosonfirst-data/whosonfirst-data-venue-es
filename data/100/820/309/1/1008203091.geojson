@@ -1,0 +1,60 @@
+{
+  "id": 1008203091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3917950094,39.4803314209,-0.3917950094,39.4803314209",
+    "geom:latitude":39.480331,
+    "geom:longitude":-0.391795,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av. Pio Xii",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ropa Y Accesorios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 45 50 43",
+    "sg:postcode":"46009",
+    "sg:province":"Valencia",
+    "sg:website":"www.pepejeans.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799211,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56jVsPZh08jX3a8oOe6gEF_39.480331_-0.391795@1306269622"
+    },
+    "wof:country":"ES",
+    "wof:created":1472610258,
+    "wof:geomhash":"4448f2f6041c88780da6ebddf5411070",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799211,
+            "region_id":85682867,
+            "venue_id":1008203091
+        }
+    ],
+    "wof:id":1008203091,
+    "wof:lastmodified":1472610258,
+    "wof:name":"Pepe Jeans S.l",
+    "wof:parent_id":85799211,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3917950094,
+    39.4803314209,
+    -0.3917950094,
+    39.4803314209
+],
+  "geometry": {"coordinates":[-0.3917950094,39.4803314209],"type":"Point"}
+}

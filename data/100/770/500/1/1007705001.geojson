@@ -1,0 +1,67 @@
+{
+  "id": 1007705001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6681571007,40.4278793335,-3.6681571007,40.4278793335",
+    "geom:latitude":40.427879,
+    "geom:longitude":-3.668157,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Manuel Becerra, 15",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Parques De Atracciones Y Centros De Esparcimiento",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 25 88 89",
+    "sg:postcode":"28028",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863683,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LLp8kin0yBCw1lu5bvmwC_40.427879_-3.668157@1306269557"
+    },
+    "wof:country":"ES",
+    "wof:created":1472581209,
+    "wof:geomhash":"d02e3e9396a28d5924693ec27b05d84b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863683,
+            "region_id":85682783,
+            "venue_id":1007705001
+        }
+    ],
+    "wof:id":1007705001,
+    "wof:lastmodified":1472581209,
+    "wof:name":"Inverexpan",
+    "wof:parent_id":85863683,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6681571007,
+    40.4278793335,
+    -3.6681571007,
+    40.4278793335
+],
+  "geometry": {"coordinates":[-3.6681571007,40.4278793335],"type":"Point"}
+}

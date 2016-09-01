@@ -1,0 +1,67 @@
+{
+  "id": 1008015331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1895909309,41.4098014832,2.1895909309,41.4098014832",
+    "geom:latitude":41.409801,
+    "geom:longitude":2.189591,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Soler I Rovirosa, 8",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Transporte En General",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 45 69 57",
+    "sg:postcode":"08018",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799265,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74q3W5FluM97sCEimPmpQt_41.409801_2.189591@1306269597"
+    },
+    "wof:country":"ES",
+    "wof:created":1472595844,
+    "wof:geomhash":"01f46084f510237eb7d27db7e40cee70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799265,
+            "region_id":85682663,
+            "venue_id":1008015331
+        }
+    ],
+    "wof:id":1008015331,
+    "wof:lastmodified":1472595844,
+    "wof:name":"Moles Velando Ramon",
+    "wof:parent_id":85799265,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1895909309,
+    41.4098014832,
+    2.1895909309,
+    41.4098014832
+],
+  "geometry": {"coordinates":[2.1895909309,41.4098014832],"type":"Point"}
+}

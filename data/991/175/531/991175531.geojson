@@ -1,0 +1,78 @@
+{
+  "id": 991175531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.709403038,40.4089202881,-3.709403038,40.4089202881",
+    "geom:latitude":40.40892,
+    "geom:longitude":-3.709403,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Mira El Rio Alta, 8",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Comisarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 66 94 07",
+    "sg:postcode":"28005",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863775,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03U6QwiU1DeDL7wo68otFs_40.408920_-3.709403@1306269450"
+    },
+    "wof:country":"ES",
+    "wof:created":1472534553,
+    "wof:geomhash":"68533b3544b58d76657bc9f797f91d82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863775,
+            "region_id":85682783,
+            "venue_id":991175531
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863793,
+            "region_id":85682783,
+            "venue_id":991175531
+        }
+    ],
+    "wof:id":991175531,
+    "wof:lastmodified":1472534553,
+    "wof:name":"Bravo Cuadrado Maximo",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.709403038,
+    40.4089202881,
+    -3.709403038,
+    40.4089202881
+],
+  "geometry": {"coordinates":[-3.709403038,40.4089202881],"type":"Point"}
+}

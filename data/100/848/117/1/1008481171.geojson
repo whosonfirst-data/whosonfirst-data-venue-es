@@ -1,0 +1,67 @@
+{
+  "id": 1008481171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1889719963,41.4230918884,2.1889719963,41.4230918884",
+    "geom:latitude":41.423092,
+    "geom:longitude":2.188972,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Valles I Ribot, 8",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 52 24 07",
+    "sg:postcode":"08027",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864003,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zZP72LeZRFLYvmsyVwIN3_41.423092_2.188972@1306269659"
+    },
+    "wof:country":"ES",
+    "wof:created":1472629172,
+    "wof:geomhash":"1e041b6cd76fd6aae725130cac77e59b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864003,
+            "region_id":85682663,
+            "venue_id":1008481171
+        }
+    ],
+    "wof:id":1008481171,
+    "wof:lastmodified":1472629172,
+    "wof:name":"Sanz Suay Nestor",
+    "wof:parent_id":85864003,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1889719963,
+    41.4230918884,
+    2.1889719963,
+    41.4230918884
+],
+  "geometry": {"coordinates":[2.1889719963,41.4230918884],"type":"Point"}
+}

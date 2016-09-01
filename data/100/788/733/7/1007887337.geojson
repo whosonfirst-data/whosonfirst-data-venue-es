@@ -1,0 +1,81 @@
+{
+  "id": 1007887337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6935319901,40.4822006226,-3.6935319901,40.4822006226",
+    "geom:latitude":40.482201,
+    "geom:longitude":-3.693532,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Julio Palacios, 6",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 33 68 80",
+    "sg:postcode":"28029",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863569,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lyyaI6MlXx5YTonxKD1ID_40.482201_-3.693532@1306269581"
+    },
+    "wof:country":"ES",
+    "wof:created":1472590340,
+    "wof:geomhash":"0c93fa5b7dbdb9b7d3243a66a8059cb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863569,
+            "region_id":85682783,
+            "venue_id":1007887337
+        }
+    ],
+    "wof:id":1007887337,
+    "wof:lastmodified":1472590340,
+    "wof:name":"Manzanos Luna Armando",
+    "wof:parent_id":85863569,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ]
+},
+  "bbox": [
+    -3.6935319901,
+    40.4822006226,
+    -3.6935319901,
+    40.4822006226
+],
+  "geometry": {"coordinates":[-3.6935319901,40.4822006226],"type":"Point"}
+}

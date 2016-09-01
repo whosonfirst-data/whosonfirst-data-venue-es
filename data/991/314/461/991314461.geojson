@@ -1,0 +1,59 @@
+{
+  "id": 991314461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6060180664,37.1572532654,-3.6060180664,37.1572532654",
+    "geom:latitude":37.157253,
+    "geom:longitude":-3.606018,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Maria Auxiliadora, 11",
+    "sg:city":"Granada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros M\u00c9dicos Y Sociales, Dispensarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 18 30 37",
+    "sg:postcode":"18006",
+    "sg:province":"Granada",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863847,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xvjTx3LNQxWqfIAnPznjw_37.157253_-3.606018@1306269469"
+    },
+    "wof:country":"ES",
+    "wof:created":1472543322,
+    "wof:geomhash":"6f13ed2f60c5ea296d72ae230661d79c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863847,
+            "region_id":85682731,
+            "venue_id":991314461
+        }
+    ],
+    "wof:id":991314461,
+    "wof:lastmodified":1472543322,
+    "wof:name":"Centro De Diagnostico Granada S.a.",
+    "wof:parent_id":85863847,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6060180664,
+    37.1572532654,
+    -3.6060180664,
+    37.1572532654
+],
+  "geometry": {"coordinates":[-3.6060180664,37.1572532654],"type":"Point"}
+}

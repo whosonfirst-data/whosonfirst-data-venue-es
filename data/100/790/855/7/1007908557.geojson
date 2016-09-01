@@ -1,0 +1,74 @@
+{
+  "id": 1007908557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4173589945,39.470741272,-0.4173589945,39.470741272",
+    "geom:latitude":39.470741,
+    "geom:longitude":-0.417359,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Vicente Blasco Iba\u00d1ez, 79",
+    "sg:city":"Mislata",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c1rmoles, Granitos Y Piedras Naturales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 59 75 73",
+    "sg:postcode":"46920",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864219,
+        102191581,
+        404345047,
+        85633129,
+        404227381,
+        101753691,
+        85682867,
+        85799211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47O2GoztNVRjvXSLyJVJJ2_39.470741_-0.417359@1306269583"
+    },
+    "wof:country":"ES",
+    "wof:created":1472591249,
+    "wof:geomhash":"561e9fffc1378dda3c42af589b74c149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345047,
+            "locality_id":101753691,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864219,
+            "region_id":85682867,
+            "venue_id":1007908557
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799211,
+            "region_id":85682867,
+            "venue_id":1007908557
+        }
+    ],
+    "wof:id":1007908557,
+    "wof:lastmodified":1472591249,
+    "wof:name":"Marmoles Marino Saiz S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4173589945,
+    39.470741272,
+    -0.4173589945,
+    39.470741272
+],
+  "geometry": {"coordinates":[-0.4173589945,39.470741272],"type":"Point"}
+}

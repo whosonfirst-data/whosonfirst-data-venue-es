@@ -1,0 +1,67 @@
+{
+  "id": 1008035623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1866250038,41.4107818604,2.1866250038,41.4107818604",
+    "geom:latitude":41.410782,
+    "geom:longitude":2.186625,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Meridiana, 147",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 31 81 68",
+    "sg:postcode":"08026",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799265,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ct8MVfl3mcT4rvGJVIUda_41.410782_2.186625@1306269599"
+    },
+    "wof:country":"ES",
+    "wof:created":1472596708,
+    "wof:geomhash":"fd152e92d55a58d55310104c2d40fe62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799265,
+            "region_id":85682663,
+            "venue_id":1008035623
+        }
+    ],
+    "wof:id":1008035623,
+    "wof:lastmodified":1472596708,
+    "wof:name":"Mora Herrera Augusto",
+    "wof:parent_id":85799265,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1866250038,
+    41.4107818604,
+    2.1866250038,
+    41.4107818604
+],
+  "geometry": {"coordinates":[2.1866250038,41.4107818604],"type":"Point"}
+}

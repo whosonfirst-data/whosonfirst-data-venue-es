@@ -1,0 +1,59 @@
+{
+  "id": 1008712777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7200369835,40.3156471252,-3.7200369835,40.3156471252",
+    "geom:latitude":40.315647,
+    "geom:longitude":-3.720037,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Catalu\u00d1a, 17",
+    "sg:city":"Getafe",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 81 48 67",
+    "sg:postcode":"28903",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rQFqsJRj9qkWlxtY5y1Pv_40.315647_-3.720037@1306269690"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639118,
+    "wof:geomhash":"e0ef4b85447f6bf758142a2000d141a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1008712777
+        }
+    ],
+    "wof:id":1008712777,
+    "wof:lastmodified":1472639118,
+    "wof:name":"Viajes Eroski",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7200369835,
+    40.3156471252,
+    -3.7200369835,
+    40.3156471252
+],
+  "geometry": {"coordinates":[-3.7200369835,40.3156471252],"type":"Point"}
+}

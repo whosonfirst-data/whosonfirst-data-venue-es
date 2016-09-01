@@ -1,0 +1,68 @@
+{
+  "id": 1008115663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.107115984,41.4191703796,2.107115984,41.4191703796",
+    "geom:latitude":41.41917,
+    "geom:longitude":2.107116,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ctra L'esglesia, 60",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Organismos De Reclutamiento",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 06 90 61",
+    "sg:postcode":"08017",
+    "sg:province":"Barcelona",
+    "sg:website":"www.odournet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799651,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101758719,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04d3lL6u0gSunJLSgxi921_41.419170_2.107116@1306269610"
+    },
+    "wof:country":"ES",
+    "wof:created":1472600193,
+    "wof:geomhash":"abd103ffe897864e296f20f0c6f9bb87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101758719,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799651,
+            "region_id":85682663,
+            "venue_id":1008115663
+        }
+    ],
+    "wof:id":1008115663,
+    "wof:lastmodified":1472600193,
+    "wof:name":"Odournet",
+    "wof:parent_id":85799651,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.107115984,
+    41.4191703796,
+    2.107115984,
+    41.4191703796
+],
+  "geometry": {"coordinates":[2.107115984,41.4191703796],"type":"Point"}
+}

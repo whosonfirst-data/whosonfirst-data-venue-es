@@ -1,0 +1,63 @@
+{
+  "id": 1008259955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6004810333,39.5517349243,2.6004810333,39.5517349243",
+    "geom:latitude":39.551735,
+    "geom:longitude":2.600481,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Joan Miro, 330",
+    "sg:city":"Sant Agusti",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alquiler De Bicicletas Y Motocicletas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 40 18 21",
+    "sg:postcode":"07015",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748237,
+        85864109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hifAK6qmkkNcEsTXxoCUX_39.551735_2.600481@1306269630"
+    },
+    "wof:country":"ES",
+    "wof:created":1472616526,
+    "wof:geomhash":"f23db38436327c9e25cf1bbecb7c90cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748237,
+            "neighbourhood_id":85864109,
+            "region_id":-1,
+            "venue_id":1008259955
+        }
+    ],
+    "wof:id":1008259955,
+    "wof:lastmodified":1472616526,
+    "wof:name":"Pons Pico Jose Luis",
+    "wof:parent_id":85864109,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6004810333,
+    39.5517349243,
+    2.6004810333,
+    39.5517349243
+],
+  "geometry": {"coordinates":[2.6004810333,39.5517349243],"type":"Point"}
+}

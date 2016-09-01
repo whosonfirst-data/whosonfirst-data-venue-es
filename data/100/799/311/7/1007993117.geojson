@@ -1,0 +1,64 @@
+{
+  "id": 1007993117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7674279213,43.439994812,-3.7674279213,43.439994812",
+    "geom:latitude":43.439995,
+    "geom:longitude":-3.767428,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bo. Sierra, 1",
+    "sg:city":"Pedre\u00f1a",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 50 10 62",
+    "sg:postcode":"39130",
+    "sg:province":"Cantabria",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799303,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cyR15WigOuyPNPh48KFbP_43.439995_-3.767428@1306269594"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594896,
+    "wof:geomhash":"0124dbe13a65e99bc331d91985f307e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799303,
+            "region_id":85682833,
+            "venue_id":1007993117
+        }
+    ],
+    "wof:id":1007993117,
+    "wof:lastmodified":1472594896,
+    "wof:name":"Meyem S.c..",
+    "wof:parent_id":85799303,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7674279213,
+    43.439994812,
+    -3.7674279213,
+    43.439994812
+],
+  "geometry": {"coordinates":[-3.7674279213,43.439994812],"type":"Point"}
+}

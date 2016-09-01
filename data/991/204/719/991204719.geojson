@@ -1,0 +1,64 @@
+{
+  "id": 991204719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1816849709,41.3810310364,2.1816849709,41.3810310364",
+    "geom:latitude":41.381031,
+    "geom:longitude":2.181685,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pl Antonio Lopez, 5",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cajas De Ahorro",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 15 01 10",
+    "sg:postcode":"08002",
+    "sg:province":"Barcelona",
+    "sg:website":"www.lacaixa.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CbBCVlrK9zDLwbRQ46UbT_41.381031_2.181685@1306269454"
+    },
+    "wof:country":"ES",
+    "wof:created":1472536858,
+    "wof:geomhash":"3edef92a4838fb6ff1f15d84ce5480e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":991204719
+        }
+    ],
+    "wof:id":991204719,
+    "wof:lastmodified":1472536858,
+    "wof:name":"Caixa D'estalvis I Pensions De Barcelona",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1816849709,
+    41.3810310364,
+    2.1816849709,
+    41.3810310364
+],
+  "geometry": {"coordinates":[2.1816849709,41.3810310364],"type":"Point"}
+}

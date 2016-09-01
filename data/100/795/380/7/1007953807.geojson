@@ -1,0 +1,67 @@
+{
+  "id": 1007953807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1576619148,41.401424408,2.1576619148,41.401424408",
+    "geom:latitude":41.401424,
+    "geom:longitude":2.157662,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Trav De Gracia, 165",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 18 89 85",
+    "sg:postcode":"08012",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799393,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RtR26tr0l19uhXI68ygn6_41.401424_2.157662@1306269589"
+    },
+    "wof:country":"ES",
+    "wof:created":1472593299,
+    "wof:geomhash":"0bf5f14bd450e69d8aa2e32992b8dc82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799393,
+            "region_id":85682663,
+            "venue_id":1007953807
+        }
+    ],
+    "wof:id":1007953807,
+    "wof:lastmodified":1472593299,
+    "wof:name":"Mas Valls Maria Teresa",
+    "wof:parent_id":85799393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1576619148,
+    41.401424408,
+    2.1576619148,
+    41.401424408
+],
+  "geometry": {"coordinates":[2.1576619148,41.401424408],"type":"Point"}
+}

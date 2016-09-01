@@ -1,0 +1,77 @@
+{
+  "id": 1008139335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6624360085,39.5676040649,2.6624360085,39.5676040649",
+    "geom:latitude":39.567604,
+    "geom:longitude":2.662436,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Foners, 54",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Molduras, Junquillos, Listones Y Molduras Perforadas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 46 45 58",
+    "sg:postcode":"07006",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101748237,
+        85864115,
+        85864089,
+        102191581,
+        404330817,
+        404227367,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18i0t3wFgRed7NFYWRLU2k_39.567604_2.662436@1306269613"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601353,
+    "wof:geomhash":"5bc266c7f934b72186504d679062b1b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748237,
+            "neighbourhood_id":85864115,
+            "region_id":-1,
+            "venue_id":1008139335
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864089,
+            "region_id":85682647,
+            "venue_id":1008139335
+        }
+    ],
+    "wof:id":1008139335,
+    "wof:lastmodified":1472601353,
+    "wof:name":"Ortiz Montejano Jose Antonio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6624360085,
+    39.5676040649,
+    2.6624360085,
+    39.5676040649
+],
+  "geometry": {"coordinates":[2.6624360085,39.5676040649],"type":"Point"}
+}

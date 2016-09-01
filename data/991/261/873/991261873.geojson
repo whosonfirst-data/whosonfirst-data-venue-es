@@ -1,0 +1,81 @@
+{
+  "id": 991261873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1744339466,41.4317245483,2.1744339466,41.4317245483",
+    "geom:latitude":41.431725,
+    "geom:longitude":2.174434,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Nou De Porta, 4",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 40 80 47",
+    "sg:postcode":"08016",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799399,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09rlolpnFeVEGr9QGbxx5p_41.431725_2.174434@1306269462"
+    },
+    "wof:country":"ES",
+    "wof:created":1472540799,
+    "wof:geomhash":"5c7b77e884a13ea4e739e705eef6172d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799399,
+            "region_id":85682663,
+            "venue_id":991261873
+        }
+    ],
+    "wof:id":991261873,
+    "wof:lastmodified":1472540799,
+    "wof:name":"Carmona Lozano Jose Maria",
+    "wof:parent_id":85799399,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.1744339466,
+    41.4317245483,
+    2.1744339466,
+    41.4317245483
+],
+  "geometry": {"coordinates":[2.1744339466,41.4317245483],"type":"Point"}
+}

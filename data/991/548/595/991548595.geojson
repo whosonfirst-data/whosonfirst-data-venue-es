@@ -1,0 +1,78 @@
+{
+  "id": 991548595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3842337132,39.4746856689,-0.3842337132,39.4746856689",
+    "geom:latitude":39.474686,
+    "geom:longitude":-0.384234,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Borrull, 2",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electricidad: Instaladores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 92 40 79",
+    "sg:postcode":"46008",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864217,
+        102191581,
+        404345361,
+        85633129,
+        404227381,
+        101748241,
+        85682867,
+        85864207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3btg2B3HJldR3Jhmvk61Up_39.474686_-0.384234@1306269500"
+    },
+    "wof:country":"ES",
+    "wof:created":1472556956,
+    "wof:geomhash":"7dc1f91d89589177a152bf7bf8590665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345361,
+            "locality_id":101748241,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864217,
+            "region_id":85682867,
+            "venue_id":991548595
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345361,
+            "locality_id":101748241,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864207,
+            "region_id":85682867,
+            "venue_id":991548595
+        }
+    ],
+    "wof:id":991548595,
+    "wof:lastmodified":1472556956,
+    "wof:name":"Electricista Casa Angel S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3842337132,
+    39.4746856689,
+    -0.3842337132,
+    39.4746856689
+],
+  "geometry": {"coordinates":[-0.3842337132,39.4746856689],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1008082673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4326219857,38.3975372314,-0.4326219857,38.3975372314",
+    "geom:latitude":38.397537,
+    "geom:longitude":-0.432622,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Doctor Gadea, 1",
+    "sg:city":"Sant Joan D'alacant",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 65 38 37",
+    "sg:postcode":"03550",
+    "sg:province":"Alicante",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864073,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xY09u0W1kjh4kzofeqI7Y_38.397537_-0.432622@1306269606"
+    },
+    "wof:country":"ES",
+    "wof:created":1472598764,
+    "wof:geomhash":"795e36ceb2530212accbc745ffea5aa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864073,
+            "region_id":85682625,
+            "venue_id":1008082673
+        }
+    ],
+    "wof:id":1008082673,
+    "wof:lastmodified":1472598764,
+    "wof:name":"Navarro Alemany Manuel",
+    "wof:parent_id":85864073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -0.4326219857,
+    38.3975372314,
+    -0.4326219857,
+    38.3975372314
+],
+  "geometry": {"coordinates":[-0.4326219857,38.3975372314],"type":"Point"}
+}

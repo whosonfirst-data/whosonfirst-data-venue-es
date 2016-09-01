@@ -1,0 +1,78 @@
+{
+  "id": 1008369221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4859268963,38.3450202942,-0.4859268963,38.3450202942",
+    "geom:latitude":38.34502,
+    "geom:longitude":-0.485927,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Bazan, 21",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Institutos De Belleza",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 21 07 25",
+    "sg:postcode":"03001",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864067,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625,
+        85864055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nwwZlZTVFMX3xYQdtBgYI_38.345020_-0.485927@1306269644"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624328,
+    "wof:geomhash":"d68adbd523506975fe26b2317913de19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864067,
+            "region_id":85682625,
+            "venue_id":1008369221
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864055,
+            "region_id":85682625,
+            "venue_id":1008369221
+        }
+    ],
+    "wof:id":1008369221,
+    "wof:lastmodified":1472624328,
+    "wof:name":"Rocamora Boades Rosa Maria",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4859268963,
+    38.3450202942,
+    -0.4859268963,
+    38.3450202942
+],
+  "geometry": {"coordinates":[-0.4859268963,38.3450202942],"type":"Point"}
+}

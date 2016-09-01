@@ -1,0 +1,81 @@
+{
+  "id": 991546399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.4464819431,42.4674682617,-2.4464819431,42.4674682617",
+    "geom:latitude":42.467468,
+    "geom:longitude":-2.446482,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Sagasta, 10",
+    "sg:city":"Logro\u00f1o",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 941 25 14 20",
+    "sg:postcode":"26001",
+    "sg:province":"La Rioja",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102545713,
+        85682773,
+        102191581,
+        404338337,
+        85633129,
+        404227397,
+        101748365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BbBToqodckfCOPP9oD8MD_42.467468_-2.446482@1306269500"
+    },
+    "wof:country":"ES",
+    "wof:created":1472556825,
+    "wof:geomhash":"8460b43896d11c7932aa56a18462fe1c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545713,
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338337,
+            "locality_id":101748365,
+            "macroregion_id":404227397,
+            "region_id":85682773,
+            "venue_id":991546399
+        }
+    ],
+    "wof:id":991546399,
+    "wof:lastmodified":1472556825,
+    "wof:name":"Electra Rioja Gran Casino S.a.",
+    "wof:parent_id":102545713,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [
+    -2.4464819431,
+    42.4674682617,
+    -2.4464819431,
+    42.4674682617
+],
+  "geometry": {"coordinates":[-2.4464819431,42.4674682617],"type":"Point"}
+}

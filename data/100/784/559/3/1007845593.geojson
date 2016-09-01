@@ -1,0 +1,59 @@
+{
+  "id": 1007845593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5394608974,40.4307365417,-3.5394608974,40.4307365417",
+    "geom:latitude":40.430737,
+    "geom:longitude":-3.539461,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Pedro (de), 39",
+    "sg:city":"Coslada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Peluquer\u00cdas, Peluquer\u00cda Mixta",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 71 28 98",
+    "sg:postcode":"28820",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863631,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5h5Lt0p8dLd7RB2O41eCys_40.430737_-3.539461@1306269575"
+    },
+    "wof:country":"ES",
+    "wof:created":1472588489,
+    "wof:geomhash":"961b52d9dfba47ce79d503aaef88ae97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863631,
+            "region_id":85682783,
+            "venue_id":1007845593
+        }
+    ],
+    "wof:id":1007845593,
+    "wof:lastmodified":1472588489,
+    "wof:name":"Lopez Sanchez Manuel",
+    "wof:parent_id":85863631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5394608974,
+    40.4307365417,
+    -3.5394608974,
+    40.4307365417
+],
+  "geometry": {"coordinates":[-3.5394608974,40.4307365417],"type":"Point"}
+}

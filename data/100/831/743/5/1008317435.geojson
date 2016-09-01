@@ -1,0 +1,64 @@
+{
+  "id": 1008317435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7275140285,40.4823684692,-3.7275140285,40.4823684692",
+    "geom:latitude":40.482368,
+    "geom:longitude":-3.727514,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ramon Gomez De La Serna, 7",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 73 23 93",
+    "sg:postcode":"28035",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85682783,
+        102191581,
+        85633129,
+        101748283,
+        85863557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UttzfRKcRJq0INyv2MQLt_40.482368_-3.727514@1306269638"
+    },
+    "wof:country":"ES",
+    "wof:created":1472622096,
+    "wof:geomhash":"be81286de172b56e1646b94b797c72b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748283,
+            "neighbourhood_id":85863557,
+            "region_id":85682783,
+            "venue_id":1008317435
+        }
+    ],
+    "wof:id":1008317435,
+    "wof:lastmodified":1472622096,
+    "wof:name":"Ramos Carrasco Yolanda",
+    "wof:parent_id":85863557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7275140285,
+    40.4823684692,
+    -3.7275140285,
+    40.4823684692
+],
+  "geometry": {"coordinates":[-3.7275140285,40.4823684692],"type":"Point"}
+}

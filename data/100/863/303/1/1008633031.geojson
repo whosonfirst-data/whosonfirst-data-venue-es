@@ -1,0 +1,67 @@
+{
+  "id": 1008633031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6612679958,41.6148223877,2.6612679958,41.6148223877",
+    "geom:latitude":41.614822,
+    "geom:longitude":2.661268,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sant Joan, 55",
+    "sg:city":"Calella",
+    "sg:classifiers":[],
+    "sg:orig_category":"Estancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 69 02 59",
+    "sg:postcode":"08370",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799549,
+        102191581,
+        404331245,
+        85633129,
+        404227379,
+        101828575,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dHQYJ3jLf8m5kdYqG3Nha_41.614822_2.661268@1306269680"
+    },
+    "wof:country":"ES",
+    "wof:created":1472635671,
+    "wof:geomhash":"518ca1b5a9de0cd3383921f1690851cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331245,
+            "locality_id":101828575,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799549,
+            "region_id":85682663,
+            "venue_id":1008633031
+        }
+    ],
+    "wof:id":1008633031,
+    "wof:lastmodified":1472635671,
+    "wof:name":"Torne Palomares Jacinto",
+    "wof:parent_id":85799549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6612679958,
+    41.6148223877,
+    2.6612679958,
+    41.6148223877
+],
+  "geometry": {"coordinates":[2.6612679958,41.6148223877],"type":"Point"}
+}

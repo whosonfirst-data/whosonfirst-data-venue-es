@@ -1,0 +1,59 @@
+{
+  "id": 1007785221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5299620628,40.4257926941,-3.5299620628,40.4257926941",
+    "geom:latitude":40.425793,
+    "geom:longitude":-3.529962,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Nazario Calonge (de), 16",
+    "sg:city":"San Fernando De Henares",
+    "sg:classifiers":[],
+    "sg:orig_category":"Guarder\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 73 33 36",
+    "sg:postcode":"28830",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863709,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70qIQgmlGKBqXyTZlBBLdY_40.425793_-3.529962@1306269568"
+    },
+    "wof:country":"ES",
+    "wof:created":1472585497,
+    "wof:geomhash":"d1fa17f8dfa94e3f2527034b2c07f22e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863709,
+            "region_id":85682783,
+            "venue_id":1007785221
+        }
+    ],
+    "wof:id":1007785221,
+    "wof:lastmodified":1472585497,
+    "wof:name":"Lanillos Matesanz Maria Elena",
+    "wof:parent_id":85863709,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5299620628,
+    40.4257926941,
+    -3.5299620628,
+    40.4257926941
+],
+  "geometry": {"coordinates":[-3.5299620628,40.4257926941],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1008000911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7202644348,40.4790649414,-3.7202644348,40.4790649414",
+    "geom:latitude":40.479065,
+    "geom:longitude":-3.720264,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Islas Cies, 55",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 30 25 27",
+    "sg:postcode":"28035",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799627,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rekIYchn99xjTJdLdm5be_40.479065_-3.720264@1306269595"
+    },
+    "wof:country":"ES",
+    "wof:created":1472595229,
+    "wof:geomhash":"83c7a760ce1dc392cb062af88810c80b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799627,
+            "region_id":85682783,
+            "venue_id":1008000911
+        }
+    ],
+    "wof:id":1008000911,
+    "wof:lastmodified":1472595229,
+    "wof:name":"Mingo Chamorro Jose De",
+    "wof:parent_id":85799627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7202644348,
+    40.4790649414,
+    -3.7202644348,
+    40.4790649414
+],
+  "geometry": {"coordinates":[-3.7202644348,40.4790649414],"type":"Point"}
+}

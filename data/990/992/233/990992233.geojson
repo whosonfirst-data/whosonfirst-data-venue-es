@@ -1,0 +1,74 @@
+{
+  "id": 990992233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.4443330765,36.7278366089,-4.4443330765,36.7278366089",
+    "geom:latitude":36.727837,
+    "geom:longitude":-4.444333,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Albacete, 11",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Zapatos (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 39 85 99",
+    "sg:postcode":"29010",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863455,
+        102191581,
+        404339241,
+        85633129,
+        404227361,
+        101748185,
+        85682787,
+        85863471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41WLMGSBcaV0PMmSiwVPIY_36.727837_-4.444333@1306269426"
+    },
+    "wof:country":"ES",
+    "wof:created":1472518514,
+    "wof:geomhash":"7486f9d5bc457085ad2767a124441757",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863455,
+            "region_id":85682787,
+            "venue_id":990992233
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863471,
+            "region_id":85682787,
+            "venue_id":990992233
+        }
+    ],
+    "wof:id":990992233,
+    "wof:lastmodified":1472518514,
+    "wof:name":"Aranda Martin Luis",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4443330765,
+    36.7278366089,
+    -4.4443330765,
+    36.7278366089
+],
+  "geometry": {"coordinates":[-4.4443330765,36.7278366089],"type":"Point"}
+}

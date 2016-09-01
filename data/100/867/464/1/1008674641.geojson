@@ -1,0 +1,59 @@
+{
+  "id": 1008674641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6031289101,37.1670303345,-3.6031289101,37.1670303345",
+    "geom:latitude":37.16703,
+    "geom:longitude":-3.603129,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Agustina De Aragon, 17",
+    "sg:city":"Granada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tiendas De Grano, Frutas Y Legumbres Secas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 26 72 10",
+    "sg:postcode":"18005",
+    "sg:province":"Granada",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863847,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yr0kLkyDAUbQcxBisQxg5_37.167030_-3.603129@1306269685"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637380,
+    "wof:geomhash":"468cdac21b084ac2d239059ddda291e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863847,
+            "region_id":85682731,
+            "venue_id":1008674641
+        }
+    ],
+    "wof:id":1008674641,
+    "wof:lastmodified":1472637380,
+    "wof:name":"Urbano Ortega Araceli",
+    "wof:parent_id":85863847,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6031289101,
+    37.1670303345,
+    -3.6031289101,
+    37.1670303345
+],
+  "geometry": {"coordinates":[-3.6031289101,37.1670303345],"type":"Point"}
+}

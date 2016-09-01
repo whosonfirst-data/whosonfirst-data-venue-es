@@ -1,0 +1,60 @@
+{
+  "id": 1008021479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6599686146,40.5241699219,-3.6599686146,40.5241699219",
+    "geom:latitude":40.52417,
+    "geom:longitude":-3.659969,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Aragoneses (de Los), 2",
+    "sg:city":"Alcobendas",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros De Reservas Hoteleras",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 61 16 88",
+    "sg:postcode":"28108",
+    "sg:province":"Madrid",
+    "sg:website":"www.pinocchio.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HCI5bKY4EBYq7vt0JGNrJ_40.524170_-3.659969@1306269597"
+    },
+    "wof:country":"ES",
+    "wof:created":1472596096,
+    "wof:geomhash":"92aba01efaa3f6bdcda259838bf7627f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1008021479
+        }
+    ],
+    "wof:id":1008021479,
+    "wof:lastmodified":1472596096,
+    "wof:name":"Monaco Alimentaria S.a.",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6599686146,
+    40.5241699219,
+    -3.6599686146,
+    40.5241699219
+],
+  "geometry": {"coordinates":[-3.6599686146,40.5241699219],"type":"Point"}
+}

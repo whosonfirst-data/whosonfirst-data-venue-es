@@ -1,0 +1,78 @@
+{
+  "id": 1024459009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1452009678,41.3764305115,2.1452009678,41.3764305115",
+    "geom:latitude":41.376431,
+    "geom:longitude":2.145201,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Consell De Cent, 37",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Construcci\u00d3n Mec\u00c1nica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 24 10 36",
+    "sg:postcode":"08014",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864027,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rVLnaemdqP9eRROkk0TK6_41.376431_2.145201@1306269693"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639868,
+    "wof:geomhash":"6fe74e90a665bfc7f99b964abc29b1e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864027,
+            "region_id":85682663,
+            "venue_id":1024459009
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864021,
+            "region_id":85682663,
+            "venue_id":1024459009
+        }
+    ],
+    "wof:id":1024459009,
+    "wof:lastmodified":1472639868,
+    "wof:name":"Vilarrubia Rierola Joaquin",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1452009678,
+    41.3764305115,
+    2.1452009678,
+    41.3764305115
+],
+  "geometry": {"coordinates":[2.1452009678,41.3764305115],"type":"Point"}
+}

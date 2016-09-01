@@ -1,0 +1,79 @@
+{
+  "id": 1008712335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4892559946,38.3438262939,-0.4892559946,38.3438262939",
+    "geom:latitude":38.343826,
+    "geom:longitude":-0.489256,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Federico Soto, 1",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 14 05 11",
+    "sg:postcode":"03003",
+    "sg:province":"Alicante",
+    "sg:website":"www.viajeselcorteingles.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799185,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625,
+        85864055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07QxPS0od5ui7YOHqgHVLU_38.343826_-0.489256@1306269690"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639101,
+    "wof:geomhash":"10c3f53937d79dad25e6e5bf72621fe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85799185,
+            "region_id":85682625,
+            "venue_id":1008712335
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864055,
+            "region_id":85682625,
+            "venue_id":1008712335
+        }
+    ],
+    "wof:id":1008712335,
+    "wof:lastmodified":1472639101,
+    "wof:name":"Viajes El Corte Ingles S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4892559946,
+    38.3438262939,
+    -0.4892559946,
+    38.3438262939
+],
+  "geometry": {"coordinates":[-0.4892559946,38.3438262939],"type":"Point"}
+}

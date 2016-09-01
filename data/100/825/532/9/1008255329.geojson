@@ -1,0 +1,78 @@
+{
+  "id": 1008255329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1454720497,41.3765411377,2.1454720497,41.3765411377",
+    "geom:latitude":41.376541,
+    "geom:longitude":2.145472,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Onze De Setembre (l'), 43",
+    "sg:city":"Corro D'avall",
+    "sg:classifiers":[],
+    "sg:orig_category":"Dietistas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 938 40 26 17",
+    "sg:postcode":"08520",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864027,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AozFJNUoKUh9nLQ7wW0TQ_41.376541_2.145472@1306269629"
+    },
+    "wof:country":"ES",
+    "wof:created":1472616310,
+    "wof:geomhash":"9f557d4da61ddea03409846176e2bfcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864027,
+            "region_id":85682663,
+            "venue_id":1008255329
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864021,
+            "region_id":85682663,
+            "venue_id":1008255329
+        }
+    ],
+    "wof:id":1008255329,
+    "wof:lastmodified":1472616310,
+    "wof:name":"Poblet Baro Concepcion",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1454720497,
+    41.3765411377,
+    2.1454720497,
+    41.3765411377
+],
+  "geometry": {"coordinates":[2.1454720497,41.3765411377],"type":"Point"}
+}

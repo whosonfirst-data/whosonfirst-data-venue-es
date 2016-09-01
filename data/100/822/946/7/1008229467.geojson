@@ -1,0 +1,59 @@
+{
+  "id": 1008229467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8133513927,40.3485870361,-3.8133513927,40.3485870361",
+    "geom:latitude":40.348587,
+    "geom:longitude":-3.813351,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de General Davila, 27",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Peluquer\u00cdas, Peluquer\u00cda Mixta",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 11 81 52",
+    "sg:postcode":"28924",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tOW4mVORMUOjN8BZPZCSm_40.348587_-3.813351@1306269626"
+    },
+    "wof:country":"ES",
+    "wof:created":1472613977,
+    "wof:geomhash":"ba1d56447b5d5d9702940e18b7f7c91a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008229467
+        }
+    ],
+    "wof:id":1008229467,
+    "wof:lastmodified":1472613977,
+    "wof:name":"Pescador Martin Esmeralda",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8133513927,
+    40.3485870361,
+    -3.8133513927,
+    40.3485870361
+],
+  "geometry": {"coordinates":[-3.8133513927,40.3485870361],"type":"Point"}
+}

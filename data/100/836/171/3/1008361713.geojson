@@ -1,0 +1,64 @@
+{
+  "id": 1008361713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7364149094,40.4766616821,-3.7364149094,40.4766616821",
+    "geom:latitude":40.476662,
+    "geom:longitude":-3.736415,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Doctor Guiu, 16",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 86 32 25",
+    "sg:postcode":"28035",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85682783,
+        102191581,
+        85633129,
+        101748283,
+        85863557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2H5vwKE2HQxcbwk72NDo0A_40.476662_-3.736415@1306269643"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624009,
+    "wof:geomhash":"01eebb25b0b2a843677c5658a45098bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748283,
+            "neighbourhood_id":85863557,
+            "region_id":85682783,
+            "venue_id":1008361713
+        }
+    ],
+    "wof:id":1008361713,
+    "wof:lastmodified":1472624009,
+    "wof:name":"Ripolles Diaz Fernando",
+    "wof:parent_id":85863557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7364149094,
+    40.4766616821,
+    -3.7364149094,
+    40.4766616821
+],
+  "geometry": {"coordinates":[-3.7364149094,40.4766616821],"type":"Point"}
+}

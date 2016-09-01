@@ -1,0 +1,67 @@
+{
+  "id": 1008173663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2053279877,41.3999671936,2.2053279877,41.3999671936",
+    "geom:latitude":41.399967,
+    "geom:longitude":2.205328,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Maria Aguilo, 130",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Iglesia Cat\u00d3lica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 25 28 79",
+    "sg:postcode":"08005",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799265,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wsn3xyjGUncZDpZMXnVpR_41.399967_2.205328@1306269618"
+    },
+    "wof:country":"ES",
+    "wof:created":1472604421,
+    "wof:geomhash":"684928d4a43f37de4dd6c7345b33f760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799265,
+            "region_id":85682663,
+            "venue_id":1008173663
+        }
+    ],
+    "wof:id":1008173663,
+    "wof:lastmodified":1472604421,
+    "wof:name":"Parroquia De San Bernardo Calvo",
+    "wof:parent_id":85799265,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2053279877,
+    41.3999671936,
+    2.2053279877,
+    41.3999671936
+],
+  "geometry": {"coordinates":[2.2053279877,41.3999671936],"type":"Point"}
+}

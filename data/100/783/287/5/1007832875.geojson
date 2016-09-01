@@ -1,0 +1,72 @@
+{
+  "id": 1007832875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7411000729,40.3791503906,-3.7411000729,40.3791503906",
+    "geom:latitude":40.37915,
+    "geom:longitude":-3.7411,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Maria Odiaga, 10",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 62 43 28",
+    "sg:postcode":"28025",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863819,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zMumYXcgMIZql9gwdoC39_40.379150_-3.741100@1306269574"
+    },
+    "wof:country":"ES",
+    "wof:created":1472587865,
+    "wof:geomhash":"080b65418354092e5b5832a7694c39c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863819,
+            "region_id":85682783,
+            "venue_id":1007832875
+        }
+    ],
+    "wof:id":1007832875,
+    "wof:lastmodified":1472587865,
+    "wof:name":"Lopez Dieguez Vidal",
+    "wof:parent_id":85863819,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7411000729,
+    40.3791503906,
+    -3.7411000729,
+    40.3791503906
+],
+  "geometry": {"coordinates":[-3.7411000729,40.3791503906],"type":"Point"}
+}

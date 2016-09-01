@@ -1,0 +1,78 @@
+{
+  "id": 1008522965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6917090416,40.419708252,-3.6917090416,40.419708252",
+    "geom:latitude":40.419708,
+    "geom:longitude":-3.691709,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Alcala, 57",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Librer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 77 55 41",
+    "sg:postcode":"28014",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863791,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BTO8pAiRPwAmcsd91zxgs_40.419708_-3.691709@1306269665"
+    },
+    "wof:country":"ES",
+    "wof:created":1472630973,
+    "wof:geomhash":"f9f8dfb539736073ab91de4b9260864e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863791,
+            "region_id":85682783,
+            "venue_id":1008522965
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863685,
+            "region_id":85682783,
+            "venue_id":1008522965
+        }
+    ],
+    "wof:id":1008522965,
+    "wof:lastmodified":1472630973,
+    "wof:name":"Sigla S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6917090416,
+    40.419708252,
+    -3.6917090416,
+    40.419708252
+],
+  "geometry": {"coordinates":[-3.6917090416,40.419708252],"type":"Point"}
+}

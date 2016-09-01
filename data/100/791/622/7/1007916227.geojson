@@ -1,0 +1,81 @@
+{
+  "id": 1007916227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.63586092,39.5801429749,2.63586092,39.5801429749",
+    "geom:latitude":39.580143,
+    "geom:longitude":2.635861,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Principat, 4",
+    "sg:city":"Palma",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 22 29 77",
+    "sg:postcode":"07011",
+    "sg:province":"Islas Baleares",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864103,
+        102191581,
+        404330817,
+        85633129,
+        404227367,
+        101748237,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cju0e4EOIJYoFQSqEeIp1_39.580143_2.635861@1306269584"
+    },
+    "wof:country":"ES",
+    "wof:created":1472591581,
+    "wof:geomhash":"203732574d88fb2eb6804b55f7f4f43c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864103,
+            "region_id":85682647,
+            "venue_id":1007916227
+        }
+    ],
+    "wof:id":1007916227,
+    "wof:lastmodified":1472591581,
+    "wof:name":"Martin Campo Victorino",
+    "wof:parent_id":85864103,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.63586092,
+    39.5801429749,
+    2.63586092,
+    39.5801429749
+],
+  "geometry": {"coordinates":[2.63586092,39.5801429749],"type":"Point"}
+}

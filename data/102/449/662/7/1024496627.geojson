@@ -1,0 +1,76 @@
+{
+  "id": 1024496627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.665828,43.5222205,-5.665828,43.5222205",
+    "geom:latitude":43.522221,
+    "geom:longitude":-5.665828,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rio Nervion 12",
+    "sg:city":"Gijon",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"33210",
+    "sg:tags":[
+        "web-services-grails-groovy-agile"
+    ],
+    "sg:website":"http://heralsoft.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799415,
+        102191581,
+        404340333,
+        85633129,
+        404227365,
+        101748401,
+        85682805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5b0i6USgEyLAZGB4uzg1lm_43.522221_-5.665828@1308163239"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641475,
+    "wof:geomhash":"4abe86fdc5ff6c5fedfbc03bdeab7bd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404340333,
+            "locality_id":101748401,
+            "macroregion_id":404227365,
+            "neighbourhood_id":85799415,
+            "region_id":85682805,
+            "venue_id":1024496627
+        }
+    ],
+    "wof:id":1024496627,
+    "wof:lastmodified":1472641475,
+    "wof:name":"Heralsoft",
+    "wof:parent_id":85799415,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web-services-grails-groovy-agile"
+    ]
+},
+  "bbox": [
+    -5.665828,
+    43.5222205,
+    -5.665828,
+    43.5222205
+],
+  "geometry": {"coordinates":[-5.665828,43.5222205],"type":"Point"}
+}

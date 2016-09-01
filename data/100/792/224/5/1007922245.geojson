@@ -1,0 +1,67 @@
+{
+  "id": 1007922245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7000918388,40.4757232666,-3.7000918388,40.4757232666",
+    "geom:latitude":40.475723,
+    "geom:longitude":-3.700092,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Villa De Marin, 9",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ingeniero",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 14 13 66",
+    "sg:postcode":"28029",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863561,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Qy31mDOUtEtsXmZEaLOzG_40.475723_-3.700092@1306269585"
+    },
+    "wof:country":"ES",
+    "wof:created":1472591859,
+    "wof:geomhash":"e224e451fa987cfd0acaec16b55bcbbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863561,
+            "region_id":85682783,
+            "venue_id":1007922245
+        }
+    ],
+    "wof:id":1007922245,
+    "wof:lastmodified":1472591859,
+    "wof:name":"Martinez De Pablo Juan",
+    "wof:parent_id":85863561,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7000918388,
+    40.4757232666,
+    -3.7000918388,
+    40.4757232666
+],
+  "geometry": {"coordinates":[-3.7000918388,40.4757232666],"type":"Point"}
+}

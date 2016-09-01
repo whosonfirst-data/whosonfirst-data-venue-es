@@ -1,0 +1,66 @@
+{
+  "id": 991525587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6770310402,39.5713005066,2.6770310402,39.5713005066",
+    "geom:latitude":39.571301,
+    "geom:longitude":2.677031,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Socrates, 1",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Muebles, Minoristas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 24 98 00",
+    "sg:postcode":"07007",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864087,
+        85682647,
+        85864111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YW741Yh5FyDN3KXHtaeRy_39.571301_2.677031@1306269497"
+    },
+    "wof:country":"ES",
+    "wof:created":1472555743,
+    "wof:geomhash":"23fbb5ea8455c7545dacf34e8df2c184",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864087,
+            "region_id":85682647,
+            "venue_id":991525587
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864111,
+            "region_id":85682647,
+            "venue_id":991525587
+        }
+    ],
+    "wof:id":991525587,
+    "wof:lastmodified":1472555743,
+    "wof:name":"Don Hipopotamo S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6770310402,
+    39.5713005066,
+    2.6770310402,
+    39.5713005066
+],
+  "geometry": {"coordinates":[2.6770310402,39.5713005066],"type":"Point"}
+}

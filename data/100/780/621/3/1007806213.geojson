@@ -1,0 +1,59 @@
+{
+  "id": 1007806213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6460781097,39.5874862671,2.6460781097,39.5874862671",
+    "geom:latitude":39.587486,
+    "geom:longitude":2.646078,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de General Riera, 104",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Librer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 20 65 27",
+    "sg:postcode":"07010",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864091,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6j2Rcs02oAol8W1IpMRfLk_39.587486_2.646078@1306269571"
+    },
+    "wof:country":"ES",
+    "wof:created":1472586652,
+    "wof:geomhash":"8c99e21b59b45e0486f3c506e6a8a47e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":1007806213
+        }
+    ],
+    "wof:id":1007806213,
+    "wof:lastmodified":1472586652,
+    "wof:name":"Libreria Lluna, C.b.",
+    "wof:parent_id":85864091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6460781097,
+    39.5874862671,
+    2.6460781097,
+    39.5874862671
+],
+  "geometry": {"coordinates":[2.6460781097,39.5874862671],"type":"Point"}
+}

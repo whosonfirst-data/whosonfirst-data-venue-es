@@ -1,0 +1,73 @@
+{
+  "id": 1007919851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.8243349791,41.7269973755,1.8243349791,41.7269973755",
+    "geom:latitude":41.726997,
+    "geom:longitude":1.824335,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Casanova, 7",
+    "sg:city":"Manresa",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 938 72 11 54",
+    "sg:postcode":"08241",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LUvbr1dAmp4ZKBlXaGZX8_41.726997_1.824335@1306269585"
+    },
+    "wof:country":"ES",
+    "wof:created":1472591744,
+    "wof:geomhash":"4e2b8bea2e227aac13f4b455bd7aec9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1007919851
+        }
+    ],
+    "wof:id":1007919851,
+    "wof:lastmodified":1472591744,
+    "wof:name":"Martinez Bonillo Jose",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    1.8243349791,
+    41.7269973755,
+    1.8243349791,
+    41.7269973755
+],
+  "geometry": {"coordinates":[1.8243349791,41.7269973755],"type":"Point"}
+}

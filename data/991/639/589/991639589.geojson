@@ -1,0 +1,81 @@
+{
+  "id": 991639589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0824539661,41.3617286682,2.0824539661,41.3617286682",
+    "geom:latitude":41.361729,
+    "geom:longitude":2.082454,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Dalia, 1",
+    "sg:city":"Cornella Llobregat",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 76 83 51",
+    "sg:postcode":"08940",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799283,
+        102191581,
+        404331105,
+        85633129,
+        404227379,
+        101748333,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DzRtT7qHvQTfek3Szb3jz_41.361729_2.082454@1306269512"
+    },
+    "wof:country":"ES",
+    "wof:created":1472562463,
+    "wof:geomhash":"661b7b7f69b8206f7477f3b591e52efe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331105,
+            "locality_id":101748333,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799283,
+            "region_id":85682663,
+            "venue_id":991639589
+        }
+    ],
+    "wof:id":991639589,
+    "wof:lastmodified":1472562463,
+    "wof:name":"Fernandez Funes Jose",
+    "wof:parent_id":85799283,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.0824539661,
+    41.3617286682,
+    2.0824539661,
+    41.3617286682
+],
+  "geometry": {"coordinates":[2.0824539661,41.3617286682],"type":"Point"}
+}

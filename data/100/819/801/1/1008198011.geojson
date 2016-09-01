@@ -1,0 +1,64 @@
+{
+  "id": 1008198011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7387509346,40.477722168,-3.7387509346,40.477722168",
+    "geom:latitude":40.477722,
+    "geom:longitude":-3.738751,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Gavilanes (blq), 2",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Librer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 88 97 28",
+    "sg:postcode":"28043",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85682783,
+        102191581,
+        85633129,
+        101748283,
+        85863557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60O7wZM2EhMaIZ0x8rGIvw_40.477722_-3.738751@1306269621"
+    },
+    "wof:country":"ES",
+    "wof:created":1472609109,
+    "wof:geomhash":"bfe35aee30bef47f7951b92b30deeacd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748283,
+            "neighbourhood_id":85863557,
+            "region_id":85682783,
+            "venue_id":1008198011
+        }
+    ],
+    "wof:id":1008198011,
+    "wof:lastmodified":1472609109,
+    "wof:name":"Pelaez Gonzalez Maria Nieves",
+    "wof:parent_id":85863557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7387509346,
+    40.477722168,
+    -3.7387509346,
+    40.477722168
+],
+  "geometry": {"coordinates":[-3.7387509346,40.477722168],"type":"Point"}
+}

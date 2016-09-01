@@ -1,0 +1,73 @@
+{
+  "id": 1008020585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6524269581,39.5715103149,2.6524269581,39.5715103149",
+    "geom:latitude":39.57151,
+    "geom:longitude":2.652427,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Estade, 3",
+    "sg:city":"Palma",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 72 52 27",
+    "sg:postcode":"07002",
+    "sg:province":"Islas Baleares",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864085,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xr0NcEF569Xb2Le5skn2o_39.571510_2.652427@1306269597"
+    },
+    "wof:country":"ES",
+    "wof:created":1472596056,
+    "wof:geomhash":"515cb8f5e5055eb3e5cefbf5db5ec1a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864085,
+            "region_id":85682647,
+            "venue_id":1008020585
+        }
+    ],
+    "wof:id":1008020585,
+    "wof:lastmodified":1472596056,
+    "wof:name":"Moll Fuster Juan",
+    "wof:parent_id":85864085,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.6524269581,
+    39.5715103149,
+    2.6524269581,
+    39.5715103149
+],
+  "geometry": {"coordinates":[2.6524269581,39.5715103149],"type":"Point"}
+}

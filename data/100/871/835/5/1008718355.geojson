@@ -1,0 +1,63 @@
+{
+  "id": 1008718355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6119580269,39.5526618958,2.6119580269,39.5526618958",
+    "geom:latitude":39.552662,
+    "geom:longitude":2.611958,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Bartomeu Fons, 2",
+    "sg:city":"Sant Agusti",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hoteles",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 40 52 01",
+    "sg:postcode":"07015",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748237,
+        85864109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eOw3qilOzYV6XgQndCkY0_39.552662_2.611958@1306269691"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639364,
+    "wof:geomhash":"9def1dd0ecc922c132df4796f1c6414e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748237,
+            "neighbourhood_id":85864109,
+            "region_id":-1,
+            "venue_id":1008718355
+        }
+    ],
+    "wof:id":1008718355,
+    "wof:lastmodified":1472639364,
+    "wof:name":"Viatges Bon Sol S. A.",
+    "wof:parent_id":85864109,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6119580269,
+    39.5526618958,
+    2.6119580269,
+    39.5526618958
+],
+  "geometry": {"coordinates":[2.6119580269,39.5526618958],"type":"Point"}
+}

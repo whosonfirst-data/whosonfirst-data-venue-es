@@ -1,0 +1,85 @@
+{
+  "id": 1008660823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6935100555,40.4299125671,-3.6935100555,40.4299125671",
+    "geom:latitude":40.429913,
+    "geom:longitude":-3.69351,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Almagro, 11",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 08 13 76",
+    "sg:postcode":"28010",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "cemento",
+        "y",
+        "de",
+        "fabricaci\u00d3n",
+        "cal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863671,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78ZLmzIPYd7caAC6FTuhsl_40.429913_-3.693510@1306269683"
+    },
+    "wof:country":"ES",
+    "wof:created":1472636842,
+    "wof:geomhash":"18a0908e615f9424598da370a52600da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863671,
+            "region_id":85682783,
+            "venue_id":1008660823
+        }
+    ],
+    "wof:id":1008660823,
+    "wof:lastmodified":1472636842,
+    "wof:name":"Tudela Veguin S.a.",
+    "wof:parent_id":85863671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemento",
+        "y",
+        "de",
+        "fabricaci\u00d3n",
+        "cal"
+    ]
+},
+  "bbox": [
+    -3.6935100555,
+    40.4299125671,
+    -3.6935100555,
+    40.4299125671
+],
+  "geometry": {"coordinates":[-3.6935100555,40.4299125671],"type":"Point"}
+}

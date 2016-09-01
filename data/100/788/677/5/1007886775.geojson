@@ -1,0 +1,67 @@
+{
+  "id": 1007886775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6399230957,40.4355697632,-3.6399230957,40.4355697632",
+    "geom:latitude":40.43557,
+    "geom:longitude":-3.639923,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Francisco Madariaga, 40",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fisioterapia",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 67 18 77",
+    "sg:postcode":"28017",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863639,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60XrEsrGR0NT4cgUzuNbe0_40.435570_-3.639923@1306269581"
+    },
+    "wof:country":"ES",
+    "wof:created":1472590325,
+    "wof:geomhash":"270550ae545eba0ebf94edf25af31ace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863639,
+            "region_id":85682783,
+            "venue_id":1007886775
+        }
+    ],
+    "wof:id":1007886775,
+    "wof:lastmodified":1472590325,
+    "wof:name":"Manzano Gonzalez Luis Gregorio",
+    "wof:parent_id":85863639,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6399230957,
+    40.4355697632,
+    -3.6399230957,
+    40.4355697632
+],
+  "geometry": {"coordinates":[-3.6399230957,40.4355697632],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1007924025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2313020229,41.4475746155,2.2313020229,41.4475746155",
+    "geom:latitude":41.447575,
+    "geom:longitude":2.231302,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carr Esc Manolo Hugue, 10",
+    "sg:city":"Badalona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Empresas De Carpinter\u00cda",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 87 45 61",
+    "sg:postcode":"08917",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799485,
+        85682663,
+        85799179,
+        102191581,
+        404330911,
+        404227379,
+        101748319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SAodTIDQolJYHSMYah9wE_41.447575_2.231302@1306269585"
+    },
+    "wof:country":"ES",
+    "wof:created":1472591959,
+    "wof:geomhash":"e88a0a5d5dfaf6b03d4a6c2226e59f37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799485,
+            "region_id":85682663,
+            "venue_id":1007924025
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330911,
+            "locality_id":101748319,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799179,
+            "region_id":85682663,
+            "venue_id":1007924025
+        }
+    ],
+    "wof:id":1007924025,
+    "wof:lastmodified":1472591959,
+    "wof:name":"Martinez Gallego Blas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2313020229,
+    41.4475746155,
+    2.2313020229,
+    41.4475746155
+],
+  "geometry": {"coordinates":[2.2313020229,41.4475746155],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1008505741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5376389027,40.4225311279,-3.5376389027,40.4225311279",
+    "geom:latitude":40.422531,
+    "geom:longitude":-3.537639,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Honduras, 104",
+    "sg:city":"Coslada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Peluquer\u00cdas, Peluquer\u00cda Mixta",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 74 21 23",
+    "sg:postcode":"28820",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863631,
+        85682783,
+        85863709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_165G0tdjg5kbyovE0ifoDO_40.422531_-3.537639@1306269663"
+    },
+    "wof:country":"ES",
+    "wof:created":1472630269,
+    "wof:geomhash":"6fac535459ecb2752c35edc66e7d7839",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863631,
+            "region_id":85682783,
+            "venue_id":1008505741
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863709,
+            "region_id":85682783,
+            "venue_id":1008505741
+        }
+    ],
+    "wof:id":1008505741,
+    "wof:lastmodified":1472630269,
+    "wof:name":"Serrano Ortiz Cristina",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5376389027,
+    40.4225311279,
+    -3.5376389027,
+    40.4225311279
+],
+  "geometry": {"coordinates":[-3.5376389027,40.4225311279],"type":"Point"}
+}

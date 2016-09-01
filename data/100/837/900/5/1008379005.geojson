@@ -1,0 +1,59 @@
+{
+  "id": 1008379005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6374559402,40.5425796509,-3.6374559402,40.5425796509",
+    "geom:latitude":40.54258,
+    "geom:longitude":-3.637456,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pablo Picasso (de), 56",
+    "sg:city":"Alcobendas",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pescader\u00cdas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 51 95 72",
+    "sg:postcode":"28100",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GVqQnwYpNVc7EKXV5lYJI_40.542580_-3.637456@1306269646"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624724,
+    "wof:geomhash":"46b25e20001c6fbfc41c984c83d7e4a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1008379005
+        }
+    ],
+    "wof:id":1008379005,
+    "wof:lastmodified":1472624724,
+    "wof:name":"Rodriguez Garcia Arturo",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6374559402,
+    40.5425796509,
+    -3.6374559402,
+    40.5425796509
+],
+  "geometry": {"coordinates":[-3.6374559402,40.5425796509],"type":"Point"}
+}

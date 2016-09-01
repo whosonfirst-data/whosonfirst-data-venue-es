@@ -1,0 +1,79 @@
+{
+  "id": 990944923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6740894318,40.4037094116,-3.6740894318,40.4037094116",
+    "geom:latitude":40.403709,
+    "geom:longitude":-3.674089,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Valderribas",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 51 84 14",
+    "sg:postcode":"28007",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "en",
+        "fundiciones"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863737,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QQ5Gg5nSFNXiie7zMd7BI_40.403709_-3.674089@1306269420"
+    },
+    "wof:country":"ES",
+    "wof:created":1472513225,
+    "wof:geomhash":"8d0d32ddee540b0b0d8f1ec38eacbc56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863737,
+            "region_id":85682783,
+            "venue_id":990944923
+        }
+    ],
+    "wof:id":990944923,
+    "wof:lastmodified":1472513225,
+    "wof:name":"Alonso Gomez Maria Del Carmen",
+    "wof:parent_id":85863737,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "en",
+        "fundiciones"
+    ]
+},
+  "bbox": [
+    -3.6740894318,
+    40.4037094116,
+    -3.6740894318,
+    40.4037094116
+],
+  "geometry": {"coordinates":[-3.6740894318,40.4037094116],"type":"Point"}
+}

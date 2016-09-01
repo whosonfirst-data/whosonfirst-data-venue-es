@@ -1,0 +1,67 @@
+{
+  "id": 1008467889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0816309452,41.3666267395,2.0816309452,41.3666267395",
+    "geom:latitude":41.366627,
+    "geom:longitude":2.081631,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Sant Ildefons, 1",
+    "sg:city":"Cornella Llobregat",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicio De Salud",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 76 61 53",
+    "sg:postcode":"08940",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799591,
+        102191581,
+        404331371,
+        85633129,
+        404227379,
+        101758753,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3q22edxwWDKBxFbM4B8ODk_41.366627_2.081631@1306269658"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628624,
+    "wof:geomhash":"30c510f30ea051b68276480c75167381",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331371,
+            "locality_id":101758753,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799591,
+            "region_id":85682663,
+            "venue_id":1008467889
+        }
+    ],
+    "wof:id":1008467889,
+    "wof:lastmodified":1472628624,
+    "wof:name":"Sanitarios Fernandez C.b.",
+    "wof:parent_id":85799591,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0816309452,
+    41.3666267395,
+    2.0816309452,
+    41.3666267395
+],
+  "geometry": {"coordinates":[2.0816309452,41.3666267395],"type":"Point"}
+}

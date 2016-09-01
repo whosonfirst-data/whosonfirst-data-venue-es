@@ -1,0 +1,61 @@
+{
+  "id": 1008179987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5844640732,40.4511947632,-3.5844640732,40.4511947632",
+    "geom:latitude":40.451195,
+    "geom:longitude":-3.584464,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Medina De Pomar, S/n",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Guarder\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 47 58 14",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        102545773,
+        85863587,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WCv3lA6mE5TExsgPYlhP3_40.451195_-3.584464@1306269619"
+    },
+    "wof:country":"ES",
+    "wof:created":1472605216,
+    "wof:geomhash":"0228c06503d67f23eefbc842f068543e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545773,
+            "country_id":85633129,
+            "neighbourhood_id":85863587,
+            "region_id":85682783,
+            "venue_id":1008179987
+        }
+    ],
+    "wof:id":1008179987,
+    "wof:lastmodified":1472605216,
+    "wof:name":"Parroquia Santa Cecilia",
+    "wof:parent_id":102545773,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5844640732,
+    40.4511947632,
+    -3.5844640732,
+    40.4511947632
+],
+  "geometry": {"coordinates":[-3.5844640732,40.4511947632],"type":"Point"}
+}

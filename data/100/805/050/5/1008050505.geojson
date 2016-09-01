@@ -1,0 +1,63 @@
+{
+  "id": 1008050505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1949269772,41.389755249,2.1949269772,41.389755249",
+    "geom:latitude":41.389755,
+    "geom:longitude":2.194927,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Icaria, 129",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 21 07 09",
+    "sg:postcode":"08005",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zWt2gndqyEPKCiqj3D1Yd_41.389755_2.194927@1306269601"
+    },
+    "wof:country":"ES",
+    "wof:created":1472597358,
+    "wof:geomhash":"f0dd9192e88bd530b66d1b49a32c1e73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":1008050505
+        }
+    ],
+    "wof:id":1008050505,
+    "wof:lastmodified":1472597358,
+    "wof:name":"Mor Paris Modesto",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1949269772,
+    41.389755249,
+    2.1949269772,
+    41.389755249
+],
+  "geometry": {"coordinates":[2.1949269772,41.389755249],"type":"Point"}
+}

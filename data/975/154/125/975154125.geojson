@@ -1,0 +1,81 @@
+{
+  "id": 975154125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7142677307,40.4755249023,-3.7142677307,40.4755249023",
+    "geom:latitude":40.475525,
+    "geom:longitude":-3.714268,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Sarria, 34",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 73 71 41",
+    "sg:postcode":"28029",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799627,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qFDXPQ3dbSu6toiuM6kJN_40.475525_-3.714268@1306269411"
+    },
+    "wof:country":"ES",
+    "wof:created":1472507381,
+    "wof:geomhash":"565063c2dbd2331a52361724a8e2f4fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799627,
+            "region_id":85682783,
+            "venue_id":975154125
+        }
+    ],
+    "wof:id":975154125,
+    "wof:lastmodified":1472507381,
+    "wof:name":"Acebron Gonzalez Miguel Angel",
+    "wof:parent_id":85799627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.7142677307,
+    40.4755249023,
+    -3.7142677307,
+    40.4755249023
+],
+  "geometry": {"coordinates":[-3.7142677307,40.4755249023],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 991825721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.659719944,39.568107605,2.659719944,39.568107605",
+    "geom:latitude":39.568108,
+    "geom:longitude":2.65972,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Ricard Ankerman, 17",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Encuadernaci\u00d3n E Impresi\u00d3n De Folletos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 46 67 19",
+    "sg:postcode":"07006",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101748237,
+        85864115,
+        85864089,
+        102191581,
+        404330817,
+        404227367,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pbD4TbIg9smlRpFhBA7qh_39.568108_2.659720@1306269537"
+    },
+    "wof:country":"ES",
+    "wof:created":1472573382,
+    "wof:geomhash":"8eac76fd2036e463d542adeb5b8d30d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748237,
+            "neighbourhood_id":85864115,
+            "region_id":-1,
+            "venue_id":991825721
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864089,
+            "region_id":85682647,
+            "venue_id":991825721
+        }
+    ],
+    "wof:id":991825721,
+    "wof:lastmodified":1472573382,
+    "wof:name":"Gonzalez Gonzalez Antonio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.659719944,
+    39.568107605,
+    2.659719944,
+    39.568107605
+],
+  "geometry": {"coordinates":[2.659719944,39.568107605],"type":"Point"}
+}

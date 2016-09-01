@@ -1,0 +1,59 @@
+{
+  "id": 1008008323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6262540817,37.1927719116,-3.6262540817,37.1927719116",
+    "geom:latitude":37.192772,
+    "geom:longitude":-3.626254,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Arzobispo Guerrero, 23",
+    "sg:city":"Granada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Internados & Ense\u00d1anza Privada",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 20 27 14",
+    "sg:postcode":"18015",
+    "sg:province":"Granada",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863831,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZwVfRlUgG8P1KR0KPHTx4_37.192772_-3.626254@1306269596"
+    },
+    "wof:country":"ES",
+    "wof:created":1472595549,
+    "wof:geomhash":"bdd66c52baf9c1a7924b544ef8280eb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863831,
+            "region_id":85682731,
+            "venue_id":1008008323
+        }
+    ],
+    "wof:id":1008008323,
+    "wof:lastmodified":1472595549,
+    "wof:name":"Misioneras Agustinas Recoletas",
+    "wof:parent_id":85863831,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6262540817,
+    37.1927719116,
+    -3.6262540817,
+    37.1927719116
+],
+  "geometry": {"coordinates":[-3.6262540817,37.1927719116],"type":"Point"}
+}

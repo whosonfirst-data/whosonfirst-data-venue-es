@@ -1,0 +1,74 @@
+{
+  "id": 1007867123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.5169479847,38.3445549011,-0.5169479847,38.3445549011",
+    "geom:latitude":38.344555,
+    "geom:longitude":-0.516948,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Rio Muni, 3",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Paneles De Madera: Contrachapados, Fibras, Particulados, Estratificados (fabricaci\u00d3n, Venta)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 28 27 88",
+    "sg:postcode":"03007",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864049,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625,
+        85864043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_195b0hGTwUrXVRcFMWHpJC_38.344555_-0.516948@1306269578"
+    },
+    "wof:country":"ES",
+    "wof:created":1472589534,
+    "wof:geomhash":"71bb0e9e087a8a124368402fc45e46bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864049,
+            "region_id":85682625,
+            "venue_id":1007867123
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864043,
+            "region_id":85682625,
+            "venue_id":1007867123
+        }
+    ],
+    "wof:id":1007867123,
+    "wof:lastmodified":1472589534,
+    "wof:name":"Maderas Martinez Candela S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.5169479847,
+    38.3445549011,
+    -0.5169479847,
+    38.3445549011
+],
+  "geometry": {"coordinates":[-0.5169479847,38.3445549011],"type":"Point"}
+}

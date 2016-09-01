@@ -1,0 +1,67 @@
+{
+  "id": 1008492521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1641380787,41.3998985291,2.1641380787,41.3998985291",
+    "geom:latitude":41.399899,
+    "geom:longitude":2.164138,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Girona, 183",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Estancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 57 87 02",
+    "sg:postcode":"08037",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863999,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pLvZY01A96ajV3J5K8wyy_41.399899_2.164138@1306269661"
+    },
+    "wof:country":"ES",
+    "wof:created":1472629663,
+    "wof:geomhash":"7aaac33e5a4c394de1c6cb98f125956e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863999,
+            "region_id":85682663,
+            "venue_id":1008492521
+        }
+    ],
+    "wof:id":1008492521,
+    "wof:lastmodified":1472629663,
+    "wof:name":"Segui Bonal Jorge",
+    "wof:parent_id":85863999,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1641380787,
+    41.3998985291,
+    2.1641380787,
+    41.3998985291
+],
+  "geometry": {"coordinates":[2.1641380787,41.3998985291],"type":"Point"}
+}

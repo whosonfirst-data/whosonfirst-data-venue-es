@@ -1,0 +1,59 @@
+{
+  "id": 1008506513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5825090408,40.4469604492,-3.5825090408,40.4469604492",
+    "geom:latitude":40.44696,
+    "geom:longitude":-3.582509,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Campezo, S/n",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Diarios, Revistas Y Boletines (suscripciones)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 47 80 30",
+    "sg:postcode":"28022",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863629,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rIl8dH8JBRVkiO4aCe4m1_40.446960_-3.582509@1306269663"
+    },
+    "wof:country":"ES",
+    "wof:created":1472630300,
+    "wof:geomhash":"630e021e205494a90225a579b7c763ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863629,
+            "region_id":85682783,
+            "venue_id":1008506513
+        }
+    ],
+    "wof:id":1008506513,
+    "wof:lastmodified":1472630300,
+    "wof:name":"Serrano Vallejo Pablo Antonio",
+    "wof:parent_id":85863629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5825090408,
+    40.4469604492,
+    -3.5825090408,
+    40.4469604492
+],
+  "geometry": {"coordinates":[-3.5825090408,40.4469604492],"type":"Point"}
+}

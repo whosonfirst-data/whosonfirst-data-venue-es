@@ -1,0 +1,59 @@
+{
+  "id": 1008221213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.567289114,40.4258003235,-3.567289114,40.4258003235",
+    "geom:latitude":40.4258,
+    "geom:longitude":-3.567289,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz San Pedro Y San Pablo (de), S/n",
+    "sg:city":"Coslada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Carnicer\u00cdas, Carnicer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 73 58 54",
+    "sg:postcode":"28820",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863629,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QOkfJzJGIkpSOLrahyID5_40.425800_-3.567289@1306269625"
+    },
+    "wof:country":"ES",
+    "wof:created":1472613433,
+    "wof:geomhash":"01d67d74d28530d64305adc8a33c2d00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863629,
+            "region_id":85682783,
+            "venue_id":1008221213
+        }
+    ],
+    "wof:id":1008221213,
+    "wof:lastmodified":1472613433,
+    "wof:name":"Perez Redondo Jose",
+    "wof:parent_id":85863629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.567289114,
+    40.4258003235,
+    -3.567289114,
+    40.4258003235
+],
+  "geometry": {"coordinates":[-3.567289114,40.4258003235],"type":"Point"}
+}

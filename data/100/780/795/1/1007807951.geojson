@@ -1,0 +1,78 @@
+{
+  "id": 1007807951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6532659531,39.5732269287,2.6532659531,39.5732269287",
+    "geom:latitude":39.573227,
+    "geom:longitude":2.653266,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Josep Tous Ferrer, 6",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Masajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 72 09 20",
+    "sg:postcode":"07002",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864097,
+        102191581,
+        404330817,
+        85633129,
+        404227367,
+        101748237,
+        85682647,
+        85864089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kUn0pYEWxCnwwtZn36loo_39.573227_2.653266@1306269571"
+    },
+    "wof:country":"ES",
+    "wof:created":1472586738,
+    "wof:geomhash":"2d35f3f6db2e67eb68a0000322846727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864097,
+            "region_id":85682647,
+            "venue_id":1007807951
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864089,
+            "region_id":85682647,
+            "venue_id":1007807951
+        }
+    ],
+    "wof:id":1007807951,
+    "wof:lastmodified":1472586738,
+    "wof:name":"Lillo Nu\u00f1ez Juana",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6532659531,
+    39.5732269287,
+    2.6532659531,
+    39.5732269287
+],
+  "geometry": {"coordinates":[2.6532659531,39.5732269287],"type":"Point"}
+}

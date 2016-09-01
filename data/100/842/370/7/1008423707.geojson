@@ -1,0 +1,81 @@
+{
+  "id": 1008423707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6945080757,40.4260902405,-3.6945080757,40.4260902405",
+    "geom:latitude":40.42609,
+    "geom:longitude":-3.694508,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Orellana, 14",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 19 30 37",
+    "sg:postcode":"28004",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863791,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60gtSfAcmjMyA0AjDGCmCi_40.426090_-3.694508@1306269652"
+    },
+    "wof:country":"ES",
+    "wof:created":1472626857,
+    "wof:geomhash":"a68a223351a2e83134405c8061d9c3f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863791,
+            "region_id":85682783,
+            "venue_id":1008423707
+        }
+    ],
+    "wof:id":1008423707,
+    "wof:lastmodified":1472626857,
+    "wof:name":"Ruiz Pereda Oscar",
+    "wof:parent_id":85863791,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    -3.6945080757,
+    40.4260902405,
+    -3.6945080757,
+    40.4260902405
+],
+  "geometry": {"coordinates":[-3.6945080757,40.4260902405],"type":"Point"}
+}

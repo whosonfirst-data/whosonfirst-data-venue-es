@@ -1,0 +1,81 @@
+{
+  "id": 1007812815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7001590729,40.4165382385,-3.7001590729,40.4165382385",
+    "geom:latitude":40.416538,
+    "geom:longitude":-3.700159,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cra San Jeronimo, 16",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 32 27 85",
+    "sg:postcode":"28014",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863685,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15EOzKtkMk30P7PBBa6fHL_40.416538_-3.700159@1306269572"
+    },
+    "wof:country":"ES",
+    "wof:created":1472586991,
+    "wof:geomhash":"7d511d8b315770983d353c511bdf1ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863685,
+            "region_id":85682783,
+            "venue_id":1007812815
+        }
+    ],
+    "wof:id":1007812815,
+    "wof:lastmodified":1472586991,
+    "wof:name":"Lizardi Camarero-nu\u00f1ez Francisco Maria",
+    "wof:parent_id":85863685,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ]
+},
+  "bbox": [
+    -3.7001590729,
+    40.4165382385,
+    -3.7001590729,
+    40.4165382385
+],
+  "geometry": {"coordinates":[-3.7001590729,40.4165382385],"type":"Point"}
+}

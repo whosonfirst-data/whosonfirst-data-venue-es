@@ -1,0 +1,80 @@
+{
+  "id": 1007893127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1257929802,41.375328064,2.1257929802,41.375328064",
+    "geom:latitude":41.375328,
+    "geom:longitude":2.125793,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Bassegoda, 12",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Inmobiliaria (agencias)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 47 08 27",
+    "sg:postcode":"08028",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799597,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85799283,
+        404331105,
+        101748333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fw6a8roptaltAESzRB1ZT_41.375328_2.125793@1306269581"
+    },
+    "wof:country":"ES",
+    "wof:created":1472590564,
+    "wof:geomhash":"c7e7b51cf717a66df0e6af3c9712f4c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799597,
+            "region_id":85682663,
+            "venue_id":1007893127
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331105,
+            "locality_id":101748333,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799283,
+            "region_id":85682663,
+            "venue_id":1007893127
+        }
+    ],
+    "wof:id":1007893127,
+    "wof:lastmodified":1472590564,
+    "wof:name":"Marcillo Y Lloreda Habitad Asociados S.l",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1257929802,
+    41.375328064,
+    2.1257929802,
+    41.375328064
+],
+  "geometry": {"coordinates":[2.1257929802,41.375328064],"type":"Point"}
+}

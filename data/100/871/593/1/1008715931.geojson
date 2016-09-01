@@ -1,0 +1,60 @@
+{
+  "id": 1008715931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7670199871,40.3285369873,-3.7670199871,40.3285369873",
+    "geom:latitude":40.328537,
+    "geom:longitude":-3.76702,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Fuente Honda, 5",
+    "sg:city":"Leganes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 93 46 98",
+    "sg:postcode":"28911",
+    "sg:province":"Madrid",
+    "sg:website":"www.marsans.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863785,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Sr1sk0RsFvAoTxnLPTR3l_40.328537_-3.767020@1306269691"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639270,
+    "wof:geomhash":"39bcfcf8df68bdccf939e66ea3e9ac0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863785,
+            "region_id":85682783,
+            "venue_id":1008715931
+        }
+    ],
+    "wof:id":1008715931,
+    "wof:lastmodified":1472639270,
+    "wof:name":"Viajes Marsans S.a.",
+    "wof:parent_id":85863785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7670199871,
+    40.3285369873,
+    -3.7670199871,
+    40.3285369873
+],
+  "geometry": {"coordinates":[-3.7670199871,40.3285369873],"type":"Point"}
+}

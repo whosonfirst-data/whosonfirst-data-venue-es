@@ -1,0 +1,59 @@
+{
+  "id": 1008031161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6262660027,40.5477905273,-3.6262660027,40.5477905273",
+    "geom:latitude":40.547791,
+    "geom:longitude":-3.626266,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Roque (de), 13",
+    "sg:city":"San Sebastian De Los Reyes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Promotores Constructores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 51 75 03",
+    "sg:postcode":"28700",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WQH8inPP3yL8nJ5MfOG8V_40.547791_-3.626266@1306269598"
+    },
+    "wof:country":"ES",
+    "wof:created":1472596536,
+    "wof:geomhash":"5fe2cf2a08fa0798a0fa8fb2cc5f4e3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1008031161
+        }
+    ],
+    "wof:id":1008031161,
+    "wof:lastmodified":1472596536,
+    "wof:name":"Montes Frutos Antolin",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6262660027,
+    40.5477905273,
+    -3.6262660027,
+    40.5477905273
+],
+  "geometry": {"coordinates":[-3.6262660027,40.5477905273],"type":"Point"}
+}

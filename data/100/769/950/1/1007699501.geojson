@@ -1,0 +1,59 @@
+{
+  "id": 1007699501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6324141026,40.5058555603,-3.6324141026,40.5058555603",
+    "geom:latitude":40.505856,
+    "geom:longitude":-3.632414,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Vicente Huidobro, 1",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Inmobiliaria (agencias)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 25 55 64",
+    "sg:postcode":"28050",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863585,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pc8Y4H22CXTdES2oUi49O_40.505856_-3.632414@1306269556"
+    },
+    "wof:country":"ES",
+    "wof:created":1472580941,
+    "wof:geomhash":"c5d0debe938bc8641189e6a699b73bf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863585,
+            "region_id":85682783,
+            "venue_id":1007699501
+        }
+    ],
+    "wof:id":1007699501,
+    "wof:lastmodified":1472580941,
+    "wof:name":"Instituto Inmobiliario De Berna S.l.",
+    "wof:parent_id":85863585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6324141026,
+    40.5058555603,
+    -3.6324141026,
+    40.5058555603
+],
+  "geometry": {"coordinates":[-3.6324141026,40.5058555603],"type":"Point"}
+}

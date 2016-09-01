@@ -1,0 +1,67 @@
+{
+  "id": 991098471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9660987854,37.3746528625,-5.9660987854,37.3746528625",
+    "geom:latitude":37.374653,
+    "geom:longitude":-5.966099,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Ramon Y Cajal, 89",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 63 21 08",
+    "sg:postcode":"41005",
+    "sg:province":"Sevilla",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864187,
+        102191581,
+        404342947,
+        85633129,
+        404227361,
+        101748225,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17LAcEonIxK7J4PQ9dt1nO_37.374653_-5.966099@1306269440"
+    },
+    "wof:country":"ES",
+    "wof:created":1472526678,
+    "wof:geomhash":"0b778893c245f8721013d235e188fe99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864187,
+            "region_id":85682841,
+            "venue_id":991098471
+        }
+    ],
+    "wof:id":991098471,
+    "wof:lastmodified":1472526678,
+    "wof:name":"Banco De Andalucia",
+    "wof:parent_id":85864187,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.9660987854,
+    37.3746528625,
+    -5.9660987854,
+    37.3746528625
+],
+  "geometry": {"coordinates":[-5.9660987854,37.3746528625],"type":"Point"}
+}

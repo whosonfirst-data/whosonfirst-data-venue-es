@@ -1,0 +1,59 @@
+{
+  "id": 990995165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5521869659,40.4490814209,-3.5521869659,40.4490814209",
+    "geom:latitude":40.449081,
+    "geom:longitude":-3.552187,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Aragon, 345",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tiendas De Grano, Frutas Y Legumbres Secas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 29 55 53",
+    "sg:postcode":"28022",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863631,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Qx7MxbY2pLlr4jKzmrh4H_40.449081_-3.552187@1306269426"
+    },
+    "wof:country":"ES",
+    "wof:created":1472518720,
+    "wof:geomhash":"69984c6d6e267fcd953f63149bb074ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863631,
+            "region_id":85682783,
+            "venue_id":990995165
+        }
+    ],
+    "wof:id":990995165,
+    "wof:lastmodified":1472518720,
+    "wof:name":"Arce Martin Agustin",
+    "wof:parent_id":85863631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5521869659,
+    40.4490814209,
+    -3.5521869659,
+    40.4490814209
+],
+  "geometry": {"coordinates":[-3.5521869659,40.4490814209],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1008131395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5863490105,40.4555587769,-3.5863490105,40.4555587769",
+    "geom:latitude":40.455559,
+    "geom:longitude":-3.586349,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Carabela, 7",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sanatorios M\u00c9dico",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 29 64 58",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        102545773,
+        85863587,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ly8SVPXpWARrHKSb7dzwf_40.455559_-3.586349@1306269612"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601024,
+    "wof:geomhash":"c2fa9b738c74abe118439a71ea0aca68",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545773,
+            "country_id":85633129,
+            "neighbourhood_id":85863587,
+            "region_id":85682783,
+            "venue_id":1008131395
+        }
+    ],
+    "wof:id":1008131395,
+    "wof:lastmodified":1472601024,
+    "wof:name":"Organismo Autonomo De Informatica Y Comunicaciones De La Comunidad De Madrid",
+    "wof:parent_id":102545773,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5863490105,
+    40.4555587769,
+    -3.5863490105,
+    40.4555587769
+],
+  "geometry": {"coordinates":[-3.5863490105,40.4555587769],"type":"Point"}
+}

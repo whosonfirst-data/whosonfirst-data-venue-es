@@ -1,0 +1,61 @@
+{
+  "id": 1007918187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5804970264,40.4599151611,-3.5804970264,40.4599151611",
+    "geom:latitude":40.459915,
+    "geom:longitude":-3.580497,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Soto Hidalgo, 12",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 47 44 96",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        102545773,
+        85863587,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iJGzELpPw6dxtbq5I2FHd_40.459915_-3.580497@1306269584"
+    },
+    "wof:country":"ES",
+    "wof:created":1472591673,
+    "wof:geomhash":"66c7fb5ea3239957373c5007f8ae35c9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545773,
+            "country_id":85633129,
+            "neighbourhood_id":85863587,
+            "region_id":85682783,
+            "venue_id":1007918187
+        }
+    ],
+    "wof:id":1007918187,
+    "wof:lastmodified":1472591673,
+    "wof:name":"Martinez Alfaro Bienvenida",
+    "wof:parent_id":102545773,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5804970264,
+    40.4599151611,
+    -3.5804970264,
+    40.4599151611
+],
+  "geometry": {"coordinates":[-3.5804970264,40.4599151611],"type":"Point"}
+}

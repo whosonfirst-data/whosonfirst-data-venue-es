@@ -1,0 +1,59 @@
+{
+  "id": 1024487807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7299520969,40.3066368103,-3.7299520969,40.3066368103",
+    "geom:latitude":40.306637,
+    "geom:longitude":-3.729952,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ricardo De La Vega, 3",
+    "sg:city":"Getafe",
+    "sg:classifiers":[],
+    "sg:orig_category":"Oficinas Y Gesti\u00d3n De Inmuebles",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 83 92 46",
+    "sg:postcode":"28901",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Zm1G0ivIbbuUz2VpqMdlT_40.306637_-3.729952@1306269696"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641091,
+    "wof:geomhash":"248f48a5cc807b284693ae1edaae43af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1024487807
+        }
+    ],
+    "wof:id":1024487807,
+    "wof:lastmodified":1472641091,
+    "wof:name":"Zambra Sur S.a.",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7299520969,
+    40.3066368103,
+    -3.7299520969,
+    40.3066368103
+],
+  "geometry": {"coordinates":[-3.7299520969,40.3066368103],"type":"Point"}
+}

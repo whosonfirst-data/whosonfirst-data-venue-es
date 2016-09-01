@@ -1,0 +1,61 @@
+{
+  "id": 1007698631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5886352062,40.4526443481,-3.5886352062,40.4526443481",
+    "geom:latitude":40.452644,
+    "geom:longitude":-3.588635,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Batel, 2",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Organizaciones Internacionales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 41 09 31",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        102545773,
+        85863587,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2u7yby6MnIgY6v84IjZyRK_40.452644_-3.588635@1306269556"
+    },
+    "wof:country":"ES",
+    "wof:created":1472580890,
+    "wof:geomhash":"d9be586e31fcaa45e793564073465245",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545773,
+            "country_id":85633129,
+            "neighbourhood_id":85863587,
+            "region_id":85682783,
+            "venue_id":1007698631
+        }
+    ],
+    "wof:id":1007698631,
+    "wof:lastmodified":1472580890,
+    "wof:name":"Instituto De Estudios Politicos Para America Latina Y Africa",
+    "wof:parent_id":102545773,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5886352062,
+    40.4526443481,
+    -3.5886352062,
+    40.4526443481
+],
+  "geometry": {"coordinates":[-3.5886352062,40.4526443481],"type":"Point"}
+}

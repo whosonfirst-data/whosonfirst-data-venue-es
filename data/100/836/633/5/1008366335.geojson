@@ -1,0 +1,81 @@
+{
+  "id": 1008366335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7139439583,40.424041748,-3.7139439583,40.424041748",
+    "geom:latitude":40.424042,
+    "geom:longitude":-3.713944,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Juan Alvarez Mendizabal, 10",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 59 75 06",
+    "sg:postcode":"28008",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863669,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DTGgFbfjAx9IJYOdPHRuD_40.424042_-3.713944@1306269644"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624220,
+    "wof:geomhash":"5ae588f444c60a41fb13daa130ae64b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863669,
+            "region_id":85682783,
+            "venue_id":1008366335
+        }
+    ],
+    "wof:id":1008366335,
+    "wof:lastmodified":1472624220,
+    "wof:name":"Roa Ramirez Manuel",
+    "wof:parent_id":85863669,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.7139439583,
+    40.424041748,
+    -3.7139439583,
+    40.424041748
+],
+  "geometry": {"coordinates":[-3.7139439583,40.424041748],"type":"Point"}
+}

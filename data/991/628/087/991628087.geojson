@@ -1,0 +1,79 @@
+{
+  "id": 991628087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.658862114,40.3926086426,-3.658862114,40.3926086426",
+    "geom:latitude":40.392609,
+    "geom:longitude":-3.658862,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Payaso Fofo, 1",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Deportes Diversos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 77 80 83",
+    "sg:postcode":"28018",
+    "sg:province":"Madrid",
+    "sg:website":"www.fedemast.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863721,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ScaJDbWdhyaqLTFkeZKJt_40.392609_-3.658862@1306269511"
+    },
+    "wof:country":"ES",
+    "wof:created":1472561671,
+    "wof:geomhash":"90f6b3c869e9e8d233172282a6dc4041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863721,
+            "region_id":85682783,
+            "venue_id":991628087
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863733,
+            "region_id":85682783,
+            "venue_id":991628087
+        }
+    ],
+    "wof:id":991628087,
+    "wof:lastmodified":1472561671,
+    "wof:name":"Federacion Madrile\u00f1a De Tenis De Mesa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.658862114,
+    40.3926086426,
+    -3.658862114,
+    40.3926086426
+],
+  "geometry": {"coordinates":[-3.658862114,40.3926086426],"type":"Point"}
+}

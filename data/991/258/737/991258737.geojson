@@ -1,0 +1,63 @@
+{
+  "id": 991258737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1805200577,41.3824272156,2.1805200577,41.3824272156",
+    "geom:latitude":41.382427,
+    "geom:longitude":2.18052,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Via Laietana, 5",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Organizaciones Internacionales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 68 79 10",
+    "sg:postcode":"08003",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xwmYT7pSzpqqrcsC8VDUH_41.382427_2.180520@1306269462"
+    },
+    "wof:country":"ES",
+    "wof:created":1472540485,
+    "wof:geomhash":"ca3d1a62b35fa59f15c48ab23ba7c54a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":991258737
+        }
+    ],
+    "wof:id":991258737,
+    "wof:lastmodified":1472540485,
+    "wof:name":"Caritas Diocesana De Barcelona",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1805200577,
+    41.3824272156,
+    2.1805200577,
+    41.3824272156
+],
+  "geometry": {"coordinates":[2.1805200577,41.3824272156],"type":"Point"}
+}

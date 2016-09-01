@@ -1,0 +1,59 @@
+{
+  "id": 1008004501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.8182590008,41.7283096313,1.8182590008,41.7283096313",
+    "geom:latitude":41.72831,
+    "geom:longitude":1.818259,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Navarra, 15",
+    "sg:city":"Manresa",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ingenier\u00cda, Centros De Estudios (diversos)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 938 72 95 89",
+    "sg:postcode":"08242",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4F6OqILMpfjL9Uu0Z2QK3B_41.728310_1.818259@1306269595"
+    },
+    "wof:country":"ES",
+    "wof:created":1472595374,
+    "wof:geomhash":"d82d789378099e1b52c1fecbce681d1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008004501
+        }
+    ],
+    "wof:id":1008004501,
+    "wof:lastmodified":1472595374,
+    "wof:name":"Miralles Jorba Antonio",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.8182590008,
+    41.7283096313,
+    1.8182590008,
+    41.7283096313
+],
+  "geometry": {"coordinates":[1.8182590008,41.7283096313],"type":"Point"}
+}

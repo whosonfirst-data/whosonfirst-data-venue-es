@@ -1,0 +1,67 @@
+{
+  "id": 1008686437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.149338007,41.3828086853,2.149338007,41.3828086853",
+    "geom:latitude":41.382809,
+    "geom:longitude":2.149338,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Roma, 76",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grafistas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 26 24 00",
+    "sg:postcode":"08015",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864021,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cpiEDQAOKc80jUnum3ZaF_41.382809_2.149338@1306269687"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637902,
+    "wof:geomhash":"f2268de0ad272b755ae17ac1e7911493",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864021,
+            "region_id":85682663,
+            "venue_id":1008686437
+        }
+    ],
+    "wof:id":1008686437,
+    "wof:lastmodified":1472637902,
+    "wof:name":"Val Laplana Jorge Carmelo",
+    "wof:parent_id":85864021,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.149338007,
+    41.3828086853,
+    2.149338007,
+    41.3828086853
+],
+  "geometry": {"coordinates":[2.149338007,41.3828086853],"type":"Point"}
+}

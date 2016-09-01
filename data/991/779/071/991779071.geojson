@@ -1,0 +1,65 @@
+{
+  "id": 991779071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.3480391502,36.1581306458,-5.3480391502,36.1581306458",
+    "geom:latitude":36.158131,
+    "geom:longitude":-5.348039,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Veinte De Abril, 20",
+    "sg:city":"Linea De La Concepcion",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aparcamientos (infraestructuras, Accesorios)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 956 76 27 86",
+    "sg:postcode":"11300",
+    "sg:province":"C\u00e1diz",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "85633167",
+        85794121,
+        "102191581",
+        "85633159",
+        101753853,
+        85684619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Lmp2Ql5GXQ7a48WZohqzn_36.158131_-5.348039@1306269531"
+    },
+    "wof:country":"ES",
+    "wof:created":1472570051,
+    "wof:geomhash":"44c2a0060a19f9743d99e5a65c27287c",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "dependency_id":"85633167",
+            "locality_id":101753853,
+            "neighbourhood_id":85794121,
+            "region_id":85684619,
+            "venue_id":991779071
+        }
+    ],
+    "wof:id":991779071,
+    "wof:lastmodified":1472570051,
+    "wof:name":"General De Servicios De Aparcamiento Bencar S.a.",
+    "wof:parent_id":85794121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.3480391502,
+    36.1581306458,
+    -5.3480391502,
+    36.1581306458
+],
+  "geometry": {"coordinates":[-5.3480391502,36.1581306458],"type":"Point"}
+}

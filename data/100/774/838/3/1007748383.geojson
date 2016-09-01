@@ -1,0 +1,67 @@
+{
+  "id": 1007748383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1937348843,41.4171409607,2.1937348843,41.4171409607",
+    "geom:latitude":41.417141,
+    "geom:longitude":2.193735,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Menorca, 6",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 07 49 34",
+    "sg:postcode":"08020",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864003,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZJdsU5duhUXi6S6MfxGa5_41.417141_2.193735@1306269563"
+    },
+    "wof:country":"ES",
+    "wof:created":1472583582,
+    "wof:geomhash":"ceb08de1b92558ba509da235b8871acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864003,
+            "region_id":85682663,
+            "venue_id":1007748383
+        }
+    ],
+    "wof:id":1007748383,
+    "wof:lastmodified":1472583582,
+    "wof:name":"Jove Gascon Maria Rosa",
+    "wof:parent_id":85864003,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1937348843,
+    41.4171409607,
+    2.1937348843,
+    41.4171409607
+],
+  "geometry": {"coordinates":[2.1937348843,41.4171409607],"type":"Point"}
+}

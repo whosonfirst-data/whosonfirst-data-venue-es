@@ -1,0 +1,74 @@
+{
+  "id": 991600927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.5152909756,38.3367080688,-0.5152909756,38.3367080688",
+    "geom:latitude":38.336708,
+    "geom:longitude":-0.515291,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Transportes (los), 13",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asesor\u00cda Sobre Comunicaci\u00d3n De Empresas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 92 88 29",
+    "sg:postcode":"03008",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864045,
+        85682625,
+        85864049,
+        102191581,
+        404329281,
+        404227381,
+        101748211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13aAbkH0LnXI9NxyIiz0Sh_38.336708_-0.515291@1306269507"
+    },
+    "wof:country":"ES",
+    "wof:created":1472559635,
+    "wof:geomhash":"c6d4dbce7c85382dad7ae1a0b0b232b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864045,
+            "region_id":85682625,
+            "venue_id":991600927
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864049,
+            "region_id":85682625,
+            "venue_id":991600927
+        }
+    ],
+    "wof:id":991600927,
+    "wof:lastmodified":1472559635,
+    "wof:name":"Eulen S A",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.5152909756,
+    38.3367080688,
+    -0.5152909756,
+    38.3367080688
+],
+  "geometry": {"coordinates":[-0.5152909756,38.3367080688],"type":"Point"}
+}

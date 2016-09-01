@@ -1,0 +1,67 @@
+{
+  "id": 1008687169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6889369488,40.4590759277,-3.6889369488,40.4590759277",
+    "geom:latitude":40.459076,
+    "geom:longitude":-3.688937,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Alberto Alcocer, 3",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Estancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 59 10 42",
+    "sg:postcode":"28036",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863603,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VDPXg4vUbLO8pbsXuIBND_40.459076_-3.688937@1306269687"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637936,
+    "wof:geomhash":"11472fe4939e9b60353f0d82f3ee016e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863603,
+            "region_id":85682783,
+            "venue_id":1008687169
+        }
+    ],
+    "wof:id":1008687169,
+    "wof:lastmodified":1472637936,
+    "wof:name":"Valle-inclan Lapido Ramon",
+    "wof:parent_id":85863603,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6889369488,
+    40.4590759277,
+    -3.6889369488,
+    40.4590759277
+],
+  "geometry": {"coordinates":[-3.6889369488,40.4590759277],"type":"Point"}
+}

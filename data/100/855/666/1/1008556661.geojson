@@ -1,0 +1,59 @@
+{
+  "id": 1008556661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8079853058,43.4627532959,-3.8079853058,43.4627532959",
+    "geom:latitude":43.462753,
+    "geom:longitude":-3.807985,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Rualasal, 4",
+    "sg:city":"Santander",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cl\u00cdnicas Dentales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 31 33 41",
+    "sg:postcode":"39001",
+    "sg:province":"Cantabria",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799303,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BBsprgPKqzclzoXhkWmMx_43.462753_-3.807985@1306269669"
+    },
+    "wof:country":"ES",
+    "wof:created":1472632412,
+    "wof:geomhash":"7677e16e93f9f2cebe896760d3472aa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799303,
+            "region_id":85682833,
+            "venue_id":1008556661
+        }
+    ],
+    "wof:id":1008556661,
+    "wof:lastmodified":1472632412,
+    "wof:name":"Soto Rios Bego\u00f1a",
+    "wof:parent_id":85799303,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8079853058,
+    43.4627532959,
+    -3.8079853058,
+    43.4627532959
+],
+  "geometry": {"coordinates":[-3.8079853058,43.4627532959],"type":"Point"}
+}

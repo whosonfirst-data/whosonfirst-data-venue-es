@@ -1,0 +1,59 @@
+{
+  "id": 1007834797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1868350506,41.4842414856,2.1868350506,41.4842414856",
+    "geom:latitude":41.484241,
+    "geom:longitude":2.186835,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sant Antoni, 22",
+    "sg:city":"Montcada Centre",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aparatos De Medida, Control, Regulaci\u00d3n Y Detecci\u00d3n",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 935 64 04 66",
+    "sg:postcode":"08110",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799639,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fYoFtWryrEic50VpmnKzp_41.484241_2.186835@1306269574"
+    },
+    "wof:country":"ES",
+    "wof:created":1472587951,
+    "wof:geomhash":"3fa1a8eb3dda523772fc06e559b99009",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799639,
+            "region_id":85682663,
+            "venue_id":1007834797
+        }
+    ],
+    "wof:id":1007834797,
+    "wof:lastmodified":1472587951,
+    "wof:name":"Lopez Garcia Jose",
+    "wof:parent_id":85799639,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1868350506,
+    41.4842414856,
+    2.1868350506,
+    41.4842414856
+],
+  "geometry": {"coordinates":[2.1868350506,41.4842414856],"type":"Point"}
+}

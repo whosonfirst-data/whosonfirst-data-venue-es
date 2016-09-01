@@ -1,0 +1,77 @@
+{
+  "id": 1008615803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.4250780344,38.9081916809,1.4250780344,38.9081916809",
+    "geom:latitude":38.908192,
+    "geom:longitude":1.425078,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carr Balears, 8",
+    "sg:city":"Eivissa",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pistas Y Clases De Tenis",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 30 00 19",
+    "sg:postcode":"07800",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101777557,
+        85864231,
+        85864237,
+        102191581,
+        404330785,
+        404227367,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KMe4Mm93XIwrqVM0xunxP_38.908192_1.425078@1306269677"
+    },
+    "wof:country":"ES",
+    "wof:created":1472634962,
+    "wof:geomhash":"cf0a64d9c43044da4a6f6ec1b3185c15",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101777557,
+            "neighbourhood_id":85864231,
+            "region_id":-1,
+            "venue_id":1008615803
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330785,
+            "locality_id":101777557,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864237,
+            "region_id":85682647,
+            "venue_id":1008615803
+        }
+    ],
+    "wof:id":1008615803,
+    "wof:lastmodified":1472634962,
+    "wof:name":"Tenis Club Ibiza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.4250780344,
+    38.9081916809,
+    1.4250780344,
+    38.9081916809
+],
+  "geometry": {"coordinates":[1.4250780344,38.9081916809],"type":"Point"}
+}

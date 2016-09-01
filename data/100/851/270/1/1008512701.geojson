@@ -1,0 +1,60 @@
+{
+  "id": 1008512701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7019000053,40.3098640442,-3.7019000053,40.3098640442",
+    "geom:latitude":40.309864,
+    "geom:longitude":-3.7019,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Carpinteros, 7",
+    "sg:city":"Getafe",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros Empresariales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 96 34 98",
+    "sg:postcode":"28906",
+    "sg:province":"Madrid",
+    "sg:website":"www.aliena.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HdaGS0v4ls2kXXIs4Kly4_40.309864_-3.701900@1306269664"
+    },
+    "wof:country":"ES",
+    "wof:created":1472630550,
+    "wof:geomhash":"87c2fedeec70cd9a6c09af94d3ba0ad0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1008512701
+        }
+    ],
+    "wof:id":1008512701,
+    "wof:lastmodified":1472630550,
+    "wof:name":"Servicios Empresariales De Nuevas Tecnologias Aliena Sll En Constitucion",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7019000053,
+    40.3098640442,
+    -3.7019000053,
+    40.3098640442
+],
+  "geometry": {"coordinates":[-3.7019000053,40.3098640442],"type":"Point"}
+}

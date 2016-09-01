@@ -1,0 +1,81 @@
+{
+  "id": 1007902547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0952041149,41.3256797791,2.0952041149,41.3256797791",
+    "geom:latitude":41.32568,
+    "geom:longitude":2.095204,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Verge Montserrat, 111",
+    "sg:city":"Prat Llobregat",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 79 59 43",
+    "sg:postcode":"08820",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "salas",
+        "de",
+        "cine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799585,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SGeRovU3OHtlcyMysLuaL_41.325680_2.095204@1306269582"
+    },
+    "wof:country":"ES",
+    "wof:created":1472590945,
+    "wof:geomhash":"0f49604641f97284b5d930de5c0c2172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799585,
+            "region_id":85682663,
+            "venue_id":1007902547
+        }
+    ],
+    "wof:id":1007902547,
+    "wof:lastmodified":1472590945,
+    "wof:name":"Marimon Marimon Fermin",
+    "wof:parent_id":85799585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salas",
+        "de",
+        "cine"
+    ]
+},
+  "bbox": [
+    2.0952041149,
+    41.3256797791,
+    2.0952041149,
+    41.3256797791
+],
+  "geometry": {"coordinates":[2.0952041149,41.3256797791],"type":"Point"}
+}

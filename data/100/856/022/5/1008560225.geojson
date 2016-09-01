@@ -1,0 +1,67 @@
+{
+  "id": 1008560225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4016847908,39.469871521,-0.4016847908,39.469871521",
+    "geom:latitude":39.469872,
+    "geom:longitude":-0.401685,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pintor Stolz, 48",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cl\u00cdnicas M\u00c9dicas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 79 06 06",
+    "sg:postcode":"46018",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864219,
+        102191581,
+        404345047,
+        85633129,
+        404227381,
+        101753691,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VVIaNuhFUcpilKib7irTK_39.469872_-0.401685@1306269670"
+    },
+    "wof:country":"ES",
+    "wof:created":1472632569,
+    "wof:geomhash":"343a359273444bdc1c1f9da486a626f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345047,
+            "locality_id":101753691,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864219,
+            "region_id":85682867,
+            "venue_id":1008560225
+        }
+    ],
+    "wof:id":1008560225,
+    "wof:lastmodified":1472632569,
+    "wof:name":"Stauros S.c.p.",
+    "wof:parent_id":85864219,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4016847908,
+    39.469871521,
+    -0.4016847908,
+    39.469871521
+],
+  "geometry": {"coordinates":[-0.4016847908,39.469871521],"type":"Point"}
+}

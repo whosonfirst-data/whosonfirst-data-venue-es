@@ -1,0 +1,63 @@
+{
+  "id": 1008151051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.178057909,41.3834686279,2.178057909,41.3834686279",
+    "geom:latitude":41.383469,
+    "geom:longitude":2.178058,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Jaume I, 15",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Heladeros",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 10 53 24",
+    "sg:postcode":"08002",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rLlcgetNn5sMmjW65Q40D_41.383469_2.178058@1306269615"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601886,
+    "wof:geomhash":"b7b67064331574981582972200c1ee73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":1008151051
+        }
+    ],
+    "wof:id":1008151051,
+    "wof:lastmodified":1472601886,
+    "wof:name":"Pagliotta  Egidio",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.178057909,
+    41.3834686279,
+    2.178057909,
+    41.3834686279
+],
+  "geometry": {"coordinates":[2.178057909,41.3834686279],"type":"Point"}
+}

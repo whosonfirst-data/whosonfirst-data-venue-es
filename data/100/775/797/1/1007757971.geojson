@@ -1,0 +1,59 @@
+{
+  "id": 1007757971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5800004005,40.4751930237,-3.5800004005,40.4751930237",
+    "geom:latitude":40.475193,
+    "geom:longitude":-3.58,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Acuario, 34",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Caf\u00c9s, Bares, Cervecer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 05 58 07",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863589,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZqceQj5xE1fNaMEEB2PBn_40.475193_-3.580000@1306269564"
+    },
+    "wof:country":"ES",
+    "wof:created":1472584155,
+    "wof:geomhash":"28065b0483064f760117e2d2c777be60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863589,
+            "region_id":85682783,
+            "venue_id":1007757971
+        }
+    ],
+    "wof:id":1007757971,
+    "wof:lastmodified":1472584155,
+    "wof:name":"Julian Sanchez Adela",
+    "wof:parent_id":85863589,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5800004005,
+    40.4751930237,
+    -3.5800004005,
+    40.4751930237
+],
+  "geometry": {"coordinates":[-3.5800004005,40.4751930237],"type":"Point"}
+}

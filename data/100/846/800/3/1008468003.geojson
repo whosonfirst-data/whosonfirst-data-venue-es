@@ -1,0 +1,67 @@
+{
+  "id": 1008468003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7841279507,40.4603347778,-3.7841279507,40.4603347778",
+    "geom:latitude":40.460335,
+    "geom:longitude":-3.784128,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pleyades, 9",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cl\u00cdnicas M\u00c9dicas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 07 14 68",
+    "sg:postcode":"28023",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799153,
+        102191581,
+        404338935,
+        85633129,
+        404227387,
+        101748291,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ef0taawTm70T0BzaOJRYr_40.460335_-3.784128@1306269658"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628632,
+    "wof:geomhash":"0d7370070a625e008caa8d7acdfaa185",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338935,
+            "locality_id":101748291,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799153,
+            "region_id":85682783,
+            "venue_id":1008468003
+        }
+    ],
+    "wof:id":1008468003,
+    "wof:lastmodified":1472628632,
+    "wof:name":"Sanitas S.a. De Hospitales",
+    "wof:parent_id":85799153,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7841279507,
+    40.4603347778,
+    -3.7841279507,
+    40.4603347778
+],
+  "geometry": {"coordinates":[-3.7841279507,40.4603347778],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 991495401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.4459109306,36.7164268494,-4.4459109306,36.7164268494",
+    "geom:latitude":36.716427,
+    "geom:longitude":-4.445911,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Virgen De La Esperanza, 24",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Estancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 27 39 49",
+    "sg:postcode":"29007",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863445,
+        102191581,
+        404339241,
+        85633129,
+        404227361,
+        101748185,
+        85682787,
+        85863459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08bWwqvYNyoUtg9TElrP1Y_36.716427_-4.445911@1306269493"
+    },
+    "wof:country":"ES",
+    "wof:created":1472554161,
+    "wof:geomhash":"ef91f645c94be0ea5e0c4d71620be6fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863445,
+            "region_id":85682787,
+            "venue_id":991495401
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863459,
+            "region_id":85682787,
+            "venue_id":991495401
+        }
+    ],
+    "wof:id":991495401,
+    "wof:lastmodified":1472554161,
+    "wof:name":"Diaz Gallego Celia",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4459109306,
+    36.7164268494,
+    -4.4459109306,
+    36.7164268494
+],
+  "geometry": {"coordinates":[-4.4459109306,36.7164268494],"type":"Point"}
+}

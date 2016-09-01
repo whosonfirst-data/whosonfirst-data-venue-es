@@ -1,0 +1,78 @@
+{
+  "id": 991229519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1620559692,41.4096717834,2.1620559692,41.4096717834",
+    "geom:latitude":41.409672,
+    "geom:longitude":2.162056,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Providencia, 129",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Institutos De Belleza (productos Y Aparatos)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 85 17 91",
+    "sg:postcode":"08024",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863999,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85799393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jMhz2czwj5u48acokHdMY_41.409672_2.162056@1306269458"
+    },
+    "wof:country":"ES",
+    "wof:created":1472538996,
+    "wof:geomhash":"6e458b1e1a316103092dbf3a375ccfce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863999,
+            "region_id":85682663,
+            "venue_id":991229519
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799393,
+            "region_id":85682663,
+            "venue_id":991229519
+        }
+    ],
+    "wof:id":991229519,
+    "wof:lastmodified":1472538996,
+    "wof:name":"Calles Rueda Silvia",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1620559692,
+    41.4096717834,
+    2.1620559692,
+    41.4096717834
+],
+  "geometry": {"coordinates":[2.1620559692,41.4096717834],"type":"Point"}
+}

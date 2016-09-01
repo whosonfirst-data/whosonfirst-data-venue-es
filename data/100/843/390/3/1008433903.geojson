@@ -1,0 +1,59 @@
+{
+  "id": 1008433903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.809294939,43.4619674683,-3.809294939,43.4619674683",
+    "geom:latitude":43.461967,
+    "geom:longitude":-3.809295,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Juan De Herrera, 2",
+    "sg:city":"Santander",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sociedades, Compa\u00d1\u00cdas Aseguradoras",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 36 31 31",
+    "sg:postcode":"39002",
+    "sg:province":"Cantabria",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799303,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FcRNFtOgzdDCDA50klvvX_43.461967_-3.809295@1306269653"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627343,
+    "wof:geomhash":"c0e9967a7212ef6e206726d319ba88bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799303,
+            "region_id":85682833,
+            "venue_id":1008433903
+        }
+    ],
+    "wof:id":1008433903,
+    "wof:lastmodified":1472627343,
+    "wof:name":"Sainz De La Maza Del Castillo Angel",
+    "wof:parent_id":85799303,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.809294939,
+    43.4619674683,
+    -3.809294939,
+    43.4619674683
+],
+  "geometry": {"coordinates":[-3.809294939,43.4619674683],"type":"Point"}
+}

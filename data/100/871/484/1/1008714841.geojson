@@ -1,0 +1,60 @@
+{
+  "id": 1008714841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5658729076,40.4257621765,-3.5658729076,40.4257621765",
+    "geom:latitude":40.425762,
+    "geom:longitude":-3.565873,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Bego\u00d1a, 1",
+    "sg:city":"Coslada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 72 52 08",
+    "sg:postcode":"28820",
+    "sg:province":"Madrid",
+    "sg:website":"www.viajesiberia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863629,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7E0tIRnjUzvl2FN97HTr8D_40.425762_-3.565873@1306269690"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639220,
+    "wof:geomhash":"f73ddd398ee867beb52665d5715427ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863629,
+            "region_id":85682783,
+            "venue_id":1008714841
+        }
+    ],
+    "wof:id":1008714841,
+    "wof:lastmodified":1472639220,
+    "wof:name":"Viajes Iberia S.a.",
+    "wof:parent_id":85863629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5658729076,
+    40.4257621765,
+    -3.5658729076,
+    40.4257621765
+],
+  "geometry": {"coordinates":[-3.5658729076,40.4257621765],"type":"Point"}
+}

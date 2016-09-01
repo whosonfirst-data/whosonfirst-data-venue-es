@@ -1,0 +1,81 @@
+{
+  "id": 1008721865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.4401612282,36.7139663696,-4.4401612282,36.7139663696",
+    "geom:latitude":36.713966,
+    "geom:longitude":-4.440161,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Fernandez Fermina, 2",
+    "sg:city":"Malaga",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 33 75 97",
+    "sg:postcode":"29006",
+    "sg:province":"M\u00e1laga",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863445,
+        102191581,
+        404339241,
+        85633129,
+        404227361,
+        101748185,
+        85682787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GebIA4QebRWY6EvBFrnSj_36.713966_-4.440161@1306269691"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639508,
+    "wof:geomhash":"49c6d31311e7a572f84a4b9299976a46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863445,
+            "region_id":85682787,
+            "venue_id":1008721865
+        }
+    ],
+    "wof:id":1008721865,
+    "wof:lastmodified":1472639508,
+    "wof:name":"Vico Garcia Sergio",
+    "wof:parent_id":85863445,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -4.4401612282,
+    36.7139663696,
+    -4.4401612282,
+    36.7139663696
+],
+  "geometry": {"coordinates":[-4.4401612282,36.7139663696],"type":"Point"}
+}

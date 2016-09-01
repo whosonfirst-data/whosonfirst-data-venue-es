@@ -1,0 +1,60 @@
+{
+  "id": 991098435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5381069183,40.4295578003,-3.5381069183,40.4295578003",
+    "geom:latitude":40.429558,
+    "geom:longitude":-3.538107,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Ca\u00d1ada (de La), 89",
+    "sg:city":"Coslada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 69 95 18",
+    "sg:postcode":"28820",
+    "sg:province":"Madrid",
+    "sg:website":"www.bancoandalucia.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863631,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30t3r9YAa5Li9bSGOk9ykd_40.429558_-3.538107@1306269440"
+    },
+    "wof:country":"ES",
+    "wof:created":1472526676,
+    "wof:geomhash":"f9443ccbec10c6355cc0de28415fefbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863631,
+            "region_id":85682783,
+            "venue_id":991098435
+        }
+    ],
+    "wof:id":991098435,
+    "wof:lastmodified":1472526676,
+    "wof:name":"Banco De Andalucia",
+    "wof:parent_id":85863631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5381069183,
+    40.4295578003,
+    -3.5381069183,
+    40.4295578003
+],
+  "geometry": {"coordinates":[-3.5381069183,40.4295578003],"type":"Point"}
+}

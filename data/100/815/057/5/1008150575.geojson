@@ -1,0 +1,59 @@
+{
+  "id": 1008150575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7778770924,40.3752708435,-3.7778770924,40.3752708435",
+    "geom:latitude":40.375271,
+    "geom:longitude":-3.777877,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Navalmoral De La Mata, 30",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cl\u00cdnicas Dentales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 06 82 71",
+    "sg:postcode":"28044",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863785,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oHjVXs7dkmflq8zPie9MH_40.375271_-3.777877@1306269615"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601866,
+    "wof:geomhash":"b7c2420bdc48022c88ecebe0fb272690",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863785,
+            "region_id":85682783,
+            "venue_id":1008150575
+        }
+    ],
+    "wof:id":1008150575,
+    "wof:lastmodified":1472601866,
+    "wof:name":"Pagador Madro\u00f1o Margarita",
+    "wof:parent_id":85863785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7778770924,
+    40.3752708435,
+    -3.7778770924,
+    40.3752708435
+],
+  "geometry": {"coordinates":[-3.7778770924,40.3752708435],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1008096409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1555879116,41.3966255188,2.1555879116,41.3966255188",
+    "geom:latitude":41.396626,
+    "geom:longitude":2.155588,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Seneca, 26",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aparcamientos (infraestructuras, Accesorios)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 17 13 02",
+    "sg:postcode":"08006",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864017,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dyIFQzWEzilCticSFjL9j_41.396626_2.155588@1306269607"
+    },
+    "wof:country":"ES",
+    "wof:created":1472599361,
+    "wof:geomhash":"2da0ce53dbe851b21548183f0ebc0c6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864017,
+            "region_id":85682663,
+            "venue_id":1008096409
+        }
+    ],
+    "wof:id":1008096409,
+    "wof:lastmodified":1472599361,
+    "wof:name":"Nieves Garcia Primitivo",
+    "wof:parent_id":85864017,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1555879116,
+    41.3966255188,
+    2.1555879116,
+    41.3966255188
+],
+  "geometry": {"coordinates":[2.1555879116,41.3966255188],"type":"Point"}
+}

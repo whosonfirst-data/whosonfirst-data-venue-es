@@ -1,0 +1,59 @@
+{
+  "id": 1008203935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7195260525,40.3149375916,-3.7195260525,40.3149375916",
+    "geom:latitude":40.314938,
+    "geom:longitude":-3.719526,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Espa\u00d1a, 51",
+    "sg:city":"Getafe",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alimentaci\u00d3n General (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 82 33 18",
+    "sg:postcode":"28903",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oueuV0tHaZp5NldR4lP3U_40.314938_-3.719526@1306269622"
+    },
+    "wof:country":"ES",
+    "wof:created":1472610438,
+    "wof:geomhash":"5ba08d9e279cac0fcb38165de740e86d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1008203935
+        }
+    ],
+    "wof:id":1008203935,
+    "wof:lastmodified":1472610438,
+    "wof:name":"Peral Piera Angel",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7195260525,
+    40.3149375916,
+    -3.7195260525,
+    40.3149375916
+],
+  "geometry": {"coordinates":[-3.7195260525,40.3149375916],"type":"Point"}
+}

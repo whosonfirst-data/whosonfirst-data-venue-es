@@ -1,0 +1,59 @@
+{
+  "id": 1007822109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6529550552,39.5838088989,2.6529550552,39.5838088989",
+    "geom:latitude":39.583809,
+    "geom:longitude":2.652955,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Capitan Salom, 15",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Caf\u00c9s, Bares, Cervecer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 20 98 66",
+    "sg:postcode":"07004",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864091,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hlDeR1PpGRBkQT1gfBFeA_39.583809_2.652955@1306269573"
+    },
+    "wof:country":"ES",
+    "wof:created":1472587394,
+    "wof:geomhash":"32a5b4cd19191931e380b0e42e803689",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":1007822109
+        }
+    ],
+    "wof:id":1007822109,
+    "wof:lastmodified":1472587394,
+    "wof:name":"Llull Mestre Melchor",
+    "wof:parent_id":85864091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6529550552,
+    39.5838088989,
+    2.6529550552,
+    39.5838088989
+],
+  "geometry": {"coordinates":[2.6529550552,39.5838088989],"type":"Point"}
+}

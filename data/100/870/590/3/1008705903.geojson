@@ -1,0 +1,67 @@
+{
+  "id": 1008705903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1715838909,41.397731781,2.1715838909,41.397731781",
+    "geom:latitude":41.397732,
+    "geom:longitude":2.171584,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pg Sant Joan, 73",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c9dicos: An\u00c1lisis Cl\u00cdnicos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 07 06 06",
+    "sg:postcode":"08009",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863999,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MkqNIAbSfpdsfSbw2ipvo_41.397732_2.171584@1306269689"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638792,
+    "wof:geomhash":"b6c1f3ead854c05dec075ecf009a0419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863999,
+            "region_id":85682663,
+            "venue_id":1008705903
+        }
+    ],
+    "wof:id":1008705903,
+    "wof:lastmodified":1472638792,
+    "wof:name":"Ventura Pedret Salvador",
+    "wof:parent_id":85863999,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1715838909,
+    41.397731781,
+    2.1715838909,
+    41.397731781
+],
+  "geometry": {"coordinates":[2.1715838909,41.397731781],"type":"Point"}
+}

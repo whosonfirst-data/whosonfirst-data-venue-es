@@ -1,0 +1,74 @@
+{
+  "id": 1008209797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.7630939484,37.8973503113,-4.7630939484,37.8973503113",
+    "geom:latitude":37.89735,
+    "geom:longitude":-4.763094,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Carlos Iii (de), S/n",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[],
+    "sg:orig_category":"Distribuci\u00d3n De Petr\u00d3leo Y Derivados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 43 28 22",
+    "sg:postcode":"14014",
+    "sg:province":"C\u00f3rdoba",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863895,
+        102191581,
+        404333687,
+        85633129,
+        404227361,
+        101748233,
+        85682697,
+        85863899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EYLl4TzpCPj9W3dkwW0Is_37.897350_-4.763094@1306269623"
+    },
+    "wof:country":"ES",
+    "wof:created":1472611758,
+    "wof:geomhash":"7acbe280590d055557b191f087ceb70c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863895,
+            "region_id":85682697,
+            "venue_id":1008209797
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863899,
+            "region_id":85682697,
+            "venue_id":1008209797
+        }
+    ],
+    "wof:id":1008209797,
+    "wof:lastmodified":1472611758,
+    "wof:name":"Perez Castro Juana",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7630939484,
+    37.8973503113,
+    -4.7630939484,
+    37.8973503113
+],
+  "geometry": {"coordinates":[-4.7630939484,37.8973503113],"type":"Point"}
+}

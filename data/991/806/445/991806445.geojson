@@ -1,0 +1,64 @@
+{
+  "id": 991806445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.180038929,41.3907432556,2.180038929,41.3907432556",
+    "geom:latitude":41.390743,
+    "geom:longitude":2.180039,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pg Lluis Companys, 17",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 68 37 62",
+    "sg:postcode":"08003",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HTsLLKXmO1tz1YXH8HrLn_41.390743_2.180039@1306269535"
+    },
+    "wof:country":"ES",
+    "wof:created":1472572278,
+    "wof:geomhash":"27a68eccebc3b433eddd863a764abe8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":991806445
+        }
+    ],
+    "wof:id":991806445,
+    "wof:lastmodified":1472572278,
+    "wof:name":"Gomez Bote Manuel Felipe",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.180038929,
+    41.3907432556,
+    2.180038929,
+    41.3907432556
+],
+  "geometry": {"coordinates":[2.180038929,41.3907432556],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1007959917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.9880759716,37.6032104492,-0.9880759716,37.6032104492",
+    "geom:latitude":37.60321,
+    "geom:longitude":-0.988076,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Jabonerias, 7",
+    "sg:city":"Cartagena",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 968 50 31 97",
+    "sg:postcode":"30201",
+    "sg:province":"Murcia",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799269,
+        102191581,
+        404339353,
+        85633129,
+        404227389,
+        101748203,
+        85682791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1i0iwiCOsoSJAAgoXVrRkk_37.603210_-0.988076@1306269590"
+    },
+    "wof:country":"ES",
+    "wof:created":1472593557,
+    "wof:geomhash":"d5a20d33f9da94a960f788b11e8b09c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339353,
+            "locality_id":101748203,
+            "macroregion_id":404227389,
+            "neighbourhood_id":85799269,
+            "region_id":85682791,
+            "venue_id":1007959917
+        }
+    ],
+    "wof:id":1007959917,
+    "wof:lastmodified":1472593557,
+    "wof:name":"Matran Bea Encarnacion",
+    "wof:parent_id":85799269,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    -0.9880759716,
+    37.6032104492,
+    -0.9880759716,
+    37.6032104492
+],
+  "geometry": {"coordinates":[-0.9880759716,37.6032104492],"type":"Point"}
+}

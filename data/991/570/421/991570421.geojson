@@ -1,0 +1,72 @@
+{
+  "id": 991570421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.7911424637,37.8837471008,-4.7911424637,37.8837471008",
+    "geom:latitude":37.883747,
+    "geom:longitude":-4.791142,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Alcalde Sanz Noguer, S/n",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 23 20 42",
+    "sg:postcode":"14005",
+    "sg:province":"C\u00f3rdoba",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863885,
+        102191581,
+        404333687,
+        85633129,
+        404227361,
+        101748233,
+        85682697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AaKn4PzajzyJ5LCsHxoey_37.883747_-4.791142@1306269503"
+    },
+    "wof:country":"ES",
+    "wof:created":1472558204,
+    "wof:geomhash":"bffceec19ccd212b03c6686d60c5af31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863885,
+            "region_id":85682697,
+            "venue_id":991570421
+        }
+    ],
+    "wof:id":991570421,
+    "wof:lastmodified":1472558204,
+    "wof:name":"Equipamientos Urbanos Del Sur S.a.",
+    "wof:parent_id":85863885,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7911424637,
+    37.8837471008,
+    -4.7911424637,
+    37.8837471008
+],
+  "geometry": {"coordinates":[-4.7911424637,37.8837471008],"type":"Point"}
+}

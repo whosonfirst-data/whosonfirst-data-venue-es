@@ -1,0 +1,60 @@
+{
+  "id": 991200563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0952000618,41.5597572327,2.0952000618,41.5597572327",
+    "geom:latitude":41.559757,
+    "geom:longitude":2.0952,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Concordia, 27",
+    "sg:city":"Sabadell",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cajas De Ahorro",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 24 70 19",
+    "sg:postcode":"08206",
+    "sg:province":"Barcelona",
+    "sg:website":"www.caixagirona.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dkVmOfrEPO4HXdia4g6t4_41.559757_2.095200@1306269454"
+    },
+    "wof:country":"ES",
+    "wof:created":1472536547,
+    "wof:geomhash":"12dbbbfab70bf1a3c135b5a1225ae08d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":991200563
+        }
+    ],
+    "wof:id":991200563,
+    "wof:lastmodified":1472536547,
+    "wof:name":"Caixa De Girona",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0952000618,
+    41.5597572327,
+    2.0952000618,
+    41.5597572327
+],
+  "geometry": {"coordinates":[2.0952000618,41.5597572327],"type":"Point"}
+}

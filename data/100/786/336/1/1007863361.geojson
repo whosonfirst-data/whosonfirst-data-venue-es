@@ -1,0 +1,59 @@
+{
+  "id": 1007863361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8294007778,40.3530921936,-3.8294007778,40.3530921936",
+    "geom:latitude":40.353092,
+    "geom:longitude":-3.829401,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Campo Santo, S/n",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Veh\u00cdculos De Ocasi\u00d3n",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 21 04 40",
+    "sg:postcode":"28922",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EowNJf22lr6FF1NKOl7XM_40.353092_-3.829401@1306269578"
+    },
+    "wof:country":"ES",
+    "wof:created":1472589384,
+    "wof:geomhash":"bdec5ea37b5f1d24a99d6b8bc7e71799",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1007863361
+        }
+    ],
+    "wof:id":1007863361,
+    "wof:lastmodified":1472589384,
+    "wof:name":"Mabusa",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8294007778,
+    40.3530921936,
+    -3.8294007778,
+    40.3530921936
+],
+  "geometry": {"coordinates":[-3.8294007778,40.3530921936],"type":"Point"}
+}

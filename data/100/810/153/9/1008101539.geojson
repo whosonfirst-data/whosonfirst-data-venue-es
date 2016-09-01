@@ -1,0 +1,59 @@
+{
+  "id": 1008101539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8014070988,43.4629058838,-3.8014070988,43.4629058838",
+    "geom:latitude":43.462906,
+    "geom:longitude":-3.801407,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Hernan Cortes, 27",
+    "sg:city":"Santander",
+    "sg:classifiers":[],
+    "sg:orig_category":"Notarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 36 55 44",
+    "sg:postcode":"39003",
+    "sg:province":"Cantabria",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799303,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SYO1jJ6tsZ9M5WllS9q25_43.462906_-3.801407@1306269608"
+    },
+    "wof:country":"ES",
+    "wof:created":1472599586,
+    "wof:geomhash":"f5a13773a60b038e2e828481498eafff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799303,
+            "region_id":85682833,
+            "venue_id":1008101539
+        }
+    ],
+    "wof:id":1008101539,
+    "wof:lastmodified":1472599586,
+    "wof:name":"Notarios De La Plaza Pombo S.l.",
+    "wof:parent_id":85799303,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8014070988,
+    43.4629058838,
+    -3.8014070988,
+    43.4629058838
+],
+  "geometry": {"coordinates":[-3.8014070988,43.4629058838],"type":"Point"}
+}

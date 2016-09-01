@@ -1,0 +1,67 @@
+{
+  "id": 1008471775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1765799522,41.4024734497,2.1765799522,41.4024734497",
+    "geom:latitude":41.402473,
+    "geom:longitude":2.17658,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Valencia, 440",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 32 61 58",
+    "sg:postcode":"08013",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864013,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5V8ZcD7Z1Szy2KWevb92kU_41.402473_2.176580@1306269658"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628785,
+    "wof:geomhash":"9c686c16b20cf051dec4b9194c91dda0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864013,
+            "region_id":85682663,
+            "venue_id":1008471775
+        }
+    ],
+    "wof:id":1008471775,
+    "wof:lastmodified":1472628785,
+    "wof:name":"Santamans Soler Maria Rosa",
+    "wof:parent_id":85864013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1765799522,
+    41.4024734497,
+    2.1765799522,
+    41.4024734497
+],
+  "geometry": {"coordinates":[2.1765799522,41.4024734497],"type":"Point"}
+}

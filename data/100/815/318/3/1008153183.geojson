@@ -1,0 +1,81 @@
+{
+  "id": 1008153183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8753939867,41.6524124146,-0.8753939867,41.6524124146",
+    "geom:latitude":41.652412,
+    "geom:longitude":-0.875394,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Lorenzo, 12",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 29 47 78",
+    "sg:postcode":"50001",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863329,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fIzLExnHWJM4UUVtGWbc0_41.652412_-0.875394@1306269615"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601975,
+    "wof:geomhash":"cda44b6a146ce8c009c8ecd996a5ff61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863329,
+            "region_id":85682891,
+            "venue_id":1008153183
+        }
+    ],
+    "wof:id":1008153183,
+    "wof:lastmodified":1472601975,
+    "wof:name":"Pala Larraga Maria Pilar",
+    "wof:parent_id":85863329,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    -0.8753939867,
+    41.6524124146,
+    -0.8753939867,
+    41.6524124146
+],
+  "geometry": {"coordinates":[-0.8753939867,41.6524124146],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1008080385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.8858048916,43.2472572327,-2.8858048916,43.2472572327",
+    "geom:latitude":43.247257,
+    "geom:longitude":-2.885805,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda San Antonio, 3",
+    "sg:city":"Etxebarri",
+    "sg:classifiers":[],
+    "sg:orig_category":"Quincaller\u00cda (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 49 80 98",
+    "sg:postcode":"48450",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799203,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dmbGgQB2QvktJANbg5MNb_43.247257_-2.885805@1306269605"
+    },
+    "wof:country":"ES",
+    "wof:created":1472598662,
+    "wof:geomhash":"1290a6ba45aab7d792672c8c46ff7ba9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799203,
+            "region_id":85682879,
+            "venue_id":1008080385
+        }
+    ],
+    "wof:id":1008080385,
+    "wof:lastmodified":1472598662,
+    "wof:name":"Natividad Gonzalez Saenz",
+    "wof:parent_id":85799203,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.8858048916,
+    43.2472572327,
+    -2.8858048916,
+    43.2472572327
+],
+  "geometry": {"coordinates":[-2.8858048916,43.2472572327],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1008020779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6616899967,39.5870857239,2.6616899967,39.5870857239",
+    "geom:latitude":39.587086,
+    "geom:longitude":2.66169,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Isaac Albeniz, 13",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Peluquer\u00cdas, Peluquer\u00cda Mixta",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 29 24 00",
+    "sg:postcode":"07009",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864091,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GFj9athM3NNlbcTS3Pojh_39.587086_2.661690@1306269597"
+    },
+    "wof:country":"ES",
+    "wof:created":1472596071,
+    "wof:geomhash":"cdb01588cec79cd8c8b1320d87aa0a7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":1008020779
+        }
+    ],
+    "wof:id":1008020779,
+    "wof:lastmodified":1472596071,
+    "wof:name":"Moll Simo Barbara",
+    "wof:parent_id":85864091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6616899967,
+    39.5870857239,
+    2.6616899967,
+    39.5870857239
+],
+  "geometry": {"coordinates":[2.6616899967,39.5870857239],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1008344353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9473729134,43.2752037048,-2.9473729134,43.2752037048",
+    "geom:latitude":43.275204,
+    "geom:longitude":-2.947373,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Egileor, 9",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asilos De Ancianos. Centros Privados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 47 54 85",
+    "sg:postcode":"48014",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863945,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7C23bWa44EwhdU8zRszfJW_43.275204_-2.947373@1306269641"
+    },
+    "wof:country":"ES",
+    "wof:created":1472623252,
+    "wof:geomhash":"0515bf4ffdcb6404275c931752fd6e6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863945,
+            "region_id":85682879,
+            "venue_id":1008344353
+        }
+    ],
+    "wof:id":1008344353,
+    "wof:lastmodified":1472623252,
+    "wof:name":"Residencia Egileor (mertxe Pardo)",
+    "wof:parent_id":85863945,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9473729134,
+    43.2752037048,
+    -2.9473729134,
+    43.2752037048
+],
+  "geometry": {"coordinates":[-2.9473729134,43.2752037048],"type":"Point"}
+}

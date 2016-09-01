@@ -1,0 +1,67 @@
+{
+  "id": 1007712053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7719540596,40.3800086975,-3.7719540596,40.3800086975",
+    "geom:latitude":40.380009,
+    "geom:longitude":-3.771954,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Valle Inclan, 12",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 06 34 33",
+    "sg:postcode":"28044",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863787,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xK8nhNQHOWDTzWdD1KuBs_40.380009_-3.771954@1306269558"
+    },
+    "wof:country":"ES",
+    "wof:created":1472581546,
+    "wof:geomhash":"12d6d9c262300da73f16e0df458e1211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863787,
+            "region_id":85682783,
+            "venue_id":1007712053
+        }
+    ],
+    "wof:id":1007712053,
+    "wof:lastmodified":1472581546,
+    "wof:name":"Isla Duarte Rocio",
+    "wof:parent_id":85863787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7719540596,
+    40.3800086975,
+    -3.7719540596,
+    40.3800086975
+],
+  "geometry": {"coordinates":[-3.7719540596,40.3800086975],"type":"Point"}
+}

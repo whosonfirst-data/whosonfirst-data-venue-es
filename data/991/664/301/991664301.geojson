@@ -1,0 +1,75 @@
+{
+  "id": 991664301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.5166190267,38.3454284668,-0.5166190267,38.3454284668",
+    "geom:latitude":38.345428,
+    "geom:longitude":-0.516619,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Orihuela, 2",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aparatos, Sistemas De Tele",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 11 55 14",
+    "sg:postcode":"03006",
+    "sg:province":"Alicante",
+    "sg:website":"www.fichet.es}}",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864043,
+        85682625,
+        85864049,
+        102191581,
+        404329281,
+        404227381,
+        101748211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IQ52UpDyxCHmz1Ygi7ipB_38.345428_-0.516619@1306269516"
+    },
+    "wof:country":"ES",
+    "wof:created":1472563701,
+    "wof:geomhash":"9ca6d9ad175367db1b6a5e1857656730",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864043,
+            "region_id":85682625,
+            "venue_id":991664301
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864049,
+            "region_id":85682625,
+            "venue_id":991664301
+        }
+    ],
+    "wof:id":991664301,
+    "wof:lastmodified":1472563701,
+    "wof:name":"Fichet Sistemas Y Servicios S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.5166190267,
+    38.3454284668,
+    -0.5166190267,
+    38.3454284668
+],
+  "geometry": {"coordinates":[-0.5166190267,38.3454284668],"type":"Point"}
+}

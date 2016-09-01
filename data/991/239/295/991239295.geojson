@@ -1,0 +1,63 @@
+{
+  "id": 991239295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1787340641,41.3828620911,2.1787340641,41.3828620911",
+    "geom:latitude":41.382862,
+    "geom:longitude":2.178734,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Lledo, 3",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 19 08 68",
+    "sg:postcode":"08002",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yuHIAY6FHBwhY8LVCWMY5_41.382862_2.178734@1306269459"
+    },
+    "wof:country":"ES",
+    "wof:created":1472539470,
+    "wof:geomhash":"ae2f94d6198597a4ab47b56334caa84f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":991239295
+        }
+    ],
+    "wof:id":991239295,
+    "wof:lastmodified":1472539470,
+    "wof:name":"Campoamor Prieto Eduardo",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1787340641,
+    41.3828620911,
+    2.1787340641,
+    41.3828620911
+],
+  "geometry": {"coordinates":[2.1787340641,41.3828620911],"type":"Point"}
+}

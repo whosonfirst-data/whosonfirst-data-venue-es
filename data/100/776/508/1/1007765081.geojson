@@ -1,0 +1,81 @@
+{
+  "id": 1007765081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7091031075,40.3830604553,-3.7091031075,40.3830604553",
+    "geom:latitude":40.38306,
+    "geom:longitude":-3.709103,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Perpetua Diaz, 32",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 75 55 84",
+    "sg:postcode":"28026",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863757,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hjbRBxLjrGr2mIrDJq5Ba_40.383060_-3.709103@1306269565"
+    },
+    "wof:country":"ES",
+    "wof:created":1472584492,
+    "wof:geomhash":"91acf5ae07abbb3ef6bfa525e4d97f57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863757,
+            "region_id":85682783,
+            "venue_id":1007765081
+        }
+    ],
+    "wof:id":1007765081,
+    "wof:lastmodified":1472584492,
+    "wof:name":"Kaiser Fernandez Ernesto",
+    "wof:parent_id":85863757,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [
+    -3.7091031075,
+    40.3830604553,
+    -3.7091031075,
+    40.3830604553
+],
+  "geometry": {"coordinates":[-3.7091031075,40.3830604553],"type":"Point"}
+}

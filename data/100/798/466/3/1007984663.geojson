@@ -1,0 +1,60 @@
+{
+  "id": 1007984663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8761639595,40.4674224854,-3.8761639595,40.4674224854",
+    "geom:latitude":40.467422,
+    "geom:longitude":-3.876164,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Alcalde Julio Labrandero, 2",
+    "sg:city":"Majadahonda",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 39 08 43",
+    "sg:postcode":"28220",
+    "sg:province":"Madrid",
+    "sg:website":"www.mercadona.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863657,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NEA6FuWsUazEYPIlx8RIQ_40.467422_-3.876164@1306269593"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594515,
+    "wof:geomhash":"253dc7f9be8af3e3fc622338a7090571",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863657,
+            "region_id":85682783,
+            "venue_id":1007984663
+        }
+    ],
+    "wof:id":1007984663,
+    "wof:lastmodified":1472594515,
+    "wof:name":"Mercadona S.a.",
+    "wof:parent_id":85863657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8761639595,
+    40.4674224854,
+    -3.8761639595,
+    40.4674224854
+],
+  "geometry": {"coordinates":[-3.8761639595,40.4674224854],"type":"Point"}
+}

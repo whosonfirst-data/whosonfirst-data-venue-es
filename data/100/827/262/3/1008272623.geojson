@@ -1,0 +1,59 @@
+{
+  "id": 1008272623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5322029591,40.4412536621,-3.5322029591,40.4412536621",
+    "geom:latitude":40.441254,
+    "geom:longitude":-3.532203,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda San Pablo (de), 15",
+    "sg:city":"Coslada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alimentaci\u00d3n General (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 71 11 32",
+    "sg:postcode":"28820",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863631,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kMwT6zV3Ti6zUlFqakTG7_40.441254_-3.532203@1306269632"
+    },
+    "wof:country":"ES",
+    "wof:created":1472617233,
+    "wof:geomhash":"8b2bf4217fa2e3a2afd597be72892926",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863631,
+            "region_id":85682783,
+            "venue_id":1008272623
+        }
+    ],
+    "wof:id":1008272623,
+    "wof:lastmodified":1472617233,
+    "wof:name":"Prieto Casillas Juliana",
+    "wof:parent_id":85863631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5322029591,
+    40.4412536621,
+    -3.5322029591,
+    40.4412536621
+],
+  "geometry": {"coordinates":[-3.5322029591,40.4412536621],"type":"Point"}
+}

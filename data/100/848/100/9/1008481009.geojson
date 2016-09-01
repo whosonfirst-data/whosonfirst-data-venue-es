@@ -1,0 +1,64 @@
+{
+  "id": 1008481009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1874070168,41.3945999146,2.1874070168,41.3945999146",
+    "geom:latitude":41.3946,
+    "geom:longitude":2.187407,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Marina, 114",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 00 17 44",
+    "sg:postcode":"08018",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oZPTxAPMJ3pOXPGxeOk1G_41.394600_2.187407@1306269659"
+    },
+    "wof:country":"ES",
+    "wof:created":1472629162,
+    "wof:geomhash":"11acf314e1f3767ee7b9877b977077fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008481009
+        }
+    ],
+    "wof:id":1008481009,
+    "wof:lastmodified":1472629162,
+    "wof:name":"Sanz Santos Neus",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1874070168,
+    41.3945999146,
+    2.1874070168,
+    41.3945999146
+],
+  "geometry": {"coordinates":[2.1874070168,41.3945999146],"type":"Point"}
+}

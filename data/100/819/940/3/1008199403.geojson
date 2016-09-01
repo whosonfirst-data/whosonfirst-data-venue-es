@@ -1,0 +1,78 @@
+{
+  "id": 1008199403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9332849979,43.2616195679,-2.9332849979,43.2616195679",
+    "geom:latitude":43.26162,
+    "geom:longitude":-2.933285,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Puerto Marques Del, 13",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[],
+    "sg:orig_category":"Peleter\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 15 45 15",
+    "sg:postcode":"48008",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863957,
+        102191581,
+        404345949,
+        85633129,
+        404227393,
+        101748385,
+        85682879,
+        85863923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CHDbCNxnNvWJ4jQO4pfU1_43.261620_-2.933285@1306269622"
+    },
+    "wof:country":"ES",
+    "wof:created":1472609416,
+    "wof:geomhash":"b383f833534c3c5de4fc9578ce31d061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345949,
+            "locality_id":101748385,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863957,
+            "region_id":85682879,
+            "venue_id":1008199403
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345949,
+            "locality_id":101748385,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863923,
+            "region_id":85682879,
+            "venue_id":1008199403
+        }
+    ],
+    "wof:id":1008199403,
+    "wof:lastmodified":1472609416,
+    "wof:name":"Pelsanfor S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9332849979,
+    43.2616195679,
+    -2.9332849979,
+    43.2616195679
+],
+  "geometry": {"coordinates":[-2.9332849979,43.2616195679],"type":"Point"}
+}

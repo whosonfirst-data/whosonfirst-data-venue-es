@@ -1,0 +1,59 @@
+{
+  "id": 1008254091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.8013491631,37.8824310303,-4.8013491631,37.8824310303",
+    "geom:latitude":37.882431,
+    "geom:longitude":-4.801349,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Obispo Torres, S/n",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alimentaci\u00d3n General (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 41 48 02",
+    "sg:postcode":"14005",
+    "sg:province":"C\u00f3rdoba",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863887,
+        85682697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1i4wHsQFNXF03RdTTs1rLU_37.882431_-4.801349@1306269629"
+    },
+    "wof:country":"ES",
+    "wof:created":1472616238,
+    "wof:geomhash":"e881805464cd7449530dd26f4feaf011",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863887,
+            "region_id":85682697,
+            "venue_id":1008254091
+        }
+    ],
+    "wof:id":1008254091,
+    "wof:lastmodified":1472616238,
+    "wof:name":"Plaza Navas Juan Jose",
+    "wof:parent_id":85863887,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.8013491631,
+    37.8824310303,
+    -4.8013491631,
+    37.8824310303
+],
+  "geometry": {"coordinates":[-4.8013491631,37.8824310303],"type":"Point"}
+}

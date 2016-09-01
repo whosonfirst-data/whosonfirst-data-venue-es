@@ -1,0 +1,59 @@
+{
+  "id": 1008412537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.827589035,40.3414421082,-3.827589035,40.3414421082",
+    "geom:latitude":40.341442,
+    "geom:longitude":-3.827589,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Mayor, 84",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Caf\u00c9s, Bares, Cervecer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 41 42 74",
+    "sg:postcode":"28922",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IPvX6fLkBOgxjsSa6CiNh_40.341442_-3.827589@1306269650"
+    },
+    "wof:country":"ES",
+    "wof:created":1472626365,
+    "wof:geomhash":"b707101b9796c7511bf5dc2a7ee5156e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008412537
+        }
+    ],
+    "wof:id":1008412537,
+    "wof:lastmodified":1472626365,
+    "wof:name":"Rua Somoza Carlos",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.827589035,
+    40.3414421082,
+    -3.827589035,
+    40.3414421082
+],
+  "geometry": {"coordinates":[-3.827589035,40.3414421082],"type":"Point"}
+}

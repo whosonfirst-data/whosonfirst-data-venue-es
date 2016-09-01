@@ -1,0 +1,59 @@
+{
+  "id": 991082775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8099040985,43.4620742798,-3.8099040985,43.4620742798",
+    "geom:latitude":43.462074,
+    "geom:longitude":-3.809904,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Ayuntamiento, S/n",
+    "sg:city":"Santander",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aparcamientos (infraestructuras, Accesorios)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 31 31 20",
+    "sg:postcode":"39002",
+    "sg:province":"Cantabria",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799303,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NYVHF2gAmjtgPn2XSGJsU_43.462074_-3.809904@1306269438"
+    },
+    "wof:country":"ES",
+    "wof:created":1472525452,
+    "wof:geomhash":"6362307fcfe440e3ac07121f05e11dca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799303,
+            "region_id":85682833,
+            "venue_id":991082775
+        }
+    ],
+    "wof:id":991082775,
+    "wof:lastmodified":1472525452,
+    "wof:name":"Ayuntamiento De Santander",
+    "wof:parent_id":85799303,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8099040985,
+    43.4620742798,
+    -3.8099040985,
+    43.4620742798
+],
+  "geometry": {"coordinates":[-3.8099040985,43.4620742798],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1007832667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.4461450577,36.7221069336,-4.4461450577,36.7221069336",
+    "geom:latitude":36.722107,
+    "geom:longitude":-4.446145,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Carlos De Haya, 60",
+    "sg:city":"Malaga",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 61 88 54",
+    "sg:postcode":"29010",
+    "sg:province":"M\u00e1laga",
+    "sg:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863459,
+        102191581,
+        404339241,
+        85633129,
+        404227361,
+        101748185,
+        85682787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hkCdkKN0j7p4F7gyz7Dhj_36.722107_-4.446145@1306269574"
+    },
+    "wof:country":"ES",
+    "wof:created":1472587856,
+    "wof:geomhash":"8fee06f4b5da5368599ae577bdd71708",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863459,
+            "region_id":85682787,
+            "venue_id":1007832667
+        }
+    ],
+    "wof:id":1007832667,
+    "wof:lastmodified":1472587856,
+    "wof:name":"Lopez De Vinuesa Gavilan Enrique",
+    "wof:parent_id":85863459,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ]
+},
+  "bbox": [
+    -4.4461450577,
+    36.7221069336,
+    -4.4461450577,
+    36.7221069336
+],
+  "geometry": {"coordinates":[-4.4461450577,36.7221069336],"type":"Point"}
+}

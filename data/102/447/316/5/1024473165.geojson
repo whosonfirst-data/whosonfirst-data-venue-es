@@ -1,0 +1,59 @@
+{
+  "id": 1024473165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1480596066,41.4324302673,2.1480596066,41.4324302673",
+    "geom:latitude":41.43243,
+    "geom:longitude":2.14806,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Rubio I Balaguer, 83",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Art\u00cdculos De Regalo (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 27 38 68",
+    "sg:postcode":"08035",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799471,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SqPs7UWwIookmh77fIiVZ_41.432430_2.148060@1306269694"
+    },
+    "wof:country":"ES",
+    "wof:created":1472640481,
+    "wof:geomhash":"3d48c7cba165fcc9df8ae7c834fdc350",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799471,
+            "region_id":85682663,
+            "venue_id":1024473165
+        }
+    ],
+    "wof:id":1024473165,
+    "wof:lastmodified":1472640481,
+    "wof:name":"Vi\u00f1as Clemente Gregoria",
+    "wof:parent_id":85799471,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1480596066,
+    41.4324302673,
+    2.1480596066,
+    41.4324302673
+],
+  "geometry": {"coordinates":[2.1480596066,41.4324302673],"type":"Point"}
+}

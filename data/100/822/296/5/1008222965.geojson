@@ -1,0 +1,78 @@
+{
+  "id": 1008222965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4890865088,38.3413467407,-0.4890865088,38.3413467407",
+    "geom:latitude":38.341347,
+    "geom:longitude":-0.489087,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Italia, 13",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Administradores De Bienes Y Delegados De Comunidades De Propietarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 13 05 00",
+    "sg:postcode":"03003",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799185,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625,
+        85864067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lA27E9yD6Z9qsERs9IetK_38.341347_-0.489087@1306269625"
+    },
+    "wof:country":"ES",
+    "wof:created":1472613679,
+    "wof:geomhash":"7f66bc65f3ace1c3acc8e548f661d178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85799185,
+            "region_id":85682625,
+            "venue_id":1008222965
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864067,
+            "region_id":85682625,
+            "venue_id":1008222965
+        }
+    ],
+    "wof:id":1008222965,
+    "wof:lastmodified":1472613679,
+    "wof:name":"Perez Santamaria Felix",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4890865088,
+    38.3413467407,
+    -0.4890865088,
+    38.3413467407
+],
+  "geometry": {"coordinates":[-0.4890865088,38.3413467407],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1007865915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1597259045,41.4003562927,2.1597259045,41.4003562927",
+    "geom:latitude":41.400356,
+    "geom:longitude":2.159726,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Tordera, 3",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros Empresariales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 13 22 62",
+    "sg:postcode":"08012",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864017,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QIgkqA56s9p7N9GX2NcdK_41.400356_2.159726@1306269578"
+    },
+    "wof:country":"ES",
+    "wof:created":1472589485,
+    "wof:geomhash":"46e982c2972442b365b1b6daa96484fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864017,
+            "region_id":85682663,
+            "venue_id":1007865915
+        }
+    ],
+    "wof:id":1007865915,
+    "wof:lastmodified":1472589485,
+    "wof:name":"Macsa Id S.a.",
+    "wof:parent_id":85864017,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1597259045,
+    41.4003562927,
+    2.1597259045,
+    41.4003562927
+],
+  "geometry": {"coordinates":[2.1597259045,41.4003562927],"type":"Point"}
+}

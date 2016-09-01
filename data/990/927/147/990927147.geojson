@@ -1,0 +1,75 @@
+{
+  "id": 990927147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6911420822,40.5024299622,-3.6911420822,40.5024299622",
+    "geom:latitude":40.50243,
+    "geom:longitude":-3.691142,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rond Ingenioso Hidalgo, 59",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Art\u00cdculos De Decoraci\u00d3n (fabricaci\u00d3n Y Al Por Mayor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 35 51 08",
+    "sg:postcode":"28034",
+    "sg:province":"Madrid",
+    "sg:website":"www.alcrudo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783,
+        85799465,
+        102191581,
+        404338863,
+        404227387,
+        101748283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ILszA7EaR2RkcggQ0cgRb_40.502430_-3.691142@1306269417"
+    },
+    "wof:country":"ES",
+    "wof:created":1472511042,
+    "wof:geomhash":"d7509466e71b54064002c001bc369d2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":990927147
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799465,
+            "region_id":85682783,
+            "venue_id":990927147
+        }
+    ],
+    "wof:id":990927147,
+    "wof:lastmodified":1472511042,
+    "wof:name":"Alcrudo & Asociados",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6911420822,
+    40.5024299622,
+    -3.6911420822,
+    40.5024299622
+],
+  "geometry": {"coordinates":[-3.6911420822,40.5024299622],"type":"Point"}
+}

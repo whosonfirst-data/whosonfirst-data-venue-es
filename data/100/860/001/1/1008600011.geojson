@@ -1,0 +1,59 @@
+{
+  "id": 1008600011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2435948849,41.4452857971,2.2435948849,41.4452857971",
+    "geom:latitude":41.445286,
+    "geom:longitude":2.243595,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carr Conquista, 79",
+    "sg:city":"Badalona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Porcelanas, Azulejos (fabricaci\u00d3n, Al Por Mayor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 99 18 04",
+    "sg:postcode":"08912",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799485,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SRlH8c8gJo1Jq5OZM0jkb_41.445286_2.243595@1306269675"
+    },
+    "wof:country":"ES",
+    "wof:created":1472634262,
+    "wof:geomhash":"603ea0eb4df02ab6f7d8b0c9be95f633",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799485,
+            "region_id":85682663,
+            "venue_id":1008600011
+        }
+    ],
+    "wof:id":1008600011,
+    "wof:lastmodified":1472634262,
+    "wof:name":"Tarrats Bou Montserrat",
+    "wof:parent_id":85799485,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2435948849,
+    41.4452857971,
+    2.2435948849,
+    41.4452857971
+],
+  "geometry": {"coordinates":[2.2435948849,41.4452857971],"type":"Point"}
+}

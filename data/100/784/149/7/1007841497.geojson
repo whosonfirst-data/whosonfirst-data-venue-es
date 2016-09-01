@@ -1,0 +1,59 @@
+{
+  "id": 1007841497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.7550091743,37.9007339478,-4.7550091743,37.9007339478",
+    "geom:latitude":37.900734,
+    "geom:longitude":-4.755009,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Arcos De La Frontera, 15",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 25 88 00",
+    "sg:postcode":"14014",
+    "sg:province":"C\u00f3rdoba",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863909,
+        85682697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WZ3hpvI8EAMX5emAK36YE_37.900734_-4.755009@1306269575"
+    },
+    "wof:country":"ES",
+    "wof:created":1472588286,
+    "wof:geomhash":"02e958fc7c3cbaf7c1452f0caffb5ed3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863909,
+            "region_id":85682697,
+            "venue_id":1007841497
+        }
+    ],
+    "wof:id":1007841497,
+    "wof:lastmodified":1472588286,
+    "wof:name":"Lopez Navarro Maria De Las Nieves",
+    "wof:parent_id":85863909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7550091743,
+    37.9007339478,
+    -4.7550091743,
+    37.9007339478
+],
+  "geometry": {"coordinates":[-4.7550091743,37.9007339478],"type":"Point"}
+}

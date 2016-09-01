@@ -1,0 +1,74 @@
+{
+  "id": 991284117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4758290052,38.3593978882,-0.4758290052,38.3593978882",
+    "geom:latitude":38.359398,
+    "geom:longitude":-0.475829,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Maestro Luis Torregrosa, 9",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 20 02 05",
+    "sg:postcode":"03013",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864063,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625,
+        85864065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_730HY9FxjzdLCqtDabh5xJ_38.359398_-0.475829@1306269465"
+    },
+    "wof:country":"ES",
+    "wof:created":1472541931,
+    "wof:geomhash":"443f2cc3814fdedc358a53e62e90d6ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864063,
+            "region_id":85682625,
+            "venue_id":991284117
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864065,
+            "region_id":85682625,
+            "venue_id":991284117
+        }
+    ],
+    "wof:id":991284117,
+    "wof:lastmodified":1472541931,
+    "wof:name":"Casares Benlloch Javier Tomas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4758290052,
+    38.3593978882,
+    -0.4758290052,
+    38.3593978882
+],
+  "geometry": {"coordinates":[-0.4758290052,38.3593978882],"type":"Point"}
+}

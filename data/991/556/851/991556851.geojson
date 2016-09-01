@@ -1,0 +1,78 @@
+{
+  "id": 991556851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6968979836,40.4589881897,-3.6968979836,40.4589881897",
+    "geom:latitude":40.458988,
+    "geom:longitude":-3.696898,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Infanta Mercedes, 54",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Tea Room",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 71 64 89",
+    "sg:postcode":"28020",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "snack"
+    ],
+    "sg:website":"www.elmiajon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863603,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5P50Cfkm69Y7HYtCwcfqUQ_40.458988_-3.696898@1306269501"
+    },
+    "wof:country":"ES",
+    "wof:created":1472557430,
+    "wof:geomhash":"073146e3ffe7d2b9efa15151e26a1e8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863603,
+            "region_id":85682783,
+            "venue_id":991556851
+        }
+    ],
+    "wof:id":991556851,
+    "wof:lastmodified":1472557430,
+    "wof:name":"El Miajon De Los Castuos S.a.",
+    "wof:parent_id":85863603,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snack"
+    ]
+},
+  "bbox": [
+    -3.6968979836,
+    40.4589881897,
+    -3.6968979836,
+    40.4589881897
+],
+  "geometry": {"coordinates":[-3.6968979836,40.4589881897],"type":"Point"}
+}

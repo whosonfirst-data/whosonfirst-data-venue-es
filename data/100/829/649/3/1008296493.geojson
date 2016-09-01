@@ -1,0 +1,78 @@
+{
+  "id": 1008296493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.9814414978,37.6033859253,-0.9814414978,37.6033859253",
+    "geom:latitude":37.603386,
+    "geom:longitude":-0.981441,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Saura, 10",
+    "sg:city":"Cartagena",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 968 50 82 18",
+    "sg:postcode":"30202",
+    "sg:province":"Murcia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799269,
+        102191581,
+        404339353,
+        85633129,
+        404227389,
+        101748203,
+        85682791,
+        85799251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0V8XWLj3AEGfMXe2HJVjKr_37.603386_-0.981441@1306269635"
+    },
+    "wof:country":"ES",
+    "wof:created":1472618729,
+    "wof:geomhash":"f3323e9a7580f82729dc9351465bc8ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339353,
+            "locality_id":101748203,
+            "macroregion_id":404227389,
+            "neighbourhood_id":85799269,
+            "region_id":85682791,
+            "venue_id":1008296493
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339353,
+            "locality_id":101748203,
+            "macroregion_id":404227389,
+            "neighbourhood_id":85799251,
+            "region_id":85682791,
+            "venue_id":1008296493
+        }
+    ],
+    "wof:id":1008296493,
+    "wof:lastmodified":1472618729,
+    "wof:name":"Pujol Beltran Pedro",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.9814414978,
+    37.6033859253,
+    -0.9814414978,
+    37.6033859253
+],
+  "geometry": {"coordinates":[-0.9814414978,37.6033859253],"type":"Point"}
+}

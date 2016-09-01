@@ -1,0 +1,63 @@
+{
+  "id": 1008260105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6018910408,39.5648727417,2.6018910408,39.5648727417",
+    "geom:latitude":39.564873,
+    "geom:longitude":2.601891,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Gamundi, 3",
+    "sg:city":"Genova",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cerrajer\u00cda, Ferrallista",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 40 35 44",
+    "sg:postcode":"07015",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748237,
+        85864109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LkjoLsVq8qewDeHOuEdln_39.564873_2.601891@1306269630"
+    },
+    "wof:country":"ES",
+    "wof:created":1472616532,
+    "wof:geomhash":"4ef097b415b199d0268fd888a254aa80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748237,
+            "neighbourhood_id":85864109,
+            "region_id":-1,
+            "venue_id":1008260105
+        }
+    ],
+    "wof:id":1008260105,
+    "wof:lastmodified":1472616532,
+    "wof:name":"Pons Roca Juan",
+    "wof:parent_id":85864109,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6018910408,
+    39.5648727417,
+    2.6018910408,
+    39.5648727417
+],
+  "geometry": {"coordinates":[2.6018910408,39.5648727417],"type":"Point"}
+}

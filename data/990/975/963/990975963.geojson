@@ -1,0 +1,60 @@
+{
+  "id": 990975963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8077046871,43.4614715576,-3.8077046871,43.4614715576",
+    "geom:latitude":43.461472,
+    "geom:longitude":-3.807705,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Calvo Sotelo, 15",
+    "sg:city":"Santander",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 22 33 17",
+    "sg:postcode":"39002",
+    "sg:province":"Cantabria",
+    "sg:website":"www.angelyllera.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799303,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YM7DqCujkj1Oxt7ZrulF6_43.461472_-3.807705@1306269424"
+    },
+    "wof:country":"ES",
+    "wof:created":1472517396,
+    "wof:geomhash":"dd97cededb99220c7d9125f0104437ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799303,
+            "region_id":85682833,
+            "venue_id":990975963
+        }
+    ],
+    "wof:id":990975963,
+    "wof:lastmodified":1472517396,
+    "wof:name":"Angel Yllera S. A.",
+    "wof:parent_id":85799303,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8077046871,
+    43.4614715576,
+    -3.8077046871,
+    43.4614715576
+],
+  "geometry": {"coordinates":[-3.8077046871,43.4614715576],"type":"Point"}
+}

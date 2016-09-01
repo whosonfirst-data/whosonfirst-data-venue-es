@@ -1,0 +1,67 @@
+{
+  "id": 1024459545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1541910172,41.4084129333,2.1541910172,41.4084129333",
+    "geom:latitude":41.408413,
+    "geom:longitude":2.154191,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Granja, 23",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agentes Generales De Seguros",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 18 30 42",
+    "sg:postcode":"08024",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799393,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ckft2AXfsunDIkWUUsdwG_41.408413_2.154191@1306269693"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639888,
+    "wof:geomhash":"6e8ff3d10bd595ddb84d775037f54078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799393,
+            "region_id":85682663,
+            "venue_id":1024459545
+        }
+    ],
+    "wof:id":1024459545,
+    "wof:lastmodified":1472639888,
+    "wof:name":"Vila Vendrell Rosa",
+    "wof:parent_id":85799393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1541910172,
+    41.4084129333,
+    2.1541910172,
+    41.4084129333
+],
+  "geometry": {"coordinates":[2.1541910172,41.4084129333],"type":"Point"}
+}

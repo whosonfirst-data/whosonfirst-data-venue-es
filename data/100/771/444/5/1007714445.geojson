@@ -1,0 +1,67 @@
+{
+  "id": 1007714445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.7024250031,43.5388221741,-5.7024250031,43.5388221741",
+    "geom:latitude":43.538822,
+    "geom:longitude":-5.702425,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Magallanes, 16",
+    "sg:city":"Gijon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fisioterapia",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 984 19 78 20",
+    "sg:postcode":"33212",
+    "sg:province":"Asturias",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799415,
+        102191581,
+        404340333,
+        85633129,
+        404227365,
+        101748401,
+        85682805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FNVh2d40JCNBe4qJpINKk_43.538822_-5.702425@1306269558"
+    },
+    "wof:country":"ES",
+    "wof:created":1472581681,
+    "wof:geomhash":"674faf59055f18c630264ad32e40f51d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404340333,
+            "locality_id":101748401,
+            "macroregion_id":404227365,
+            "neighbourhood_id":85799415,
+            "region_id":85682805,
+            "venue_id":1007714445
+        }
+    ],
+    "wof:id":1007714445,
+    "wof:lastmodified":1472581681,
+    "wof:name":"Ivan Vazquez Garcia",
+    "wof:parent_id":85799415,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.7024250031,
+    43.5388221741,
+    -5.7024250031,
+    43.5388221741
+],
+  "geometry": {"coordinates":[-5.7024250031,43.5388221741],"type":"Point"}
+}

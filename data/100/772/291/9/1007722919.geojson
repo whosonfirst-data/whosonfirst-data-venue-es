@@ -1,0 +1,65 @@
+{
+  "id": 1007722919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.346391201,36.1619682312,-5.346391201,36.1619682312",
+    "geom:latitude":36.161968,
+    "geom:longitude":-5.346391,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Jardines, 34",
+    "sg:city":"Linea De La Concepcion",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 956 76 62 05",
+    "sg:postcode":"11300",
+    "sg:province":"C\u00e1diz",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "85633167",
+        85794121,
+        "102191581",
+        "85633159",
+        101753853,
+        85684619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6snRt49KtaPAPk4Og4R8zG_36.161968_-5.346391@1306269560"
+    },
+    "wof:country":"ES",
+    "wof:created":1472582102,
+    "wof:geomhash":"ba26c4f14c60875d082c9d9b84592a26",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "dependency_id":"85633167",
+            "locality_id":101753853,
+            "neighbourhood_id":85794121,
+            "region_id":85684619,
+            "venue_id":1007722919
+        }
+    ],
+    "wof:id":1007722919,
+    "wof:lastmodified":1472582102,
+    "wof:name":"Javier Arredondo Fernandez",
+    "wof:parent_id":85794121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.346391201,
+    36.1619682312,
+    -5.346391201,
+    36.1619682312
+],
+  "geometry": {"coordinates":[-5.346391201,36.1619682312],"type":"Point"}
+}

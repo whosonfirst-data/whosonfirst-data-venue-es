@@ -1,0 +1,59 @@
+{
+  "id": 1007697121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6749420166,39.5691146851,2.6749420166,39.5691146851",
+    "geom:latitude":39.569115,
+    "geom:longitude":2.674942,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Amer, 46",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ense\u00d1anza Secundaria: Colegios Y Escuelas Privadas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 27 85 03",
+    "sg:postcode":"07007",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864087,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iuA3vluLAxHVEv68VuywM_39.569115_2.674942@1306269556"
+    },
+    "wof:country":"ES",
+    "wof:created":1472580821,
+    "wof:geomhash":"8d5b5006d7b0661b87c875211174eba2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864087,
+            "region_id":85682647,
+            "venue_id":1007697121
+        }
+    ],
+    "wof:id":1007697121,
+    "wof:lastmodified":1472580821,
+    "wof:name":"Institut Educacio Secundaria Aurora Picornell",
+    "wof:parent_id":85864087,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6749420166,
+    39.5691146851,
+    2.6749420166,
+    39.5691146851
+],
+  "geometry": {"coordinates":[2.6749420166,39.5691146851],"type":"Point"}
+}

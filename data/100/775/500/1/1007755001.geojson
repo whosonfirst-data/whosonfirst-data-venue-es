@@ -1,0 +1,59 @@
+{
+  "id": 1007755001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1081309319,41.5473670959,2.1081309319,41.5473670959",
+    "geom:latitude":41.547367,
+    "geom:longitude":2.108131,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Rosa, 14",
+    "sg:city":"Sabadell",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fabricaci\u00d3n, Venta De Cuadros, Accesorios Para Enmarcar",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 25 85 20",
+    "sg:postcode":"08201",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gulNpRyXk6GQHhfv4BVAI_41.547367_2.108131@1306269564"
+    },
+    "wof:country":"ES",
+    "wof:created":1472583973,
+    "wof:geomhash":"9c3b24812afb22ba4515892e0c4cf510",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1007755001
+        }
+    ],
+    "wof:id":1007755001,
+    "wof:lastmodified":1472583973,
+    "wof:name":"Juan Plans Francesca",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1081309319,
+    41.5473670959,
+    2.1081309319,
+    41.5473670959
+],
+  "geometry": {"coordinates":[2.1081309319,41.5473670959],"type":"Point"}
+}

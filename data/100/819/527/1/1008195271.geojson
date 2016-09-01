@@ -1,0 +1,67 @@
+{
+  "id": 1008195271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1615319252,41.4110794067,2.1615319252,41.4110794067",
+    "geom:latitude":41.411079,
+    "geom:longitude":2.161532,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Secretari Coloma, 112",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros De Salud",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 84 90 19",
+    "sg:postcode":"08024",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863993,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66GjdoBUohlPPkjkGsgHVp_41.411079_2.161532@1306269621"
+    },
+    "wof:country":"ES",
+    "wof:created":1472608461,
+    "wof:geomhash":"84b0c1c9c638c5348605297291a6463b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863993,
+            "region_id":85682663,
+            "venue_id":1008195271
+        }
+    ],
+    "wof:id":1008195271,
+    "wof:lastmodified":1472608461,
+    "wof:name":"Pedro Gallego Francisco Javier",
+    "wof:parent_id":85863993,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1615319252,
+    41.4110794067,
+    2.1615319252,
+    41.4110794067
+],
+  "geometry": {"coordinates":[2.1615319252,41.4110794067],"type":"Point"}
+}

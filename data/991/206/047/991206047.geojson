@@ -1,0 +1,79 @@
+{
+  "id": 991206047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6842598915,40.4302024841,-3.6842598915,40.4302024841",
+    "geom:latitude":40.430202,
+    "geom:longitude":-3.68426,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Jose Ortega Y Gasset, 16",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cajas De Ahorro",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 31 20 17",
+    "sg:postcode":"28006",
+    "sg:province":"Madrid",
+    "sg:website":"www.lacaixa.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863675,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13WHoYp6NbQJ846LPWovAC_40.430202_-3.684260@1306269455"
+    },
+    "wof:country":"ES",
+    "wof:created":1472536978,
+    "wof:geomhash":"ec792c1108a0b17e5cb9455247a06f77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863675,
+            "region_id":85682783,
+            "venue_id":991206047
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863673,
+            "region_id":85682783,
+            "venue_id":991206047
+        }
+    ],
+    "wof:id":991206047,
+    "wof:lastmodified":1472536978,
+    "wof:name":"Caixa D'estalvis I Pensions De Barcelona",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6842598915,
+    40.4302024841,
+    -3.6842598915,
+    40.4302024841
+],
+  "geometry": {"coordinates":[-3.6842598915,40.4302024841],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 991675801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6854610443,40.4615974426,-3.6854610443,40.4615974426",
+    "geom:latitude":40.461597,
+    "geom:longitude":-3.685461,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Padre Damian, 43",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cursos Particulares, Asistencia Escolar",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 50 89 77",
+    "sg:postcode":"28036",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863603,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40ISMPkQ8JN7PYZVoVXhON_40.461597_-3.685461@1306269517"
+    },
+    "wof:country":"ES",
+    "wof:created":1472564276,
+    "wof:geomhash":"07d5b0eabf619e5c34379081de5d458e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863603,
+            "region_id":85682783,
+            "venue_id":991675801
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863601,
+            "region_id":85682783,
+            "venue_id":991675801
+        }
+    ],
+    "wof:id":991675801,
+    "wof:lastmodified":1472564276,
+    "wof:name":"Folpini  Roberto",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6854610443,
+    40.4615974426,
+    -3.6854610443,
+    40.4615974426
+],
+  "geometry": {"coordinates":[-3.6854610443,40.4615974426],"type":"Point"}
+}

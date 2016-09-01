@@ -1,0 +1,66 @@
+{
+  "id": 991288515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.3630151749,36.7213745117,-4.3630151749,36.7213745117",
+    "geom:latitude":36.721375,
+    "geom:longitude":-4.363015,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Juan Sebastian Elcano, 164",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Zapatos (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 29 53 08",
+    "sg:postcode":"29017",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863517,
+        85682787,
+        85863521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3djD6pBAWXNSfVVlezJJ4Q_36.721375_-4.363015@1306269466"
+    },
+    "wof:country":"ES",
+    "wof:created":1472542127,
+    "wof:geomhash":"4f4cc02da2670068a8e76e1bcfbb251d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863517,
+            "region_id":85682787,
+            "venue_id":991288515
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863521,
+            "region_id":85682787,
+            "venue_id":991288515
+        }
+    ],
+    "wof:id":991288515,
+    "wof:lastmodified":1472542127,
+    "wof:name":"Casquero Martin Jesus",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.3630151749,
+    36.7213745117,
+    -4.3630151749,
+    36.7213745117
+],
+  "geometry": {"coordinates":[-4.3630151749,36.7213745117],"type":"Point"}
+}

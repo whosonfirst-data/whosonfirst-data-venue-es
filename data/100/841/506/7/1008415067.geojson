@@ -1,0 +1,72 @@
+{
+  "id": 1008415067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.717979908,40.481136322,-3.717979908,40.481136322",
+    "geom:latitude":40.481136,
+    "geom:longitude":-3.71798,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Islas Cies, 10",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 38 95 08",
+    "sg:postcode":"28035",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863551,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23SoASQOuPfG5YUPzGO3y6_40.481136_-3.717980@1306269651"
+    },
+    "wof:country":"ES",
+    "wof:created":1472626477,
+    "wof:geomhash":"4e22a6c7c5fba1fee165bf1f20d32e23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863551,
+            "region_id":85682783,
+            "venue_id":1008415067
+        }
+    ],
+    "wof:id":1008415067,
+    "wof:lastmodified":1472626477,
+    "wof:name":"Rubio Priego Emiliano",
+    "wof:parent_id":85863551,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.717979908,
+    40.481136322,
+    -3.717979908,
+    40.481136322
+],
+  "geometry": {"coordinates":[-3.717979908,40.481136322],"type":"Point"}
+}

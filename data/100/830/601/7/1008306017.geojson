@@ -1,0 +1,67 @@
+{
+  "id": 1008306017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1545760632,41.3927536011,2.1545760632,41.3927536011",
+    "geom:latitude":41.392754,
+    "geom:longitude":2.154576,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Corsega, 236",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Plomeros",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 18 23 74",
+    "sg:postcode":"08036",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864017,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UHIulDZSxkUyfqjg8lTM7_41.392754_2.154576@1306269636"
+    },
+    "wof:country":"ES",
+    "wof:created":1472621620,
+    "wof:geomhash":"cb277391642cf9a1a1a1df360a266ffb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864017,
+            "region_id":85682663,
+            "venue_id":1008306017
+        }
+    ],
+    "wof:id":1008306017,
+    "wof:lastmodified":1472621620,
+    "wof:name":"Quintela Prieto Fernando",
+    "wof:parent_id":85864017,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1545760632,
+    41.3927536011,
+    2.1545760632,
+    41.3927536011
+],
+  "geometry": {"coordinates":[2.1545760632,41.3927536011],"type":"Point"}
+}

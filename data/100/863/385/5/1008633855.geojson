@@ -1,0 +1,59 @@
+{
+  "id": 1008633855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.8303949833,41.7327423096,1.8303949833,41.7327423096",
+    "geom:latitude":41.732742,
+    "geom:longitude":1.830395,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sequia, 67",
+    "sg:city":"Manresa",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c9dicos: Cirug\u00cda Maxilofacial",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 938 73 84 83",
+    "sg:postcode":"08242",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Yg4Wte65Hu2J3aXie3qCy_41.732742_1.830395@1306269680"
+    },
+    "wof:country":"ES",
+    "wof:created":1472635703,
+    "wof:geomhash":"6c503f32e333e4409370592ef5ce0e61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008633855
+        }
+    ],
+    "wof:id":1008633855,
+    "wof:lastmodified":1472635703,
+    "wof:name":"Torrades Ferrer Manuel",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.8303949833,
+    41.7327423096,
+    1.8303949833,
+    41.7327423096
+],
+  "geometry": {"coordinates":[1.8303949833,41.7327423096],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 991054283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4432407916,38.4123497009,-0.4432407916,38.4123497009",
+    "geom:latitude":38.41235,
+    "geom:longitude":-0.443241,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Urb El Pino, 1",
+    "sg:city":"Mutxamel",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 95 07 87",
+    "sg:postcode":"03110",
+    "sg:province":"Alicante",
+    "sg:tags":[
+        "salas",
+        "de",
+        "cine"
+    ],
+    "sg:website":"www.autocineelsur.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864075,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55IHoRfiImsXZ32kTPRWUJ_38.412350_-0.443241@1306269434"
+    },
+    "wof:country":"ES",
+    "wof:created":1472523229,
+    "wof:geomhash":"14d6675c38407c57922d722f35c6ede5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864075,
+            "region_id":85682625,
+            "venue_id":991054283
+        }
+    ],
+    "wof:id":991054283,
+    "wof:lastmodified":1472523229,
+    "wof:name":"Autocine El Sur S.a.",
+    "wof:parent_id":85864075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salas",
+        "de",
+        "cine"
+    ]
+},
+  "bbox": [
+    -0.4432407916,
+    38.4123497009,
+    -0.4432407916,
+    38.4123497009
+],
+  "geometry": {"coordinates":[-0.4432407916,38.4123497009],"type":"Point"}
+}

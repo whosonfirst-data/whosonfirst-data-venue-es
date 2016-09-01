@@ -1,0 +1,74 @@
+{
+  "id": 1007745539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.910774231,43.2512817383,-2.910774231,43.2512817383",
+    "geom:latitude":43.251282,
+    "geom:longitude":-2.910774,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Iturriaga, 51",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[],
+    "sg:orig_category":"Caf\u00c9s, Bares, Cervecer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 12 12 31",
+    "sg:postcode":"48004",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863967,
+        102191581,
+        404345949,
+        85633129,
+        404227393,
+        101748385,
+        85682879,
+        85799199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5i5uyOAUM5BwhSCVebODzs_43.251282_-2.910774@1306269563"
+    },
+    "wof:country":"ES",
+    "wof:created":1472583429,
+    "wof:geomhash":"8c5177c83b9237e9f65496932de48f05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345949,
+            "locality_id":101748385,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863967,
+            "region_id":85682879,
+            "venue_id":1007745539
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799199,
+            "region_id":85682879,
+            "venue_id":1007745539
+        }
+    ],
+    "wof:id":1007745539,
+    "wof:lastmodified":1472583429,
+    "wof:name":"Jose Manuel Valderrey Delera",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.910774231,
+    43.2512817383,
+    -2.910774231,
+    43.2512817383
+],
+  "geometry": {"coordinates":[-2.910774231,43.2512817383],"type":"Point"}
+}

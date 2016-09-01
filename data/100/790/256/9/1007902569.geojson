@@ -1,0 +1,67 @@
+{
+  "id": 1007902569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1782679558,41.380657196,2.1782679558,41.380657196",
+    "geom:latitude":41.380657,
+    "geom:longitude":2.178268,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Avinyo, 27",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 15 24 59",
+    "sg:postcode":"08002",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864033,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77jPKHxwxwYkbi5I4W8JO5_41.380657_2.178268@1306269582"
+    },
+    "wof:country":"ES",
+    "wof:created":1472590946,
+    "wof:geomhash":"60936b452dbe435da5ea0676080dde36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864033,
+            "region_id":85682663,
+            "venue_id":1007902569
+        }
+    ],
+    "wof:id":1007902569,
+    "wof:lastmodified":1472590946,
+    "wof:name":"Marimon Puigmarti Beatriz",
+    "wof:parent_id":85864033,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1782679558,
+    41.380657196,
+    2.1782679558,
+    41.380657196
+],
+  "geometry": {"coordinates":[2.1782679558,41.380657196],"type":"Point"}
+}

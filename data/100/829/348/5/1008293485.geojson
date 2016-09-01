@@ -1,0 +1,74 @@
+{
+  "id": 1008293485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4750890136,38.3589668274,-0.4750890136,38.3589668274",
+    "geom:latitude":38.358967,
+    "geom:longitude":-0.475089,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Enrique Madrid, 22",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cl\u00cdnicas Dentales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 21 52 16",
+    "sg:postcode":"03013",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864063,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625,
+        85864065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0a3YQv9nWVdB6cgbxpxIJB_38.358967_-0.475089@1306269634"
+    },
+    "wof:country":"ES",
+    "wof:created":1472618468,
+    "wof:geomhash":"ae9688bb9da53c97d8da8bc2b1906009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864063,
+            "region_id":85682625,
+            "venue_id":1008293485
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864065,
+            "region_id":85682625,
+            "venue_id":1008293485
+        }
+    ],
+    "wof:id":1008293485,
+    "wof:lastmodified":1472618468,
+    "wof:name":"Puertas Plana Beatriz Maria",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4750890136,
+    38.3589668274,
+    -0.4750890136,
+    38.3589668274
+],
+  "geometry": {"coordinates":[-0.4750890136,38.3589668274],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 991885733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3675169945,39.5035171509,-0.3675169945,39.5035171509",
+    "geom:latitude":39.503517,
+    "geom:longitude":-0.367517,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Tavernes Blanques, 3",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Frutas Y Legumbres Frescas (al Por Mayor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 961 85 25 25",
+    "sg:postcode":"46019",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864225,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kX7yJCRuJmkc859MAPv07_39.503517_-0.367517@1306269545"
+    },
+    "wof:country":"ES",
+    "wof:created":1472576756,
+    "wof:geomhash":"8bcb63bbb8d5970de423e84ff8e83026",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864225,
+            "region_id":85682867,
+            "venue_id":991885733
+        }
+    ],
+    "wof:id":991885733,
+    "wof:lastmodified":1472576756,
+    "wof:name":"Hermanos Belloch Senent S.a.t.",
+    "wof:parent_id":85864225,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3675169945,
+    39.5035171509,
+    -0.3675169945,
+    39.5035171509
+],
+  "geometry": {"coordinates":[-0.3675169945,39.5035171509],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1008367293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7334105968,40.3840866089,-3.7334105968,40.3840866089",
+    "geom:latitude":40.384087,
+    "geom:longitude":-3.733411,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Clara Campoamor, 25",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electricidad: Instaladores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 65 56 18",
+    "sg:postcode":"28025",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863761,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85799217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1d76EDRupuPf7cPXDfFlHC_40.384087_-3.733411@1306269644"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624260,
+    "wof:geomhash":"ff86736e7e820519c035b7c142afe6b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863761,
+            "region_id":85682783,
+            "venue_id":1008367293
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799217,
+            "region_id":85682783,
+            "venue_id":1008367293
+        }
+    ],
+    "wof:id":1008367293,
+    "wof:lastmodified":1472624260,
+    "wof:name":"Robledo Perdiguero Jesus",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7334105968,
+    40.3840866089,
+    -3.7334105968,
+    40.3840866089
+],
+  "geometry": {"coordinates":[-3.7334105968,40.3840866089],"type":"Point"}
+}

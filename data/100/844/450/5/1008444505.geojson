@@ -1,0 +1,67 @@
+{
+  "id": 1008444505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1324560642,41.3838386536,2.1324560642,41.3838386536",
+    "geom:latitude":41.383839,
+    "geom:longitude":2.132456,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Galileu, 288",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 90 03 91",
+    "sg:postcode":"08028",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799597,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PtuBe7nkiXpbf8eqyw3d7_41.383839_2.132456@1306269654"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627737,
+    "wof:geomhash":"2109581497ceb021b18e4c720b9d63a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799597,
+            "region_id":85682663,
+            "venue_id":1008444505
+        }
+    ],
+    "wof:id":1008444505,
+    "wof:lastmodified":1472627737,
+    "wof:name":"Samper Mas Gloria",
+    "wof:parent_id":85799597,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1324560642,
+    41.3838386536,
+    2.1324560642,
+    41.3838386536
+],
+  "geometry": {"coordinates":[2.1324560642,41.3838386536],"type":"Point"}
+}

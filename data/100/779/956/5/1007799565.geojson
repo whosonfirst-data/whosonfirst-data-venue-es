@@ -1,0 +1,67 @@
+{
+  "id": 1007799565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.687967062,40.4335174561,-3.687967062,40.4335174561",
+    "geom:latitude":40.433517,
+    "geom:longitude":-3.687967,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pase Castellana, 40",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 76 91 97",
+    "sg:postcode":"28046",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863673,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nmfPB0D6gXXefM6s7XQBe_40.433517_-3.687967@1306269570"
+    },
+    "wof:country":"ES",
+    "wof:created":1472586301,
+    "wof:geomhash":"337e8e2a81b288761f1f5c7ea665a5ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863673,
+            "region_id":85682783,
+            "venue_id":1007799565
+        }
+    ],
+    "wof:id":1007799565,
+    "wof:lastmodified":1472586301,
+    "wof:name":"Lehman Brothers International",
+    "wof:parent_id":85863673,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.687967062,
+    40.4335174561,
+    -3.687967062,
+    40.4335174561
+],
+  "geometry": {"coordinates":[-3.687967062,40.4335174561],"type":"Point"}
+}

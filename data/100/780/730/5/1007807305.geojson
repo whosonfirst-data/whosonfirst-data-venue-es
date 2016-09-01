@@ -1,0 +1,60 @@
+{
+  "id": 1007807305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6566250324,39.5910682678,2.6566250324,39.5910682678",
+    "geom:latitude":39.591068,
+    "geom:longitude":2.656625,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Sdo Ramis Bover, 3",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Embalajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 29 78 59",
+    "sg:postcode":"07004",
+    "sg:province":"Islas Baleares",
+    "sg:website":"www.mudanzaslidon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864091,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TMnuX0LTPr2fMdChVyKj6_39.591068_2.656625@1306269571"
+    },
+    "wof:country":"ES",
+    "wof:created":1472586706,
+    "wof:geomhash":"fa7ed011aba421ec9219584479729771",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":1007807305
+        }
+    ],
+    "wof:id":1007807305,
+    "wof:lastmodified":1472586706,
+    "wof:name":"Lidon Moreno Pascual",
+    "wof:parent_id":85864091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6566250324,
+    39.5910682678,
+    2.6566250324,
+    39.5910682678
+],
+  "geometry": {"coordinates":[2.6566250324,39.5910682678],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1008543765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.704736948,40.3037567139,-3.704736948,40.3037567139",
+    "geom:latitude":40.303757,
+    "geom:longitude":-3.704737,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Francisco Gasco Santillan, 2",
+    "sg:city":"Getafe",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ingenier\u00cda, Centros De Estudios (diversos)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 01 04 78",
+    "sg:postcode":"28906",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_333REmYys8XXvaQSDlghRR_40.303757_-3.704737@1306269668"
+    },
+    "wof:country":"ES",
+    "wof:created":1472631857,
+    "wof:geomhash":"a4f4731412694a68d53ca8583c7d67d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1008543765
+        }
+    ],
+    "wof:id":1008543765,
+    "wof:lastmodified":1472631857,
+    "wof:name":"Sogemasa Ingenieria S.a.",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.704736948,
+    40.3037567139,
+    -3.704736948,
+    40.3037567139
+],
+  "geometry": {"coordinates":[-3.704736948,40.3037567139],"type":"Point"}
+}

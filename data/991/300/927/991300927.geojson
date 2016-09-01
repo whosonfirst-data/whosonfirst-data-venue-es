@@ -1,0 +1,61 @@
+{
+  "id": 991300927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5784840584,40.4751014709,-3.5784840584,40.4751014709",
+    "geom:latitude":40.475101,
+    "geom:longitude":-3.578484,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Orion, 12",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Doctores En Medicina",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 05 86 20",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        102545773,
+        85863587,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52lYDyLq5mle27o22BDNAH_40.475101_-3.578484@1306269467"
+    },
+    "wof:country":"ES",
+    "wof:created":1472542675,
+    "wof:geomhash":"cd007144f5b7240623b4f291b07fca60",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545773,
+            "country_id":85633129,
+            "neighbourhood_id":85863587,
+            "region_id":85682783,
+            "venue_id":991300927
+        }
+    ],
+    "wof:id":991300927,
+    "wof:lastmodified":1472542675,
+    "wof:name":"Cayon Sanchez Jose",
+    "wof:parent_id":102545773,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5784840584,
+    40.4751014709,
+    -3.5784840584,
+    40.4751014709
+],
+  "geometry": {"coordinates":[-3.5784840584,40.4751014709],"type":"Point"}
+}

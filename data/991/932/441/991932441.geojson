@@ -1,0 +1,60 @@
+{
+  "id": 991932441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.4712610245,40.4537467957,-3.4712610245,40.4537467957",
+    "geom:latitude":40.453747,
+    "geom:longitude":-3.471261,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Solana, 2",
+    "sg:city":"Torrejon Ardoz",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mutuas De Seguros",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 76 29 89",
+    "sg:postcode":"28850",
+    "sg:province":"Madrid",
+    "sg:website":"www.ibermutuamur.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863709,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uOh33wKYWzUPd4mw0qNSl_40.453747_-3.471261@1306269551"
+    },
+    "wof:country":"ES",
+    "wof:created":1472579051,
+    "wof:geomhash":"b207d0c7842670bdac5563e88863a858",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863709,
+            "region_id":85682783,
+            "venue_id":991932441
+        }
+    ],
+    "wof:id":991932441,
+    "wof:lastmodified":1472579051,
+    "wof:name":"Ibermutuamur",
+    "wof:parent_id":85863709,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.4712610245,
+    40.4537467957,
+    -3.4712610245,
+    40.4537467957
+],
+  "geometry": {"coordinates":[-3.4712610245,40.4537467957],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1024496755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6782829,40.4346935,-3.6782829,40.4346935",
+    "geom:latitude":40.434694,
+    "geom:longitude":-3.678283,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"c/ Diego de leon, 47",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"28006",
+    "sg:tags":[
+        "audience-response-system",
+        "voting-system",
+        "wireless-voting-system",
+        "voting-keypad",
+        "group-response-system",
+        "student-response-system"
+    ],
+    "sg:website":"http://www.powervote.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863673,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17s3zveUSA9DS34ZepY81L_40.434694_-3.678283@1308163241"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641480,
+    "wof:geomhash":"cb56c82bd167195bacc56646fe1aabcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863673,
+            "region_id":85682783,
+            "venue_id":1024496755
+        }
+    ],
+    "wof:id":1024496755,
+    "wof:lastmodified":1472641480,
+    "wof:name":"PowerVote",
+    "wof:parent_id":85863673,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "audience-response-system",
+        "voting-system",
+        "wireless-voting-system",
+        "voting-keypad",
+        "group-response-system",
+        "student-response-system"
+    ]
+},
+  "bbox": [
+    -3.6782829,
+    40.4346935,
+    -3.6782829,
+    40.4346935
+],
+  "geometry": {"coordinates":[-3.6782829,40.4346935],"type":"Point"}
+}

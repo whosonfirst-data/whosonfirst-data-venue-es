@@ -1,0 +1,79 @@
+{
+  "id": 991214373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6366899014,39.5719108582,2.6366899014,39.5719108582",
+    "geom:latitude":39.571911,
+    "geom:longitude":2.63669,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pl Progres, 5",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cajas De Ahorro",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 45 12 11",
+    "sg:postcode":"07013",
+    "sg:province":"Islas Baleares",
+    "sg:website":"www.casanostra.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864103,
+        102191581,
+        404330817,
+        85633129,
+        404227367,
+        101748237,
+        85682647,
+        85864117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eIVdE9IfV5A3tfKExOVup_39.571911_2.636690@1306269456"
+    },
+    "wof:country":"ES",
+    "wof:created":1472537869,
+    "wof:geomhash":"50015bf015edccde9e39ccb391428203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864103,
+            "region_id":85682647,
+            "venue_id":991214373
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864117,
+            "region_id":85682647,
+            "venue_id":991214373
+        }
+    ],
+    "wof:id":991214373,
+    "wof:lastmodified":1472537869,
+    "wof:name":"Caja De Ahorros Y Monte De Piedad De Las Baleares",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6366899014,
+    39.5719108582,
+    2.6366899014,
+    39.5719108582
+],
+  "geometry": {"coordinates":[2.6366899014,39.5719108582],"type":"Point"}
+}

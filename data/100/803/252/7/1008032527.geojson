@@ -1,0 +1,67 @@
+{
+  "id": 1008032527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7073030472,40.419631958,-3.7073030472,40.419631958",
+    "geom:latitude":40.419632,
+    "geom:longitude":-3.707303,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Preciados, 35",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 48 01 16",
+    "sg:postcode":"28013",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863667,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5J84piVmbFAB4vop4IpWfS_40.419632_-3.707303@1306269599"
+    },
+    "wof:country":"ES",
+    "wof:created":1472596591,
+    "wof:geomhash":"985afef66a5ed03d7ce95ad5f105fd99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863667,
+            "region_id":85682783,
+            "venue_id":1008032527
+        }
+    ],
+    "wof:id":1008032527,
+    "wof:lastmodified":1472596591,
+    "wof:name":"Montilla Illera Ana Maria",
+    "wof:parent_id":85863667,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7073030472,
+    40.419631958,
+    -3.7073030472,
+    40.419631958
+],
+  "geometry": {"coordinates":[-3.7073030472,40.419631958],"type":"Point"}
+}

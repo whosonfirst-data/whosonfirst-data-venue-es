@@ -1,0 +1,72 @@
+{
+  "id": 991818193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6726210117,40.4481010437,-3.6726210117,40.4481010437",
+    "geom:latitude":40.448101,
+    "geom:longitude":-3.672621,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Nieremberg, 25",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 15 64 41",
+    "sg:postcode":"28002",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863647,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hZc9OxVZDO8Xfr0sxS0gq_40.448101_-3.672621@1306269536"
+    },
+    "wof:country":"ES",
+    "wof:created":1472572934,
+    "wof:geomhash":"3d9900ef7181c55f291862b2a10d9229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863647,
+            "region_id":85682783,
+            "venue_id":991818193
+        }
+    ],
+    "wof:id":991818193,
+    "wof:lastmodified":1472572934,
+    "wof:name":"Gonzalez Alvarez Jose",
+    "wof:parent_id":85863647,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6726210117,
+    40.4481010437,
+    -3.6726210117,
+    40.4481010437
+],
+  "geometry": {"coordinates":[-3.6726210117,40.4481010437],"type":"Point"}
+}

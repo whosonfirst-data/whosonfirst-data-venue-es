@@ -1,0 +1,63 @@
+{
+  "id": 1008245343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1886889935,41.3790626526,2.1886889935,41.3790626526",
+    "geom:latitude":41.379063,
+    "geom:longitude":2.188689,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sant Carles, 7",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 21 48 03",
+    "sg:postcode":"08003",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6q8FbwTaFdU6w59VrTLliH_41.379063_2.188689@1306269628"
+    },
+    "wof:country":"ES",
+    "wof:created":1472615699,
+    "wof:geomhash":"17c07e9f776e9e040d15516bbd93a99e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":1008245343
+        }
+    ],
+    "wof:id":1008245343,
+    "wof:lastmodified":1472615699,
+    "wof:name":"Pique Figuerola Raimon",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1886889935,
+    41.3790626526,
+    2.1886889935,
+    41.3790626526
+],
+  "geometry": {"coordinates":[2.1886889935,41.3790626526],"type":"Point"}
+}

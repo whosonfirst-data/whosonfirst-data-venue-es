@@ -1,0 +1,59 @@
+{
+  "id": 1008393287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6634590626,39.5864906311,2.6634590626,39.5864906311",
+    "geom:latitude":39.586491,
+    "geom:longitude":2.663459,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Eusebi Estada, 90",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Herradores, Herreros, Carreteros",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 20 44 21",
+    "sg:postcode":"07009",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864091,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wVTMQMmq59WRUDDMSI8fQ_39.586491_2.663459@1306269648"
+    },
+    "wof:country":"ES",
+    "wof:created":1472625459,
+    "wof:geomhash":"f143cd6cd3a6b3dab2a636dde99f72a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":1008393287
+        }
+    ],
+    "wof:id":1008393287,
+    "wof:lastmodified":1472625459,
+    "wof:name":"Roig Pol Pedro",
+    "wof:parent_id":85864091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6634590626,
+    39.5864906311,
+    2.6634590626,
+    39.5864906311
+],
+  "geometry": {"coordinates":[2.6634590626,39.5864906311],"type":"Point"}
+}

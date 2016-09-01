@@ -1,0 +1,76 @@
+{
+  "id": 991381177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6287391186,39.5734291077,2.6287391186,39.5734291077",
+    "geom:latitude":39.573429,
+    "geom:longitude":2.628739,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Costa Rica, 10",
+    "sg:city":"Palma",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 28 62 92",
+    "sg:postcode":"07014",
+    "sg:province":"Islas Baleares",
+    "sg:tags":[
+        "bodega",
+        "de",
+        "vino",
+        "acondicionamiento"
+    ],
+    "sg:website":"www.freixenet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864107,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HrFA6cAaMmqDgIPVReKMR_39.573429_2.628739@1306269478"
+    },
+    "wof:country":"ES",
+    "wof:created":1472547469,
+    "wof:geomhash":"0474f2a0c14cb90f1129bad245447259",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864107,
+            "region_id":85682647,
+            "venue_id":991381177
+        }
+    ],
+    "wof:id":991381177,
+    "wof:lastmodified":1472547469,
+    "wof:name":"Comercial Grupo Freixenet S.a.",
+    "wof:parent_id":85864107,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bodega",
+        "de",
+        "vino",
+        "acondicionamiento"
+    ]
+},
+  "bbox": [
+    2.6287391186,
+    39.5734291077,
+    2.6287391186,
+    39.5734291077
+],
+  "geometry": {"coordinates":[2.6287391186,39.5734291077],"type":"Point"}
+}

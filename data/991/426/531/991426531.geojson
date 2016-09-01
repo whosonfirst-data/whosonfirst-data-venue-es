@@ -1,0 +1,72 @@
+{
+  "id": 991426531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.913507998,41.6404418945,-0.913507998,41.6404418945",
+    "geom:latitude":41.640442,
+    "geom:longitude":-0.913508,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Gomez Laguna, 155",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 75 15 14",
+    "sg:postcode":"50009",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863369,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GcbnEqHmFeDsfaBJu6NSb_41.640442_-0.913508@1306269484"
+    },
+    "wof:country":"ES",
+    "wof:created":1472550313,
+    "wof:geomhash":"69264c2cd21f4373ad8698bc486c8a9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863369,
+            "region_id":85682891,
+            "venue_id":991426531
+        }
+    ],
+    "wof:id":991426531,
+    "wof:lastmodified":1472550313,
+    "wof:name":"Cooperativa De Auto Taxi",
+    "wof:parent_id":85863369,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.913507998,
+    41.6404418945,
+    -0.913507998,
+    41.6404418945
+],
+  "geometry": {"coordinates":[-0.913507998,41.6404418945],"type":"Point"}
+}

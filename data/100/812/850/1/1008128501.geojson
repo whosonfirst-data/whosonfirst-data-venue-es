@@ -1,0 +1,60 @@
+{
+  "id": 1008128501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.67406106,40.5133094788,-3.67406106,40.5133094788",
+    "geom:latitude":40.513309,
+    "geom:longitude":-3.674061,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Maria Tubau, 8",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"\u00d3ptica: Instrumentos (fabricaci\u00d3n)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 36 21 65",
+    "sg:postcode":"28050",
+    "sg:province":"Madrid",
+    "sg:website":"www.sangabino.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JGngdPHQB1mVH0pEnKMY6_40.513309_-3.674061@1306269612"
+    },
+    "wof:country":"ES",
+    "wof:created":1472600895,
+    "wof:geomhash":"60b3969cdeb38048457d34db9fbde399",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1008128501
+        }
+    ],
+    "wof:id":1008128501,
+    "wof:lastmodified":1472600895,
+    "wof:name":"Opticas San Gabino S.l.",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.67406106,
+    40.5133094788,
+    -3.67406106,
+    40.5133094788
+],
+  "geometry": {"coordinates":[-3.67406106,40.5133094788],"type":"Point"}
+}

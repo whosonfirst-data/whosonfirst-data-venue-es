@@ -1,0 +1,78 @@
+{
+  "id": 991166089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1590220928,41.3884735107,2.1590220928,41.3884735107",
+    "geom:latitude":41.388474,
+    "geom:longitude":2.159022,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Aribau, 57",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Muebles, Minoristas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 53 89 71",
+    "sg:postcode":"08011",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864021,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qbwvNPywLmH5wayCys8zI_41.388474_2.159022@1306269449"
+    },
+    "wof:country":"ES",
+    "wof:created":1472533807,
+    "wof:geomhash":"579fca338675d4b1eeddcf628a5f59b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864021,
+            "region_id":85682663,
+            "venue_id":991166089
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864017,
+            "region_id":85682663,
+            "venue_id":991166089
+        }
+    ],
+    "wof:id":991166089,
+    "wof:lastmodified":1472533807,
+    "wof:name":"Bonet Escriu Maria Rosa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1590220928,
+    41.3884735107,
+    2.1590220928,
+    41.3884735107
+],
+  "geometry": {"coordinates":[2.1590220928,41.3884735107],"type":"Point"}
+}

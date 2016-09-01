@@ -1,0 +1,67 @@
+{
+  "id": 1008168169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1533150673,41.3965988159,2.1533150673,41.3965988159",
+    "geom:latitude":41.396599,
+    "geom:longitude":2.153315,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Balmes, 184",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 37 80 81",
+    "sg:postcode":"08006",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864017,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rXielzOzGWwwbyXHsbE7p_41.396599_2.153315@1306269617"
+    },
+    "wof:country":"ES",
+    "wof:created":1472603688,
+    "wof:geomhash":"41c25edd2b16e325e845c0af484a2e08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864017,
+            "region_id":85682663,
+            "venue_id":1008168169
+        }
+    ],
+    "wof:id":1008168169,
+    "wof:lastmodified":1472603688,
+    "wof:name":"Parellada Vilella Jose Ignacio",
+    "wof:parent_id":85864017,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1533150673,
+    41.3965988159,
+    2.1533150673,
+    41.3965988159
+],
+  "geometry": {"coordinates":[2.1533150673,41.3965988159],"type":"Point"}
+}

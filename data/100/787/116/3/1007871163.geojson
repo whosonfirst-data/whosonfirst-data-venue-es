@@ -1,0 +1,59 @@
+{
+  "id": 1007871163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5486080647,40.5052947998,-3.5486080647,40.5052947998",
+    "geom:latitude":40.505295,
+    "geom:longitude":-3.548608,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Juan Ramon Jimenez (de), 3",
+    "sg:city":"El Cruce",
+    "sg:classifiers":[],
+    "sg:orig_category":"Negocio De Metales No Ferrosos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 58 18 06",
+    "sg:postcode":"28860",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863587,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eH1dv9gioH0sds5ojfzrm_40.505295_-3.548608@1306269579"
+    },
+    "wof:country":"ES",
+    "wof:created":1472589728,
+    "wof:geomhash":"debe820e5268c17ddf57eb89a5e44ab3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863587,
+            "region_id":85682783,
+            "venue_id":1007871163
+        }
+    ],
+    "wof:id":1007871163,
+    "wof:lastmodified":1472589728,
+    "wof:name":"Mageluraiv Metalurgias S.l.",
+    "wof:parent_id":85863587,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5486080647,
+    40.5052947998,
+    -3.5486080647,
+    40.5052947998
+],
+  "geometry": {"coordinates":[-3.5486080647,40.5052947998],"type":"Point"}
+}

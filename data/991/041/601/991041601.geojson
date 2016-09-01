@@ -1,0 +1,74 @@
+{
+  "id": 991041601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6642227173,39.5855140686,2.6642227173,39.5855140686",
+    "geom:latitude":39.585514,
+    "geom:longitude":2.664223,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Julian Gayarre, 7",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sindicatos De Trabajadores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 75 28 08",
+    "sg:postcode":"07004",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864091,
+        85682647,
+        85864089,
+        102191581,
+        404330817,
+        404227367,
+        101748237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PR987tyGElaC8VEc5zd9M_39.585514_2.664223@1306269433"
+    },
+    "wof:country":"ES",
+    "wof:created":1472522313,
+    "wof:geomhash":"bd4f7a0a284be057b09a3f21c11a24f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":991041601
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864089,
+            "region_id":85682647,
+            "venue_id":991041601
+        }
+    ],
+    "wof:id":991041601,
+    "wof:lastmodified":1472522313,
+    "wof:name":"Asociacion Sindical De Autonomos Del Taxi De Mallorca",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6642227173,
+    39.5855140686,
+    2.6642227173,
+    39.5855140686
+],
+  "geometry": {"coordinates":[2.6642227173,39.5855140686],"type":"Point"}
+}

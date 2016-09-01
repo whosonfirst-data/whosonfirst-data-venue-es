@@ -1,0 +1,78 @@
+{
+  "id": 1008041367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1561539173,41.3769569397,2.1561539173,41.3769569397",
+    "geom:latitude":41.376957,
+    "geom:longitude":2.156154,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Rocafort, 35",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Peluquer\u00cdas, Peluquer\u00cda Mixta",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 25 58 99",
+    "sg:postcode":"08015",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864037,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wWtwyXuxltwbgNZxdcZmA_41.376957_2.156154@1306269600"
+    },
+    "wof:country":"ES",
+    "wof:created":1472596955,
+    "wof:geomhash":"28870822a83f6a90498f134d08a744d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864037,
+            "region_id":85682663,
+            "venue_id":1008041367
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864027,
+            "region_id":85682663,
+            "venue_id":1008041367
+        }
+    ],
+    "wof:id":1008041367,
+    "wof:lastmodified":1472596955,
+    "wof:name":"Morella Ordobas Eusebio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1561539173,
+    41.3769569397,
+    2.1561539173,
+    41.3769569397
+],
+  "geometry": {"coordinates":[2.1561539173,41.3769569397],"type":"Point"}
+}

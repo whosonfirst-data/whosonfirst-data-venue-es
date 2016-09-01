@@ -1,0 +1,60 @@
+{
+  "id": 1008403401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7787098885,40.3253822327,-3.7787098885,40.3253822327",
+    "geom:latitude":40.325382,
+    "geom:longitude":-3.77871,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Conde De Barcelona, 3",
+    "sg:city":"Leganes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Florister\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 94 59 51",
+    "sg:postcode":"28914",
+    "sg:province":"Madrid",
+    "sg:website":"www.floristeriaroncero.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863785,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OZ316YnyYVF0vub69HdUV_40.325382_-3.778710@1306269649"
+    },
+    "wof:country":"ES",
+    "wof:created":1472625841,
+    "wof:geomhash":"73f32e9aae24965cf366c3c4d37dc46b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863785,
+            "region_id":85682783,
+            "venue_id":1008403401
+        }
+    ],
+    "wof:id":1008403401,
+    "wof:lastmodified":1472625841,
+    "wof:name":"Roncero Panadero Dionisio",
+    "wof:parent_id":85863785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7787098885,
+    40.3253822327,
+    -3.7787098885,
+    40.3253822327
+],
+  "geometry": {"coordinates":[-3.7787098885,40.3253822327],"type":"Point"}
+}

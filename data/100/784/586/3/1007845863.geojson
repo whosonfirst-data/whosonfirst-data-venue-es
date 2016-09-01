@@ -1,0 +1,67 @@
+{
+  "id": 1007845863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7162036896,40.3803787231,-3.7162036896,40.3803787231",
+    "geom:latitude":40.380379,
+    "geom:longitude":-3.716204,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Cerro Blanco, 31",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mudanzas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 60 67 64",
+    "sg:postcode":"28026",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863757,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kAgN0sIox9qJEasYdACaR_40.380379_-3.716204@1306269576"
+    },
+    "wof:country":"ES",
+    "wof:created":1472588500,
+    "wof:geomhash":"63ab92173dd5c6d2021f3200ce94212e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863757,
+            "region_id":85682783,
+            "venue_id":1007845863
+        }
+    ],
+    "wof:id":1007845863,
+    "wof:lastmodified":1472588500,
+    "wof:name":"Lopez Santos Domingo",
+    "wof:parent_id":85863757,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7162036896,
+    40.3803787231,
+    -3.7162036896,
+    40.3803787231
+],
+  "geometry": {"coordinates":[-3.7162036896,40.3803787231],"type":"Point"}
+}

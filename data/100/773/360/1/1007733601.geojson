@@ -1,0 +1,59 @@
+{
+  "id": 1007733601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.7983388901,37.8818016052,-4.7983388901,37.8818016052",
+    "geom:latitude":37.881802,
+    "geom:longitude":-4.798339,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Adolfo, 2",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mec\u00c1nico Del Autom\u00d3vil",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 23 29 30",
+    "sg:postcode":"14005",
+    "sg:province":"C\u00f3rdoba",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863887,
+        85682697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oC15QN79e308qgP0AMG56_37.881802_-4.798339@1306269561"
+    },
+    "wof:country":"ES",
+    "wof:created":1472582671,
+    "wof:geomhash":"6147f0580d6185d1245356c6d073dc66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863887,
+            "region_id":85682697,
+            "venue_id":1007733601
+        }
+    ],
+    "wof:id":1007733601,
+    "wof:lastmodified":1472582671,
+    "wof:name":"Jimenez Pelaez Pedro",
+    "wof:parent_id":85863887,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7983388901,
+    37.8818016052,
+    -4.7983388901,
+    37.8818016052
+],
+  "geometry": {"coordinates":[-4.7983388901,37.8818016052],"type":"Point"}
+}

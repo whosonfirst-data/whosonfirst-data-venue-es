@@ -1,0 +1,67 @@
+{
+  "id": 1007755513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.657004118,39.579875946,2.657004118,39.579875946",
+    "geom:latitude":39.579876,
+    "geom:longitude":2.657004,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Joan Munar, 13",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Plomeros",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 75 40 71",
+    "sg:postcode":"07004",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864089,
+        102191581,
+        404330817,
+        85633129,
+        404227367,
+        101748237,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UPyOFUzcd4sFUTqCU4dpY_39.579876_2.657004@1306269564"
+    },
+    "wof:country":"ES",
+    "wof:created":1472584000,
+    "wof:geomhash":"af6d4510626e30c2008624d1ed22cfe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864089,
+            "region_id":85682647,
+            "venue_id":1007755513
+        }
+    ],
+    "wof:id":1007755513,
+    "wof:lastmodified":1472584000,
+    "wof:name":"Juan Tur Francisco",
+    "wof:parent_id":85864089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.657004118,
+    39.579875946,
+    2.657004118,
+    39.579875946
+],
+  "geometry": {"coordinates":[2.657004118,39.579875946],"type":"Point"}
+}

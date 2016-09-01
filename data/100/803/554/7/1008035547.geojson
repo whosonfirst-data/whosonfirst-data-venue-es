@@ -1,0 +1,81 @@
+{
+  "id": 1008035547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6543600559,39.573474884,2.6543600559,39.573474884",
+    "geom:latitude":39.573475,
+    "geom:longitude":2.65436,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Galeries Velazquez, S/n",
+    "sg:city":"Palma",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 72 19 72",
+    "sg:postcode":"07002",
+    "sg:province":"Islas Baleares",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864089,
+        102191581,
+        404330817,
+        85633129,
+        404227367,
+        101748237,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35TQoeJtGp7b1gDD7clZZR_39.573475_2.654360@1306269599"
+    },
+    "wof:country":"ES",
+    "wof:created":1472596705,
+    "wof:geomhash":"d82de7f20fef8a2a2a5969f3ffb0dae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864089,
+            "region_id":85682647,
+            "venue_id":1008035547
+        }
+    ],
+    "wof:id":1008035547,
+    "wof:lastmodified":1472596705,
+    "wof:name":"Moragues Perello Juan",
+    "wof:parent_id":85864089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.6543600559,
+    39.573474884,
+    2.6543600559,
+    39.573474884
+],
+  "geometry": {"coordinates":[2.6543600559,39.573474884],"type":"Point"}
+}

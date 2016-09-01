@@ -1,0 +1,78 @@
+{
+  "id": 990965885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4908277094,38.3441314697,-0.4908277094,38.3441314697",
+    "geom:latitude":38.344131,
+    "geom:longitude":-0.490828,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Poeta Vila Y Blanco, 9",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Prensas Industriales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 92 38 84",
+    "sg:postcode":"03003",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799185,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625,
+        85864055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_548sYRqKwf16DFzqHFuEFf_38.344131_-0.490828@1306269422"
+    },
+    "wof:country":"ES",
+    "wof:created":1472516386,
+    "wof:geomhash":"112c480be808c886de08b916594998ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85799185,
+            "region_id":85682625,
+            "venue_id":990965885
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864055,
+            "region_id":85682625,
+            "venue_id":990965885
+        }
+    ],
+    "wof:id":990965885,
+    "wof:lastmodified":1472516386,
+    "wof:name":"Amezaga Soler Juan",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4908277094,
+    38.3441314697,
+    -0.4908277094,
+    38.3441314697
+],
+  "geometry": {"coordinates":[-0.4908277094,38.3441314697],"type":"Point"}
+}

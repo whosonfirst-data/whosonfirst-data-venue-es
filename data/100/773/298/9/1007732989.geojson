@@ -1,0 +1,59 @@
+{
+  "id": 1007732989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5573856831,40.4270782471,-3.5573856831,40.4270782471",
+    "geom:latitude":40.427078,
+    "geom:longitude":-3.557386,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Luis Braille (de), 36",
+    "sg:city":"Coslada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tiendas De Grano, Frutas Y Legumbres Secas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 71 64 58",
+    "sg:postcode":"28820",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863629,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UJdWeaaMnhh7a1OCxiZPZ_40.427078_-3.557386@1306269561"
+    },
+    "wof:country":"ES",
+    "wof:created":1472582631,
+    "wof:geomhash":"10fd467c7e9c9973c863b1fb4dc221d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863629,
+            "region_id":85682783,
+            "venue_id":1007732989
+        }
+    ],
+    "wof:id":1007732989,
+    "wof:lastmodified":1472582631,
+    "wof:name":"Jimenez Moreno Angel",
+    "wof:parent_id":85863629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5573856831,
+    40.4270782471,
+    -3.5573856831,
+    40.4270782471
+],
+  "geometry": {"coordinates":[-3.5573856831,40.4270782471],"type":"Point"}
+}

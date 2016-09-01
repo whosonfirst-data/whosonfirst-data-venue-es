@@ -1,0 +1,82 @@
+{
+  "id": 1007769667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7045929432,40.4522666931,-3.7045929432,40.4522666931",
+    "geom:latitude":40.452267,
+    "geom:longitude":-3.704593,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Santa Juliana, 13",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 59 79 46",
+    "sg:postcode":"28039",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ],
+    "sg:website":"www.the-cocktail.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799245,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72rl4xKuHkl04QgdID8nDI_40.452267_-3.704593@1306269566"
+    },
+    "wof:country":"ES",
+    "wof:created":1472584742,
+    "wof:geomhash":"18de5bd68bd60e6280660ef688f36eae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799245,
+            "region_id":85682783,
+            "venue_id":1007769667
+        }
+    ],
+    "wof:id":1007769667,
+    "wof:lastmodified":1472584742,
+    "wof:name":"Knapp Bjeren Alberto",
+    "wof:parent_id":85799245,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ]
+},
+  "bbox": [
+    -3.7045929432,
+    40.4522666931,
+    -3.7045929432,
+    40.4522666931
+],
+  "geometry": {"coordinates":[-3.7045929432,40.4522666931],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1008215481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1607940197,41.4308929443,2.1607940197,41.4308929443",
+    "geom:latitude":41.430893,
+    "geom:longitude":2.160794,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pl Eivissa, 14",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 29 03 69",
+    "sg:postcode":"08031",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799399,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64jxqbsDz2cmSeqU69nWjB_41.430893_2.160794@1306269624"
+    },
+    "wof:country":"ES",
+    "wof:created":1472613068,
+    "wof:geomhash":"841492023e06304fcff7dc8adf690423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799399,
+            "region_id":85682663,
+            "venue_id":1008215481
+        }
+    ],
+    "wof:id":1008215481,
+    "wof:lastmodified":1472613068,
+    "wof:name":"Perez Jimenez Inmaculada",
+    "wof:parent_id":85799399,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1607940197,
+    41.4308929443,
+    2.1607940197,
+    41.4308929443
+],
+  "geometry": {"coordinates":[2.1607940197,41.4308929443],"type":"Point"}
+}

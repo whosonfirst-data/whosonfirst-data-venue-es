@@ -1,0 +1,77 @@
+{
+  "id": 991472169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6716330051,40.4818534851,-3.6716330051,40.4818534851",
+    "geom:latitude":40.481853,
+    "geom:longitude":-3.671633,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Caleruega, 61",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Tea Room",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 67 29 34",
+    "sg:postcode":"28033",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "snack"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863567,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bD2GiyPvirEgGvwyH19iZ_40.481853_-3.671633@1306269490"
+    },
+    "wof:country":"ES",
+    "wof:created":1472552925,
+    "wof:geomhash":"3590dc9abbf69df04cb439738eca6de1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863567,
+            "region_id":85682783,
+            "venue_id":991472169
+        }
+    ],
+    "wof:id":991472169,
+    "wof:lastmodified":1472552925,
+    "wof:name":"Dayser C.b.",
+    "wof:parent_id":85863567,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snack"
+    ]
+},
+  "bbox": [
+    -3.6716330051,
+    40.4818534851,
+    -3.6716330051,
+    40.4818534851
+],
+  "geometry": {"coordinates":[-3.6716330051,40.4818534851],"type":"Point"}
+}

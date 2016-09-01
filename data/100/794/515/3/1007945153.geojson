@@ -1,0 +1,81 @@
+{
+  "id": 1007945153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7110350132,40.4749603271,-3.7110350132,40.4749603271",
+    "geom:latitude":40.47496,
+    "geom:longitude":-3.711035,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Betanzos, 20",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 30 44 55",
+    "sg:postcode":"28029",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799627,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ULzqDbUKHjOfX7kDoCv3S_40.474960_-3.711035@1306269588"
+    },
+    "wof:country":"ES",
+    "wof:created":1472592921,
+    "wof:geomhash":"60ca655bfbb1cae4fb80b9ba509e7c29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799627,
+            "region_id":85682783,
+            "venue_id":1007945153
+        }
+    ],
+    "wof:id":1007945153,
+    "wof:lastmodified":1472592921,
+    "wof:name":"Martin Plaza Gregorio",
+    "wof:parent_id":85799627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.7110350132,
+    40.4749603271,
+    -3.7110350132,
+    40.4749603271
+],
+  "geometry": {"coordinates":[-3.7110350132,40.4749603271],"type":"Point"}
+}

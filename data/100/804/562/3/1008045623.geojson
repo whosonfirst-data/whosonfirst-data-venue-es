@@ -1,0 +1,67 @@
+{
+  "id": 1008045623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1455769539,41.4110603333,2.1455769539,41.4110603333",
+    "geom:latitude":41.41106,
+    "geom:longitude":2.145577,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Republica Argentina, 100",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Inmobiliaria (agencias)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 19 05 95",
+    "sg:postcode":"08023",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863989,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FnsBszXYwiZrsyE0AWA7x_41.411060_2.145577@1306269600"
+    },
+    "wof:country":"ES",
+    "wof:created":1472597144,
+    "wof:geomhash":"247835a45343a5ff97b05ea52569bde7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863989,
+            "region_id":85682663,
+            "venue_id":1008045623
+        }
+    ],
+    "wof:id":1008045623,
+    "wof:lastmodified":1472597144,
+    "wof:name":"Moreno Monte Elisenda",
+    "wof:parent_id":85863989,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1455769539,
+    41.4110603333,
+    2.1455769539,
+    41.4110603333
+],
+  "geometry": {"coordinates":[2.1455769539,41.4110603333],"type":"Point"}
+}

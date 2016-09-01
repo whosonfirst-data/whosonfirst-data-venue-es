@@ -1,0 +1,59 @@
+{
+  "id": 1007773651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6931619644,40.3123435974,-3.6931619644,40.3123435974",
+    "geom:latitude":40.312344,
+    "geom:longitude":-3.693162,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Fundidores, 91",
+    "sg:city":"Getafe",
+    "sg:classifiers":[],
+    "sg:orig_category":"Laboratorios Farmac\u00c9uticos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 65 07 85",
+    "sg:postcode":"28906",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xDSDvOuXhv7Vz3D3UjXgq_40.312344_-3.693162@1306269566"
+    },
+    "wof:country":"ES",
+    "wof:created":1472584933,
+    "wof:geomhash":"e4ac3cce47d4f32746b7c4daea3adc78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1007773651
+        }
+    ],
+    "wof:id":1007773651,
+    "wof:lastmodified":1472584933,
+    "wof:name":"Laboratorios Acyfabrik S.a.",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6931619644,
+    40.3123435974,
+    -3.6931619644,
+    40.3123435974
+],
+  "geometry": {"coordinates":[-3.6931619644,40.3123435974],"type":"Point"}
+}

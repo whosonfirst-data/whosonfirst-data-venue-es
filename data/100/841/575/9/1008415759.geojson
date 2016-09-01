@@ -1,0 +1,67 @@
+{
+  "id": 1008415759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.124049902,41.3881912231,2.124049902,41.3881912231",
+    "geom:latitude":41.388191,
+    "geom:longitude":2.12405,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Rubio I Lluch, 3",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Inmobiliaria (agencias)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 04 60 27",
+    "sg:postcode":"08034",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799597,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CsKaBvOg6sMxNurzicEvZ_41.388191_2.124050@1306269651"
+    },
+    "wof:country":"ES",
+    "wof:created":1472626502,
+    "wof:geomhash":"b06f294906dfb157ef7dd6a3e7800c98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799597,
+            "region_id":85682663,
+            "venue_id":1008415759
+        }
+    ],
+    "wof:id":1008415759,
+    "wof:lastmodified":1472626502,
+    "wof:name":"Rubis",
+    "wof:parent_id":85799597,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.124049902,
+    41.3881912231,
+    2.124049902,
+    41.3881912231
+],
+  "geometry": {"coordinates":[2.124049902,41.3881912231],"type":"Point"}
+}

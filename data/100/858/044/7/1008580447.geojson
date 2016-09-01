@@ -1,0 +1,60 @@
+{
+  "id": 1008580447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1896119118,41.3953475952,2.1896119118,41.3953475952",
+    "geom:latitude":41.395348,
+    "geom:longitude":2.189612,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Pallars, 85",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Vinos (agentes)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 86 42 42",
+    "sg:postcode":"08018",
+    "sg:province":"Barcelona",
+    "sg:website":"www.losvinosdelmundo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6d0A6W7aFrjL4TkNorEeP5_41.395348_2.189612@1306269673"
+    },
+    "wof:country":"ES",
+    "wof:created":1472633395,
+    "wof:geomhash":"697c512305590b3cb40281c9e7939f19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008580447
+        }
+    ],
+    "wof:id":1008580447,
+    "wof:lastmodified":1472633395,
+    "wof:name":"Talisman Iberica 2000 S.l.",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1896119118,
+    41.3953475952,
+    2.1896119118,
+    41.3953475952
+],
+  "geometry": {"coordinates":[2.1896119118,41.3953475952],"type":"Point"}
+}

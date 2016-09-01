@@ -1,0 +1,59 @@
+{
+  "id": 1008264973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1039829254,41.5436553955,2.1039829254,41.5436553955",
+    "geom:latitude":41.543655,
+    "geom:longitude":2.103983,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Horta Novella, 122",
+    "sg:city":"Sabadell",
+    "sg:classifiers":[],
+    "sg:orig_category":"Autob\u00das (explotaci\u00d3n Y Servicios De)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 25 67 37",
+    "sg:postcode":"08201",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wXH2y8Hof1HuX6fFwuM2E_41.543655_2.103983@1306269631"
+    },
+    "wof:country":"ES",
+    "wof:created":1472616786,
+    "wof:geomhash":"51384777d4e0f99636f5bb5e4105f598",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008264973
+        }
+    ],
+    "wof:id":1008264973,
+    "wof:lastmodified":1472616786,
+    "wof:name":"Pous Ribell Pedro",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1039829254,
+    41.5436553955,
+    2.1039829254,
+    41.5436553955
+],
+  "geometry": {"coordinates":[2.1039829254,41.5436553955],"type":"Point"}
+}

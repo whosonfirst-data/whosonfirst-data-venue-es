@@ -1,0 +1,63 @@
+{
+  "id": 1007950829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1825048923,41.385345459,2.1825048923,41.385345459",
+    "geom:latitude":41.385345,
+    "geom:longitude":2.182505,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Flassaders, 33",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Zapatos (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 10 40 77",
+    "sg:postcode":"08003",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VE1pf01BNQLOi4jJ0FIHg_41.385345_2.182505@1306269589"
+    },
+    "wof:country":"ES",
+    "wof:created":1472593162,
+    "wof:geomhash":"6898ba1db4057df878bcbad4fc1466bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":1007950829
+        }
+    ],
+    "wof:id":1007950829,
+    "wof:lastmodified":1472593162,
+    "wof:name":"Masciotti  Barbara",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1825048923,
+    41.385345459,
+    2.1825048923,
+    41.385345459
+],
+  "geometry": {"coordinates":[2.1825048923,41.385345459],"type":"Point"}
+}

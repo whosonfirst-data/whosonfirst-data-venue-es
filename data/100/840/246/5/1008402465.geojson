@@ -1,0 +1,81 @@
+{
+  "id": 1008402465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9824771881,37.4061355591,-5.9824771881,37.4061355591",
+    "geom:latitude":37.406136,
+    "geom:longitude":-5.982477,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Leon Xiii, 80",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 43 42 86",
+    "sg:postcode":"41009",
+    "sg:province":"Sevilla",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864137,
+        102191581,
+        404342947,
+        85633129,
+        404227361,
+        101748225,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vPSKFPyvwcuXQ1YO8BZ9G_37.406136_-5.982477@1306269649"
+    },
+    "wof:country":"ES",
+    "wof:created":1472625800,
+    "wof:geomhash":"a92ce1881b7f784225f11042e1bc6121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864137,
+            "region_id":85682841,
+            "venue_id":1008402465
+        }
+    ],
+    "wof:id":1008402465,
+    "wof:lastmodified":1472625800,
+    "wof:name":"Romero Usano Daniel",
+    "wof:parent_id":85864137,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -5.9824771881,
+    37.4061355591,
+    -5.9824771881,
+    37.4061355591
+],
+  "geometry": {"coordinates":[-5.9824771881,37.4061355591],"type":"Point"}
+}

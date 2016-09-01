@@ -1,0 +1,70 @@
+{
+  "id": 1007861383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.3730678558,36.7262077332,-4.3730678558,36.7262077332",
+    "geom:latitude":36.726208,
+    "geom:longitude":-4.373068,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Portugal, 3",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alimentaci\u00d3n General (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 20 15 30",
+    "sg:postcode":"29017",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101748185,
+        85863513,
+        85863507,
+        85682787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6l1L31VmQ9XZWw22d5DcCC_36.726208_-4.373068@1306269578"
+    },
+    "wof:country":"ES",
+    "wof:created":1472589276,
+    "wof:geomhash":"a1d5e427e0305146338dc49cdd777762",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748185,
+            "neighbourhood_id":85863513,
+            "region_id":-1,
+            "venue_id":1007861383
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863507,
+            "region_id":85682787,
+            "venue_id":1007861383
+        }
+    ],
+    "wof:id":1007861383,
+    "wof:lastmodified":1472589276,
+    "wof:name":"Luque Lopez Josefa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.3730678558,
+    36.7262077332,
+    -4.3730678558,
+    36.7262077332
+],
+  "geometry": {"coordinates":[-4.3730678558,36.7262077332],"type":"Point"}
+}

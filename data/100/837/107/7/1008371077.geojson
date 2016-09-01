@@ -1,0 +1,59 @@
+{
+  "id": 1008371077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6350030899,40.5430679321,-3.6350030899,40.5430679321",
+    "geom:latitude":40.543068,
+    "geom:longitude":-3.635003,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Fuego (del), 30",
+    "sg:city":"Alcobendas",
+    "sg:classifiers":[],
+    "sg:orig_category":"Muebles, Minoristas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 52 63 08",
+    "sg:postcode":"28100",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0psBAYJEcOmGSlZ5CYFQZa_40.543068_-3.635003@1306269645"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624410,
+    "wof:geomhash":"9c01e0fe0868f0e71053b4fadbe1a3c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1008371077
+        }
+    ],
+    "wof:id":1008371077,
+    "wof:lastmodified":1472624410,
+    "wof:name":"Roda Monta\u00f1o Gabriel",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6350030899,
+    40.5430679321,
+    -3.6350030899,
+    40.5430679321
+],
+  "geometry": {"coordinates":[-3.6350030899,40.5430679321],"type":"Point"}
+}

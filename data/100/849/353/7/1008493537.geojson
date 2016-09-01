@@ -1,0 +1,81 @@
+{
+  "id": 1008493537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8909839988,41.6688919067,-0.8909839988,41.6688919067",
+    "geom:latitude":41.668892,
+    "geom:longitude":-0.890984,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Maria De Maeztu, S/n",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 73 48 12",
+    "sg:postcode":"50015",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863309,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_544oFrFTdnMd9iPZ3pzGgk_41.668892_-0.890984@1306269661"
+    },
+    "wof:country":"ES",
+    "wof:created":1472629707,
+    "wof:geomhash":"5f90cfc35508698b743b26cd652c482b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863309,
+            "region_id":85682891,
+            "venue_id":1008493537
+        }
+    ],
+    "wof:id":1008493537,
+    "wof:lastmodified":1472629707,
+    "wof:name":"Segura Murillo Maria Pilar",
+    "wof:parent_id":85863309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ]
+},
+  "bbox": [
+    -0.8909839988,
+    41.6688919067,
+    -0.8909839988,
+    41.6688919067
+],
+  "geometry": {"coordinates":[-0.8909839988,41.6688919067],"type":"Point"}
+}

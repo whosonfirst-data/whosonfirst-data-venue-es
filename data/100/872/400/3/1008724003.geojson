@@ -1,0 +1,74 @@
+{
+  "id": 1008724003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1954329014,41.3997459412,2.1954329014,41.3997459412",
+    "geom:latitude":41.399746,
+    "geom:longitude":2.195433,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Pere Iv, 114",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Suministros Para Hoteles",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 09 17 61",
+    "sg:postcode":"08005",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799265,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JwEK8UaX6SPryclF5qNF4_41.399746_2.195433@1306269692"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639585,
+    "wof:geomhash":"7d7c626fa010656d564e4e00205a5040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799265,
+            "region_id":85682663,
+            "venue_id":1008724003
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008724003
+        }
+    ],
+    "wof:id":1008724003,
+    "wof:lastmodified":1472639585,
+    "wof:name":"Vidal Mola Rosa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1954329014,
+    41.3997459412,
+    2.1954329014,
+    41.3997459412
+],
+  "geometry": {"coordinates":[2.1954329014,41.3997459412],"type":"Point"}
+}

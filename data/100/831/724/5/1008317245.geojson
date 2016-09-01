@@ -1,0 +1,72 @@
+{
+  "id": 1008317245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.704515934,40.4698486328,-3.704515934,40.4698486328",
+    "geom:latitude":40.469849,
+    "geom:longitude":-3.704516,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pase Direccion, 324",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 15 88 38",
+    "sg:postcode":"28029",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863561,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aRTFYpRkaTL0wXUPrwv2k_40.469849_-3.704516@1306269638"
+    },
+    "wof:country":"ES",
+    "wof:created":1472622089,
+    "wof:geomhash":"1199259dd1418c49d488f74924e29750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863561,
+            "region_id":85682783,
+            "venue_id":1008317245
+        }
+    ],
+    "wof:id":1008317245,
+    "wof:lastmodified":1472622089,
+    "wof:name":"Ramos Benito Miguel Angel",
+    "wof:parent_id":85863561,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.704515934,
+    40.4698486328,
+    -3.704515934,
+    40.4698486328
+],
+  "geometry": {"coordinates":[-3.704515934,40.4698486328],"type":"Point"}
+}

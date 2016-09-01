@@ -1,0 +1,81 @@
+{
+  "id": 1007786779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8786960244,41.6320037842,-0.8786960244,41.6320037842",
+    "geom:latitude":41.632004,
+    "geom:longitude":-0.878696,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Santa Gema, 45",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 38 22 11",
+    "sg:postcode":"50007",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863385,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6x3bVG8pgsGeyAPdjpfoVN_41.632004_-0.878696@1306269568"
+    },
+    "wof:country":"ES",
+    "wof:created":1472585567,
+    "wof:geomhash":"4e4d7dffef0db1c401e303c0b2668ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863385,
+            "region_id":85682891,
+            "venue_id":1007786779
+        }
+    ],
+    "wof:id":1007786779,
+    "wof:lastmodified":1472585567,
+    "wof:name":"Laplaza Cortes Francisco",
+    "wof:parent_id":85863385,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -0.8786960244,
+    41.6320037842,
+    -0.8786960244,
+    41.6320037842
+],
+  "geometry": {"coordinates":[-0.8786960244,41.6320037842],"type":"Point"}
+}

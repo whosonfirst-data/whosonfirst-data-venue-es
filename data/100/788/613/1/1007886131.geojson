@@ -1,0 +1,67 @@
+{
+  "id": 1007886131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7044000626,40.4026527405,-3.7044000626,40.4026527405",
+    "geom:latitude":40.402653,
+    "geom:longitude":-3.7044,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Laurel, 23",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 17 13 85",
+    "sg:postcode":"28005",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863743,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ax7QtJmBmOvo9Y7FkyZIu_40.402653_-3.704400@1306269581"
+    },
+    "wof:country":"ES",
+    "wof:created":1472590306,
+    "wof:geomhash":"c7c7c69ba1cc6f5d662374b863976565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863743,
+            "region_id":85682783,
+            "venue_id":1007886131
+        }
+    ],
+    "wof:id":1007886131,
+    "wof:lastmodified":1472590306,
+    "wof:name":"Manzanas Gonzalez Jesus",
+    "wof:parent_id":85863743,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7044000626,
+    40.4026527405,
+    -3.7044000626,
+    40.4026527405
+],
+  "geometry": {"coordinates":[-3.7044000626,40.4026527405],"type":"Point"}
+}

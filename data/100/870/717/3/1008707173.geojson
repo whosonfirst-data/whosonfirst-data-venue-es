@@ -1,0 +1,79 @@
+{
+  "id": 1008707173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0835399628,41.3772964478,2.0835399628,41.3772964478",
+    "geom:latitude":41.377296,
+    "geom:longitude":2.08354,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Nou, 18",
+    "sg:city":"Esplugues Llobregat",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 72 66 52",
+    "sg:postcode":"08950",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "en",
+        "fundiciones"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799591,
+        102191581,
+        404331371,
+        85633129,
+        404227379,
+        101758753,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7295flQthPcG7sYrTGakFC_41.377296_2.083540@1306269689"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638858,
+    "wof:geomhash":"55e794b40899eabfc382cea6cee4c493",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331371,
+            "locality_id":101758753,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799591,
+            "region_id":85682663,
+            "venue_id":1008707173
+        }
+    ],
+    "wof:id":1008707173,
+    "wof:lastmodified":1472638858,
+    "wof:name":"Vera Vilaplana Luis",
+    "wof:parent_id":85799591,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "en",
+        "fundiciones"
+    ]
+},
+  "bbox": [
+    2.0835399628,
+    41.3772964478,
+    2.0835399628,
+    41.3772964478
+],
+  "geometry": {"coordinates":[2.0835399628,41.3772964478],"type":"Point"}
+}

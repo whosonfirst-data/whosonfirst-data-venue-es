@@ -1,0 +1,81 @@
+{
+  "id": 991587955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1729879379,41.3825836182,2.1729879379,41.3825836182",
+    "geom:latitude":41.382584,
+    "geom:longitude":2.172988,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Petritxol, 5",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 18 70 20",
+    "sg:postcode":"08002",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864033,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mwchCmNd5susMSL3IhvsV_41.382584_2.172988@1306269505"
+    },
+    "wof:country":"ES",
+    "wof:created":1472559050,
+    "wof:geomhash":"158eed2210e4e2d1cca3eae6e38b619d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864033,
+            "region_id":85682663,
+            "venue_id":991587955
+        }
+    ],
+    "wof:id":991587955,
+    "wof:lastmodified":1472559050,
+    "wof:name":"Establecimientos Maragall S.a.",
+    "wof:parent_id":85864033,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    2.1729879379,
+    41.3825836182,
+    2.1729879379,
+    41.3825836182
+],
+  "geometry": {"coordinates":[2.1729879379,41.3825836182],"type":"Point"}
+}

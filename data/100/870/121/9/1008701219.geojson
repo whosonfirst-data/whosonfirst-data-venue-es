@@ -1,0 +1,67 @@
+{
+  "id": 1008701219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6734201908,40.4286193848,-3.6734201908,40.4286193848",
+    "geom:latitude":40.428619,
+    "geom:longitude":-3.67342,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Don Ramon De La Cruz, 93",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Estancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 02 72 23",
+    "sg:postcode":"28006",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863805,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nIclklOAAEOOn4dhbnKGN_40.428619_-3.673420@1306269689"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638586,
+    "wof:geomhash":"40bf9acf11c655caea508061340ab276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863805,
+            "region_id":85682783,
+            "venue_id":1008701219
+        }
+    ],
+    "wof:id":1008701219,
+    "wof:lastmodified":1472638586,
+    "wof:name":"Veiga Rodriguez Amparo",
+    "wof:parent_id":85863805,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6734201908,
+    40.4286193848,
+    -3.6734201908,
+    40.4286193848
+],
+  "geometry": {"coordinates":[-3.6734201908,40.4286193848],"type":"Point"}
+}

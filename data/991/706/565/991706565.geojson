@@ -1,0 +1,81 @@
+{
+  "id": 991706565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3825525045,39.4738693237,-0.3825525045,39.4738693237",
+    "geom:latitude":39.473869,
+    "geom:longitude":-0.382553,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Carniceros, 8",
+    "sg:city":"Valencia",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 91 87 71",
+    "sg:postcode":"46001",
+    "sg:province":"Valencia",
+    "sg:tags":[
+        "mercado",
+        "de",
+        "estudios"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864217,
+        102191581,
+        404345361,
+        85633129,
+        404227381,
+        101748241,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nEhNUKNortQUVCZlHAZuK_39.473869_-0.382553@1306269521"
+    },
+    "wof:country":"ES",
+    "wof:created":1472565779,
+    "wof:geomhash":"be7726ed74dfd05e421c595984b2f332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345361,
+            "locality_id":101748241,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864217,
+            "region_id":85682867,
+            "venue_id":991706565
+        }
+    ],
+    "wof:id":991706565,
+    "wof:lastmodified":1472565779,
+    "wof:name":"Fundacion Ceps",
+    "wof:parent_id":85864217,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mercado",
+        "de",
+        "estudios"
+    ]
+},
+  "bbox": [
+    -0.3825525045,
+    39.4738693237,
+    -0.3825525045,
+    39.4738693237
+],
+  "geometry": {"coordinates":[-0.3825525045,39.4738693237],"type":"Point"}
+}

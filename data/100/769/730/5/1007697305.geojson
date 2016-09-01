@@ -1,0 +1,59 @@
+{
+  "id": 1007697305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.4892089367,40.4613685608,-3.4892089367,40.4613685608",
+    "geom:latitude":40.461369,
+    "geom:longitude":-3.489209,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Fernando, S/n",
+    "sg:city":"Torrejon Ardoz",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ense\u00d1anza Secundaria: Colegios Y Escuelas Privadas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 76 69 74",
+    "sg:postcode":"28850",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863631,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qHeArOurh2zMTBRbUx0Y3_40.461369_-3.489209@1306269556"
+    },
+    "wof:country":"ES",
+    "wof:created":1472580828,
+    "wof:geomhash":"3d8bf95f4dce54c90b502d4c291162af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863631,
+            "region_id":85682783,
+            "venue_id":1007697305
+        }
+    ],
+    "wof:id":1007697305,
+    "wof:lastmodified":1472580828,
+    "wof:name":"Instituto",
+    "wof:parent_id":85863631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.4892089367,
+    40.4613685608,
+    -3.4892089367,
+    40.4613685608
+],
+  "geometry": {"coordinates":[-3.4892089367,40.4613685608],"type":"Point"}
+}

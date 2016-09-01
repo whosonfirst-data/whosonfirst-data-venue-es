@@ -1,0 +1,66 @@
+{
+  "id": 1008047033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8772389889,41.673374176,-0.8772389889,41.673374176",
+    "geom:latitude":41.673374,
+    "geom:longitude":-0.877239,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Salvador Allende, 55",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Contenedores (mercanc\u00cdas)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 51 30 89",
+    "sg:postcode":"50015",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863297,
+        85682891,
+        85863293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ymMHYP8glVTo4pCcWdYct_41.673374_-0.877239@1306269601"
+    },
+    "wof:country":"ES",
+    "wof:created":1472597209,
+    "wof:geomhash":"34b1642305440098172f9e3873d5d954",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863297,
+            "region_id":85682891,
+            "venue_id":1008047033
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863293,
+            "region_id":85682891,
+            "venue_id":1008047033
+        }
+    ],
+    "wof:id":1008047033,
+    "wof:lastmodified":1472597209,
+    "wof:name":"Moreno Rubio Jose Maria",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8772389889,
+    41.673374176,
+    -0.8772389889,
+    41.673374176
+],
+  "geometry": {"coordinates":[-0.8772389889,41.673374176],"type":"Point"}
+}

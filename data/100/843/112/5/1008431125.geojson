@@ -1,0 +1,60 @@
+{
+  "id": 1008431125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5990400314,37.1677589417,-3.5990400314,37.1677589417",
+    "geom:latitude":37.167759,
+    "geom:longitude":-3.59904,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Anton, 72",
+    "sg:city":"Granada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Doctores En Medicina",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 52 22 61",
+    "sg:postcode":"18005",
+    "sg:province":"Granada",
+    "sg:website":"www.paginasamarillas.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863847,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VhHo3J8T8Q52bL8Z3SZvc_37.167759_-3.599040@1306269653"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627235,
+    "wof:geomhash":"55de8fb7e9c2f5619237f01f9ceeee47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863847,
+            "region_id":85682731,
+            "venue_id":1008431125
+        }
+    ],
+    "wof:id":1008431125,
+    "wof:lastmodified":1472627235,
+    "wof:name":"Saez Busto Gracia",
+    "wof:parent_id":85863847,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5990400314,
+    37.1677589417,
+    -3.5990400314,
+    37.1677589417
+],
+  "geometry": {"coordinates":[-3.5990400314,37.1677589417],"type":"Point"}
+}

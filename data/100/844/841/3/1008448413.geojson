@@ -1,0 +1,78 @@
+{
+  "id": 1008448413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.661968708,40.4717712402,-3.661968708,40.4717712402",
+    "geom:latitude":40.471771,
+    "geom:longitude":-3.661969,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Berlanga De Duero, 24",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c9dicos: Estomatolog\u00cda",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 83 06 74",
+    "sg:postcode":"28033",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863595,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UpAoQ4q6idRzSq8vmOevx_40.471771_-3.661969@1306269655"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627891,
+    "wof:geomhash":"5b17f68eb6d82af31989e90d6e262857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863595,
+            "region_id":85682783,
+            "venue_id":1008448413
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863579,
+            "region_id":85682783,
+            "venue_id":1008448413
+        }
+    ],
+    "wof:id":1008448413,
+    "wof:lastmodified":1472627891,
+    "wof:name":"Sanchez Castillon Fernando",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.661968708,
+    40.4717712402,
+    -3.661968708,
+    40.4717712402
+],
+  "geometry": {"coordinates":[-3.661968708,40.4717712402],"type":"Point"}
+}

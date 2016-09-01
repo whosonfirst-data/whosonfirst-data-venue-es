@@ -1,0 +1,64 @@
+{
+  "id": 1008367877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1637210846,41.6251983643,2.1637210846,41.6251983643",
+    "geom:latitude":41.625198,
+    "geom:longitude":2.163721,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Moli, 55",
+    "sg:city":"Caldes Montbui",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 938 65 13 88",
+    "sg:postcode":"08140",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799453,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kA3wDgp9OR8LM0egPsmId_41.625198_2.163721@1306269644"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624281,
+    "wof:geomhash":"b4397c52f4b37448d42cc7abe6237774",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799453,
+            "region_id":85682663,
+            "venue_id":1008367877
+        }
+    ],
+    "wof:id":1008367877,
+    "wof:lastmodified":1472624281,
+    "wof:name":"Robles Manzaneda Bernardo",
+    "wof:parent_id":85799453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1637210846,
+    41.6251983643,
+    2.1637210846,
+    41.6251983643
+],
+  "geometry": {"coordinates":[2.1637210846,41.6251983643],"type":"Point"}
+}

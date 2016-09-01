@@ -1,0 +1,59 @@
+{
+  "id": 1008422803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7243630886,40.3125228882,-3.7243630886,40.3125228882",
+    "geom:latitude":40.312523,
+    "geom:longitude":-3.724363,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Sanchez Morate, 19",
+    "sg:city":"Getafe",
+    "sg:classifiers":[],
+    "sg:orig_category":"Fotograf\u00cda Art\u00cdstica Y Retratos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 95 70 68",
+    "sg:postcode":"28903",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zNVyOdJlUo6WsL763lZy4_40.312523_-3.724363@1306269652"
+    },
+    "wof:country":"ES",
+    "wof:created":1472626819,
+    "wof:geomhash":"f0386270f62d36eeb56eb99311a7e73d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1008422803
+        }
+    ],
+    "wof:id":1008422803,
+    "wof:lastmodified":1472626819,
+    "wof:name":"Ruiz Millan Tomas",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7243630886,
+    40.3125228882,
+    -3.7243630886,
+    40.3125228882
+],
+  "geometry": {"coordinates":[-3.7243630886,40.3125228882],"type":"Point"}
+}

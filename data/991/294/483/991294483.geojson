@@ -1,0 +1,78 @@
+{
+  "id": 991294483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8944343925,41.6421699524,-0.8944343925,41.6421699524",
+    "geom:latitude":41.64217,
+    "geom:longitude":-0.894434,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Corona De Aragon, 2",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c9dicos: Medicina General Orientada A La Acupuntura",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 35 93 62",
+    "sg:postcode":"50009",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863341,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891,
+        85863377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uHinkq8okTqWxUcdiVeKE_41.642170_-0.894434@1306269466"
+    },
+    "wof:country":"ES",
+    "wof:created":1472542389,
+    "wof:geomhash":"224b8529bb93b69bee4f2dfd676ef23f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863341,
+            "region_id":85682891,
+            "venue_id":991294483
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863377,
+            "region_id":85682891,
+            "venue_id":991294483
+        }
+    ],
+    "wof:id":991294483,
+    "wof:lastmodified":1472542389,
+    "wof:name":"Castillo Vicente Jose",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8944343925,
+    41.6421699524,
+    -0.8944343925,
+    41.6421699524
+],
+  "geometry": {"coordinates":[-0.8944343925,41.6421699524],"type":"Point"}
+}

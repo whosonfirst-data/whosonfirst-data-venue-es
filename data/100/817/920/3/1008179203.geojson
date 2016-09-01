@@ -1,0 +1,59 @@
+{
+  "id": 1008179203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.481359005,38.3603897095,-0.481359005,38.3603897095",
+    "geom:latitude":38.36039,
+    "geom:longitude":-0.481359,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Monforte Del Cid, 28",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Iglesia Cat\u00d3lica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 24 01 27",
+    "sg:postcode":"03012",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864065,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JyjZWuWR37g5HH23q6Axp_38.360390_-0.481359@1306269619"
+    },
+    "wof:country":"ES",
+    "wof:created":1472605118,
+    "wof:geomhash":"dbe16c3cd49c494296c5e71058b2a99c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864065,
+            "region_id":85682625,
+            "venue_id":1008179203
+        }
+    ],
+    "wof:id":1008179203,
+    "wof:lastmodified":1472605118,
+    "wof:name":"Parroquia San Jose De Carolinas",
+    "wof:parent_id":85864065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.481359005,
+    38.3603897095,
+    -0.481359005,
+    38.3603897095
+],
+  "geometry": {"coordinates":[-0.481359005,38.3603897095],"type":"Point"}
+}

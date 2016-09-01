@@ -1,0 +1,82 @@
+{
+  "id": 990997133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6941151619,40.4551086426,-3.6941151619,40.4551086426",
+    "geom:latitude":40.455109,
+    "geom:longitude":-3.694115,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pedro Teixeira, 8",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 56 29 10",
+    "sg:postcode":"28020",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "mercado",
+        "de",
+        "estudios"
+    ],
+    "sg:website":"www.area-investigacion.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863621,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GaBBmWQzCnMiVS4vSG4fg_40.455109_-3.694115@1306269427"
+    },
+    "wof:country":"ES",
+    "wof:created":1472518870,
+    "wof:geomhash":"0a43d238d2f15052e789bc68420e0062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863621,
+            "region_id":85682783,
+            "venue_id":990997133
+        }
+    ],
+    "wof:id":990997133,
+    "wof:lastmodified":1472518870,
+    "wof:name":"Area Investigacion S.a.",
+    "wof:parent_id":85863621,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mercado",
+        "de",
+        "estudios"
+    ]
+},
+  "bbox": [
+    -3.6941151619,
+    40.4551086426,
+    -3.6941151619,
+    40.4551086426
+],
+  "geometry": {"coordinates":[-3.6941151619,40.4551086426],"type":"Point"}
+}

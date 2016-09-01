@@ -1,0 +1,59 @@
+{
+  "id": 1008306241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8268148899,40.3469467163,-3.8268148899,40.3469467163",
+    "geom:latitude":40.346947,
+    "geom:longitude":-3.826815,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Soria, 4",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cl\u00cdnicas Dentales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 44 13 81",
+    "sg:postcode":"28921",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yAzrcnvBhL8bBIZeV8nw5_40.346947_-3.826815@1306269636"
+    },
+    "wof:country":"ES",
+    "wof:created":1472621639,
+    "wof:geomhash":"f047872dcb26ffefa8cdbf9ccd37be10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008306241
+        }
+    ],
+    "wof:id":1008306241,
+    "wof:lastmodified":1472621639,
+    "wof:name":"Quinteros Londo\u00d1o Javier",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8268148899,
+    40.3469467163,
+    -3.8268148899,
+    40.3469467163
+],
+  "geometry": {"coordinates":[-3.8268148899,40.3469467163],"type":"Point"}
+}

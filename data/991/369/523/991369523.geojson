@@ -1,0 +1,74 @@
+{
+  "id": 991369523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6643218994,39.5864639282,2.6643218994,39.5864639282",
+    "geom:latitude":39.586464,
+    "geom:longitude":2.664322,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Tomas L Victoria, S/n",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros De Educaci\u00d3n Especial",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 29 27 39",
+    "sg:postcode":"07004",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864089,
+        102191581,
+        404330817,
+        85633129,
+        404227367,
+        101748237,
+        85682647,
+        85864091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22M3aDvZV1OfhhIHk0vAqo_39.586464_2.664322@1306269476"
+    },
+    "wof:country":"ES",
+    "wof:created":1472546648,
+    "wof:geomhash":"fbb0121f12ab25613a64624622b9dd11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864089,
+            "region_id":85682647,
+            "venue_id":991369523
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":991369523
+        }
+    ],
+    "wof:id":991369523,
+    "wof:lastmodified":1472546648,
+    "wof:name":"Colegio Publico Son Oliva",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6643218994,
+    39.5864639282,
+    2.6643218994,
+    39.5864639282
+],
+  "geometry": {"coordinates":[2.6643218994,39.5864639282],"type":"Point"}
+}

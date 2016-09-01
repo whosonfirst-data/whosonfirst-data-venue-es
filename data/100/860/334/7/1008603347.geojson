@@ -1,0 +1,60 @@
+{
+  "id": 1008603347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2483129501,41.4533348083,2.2483129501,41.4533348083",
+    "geom:latitude":41.453335,
+    "geom:longitude":2.248313,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carr Laietania, 13",
+    "sg:city":"Badalona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Int\u00c9rpretes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 64 33 06",
+    "sg:postcode":"08911",
+    "sg:province":"Barcelona",
+    "sg:website":"www.teclat.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799485,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4f3LruKHzG8eDNSKJQjZw9_41.453335_2.248313@1306269676"
+    },
+    "wof:country":"ES",
+    "wof:created":1472634401,
+    "wof:geomhash":"7a5b370ce2c673860b898ce08f3d85ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799485,
+            "region_id":85682663,
+            "venue_id":1008603347
+        }
+    ],
+    "wof:id":1008603347,
+    "wof:lastmodified":1472634401,
+    "wof:name":"Teclat S.l.",
+    "wof:parent_id":85799485,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2483129501,
+    41.4533348083,
+    2.2483129501,
+    41.4533348083
+],
+  "geometry": {"coordinates":[2.2483129501,41.4533348083],"type":"Point"}
+}

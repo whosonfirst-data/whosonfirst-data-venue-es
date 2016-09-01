@@ -1,0 +1,59 @@
+{
+  "id": 1008139831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6249930859,40.5450134277,-3.6249930859,40.5450134277",
+    "geom:latitude":40.545013,
+    "geom:longitude":-3.624993,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Prensa (la), 31",
+    "sg:city":"San Sebastian De Los Reyes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Escuela De Arte Dram\u00c1tico",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 52 20 50",
+    "sg:postcode":"28700",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ha3AubfP7Iir3HXHDhpts_40.545013_-3.624993@1306269613"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601372,
+    "wof:geomhash":"523b96528a900100fe90a454fdb00b9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1008139831
+        }
+    ],
+    "wof:id":1008139831,
+    "wof:lastmodified":1472601372,
+    "wof:name":"Ortiz Rubio Valentin",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6249930859,
+    40.5450134277,
+    -3.6249930859,
+    40.5450134277
+],
+  "geometry": {"coordinates":[-3.6249930859,40.5450134277],"type":"Point"}
+}

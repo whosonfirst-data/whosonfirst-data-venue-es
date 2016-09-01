@@ -1,0 +1,80 @@
+{
+  "id": 991459625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4980680048,38.3650550842,-0.4980680048,38.3650550842",
+    "geom:latitude":38.365055,
+    "geom:longitude":-0.498068,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Olleria (l'), 1",
+    "sg:city":"Alacant",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 17 52 77",
+    "sg:postcode":"03009",
+    "sg:province":"Alicante",
+    "sg:tags":[
+        "organismos",
+        "control"
+    ],
+    "sg:website":"www.cualiacisa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864083,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rS81HYKMtNbr1SAp8gkVE_38.365055_-0.498068@1306269488"
+    },
+    "wof:country":"ES",
+    "wof:created":1472552227,
+    "wof:geomhash":"86be16bc85e1a1abf67379566f267ae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864083,
+            "region_id":85682625,
+            "venue_id":991459625
+        }
+    ],
+    "wof:id":991459625,
+    "wof:lastmodified":1472552227,
+    "wof:name":"Cualicontrol-aci S.a.",
+    "wof:parent_id":85864083,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organismos",
+        "control"
+    ]
+},
+  "bbox": [
+    -0.4980680048,
+    38.3650550842,
+    -0.4980680048,
+    38.3650550842
+],
+  "geometry": {"coordinates":[-0.4980680048,38.3650550842],"type":"Point"}
+}

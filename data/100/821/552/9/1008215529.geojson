@@ -1,0 +1,67 @@
+{
+  "id": 1008215529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5924828053,37.1725959778,-3.5924828053,37.1725959778",
+    "geom:latitude":37.172596,
+    "geom:longitude":-3.592483,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Molinos, 32",
+    "sg:city":"Granada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 22 46 33",
+    "sg:postcode":"18009",
+    "sg:province":"Granada",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863845,
+        102191581,
+        404335211,
+        85633129,
+        404227361,
+        101748197,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69jiEbgxLvtA2ssY9oIa2E_37.172596_-3.592483@1306269624"
+    },
+    "wof:country":"ES",
+    "wof:created":1472613078,
+    "wof:geomhash":"2a7c3c96a914d43cbb2b6e37c0905495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404335211,
+            "locality_id":101748197,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863845,
+            "region_id":85682731,
+            "venue_id":1008215529
+        }
+    ],
+    "wof:id":1008215529,
+    "wof:lastmodified":1472613078,
+    "wof:name":"Perez Jimenez Maria Dolores",
+    "wof:parent_id":85863845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5924828053,
+    37.1725959778,
+    -3.5924828053,
+    37.1725959778
+],
+  "geometry": {"coordinates":[-3.5924828053,37.1725959778],"type":"Point"}
+}

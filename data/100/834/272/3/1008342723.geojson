@@ -1,0 +1,59 @@
+{
+  "id": 1008342723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6005890369,37.1607551575,-3.6005890369,37.1607551575",
+    "geom:latitude":37.160755,
+    "geom:longitude":-3.600589,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Barcelona (de), 19",
+    "sg:city":"Granada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Comercio De Piezas De Recambio Y De Accesorios De Veh\u00cdculos, Veh\u00cdculos Industriales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 13 06 62",
+    "sg:postcode":"18006",
+    "sg:province":"Granada",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863847,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zJlXNq17zvB6uPmXKl11Q_37.160755_-3.600589@1306269641"
+    },
+    "wof:country":"ES",
+    "wof:created":1472623181,
+    "wof:geomhash":"365097a9c18fa1f162494441af902d62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863847,
+            "region_id":85682731,
+            "venue_id":1008342723
+        }
+    ],
+    "wof:id":1008342723,
+    "wof:lastmodified":1472623181,
+    "wof:name":"Repuestos Marin S.l.",
+    "wof:parent_id":85863847,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6005890369,
+    37.1607551575,
+    -3.6005890369,
+    37.1607551575
+],
+  "geometry": {"coordinates":[-3.6005890369,37.1607551575],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1008635261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8074638844,43.462688446,-3.8074638844,43.462688446",
+    "geom:latitude":43.462688,
+    "geom:longitude":-3.807464,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Santa Clara, 5",
+    "sg:city":"Santander",
+    "sg:classifiers":[],
+    "sg:orig_category":"Molduras, Junquillos, Listones Y Molduras Perforadas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 22 48 86",
+    "sg:postcode":"39001",
+    "sg:province":"Cantabria",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799303,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32PYw3dOJIyTISKE2Om3wn_43.462688_-3.807464@1306269680"
+    },
+    "wof:country":"ES",
+    "wof:created":1472635776,
+    "wof:geomhash":"893e13e008544f530bab77200ce2fc1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799303,
+            "region_id":85682833,
+            "venue_id":1008635261
+        }
+    ],
+    "wof:id":1008635261,
+    "wof:lastmodified":1472635776,
+    "wof:name":"Torre Gonzalez Leopoldo",
+    "wof:parent_id":85799303,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8074638844,
+    43.462688446,
+    -3.8074638844,
+    43.462688446
+],
+  "geometry": {"coordinates":[-3.8074638844,43.462688446],"type":"Point"}
+}

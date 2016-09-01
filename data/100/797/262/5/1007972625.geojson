@@ -1,0 +1,67 @@
+{
+  "id": 1007972625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6954369545,40.4080581665,-3.6954369545,40.4080581665",
+    "geom:latitude":40.408058,
+    "geom:longitude":-3.695437,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Hospital, 8",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Suministros Para Hoteles",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 28 74 22",
+    "sg:postcode":"28012",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863793,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uvhJMb2pVyo4wKQeIxm9i_40.408058_-3.695437@1306269591"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594066,
+    "wof:geomhash":"1903814767622021b3a452e510346b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863793,
+            "region_id":85682783,
+            "venue_id":1007972625
+        }
+    ],
+    "wof:id":1007972625,
+    "wof:lastmodified":1472594066,
+    "wof:name":"Medoc S.a.",
+    "wof:parent_id":85863793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6954369545,
+    40.4080581665,
+    -3.6954369545,
+    40.4080581665
+],
+  "geometry": {"coordinates":[-3.6954369545,40.4080581665],"type":"Point"}
+}

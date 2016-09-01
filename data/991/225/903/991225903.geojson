@@ -1,0 +1,77 @@
+{
+  "id": 991225903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6591880322,39.5676574707,2.6591880322,39.5676574707",
+    "geom:latitude":39.567657,
+    "geom:longitude":2.659188,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Miquel Santandreu, 21",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electricidad: Instaladores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 77 10 92",
+    "sg:postcode":"07006",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864089,
+        102191581,
+        404330817,
+        85633129,
+        404227367,
+        101748237,
+        85682647,
+        85864115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MAUeIldfjjNkqAEbORF22_39.567657_2.659188@1306269457"
+    },
+    "wof:country":"ES",
+    "wof:created":1472538807,
+    "wof:geomhash":"1000995261c88f35b96ce685b3bfb7b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864089,
+            "region_id":85682647,
+            "venue_id":991225903
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748237,
+            "neighbourhood_id":85864115,
+            "region_id":-1,
+            "venue_id":991225903
+        }
+    ],
+    "wof:id":991225903,
+    "wof:lastmodified":1472538807,
+    "wof:name":"Calbet Salom Sebastian",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6591880322,
+    39.5676574707,
+    2.6591880322,
+    39.5676574707
+],
+  "geometry": {"coordinates":[2.6591880322,39.5676574707],"type":"Point"}
+}

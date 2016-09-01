@@ -1,0 +1,80 @@
+{
+  "id": 1024496715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.842577,52.385377,4.842577,52.385377",
+    "geom:latitude":52.385377,
+    "geom:longitude":4.842577,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pinar, 5",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"28006",
+    "sg:tags":[
+        "customer-appointment-management",
+        "mobile-workforce-management",
+        "saas",
+        "enterprise-software"
+    ],
+    "sg:website":"http://toatech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85798399,
+        102191581,
+        404474029,
+        85633337,
+        101751893,
+        85687053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TlZN63YLBDRYHEOYbQnC4_52.385377_4.842577@1308163238"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641479,
+    "wof:geomhash":"968b9c96b78912b11c6a12d140df7744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474029,
+            "locality_id":101751893,
+            "neighbourhood_id":85798399,
+            "region_id":85687053,
+            "venue_id":1024496715
+        }
+    ],
+    "wof:id":1024496715,
+    "wof:lastmodified":1472641479,
+    "wof:name":"TOA Technologies",
+    "wof:parent_id":85798399,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "customer-appointment-management",
+        "mobile-workforce-management",
+        "saas",
+        "enterprise-software"
+    ]
+},
+  "bbox": [
+    4.842577,
+    52.385377,
+    4.842577,
+    52.385377
+],
+  "geometry": {"coordinates":[4.842577,52.385377],"type":"Point"}
+}

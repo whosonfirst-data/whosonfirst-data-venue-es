@@ -1,0 +1,78 @@
+{
+  "id": 1008199401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.153703928,41.3808746338,2.153703928,41.3808746338",
+    "geom:latitude":41.380875,
+    "geom:longitude":2.153704,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Calabria, 122",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Peluquer\u00cdas, Peluquer\u00cda Mixta",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 23 94 31",
+    "sg:postcode":"08015",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864027,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aBXeh3fh4ZfPEWL2kB2vv_41.380875_2.153704@1306269622"
+    },
+    "wof:country":"ES",
+    "wof:created":1472609416,
+    "wof:geomhash":"4e2b0adc40e81336e12c15c369df1b33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864027,
+            "region_id":85682663,
+            "venue_id":1008199401
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864021,
+            "region_id":85682663,
+            "venue_id":1008199401
+        }
+    ],
+    "wof:id":1008199401,
+    "wof:lastmodified":1472609416,
+    "wof:name":"Pel Pels S.c.p.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.153703928,
+    41.3808746338,
+    2.153703928,
+    41.3808746338
+],
+  "geometry": {"coordinates":[2.153703928,41.3808746338],"type":"Point"}
+}

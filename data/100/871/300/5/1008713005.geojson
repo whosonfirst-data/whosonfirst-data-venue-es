@@ -1,0 +1,68 @@
+{
+  "id": 1008713005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8239729404,43.460231781,-3.8239729404,43.460231781",
+    "geom:latitude":43.460232,
+    "geom:longitude":-3.823973,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Floranes, 50",
+    "sg:city":"Santander",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 23 39 00",
+    "sg:postcode":"39010",
+    "sg:province":"Cantabria",
+    "sg:website":"www.viajeseroski.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799521,
+        102191581,
+        404342209,
+        85633129,
+        404227371,
+        101748391,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aIXuDehsO1YmI99FZxm1P_43.460232_-3.823973@1306269690"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639128,
+    "wof:geomhash":"31c19b0c548c00f785d310aca11871e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342209,
+            "locality_id":101748391,
+            "macroregion_id":404227371,
+            "neighbourhood_id":85799521,
+            "region_id":85682833,
+            "venue_id":1008713005
+        }
+    ],
+    "wof:id":1008713005,
+    "wof:lastmodified":1472639128,
+    "wof:name":"Viajes Eroski S.a.",
+    "wof:parent_id":85799521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8239729404,
+    43.460231781,
+    -3.8239729404,
+    43.460231781
+],
+  "geometry": {"coordinates":[-3.8239729404,43.460231781],"type":"Point"}
+}

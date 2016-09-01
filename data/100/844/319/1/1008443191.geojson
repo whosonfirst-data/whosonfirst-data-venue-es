@@ -1,0 +1,77 @@
+{
+  "id": 1008443191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6601529121,39.5680198669,2.6601529121,39.5680198669",
+    "geom:latitude":39.56802,
+    "geom:longitude":2.660153,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Joan Alcover, 37",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Peluqueros: De Se\u00d1oras",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 46 99 63",
+    "sg:postcode":"07006",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101748237,
+        85864115,
+        85864089,
+        102191581,
+        404330817,
+        404227367,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00zS9OBgiT02mkC1c3pQmh_39.568020_2.660153@1306269654"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627686,
+    "wof:geomhash":"6db4723cff12708f04646289c289e39a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748237,
+            "neighbourhood_id":85864115,
+            "region_id":-1,
+            "venue_id":1008443191
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864089,
+            "region_id":85682647,
+            "venue_id":1008443191
+        }
+    ],
+    "wof:id":1008443191,
+    "wof:lastmodified":1472627686,
+    "wof:name":"Salvan Rodriguez Virginia",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6601529121,
+    39.5680198669,
+    2.6601529121,
+    39.5680198669
+],
+  "geometry": {"coordinates":[2.6601529121,39.5680198669],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1008667761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.4096231461,36.7201347351,-4.4096231461,36.7201347351",
+    "geom:latitude":36.720135,
+    "geom:longitude":-4.409623,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Puerto, 2",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cajas De Ahorro",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 60 40 03",
+    "sg:postcode":"29016",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101748185,
+        85863549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fbwqNvogSztzRz0bW8o9I_36.720135_-4.409623@1306269684"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637124,
+    "wof:geomhash":"6d7f0e718707be02a5b2eaaec197fcf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748185,
+            "neighbourhood_id":85863549,
+            "region_id":-1,
+            "venue_id":1008667761
+        }
+    ],
+    "wof:id":1008667761,
+    "wof:lastmodified":1472637124,
+    "wof:name":"Unicaja",
+    "wof:parent_id":85863549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4096231461,
+    36.7201347351,
+    -4.4096231461,
+    36.7201347351
+],
+  "geometry": {"coordinates":[-4.4096231461,36.7201347351],"type":"Point"}
+}

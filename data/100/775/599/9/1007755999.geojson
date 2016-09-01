@@ -1,0 +1,78 @@
+{
+  "id": 1007755999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.953414917,43.2733688354,-2.953414917,43.2733688354",
+    "geom:latitude":43.273369,
+    "geom:longitude":-2.953415,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ibarrekolanda, 15",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cursos Particulares, Asistencia Escolar",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 76 24 26",
+    "sg:postcode":"48014",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863943,
+        102191581,
+        404345949,
+        85633129,
+        404227393,
+        101748385,
+        85682879,
+        85863941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tR1E9KNOzQQVYPxAjSWOo_43.273369_-2.953415@1306269564"
+    },
+    "wof:country":"ES",
+    "wof:created":1472584028,
+    "wof:geomhash":"c94fab521f15d68195cd8a38c2737a17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345949,
+            "locality_id":101748385,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863943,
+            "region_id":85682879,
+            "venue_id":1007755999
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345949,
+            "locality_id":101748385,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863941,
+            "region_id":85682879,
+            "venue_id":1007755999
+        }
+    ],
+    "wof:id":1007755999,
+    "wof:lastmodified":1472584028,
+    "wof:name":"Juarez Riesgo I\u00f1aki",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.953414917,
+    43.2733688354,
+    -2.953414917,
+    43.2733688354
+],
+  "geometry": {"coordinates":[-2.953414917,43.2733688354],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 991711103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1564390659,41.3992767334,2.1564390659,41.3992767334",
+    "geom:latitude":41.399277,
+    "geom:longitude":2.156439,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Goya, 1",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Empresarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 17 53 92",
+    "sg:postcode":"08012",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864017,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85799393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AsC7YhW9ncAVweWdBgchc_41.399277_2.156439@1306269522"
+    },
+    "wof:country":"ES",
+    "wof:created":1472565999,
+    "wof:geomhash":"d51ad7cecd87dc9bac21d5dbcdfbc2be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864017,
+            "region_id":85682663,
+            "venue_id":991711103
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799393,
+            "region_id":85682663,
+            "venue_id":991711103
+        }
+    ],
+    "wof:id":991711103,
+    "wof:lastmodified":1472565999,
+    "wof:name":"Fundacio Viure I Conviure",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1564390659,
+    41.3992767334,
+    2.1564390659,
+    41.3992767334
+],
+  "geometry": {"coordinates":[2.1564390659,41.3992767334],"type":"Point"}
+}

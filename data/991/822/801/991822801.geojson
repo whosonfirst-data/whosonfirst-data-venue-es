@@ -1,0 +1,71 @@
+{
+  "id": 991822801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.8885059357,43.2361221313,-2.8885059357,43.2361221313",
+    "geom:latitude":43.236122,
+    "geom:longitude":-2.888506,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Pedro Lopez Kortazar Plaza, 4",
+    "sg:city":"Arizgoiti",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 40 78 13",
+    "sg:postcode":"48970",
+    "sg:province":"Vizcaya",
+    "sg:tags":[
+        "organismos",
+        "control"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799203,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4m2fiWyvmd1QI2uScV6JGm_43.236122_-2.888506@1306269537"
+    },
+    "wof:country":"ES",
+    "wof:created":1472573197,
+    "wof:geomhash":"94a76a73641fe60104eaf97083b68781",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799203,
+            "region_id":85682879,
+            "venue_id":991822801
+        }
+    ],
+    "wof:id":991822801,
+    "wof:lastmodified":1472573197,
+    "wof:name":"Gonzalez Echave Maria Arantzazu",
+    "wof:parent_id":85799203,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organismos",
+        "control"
+    ]
+},
+  "bbox": [
+    -2.8885059357,
+    43.2361221313,
+    -2.8885059357,
+    43.2361221313
+],
+  "geometry": {"coordinates":[-2.8885059357,43.2361221313],"type":"Point"}
+}

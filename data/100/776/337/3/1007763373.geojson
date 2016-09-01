@@ -1,0 +1,67 @@
+{
+  "id": 1007763373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7009789944,40.4483833313,-3.7009789944,40.4483833313",
+    "geom:latitude":40.448383,
+    "geom:longitude":-3.700979,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Hernani, 27",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Estancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 34 57 54",
+    "sg:postcode":"28020",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799245,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DxnE1VujgWFMksWgEvCOC_40.448383_-3.700979@1306269565"
+    },
+    "wof:country":"ES",
+    "wof:created":1472584413,
+    "wof:geomhash":"018e52e9b7f8d26114ce6fb2b7799836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799245,
+            "region_id":85682783,
+            "venue_id":1007763373
+        }
+    ],
+    "wof:id":1007763373,
+    "wof:lastmodified":1472584413,
+    "wof:name":"Jurado Torrico Trinidad",
+    "wof:parent_id":85799245,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7009789944,
+    40.4483833313,
+    -3.7009789944,
+    40.4483833313
+],
+  "geometry": {"coordinates":[-3.7009789944,40.4483833313],"type":"Point"}
+}

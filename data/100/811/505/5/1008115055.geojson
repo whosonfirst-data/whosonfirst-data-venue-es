@@ -1,0 +1,59 @@
+{
+  "id": 1008115055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.3630247116,36.7211532593,-4.3630247116,36.7211532593",
+    "geom:latitude":36.721153,
+    "geom:longitude":-4.363025,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Arquitecto Eduardo Esteve, 1",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 20 37 68",
+    "sg:postcode":"29017",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863521,
+        85682787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CiKTlLXjyIeTVkMPh3xAF_36.721153_-4.363025@1306269610"
+    },
+    "wof:country":"ES",
+    "wof:created":1472600165,
+    "wof:geomhash":"e8a2e4247a131e2cdb330a9d9964e145",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863521,
+            "region_id":85682787,
+            "venue_id":1008115055
+        }
+    ],
+    "wof:id":1008115055,
+    "wof:lastmodified":1472600165,
+    "wof:name":"Ocio Y Vacaciones S.a.",
+    "wof:parent_id":85863521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.3630247116,
+    36.7211532593,
+    -4.3630247116,
+    36.7211532593
+],
+  "geometry": {"coordinates":[-4.3630247116,36.7211532593],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1008562963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7995812893,43.4631652832,-3.7995812893,43.4631652832",
+    "geom:latitude":43.463165,
+    "geom:longitude":-3.799581,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Lope De Vega, 6",
+    "sg:city":"Santander",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 31 07 11",
+    "sg:postcode":"39003",
+    "sg:province":"Cantabria",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799303,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1S2QWLVSjl95giEzZ2wkUr_43.463165_-3.799581@1306269670"
+    },
+    "wof:country":"ES",
+    "wof:created":1472632680,
+    "wof:geomhash":"679eb1b74ceb8fe58f66a05a7da68e39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799303,
+            "region_id":85682833,
+            "venue_id":1008562963
+        }
+    ],
+    "wof:id":1008562963,
+    "wof:lastmodified":1472632680,
+    "wof:name":"Suarez De Puga Fontes Enrique",
+    "wof:parent_id":85799303,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7995812893,
+    43.4631652832,
+    -3.7995812893,
+    43.4631652832
+],
+  "geometry": {"coordinates":[-3.7995812893,43.4631652832],"type":"Point"}
+}

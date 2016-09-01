@@ -1,0 +1,79 @@
+{
+  "id": 1008575197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.030228138,37.3880958557,-6.030228138,37.3880958557",
+    "geom:latitude":37.388096,
+    "geom:longitude":-6.030228,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Cordel De Tomares, 2",
+    "sg:city":"Camas",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 39 18 41",
+    "sg:postcode":"41900",
+    "sg:province":"Sevilla",
+    "sg:tags":[
+        "organismos",
+        "control"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864123,
+        102191581,
+        404342807,
+        85633129,
+        404227361,
+        101757457,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0M4PDf10NI7Mt5u4YDT7Cs_37.388096_-6.030228@1306269672"
+    },
+    "wof:country":"ES",
+    "wof:created":1472633188,
+    "wof:geomhash":"d7ff275f9dfc2491a47588c2efeebfad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342807,
+            "locality_id":101757457,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864123,
+            "region_id":85682841,
+            "venue_id":1008575197
+        }
+    ],
+    "wof:id":1008575197,
+    "wof:lastmodified":1472633188,
+    "wof:name":"Surcayer S.a.",
+    "wof:parent_id":85864123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organismos",
+        "control"
+    ]
+},
+  "bbox": [
+    -6.030228138,
+    37.3880958557,
+    -6.030228138,
+    37.3880958557
+],
+  "geometry": {"coordinates":[-6.030228138,37.3880958557],"type":"Point"}
+}

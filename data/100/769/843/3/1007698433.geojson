@@ -1,0 +1,59 @@
+{
+  "id": 1007698433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6335580349,39.5841445923,2.6335580349,39.5841445923",
+    "geom:latitude":39.584145,
+    "geom:longitude":2.633558,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Salvador Dali, 3",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ense\u00d1anza Secundaria: Colegios Y Escuelas Privadas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 45 77 10",
+    "sg:postcode":"07011",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864101,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HmqCO2IAa0SsdamIi4tQx_39.584145_2.633558@1306269556"
+    },
+    "wof:country":"ES",
+    "wof:created":1472580881,
+    "wof:geomhash":"320b1b781ff50dd88b70928eba399c3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864101,
+            "region_id":85682647,
+            "venue_id":1007698433
+        }
+    ],
+    "wof:id":1007698433,
+    "wof:lastmodified":1472580881,
+    "wof:name":"Instituto De Ense\u00f1anza Secundaria Emili Darder",
+    "wof:parent_id":85864101,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6335580349,
+    39.5841445923,
+    2.6335580349,
+    39.5841445923
+],
+  "geometry": {"coordinates":[2.6335580349,39.5841445923],"type":"Point"}
+}

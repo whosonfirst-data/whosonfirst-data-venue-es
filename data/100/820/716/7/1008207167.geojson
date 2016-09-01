@@ -1,0 +1,67 @@
+{
+  "id": 1008207167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1861190796,41.4059143066,2.1861190796,41.4059143066",
+    "geom:latitude":41.405914,
+    "geom:longitude":2.186119,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Independencia, 230",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 32 23 79",
+    "sg:postcode":"08026",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799265,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3x2jfqA67jo8Wm2FOJDBGj_41.405914_2.186119@1306269623"
+    },
+    "wof:country":"ES",
+    "wof:created":1472611161,
+    "wof:geomhash":"5cba62b1200def51e2f4777399beab7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799265,
+            "region_id":85682663,
+            "venue_id":1008207167
+        }
+    ],
+    "wof:id":1008207167,
+    "wof:lastmodified":1472611161,
+    "wof:name":"Perez Alfonso Adonina",
+    "wof:parent_id":85799265,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1861190796,
+    41.4059143066,
+    2.1861190796,
+    41.4059143066
+],
+  "geometry": {"coordinates":[2.1861190796,41.4059143066],"type":"Point"}
+}

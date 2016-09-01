@@ -1,0 +1,71 @@
+{
+  "id": 991438169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7018148899,40.3080062866,-3.7018148899,40.3080062866",
+    "geom:latitude":40.308006,
+    "geom:longitude":-3.701815,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Carpinteros, 5",
+    "sg:city":"Getafe",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 01 03 69",
+    "sg:postcode":"28906",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "en",
+        "fundiciones"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tNzqmW5tQjMUpmGhEbKJJ_40.308006_-3.701815@1306269485"
+    },
+    "wof:country":"ES",
+    "wof:created":1472550981,
+    "wof:geomhash":"c34e5218260f960328ee0cd01c43b163",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":991438169
+        }
+    ],
+    "wof:id":991438169,
+    "wof:lastmodified":1472550981,
+    "wof:name":"Corrugados Getafe S.l.u",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "en",
+        "fundiciones"
+    ]
+},
+  "bbox": [
+    -3.7018148899,
+    40.3080062866,
+    -3.7018148899,
+    40.3080062866
+],
+  "geometry": {"coordinates":[-3.7018148899,40.3080062866],"type":"Point"}
+}

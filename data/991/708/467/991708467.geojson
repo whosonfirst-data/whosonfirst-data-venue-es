@@ -1,0 +1,67 @@
+{
+  "id": 991708467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.150949955,41.352935791,2.150949955,41.352935791",
+    "geom:latitude":41.352936,
+    "geom:longitude":2.15095,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Motors, S/n",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Empresarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 23 15 14",
+    "sg:postcode":"08038",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799225,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3R7Z3bWamxqbAKBLb78u61_41.352936_2.150950@1306269521"
+    },
+    "wof:country":"ES",
+    "wof:created":1472565877,
+    "wof:geomhash":"d23c5d628667862cbb5ea1bcddd7a5e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799225,
+            "region_id":85682663,
+            "venue_id":991708467
+        }
+    ],
+    "wof:id":991708467,
+    "wof:lastmodified":1472565877,
+    "wof:name":"Fundacion Main",
+    "wof:parent_id":85799225,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.150949955,
+    41.352935791,
+    2.150949955,
+    41.352935791
+],
+  "geometry": {"coordinates":[2.150949955,41.352935791],"type":"Point"}
+}

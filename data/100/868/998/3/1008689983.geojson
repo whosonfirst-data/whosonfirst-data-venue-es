@@ -1,0 +1,60 @@
+{
+  "id": 1008689983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7679975033,40.329662323,-3.7679975033,40.329662323",
+    "geom:latitude":40.329662,
+    "geom:longitude":-3.767998,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Nuncio, 1",
+    "sg:city":"Leganes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Inmobiliaria (agencias)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 93 41 45",
+    "sg:postcode":"28911",
+    "sg:province":"Madrid",
+    "sg:website":"www.cbeurope.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863785,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Lkv5znTzu3L9eTC9mjNOg_40.329662_-3.767998@1306269687"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638078,
+    "wof:geomhash":"6ed68f27575a3a0df176d1fd657a1963",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863785,
+            "region_id":85682783,
+            "venue_id":1008689983
+        }
+    ],
+    "wof:id":1008689983,
+    "wof:lastmodified":1472638078,
+    "wof:name":"Valores Inmobiliarios Reunidos S.l.",
+    "wof:parent_id":85863785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7679975033,
+    40.329662323,
+    -3.7679975033,
+    40.329662323
+],
+  "geometry": {"coordinates":[-3.7679975033,40.329662323],"type":"Point"}
+}

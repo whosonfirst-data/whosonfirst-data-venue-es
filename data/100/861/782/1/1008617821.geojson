@@ -1,0 +1,64 @@
+{
+  "id": 1008617821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6531310081,39.5835762024,2.6531310081,39.5835762024",
+    "geom:latitude":39.583576,
+    "geom:longitude":2.653131,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Capitan Salom, 16",
+    "sg:city":"Palma",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 29 92 94",
+    "sg:postcode":"07004",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864091,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YOQJZb1CVhZ0k6859x1Vo_39.583576_2.653131@1306269678"
+    },
+    "wof:country":"ES",
+    "wof:created":1472635041,
+    "wof:geomhash":"bd748dd258135c1f5a055ba14dce2689",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":1008617821
+        }
+    ],
+    "wof:id":1008617821,
+    "wof:lastmodified":1472635041,
+    "wof:name":"Terrasa Fernandez Gabriel",
+    "wof:parent_id":85864091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6531310081,
+    39.5835762024,
+    2.6531310081,
+    39.5835762024
+],
+  "geometry": {"coordinates":[2.6531310081,39.5835762024],"type":"Point"}
+}

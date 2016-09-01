@@ -1,0 +1,78 @@
+{
+  "id": 1008663589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9246430397,43.2574005127,-2.9246430397,43.2574005127",
+    "geom:latitude":43.257401,
+    "geom:longitude":-2.924643,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Barrenkale, 40",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asociaciones, Organismos Culturales Y Socioeducativos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 15 27 88",
+    "sg:postcode":"48005",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863961,
+        102191581,
+        404345949,
+        85633129,
+        404227393,
+        101748385,
+        85682879,
+        85863957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZLVpzZXPdqCm6yuPPor2A_43.257401_-2.924643@1306269684"
+    },
+    "wof:country":"ES",
+    "wof:created":1472636955,
+    "wof:geomhash":"12aff5265c90bd48efaf7f3bed104864",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345949,
+            "locality_id":101748385,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863961,
+            "region_id":85682879,
+            "venue_id":1008663589
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345949,
+            "locality_id":101748385,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863957,
+            "region_id":85682879,
+            "venue_id":1008663589
+        }
+    ],
+    "wof:id":1008663589,
+    "wof:lastmodified":1472636955,
+    "wof:name":"Txomin Barullo",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9246430397,
+    43.2574005127,
+    -2.9246430397,
+    43.2574005127
+],
+  "geometry": {"coordinates":[-2.9246430397,43.2574005127],"type":"Point"}
+}

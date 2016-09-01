@@ -1,0 +1,60 @@
+{
+  "id": 1008445845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7227320671,40.3116569519,-3.7227320671,40.3116569519",
+    "geom:latitude":40.311657,
+    "geom:longitude":-3.722732,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Espa\u00d1a, 9",
+    "sg:city":"Getafe",
+    "sg:classifiers":[],
+    "sg:orig_category":"Muebles",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 95 54 02",
+    "sg:postcode":"28903",
+    "sg:province":"Madrid",
+    "sg:website":"www.fedeto.es/hdm",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VJl8TAzPwwlGjO6pFgu40_40.311657_-3.722732@1306269655"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627786,
+    "wof:geomhash":"dac1f1daf8738dcfe96fb4479f2c660b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1008445845
+        }
+    ],
+    "wof:id":1008445845,
+    "wof:lastmodified":1472627786,
+    "wof:name":"Sanchez Alonso Candido",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7227320671,
+    40.3116569519,
+    -3.7227320671,
+    40.3116569519
+],
+  "geometry": {"coordinates":[-3.7227320671,40.3116569519],"type":"Point"}
+}

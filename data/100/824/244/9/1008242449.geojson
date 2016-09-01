@@ -1,0 +1,59 @@
+{
+  "id": 1008242449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5497069359,40.5009231567,-3.5497069359,40.5009231567",
+    "geom:latitude":40.500923,
+    "geom:longitude":-3.549707,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Jacinto Benavente (de), 9",
+    "sg:city":"El Cruce",
+    "sg:classifiers":[],
+    "sg:orig_category":"Empresas De Pintura Y Revestimientos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 58 05 68",
+    "sg:postcode":"28860",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863587,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Yyztkt7LxjCIhJALJgy1y_40.500923_-3.549707@1306269627"
+    },
+    "wof:country":"ES",
+    "wof:created":1472614595,
+    "wof:geomhash":"6770044b66488faccec6840e13ed1d00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863587,
+            "region_id":85682783,
+            "venue_id":1008242449
+        }
+    ],
+    "wof:id":1008242449,
+    "wof:lastmodified":1472614595,
+    "wof:name":"Pintados Artesanos S. L.",
+    "wof:parent_id":85863587,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5497069359,
+    40.5009231567,
+    -3.5497069359,
+    40.5009231567
+],
+  "geometry": {"coordinates":[-3.5497069359,40.5009231567],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1007776587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8910040259,41.6475830078,-0.8910040259,41.6475830078",
+    "geom:latitude":41.647583,
+    "geom:longitude":-0.891004,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Hernan Cortes, 34",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 15 85 46",
+    "sg:postcode":"50005",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863341,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24TPkcDGxTNZ2F9NYZYeBU_41.647583_-0.891004@1306269567"
+    },
+    "wof:country":"ES",
+    "wof:created":1472585067,
+    "wof:geomhash":"4834658b41afb4723b20c316107c8eba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863341,
+            "region_id":85682891,
+            "venue_id":1007776587
+        }
+    ],
+    "wof:id":1007776587,
+    "wof:lastmodified":1472585067,
+    "wof:name":"Lacleriga Gimenez Cristina",
+    "wof:parent_id":85863341,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ]
+},
+  "bbox": [
+    -0.8910040259,
+    41.6475830078,
+    -0.8910040259,
+    41.6475830078
+],
+  "geometry": {"coordinates":[-0.8910040259,41.6475830078],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1008507133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1688148975,41.3894958496,2.1688148975,41.3894958496",
+    "geom:latitude":41.389496,
+    "geom:longitude":2.168815,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"G.v. Corts Catalanes, 636",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Doctores En Medicina",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 17 51 44",
+    "sg:postcode":"08007",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799447,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_576pL3mm3ZsjpKSgZIamAF_41.389496_2.168815@1306269663"
+    },
+    "wof:country":"ES",
+    "wof:created":1472630322,
+    "wof:geomhash":"6b03fd4d8719132bb62a6b8c60206d00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799447,
+            "region_id":85682663,
+            "venue_id":1008507133
+        }
+    ],
+    "wof:id":1008507133,
+    "wof:lastmodified":1472630322,
+    "wof:name":"Serrat Monfort Pedro",
+    "wof:parent_id":85799447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1688148975,
+    41.3894958496,
+    2.1688148975,
+    41.3894958496
+],
+  "geometry": {"coordinates":[2.1688148975,41.3894958496],"type":"Point"}
+}

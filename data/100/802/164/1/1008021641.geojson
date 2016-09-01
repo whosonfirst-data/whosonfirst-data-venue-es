@@ -1,0 +1,59 @@
+{
+  "id": 1008021641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6299040318,40.5505599976,-3.6299040318,40.5505599976",
+    "geom:latitude":40.55056,
+    "geom:longitude":-3.629904,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Hermanos Sanz (de Los), 14",
+    "sg:city":"San Sebastian De Los Reyes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Higiene, Belleza: Art\u00cdculos (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 58 66 05",
+    "sg:postcode":"28700",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22XBLjzI2pbCplUnhjCHyl_40.550560_-3.629904@1306269597"
+    },
+    "wof:country":"ES",
+    "wof:created":1472596101,
+    "wof:geomhash":"cf6c208e66030ad289d7891f7ce42217",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1008021641
+        }
+    ],
+    "wof:id":1008021641,
+    "wof:lastmodified":1472596101,
+    "wof:name":"Monasterio Lopez Rafael",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6299040318,
+    40.5505599976,
+    -3.6299040318,
+    40.5505599976
+],
+  "geometry": {"coordinates":[-3.6299040318,40.5505599976],"type":"Point"}
+}

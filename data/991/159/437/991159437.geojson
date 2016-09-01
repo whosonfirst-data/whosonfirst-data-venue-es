@@ -1,0 +1,82 @@
+{
+  "id": 991159437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6844110489,40.4837493896,-3.6844110489,40.4837493896",
+    "geom:latitude":40.483749,
+    "geom:longitude":-3.684411,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pase Castellana, 9",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 00 96 00",
+    "sg:postcode":"28...",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "televisiones",
+        "y",
+        "radio"
+    ],
+    "sg:website":"www.bloomberg.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863563,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25ebw1RHlueKk4DJxHEH8S_40.483749_-3.684411@1306269448"
+    },
+    "wof:country":"ES",
+    "wof:created":1472533114,
+    "wof:geomhash":"e899cdf34484074c3f39ee5fb252cea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863563,
+            "region_id":85682783,
+            "venue_id":991159437
+        }
+    ],
+    "wof:id":991159437,
+    "wof:lastmodified":1472533114,
+    "wof:name":"Bloomberg L.p.",
+    "wof:parent_id":85863563,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "televisiones",
+        "y",
+        "radio"
+    ]
+},
+  "bbox": [
+    -3.6844110489,
+    40.4837493896,
+    -3.6844110489,
+    40.4837493896
+],
+  "geometry": {"coordinates":[-3.6844110489,40.4837493896],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1007962705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1793470383,41.3809127808,2.1793470383,41.3809127808",
+    "geom:latitude":41.380913,
+    "geom:longitude":2.179347,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Ataulf, 15",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Grafistas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 10 15 91",
+    "sg:postcode":"08002",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864033,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51hLUnNIpGD0ai4dPhuSOc_41.380913_2.179347@1306269590"
+    },
+    "wof:country":"ES",
+    "wof:created":1472593661,
+    "wof:geomhash":"1786e596713dbc2dd67bcc3c50d4e63e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864033,
+            "region_id":85682663,
+            "venue_id":1007962705
+        }
+    ],
+    "wof:id":1007962705,
+    "wof:lastmodified":1472593661,
+    "wof:name":"Mayolas Adrove Neus",
+    "wof:parent_id":85864033,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1793470383,
+    41.3809127808,
+    2.1793470383,
+    41.3809127808
+],
+  "geometry": {"coordinates":[2.1793470383,41.3809127808],"type":"Point"}
+}

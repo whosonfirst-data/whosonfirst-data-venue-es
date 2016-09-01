@@ -1,0 +1,59 @@
+{
+  "id": 1008138055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7659435272,40.3283920288,-3.7659435272,40.3283920288",
+    "geom:latitude":40.328392,
+    "geom:longitude":-3.765944,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Antonio Machado, 3",
+    "sg:city":"Leganes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Estilistas Y Estudios De Estilo De Corte Y Confecci\u00d3n",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 93 98 51",
+    "sg:postcode":"28911",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863785,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mjQaYxXJ01j36BCFL2bfm_40.328392_-3.765944@1306269613"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601299,
+    "wof:geomhash":"741c476d5b029f6bc3eea8e74422f116",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863785,
+            "region_id":85682783,
+            "venue_id":1008138055
+        }
+    ],
+    "wof:id":1008138055,
+    "wof:lastmodified":1472601299,
+    "wof:name":"Ortiz Campos Carlos",
+    "wof:parent_id":85863785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7659435272,
+    40.3283920288,
+    -3.7659435272,
+    40.3283920288
+],
+  "geometry": {"coordinates":[-3.7659435272,40.3283920288],"type":"Point"}
+}

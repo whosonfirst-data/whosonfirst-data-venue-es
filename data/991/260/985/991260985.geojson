@@ -1,0 +1,61 @@
+{
+  "id": 991260985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5899722576,40.4521980286,-3.5899722576,40.4521980286",
+    "geom:latitude":40.452198,
+    "geom:longitude":-3.589972,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Canoa, 13",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 42 41 22",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        102545773,
+        85863587,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yFPgSlqgoQbbCMfNpjXXx_40.452198_-3.589972@1306269462"
+    },
+    "wof:country":"ES",
+    "wof:created":1472540706,
+    "wof:geomhash":"fb20f4dd75d866ef0d174df20b7e44eb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545773,
+            "country_id":85633129,
+            "neighbourhood_id":85863587,
+            "region_id":85682783,
+            "venue_id":991260985
+        }
+    ],
+    "wof:id":991260985,
+    "wof:lastmodified":1472540706,
+    "wof:name":"Carmen Elvira Garcia Y Esteban Fernandez Araque Cdad",
+    "wof:parent_id":102545773,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5899722576,
+    40.4521980286,
+    -3.5899722576,
+    40.4521980286
+],
+  "geometry": {"coordinates":[-3.5899722576,40.4521980286],"type":"Point"}
+}

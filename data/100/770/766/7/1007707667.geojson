@@ -1,0 +1,59 @@
+{
+  "id": 1007707667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5327539444,40.4208297729,-3.5327539444,40.4208297729",
+    "geom:latitude":40.42083,
+    "geom:longitude":-3.532754,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Federico Garcia Lorca, 5",
+    "sg:city":"San Fernando De Henares",
+    "sg:classifiers":[],
+    "sg:orig_category":"Masajistas Kinesiterapeutas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 71 78 33",
+    "sg:postcode":"28830",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863709,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4J5inOzTOhj4QLAGrPomGr_40.420830_-3.532754@1306269558"
+    },
+    "wof:country":"ES",
+    "wof:created":1472581345,
+    "wof:geomhash":"4320080c3cd0aa446b4bf0bb75ee09c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863709,
+            "region_id":85682783,
+            "venue_id":1007707667
+        }
+    ],
+    "wof:id":1007707667,
+    "wof:lastmodified":1472581345,
+    "wof:name":"Inyeauto C.b.",
+    "wof:parent_id":85863709,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5327539444,
+    40.4208297729,
+    -3.5327539444,
+    40.4208297729
+],
+  "geometry": {"coordinates":[-3.5327539444,40.4208297729],"type":"Point"}
+}

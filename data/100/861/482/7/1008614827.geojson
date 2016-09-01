@@ -1,0 +1,81 @@
+{
+  "id": 1008614827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7381250858,40.3887138367,-3.7381250858,40.3887138367",
+    "geom:latitude":40.388714,
+    "geom:longitude":-3.738125,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Gaviota, 54",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 61 15 15",
+    "sg:postcode":"28025",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863765,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n4w5fJeVnhsBcjPvvl21A_40.388714_-3.738125@1306269677"
+    },
+    "wof:country":"ES",
+    "wof:created":1472634921,
+    "wof:geomhash":"634039f03c434dd8044cfd844eb8b438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863765,
+            "region_id":85682783,
+            "venue_id":1008614827
+        }
+    ],
+    "wof:id":1008614827,
+    "wof:lastmodified":1472634921,
+    "wof:name":"Templo Del Juego C.b.",
+    "wof:parent_id":85863765,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [
+    -3.7381250858,
+    40.3887138367,
+    -3.7381250858,
+    40.3887138367
+],
+  "geometry": {"coordinates":[-3.7381250858,40.3887138367],"type":"Point"}
+}

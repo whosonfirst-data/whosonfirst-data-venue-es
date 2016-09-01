@@ -1,0 +1,73 @@
+{
+  "id": 1008546847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7323262691,40.3021697998,-3.7323262691,40.3021697998",
+    "geom:latitude":40.30217,
+    "geom:longitude":-3.732326,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Leoncio Rojas, 4",
+    "sg:city":"Getafe",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 82 76 83",
+    "sg:postcode":"28901",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WwrlzaG5EUJsFVn4Olxw9_40.302170_-3.732326@1306269668"
+    },
+    "wof:country":"ES",
+    "wof:created":1472631971,
+    "wof:geomhash":"892722b08c8a9950f6887a0f651a9fba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1008546847
+        }
+    ],
+    "wof:id":1008546847,
+    "wof:lastmodified":1472631971,
+    "wof:name":"Solera Sainz-pardo Agustin",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.7323262691,
+    40.3021697998,
+    -3.7323262691,
+    40.3021697998
+],
+  "geometry": {"coordinates":[-3.7323262691,40.3021697998],"type":"Point"}
+}

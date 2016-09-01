@@ -1,0 +1,59 @@
+{
+  "id": 1008437163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8678240776,40.4549674988,-3.8678240776,40.4549674988",
+    "geom:latitude":40.454967,
+    "geom:longitude":-3.867824,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Azafran, 9",
+    "sg:city":"Majadahonda",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias Y Agentes Comerciales, Representantes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 79 62 62",
+    "sg:postcode":"28220",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863657,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04Zf6hfeRbyrsQur6KoTVf_40.454967_-3.867824@1306269653"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627469,
+    "wof:geomhash":"ddc62f6f540696f741fe48c56b6d8280",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863657,
+            "region_id":85682783,
+            "venue_id":1008437163
+        }
+    ],
+    "wof:id":1008437163,
+    "wof:lastmodified":1472627469,
+    "wof:name":"Salazar Garrrido Juan Carlos",
+    "wof:parent_id":85863657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8678240776,
+    40.4549674988,
+    -3.8678240776,
+    40.4549674988
+],
+  "geometry": {"coordinates":[-3.8678240776,40.4549674988],"type":"Point"}
+}

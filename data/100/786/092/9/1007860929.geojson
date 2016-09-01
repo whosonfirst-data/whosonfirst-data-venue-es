@@ -1,0 +1,59 @@
+{
+  "id": 1007860929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1021149158,41.5605812073,2.1021149158,41.5605812073",
+    "geom:latitude":41.560581,
+    "geom:longitude":2.102115,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Pirineus, S/n",
+    "sg:city":"Sabadell",
+    "sg:classifiers":[],
+    "sg:orig_category":"Frutas, Legumbres Frescas Y Tempranas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 17 54 56",
+    "sg:postcode":"08208",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WFOAUdGQvFl71XPNE5oz4_41.560581_2.102115@1306269578"
+    },
+    "wof:country":"ES",
+    "wof:created":1472589249,
+    "wof:geomhash":"852abb9edbf83df03f35878d54c87af7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1007860929
+        }
+    ],
+    "wof:id":1007860929,
+    "wof:lastmodified":1472589249,
+    "wof:name":"Lupion Serra Jordi",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1021149158,
+    41.5605812073,
+    2.1021149158,
+    41.5605812073
+],
+  "geometry": {"coordinates":[2.1021149158,41.5605812073],"type":"Point"}
+}

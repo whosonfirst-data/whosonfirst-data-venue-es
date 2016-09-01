@@ -1,0 +1,81 @@
+{
+  "id": 1007955293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1735339165,41.4266395569,2.1735339165,41.4266395569",
+    "geom:latitude":41.42664,
+    "geom:longitude":2.173534,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Santa Fe, 3",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 29 87 55",
+    "sg:postcode":"08031",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799399,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47uW2nYju1rwUFtEjX3onK_41.426640_2.173534@1306269589"
+    },
+    "wof:country":"ES",
+    "wof:created":1472593363,
+    "wof:geomhash":"f4f198b6ed89a3ba661e878e664b08e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799399,
+            "region_id":85682663,
+            "venue_id":1007955293
+        }
+    ],
+    "wof:id":1007955293,
+    "wof:lastmodified":1472593363,
+    "wof:name":"Matas Sanchez Juan",
+    "wof:parent_id":85799399,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.1735339165,
+    41.4266395569,
+    2.1735339165,
+    41.4266395569
+],
+  "geometry": {"coordinates":[2.1735339165,41.4266395569],"type":"Point"}
+}

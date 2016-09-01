@@ -1,0 +1,59 @@
+{
+  "id": 1008006697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1004331112,41.5568771362,2.1004331112,41.5568771362",
+    "geom:latitude":41.556877,
+    "geom:longitude":2.100433,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sant Domenec, 22",
+    "sg:city":"Sabadell",
+    "sg:classifiers":[],
+    "sg:orig_category":"Transportes Por Carretera: Lotes Completos, Mercanc\u00cdas Diversas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 16 65 99",
+    "sg:postcode":"08208",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ucnS7R2RSmT4NqFwyUDBS_41.556877_2.100433@1306269595"
+    },
+    "wof:country":"ES",
+    "wof:created":1472595478,
+    "wof:geomhash":"6245a228d639934660e456e8c155504d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008006697
+        }
+    ],
+    "wof:id":1008006697,
+    "wof:lastmodified":1472595478,
+    "wof:name":"Miravete Almela Jesualdo",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1004331112,
+    41.5568771362,
+    2.1004331112,
+    41.5568771362
+],
+  "geometry": {"coordinates":[2.1004331112,41.5568771362],"type":"Point"}
+}

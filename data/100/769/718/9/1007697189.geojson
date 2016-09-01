@@ -1,0 +1,63 @@
+{
+  "id": 1007697189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1960330009,41.3897514343,2.1960330009,41.3897514343",
+    "geom:latitude":41.389751,
+    "geom:longitude":2.196033,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Joan Miro, 15",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros M\u00c9dicos Y Sociales, Dispensarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 21 37 85",
+    "sg:postcode":"08005",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QYxEIn48HG5m4CqHJATdq_41.389751_2.196033@1306269556"
+    },
+    "wof:country":"ES",
+    "wof:created":1472580823,
+    "wof:geomhash":"c88c94b4808870954ed5987039810ee6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":1007697189
+        }
+    ],
+    "wof:id":1007697189,
+    "wof:lastmodified":1472580823,
+    "wof:name":"Institut Mpal.prestacions Assit.med.emp.panem",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1960330009,
+    41.3897514343,
+    2.1960330009,
+    41.3897514343
+],
+  "geometry": {"coordinates":[2.1960330009,41.3897514343],"type":"Point"}
+}

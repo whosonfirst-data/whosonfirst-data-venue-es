@@ -1,0 +1,81 @@
+{
+  "id": 1008046761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6686971188,40.3953056335,-3.6686971188,40.3953056335",
+    "geom:latitude":40.395306,
+    "geom:longitude":-3.668697,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Santa Julia, 4",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 78 80 60",
+    "sg:postcode":"28053",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799491,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48aGxKRxm9ioM44nEPFA1f_40.395306_-3.668697@1306269601"
+    },
+    "wof:country":"ES",
+    "wof:created":1472597197,
+    "wof:geomhash":"48af4d6eed8920df81e8837e4b01a912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799491,
+            "region_id":85682783,
+            "venue_id":1008046761
+        }
+    ],
+    "wof:id":1008046761,
+    "wof:lastmodified":1472597197,
+    "wof:name":"Moreno Rodado Adrian",
+    "wof:parent_id":85799491,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.6686971188,
+    40.3953056335,
+    -3.6686971188,
+    40.3953056335
+],
+  "geometry": {"coordinates":[-3.6686971188,40.3953056335],"type":"Point"}
+}

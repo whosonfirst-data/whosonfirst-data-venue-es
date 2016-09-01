@@ -1,0 +1,81 @@
+{
+  "id": 991130677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6643409729,41.6158065796,2.6643409729,41.6158065796",
+    "geom:latitude":41.615807,
+    "geom:longitude":2.664341,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Amadeu, 51",
+    "sg:city":"Calella",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 69 43 61",
+    "sg:postcode":"08370",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799549,
+        102191581,
+        404331245,
+        85633129,
+        404227379,
+        101828575,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XxBe2WbUQQKlwi0qW5X3Y_41.615807_2.664341@1306269445"
+    },
+    "wof:country":"ES",
+    "wof:created":1472529540,
+    "wof:geomhash":"1fa5e6b73b761ab43315d3403914eede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331245,
+            "locality_id":101828575,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799549,
+            "region_id":85682663,
+            "venue_id":991130677
+        }
+    ],
+    "wof:id":991130677,
+    "wof:lastmodified":1472529540,
+    "wof:name":"Belles Arts I Manualitats Angels S.c.p.",
+    "wof:parent_id":85799549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    2.6643409729,
+    41.6158065796,
+    2.6643409729,
+    41.6158065796
+],
+  "geometry": {"coordinates":[2.6643409729,41.6158065796],"type":"Point"}
+}

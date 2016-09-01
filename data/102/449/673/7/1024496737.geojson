@@ -1,0 +1,72 @@
+{
+  "id": 1024496737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1429029,41.4320885,2.1429029,41.4320885",
+    "geom:latitude":41.432088,
+    "geom:longitude":2.142903,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Puig i Cadafalch 26",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"08172",
+    "sg:tags":[
+        "backup",
+        "fiabee",
+        "file-storage"
+    ],
+    "sg:website":"http://www.fiabee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799471,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pXJkAX76tjhJzrU9r18Ij_41.432088_2.142903@1308163241"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641480,
+    "wof:geomhash":"2247ad3f92b5fe01fcab0bec09c34188",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799471,
+            "region_id":85682663,
+            "venue_id":1024496737
+        }
+    ],
+    "wof:id":1024496737,
+    "wof:lastmodified":1472641480,
+    "wof:name":"Fiabee",
+    "wof:parent_id":85799471,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "backup",
+        "fiabee",
+        "file-storage"
+    ]
+},
+  "bbox": [
+    2.1429029,
+    41.4320885,
+    2.1429029,
+    41.4320885
+],
+  "geometry": {"coordinates":[2.1429029,41.4320885],"type":"Point"}
+}

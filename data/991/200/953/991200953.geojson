@@ -1,0 +1,78 @@
+{
+  "id": 991200953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1612319946,41.4036827087,2.1612319946,41.4036827087",
+    "geom:latitude":41.403683,
+    "geom:longitude":2.161232,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Trav De Gracia, 227",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cajas De Ahorro",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 13 21 51",
+    "sg:postcode":"08012",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863999,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85799393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mq4ZlUhI9t9XNIq2xoTbX_41.403683_2.161232@1306269454"
+    },
+    "wof:country":"ES",
+    "wof:created":1472536576,
+    "wof:geomhash":"b50fb18312caabd8308073cbc456b509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863999,
+            "region_id":85682663,
+            "venue_id":991200953
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799393,
+            "region_id":85682663,
+            "venue_id":991200953
+        }
+    ],
+    "wof:id":991200953,
+    "wof:lastmodified":1472536576,
+    "wof:name":"Caixa D'estalvis De Catalunya",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1612319946,
+    41.4036827087,
+    2.1612319946,
+    41.4036827087
+],
+  "geometry": {"coordinates":[2.1612319946,41.4036827087],"type":"Point"}
+}

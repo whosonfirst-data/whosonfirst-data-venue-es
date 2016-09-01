@@ -1,0 +1,67 @@
+{
+  "id": 1008669655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1865530014,41.406375885,2.1865530014,41.406375885",
+    "geom:latitude":41.406376,
+    "geom:longitude":2.186553,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Meridiana, 91",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sindicatos Y Colegios Profesionales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 32 42 04",
+    "sg:postcode":"08026",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799265,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ziecu3lSaQAGdjJ8rznFC_41.406376_2.186553@1306269684"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637190,
+    "wof:geomhash":"710600bf4627375dbbe8d188593d4d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799265,
+            "region_id":85682663,
+            "venue_id":1008669655
+        }
+    ],
+    "wof:id":1008669655,
+    "wof:lastmodified":1472637190,
+    "wof:name":"Union De Canaricultores De Barcelona",
+    "wof:parent_id":85799265,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1865530014,
+    41.406375885,
+    2.1865530014,
+    41.406375885
+],
+  "geometry": {"coordinates":[2.1865530014,41.406375885],"type":"Point"}
+}

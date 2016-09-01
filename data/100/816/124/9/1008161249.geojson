@@ -1,0 +1,59 @@
+{
+  "id": 1008161249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7280399799,40.3110351562,-3.7280399799,40.3110351562",
+    "geom:latitude":40.311035,
+    "geom:longitude":-3.72804,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Madrid, 96",
+    "sg:city":"Getafe",
+    "sg:classifiers":[],
+    "sg:orig_category":"Caf\u00c9s, Bares, Cervecer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 81 74 62",
+    "sg:postcode":"28902",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zqIeLPjXa1sfaN4Ajnyuv_40.311035_-3.728040@1306269616"
+    },
+    "wof:country":"ES",
+    "wof:created":1472602845,
+    "wof:geomhash":"4b6f34210b595a776e6406def3882669",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1008161249
+        }
+    ],
+    "wof:id":1008161249,
+    "wof:lastmodified":1472602845,
+    "wof:name":"Pando Menendez Rafael",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7280399799,
+    40.3110351562,
+    -3.7280399799,
+    40.3110351562
+],
+  "geometry": {"coordinates":[-3.7280399799,40.3110351562],"type":"Point"}
+}

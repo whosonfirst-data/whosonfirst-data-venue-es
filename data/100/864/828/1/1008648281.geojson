@@ -1,0 +1,59 @@
+{
+  "id": 1008648281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1850140095,41.3926620483,2.1850140095,41.3926620483",
+    "geom:latitude":41.392662,
+    "geom:longitude":2.185014,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Wellington, 27",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Delegados, Agentes De Tr\u00c1nsito, Auxiliares De Transporte Internacional",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 00 88 05",
+    "sg:postcode":"08018",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4couJzz98KK52fU06LIlPv_41.392662_2.185014@1306269682"
+    },
+    "wof:country":"ES",
+    "wof:created":1472636326,
+    "wof:geomhash":"14e184ebe5bee3182c6a8cc907b2b95c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008648281
+        }
+    ],
+    "wof:id":1008648281,
+    "wof:lastmodified":1472636326,
+    "wof:name":"Transportes Carlos Bernal S.a.",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1850140095,
+    41.3926620483,
+    2.1850140095,
+    41.3926620483
+],
+  "geometry": {"coordinates":[2.1850140095,41.3926620483],"type":"Point"}
+}

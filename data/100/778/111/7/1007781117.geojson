@@ -1,0 +1,59 @@
+{
+  "id": 1007781117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6555790901,39.5855255127,2.6555790901,39.5855255127",
+    "geom:latitude":39.585526,
+    "geom:longitude":2.655579,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Angel Guimera, 55",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Iglesia Cat\u00d3lica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 75 41 84",
+    "sg:postcode":"07004",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864091,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01MIRbpSaMfN7aMpG381eC_39.585526_2.655579@1306269567"
+    },
+    "wof:country":"ES",
+    "wof:created":1472585275,
+    "wof:geomhash":"3c0fa994543db246a910742c6658a26e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864091,
+            "region_id":85682647,
+            "venue_id":1007781117
+        }
+    ],
+    "wof:id":1007781117,
+    "wof:lastmodified":1472585275,
+    "wof:name":"La Iglesia De Jesucristo De Los Ultimos Dias De Espa\u00f1a",
+    "wof:parent_id":85864091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6555790901,
+    39.5855255127,
+    2.6555790901,
+    39.5855255127
+],
+  "geometry": {"coordinates":[2.6555790901,39.5855255127],"type":"Point"}
+}

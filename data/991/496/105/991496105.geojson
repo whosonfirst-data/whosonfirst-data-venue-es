@@ -1,0 +1,73 @@
+{
+  "id": 991496105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8736240864,40.469165802,-3.8736240864,40.469165802",
+    "geom:latitude":40.469166,
+    "geom:longitude":-3.873624,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Santa Isabel, 3",
+    "sg:city":"Majadahonda",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 34 06 63",
+    "sg:postcode":"28220",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863657,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tUeHb6M6PmFHX0EbQNtkN_40.469166_-3.873624@1306269493"
+    },
+    "wof:country":"ES",
+    "wof:created":1472554194,
+    "wof:geomhash":"1f7fad2773cdd39b3ddf24bab111332c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863657,
+            "region_id":85682783,
+            "venue_id":991496105
+        }
+    ],
+    "wof:id":991496105,
+    "wof:lastmodified":1472554194,
+    "wof:name":"Diaz Gonzalez Mariano",
+    "wof:parent_id":85863657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.8736240864,
+    40.469165802,
+    -3.8736240864,
+    40.469165802
+],
+  "geometry": {"coordinates":[-3.8736240864,40.469165802],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 991057597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1793889999,41.4450416565,2.1793889999,41.4450416565",
+    "geom:latitude":41.445042,
+    "geom:longitude":2.179389,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Via Julia, 166",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 50 94 49",
+    "sg:postcode":"08016",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799517,
+        102191581,
+        404331425,
+        85633129,
+        404227379,
+        101748345,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xEIFgev98qq5L2cmAsEmd_41.445042_2.179389@1306269435"
+    },
+    "wof:country":"ES",
+    "wof:created":1472523461,
+    "wof:geomhash":"9a3b38390688cc56c8a4ff3b897b7ff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331425,
+            "locality_id":101748345,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799517,
+            "region_id":85682663,
+            "venue_id":991057597
+        }
+    ],
+    "wof:id":991057597,
+    "wof:lastmodified":1472523461,
+    "wof:name":"Auto-escuelas Batlle S. A.",
+    "wof:parent_id":85799517,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1793889999,
+    41.4450416565,
+    2.1793889999,
+    41.4450416565
+],
+  "geometry": {"coordinates":[2.1793889999,41.4450416565],"type":"Point"}
+}

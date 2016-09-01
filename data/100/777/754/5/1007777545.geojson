@@ -1,0 +1,67 @@
+{
+  "id": 1007777545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1296100616,41.4097595215,2.1296100616,41.4097595215",
+    "geom:latitude":41.40976,
+    "geom:longitude":2.12961,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Mossen Vives, 10",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Restaurantes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 11 61 45",
+    "sg:postcode":"08022",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799611,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZKZmvoPSKJuE6Q1xlraxP_41.409760_2.129610@1306269567"
+    },
+    "wof:country":"ES",
+    "wof:created":1472585111,
+    "wof:geomhash":"40830bcfe55fc4e9b854b3950c5e7795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799611,
+            "region_id":85682663,
+            "venue_id":1007777545
+        }
+    ],
+    "wof:id":1007777545,
+    "wof:lastmodified":1472585111,
+    "wof:name":"La Despensa De Catire S.l",
+    "wof:parent_id":85799611,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1296100616,
+    41.4097595215,
+    2.1296100616,
+    41.4097595215
+],
+  "geometry": {"coordinates":[2.1296100616,41.4097595215],"type":"Point"}
+}

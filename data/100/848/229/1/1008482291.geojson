@@ -1,0 +1,63 @@
+{
+  "id": 1008482291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.5956060886,39.5628967285,2.5956060886,39.5628967285",
+    "geom:latitude":39.562897,
+    "geom:longitude":2.595606,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Rector Vives, 62",
+    "sg:city":"Genova",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros Empresariales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 40 47 65",
+    "sg:postcode":"07015",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748237,
+        85864109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dumZfogbJS48HzT1ldal2_39.562897_2.595606@1306269659"
+    },
+    "wof:country":"ES",
+    "wof:created":1472629213,
+    "wof:geomhash":"4fdd9c61b5870c2c7a877205ed68d7ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748237,
+            "neighbourhood_id":85864109,
+            "region_id":-1,
+            "venue_id":1008482291
+        }
+    ],
+    "wof:id":1008482291,
+    "wof:lastmodified":1472629213,
+    "wof:name":"Sard Bauza Maria Jose",
+    "wof:parent_id":85864109,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.5956060886,
+    39.5628967285,
+    2.5956060886,
+    39.5628967285
+],
+  "geometry": {"coordinates":[2.5956060886,39.5628967285],"type":"Point"}
+}

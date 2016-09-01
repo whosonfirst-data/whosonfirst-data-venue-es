@@ -1,0 +1,71 @@
+{
+  "id": 990953171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8474597931,41.6222343445,-0.8474597931,41.6222343445",
+    "geom:latitude":41.622234,
+    "geom:longitude":-0.84746,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ctra Castellon, Km. 0006,5",
+    "sg:city":"Cartuja Baja",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 50 09 60",
+    "sg:postcode":"50720",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "en",
+        "fundiciones"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863415,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hN3Wbn3EOeIe4PBZP866Y_41.622234_-0.847460@1306269421"
+    },
+    "wof:country":"ES",
+    "wof:created":1472514967,
+    "wof:geomhash":"ae0634286fa2eba7c02276a2d4790d1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863415,
+            "region_id":85682891,
+            "venue_id":990953171
+        }
+    ],
+    "wof:id":990953171,
+    "wof:lastmodified":1472514967,
+    "wof:name":"Aluminio Y Aleaciones S. A.",
+    "wof:parent_id":85863415,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "en",
+        "fundiciones"
+    ]
+},
+  "bbox": [
+    -0.8474597931,
+    41.6222343445,
+    -0.8474597931,
+    41.6222343445
+],
+  "geometry": {"coordinates":[-0.8474597931,41.6222343445],"type":"Point"}
+}

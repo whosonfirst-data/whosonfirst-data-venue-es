@@ -1,0 +1,77 @@
+{
+  "id": 991180325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1806919575,41.3853721619,2.1806919575,41.3853721619",
+    "geom:latitude":41.385372,
+    "geom:longitude":2.180692,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Princesa, 22",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Panader\u00cdas, Panader\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 19 68 25",
+    "sg:postcode":"08003",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799447,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cTp43oRcrQpiCQ1f7mu1e_41.385372_2.180692@1306269451"
+    },
+    "wof:country":"ES",
+    "wof:created":1472534928,
+    "wof:geomhash":"77ac37ddbd0575a9f4390c11bb3b588e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799447,
+            "region_id":85682663,
+            "venue_id":991180325
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":991180325
+        }
+    ],
+    "wof:id":991180325,
+    "wof:lastmodified":1472534928,
+    "wof:name":"Brunells Societat Cooperativa Catalana Limitada",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1806919575,
+    41.3853721619,
+    2.1806919575,
+    41.3853721619
+],
+  "geometry": {"coordinates":[2.1806919575,41.3853721619],"type":"Point"}
+}

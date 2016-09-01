@@ -1,0 +1,81 @@
+{
+  "id": 1008689433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6676540375,39.5747070312,2.6676540375,39.5747070312",
+    "geom:latitude":39.574707,
+    "geom:longitude":2.667654,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Adria Ferran, 24",
+    "sg:city":"Palma",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 42 00 60",
+    "sg:postcode":"07007",
+    "sg:province":"Islas Baleares",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864089,
+        102191581,
+        404330817,
+        85633129,
+        404227367,
+        101748237,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Xdax6Ye4ZM9gd34ui2DxK_39.574707_2.667654@1306269687"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638047,
+    "wof:geomhash":"82a199e1b7bd9c319f12ef676cab6fa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864089,
+            "region_id":85682647,
+            "venue_id":1008689433
+        }
+    ],
+    "wof:id":1008689433,
+    "wof:lastmodified":1472638047,
+    "wof:name":"Valls Pi\u00f1a Gaspar",
+    "wof:parent_id":85864089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.6676540375,
+    39.5747070312,
+    2.6676540375,
+    39.5747070312
+],
+  "geometry": {"coordinates":[2.6676540375,39.5747070312],"type":"Point"}
+}

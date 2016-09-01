@@ -1,0 +1,60 @@
+{
+  "id": 991707229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6322889328,40.5308456421,-3.6322889328,40.5308456421",
+    "geom:latitude":40.530846,
+    "geom:longitude":-3.632289,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Bruselas (de), 5",
+    "sg:city":"Alcobendas",
+    "sg:classifiers":[],
+    "sg:orig_category":"Empresarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 84 07 61",
+    "sg:postcode":"28108",
+    "sg:province":"Madrid",
+    "sg:website":"www.elcompromiso.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EPcSlT549jXX3AbfpdFGM_40.530846_-3.632289@1306269521"
+    },
+    "wof:country":"ES",
+    "wof:created":1472565812,
+    "wof:geomhash":"3e5c9d2bbbb6ec2c176f865fb3e17ea5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":991707229
+        }
+    ],
+    "wof:id":991707229,
+    "wof:lastmodified":1472565812,
+    "wof:name":"Fundacion El Compromiso",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6322889328,
+    40.5308456421,
+    -3.6322889328,
+    40.5308456421
+],
+  "geometry": {"coordinates":[-3.6322889328,40.5308456421],"type":"Point"}
+}

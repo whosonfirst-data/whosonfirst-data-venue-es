@@ -1,0 +1,75 @@
+{
+  "id": 991252111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6692540646,39.5715293884,2.6692540646,39.5715293884",
+    "geom:latitude":39.571529,
+    "geom:longitude":2.669254,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Manacor, 105",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 24 52 00",
+    "sg:postcode":"07007",
+    "sg:province":"Islas Baleares",
+    "sg:website":"www.capraboacasa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864089,
+        102191581,
+        404330817,
+        85633129,
+        404227367,
+        101748237,
+        85682647,
+        85864087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4U7cGmGBlDaG4ivGWKFV2e_39.571529_2.669254@1306269461"
+    },
+    "wof:country":"ES",
+    "wof:created":1472540175,
+    "wof:geomhash":"7e556490ba2d665b9997f11cdde99636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864089,
+            "region_id":85682647,
+            "venue_id":991252111
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864087,
+            "region_id":85682647,
+            "venue_id":991252111
+        }
+    ],
+    "wof:id":991252111,
+    "wof:lastmodified":1472540175,
+    "wof:name":"Caprabo S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6692540646,
+    39.5715293884,
+    2.6692540646,
+    39.5715293884
+],
+  "geometry": {"coordinates":[2.6692540646,39.5715293884],"type":"Point"}
+}

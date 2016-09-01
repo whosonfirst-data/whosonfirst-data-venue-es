@@ -1,0 +1,74 @@
+{
+  "id": 991399165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.439289093,36.7303161621,-4.439289093,36.7303161621",
+    "geom:latitude":36.730316,
+    "geom:longitude":-4.439289,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Miraclaveles, 2",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alimentaci\u00d3n General (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 61 06 44",
+    "sg:postcode":"29011",
+    "sg:province":"M\u00e1laga",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863455,
+        102191581,
+        404339241,
+        85633129,
+        404227361,
+        101748185,
+        85682787,
+        85863471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03Nd1po1ED5pJbyo4XKDWa_36.730316_-4.439289@1306269480"
+    },
+    "wof:country":"ES",
+    "wof:created":1472548714,
+    "wof:geomhash":"2a7af786455af2839db8a4f562b4b5d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339241,
+            "locality_id":101748185,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863455,
+            "region_id":85682787,
+            "venue_id":991399165
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863471,
+            "region_id":85682787,
+            "venue_id":991399165
+        }
+    ],
+    "wof:id":991399165,
+    "wof:lastmodified":1472548714,
+    "wof:name":"Conde Almela Antonio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.439289093,
+    36.7303161621,
+    -4.439289093,
+    36.7303161621
+],
+  "geometry": {"coordinates":[-4.439289093,36.7303161621],"type":"Point"}
+}

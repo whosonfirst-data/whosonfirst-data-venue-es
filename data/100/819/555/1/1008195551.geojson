@@ -1,0 +1,67 @@
+{
+  "id": 1008195551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1830968857,41.3872566223,2.1830968857,41.3872566223",
+    "geom:latitude":41.387257,
+    "geom:longitude":2.183097,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Princesa, 58",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 19 92 58",
+    "sg:postcode":"08003",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799447,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fn8E8MMJKTOsKj4tKnAAH_41.387257_2.183097@1306269621"
+    },
+    "wof:country":"ES",
+    "wof:created":1472608512,
+    "wof:geomhash":"b49219808ba2d34a45bdc3e969c66f38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799447,
+            "region_id":85682663,
+            "venue_id":1008195551
+        }
+    ],
+    "wof:id":1008195551,
+    "wof:lastmodified":1472608512,
+    "wof:name":"Pedrol Parunella Mariano",
+    "wof:parent_id":85799447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1830968857,
+    41.3872566223,
+    2.1830968857,
+    41.3872566223
+],
+  "geometry": {"coordinates":[2.1830968857,41.3872566223],"type":"Point"}
+}

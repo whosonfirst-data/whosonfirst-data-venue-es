@@ -1,0 +1,78 @@
+{
+  "id": 1008643899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6580479145,40.3926010132,-3.6580479145,40.3926010132",
+    "geom:latitude":40.392601,
+    "geom:longitude":-3.658048,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Albufera, 139",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sociedades, Compa\u00d1\u00cdas Aseguradoras",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 77 36 96",
+    "sg:postcode":"28038",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863721,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A9wWUBxRg8L2ksgjGcML7_40.392601_-3.658048@1306269681"
+    },
+    "wof:country":"ES",
+    "wof:created":1472636148,
+    "wof:geomhash":"f84371d2d5fc82dae107dc81c507f730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863721,
+            "region_id":85682783,
+            "venue_id":1008643899
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863733,
+            "region_id":85682783,
+            "venue_id":1008643899
+        }
+    ],
+    "wof:id":1008643899,
+    "wof:lastmodified":1472636148,
+    "wof:name":"Traba Varas Francisco",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6580479145,
+    40.3926010132,
+    -3.6580479145,
+    40.3926010132
+],
+  "geometry": {"coordinates":[-3.6580479145,40.3926010132],"type":"Point"}
+}

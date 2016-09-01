@@ -1,0 +1,59 @@
+{
+  "id": 1008065631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.8465180397,43.3545379639,-2.8465180397,43.3545379639",
+    "geom:latitude":43.354538,
+    "geom:longitude":-2.846518,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Elorduigoitia, 1",
+    "sg:city":"Mungia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asociaciones, Organismos Culturales Y Socioeducativos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 946 15 64 03",
+    "sg:postcode":"48100",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863963,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PAhLu72R57jpwayCWklMR_43.354538_-2.846518@1306269603"
+    },
+    "wof:country":"ES",
+    "wof:created":1472597980,
+    "wof:geomhash":"0f738effe764ed15ce7a81cae0a220d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863963,
+            "region_id":85682879,
+            "venue_id":1008065631
+        }
+    ],
+    "wof:id":1008065631,
+    "wof:lastmodified":1472597980,
+    "wof:name":"Mungia Euskaldunduz",
+    "wof:parent_id":85863963,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.8465180397,
+    43.3545379639,
+    -2.8465180397,
+    43.3545379639
+],
+  "geometry": {"coordinates":[-2.8465180397,43.3545379639],"type":"Point"}
+}

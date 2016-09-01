@@ -1,0 +1,59 @@
+{
+  "id": 1008549265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8164839745,40.350643158,-3.8164839745,40.350643158",
+    "geom:latitude":40.350643,
+    "geom:longitude":-3.816484,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Porto Cristo, 8",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tiendas De Grano, Frutas Y Legumbres Secas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 12 85 66",
+    "sg:postcode":"28924",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qi8KgslctQhQLmUqBS34X_40.350643_-3.816484@1306269668"
+    },
+    "wof:country":"ES",
+    "wof:created":1472632065,
+    "wof:geomhash":"4287a5e2efcf2e3d599a86aa109dc616",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008549265
+        }
+    ],
+    "wof:id":1008549265,
+    "wof:lastmodified":1472632065,
+    "wof:name":"Solis Terron Daniel",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8164839745,
+    40.350643158,
+    -3.8164839745,
+    40.350643158
+],
+  "geometry": {"coordinates":[-3.8164839745,40.350643158],"type":"Point"}
+}

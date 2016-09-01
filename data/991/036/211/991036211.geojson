@@ -1,0 +1,78 @@
+{
+  "id": 991036211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.71443367,40.4280128479,-3.71443367,40.4280128479",
+    "geom:latitude":40.428013,
+    "geom:longitude":-3.714434,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Princesa, 31",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Transportes Urbanos Y Regionales Para Personas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 41 13 14",
+    "sg:postcode":"28008",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863659,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Mm50XLSTNjXhya3R5r5rq_40.428013_-3.714434@1306269432"
+    },
+    "wof:country":"ES",
+    "wof:created":1472521912,
+    "wof:geomhash":"f914f4327c0b98c94eca8038f3d9988a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863659,
+            "region_id":85682783,
+            "venue_id":991036211
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863669,
+            "region_id":85682783,
+            "venue_id":991036211
+        }
+    ],
+    "wof:id":991036211,
+    "wof:lastmodified":1472521912,
+    "wof:name":"Asociacion Empresas Gestoras De Transportes Urbanos Colectivos",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.71443367,
+    40.4280128479,
+    -3.71443367,
+    40.4280128479
+],
+  "geometry": {"coordinates":[-3.71443367,40.4280128479],"type":"Point"}
+}

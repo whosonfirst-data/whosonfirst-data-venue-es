@@ -1,0 +1,61 @@
+{
+  "id": 991502101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5925989151,40.4524307251,-3.5925989151,40.4524307251",
+    "geom:latitude":40.452431,
+    "geom:longitude":-3.592599,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pase Alameda De Osuna, 50",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros Empresariales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 41 43 16",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        102545773,
+        85863587,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_785BP6NhiXIq3tQu1w6vQk_40.452431_-3.592599@1306269494"
+    },
+    "wof:country":"ES",
+    "wof:created":1472554522,
+    "wof:geomhash":"ca58a1833921d829610a8c03c1cbb4d2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545773,
+            "country_id":85633129,
+            "neighbourhood_id":85863587,
+            "region_id":85682783,
+            "venue_id":991502101
+        }
+    ],
+    "wof:id":991502101,
+    "wof:lastmodified":1472554522,
+    "wof:name":"Dietta Rodriguez Maria Del Carmen",
+    "wof:parent_id":102545773,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5925989151,
+    40.4524307251,
+    -3.5925989151,
+    40.4524307251
+],
+  "geometry": {"coordinates":[-3.5925989151,40.4524307251],"type":"Point"}
+}

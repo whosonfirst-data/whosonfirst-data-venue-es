@@ -1,0 +1,60 @@
+{
+  "id": 1008668261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7241079807,40.3104743958,-3.7241079807,40.3104743958",
+    "geom:latitude":40.310474,
+    "geom:longitude":-3.724108,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Gibraltar, 8",
+    "sg:city":"Getafe",
+    "sg:classifiers":[],
+    "sg:orig_category":"Organizaciones Internacionales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 01 71 67",
+    "sg:postcode":"28903",
+    "sg:province":"Madrid",
+    "sg:website":"www.unicef.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TfTZURgXUSjI2vI48Pjz7_40.310474_-3.724108@1306269684"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637142,
+    "wof:geomhash":"5c4765b84d3a8022cf163c700f528837",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1008668261
+        }
+    ],
+    "wof:id":1008668261,
+    "wof:lastmodified":1472637142,
+    "wof:name":"Unicef Comite Espa\u00d1ol",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7241079807,
+    40.3104743958,
+    -3.7241079807,
+    40.3104743958
+],
+  "geometry": {"coordinates":[-3.7241079807,40.3104743958],"type":"Point"}
+}

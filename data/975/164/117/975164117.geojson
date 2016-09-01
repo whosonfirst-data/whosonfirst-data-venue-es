@@ -1,0 +1,68 @@
+{
+  "id": 975164117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7132077217,40.4263000488,-3.7132077217,40.4263000488",
+    "geom:latitude":40.4263,
+    "geom:longitude":-3.713208,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Princesa, 17",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aeropuertos Y Servicios Aeroportuarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 42 13 50",
+    "sg:postcode":"28008",
+    "sg:province":"Madrid",
+    "sg:website":"www.aeropostal.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863669,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56S1D3lNumJGqcw3B21sE2_40.426300_-3.713208@1306269413"
+    },
+    "wof:country":"ES",
+    "wof:created":1472508100,
+    "wof:geomhash":"36d4666197c861ce8134d01bf183e1e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863669,
+            "region_id":85682783,
+            "venue_id":975164117
+        }
+    ],
+    "wof:id":975164117,
+    "wof:lastmodified":1472508100,
+    "wof:name":"Aero Postal Alas De Venezuela",
+    "wof:parent_id":85863669,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7132077217,
+    40.4263000488,
+    -3.7132077217,
+    40.4263000488
+],
+  "geometry": {"coordinates":[-3.7132077217,40.4263000488],"type":"Point"}
+}

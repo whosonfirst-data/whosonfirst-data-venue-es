@@ -1,0 +1,60 @@
+{
+  "id": 1008716083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8127470016,43.461769104,-3.8127470016,43.461769104",
+    "geom:latitude":43.461769,
+    "geom:longitude":-3.812747,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Jesus De Monasterio, 11",
+    "sg:city":"Santander",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 22 80 81",
+    "sg:postcode":"39008",
+    "sg:province":"Cantabria",
+    "sg:website":"www.marsans.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799303,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45xYOeqAiHIY3tmZPQuGAx_43.461769_-3.812747@1306269691"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639275,
+    "wof:geomhash":"99c4e49a0cfe2c744dae287177c9e588",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799303,
+            "region_id":85682833,
+            "venue_id":1008716083
+        }
+    ],
+    "wof:id":1008716083,
+    "wof:lastmodified":1472639275,
+    "wof:name":"Viajes Marsans S.a.",
+    "wof:parent_id":85799303,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8127470016,
+    43.461769104,
+    -3.8127470016,
+    43.461769104
+],
+  "geometry": {"coordinates":[-3.8127470016,43.461769104],"type":"Point"}
+}

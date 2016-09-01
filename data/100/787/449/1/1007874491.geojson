@@ -1,0 +1,78 @@
+{
+  "id": 1007874491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.705411911,40.4487495422,-3.705411911,40.4487495422",
+    "geom:latitude":40.44875,
+    "geom:longitude":-3.705412,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Almansa, 19",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Peluquer\u00cdas, Peluquer\u00cda Mixta",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 33 19 27",
+    "sg:postcode":"28039",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799245,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GUezZnbuCtgBaqCd9tPHd_40.448750_-3.705412@1306269579"
+    },
+    "wof:country":"ES",
+    "wof:created":1472589873,
+    "wof:geomhash":"09d614b276b6e697a7e9dbe5a64063af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799245,
+            "region_id":85682783,
+            "venue_id":1007874491
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863653,
+            "region_id":85682783,
+            "venue_id":1007874491
+        }
+    ],
+    "wof:id":1007874491,
+    "wof:lastmodified":1472589873,
+    "wof:name":"Malecom Peluqueros S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.705411911,
+    40.4487495422,
+    -3.705411911,
+    40.4487495422
+],
+  "geometry": {"coordinates":[-3.705411911,40.4487495422],"type":"Point"}
+}

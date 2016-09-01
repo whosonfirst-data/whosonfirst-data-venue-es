@@ -1,0 +1,67 @@
+{
+  "id": 991622705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.5117440224,38.3450088501,-0.5117440224,38.3450088501",
+    "geom:latitude":38.345009,
+    "geom:longitude":-0.511744,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Orihuela, 106",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 28 05 23",
+    "sg:postcode":"03006",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864049,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CjG9D6CVqmn27p1nnp546_38.345009_-0.511744@1306269510"
+    },
+    "wof:country":"ES",
+    "wof:created":1472561441,
+    "wof:geomhash":"7d9509c9d7635546ecbd34ac961643a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864049,
+            "region_id":85682625,
+            "venue_id":991622705
+        }
+    ],
+    "wof:id":991622705,
+    "wof:lastmodified":1472561441,
+    "wof:name":"Farmacia Server Ortola C.b",
+    "wof:parent_id":85864049,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.5117440224,
+    38.3450088501,
+    -0.5117440224,
+    38.3450088501
+],
+  "geometry": {"coordinates":[-0.5117440224,38.3450088501],"type":"Point"}
+}

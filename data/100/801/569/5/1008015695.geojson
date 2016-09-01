@@ -1,0 +1,78 @@
+{
+  "id": 1008015695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7297370434,40.3896522522,-3.7297370434,40.3896522522",
+    "geom:latitude":40.389652,
+    "geom:longitude":-3.729737,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de General Ricardos, 143",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Estancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 72 11 07",
+    "sg:postcode":"28019",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863759,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85799217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WOMRMTweO5QMSVFUfU5mu_40.389652_-3.729737@1306269597"
+    },
+    "wof:country":"ES",
+    "wof:created":1472595859,
+    "wof:geomhash":"a9f8166177eaaab65890df96d41065e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863759,
+            "region_id":85682783,
+            "venue_id":1008015695
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799217,
+            "region_id":85682783,
+            "venue_id":1008015695
+        }
+    ],
+    "wof:id":1008015695,
+    "wof:lastmodified":1472595859,
+    "wof:name":"Molina Bravo Carmen",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7297370434,
+    40.3896522522,
+    -3.7297370434,
+    40.3896522522
+],
+  "geometry": {"coordinates":[-3.7297370434,40.3896522522],"type":"Point"}
+}

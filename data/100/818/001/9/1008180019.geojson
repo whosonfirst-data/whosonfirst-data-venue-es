@@ -1,0 +1,59 @@
+{
+  "id": 1008180019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6085419655,40.380317688,-3.6085419655,40.380317688",
+    "geom:latitude":40.380318,
+    "geom:longitude":-3.608542,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Virgen De Las Vi\u00d1as, 17",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Iglesia Cat\u00d3lica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 31 71 90",
+    "sg:postcode":"28031",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863777,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gmKzYLQNK7wJQTw5TeiBJ_40.380318_-3.608542@1306269619"
+    },
+    "wof:country":"ES",
+    "wof:created":1472605220,
+    "wof:geomhash":"be8aa6a8ee4b7e2d5e69732a461ce888",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863777,
+            "region_id":85682783,
+            "venue_id":1008180019
+        }
+    ],
+    "wof:id":1008180019,
+    "wof:lastmodified":1472605220,
+    "wof:name":"Parroquia Santa Eugenia",
+    "wof:parent_id":85863777,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6085419655,
+    40.380317688,
+    -3.6085419655,
+    40.380317688
+],
+  "geometry": {"coordinates":[-3.6085419655,40.380317688],"type":"Point"}
+}

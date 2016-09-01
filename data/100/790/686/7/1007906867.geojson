@@ -1,0 +1,77 @@
+{
+  "id": 1007906867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1807010174,41.3804321289,2.1807010174,41.3804321289",
+    "geom:latitude":41.380432,
+    "geom:longitude":2.180701,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Merce, 28",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Comerciantes Al Por Mayor De Vinos, Licores Y Alcoholes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 15 10 09",
+    "sg:postcode":"08002",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864033,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KOwnswzkPkmTVIrr2EZt0_41.380432_2.180701@1306269583"
+    },
+    "wof:country":"ES",
+    "wof:created":1472591170,
+    "wof:geomhash":"a50d8506a05fde9f04318863b652753c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864033,
+            "region_id":85682663,
+            "venue_id":1007906867
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":1007906867
+        }
+    ],
+    "wof:id":1007906867,
+    "wof:lastmodified":1472591170,
+    "wof:name":"Marjanet Fabre Jose",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1807010174,
+    41.3804321289,
+    2.1807010174,
+    41.3804321289
+],
+  "geometry": {"coordinates":[2.1807010174,41.3804321289],"type":"Point"}
+}

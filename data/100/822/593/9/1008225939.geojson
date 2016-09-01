@@ -1,0 +1,65 @@
+{
+  "id": 1008225939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.3493590355,36.1627044678,-5.3493590355,36.1627044678",
+    "geom:latitude":36.162704,
+    "geom:longitude":-5.349359,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Pablo, 21",
+    "sg:city":"Linea De La Concepcion",
+    "sg:classifiers":[],
+    "sg:orig_category":"Perfumer\u00cda (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 956 17 17 07",
+    "sg:postcode":"11300",
+    "sg:province":"C\u00e1diz",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "85633167",
+        85794121,
+        "102191581",
+        "85633159",
+        101753853,
+        85684619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Gm5Y0x4oiKgITTNEhpFxU_36.162704_-5.349359@1306269625"
+    },
+    "wof:country":"ES",
+    "wof:created":1472613807,
+    "wof:geomhash":"4ab61739a4c14717e1fa077ea7c7b40f",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "dependency_id":"85633167",
+            "locality_id":101753853,
+            "neighbourhood_id":85794121,
+            "region_id":85684619,
+            "venue_id":1008225939
+        }
+    ],
+    "wof:id":1008225939,
+    "wof:lastmodified":1472613807,
+    "wof:name":"Perfumeria Yedra C.b",
+    "wof:parent_id":85794121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.3493590355,
+    36.1627044678,
+    -5.3493590355,
+    36.1627044678
+],
+  "geometry": {"coordinates":[-5.3493590355,36.1627044678],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 991806251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5842769146,40.4513778687,-3.5842769146,40.4513778687",
+    "geom:latitude":40.451378,
+    "geom:longitude":-3.584277,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Medina De Pomar, 16",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reposter\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 47 56 93",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        102545773,
+        85863587,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zPGb60seQ229jqIP5Wq5z_40.451378_-3.584277@1306269535"
+    },
+    "wof:country":"ES",
+    "wof:created":1472572270,
+    "wof:geomhash":"61048be500d35c7d5a5fecb7255a0566",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545773,
+            "country_id":85633129,
+            "neighbourhood_id":85863587,
+            "region_id":85682783,
+            "venue_id":991806251
+        }
+    ],
+    "wof:id":991806251,
+    "wof:lastmodified":1472572270,
+    "wof:name":"Gomez Belvis Almudena",
+    "wof:parent_id":102545773,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5842769146,
+    40.4513778687,
+    -3.5842769146,
+    40.4513778687
+],
+  "geometry": {"coordinates":[-3.5842769146,40.4513778687],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1008212753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1830608845,41.4081459045,2.1830608845,41.4081459045",
+    "geom:latitude":41.408146,
+    "geom:longitude":2.183061,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Independencia, 278",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 46 59 91",
+    "sg:postcode":"08026",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799265,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JuFkcP9zm1C7p156SOf3s_41.408146_2.183061@1306269623"
+    },
+    "wof:country":"ES",
+    "wof:created":1472612462,
+    "wof:geomhash":"0c6a078e4dac7f039641013efc0821f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799265,
+            "region_id":85682663,
+            "venue_id":1008212753
+        }
+    ],
+    "wof:id":1008212753,
+    "wof:lastmodified":1472612462,
+    "wof:name":"Perez Garcia Angel",
+    "wof:parent_id":85799265,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.1830608845,
+    41.4081459045,
+    2.1830608845,
+    41.4081459045
+],
+  "geometry": {"coordinates":[2.1830608845,41.4081459045],"type":"Point"}
+}

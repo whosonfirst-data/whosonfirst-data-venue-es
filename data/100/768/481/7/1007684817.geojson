@@ -1,0 +1,80 @@
+{
+  "id": 1007684817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6814370155,40.4576683044,-3.6814370155,40.4576683044",
+    "geom:latitude":40.457668,
+    "geom:longitude":-3.681437,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pase Habana, 138",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 52 12 00",
+    "sg:postcode":"28...",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "organismos",
+        "control"
+    ],
+    "sg:website":"www.ineco.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799237,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fvw5PXeGE1NVjYpQKWTII_40.457668_-3.681437@1306269554"
+    },
+    "wof:country":"ES",
+    "wof:created":1472580240,
+    "wof:geomhash":"1b54fc3e30bb58dfa23d49d11c01b291",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799237,
+            "region_id":85682783,
+            "venue_id":1007684817
+        }
+    ],
+    "wof:id":1007684817,
+    "wof:lastmodified":1472580240,
+    "wof:name":"Ingenieria Y Economia Del Transportes S.a.",
+    "wof:parent_id":85799237,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organismos",
+        "control"
+    ]
+},
+  "bbox": [
+    -3.6814370155,
+    40.4576683044,
+    -3.6814370155,
+    40.4576683044
+],
+  "geometry": {"coordinates":[-3.6814370155,40.4576683044],"type":"Point"}
+}

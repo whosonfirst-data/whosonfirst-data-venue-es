@@ -1,0 +1,64 @@
+{
+  "id": 991057803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7328178883,40.3048439026,-3.7328178883,40.3048439026",
+    "geom:latitude":40.304844,
+    "geom:longitude":-3.732818,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Polvoranca, 5",
+    "sg:city":"Getafe",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 82 73 92",
+    "sg:postcode":"28901",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hcBxAF57kuFPTXrWg20zh_40.304844_-3.732818@1306269435"
+    },
+    "wof:country":"ES",
+    "wof:created":1472523474,
+    "wof:geomhash":"fc5204f5d79730c62ec79e69f6b4364f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":991057803
+        }
+    ],
+    "wof:id":991057803,
+    "wof:lastmodified":1472523474,
+    "wof:name":"Autoescuela Sotero S.l.",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7328178883,
+    40.3048439026,
+    -3.7328178883,
+    40.3048439026
+],
+  "geometry": {"coordinates":[-3.7328178883,40.3048439026],"type":"Point"}
+}

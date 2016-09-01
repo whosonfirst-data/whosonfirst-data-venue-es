@@ -1,0 +1,63 @@
+{
+  "id": 1024468971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1828610897,41.3847084045,2.1828610897,41.3847084045",
+    "geom:latitude":41.384708,
+    "geom:longitude":2.182861,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pg Born, S/n",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Librer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 10 05 41",
+    "sg:postcode":"08003",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38OZVOAcCQIjSi8475mBxk_41.384708_2.182861@1306269694"
+    },
+    "wof:country":"ES",
+    "wof:created":1472640306,
+    "wof:geomhash":"fefaddc16d4c20ef01e7c71b8992a798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":1024468971
+        }
+    ],
+    "wof:id":1024468971,
+    "wof:lastmodified":1472640306,
+    "wof:name":"Viso Perez Juan",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1828610897,
+    41.3847084045,
+    2.1828610897,
+    41.3847084045
+],
+  "geometry": {"coordinates":[2.1828610897,41.3847084045],"type":"Point"}
+}

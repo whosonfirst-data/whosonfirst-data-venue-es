@@ -1,0 +1,77 @@
+{
+  "id": 991816307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7070140839,40.4788284302,-3.7070140839,40.4788284302",
+    "geom:latitude":40.478828,
+    "geom:longitude":-3.707014,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Arteijo, 6",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Tea Room",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 38 18 60",
+    "sg:postcode":"28029",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "snack"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863551,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ArVE7A3WRXMNgEKI6Xs8n_40.478828_-3.707014@1306269536"
+    },
+    "wof:country":"ES",
+    "wof:created":1472572838,
+    "wof:geomhash":"5fa09ab8be401c5e98956e7d6b92dbb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863551,
+            "region_id":85682783,
+            "venue_id":991816307
+        }
+    ],
+    "wof:id":991816307,
+    "wof:lastmodified":1472572838,
+    "wof:name":"Gomez Villacebil Mariano",
+    "wof:parent_id":85863551,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snack"
+    ]
+},
+  "bbox": [
+    -3.7070140839,
+    40.4788284302,
+    -3.7070140839,
+    40.4788284302
+],
+  "geometry": {"coordinates":[-3.7070140839,40.4788284302],"type":"Point"}
+}

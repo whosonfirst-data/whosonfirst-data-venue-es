@@ -1,0 +1,88 @@
+{
+  "id": 1024496639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6994888,40.4182365,-3.6994888,40.4182365",
+    "geom:latitude":40.418236,
+    "geom:longitude":-3.699489,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle Cedaceros, 11",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"28008",
+    "sg:tags":[
+        "restaurants",
+        "hotels",
+        "shopping",
+        "daytime",
+        "nightlife",
+        "health-and-beauty",
+        "home-services-and-contractors"
+    ],
+    "sg:website":"http://11870.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863685,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AefxYAe4595Qrx6LBgpvO_40.418236_-3.699489@1308163240"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641475,
+    "wof:geomhash":"de53da3dba305c3db2d42d88cd982860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863685,
+            "region_id":85682783,
+            "venue_id":1024496639
+        }
+    ],
+    "wof:id":1024496639,
+    "wof:lastmodified":1472641475,
+    "wof:name":"11870.com",
+    "wof:parent_id":85863685,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "restaurants",
+        "hotels",
+        "shopping",
+        "daytime",
+        "nightlife",
+        "health-and-beauty",
+        "home-services-and-contractors"
+    ]
+},
+  "bbox": [
+    -3.6994888,
+    40.4182365,
+    -3.6994888,
+    40.4182365
+],
+  "geometry": {"coordinates":[-3.6994888,40.4182365],"type":"Point"}
+}

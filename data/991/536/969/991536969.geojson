@@ -1,0 +1,82 @@
+{
+  "id": 991536969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7049338818,40.4429550171,-3.7049338818,40.4429550171",
+    "geom:latitude":40.442955,
+    "geom:longitude":-3.704934,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Esquilache, 4",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 53 55 02",
+    "sg:postcode":"28003",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ],
+    "sg:website":"www.ecocentro.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863653,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bIbAtHX3Tjzch4NNCMGDr_40.442955_-3.704934@1306269499"
+    },
+    "wof:country":"ES",
+    "wof:created":1472556346,
+    "wof:geomhash":"1804108d27f0f9e7c5e10d9cfa7e19d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863653,
+            "region_id":85682783,
+            "venue_id":991536969
+        }
+    ],
+    "wof:id":991536969,
+    "wof:lastmodified":1472556346,
+    "wof:name":"Ecocentro",
+    "wof:parent_id":85863653,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ]
+},
+  "bbox": [
+    -3.7049338818,
+    40.4429550171,
+    -3.7049338818,
+    40.4429550171
+],
+  "geometry": {"coordinates":[-3.7049338818,40.4429550171],"type":"Point"}
+}

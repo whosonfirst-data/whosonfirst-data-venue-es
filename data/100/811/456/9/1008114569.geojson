@@ -1,0 +1,67 @@
+{
+  "id": 1008114569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1561172009,41.4067802429,2.1561172009,41.4067802429",
+    "geom:latitude":41.40678,
+    "geom:longitude":2.156117,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de L'alzina, 30",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 84 76 77",
+    "sg:postcode":"08024",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799393,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KdK8MGIedMp1t8A70sLwU_41.406780_2.156117@1306269610"
+    },
+    "wof:country":"ES",
+    "wof:created":1472600144,
+    "wof:geomhash":"5ba51c44b5fb9e822711b84b692cd991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799393,
+            "region_id":85682663,
+            "venue_id":1008114569
+        }
+    ],
+    "wof:id":1008114569,
+    "wof:lastmodified":1472600144,
+    "wof:name":"Ochoa Fernandez Demetrio",
+    "wof:parent_id":85799393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1561172009,
+    41.4067802429,
+    2.1561172009,
+    41.4067802429
+],
+  "geometry": {"coordinates":[2.1561172009,41.4067802429],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 1007791457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1704719067,41.3934364319,2.1704719067,41.3934364319",
+    "geom:latitude":41.393436,
+    "geom:longitude":2.170472,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Bruc, 59",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Congelados: Productos Alimentarios (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 72 19 10",
+    "sg:postcode":"08009",
+    "sg:province":"Barcelona",
+    "sg:website":"www.lasirena.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fK4elRljaUEkFe7TI0z9s_41.393436_2.170472@1306269569"
+    },
+    "wof:country":"ES",
+    "wof:created":1472585820,
+    "wof:geomhash":"051974e921324ce126135dff2d2da49d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1007791457
+        }
+    ],
+    "wof:id":1007791457,
+    "wof:lastmodified":1472585820,
+    "wof:name":"La Sirena Alimentacion Congelada S.l.u.",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1704719067,
+    41.3934364319,
+    2.1704719067,
+    41.3934364319
+],
+  "geometry": {"coordinates":[2.1704719067,41.3934364319],"type":"Point"}
+}

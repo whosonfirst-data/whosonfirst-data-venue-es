@@ -1,0 +1,73 @@
+{
+  "id": 991055789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.9877589941,37.6067504883,-0.9877589941,37.6067504883",
+    "geom:latitude":37.60675,
+    "geom:longitude":-0.987759,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"J. Espada, 17",
+    "sg:city":"Cartagena",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 968 50 50 84",
+    "sg:postcode":"30204",
+    "sg:province":"Murcia",
+    "sg:website":"www.autoebrasilia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799251,
+        102191581,
+        404339353,
+        85633129,
+        404227389,
+        101748203,
+        85682791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n54sd8rxIDl83fViUij0Y_37.606750_-0.987759@1306269434"
+    },
+    "wof:country":"ES",
+    "wof:created":1472523336,
+    "wof:geomhash":"aa6232879600041309293c3d271d54c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404339353,
+            "locality_id":101748203,
+            "macroregion_id":404227389,
+            "neighbourhood_id":85799251,
+            "region_id":85682791,
+            "venue_id":991055789
+        }
+    ],
+    "wof:id":991055789,
+    "wof:lastmodified":1472523336,
+    "wof:name":"Auto Escuela Brasilia S.l.",
+    "wof:parent_id":85799251,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.9877589941,
+    37.6067504883,
+    -0.9877589941,
+    37.6067504883
+],
+  "geometry": {"coordinates":[-0.9877589941,37.6067504883],"type":"Point"}
+}

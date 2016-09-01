@@ -1,0 +1,59 @@
+{
+  "id": 1008392493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1749129295,41.3968734741,2.1749129295,41.3968734741",
+    "geom:latitude":41.396873,
+    "geom:longitude":2.174913,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Roger De Flor, 135",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Distribuci\u00d3n De Petr\u00d3leo Y Derivados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 31 66 16",
+    "sg:postcode":"08013",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4y4CfcFP4B2klnjMD4HBdd_41.396873_2.174913@1306269648"
+    },
+    "wof:country":"ES",
+    "wof:created":1472625424,
+    "wof:geomhash":"8919341a5220ac4e5334c3e44854065b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008392493
+        }
+    ],
+    "wof:id":1008392493,
+    "wof:lastmodified":1472625424,
+    "wof:name":"Rogerflor S. A.",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1749129295,
+    41.3968734741,
+    2.1749129295,
+    41.3968734741
+],
+  "geometry": {"coordinates":[2.1749129295,41.3968734741],"type":"Point"}
+}

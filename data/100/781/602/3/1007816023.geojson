@@ -1,0 +1,59 @@
+{
+  "id": 1007816023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8023750782,43.4643669128,-3.8023750782,43.4643669128",
+    "geom:latitude":43.464367,
+    "geom:longitude":-3.802375,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Simon, 4",
+    "sg:city":"Santander",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alimentaci\u00d3n General (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 21 13 44",
+    "sg:postcode":"39003",
+    "sg:province":"Cantabria",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799303,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tNk5bkCX7i9wpEUF4rXL1_43.464367_-3.802375@1306269572"
+    },
+    "wof:country":"ES",
+    "wof:created":1472587134,
+    "wof:geomhash":"9411f3c32eff9788aabe8c3988d0a548",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799303,
+            "region_id":85682833,
+            "venue_id":1007816023
+        }
+    ],
+    "wof:id":1007816023,
+    "wof:lastmodified":1472587134,
+    "wof:name":"Llata Cruz Jose Manuel",
+    "wof:parent_id":85799303,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8023750782,
+    43.4643669128,
+    -3.8023750782,
+    43.4643669128
+],
+  "geometry": {"coordinates":[-3.8023750782,43.4643669128],"type":"Point"}
+}

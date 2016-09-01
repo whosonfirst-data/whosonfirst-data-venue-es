@@ -1,0 +1,60 @@
+{
+  "id": 1007705009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7789890766,40.3557281494,-3.7789890766,40.3557281494",
+    "geom:latitude":40.355728,
+    "geom:longitude":-3.778989,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cno. Vjo. Alcorcon, S/n",
+    "sg:city":"La Fortuna",
+    "sg:classifiers":[],
+    "sg:orig_category":"Parques De Atracciones Y Centros De Esparcimiento",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 96 31 78",
+    "sg:postcode":"28917",
+    "sg:province":"Madrid",
+    "sg:website":"www.ilusiona.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863785,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mIJvWWmpzPm4fSdkOerHG_40.355728_-3.778989@1306269557"
+    },
+    "wof:country":"ES",
+    "wof:created":1472581210,
+    "wof:geomhash":"f2dd3bf3778119f57ea2697864afc366",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863785,
+            "region_id":85682783,
+            "venue_id":1007705009
+        }
+    ],
+    "wof:id":1007705009,
+    "wof:lastmodified":1472581210,
+    "wof:name":"Inverexpan",
+    "wof:parent_id":85863785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7789890766,
+    40.3557281494,
+    -3.7789890766,
+    40.3557281494
+],
+  "geometry": {"coordinates":[-3.7789890766,40.3557281494],"type":"Point"}
+}

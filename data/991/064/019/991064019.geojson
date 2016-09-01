@@ -1,0 +1,64 @@
+{
+  "id": 991064019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6230180264,39.5879669189,2.6230180264,39.5879669189",
+    "geom:latitude":39.587967,
+    "geom:longitude":2.623018,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Bartomeu Sureda Mi, 5",
+    "sg:city":"Vileta -son Rapinya",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 60 68 92",
+    "sg:postcode":"07013",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864101,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2etBLA0xvlzka8tdGvkR2A_39.587967_2.623018@1306269436"
+    },
+    "wof:country":"ES",
+    "wof:created":1472523999,
+    "wof:geomhash":"ce19b1ed14a998072af27ac31ed94c59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864101,
+            "region_id":85682647,
+            "venue_id":991064019
+        }
+    ],
+    "wof:id":991064019,
+    "wof:lastmodified":1472523999,
+    "wof:name":"Autoscola Kalet S.l.",
+    "wof:parent_id":85864101,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6230180264,
+    39.5879669189,
+    2.6230180264,
+    39.5879669189
+],
+  "geometry": {"coordinates":[2.6230180264,39.5879669189],"type":"Point"}
+}

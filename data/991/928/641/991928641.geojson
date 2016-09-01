@@ -1,0 +1,74 @@
+{
+  "id": 991928641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1704421043,41.3972702026,2.1704421043,41.3972702026",
+    "geom:latitude":41.39727,
+    "geom:longitude":2.170442,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Bailen, 106",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Traductores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 57 39 62",
+    "sg:postcode":"08009",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863999,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GJFb8I3xG3hcXcOL3oZkw_41.397270_2.170442@1306269551"
+    },
+    "wof:country":"ES",
+    "wof:created":1472578871,
+    "wof:geomhash":"477abad81834cde6f4179ee290c280c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863999,
+            "region_id":85682663,
+            "venue_id":991928641
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":991928641
+        }
+    ],
+    "wof:id":991928641,
+    "wof:lastmodified":1472578871,
+    "wof:name":"Iacques 98 S.l",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1704421043,
+    41.3972702026,
+    2.1704421043,
+    41.3972702026
+],
+  "geometry": {"coordinates":[2.1704421043,41.3972702026],"type":"Point"}
+}

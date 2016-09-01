@@ -1,0 +1,67 @@
+{
+  "id": 1008705937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1509649754,41.3846702576,2.1509649754,41.3846702576",
+    "geom:latitude":41.38467,
+    "geom:longitude":2.150965,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Viladomat, 198",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 21 10 51",
+    "sg:postcode":"08029",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864021,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48SEWzyKor7acHOZ45ShM4_41.384670_2.150965@1306269689"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638794,
+    "wof:geomhash":"b7f03306b13a5a72319ba32b40e8d592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864021,
+            "region_id":85682663,
+            "venue_id":1008705937
+        }
+    ],
+    "wof:id":1008705937,
+    "wof:lastmodified":1472638794,
+    "wof:name":"Ventura Ramos Maria Lucia",
+    "wof:parent_id":85864021,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1509649754,
+    41.3846702576,
+    2.1509649754,
+    41.3846702576
+],
+  "geometry": {"coordinates":[2.1509649754,41.3846702576],"type":"Point"}
+}

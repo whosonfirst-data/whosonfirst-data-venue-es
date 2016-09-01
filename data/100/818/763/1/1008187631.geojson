@@ -1,0 +1,67 @@
+{
+  "id": 1008187631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.5009229779,38.3615875244,-0.5009229779,38.3615875244",
+    "geom:latitude":38.361588,
+    "geom:longitude":-0.500923,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Nucia (la), 45",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Guarder\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 12 85 27",
+    "sg:postcode":"03005",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864083,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50927ZBLNNooug48M8pG3h_38.361588_-0.500923@1306269620"
+    },
+    "wof:country":"ES",
+    "wof:created":1472606695,
+    "wof:geomhash":"764fac72b26eaebf621b2b7bdc0599c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864083,
+            "region_id":85682625,
+            "venue_id":1008187631
+        }
+    ],
+    "wof:id":1008187631,
+    "wof:lastmodified":1472606695,
+    "wof:name":"Pastor Lopez Maria Jose",
+    "wof:parent_id":85864083,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.5009229779,
+    38.3615875244,
+    -0.5009229779,
+    38.3615875244
+],
+  "geometry": {"coordinates":[-0.5009229779,38.3615875244],"type":"Point"}
+}

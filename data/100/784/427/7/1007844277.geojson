@@ -1,0 +1,67 @@
+{
+  "id": 1007844277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2071249485,41.4334182739,2.2071249485,41.4334182739",
+    "geom:latitude":41.433418,
+    "geom:longitude":2.207125,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Santander, 108",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aparcamientos (infraestructuras, Accesorios)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 05 01 55",
+    "sg:postcode":"08030",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799559,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1owqoA1HRo8EVJZ834PfB4_41.433418_2.207125@1306269575"
+    },
+    "wof:country":"ES",
+    "wof:created":1472588419,
+    "wof:geomhash":"40d38427e8d9b42e961a95eb1c15d57d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799559,
+            "region_id":85682663,
+            "venue_id":1007844277
+        }
+    ],
+    "wof:id":1007844277,
+    "wof:lastmodified":1472588419,
+    "wof:name":"Lopez Rodriguez Jose",
+    "wof:parent_id":85799559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2071249485,
+    41.4334182739,
+    2.2071249485,
+    41.4334182739
+],
+  "geometry": {"coordinates":[2.2071249485,41.4334182739],"type":"Point"}
+}

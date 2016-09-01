@@ -1,0 +1,81 @@
+{
+  "id": 1007909529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0724248886,41.3540458679,2.0724248886,41.3540458679",
+    "geom:latitude":41.354046,
+    "geom:longitude":2.072425,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Marcelino Menendez Pelayo, S/n",
+    "sg:city":"Cornella Llobregat",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 77 38 46",
+    "sg:postcode":"08940",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799381,
+        102191581,
+        404331349,
+        85633129,
+        404227379,
+        101758769,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ejM4u3Bkq3wCIaXgUkh6L_41.354046_2.072425@1306269583"
+    },
+    "wof:country":"ES",
+    "wof:created":1472591295,
+    "wof:geomhash":"bc5dbc9c0af46c424d05ad783079d3dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331349,
+            "locality_id":101758769,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799381,
+            "region_id":85682663,
+            "venue_id":1007909529
+        }
+    ],
+    "wof:id":1007909529,
+    "wof:lastmodified":1472591295,
+    "wof:name":"Marne Medina Natividad",
+    "wof:parent_id":85799381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    2.0724248886,
+    41.3540458679,
+    2.0724248886,
+    41.3540458679
+],
+  "geometry": {"coordinates":[2.0724248886,41.3540458679],"type":"Point"}
+}

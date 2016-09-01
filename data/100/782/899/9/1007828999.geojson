@@ -1,0 +1,67 @@
+{
+  "id": 1007828999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7029316425,40.4003448486,-3.7029316425,40.4003448486",
+    "geom:latitude":40.400345,
+    "geom:longitude":-3.702932,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Arquitectura, 1",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c9dicos: Estomatolog\u00cda",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 17 03 04",
+    "sg:postcode":"28005",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863743,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IFEh7Gpp6jiG4KzoS9SBf_40.400345_-3.702932@1306269573"
+    },
+    "wof:country":"ES",
+    "wof:created":1472587665,
+    "wof:geomhash":"49ec015c45067eb7b10b0059c329fb5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863743,
+            "region_id":85682783,
+            "venue_id":1007828999
+        }
+    ],
+    "wof:id":1007828999,
+    "wof:lastmodified":1472587665,
+    "wof:name":"Lopez-arias Lobon Manuel Ignacio",
+    "wof:parent_id":85863743,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7029316425,
+    40.4003448486,
+    -3.7029316425,
+    40.4003448486
+],
+  "geometry": {"coordinates":[-3.7029316425,40.4003448486],"type":"Point"}
+}

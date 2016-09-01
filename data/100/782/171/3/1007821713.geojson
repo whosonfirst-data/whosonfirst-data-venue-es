@@ -1,0 +1,81 @@
+{
+  "id": 1007821713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4977000058,38.3514442444,-0.4977000058,38.3514442444",
+    "geom:latitude":38.351444,
+    "geom:longitude":-0.4977,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Padre R. De Los Rios, 8",
+    "sg:city":"Alacant",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 92 84 23",
+    "sg:postcode":"03005",
+    "sg:province":"Alicante",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864053,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3q6PuOEYXPP18tfS2V5vMF_38.351444_-0.497700@1306269573"
+    },
+    "wof:country":"ES",
+    "wof:created":1472587375,
+    "wof:geomhash":"7e96ff6abf488b0b1c394c9b1a9921d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864053,
+            "region_id":85682625,
+            "venue_id":1007821713
+        }
+    ],
+    "wof:id":1007821713,
+    "wof:lastmodified":1472587375,
+    "wof:name":"Lluch Garcia Pedro Vicente",
+    "wof:parent_id":85864053,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -0.4977000058,
+    38.3514442444,
+    -0.4977000058,
+    38.3514442444
+],
+  "geometry": {"coordinates":[-0.4977000058,38.3514442444],"type":"Point"}
+}

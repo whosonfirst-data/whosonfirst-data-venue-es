@@ -1,0 +1,83 @@
+{
+  "id": 1024460013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9349279404,43.2663917542,-2.9349279404,43.2663917542",
+    "geom:latitude":43.266392,
+    "geom:longitude":-2.934928,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Iparraguirre, 7",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 23 77 78",
+    "sg:postcode":"48009",
+    "sg:province":"Vizcaya",
+    "sg:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102545753,
+        85799275,
+        102191581,
+        404346127,
+        85633129,
+        404227393,
+        101771909,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fOL6fPQd1ifBXD4paDLhh_43.266392_-2.934928@1306269693"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639909,
+    "wof:geomhash":"7a9fb32742484b81d622c51a6ce257de",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545753,
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404346127,
+            "locality_id":101771909,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85799275,
+            "region_id":85682879,
+            "venue_id":1024460013
+        }
+    ],
+    "wof:id":1024460013,
+    "wof:lastmodified":1472639909,
+    "wof:name":"Vilela Chaos Elvira",
+    "wof:parent_id":102545753,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ]
+},
+  "bbox": [
+    -2.9349279404,
+    43.2663917542,
+    -2.9349279404,
+    43.2663917542
+],
+  "geometry": {"coordinates":[-2.9349279404,43.2663917542],"type":"Point"}
+}

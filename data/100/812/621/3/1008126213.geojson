@@ -1,0 +1,90 @@
+{
+  "id": 1008126213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6759810448,40.4379653931,-3.6759810448,40.4379653931",
+    "geom:latitude":40.437965,
+    "geom:longitude":-3.675981,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda America, 10",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"Youth",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 25 10 20",
+    "sg:postcode":"28028",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "juventud",
+        "administraci\u00d3n",
+        "la",
+        "en",
+        "deporte",
+        "el",
+        "y"
+    ],
+    "sg:website":"www.opade.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863673,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HgPvs78HMrxeX5dfmA4Hc_40.437965_-3.675981@1306269611"
+    },
+    "wof:country":"ES",
+    "wof:created":1472600781,
+    "wof:geomhash":"4d1ae9b8002d9ff5a17da9d79dd65344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863673,
+            "region_id":85682783,
+            "venue_id":1008126213
+        }
+    ],
+    "wof:id":1008126213,
+    "wof:lastmodified":1472600781,
+    "wof:name":"Opade S.a.",
+    "wof:parent_id":85863673,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "juventud",
+        "administraci\u00d3n",
+        "la",
+        "en",
+        "deporte",
+        "el",
+        "y"
+    ]
+},
+  "bbox": [
+    -3.6759810448,
+    40.4379653931,
+    -3.6759810448,
+    40.4379653931
+],
+  "geometry": {"coordinates":[-3.6759810448,40.4379653931],"type":"Point"}
+}

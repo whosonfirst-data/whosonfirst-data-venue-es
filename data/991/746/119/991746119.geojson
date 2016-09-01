@@ -1,0 +1,81 @@
+{
+  "id": 991746119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7283370495,40.3863754272,-3.7283370495,40.3863754272",
+    "geom:latitude":40.386375,
+    "geom:longitude":-3.728337,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Oporto, 59",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 69 60 14",
+    "sg:postcode":"28019",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799217,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LNDhxizxh1uGTTzlkYlqP_40.386375_-3.728337@1306269526"
+    },
+    "wof:country":"ES",
+    "wof:created":1472567975,
+    "wof:geomhash":"9e59b491ae961b52460d6f454f18eb8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799217,
+            "region_id":85682783,
+            "venue_id":991746119
+        }
+    ],
+    "wof:id":991746119,
+    "wof:lastmodified":1472567975,
+    "wof:name":"Garcia Garcia Severino",
+    "wof:parent_id":85799217,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.7283370495,
+    40.3863754272,
+    -3.7283370495,
+    40.3863754272
+],
+  "geometry": {"coordinates":[-3.7283370495,40.3863754272],"type":"Point"}
+}

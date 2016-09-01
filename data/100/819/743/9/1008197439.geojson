@@ -1,0 +1,59 @@
+{
+  "id": 1008197439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6825430393,39.588596344,2.6825430393,39.588596344",
+    "geom:latitude":39.588596,
+    "geom:longitude":2.682543,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Mestre Breton, 28",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pescader\u00cdas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 47 56 27",
+    "sg:postcode":"07008",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864111,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3U5zo2HP1X2R7wHxG6oiJp_39.588596_2.682543@1306269621"
+    },
+    "wof:country":"ES",
+    "wof:created":1472608976,
+    "wof:geomhash":"10ed44958c10c3dd27f9dcca4f335ebb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864111,
+            "region_id":85682647,
+            "venue_id":1008197439
+        }
+    ],
+    "wof:id":1008197439,
+    "wof:lastmodified":1472608976,
+    "wof:name":"Peixateria Pe\u00f1a C.b.",
+    "wof:parent_id":85864111,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6825430393,
+    39.588596344,
+    2.6825430393,
+    39.588596344
+],
+  "geometry": {"coordinates":[2.6825430393,39.588596344],"type":"Point"}
+}

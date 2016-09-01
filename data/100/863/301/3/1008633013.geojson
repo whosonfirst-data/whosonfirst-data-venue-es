@@ -1,0 +1,67 @@
+{
+  "id": 1008633013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4896992147,38.3419914246,-0.4896992147,38.3419914246",
+    "geom:latitude":38.341991,
+    "geom:longitude":-0.489699,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pintor Lorenzo Casanova, 15",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Procuradores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 13 23 64",
+    "sg:postcode":"03003",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799185,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6axRDnadN1JZRI3lyGxCjA_38.341991_-0.489699@1306269680"
+    },
+    "wof:country":"ES",
+    "wof:created":1472635670,
+    "wof:geomhash":"0ccb8b73b766f8b42946aa5a79df35ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85799185,
+            "region_id":85682625,
+            "venue_id":1008633013
+        }
+    ],
+    "wof:id":1008633013,
+    "wof:lastmodified":1472635670,
+    "wof:name":"Tornel Saura Margarita",
+    "wof:parent_id":85799185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4896992147,
+    38.3419914246,
+    -0.4896992147,
+    38.3419914246
+],
+  "geometry": {"coordinates":[-0.4896992147,38.3419914246],"type":"Point"}
+}

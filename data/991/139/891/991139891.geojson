@@ -1,0 +1,81 @@
+{
+  "id": 991139891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8892139792,41.6552085876,-0.8892139792,41.6552085876",
+    "geom:latitude":41.655209,
+    "geom:longitude":-0.889214,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Conde Aranda, 51",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 44 34 42",
+    "sg:postcode":"50004",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863307,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02kVObrX62nubj1k4N6QGE_41.655209_-0.889214@1306269446"
+    },
+    "wof:country":"ES",
+    "wof:created":1472530721,
+    "wof:geomhash":"18ea6e4ed87a0a0e7520242ee9c4daa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863307,
+            "region_id":85682891,
+            "venue_id":991139891
+        }
+    ],
+    "wof:id":991139891,
+    "wof:lastmodified":1472530721,
+    "wof:name":"Berges Val Roberto",
+    "wof:parent_id":85863307,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -0.8892139792,
+    41.6552085876,
+    -0.8892139792,
+    41.6552085876
+],
+  "geometry": {"coordinates":[-0.8892139792,41.6552085876],"type":"Point"}
+}

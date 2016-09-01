@@ -1,0 +1,59 @@
+{
+  "id": 1008057647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.4992759228,40.4579124451,-3.4992759228,40.4579124451",
+    "geom:latitude":40.457912,
+    "geom:longitude":-3.499276,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Mar Egeo (del), S/n",
+    "sg:city":"Poligono De San Fernando De Henares",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mudanzas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 56 93 80",
+    "sg:postcode":"28830",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863631,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CjnJxfRMdXIHDvUPc4DVu_40.457912_-3.499276@1306269602"
+    },
+    "wof:country":"ES",
+    "wof:created":1472597640,
+    "wof:geomhash":"82d9e55ab656603f3bbdfc08153de5fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863631,
+            "region_id":85682783,
+            "venue_id":1008057647
+        }
+    ],
+    "wof:id":1008057647,
+    "wof:lastmodified":1472597640,
+    "wof:name":"Mudanzas Mundi S.l.",
+    "wof:parent_id":85863631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.4992759228,
+    40.4579124451,
+    -3.4992759228,
+    40.4579124451
+],
+  "geometry": {"coordinates":[-3.4992759228,40.4579124451],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1008601961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8078129292,43.4611778259,-3.8078129292,43.4611778259",
+    "geom:latitude":43.461178,
+    "geom:longitude":-3.807813,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pl De Las Atarazanas, 1",
+    "sg:city":"Santander",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 21 24 00",
+    "sg:postcode":"39002",
+    "sg:province":"Cantabria",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799303,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SvUfkkcRVeTpXMynqlPcr_43.461178_-3.807813@1306269675"
+    },
+    "wof:country":"ES",
+    "wof:created":1472634336,
+    "wof:geomhash":"8e4544ea1cfd0a2bbb5faea696a2721e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799303,
+            "region_id":85682833,
+            "venue_id":1008601961
+        }
+    ],
+    "wof:id":1008601961,
+    "wof:lastmodified":1472634336,
+    "wof:name":"Tci Cortes Xxi S.a.u.",
+    "wof:parent_id":85799303,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8078129292,
+    43.4611778259,
+    -3.8078129292,
+    43.4611778259
+],
+  "geometry": {"coordinates":[-3.8078129292,43.4611778259],"type":"Point"}
+}

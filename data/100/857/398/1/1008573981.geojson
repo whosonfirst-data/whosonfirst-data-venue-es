@@ -1,0 +1,59 @@
+{
+  "id": 1008573981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6352550983,39.5846099854,2.6352550983,39.5846099854",
+    "geom:latitude":39.58461,
+    "geom:longitude":2.635255,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Francesc Marti I M, 65",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 45 66 49",
+    "sg:postcode":"07011",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864101,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vkANJaK7Errjg33nSZRUN_39.584610_2.635255@1306269672"
+    },
+    "wof:country":"ES",
+    "wof:created":1472633145,
+    "wof:geomhash":"cd45386f4a54c8b766c8fe900f81572b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864101,
+            "region_id":85682647,
+            "venue_id":1008573981
+        }
+    ],
+    "wof:id":1008573981,
+    "wof:lastmodified":1472633145,
+    "wof:name":"Supermercado Son Cotoner S.l.",
+    "wof:parent_id":85864101,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6352550983,
+    39.5846099854,
+    2.6352550983,
+    39.5846099854
+],
+  "geometry": {"coordinates":[2.6352550983,39.5846099854],"type":"Point"}
+}

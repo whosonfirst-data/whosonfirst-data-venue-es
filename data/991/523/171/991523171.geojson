@@ -1,0 +1,78 @@
+{
+  "id": 991523171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7460186481,40.4056968689,-3.7460186481,40.4056968689",
+    "geom:latitude":40.405697,
+    "geom:longitude":-3.746019,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Almazan, 34",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Doctores En Medicina",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 63 19 29",
+    "sg:postcode":"28011",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863811,
+        102191581,
+        404338935,
+        85633129,
+        404227387,
+        101753753,
+        85682783,
+        85863769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WI2x5dzMdR0EBlbXqgwsx_40.405697_-3.746019@1306269497"
+    },
+    "wof:country":"ES",
+    "wof:created":1472555595,
+    "wof:geomhash":"33df0f636ce2cf9fd7c901ed0420ef64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338935,
+            "locality_id":101753753,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863811,
+            "region_id":85682783,
+            "venue_id":991523171
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338935,
+            "locality_id":101753753,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863769,
+            "region_id":85682783,
+            "venue_id":991523171
+        }
+    ],
+    "wof:id":991523171,
+    "wof:lastmodified":1472555595,
+    "wof:name":"Dominguez Moreno Bruno",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7460186481,
+    40.4056968689,
+    -3.7460186481,
+    40.4056968689
+],
+  "geometry": {"coordinates":[-3.7460186481,40.4056968689],"type":"Point"}
+}

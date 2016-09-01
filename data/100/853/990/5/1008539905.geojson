@@ -1,0 +1,65 @@
+{
+  "id": 1008539905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7300150394,40.480430603,-3.7300150394,40.480430603",
+    "geom:latitude":40.480431,
+    "geom:longitude":-3.730015,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Doctor Reinosa, 2",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Dietistas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 86 28 57",
+    "sg:postcode":"28035",
+    "sg:province":"Madrid",
+    "sg:website":"www.nutricion.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85682783,
+        102191581,
+        85633129,
+        101748283,
+        85863557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QH4iCwqhy5A18gLsGOUyf_40.480431_-3.730015@1306269667"
+    },
+    "wof:country":"ES",
+    "wof:created":1472631692,
+    "wof:geomhash":"cced7a4353daef84d67a981dc09db5fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748283,
+            "neighbourhood_id":85863557,
+            "region_id":85682783,
+            "venue_id":1008539905
+        }
+    ],
+    "wof:id":1008539905,
+    "wof:lastmodified":1472631692,
+    "wof:name":"Sociedad Espa\u00f1ola De Dietetica",
+    "wof:parent_id":85863557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7300150394,
+    40.480430603,
+    -3.7300150394,
+    40.480430603
+],
+  "geometry": {"coordinates":[-3.7300150394,40.480430603],"type":"Point"}
+}

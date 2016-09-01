@@ -1,0 +1,81 @@
+{
+  "id": 1008187585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7309999466,40.3852233887,-3.7309999466,40.3852233887",
+    "geom:latitude":40.385223,
+    "geom:longitude":-3.731,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Santa Rosalia, 8",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 61 69 22",
+    "sg:postcode":"28025",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799217,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3srljoMDwX7Qt3PZBE6oD7_40.385223_-3.731000@1306269620"
+    },
+    "wof:country":"ES",
+    "wof:created":1472606684,
+    "wof:geomhash":"e7d8ce9e5d09737a155f529cf1412944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799217,
+            "region_id":85682783,
+            "venue_id":1008187585
+        }
+    ],
+    "wof:id":1008187585,
+    "wof:lastmodified":1472606684,
+    "wof:name":"Pastor Jimenez Jose",
+    "wof:parent_id":85799217,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.7309999466,
+    40.3852233887,
+    -3.7309999466,
+    40.3852233887
+],
+  "geometry": {"coordinates":[-3.7309999466,40.3852233887],"type":"Point"}
+}

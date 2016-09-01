@@ -1,0 +1,64 @@
+{
+  "id": 1008193215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7257649899,40.3086776733,-3.7257649899,40.3086776733",
+    "geom:latitude":40.308678,
+    "geom:longitude":-3.725765,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Vicente, 34",
+    "sg:city":"Getafe",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 81 62 34",
+    "sg:postcode":"28901",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YOA2eaoKZYc6W71BRansm_40.308678_-3.725765@1306269621"
+    },
+    "wof:country":"ES",
+    "wof:created":1472608005,
+    "wof:geomhash":"9caf7d6f543ea53e323572d97550d466",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1008193215
+        }
+    ],
+    "wof:id":1008193215,
+    "wof:lastmodified":1472608005,
+    "wof:name":"Pa\u00f1os Montero Julio",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7257649899,
+    40.3086776733,
+    -3.7257649899,
+    40.3086776733
+],
+  "geometry": {"coordinates":[-3.7257649899,40.3086776733],"type":"Point"}
+}

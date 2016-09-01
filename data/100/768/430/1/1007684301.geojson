@@ -1,0 +1,60 @@
+{
+  "id": 1007684301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1909348965,41.3972091675,2.1909348965,41.3972091675",
+    "geom:latitude":41.397209,
+    "geom:longitude":2.190935,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Pamplona, 92",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ingenier\u00cda, Centros De Estudios (diversos)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 85 34 88",
+    "sg:postcode":"08018",
+    "sg:province":"Barcelona",
+    "sg:website":"www.arstecne.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6O8ZOVv7ETcYNimP6642qO_41.397209_2.190935@1306269554"
+    },
+    "wof:country":"ES",
+    "wof:created":1472580213,
+    "wof:geomhash":"d505c0329a113285195bb87def98957d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1007684301
+        }
+    ],
+    "wof:id":1007684301,
+    "wof:lastmodified":1472580213,
+    "wof:name":"Ingenieria De Sistemas Arstecne S.a.",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1909348965,
+    41.3972091675,
+    2.1909348965,
+    41.3972091675
+],
+  "geometry": {"coordinates":[2.1909348965,41.3972091675],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1008354205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6593580246,39.5755310059,2.6593580246,39.5755310059",
+    "geom:latitude":39.575531,
+    "geom:longitude":2.659358,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Arago, 30",
+    "sg:city":"Palma",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 46 92 59",
+    "sg:postcode":"07006",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864089,
+        102191581,
+        404330817,
+        85633129,
+        404227367,
+        101748237,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YCJEemW2LetUS3Exyjhs5_39.575531_2.659358@1306269642"
+    },
+    "wof:country":"ES",
+    "wof:created":1472623698,
+    "wof:geomhash":"f288a0c4c157369792be26e8dab1a898",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864089,
+            "region_id":85682647,
+            "venue_id":1008354205
+        }
+    ],
+    "wof:id":1008354205,
+    "wof:lastmodified":1472623698,
+    "wof:name":"Ribas Verger Miguel",
+    "wof:parent_id":85864089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6593580246,
+    39.5755310059,
+    2.6593580246,
+    39.5755310059
+],
+  "geometry": {"coordinates":[2.6593580246,39.5755310059],"type":"Point"}
+}

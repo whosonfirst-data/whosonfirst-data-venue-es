@@ -1,0 +1,61 @@
+{
+  "id": 1007874203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5915083885,40.4534378052,-3.5915083885,40.4534378052",
+    "geom:latitude":40.453438,
+    "geom:longitude":-3.591508,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Canoa, 25",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 42 23 77",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        102545773,
+        85863587,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uv5D6ooDISiwQIdBC8Ffv_40.453438_-3.591508@1306269579"
+    },
+    "wof:country":"ES",
+    "wof:created":1472589859,
+    "wof:geomhash":"72694ec9e1eb4e0f3b12e8ba2fbafde6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545773,
+            "country_id":85633129,
+            "neighbourhood_id":85863587,
+            "region_id":85682783,
+            "venue_id":1007874203
+        }
+    ],
+    "wof:id":1007874203,
+    "wof:lastmodified":1472589859,
+    "wof:name":"Maldonado Inocencio Carlos",
+    "wof:parent_id":102545773,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5915083885,
+    40.4534378052,
+    -3.5915083885,
+    40.4534378052
+],
+  "geometry": {"coordinates":[-3.5915083885,40.4534378052],"type":"Point"}
+}

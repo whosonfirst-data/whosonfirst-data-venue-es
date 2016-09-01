@@ -1,0 +1,72 @@
+{
+  "id": 991903207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7729170322,40.3759384155,-3.7729170322,40.3759384155",
+    "geom:latitude":40.375938,
+    "geom:longitude":-3.772917,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Rafael Finat, 62",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 09 16 42",
+    "sg:postcode":"28044",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863787,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hCZYE8CkXADbds7ErJOHu_40.375938_-3.772917@1306269547"
+    },
+    "wof:country":"ES",
+    "wof:created":1472577683,
+    "wof:geomhash":"0bf49d1ff6c2d9e69ef277fe2d339b9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863787,
+            "region_id":85682783,
+            "venue_id":991903207
+        }
+    ],
+    "wof:id":991903207,
+    "wof:lastmodified":1472577683,
+    "wof:name":"Herrera Sanchez Miguel Angel",
+    "wof:parent_id":85863787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7729170322,
+    40.3759384155,
+    -3.7729170322,
+    40.3759384155
+],
+  "geometry": {"coordinates":[-3.7729170322,40.3759384155],"type":"Point"}
+}

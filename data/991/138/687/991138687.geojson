@@ -1,0 +1,81 @@
+{
+  "id": 991138687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1736879349,41.4075393677,2.1736879349,41.4075393677",
+    "geom:latitude":41.407539,
+    "geom:longitude":2.173688,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Corsega, 585",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 35 17 62",
+    "sg:postcode":"08025",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863999,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MChZwT5oX2YDfZNZMCo2z_41.407539_2.173688@1306269446"
+    },
+    "wof:country":"ES",
+    "wof:created":1472530553,
+    "wof:geomhash":"b44f7dfc48e1b32648cb64cc73f872a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863999,
+            "region_id":85682663,
+            "venue_id":991138687
+        }
+    ],
+    "wof:id":991138687,
+    "wof:lastmodified":1472530553,
+    "wof:name":"Berbegal Truque Juan",
+    "wof:parent_id":85863999,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.1736879349,
+    41.4075393677,
+    2.1736879349,
+    41.4075393677
+],
+  "geometry": {"coordinates":[2.1736879349,41.4075393677],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 991613195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6377885342,40.4379615784,-3.6377885342,40.4379615784",
+    "geom:latitude":40.437962,
+    "geom:longitude":-3.637789,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Alcala, 419",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 41 73 78",
+    "sg:postcode":"28027",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863639,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EFCEQSb6fv1xxoLEV3ID2_40.437962_-3.637789@1306269509"
+    },
+    "wof:country":"ES",
+    "wof:created":1472560207,
+    "wof:geomhash":"734b665567169b6747fa8b9ac85c1238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863639,
+            "region_id":85682783,
+            "venue_id":991613195
+        }
+    ],
+    "wof:id":991613195,
+    "wof:lastmodified":1472560207,
+    "wof:name":"Explotacion Recreativos Alcala 419 S.l.",
+    "wof:parent_id":85863639,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [
+    -3.6377885342,
+    40.4379615784,
+    -3.6377885342,
+    40.4379615784
+],
+  "geometry": {"coordinates":[-3.6377885342,40.4379615784],"type":"Point"}
+}

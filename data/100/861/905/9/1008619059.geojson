@@ -1,0 +1,66 @@
+{
+  "id": 1008619059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9012806416,43.2612304688,-2.9012806416,43.2612304688",
+    "geom:latitude":43.26123,
+    "geom:longitude":-2.901281,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ugarte, 3",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[],
+    "sg:orig_category":"Zapatos (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 12 36 29",
+    "sg:postcode":"48004",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863977,
+        85682879,
+        85863973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XQDOd8lXMQpOieD7BMXx6_43.261230_-2.901281@1306269678"
+    },
+    "wof:country":"ES",
+    "wof:created":1472635092,
+    "wof:geomhash":"6d983cab036ec9a790b6fda9111b1e0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863977,
+            "region_id":85682879,
+            "venue_id":1008619059
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863973,
+            "region_id":85682879,
+            "venue_id":1008619059
+        }
+    ],
+    "wof:id":1008619059,
+    "wof:lastmodified":1472635092,
+    "wof:name":"Teso Perez Castor Del",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9012806416,
+    43.2612304688,
+    -2.9012806416,
+    43.2612304688
+],
+  "geometry": {"coordinates":[-2.9012806416,43.2612304688],"type":"Point"}
+}

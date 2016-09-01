@@ -1,0 +1,73 @@
+{
+  "id": 990969467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2594575882,41.4564399719,2.2594575882,41.4564399719",
+    "geom:latitude":41.45644,
+    "geom:longitude":2.259458,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Drac, S/n",
+    "sg:city":"Badalona",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 84 10 95",
+    "sg:postcode":"08911",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799485,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nz43ACuWk0zQKppbCc6aG_41.456440_2.259458@1306269423"
+    },
+    "wof:country":"ES",
+    "wof:created":1472516738,
+    "wof:geomhash":"2b40185069451529c616489badc6bfb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799485,
+            "region_id":85682663,
+            "venue_id":990969467
+        }
+    ],
+    "wof:id":990969467,
+    "wof:lastmodified":1472516738,
+    "wof:name":"Ana Moreno Y Raul Sanchez S.c.p.",
+    "wof:parent_id":85799485,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.2594575882,
+    41.4564399719,
+    2.2594575882,
+    41.4564399719
+],
+  "geometry": {"coordinates":[2.2594575882,41.4564399719],"type":"Point"}
+}

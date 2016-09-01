@@ -1,0 +1,73 @@
+{
+  "id": 1008063107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9673500061,37.3230361938,-5.9673500061,37.3230361938",
+    "geom:latitude":37.323036,
+    "geom:longitude":-5.96735,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Guadalajara, 46",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 69 15 24",
+    "sg:postcode":"41014",
+    "sg:province":"Sevilla",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864195,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cGotEAZMtIH5utiHnM840_37.323036_-5.967350@1306269603"
+    },
+    "wof:country":"ES",
+    "wof:created":1472597877,
+    "wof:geomhash":"5f8df7e47217a352a61e1cb89cfb7de6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864195,
+            "region_id":85682841,
+            "venue_id":1008063107
+        }
+    ],
+    "wof:id":1008063107,
+    "wof:lastmodified":1472597877,
+    "wof:name":"Mulero Sanchez Francisco",
+    "wof:parent_id":85864195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -5.9673500061,
+    37.3230361938,
+    -5.9673500061,
+    37.3230361938
+],
+  "geometry": {"coordinates":[-5.9673500061,37.3230361938],"type":"Point"}
+}

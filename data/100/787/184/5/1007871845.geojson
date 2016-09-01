@@ -1,0 +1,60 @@
+{
+  "id": 1007871845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7651491165,40.2576713562,-3.7651491165,40.2576713562",
+    "geom:latitude":40.257671,
+    "geom:longitude":-3.765149,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Gavilan, 30",
+    "sg:city":"Fuenlabrada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Gr\u00daas, Montacargas Y Elevadores Para Astilleros",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 42 14 11",
+    "sg:postcode":"28946",
+    "sg:province":"Madrid",
+    "sg:website":"www.magru.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fMjlHwlQEyszLcfMgOFIo_40.257671_-3.765149@1306269579"
+    },
+    "wof:country":"ES",
+    "wof:created":1472589758,
+    "wof:geomhash":"5d217e4d705c30893548e5e24643642c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1007871845
+        }
+    ],
+    "wof:id":1007871845,
+    "wof:lastmodified":1472589758,
+    "wof:name":"Magru S.l.",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7651491165,
+    40.2576713562,
+    -3.7651491165,
+    40.2576713562
+],
+  "geometry": {"coordinates":[-3.7651491165,40.2576713562],"type":"Point"}
+}

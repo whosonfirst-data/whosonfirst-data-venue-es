@@ -1,0 +1,72 @@
+{
+  "id": 1008505619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7324268818,40.4093780518,-3.7324268818,40.4093780518",
+    "geom:latitude":40.409378,
+    "geom:longitude":-3.732427,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Galiana, 14",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 63 62 28",
+    "sg:postcode":"28011",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863773,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zjsYWYBgHfjpjierrHleL_40.409378_-3.732427@1306269663"
+    },
+    "wof:country":"ES",
+    "wof:created":1472630263,
+    "wof:geomhash":"7fc6e87dfe4b05798b798960a10b6846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863773,
+            "region_id":85682783,
+            "venue_id":1008505619
+        }
+    ],
+    "wof:id":1008505619,
+    "wof:lastmodified":1472630263,
+    "wof:name":"Serrano Moreno Vicente",
+    "wof:parent_id":85863773,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7324268818,
+    40.4093780518,
+    -3.7324268818,
+    40.4093780518
+],
+  "geometry": {"coordinates":[-3.7324268818,40.4093780518],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1008122063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1307098866,41.369430542,2.1307098866,41.369430542",
+    "geom:latitude":41.369431,
+    "geom:longitude":2.13071,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rier Blanca, 187",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 21 28 70",
+    "sg:postcode":"08014",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "en",
+        "fundiciones"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799585,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jDVLjGTPs6alSToMe8Jkz_41.369431_2.130710@1306269611"
+    },
+    "wof:country":"ES",
+    "wof:created":1472600476,
+    "wof:geomhash":"1e6822333187a9febb4920481c0643bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799585,
+            "region_id":85682663,
+            "venue_id":1008122063
+        }
+    ],
+    "wof:id":1008122063,
+    "wof:lastmodified":1472600476,
+    "wof:name":"Oliveres Baro Jesus",
+    "wof:parent_id":85799585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "en",
+        "fundiciones"
+    ]
+},
+  "bbox": [
+    2.1307098866,
+    41.369430542,
+    2.1307098866,
+    41.369430542
+],
+  "geometry": {"coordinates":[2.1307098866,41.369430542],"type":"Point"}
+}

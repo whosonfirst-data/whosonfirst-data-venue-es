@@ -1,0 +1,81 @@
+{
+  "id": 991175453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.756529808,40.3873558044,-3.756529808,40.3873558044",
+    "geom:latitude":40.387356,
+    "geom:longitude":-3.75653,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Camarena, 280",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 17 10 11",
+    "sg:postcode":"28047",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863765,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4p5G7BeBPm65Fxrsqqx8tz_40.387356_-3.756530@1306269450"
+    },
+    "wof:country":"ES",
+    "wof:created":1472534547,
+    "wof:geomhash":"1ddd00a4dabc57942af4c7a46feb67cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863765,
+            "region_id":85682783,
+            "venue_id":991175453
+        }
+    ],
+    "wof:id":991175453,
+    "wof:lastmodified":1472534547,
+    "wof:name":"Bravo Camacho Guillermo",
+    "wof:parent_id":85863765,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.756529808,
+    40.3873558044,
+    -3.756529808,
+    40.3873558044
+],
+  "geometry": {"coordinates":[-3.756529808,40.3873558044],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1007936013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7949769497,43.4636001587,-3.7949769497,43.4636001587",
+    "geom:latitude":43.4636,
+    "geom:longitude":-3.794977,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Juan De La Cosa, 7",
+    "sg:city":"Santander",
+    "sg:classifiers":[],
+    "sg:orig_category":"M\u00c9dicos: Oftalmolog\u00cda",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 22 41 30",
+    "sg:postcode":"39004",
+    "sg:province":"Cantabria",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799303,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xokrnZsIH4uQthGiU9SGq_43.463600_-3.794977@1306269587"
+    },
+    "wof:country":"ES",
+    "wof:created":1472592508,
+    "wof:geomhash":"4b867db62dd58b6818c47f2ac68e0982",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799303,
+            "region_id":85682833,
+            "venue_id":1007936013
+        }
+    ],
+    "wof:id":1007936013,
+    "wof:lastmodified":1472592508,
+    "wof:name":"Martinez Sanz Fernando",
+    "wof:parent_id":85799303,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7949769497,
+    43.4636001587,
+    -3.7949769497,
+    43.4636001587
+],
+  "geometry": {"coordinates":[-3.7949769497,43.4636001587],"type":"Point"}
+}

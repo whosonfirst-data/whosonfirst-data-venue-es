@@ -1,0 +1,73 @@
+{
+  "id": 991190179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7714169025,40.3234291077,-3.7714169025,40.3234291077",
+    "geom:latitude":40.323429,
+    "geom:longitude":-3.771417,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Juan Ponce De Leon, 9",
+    "sg:city":"Leganes",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 93 60 49",
+    "sg:postcode":"28911",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863785,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zuNbeTMlCZkP32jmlyK2U_40.323429_-3.771417@1306269452"
+    },
+    "wof:country":"ES",
+    "wof:created":1472535720,
+    "wof:geomhash":"55af51ec73808b40d0a917952297fc01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863785,
+            "region_id":85682783,
+            "venue_id":991190179
+        }
+    ],
+    "wof:id":991190179,
+    "wof:lastmodified":1472535720,
+    "wof:name":"Caballero Campos Juan Antonio",
+    "wof:parent_id":85863785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.7714169025,
+    40.3234291077,
+    -3.7714169025,
+    40.3234291077
+],
+  "geometry": {"coordinates":[-3.7714169025,40.3234291077],"type":"Point"}
+}

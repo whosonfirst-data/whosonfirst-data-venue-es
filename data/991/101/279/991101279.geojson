@@ -1,0 +1,60 @@
+{
+  "id": 991101279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8277900219,40.3408203125,-3.8277900219,40.3408203125",
+    "geom:latitude":40.34082,
+    "geom:longitude":-3.82779,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Mayor, 97",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 41 24 27",
+    "sg:postcode":"28922",
+    "sg:province":"Madrid",
+    "sg:website":"www.banesto.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22dvPvynCsGSFwMeL0mlp3_40.340820_-3.827790@1306269441"
+    },
+    "wof:country":"ES",
+    "wof:created":1472526907,
+    "wof:geomhash":"92ccee061d923f8529b1be08d7ba3089",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":991101279
+        }
+    ],
+    "wof:id":991101279,
+    "wof:lastmodified":1472526907,
+    "wof:name":"Banco Espa\u00f1ol De Credito S.a.",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8277900219,
+    40.3408203125,
+    -3.8277900219,
+    40.3408203125
+],
+  "geometry": {"coordinates":[-3.8277900219,40.3408203125],"type":"Point"}
+}

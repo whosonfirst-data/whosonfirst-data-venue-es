@@ -1,0 +1,73 @@
+{
+  "id": 991048015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2398192883,41.4422874451,2.2398192883,41.4422874451",
+    "geom:latitude":41.442287,
+    "geom:longitude":2.239819,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carr Guifre, 288",
+    "sg:city":"Badalona",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 87 29 88",
+    "sg:postcode":"08912",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799485,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6T7gjlkzWi2fF6qfUpEUaP_41.442287_2.239819@1306269433"
+    },
+    "wof:country":"ES",
+    "wof:created":1472522788,
+    "wof:geomhash":"9b1574679df2c7988bf92c784163edfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799485,
+            "region_id":85682663,
+            "venue_id":991048015
+        }
+    ],
+    "wof:id":991048015,
+    "wof:lastmodified":1472522788,
+    "wof:name":"Atienza Asensio Antonio",
+    "wof:parent_id":85799485,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.2398192883,
+    41.4422874451,
+    2.2398192883,
+    41.4422874451
+],
+  "geometry": {"coordinates":[2.2398192883,41.4422874451],"type":"Point"}
+}

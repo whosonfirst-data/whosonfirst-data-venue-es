@@ -1,0 +1,59 @@
+{
+  "id": 1008373013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3689860106,39.4960327148,-0.3689860106,39.4960327148",
+    "geom:latitude":39.496033,
+    "geom:longitude":-0.368986,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Padre Vi\u00d1as, 95",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Platos Preparados Refrigerados (fabricaci\u00d3n, Al Por Mayor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 66 18 49",
+    "sg:postcode":"46019",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864225,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cA97VvHWTC9ptm1AcNSD1_39.496033_-0.368986@1306269645"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624485,
+    "wof:geomhash":"54f357812eb70f61b636219a428c564b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864225,
+            "region_id":85682867,
+            "venue_id":1008373013
+        }
+    ],
+    "wof:id":1008373013,
+    "wof:lastmodified":1472624485,
+    "wof:name":"Rodriguez Aguado Luisa",
+    "wof:parent_id":85864225,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3689860106,
+    39.4960327148,
+    -0.3689860106,
+    39.4960327148
+],
+  "geometry": {"coordinates":[-0.3689860106,39.4960327148],"type":"Point"}
+}

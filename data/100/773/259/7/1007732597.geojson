@@ -1,0 +1,73 @@
+{
+  "id": 1007732597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1085619926,41.5485877991,2.1085619926,41.5485877991",
+    "geom:latitude":41.548588,
+    "geom:longitude":2.108562,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ptge Jonc, 1",
+    "sg:city":"Sabadell",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 25 89 10",
+    "sg:postcode":"08202",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wEyysbpDXfLBgYXJgE2JK_41.548588_2.108562@1306269561"
+    },
+    "wof:country":"ES",
+    "wof:created":1472582613,
+    "wof:geomhash":"9129ae83e63dd890d02fb4f4149112c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1007732597
+        }
+    ],
+    "wof:id":1007732597,
+    "wof:lastmodified":1472582613,
+    "wof:name":"Jimenez Martinoli David",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.1085619926,
+    41.5485877991,
+    2.1085619926,
+    41.5485877991
+],
+  "geometry": {"coordinates":[2.1085619926,41.5485877991],"type":"Point"}
+}

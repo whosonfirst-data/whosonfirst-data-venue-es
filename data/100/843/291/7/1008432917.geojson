@@ -1,0 +1,59 @@
+{
+  "id": 1008432917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8750948906,40.4880027771,-3.8750948906,40.4880027771",
+    "geom:latitude":40.488003,
+    "geom:longitude":-3.875095,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Principado De Asturias, 6",
+    "sg:city":"Rozas De Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alimentaci\u00d3n General (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 36 10 83",
+    "sg:postcode":"28230",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863613,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4557VWPBsYMIoLY3xQdUn4_40.488003_-3.875095@1306269653"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627301,
+    "wof:geomhash":"189dbb312cddca22da319b2d35dd2f31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863613,
+            "region_id":85682783,
+            "venue_id":1008432917
+        }
+    ],
+    "wof:id":1008432917,
+    "wof:lastmodified":1472627301,
+    "wof:name":"Sagasti Hernandez Pilar",
+    "wof:parent_id":85863613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8750948906,
+    40.4880027771,
+    -3.8750948906,
+    40.4880027771
+],
+  "geometry": {"coordinates":[-3.8750948906,40.4880027771],"type":"Point"}
+}

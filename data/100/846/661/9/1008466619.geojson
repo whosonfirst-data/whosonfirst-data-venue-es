@@ -1,0 +1,67 @@
+{
+  "id": 1008466619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7301306725,40.3853187561,-3.7301306725,40.3853187561",
+    "geom:latitude":40.385319,
+    "geom:longitude":-3.730131,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Alejandro Moran, 45",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicio De Salud",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 25 81 24",
+    "sg:postcode":"28025",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799217,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EPHymrbAffNmSS4xL8re7_40.385319_-3.730131@1306269657"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628571,
+    "wof:geomhash":"e9c00a692408d89f81b2e9c2affc5930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799217,
+            "region_id":85682783,
+            "venue_id":1008466619
+        }
+    ],
+    "wof:id":1008466619,
+    "wof:lastmodified":1472628571,
+    "wof:name":"Saneamientos Martinez E Hijos S.l.",
+    "wof:parent_id":85799217,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7301306725,
+    40.3853187561,
+    -3.7301306725,
+    40.3853187561
+],
+  "geometry": {"coordinates":[-3.7301306725,40.3853187561],"type":"Point"}
+}

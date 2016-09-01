@@ -1,0 +1,64 @@
+{
+  "id": 1008502781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1761519909,41.3959465027,2.1761519909,41.3959465027",
+    "geom:latitude":41.395947,
+    "geom:longitude":2.176152,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Roger De Flor, 113",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 31 96 12",
+    "sg:postcode":"08013",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5f5WooU8obQ7jyKFmv3XCZ_41.395947_2.176152@1306269662"
+    },
+    "wof:country":"ES",
+    "wof:created":1472630142,
+    "wof:geomhash":"b4277168f069f25757d942f21b6bd52a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008502781
+        }
+    ],
+    "wof:id":1008502781,
+    "wof:lastmodified":1472630142,
+    "wof:name":"Serra Carla Josep Maria",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1761519909,
+    41.3959465027,
+    2.1761519909,
+    41.3959465027
+],
+  "geometry": {"coordinates":[2.1761519909,41.3959465027],"type":"Point"}
+}

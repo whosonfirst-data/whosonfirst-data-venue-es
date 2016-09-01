@@ -1,0 +1,67 @@
+{
+  "id": 1008638641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0943119526,41.3268051147,2.0943119526,41.3268051147",
+    "geom:latitude":41.326805,
+    "geom:longitude":2.094312,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Pau Casals, 18",
+    "sg:city":"Prat Llobregat",
+    "sg:classifiers":[],
+    "sg:orig_category":"Notarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 78 84 40",
+    "sg:postcode":"08820",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799585,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5J1fyanADkE6nevLXe4aIl_41.326805_2.094312@1306269680"
+    },
+    "wof:country":"ES",
+    "wof:created":1472635907,
+    "wof:geomhash":"07bdb684581807279b4fd93ff78d5571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799585,
+            "region_id":85682663,
+            "venue_id":1008638641
+        }
+    ],
+    "wof:id":1008638641,
+    "wof:lastmodified":1472635907,
+    "wof:name":"Torres Lopez Roman",
+    "wof:parent_id":85799585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0943119526,
+    41.3268051147,
+    2.0943119526,
+    41.3268051147
+],
+  "geometry": {"coordinates":[2.0943119526,41.3268051147],"type":"Point"}
+}

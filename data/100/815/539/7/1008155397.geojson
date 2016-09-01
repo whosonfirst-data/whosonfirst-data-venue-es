@@ -1,0 +1,78 @@
+{
+  "id": 1008155397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9390850067,43.2568664551,-2.9390850067,43.2568664551",
+    "geom:latitude":43.256866,
+    "geom:longitude":-2.939085,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Iparraguirre, 66",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[],
+    "sg:orig_category":"Librer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 10 38 35",
+    "sg:postcode":"48012",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863957,
+        102191581,
+        404345949,
+        85633129,
+        404227393,
+        101748385,
+        85682879,
+        85863927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qDT727WsrURg8XRkMkE3c_43.256866_-2.939085@1306269615"
+    },
+    "wof:country":"ES",
+    "wof:created":1472602160,
+    "wof:geomhash":"aeb2210269d8f69b70296d16ac8c6f9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345949,
+            "locality_id":101748385,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863957,
+            "region_id":85682879,
+            "venue_id":1008155397
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345949,
+            "locality_id":101748385,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863927,
+            "region_id":85682879,
+            "venue_id":1008155397
+        }
+    ],
+    "wof:id":1008155397,
+    "wof:lastmodified":1472602160,
+    "wof:name":"Palma Mariscal Josue",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9390850067,
+    43.2568664551,
+    -2.9390850067,
+    43.2568664551
+],
+  "geometry": {"coordinates":[-2.9390850067,43.2568664551],"type":"Point"}
+}

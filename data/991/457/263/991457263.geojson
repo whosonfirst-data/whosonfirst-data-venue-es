@@ -1,0 +1,60 @@
+{
+  "id": 991457263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.821821928,40.4704856873,-3.821821928,40.4704856873",
+    "geom:latitude":40.470486,
+    "geom:longitude":-3.821822,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Rafael Villa, S/n",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hospitales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 35 44 55",
+    "sg:postcode":"28...",
+    "sg:province":"Madrid",
+    "sg:website":"www.cruzroja.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863657,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WtCcedB6l2eVljJSsB9aD_40.470486_-3.821822@1306269488"
+    },
+    "wof:country":"ES",
+    "wof:created":1472552071,
+    "wof:geomhash":"4ed0ec572cd7b5be4cf2f1ecdd39633a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863657,
+            "region_id":85682783,
+            "venue_id":991457263
+        }
+    ],
+    "wof:id":991457263,
+    "wof:lastmodified":1472552071,
+    "wof:name":"Cruz Roja Espa\u00d1ola",
+    "wof:parent_id":85863657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.821821928,
+    40.4704856873,
+    -3.821821928,
+    40.4704856873
+],
+  "geometry": {"coordinates":[-3.821821928,40.4704856873],"type":"Point"}
+}

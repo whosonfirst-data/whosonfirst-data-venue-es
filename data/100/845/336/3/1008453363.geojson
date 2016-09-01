@@ -1,0 +1,59 @@
+{
+  "id": 1008453363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5325610638,40.5050201416,-3.5325610638,40.5050201416",
+    "geom:latitude":40.50502,
+    "geom:longitude":-3.532561,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Meson (del), 16",
+    "sg:city":"Paracuellos De Jarama",
+    "sg:classifiers":[],
+    "sg:orig_category":"Albergues",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 58 28 20",
+    "sg:postcode":"28860",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863587,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TrPp9sFJbDxV5RUZktyRN_40.505020_-3.532561@1306269656"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628060,
+    "wof:geomhash":"14be5a7da4f5d9815b4f6cacea7a8234",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863587,
+            "region_id":85682783,
+            "venue_id":1008453363
+        }
+    ],
+    "wof:id":1008453363,
+    "wof:lastmodified":1472628060,
+    "wof:name":"Sanchez Hernandez Nuria",
+    "wof:parent_id":85863587,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5325610638,
+    40.5050201416,
+    -3.5325610638,
+    40.5050201416
+],
+  "geometry": {"coordinates":[-3.5325610638,40.5050201416],"type":"Point"}
+}

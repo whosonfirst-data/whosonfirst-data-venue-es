@@ -1,0 +1,67 @@
+{
+  "id": 990913031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1811888218,41.3871917725,2.1811888218,41.3871917725",
+    "geom:latitude":41.387192,
+    "geom:longitude":2.181189,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Tantarantana, S/n",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asistencia Social",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 68 76 06",
+    "sg:postcode":"08003",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799447,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18W22LvNnCuZ7i4QWvM5eI_41.387192_2.181189@1306269415"
+    },
+    "wof:country":"ES",
+    "wof:created":1472509859,
+    "wof:geomhash":"9d4caba8a87cc02ed6794a5e4fb1ccee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799447,
+            "region_id":85682663,
+            "venue_id":990913031
+        }
+    ],
+    "wof:id":990913031,
+    "wof:lastmodified":1472509859,
+    "wof:name":"Ajuntament De Barcelona",
+    "wof:parent_id":85799447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1811888218,
+    41.3871917725,
+    2.1811888218,
+    41.3871917725
+],
+  "geometry": {"coordinates":[2.1811888218,41.3871917725],"type":"Point"}
+}

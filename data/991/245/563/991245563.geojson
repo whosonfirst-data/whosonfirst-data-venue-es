@@ -1,0 +1,81 @@
+{
+  "id": 991245563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6805973053,40.4427986145,-3.6805973053,40.4427986145",
+    "geom:latitude":40.442799,
+    "geom:longitude":-3.680597,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Duque De Sevilla, 18",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 62 30 46",
+    "sg:postcode":"28002",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863651,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Bvf8k1pIhvwa6zJ6rbjsk_40.442799_-3.680597@1306269460"
+    },
+    "wof:country":"ES",
+    "wof:created":1472539883,
+    "wof:geomhash":"0517b39b07db827e30cc1e7394c54147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863651,
+            "region_id":85682783,
+            "venue_id":991245563
+        }
+    ],
+    "wof:id":991245563,
+    "wof:lastmodified":1472539883,
+    "wof:name":"Canillas Ca\u00f1ada Vicente",
+    "wof:parent_id":85863651,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.6805973053,
+    40.4427986145,
+    -3.6805973053,
+    40.4427986145
+],
+  "geometry": {"coordinates":[-3.6805973053,40.4427986145],"type":"Point"}
+}

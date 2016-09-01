@@ -1,0 +1,59 @@
+{
+  "id": 1008215263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7868340015,43.4672012329,-3.7868340015,43.4672012329",
+    "geom:latitude":43.467201,
+    "geom:longitude":-3.786834,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Perez Galdos, 3",
+    "sg:city":"Santander",
+    "sg:classifiers":[],
+    "sg:orig_category":"Peluquer\u00cdas, Peluquer\u00cda Mixta",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 27 30 86",
+    "sg:postcode":"39005",
+    "sg:province":"Cantabria",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799303,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BAE80Xa0666uzFJqOwCq2_43.467201_-3.786834@1306269624"
+    },
+    "wof:country":"ES",
+    "wof:created":1472613013,
+    "wof:geomhash":"ea81392b0b1dd17821bc38768b1c648e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799303,
+            "region_id":85682833,
+            "venue_id":1008215263
+        }
+    ],
+    "wof:id":1008215263,
+    "wof:lastmodified":1472613013,
+    "wof:name":"Perez Ibarguen Maria Josefa",
+    "wof:parent_id":85799303,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7868340015,
+    43.4672012329,
+    -3.7868340015,
+    43.4672012329
+],
+  "geometry": {"coordinates":[-3.7868340015,43.4672012329],"type":"Point"}
+}

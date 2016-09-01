@@ -1,0 +1,81 @@
+{
+  "id": 991118379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7080140114,40.4146575928,-3.7080140114,40.4146575928",
+    "geom:latitude":40.414658,
+    "geom:longitude":-3.708014,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Cuchilleros, 5",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 66 54 21",
+    "sg:postcode":"28005",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863747,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XSx6PHucIKh7eCFZWVBfc_40.414658_-3.708014@1306269443"
+    },
+    "wof:country":"ES",
+    "wof:created":1472528224,
+    "wof:geomhash":"ac128720eb20722fb9b06385d800b69c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863747,
+            "region_id":85682783,
+            "venue_id":991118379
+        }
+    ],
+    "wof:id":991118379,
+    "wof:lastmodified":1472528224,
+    "wof:name":"Barrios Trujillo Agustin Antonio",
+    "wof:parent_id":85863747,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    -3.7080140114,
+    40.4146575928,
+    -3.7080140114,
+    40.4146575928
+],
+  "geometry": {"coordinates":[-3.7080140114,40.4146575928],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 990912865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1805751324,41.4373321533,2.1805751324,41.4373321533",
+    "geom:latitude":41.437332,
+    "geom:longitude":2.180575,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Rio De Janeiro, 68",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Guarder\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 59 54 35",
+    "sg:postcode":"08016",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799399,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ovkknf5ka3TXiy6jeb0yt_41.437332_2.180575@1306269415"
+    },
+    "wof:country":"ES",
+    "wof:created":1472509847,
+    "wof:geomhash":"4071c24301a5c0e0af1734d717570106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799399,
+            "region_id":85682663,
+            "venue_id":990912865
+        }
+    ],
+    "wof:id":990912865,
+    "wof:lastmodified":1472509847,
+    "wof:name":"Ajuntament De Barcelona",
+    "wof:parent_id":85799399,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1805751324,
+    41.4373321533,
+    2.1805751324,
+    41.4373321533
+],
+  "geometry": {"coordinates":[2.1805751324,41.4373321533],"type":"Point"}
+}

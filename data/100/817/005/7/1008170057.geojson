@@ -1,0 +1,82 @@
+{
+  "id": 1008170057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.688308239,40.4217987061,-3.688308239,40.4217987061",
+    "geom:latitude":40.421799,
+    "geom:longitude":-3.688308,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Conde De Aranda, 2",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 77 42 46",
+    "sg:postcode":"28001",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "sg:website":"www.pilarparra.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863809,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BwrzJP6q3uITCW2t5Djo1_40.421799_-3.688308@1306269617"
+    },
+    "wof:country":"ES",
+    "wof:created":1472603927,
+    "wof:geomhash":"44a5a76eb13599adcc7b6a0317751f73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863809,
+            "region_id":85682783,
+            "venue_id":1008170057
+        }
+    ],
+    "wof:id":1008170057,
+    "wof:lastmodified":1472603927,
+    "wof:name":"Parra Diaz Maria Del Pilar",
+    "wof:parent_id":85863809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    -3.688308239,
+    40.4217987061,
+    -3.688308239,
+    40.4217987061
+],
+  "geometry": {"coordinates":[-3.688308239,40.4217987061],"type":"Point"}
+}

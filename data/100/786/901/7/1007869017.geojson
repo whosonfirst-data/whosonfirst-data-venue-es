@@ -1,0 +1,59 @@
+{
+  "id": 1007869017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5422430038,40.4232826233,-3.5422430038,40.4232826233",
+    "geom:latitude":40.423283,
+    "geom:longitude":-3.542243,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Madrid (de), S/n",
+    "sg:city":"Coslada",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 74 03 51",
+    "sg:postcode":"28820",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863631,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cj4D3FXf4S95yf2ltaSQ3_40.423283_-3.542243@1306269579"
+    },
+    "wof:country":"ES",
+    "wof:created":1472589625,
+    "wof:geomhash":"3b1be3640ca8b26872b7fb049c9f430b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863631,
+            "region_id":85682783,
+            "venue_id":1007869017
+        }
+    ],
+    "wof:id":1007869017,
+    "wof:lastmodified":1472589625,
+    "wof:name":"Madrile\u00f1a De Negocios S.a.",
+    "wof:parent_id":85863631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5422430038,
+    40.4232826233,
+    -3.5422430038,
+    40.4232826233
+],
+  "geometry": {"coordinates":[-3.5422430038,40.4232826233],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1007980285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1709640026,41.3990707397,2.1709640026,41.3990707397",
+    "geom:latitude":41.399071,
+    "geom:longitude":2.170964,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Diagonal, 321",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 07 46 34",
+    "sg:postcode":"08009",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863999,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mZrrRweae3ayxphRKZUfp_41.399071_2.170964@1306269592"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594370,
+    "wof:geomhash":"5c34808b70fd37bf35ef116cf3bf62ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863999,
+            "region_id":85682663,
+            "venue_id":1007980285
+        }
+    ],
+    "wof:id":1007980285,
+    "wof:lastmodified":1472594370,
+    "wof:name":"Mendoza Molinero Pedro",
+    "wof:parent_id":85863999,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1709640026,
+    41.3990707397,
+    2.1709640026,
+    41.3990707397
+],
+  "geometry": {"coordinates":[2.1709640026,41.3990707397],"type":"Point"}
+}

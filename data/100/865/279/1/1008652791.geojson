@@ -1,0 +1,72 @@
+{
+  "id": 1008652791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2194230556,41.4302787781,2.2194230556,41.4302787781",
+    "geom:latitude":41.430279,
+    "geom:longitude":2.219423,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Catalunya, 68",
+    "sg:city":"S. Adria Besos",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 81 52 50",
+    "sg:postcode":"08930",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799179,
+        102191581,
+        404330911,
+        85633129,
+        404227379,
+        101748319,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vFcdkVqyi5ApDmEf9oh8A_41.430279_2.219423@1306269682"
+    },
+    "wof:country":"ES",
+    "wof:created":1472636521,
+    "wof:geomhash":"6e4ce9e054c86be512fdd14219f44901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330911,
+            "locality_id":101748319,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799179,
+            "region_id":85682663,
+            "venue_id":1008652791
+        }
+    ],
+    "wof:id":1008652791,
+    "wof:lastmodified":1472636521,
+    "wof:name":"Trasi Serra Pedro",
+    "wof:parent_id":85799179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2194230556,
+    41.4302787781,
+    2.2194230556,
+    41.4302787781
+],
+  "geometry": {"coordinates":[2.2194230556,41.4302787781],"type":"Point"}
+}

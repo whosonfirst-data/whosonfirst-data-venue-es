@@ -1,0 +1,67 @@
+{
+  "id": 1007808875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0702900887,41.3510513306,2.0702900887,41.3510513306",
+    "geom:latitude":41.351051,
+    "geom:longitude":2.07029,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Barcelona, 2",
+    "sg:city":"Cornella Llobregat",
+    "sg:classifiers":[],
+    "sg:orig_category":"Empresas De Limpieza",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 74 17 65",
+    "sg:postcode":"08940",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799381,
+        102191581,
+        404331349,
+        85633129,
+        404227379,
+        101758769,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A846q2oPCj94zV37qgyaw_41.351051_2.070290@1306269571"
+    },
+    "wof:country":"ES",
+    "wof:created":1472586783,
+    "wof:geomhash":"016c2fe7e7dec51da5c30e03761953eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331349,
+            "locality_id":101758769,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799381,
+            "region_id":85682663,
+            "venue_id":1007808875
+        }
+    ],
+    "wof:id":1007808875,
+    "wof:lastmodified":1472586783,
+    "wof:name":"Limpiezas Ferriz S.l.",
+    "wof:parent_id":85799381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0702900887,
+    41.3510513306,
+    2.0702900887,
+    41.3510513306
+],
+  "geometry": {"coordinates":[2.0702900887,41.3510513306],"type":"Point"}
+}

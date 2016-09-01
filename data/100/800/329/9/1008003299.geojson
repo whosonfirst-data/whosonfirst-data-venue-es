@@ -1,0 +1,63 @@
+{
+  "id": 1008003299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1882209778,41.3805961609,2.1882209778,41.3805961609",
+    "geom:latitude":41.380596,
+    "geom:longitude":2.188221,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Maquinista, 10",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Talleres: Ropa A Medida",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 21 75 48",
+    "sg:postcode":"08003",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4d4hCrixBTkTXRTzewQq4m_41.380596_2.188221@1306269595"
+    },
+    "wof:country":"ES",
+    "wof:created":1472595313,
+    "wof:geomhash":"2c93b49c3dda32e4a50be1e58aebce34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":1008003299
+        }
+    ],
+    "wof:id":1008003299,
+    "wof:lastmodified":1472595313,
+    "wof:name":"Miquel Laporta Salvador",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1882209778,
+    41.3805961609,
+    2.1882209778,
+    41.3805961609
+],
+  "geometry": {"coordinates":[2.1882209778,41.3805961609],"type":"Point"}
+}

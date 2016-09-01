@@ -1,0 +1,79 @@
+{
+  "id": 1008335821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7117080688,40.4111175537,-3.7117080688,40.4111175537",
+    "geom:latitude":40.411118,
+    "geom:longitude":-3.711708,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Francisco Morano, 3",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asociaciones Y Clubs Deportivos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 54 60 04",
+    "sg:postcode":"28005",
+    "sg:province":"Madrid",
+    "sg:website":"www.sportoday.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863775,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yzcUcVHDqJHM6KLU2ml06_40.411118_-3.711708@1306269640"
+    },
+    "wof:country":"ES",
+    "wof:created":1472622881,
+    "wof:geomhash":"5b395fdaed1a64ae39d77e84bf8c9234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863775,
+            "region_id":85682783,
+            "venue_id":1008335821
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863747,
+            "region_id":85682783,
+            "venue_id":1008335821
+        }
+    ],
+    "wof:id":1008335821,
+    "wof:lastmodified":1472622881,
+    "wof:name":"Relajacion Y Deporte S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7117080688,
+    40.4111175537,
+    -3.7117080688,
+    40.4111175537
+],
+  "geometry": {"coordinates":[-3.7117080688,40.4111175537],"type":"Point"}
+}

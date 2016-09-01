@@ -1,0 +1,81 @@
+{
+  "id": 1008399965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6728818417,40.4384231567,-3.6728818417,40.4384231567",
+    "geom:latitude":40.438423,
+    "geom:longitude":-3.672882,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Cartagena, 90",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 55 13 59",
+    "sg:postcode":"28028",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863643,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0T1vxx0uuMhWypLMdIEptC_40.438423_-3.672882@1306269649"
+    },
+    "wof:country":"ES",
+    "wof:created":1472625707,
+    "wof:geomhash":"fb9905c0f1e1cb60972a8b922d3c97fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863643,
+            "region_id":85682783,
+            "venue_id":1008399965
+        }
+    ],
+    "wof:id":1008399965,
+    "wof:lastmodified":1472625707,
+    "wof:name":"Romero Gomez Pedro",
+    "wof:parent_id":85863643,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.6728818417,
+    40.4384231567,
+    -3.6728818417,
+    40.4384231567
+],
+  "geometry": {"coordinates":[-3.6728818417,40.4384231567],"type":"Point"}
+}

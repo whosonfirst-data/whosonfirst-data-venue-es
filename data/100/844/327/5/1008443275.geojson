@@ -1,0 +1,64 @@
+{
+  "id": 1008443275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.3075180054,41.4789276123,2.3075180054,41.4789276123",
+    "geom:latitude":41.478928,
+    "geom:longitude":2.307518,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Navarra, 65",
+    "sg:city":"Masnou",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 935 55 22 87",
+    "sg:postcode":"08320",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799485,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ab2crAoJLV1rGlv6rUoHN_41.478928_2.307518@1306269654"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627690,
+    "wof:geomhash":"1c10eb7cc7c843bfaab894793ab2f7c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799485,
+            "region_id":85682663,
+            "venue_id":1008443275
+        }
+    ],
+    "wof:id":1008443275,
+    "wof:lastmodified":1472627690,
+    "wof:name":"Salvat Colomer Salvador",
+    "wof:parent_id":85799485,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.3075180054,
+    41.4789276123,
+    2.3075180054,
+    41.4789276123
+],
+  "geometry": {"coordinates":[2.3075180054,41.4789276123],"type":"Point"}
+}

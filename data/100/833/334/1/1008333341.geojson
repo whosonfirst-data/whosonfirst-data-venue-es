@@ -1,0 +1,63 @@
+{
+  "id": 1008333341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1950159073,41.3901672363,2.1950159073,41.3901672363",
+    "geom:latitude":41.390167,
+    "geom:longitude":2.195016,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Joan Miro, 19",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pr\u00c9stamos Personales E Hipotecarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 25 19 54",
+    "sg:postcode":"08005",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ANAytUcV1RVsFs4F9eMnk_41.390167_2.195016@1306269640"
+    },
+    "wof:country":"ES",
+    "wof:created":1472622760,
+    "wof:geomhash":"a7254b34640051d238cf3ae47f435b11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":1008333341
+        }
+    ],
+    "wof:id":1008333341,
+    "wof:lastmodified":1472622760,
+    "wof:name":"Registrodelapropiedadnumero2",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1950159073,
+    41.3901672363,
+    2.1950159073,
+    41.3901672363
+],
+  "geometry": {"coordinates":[2.1950159073,41.3901672363],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 991893849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6744890213,40.4476890564,-3.6744890213,40.4476890564",
+    "geom:latitude":40.447689,
+    "geom:longitude":-3.674489,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Perez Ayuso, 11",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 13 82 38",
+    "sg:postcode":"28002",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ],
+    "sg:website":"www.yogabindu.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863647,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RcQQxgu29xojJ8HlzWUnc_40.447689_-3.674489@1306269546"
+    },
+    "wof:country":"ES",
+    "wof:created":1472577214,
+    "wof:geomhash":"9c72adb129457a20ec42a30bafb958b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863647,
+            "region_id":85682783,
+            "venue_id":991893849
+        }
+    ],
+    "wof:id":991893849,
+    "wof:lastmodified":1472577214,
+    "wof:name":"Hernandez Castro Danilo",
+    "wof:parent_id":85863647,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "yoga",
+        "clases"
+    ]
+},
+  "bbox": [
+    -3.6744890213,
+    40.4476890564,
+    -3.6744890213,
+    40.4476890564
+],
+  "geometry": {"coordinates":[-3.6744890213,40.4476890564],"type":"Point"}
+}

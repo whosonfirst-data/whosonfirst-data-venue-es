@@ -1,0 +1,67 @@
+{
+  "id": 1008503693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2049601078,41.4347114563,2.2049601078,41.4347114563",
+    "geom:latitude":41.434711,
+    "geom:longitude":2.20496,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ptge Enric Sanchis, S/n",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Pescader\u00cdas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 39 55 55",
+    "sg:postcode":"08030",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799559,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Hzoe97UxW2oGIkoBg2j75_41.434711_2.204960@1306269662"
+    },
+    "wof:country":"ES",
+    "wof:created":1472630179,
+    "wof:geomhash":"dac03e7f3419b3bff08278b867576928",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799559,
+            "region_id":85682663,
+            "venue_id":1008503693
+        }
+    ],
+    "wof:id":1008503693,
+    "wof:lastmodified":1472630179,
+    "wof:name":"Serra Mora Eva",
+    "wof:parent_id":85799559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2049601078,
+    41.4347114563,
+    2.2049601078,
+    41.4347114563
+],
+  "geometry": {"coordinates":[2.2049601078,41.4347114563],"type":"Point"}
+}

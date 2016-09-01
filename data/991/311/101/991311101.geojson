@@ -1,0 +1,59 @@
+{
+  "id": 991311101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2309789658,41.4528236389,2.2309789658,41.4528236389",
+    "geom:latitude":41.452824,
+    "geom:longitude":2.230979,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rbla Sant Joan, 621",
+    "sg:city":"Badalona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ense\u00d1anza, Formaci\u00d3n Profesional: Aprendizaje",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 99 54 11",
+    "sg:postcode":"08917",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799485,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5242pRLUQF2qcv03YldAyg_41.452824_2.230979@1306269469"
+    },
+    "wof:country":"ES",
+    "wof:created":1472543162,
+    "wof:geomhash":"72939e8921549c9e5a0f467cd3ee401f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799485,
+            "region_id":85682663,
+            "venue_id":991311101
+        }
+    ],
+    "wof:id":991311101,
+    "wof:lastmodified":1472543162,
+    "wof:name":"Centre De Telecomunicaciones De Catalunya",
+    "wof:parent_id":85799485,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2309789658,
+    41.4528236389,
+    2.2309789658,
+    41.4528236389
+],
+  "geometry": {"coordinates":[2.2309789658,41.4528236389],"type":"Point"}
+}

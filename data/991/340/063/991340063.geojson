@@ -1,0 +1,81 @@
+{
+  "id": 991340063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.29626894,36.5321083069,-6.29626894,36.5321083069",
+    "geom:latitude":36.532108,
+    "geom:longitude":-6.296269,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Palillero (del), S/n",
+    "sg:city":"Cadiz",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 956 22 52 70",
+    "sg:postcode":"11001",
+    "sg:province":"C\u00e1diz",
+    "sg:tags":[
+        "salas",
+        "de",
+        "cine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799573,
+        102191581,
+        404333033,
+        85633129,
+        404227361,
+        101748173,
+        85682679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_459F3AwOlhRkapFsPFVhr7_36.532108_-6.296269@1306269472"
+    },
+    "wof:country":"ES",
+    "wof:created":1472544544,
+    "wof:geomhash":"0409955a8d94847555f6eebca74b00c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333033,
+            "locality_id":101748173,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85799573,
+            "region_id":85682679,
+            "venue_id":991340063
+        }
+    ],
+    "wof:id":991340063,
+    "wof:lastmodified":1472544544,
+    "wof:name":"Cinecity 2000 S.a.",
+    "wof:parent_id":85799573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salas",
+        "de",
+        "cine"
+    ]
+},
+  "bbox": [
+    -6.29626894,
+    36.5321083069,
+    -6.29626894,
+    36.5321083069
+],
+  "geometry": {"coordinates":[-6.29626894,36.5321083069],"type":"Point"}
+}

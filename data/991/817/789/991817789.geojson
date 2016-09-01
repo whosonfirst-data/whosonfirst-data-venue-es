@@ -1,0 +1,67 @@
+{
+  "id": 991817789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7385020256,40.3943099976,-3.7385020256,40.3943099976",
+    "geom:latitude":40.39431,
+    "geom:longitude":-3.738502,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Lopez Mezquia, 9",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicio De Salud",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 66 56 68",
+    "sg:postcode":"28019",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863765,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sXOCxGYBiYMn5jrKsTMJE_40.394310_-3.738502@1306269536"
+    },
+    "wof:country":"ES",
+    "wof:created":1472572917,
+    "wof:geomhash":"44965b2de0b6850fa649ea2ec4011816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863765,
+            "region_id":85682783,
+            "venue_id":991817789
+        }
+    ],
+    "wof:id":991817789,
+    "wof:lastmodified":1472572917,
+    "wof:name":"Gonzalez Alcaide Luis",
+    "wof:parent_id":85863765,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7385020256,
+    40.3943099976,
+    -3.7385020256,
+    40.3943099976
+],
+  "geometry": {"coordinates":[-3.7385020256,40.3943099976],"type":"Point"}
+}

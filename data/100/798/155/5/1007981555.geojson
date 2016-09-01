@@ -1,0 +1,72 @@
+{
+  "id": 1007981555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6742112637,40.4570198059,-3.6742112637,40.4570198059",
+    "geom:latitude":40.45702,
+    "geom:longitude":-3.674211,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Colombia, 20",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 50 41 87",
+    "sg:postcode":"28016",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863599,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sRKv7CXiX8ZPKXV3YPeF0_40.457020_-3.674211@1306269592"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594414,
+    "wof:geomhash":"44a66bc72b395e7ed71152fc0bd34f64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863599,
+            "region_id":85682783,
+            "venue_id":1007981555
+        }
+    ],
+    "wof:id":1007981555,
+    "wof:lastmodified":1472594414,
+    "wof:name":"Menendez Treita Jose",
+    "wof:parent_id":85863599,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6742112637,
+    40.4570198059,
+    -3.6742112637,
+    40.4570198059
+],
+  "geometry": {"coordinates":[-3.6742112637,40.4570198059],"type":"Point"}
+}

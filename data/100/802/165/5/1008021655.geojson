@@ -1,0 +1,67 @@
+{
+  "id": 1008021655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1020040512,41.3752326965,2.1020040512,41.3752326965",
+    "geom:latitude":41.375233,
+    "geom:longitude":2.102004,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Covadonga, 43",
+    "sg:city":"Hospitalet Llobregat",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 38 27 44",
+    "sg:postcode":"08906",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799283,
+        102191581,
+        404331105,
+        85633129,
+        404227379,
+        101748333,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6a6w2rYCN9IVaa68NMmphY_41.375233_2.102004@1306269597"
+    },
+    "wof:country":"ES",
+    "wof:created":1472596101,
+    "wof:geomhash":"564e54e68db7fbea47713308b3d1f068",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331105,
+            "locality_id":101748333,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799283,
+            "region_id":85682663,
+            "venue_id":1008021655
+        }
+    ],
+    "wof:id":1008021655,
+    "wof:lastmodified":1472596101,
+    "wof:name":"Monasterio Sanchez Antonio",
+    "wof:parent_id":85799283,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1020040512,
+    41.3752326965,
+    2.1020040512,
+    41.3752326965
+],
+  "geometry": {"coordinates":[2.1020040512,41.3752326965],"type":"Point"}
+}

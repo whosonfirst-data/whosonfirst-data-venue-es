@@ -1,0 +1,75 @@
+{
+  "id": 990981897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.194231987,41.3996200562,2.194231987,41.3996200562",
+    "geom:latitude":41.39962,
+    "geom:longitude":2.194232,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Badajoz, 102",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Suministros Para Hoteles",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 09 61 14",
+    "sg:postcode":"08018",
+    "sg:province":"Barcelona",
+    "sg:website":"www.matachana.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799265,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0axXD8hzAm9Cx3bg7va742_41.399620_2.194232@1306269425"
+    },
+    "wof:country":"ES",
+    "wof:created":1472517838,
+    "wof:geomhash":"f1c6db51877321a3e4ea81f6683981b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799265,
+            "region_id":85682663,
+            "venue_id":990981897
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":990981897
+        }
+    ],
+    "wof:id":990981897,
+    "wof:lastmodified":1472517838,
+    "wof:name":"Antonio Matachana S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.194231987,
+    41.3996200562,
+    2.194231987,
+    41.3996200562
+],
+  "geometry": {"coordinates":[2.194231987,41.3996200562],"type":"Point"}
+}

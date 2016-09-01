@@ -1,0 +1,78 @@
+{
+  "id": 1008485427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1758439541,41.4102058411,2.1758439541,41.4102058411",
+    "geom:latitude":41.410206,
+    "geom:longitude":2.175844,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Cartagena, 302",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Doctores En Medicina",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 55 67 46",
+    "sg:postcode":"08025",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864001,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85863999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IcQVmqE4uFWEv4zaqWxEc_41.410206_2.175844@1306269660"
+    },
+    "wof:country":"ES",
+    "wof:created":1472629342,
+    "wof:geomhash":"294ee265e8a68df34de84d48da9573ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864001,
+            "region_id":85682663,
+            "venue_id":1008485427
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863999,
+            "region_id":85682663,
+            "venue_id":1008485427
+        }
+    ],
+    "wof:id":1008485427,
+    "wof:lastmodified":1472629342,
+    "wof:name":"Satorra Matilla Miguel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1758439541,
+    41.4102058411,
+    2.1758439541,
+    41.4102058411
+],
+  "geometry": {"coordinates":[2.1758439541,41.4102058411],"type":"Point"}
+}

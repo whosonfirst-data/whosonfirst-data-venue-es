@@ -1,0 +1,87 @@
+{
+  "id": 1007829757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.710144043,40.4344902039,-3.710144043,40.4344902039",
+    "geom:latitude":40.43449,
+    "geom:longitude":-3.710144,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Galileo, 52",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 45 46 65",
+    "sg:postcode":"28015",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "obras",
+        "de",
+        "coleccionismo",
+        "compraventa",
+        "arte",
+        "y"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863659,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gdg8kVRT5YwrB4cE1QnIa_40.434490_-3.710144@1306269573"
+    },
+    "wof:country":"ES",
+    "wof:created":1472587698,
+    "wof:geomhash":"c700749c6243230559f16cbdef053e50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863659,
+            "region_id":85682783,
+            "venue_id":1007829757
+        }
+    ],
+    "wof:id":1007829757,
+    "wof:lastmodified":1472587698,
+    "wof:name":"Lopez Benito Carolina",
+    "wof:parent_id":85863659,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "obras",
+        "de",
+        "coleccionismo",
+        "compraventa",
+        "arte",
+        "y"
+    ]
+},
+  "bbox": [
+    -3.710144043,
+    40.4344902039,
+    -3.710144043,
+    40.4344902039
+],
+  "geometry": {"coordinates":[-3.710144043,40.4344902039],"type":"Point"}
+}

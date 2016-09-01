@@ -1,0 +1,74 @@
+{
+  "id": 991515653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.7955670357,37.8741073608,-4.7955670357,37.8741073608",
+    "geom:latitude":37.874107,
+    "geom:longitude":-4.795567,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Virgen De Los Dolores, 6",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[],
+    "sg:orig_category":"Sales (al Por Mayor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 41 33 12",
+    "sg:postcode":"14004",
+    "sg:province":"C\u00f3rdoba",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863887,
+        85682697,
+        85863883,
+        102191581,
+        404333687,
+        404227361,
+        101748233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GvK0oL59wn4p5g19DdYub_37.874107_-4.795567@1306269496"
+    },
+    "wof:country":"ES",
+    "wof:created":1472555202,
+    "wof:geomhash":"8894d0f6c072cf1fb0e36f5c52dfee38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863887,
+            "region_id":85682697,
+            "venue_id":991515653
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863883,
+            "region_id":85682697,
+            "venue_id":991515653
+        }
+    ],
+    "wof:id":991515653,
+    "wof:lastmodified":1472555202,
+    "wof:name":"Distribuidora Quesera Diguisa S. A.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7955670357,
+    37.8741073608,
+    -4.7955670357,
+    37.8741073608
+],
+  "geometry": {"coordinates":[-4.7955670357,37.8741073608],"type":"Point"}
+}

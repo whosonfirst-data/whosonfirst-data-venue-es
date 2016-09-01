@@ -1,0 +1,60 @@
+{
+  "id": 1008570919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4078240097,39.4572143555,-0.4078240097,39.4572143555",
+    "geom:latitude":39.457214,
+    "geom:longitude":-0.407824,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Velluters, Dels, 10",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicio De Salud",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 79 95 62",
+    "sg:postcode":"46014",
+    "sg:province":"Valencia",
+    "sg:website":"www.sumivalls.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864205,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3auQQomfchd71nV3XYDKvJ_39.457214_-0.407824@1306269671"
+    },
+    "wof:country":"ES",
+    "wof:created":1472633004,
+    "wof:geomhash":"12b0cc371ae84b3194e6844ed9748a6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864205,
+            "region_id":85682867,
+            "venue_id":1008570919
+        }
+    ],
+    "wof:id":1008570919,
+    "wof:lastmodified":1472633004,
+    "wof:name":"Suministros Valls S.l.",
+    "wof:parent_id":85864205,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4078240097,
+    39.4572143555,
+    -0.4078240097,
+    39.4572143555
+],
+  "geometry": {"coordinates":[-0.4078240097,39.4572143555],"type":"Point"}
+}

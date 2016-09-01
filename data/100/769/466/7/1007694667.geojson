@@ -1,0 +1,67 @@
+{
+  "id": 1007694667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1660881042,41.3814735413,2.1660881042,41.3814735413",
+    "geom:latitude":41.381474,
+    "geom:longitude":2.166088,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Guifre, 12",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electricidad: Instalaciones Industriales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 43 96 96",
+    "sg:postcode":"08001",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864035,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1opzp2NxF9sNEl8qwYDimx_41.381474_2.166088@1306269556"
+    },
+    "wof:country":"ES",
+    "wof:created":1472580721,
+    "wof:geomhash":"ec7f40b0bc9b2367586d72383d49ad52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864035,
+            "region_id":85682663,
+            "venue_id":1007694667
+        }
+    ],
+    "wof:id":1007694667,
+    "wof:lastmodified":1472580721,
+    "wof:name":"Instalaciones Manuel Sanchez S. L.",
+    "wof:parent_id":85864035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1660881042,
+    41.3814735413,
+    2.1660881042,
+    41.3814735413
+],
+  "geometry": {"coordinates":[2.1660881042,41.3814735413],"type":"Point"}
+}

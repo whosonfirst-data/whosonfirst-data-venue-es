@@ -1,0 +1,60 @@
+{
+  "id": 1008629785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8508019447,40.3466949463,-3.8508019447,40.3466949463",
+    "geom:latitude":40.346695,
+    "geom:longitude":-3.850802,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Roma, 5",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Comercio De Mobiliario De Oficina",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 89 14 83",
+    "sg:postcode":"28925",
+    "sg:province":"Madrid",
+    "sg:website":"www.comercialmadrid.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MaIIk4V4qx2hT2Z5wBShM_40.346695_-3.850802@1306269679"
+    },
+    "wof:country":"ES",
+    "wof:created":1472635540,
+    "wof:geomhash":"4f128f649e74f77620a1a7bf84c286bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008629785
+        }
+    ],
+    "wof:id":1008629785,
+    "wof:lastmodified":1472635540,
+    "wof:name":"Tomas Madrid Fuentes S. L.",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8508019447,
+    40.3466949463,
+    -3.8508019447,
+    40.3466949463
+],
+  "geometry": {"coordinates":[-3.8508019447,40.3466949463],"type":"Point"}
+}

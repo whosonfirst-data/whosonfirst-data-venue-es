@@ -1,0 +1,67 @@
+{
+  "id": 1008205105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.2978987694,36.5355033875,-6.2978987694,36.5355033875",
+    "geom:latitude":36.535503,
+    "geom:longitude":-6.297899,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Buenos Aires, 11",
+    "sg:city":"Cadiz",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 956 22 69 15",
+    "sg:postcode":"11003",
+    "sg:province":"C\u00e1diz",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799573,
+        102191581,
+        404333033,
+        85633129,
+        404227361,
+        101748173,
+        85682679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TYk2bz8pyNCOCbD1bTKfA_36.535503_-6.297899@1306269622"
+    },
+    "wof:country":"ES",
+    "wof:created":1472610692,
+    "wof:geomhash":"2a05645cb1a62ee38bcdb4065767e252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333033,
+            "locality_id":101748173,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85799573,
+            "region_id":85682679,
+            "venue_id":1008205105
+        }
+    ],
+    "wof:id":1008205105,
+    "wof:lastmodified":1472610692,
+    "wof:name":"Perea Saenz Guillermo",
+    "wof:parent_id":85799573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.2978987694,
+    36.5355033875,
+    -6.2978987694,
+    36.5355033875
+],
+  "geometry": {"coordinates":[-6.2978987694,36.5355033875],"type":"Point"}
+}

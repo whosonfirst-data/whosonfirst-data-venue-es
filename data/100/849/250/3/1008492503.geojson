@@ -1,0 +1,59 @@
+{
+  "id": 1008492503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4867660105,38.3528633118,-0.4867660105,38.3528633118",
+    "geom:latitude":38.352863,
+    "geom:longitude":-0.486766,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Alferez Diaz Sanchis, 5",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ingeniero",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 25 85 19",
+    "sg:postcode":"03004",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864065,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IcIQHkzt7XmJ9LCNXkXCF_38.352863_-0.486766@1306269661"
+    },
+    "wof:country":"ES",
+    "wof:created":1472629662,
+    "wof:geomhash":"fb78a1b7fd2cff3002acfaf470d2876d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864065,
+            "region_id":85682625,
+            "venue_id":1008492503
+        }
+    ],
+    "wof:id":1008492503,
+    "wof:lastmodified":1472629662,
+    "wof:name":"Segui Albors Mari Angeles",
+    "wof:parent_id":85864065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4867660105,
+    38.3528633118,
+    -0.4867660105,
+    38.3528633118
+],
+  "geometry": {"coordinates":[-0.4867660105,38.3528633118],"type":"Point"}
+}

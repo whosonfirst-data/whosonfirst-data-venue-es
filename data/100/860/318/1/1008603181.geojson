@@ -1,0 +1,79 @@
+{
+  "id": 1008603181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.203166008,41.4046707153,2.203166008,41.4046707153",
+    "geom:latitude":41.404671,
+    "geom:longitude":2.203166,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Lope De Vega, 99",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aparatos, Material Y Suministros Para Laboratorios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 935 11 68 97",
+    "sg:postcode":"08005",
+    "sg:province":"Barcelona",
+    "sg:website":"www.tecil.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799265,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vSAClDkc3Ck3DyXud28V4_41.404671_2.203166@1306269676"
+    },
+    "wof:country":"ES",
+    "wof:created":1472634396,
+    "wof:geomhash":"53b624d7f6fbaf2ad6b461b992440faa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799265,
+            "region_id":85682663,
+            "venue_id":1008603181
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864011,
+            "region_id":85682663,
+            "venue_id":1008603181
+        }
+    ],
+    "wof:id":1008603181,
+    "wof:lastmodified":1472634396,
+    "wof:name":"Tecil S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.203166008,
+    41.4046707153,
+    2.203166008,
+    41.4046707153
+],
+  "geometry": {"coordinates":[2.203166008,41.4046707153],"type":"Point"}
+}

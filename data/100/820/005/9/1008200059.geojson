@@ -1,0 +1,81 @@
+{
+  "id": 1008200059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1660909653,41.3966827393,2.1660909653,41.3966827393",
+    "geom:latitude":41.396683,
+    "geom:longitude":2.166091,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Mallorca, 299",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 57 86 53",
+    "sg:postcode":"08037",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864017,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DsWOETx7jquFE9HZA7SAt_41.396683_2.166091@1306269622"
+    },
+    "wof:country":"ES",
+    "wof:created":1472609533,
+    "wof:geomhash":"f9ee91b870876858ea7556b4ce1607ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864017,
+            "region_id":85682663,
+            "venue_id":1008200059
+        }
+    ],
+    "wof:id":1008200059,
+    "wof:lastmodified":1472609533,
+    "wof:name":"Peluqueria Feltom S.c.p.",
+    "wof:parent_id":85864017,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.1660909653,
+    41.3966827393,
+    2.1660909653,
+    41.3966827393
+],
+  "geometry": {"coordinates":[2.1660909653,41.3966827393],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1008443535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8781660199,41.6367034912,-0.8781660199,41.6367034912",
+    "geom:latitude":41.636703,
+    "geom:longitude":-0.878166,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Maria Moliner, 102",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 37 19 84",
+    "sg:postcode":"50007",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863361,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78wcyyTSxOhyrsBCVNQqr6_41.636703_-0.878166@1306269654"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627699,
+    "wof:geomhash":"56b4dd5df1cde22d07531243d3d8d56a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863361,
+            "region_id":85682891,
+            "venue_id":1008443535
+        }
+    ],
+    "wof:id":1008443535,
+    "wof:lastmodified":1472627699,
+    "wof:name":"Salvo Pamplona Jose Luis",
+    "wof:parent_id":85863361,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -0.8781660199,
+    41.6367034912,
+    -0.8781660199,
+    41.6367034912
+],
+  "geometry": {"coordinates":[-0.8781660199,41.6367034912],"type":"Point"}
+}

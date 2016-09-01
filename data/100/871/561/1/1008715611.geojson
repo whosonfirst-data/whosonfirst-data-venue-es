@@ -1,0 +1,60 @@
+{
+  "id": 1008715611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8356209993,41.6677093506,-0.8356209993,41.6677093506",
+    "geom:latitude":41.667709,
+    "geom:longitude":-0.835621,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Santa Isabel, 53",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 13 81 41",
+    "sg:postcode":"50016",
+    "sg:province":"Zaragoza",
+    "sg:website":"www.zaragozatouras.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863327,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mtz17dBIQB65VtD4sqiiG_41.667709_-0.835621@1306269691"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639253,
+    "wof:geomhash":"834bdaff67d27e39331580e28a29177d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863327,
+            "region_id":85682891,
+            "venue_id":1008715611
+        }
+    ],
+    "wof:id":1008715611,
+    "wof:lastmodified":1472639253,
+    "wof:name":"Viajes Male S.%.",
+    "wof:parent_id":85863327,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8356209993,
+    41.6677093506,
+    -0.8356209993,
+    41.6677093506
+],
+  "geometry": {"coordinates":[-0.8356209993,41.6677093506],"type":"Point"}
+}

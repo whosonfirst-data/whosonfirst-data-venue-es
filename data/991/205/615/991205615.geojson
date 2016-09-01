@@ -1,0 +1,60 @@
+{
+  "id": 991205615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8074638844,40.3456878662,-3.8074638844,40.3456878662",
+    "geom:latitude":40.345688,
+    "geom:longitude":-3.807464,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Inspector Juan Antonio Bueno, 4",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cajas De Ahorro",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 12 37 25",
+    "sg:postcode":"28924",
+    "sg:province":"Madrid",
+    "sg:website":"www.lacaixa.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ul0KmEP9RxjxPPWpQdq33_40.345688_-3.807464@1306269454"
+    },
+    "wof:country":"ES",
+    "wof:created":1472536940,
+    "wof:geomhash":"47a47dcb542ddc51f3af7cff11100841",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":991205615
+        }
+    ],
+    "wof:id":991205615,
+    "wof:lastmodified":1472536940,
+    "wof:name":"Caixa D'estalvis I Pensions De Barcelona",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8074638844,
+    40.3456878662,
+    -3.8074638844,
+    40.3456878662
+],
+  "geometry": {"coordinates":[-3.8074638844,40.3456878662],"type":"Point"}
+}

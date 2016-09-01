@@ -1,0 +1,59 @@
+{
+  "id": 1007743745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.627753973,40.5497512817,-3.627753973,40.5497512817",
+    "geom:latitude":40.549751,
+    "geom:longitude":-3.627754,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Onofre (de), 6",
+    "sg:city":"San Sebastian De Los Reyes",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alimentaci\u00d3n General (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 52 89 50",
+    "sg:postcode":"28700",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799389,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Gm4BaYfQWszyucrb9TeOM_40.549751_-3.627754@1306269562"
+    },
+    "wof:country":"ES",
+    "wof:created":1472583330,
+    "wof:geomhash":"030a7d7f85a16303b7bfef0cbe25db52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799389,
+            "region_id":85682783,
+            "venue_id":1007743745
+        }
+    ],
+    "wof:id":1007743745,
+    "wof:lastmodified":1472583330,
+    "wof:name":"Jose Geijo Casado Y Otros Cdad.",
+    "wof:parent_id":85799389,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.627753973,
+    40.5497512817,
+    -3.627753973,
+    40.5497512817
+],
+  "geometry": {"coordinates":[-3.627753973,40.5497512817],"type":"Point"}
+}

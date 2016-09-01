@@ -1,0 +1,86 @@
+{
+  "id": 1024496711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.168021,41.392852,2.168021,41.392852",
+    "geom:latitude":41.392852,
+    "geom:longitude":2.168021,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Consell de Cent 334",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"E08009",
+    "sg:tags":[
+        "legal",
+        "law",
+        "case-law",
+        "legislation",
+        "contract-forms",
+        "law-journals"
+    ],
+    "sg:website":"http://vlex.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864017,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vJA02925TGVF24CleRry6_41.392852_2.168021@1308163238"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641479,
+    "wof:geomhash":"35b259c599267f25e6474383f92fdebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864017,
+            "region_id":85682663,
+            "venue_id":1024496711
+        }
+    ],
+    "wof:id":1024496711,
+    "wof:lastmodified":1472641479,
+    "wof:name":"vLex",
+    "wof:parent_id":85864017,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "legal",
+        "law",
+        "case-law",
+        "legislation",
+        "contract-forms",
+        "law-journals"
+    ]
+},
+  "bbox": [
+    2.168021,
+    41.392852,
+    2.168021,
+    41.392852
+],
+  "geometry": {"coordinates":[2.168021,41.392852],"type":"Point"}
+}

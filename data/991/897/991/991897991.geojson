@@ -1,0 +1,73 @@
+{
+  "id": 991897991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8569290042,41.6557044983,-0.8569290042,41.6557044983",
+    "geom:latitude":41.655704,
+    "geom:longitude":-0.856929,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Matias Maluenda, 5",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 20 19 07",
+    "sg:postcode":"50014",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863327,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6j0WDXxdX4SvOthKlWWXf6_41.655704_-0.856929@1306269547"
+    },
+    "wof:country":"ES",
+    "wof:created":1472577422,
+    "wof:geomhash":"d1508c4f2e76d630a7a68c1f22e6842e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863327,
+            "region_id":85682891,
+            "venue_id":991897991
+        }
+    ],
+    "wof:id":991897991,
+    "wof:lastmodified":1472577422,
+    "wof:name":"Hernandez Pelarda Angel",
+    "wof:parent_id":85863327,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -0.8569290042,
+    41.6557044983,
+    -0.8569290042,
+    41.6557044983
+],
+  "geometry": {"coordinates":[-0.8569290042,41.6557044983],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1008004175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2054789066,41.3994903564,2.2054789066,41.3994903564",
+    "geom:latitude":41.39949,
+    "geom:longitude":2.205479,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Taulat, 103",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 25 36 38",
+    "sg:postcode":"08005",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799265,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VOxujO1qTZxSi73a6xQL4_41.399490_2.205479@1306269595"
+    },
+    "wof:country":"ES",
+    "wof:created":1472595355,
+    "wof:geomhash":"faff48b8d5d5784d74b6399a152ce651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799265,
+            "region_id":85682663,
+            "venue_id":1008004175
+        }
+    ],
+    "wof:id":1008004175,
+    "wof:lastmodified":1472595355,
+    "wof:name":"Miralles Barrachina Nuria",
+    "wof:parent_id":85799265,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    2.2054789066,
+    41.3994903564,
+    2.2054789066,
+    41.3994903564
+],
+  "geometry": {"coordinates":[2.2054789066,41.3994903564],"type":"Point"}
+}

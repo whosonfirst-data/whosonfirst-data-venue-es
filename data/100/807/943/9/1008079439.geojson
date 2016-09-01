@@ -1,0 +1,78 @@
+{
+  "id": 1008079439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1370959282,41.406917572,2.1370959282,41.406917572",
+    "geom:latitude":41.406918,
+    "geom:longitude":2.137096,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Castanyer, 13",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Doctores En Medicina",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 54 04 01",
+    "sg:postcode":"08022",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863989,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85799611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0c0SHelRuoPtb0HRf1Abj1_41.406918_2.137096@1306269605"
+    },
+    "wof:country":"ES",
+    "wof:created":1472598612,
+    "wof:geomhash":"c8d87159f5a74078a777ce9ed831730a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863989,
+            "region_id":85682663,
+            "venue_id":1008079439
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799611,
+            "region_id":85682663,
+            "venue_id":1008079439
+        }
+    ],
+    "wof:id":1008079439,
+    "wof:lastmodified":1472598612,
+    "wof:name":"Naranjo Trujillo Patricia",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1370959282,
+    41.406917572,
+    2.1370959282,
+    41.406917572
+],
+  "geometry": {"coordinates":[2.1370959282,41.406917572],"type":"Point"}
+}

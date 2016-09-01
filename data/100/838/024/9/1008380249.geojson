@@ -1,0 +1,68 @@
+{
+  "id": 1008380249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-8.2299098969,43.4855270386,-8.2299098969,43.4855270386",
+    "geom:latitude":43.485527,
+    "geom:longitude":-8.22991,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rua Galiano, 23",
+    "sg:city":"Ferrol",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 981 32 59 52",
+    "sg:postcode":"15402",
+    "sg:province":"La Coru\u00f1a",
+    "sg:website":"www.sacaelcarnet.com/cosmos",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101748407,
+        85799423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dZfXtjioKJQKYZQ4jYOs3_43.485527_-8.229910@1306269646"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624769,
+    "wof:geomhash":"27870f98ec05981d38749cf4d34fad41",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748407,
+            "neighbourhood_id":85799423,
+            "region_id":-1,
+            "venue_id":1008380249
+        }
+    ],
+    "wof:id":1008380249,
+    "wof:lastmodified":1472624769,
+    "wof:name":"Rodriguez Gonzalez Cipriano",
+    "wof:parent_id":85799423,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.2299098969,
+    43.4855270386,
+    -8.2299098969,
+    43.4855270386
+],
+  "geometry": {"coordinates":[-8.2299098969,43.4855270386],"type":"Point"}
+}

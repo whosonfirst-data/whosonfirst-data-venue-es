@@ -1,0 +1,59 @@
+{
+  "id": 1008637671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5367391109,40.4273643494,-3.5367391109,40.4273643494",
+    "geom:latitude":40.427364,
+    "geom:longitude":-3.536739,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Albino Perez Ayestarain (de), 38",
+    "sg:city":"San Fernando De Henares",
+    "sg:classifiers":[],
+    "sg:orig_category":"Empresas De Pintura Y Revestimientos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 72 91 70",
+    "sg:postcode":"28830",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863709,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04WRQvOWYIOuRlQQlfRDzv_40.427364_-3.536739@1306269680"
+    },
+    "wof:country":"ES",
+    "wof:created":1472635870,
+    "wof:geomhash":"0e06eb555018a32319a59922046b4820",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863709,
+            "region_id":85682783,
+            "venue_id":1008637671
+        }
+    ],
+    "wof:id":1008637671,
+    "wof:lastmodified":1472635870,
+    "wof:name":"Torres Diaz Pedro",
+    "wof:parent_id":85863709,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5367391109,
+    40.4273643494,
+    -3.5367391109,
+    40.4273643494
+],
+  "geometry": {"coordinates":[-3.5367391109,40.4273643494],"type":"Point"}
+}

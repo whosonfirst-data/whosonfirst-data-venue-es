@@ -1,0 +1,59 @@
+{
+  "id": 1007756749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1872389317,41.3927192688,2.1872389317,41.3927192688",
+    "geom:latitude":41.392719,
+    "geom:longitude":2.187239,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sardenya, 63",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Mercer\u00cda, Lencer\u00cda (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 00 57 08",
+    "sg:postcode":"08018",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_276Z4JdR6GdOb6JDDSgsTf_41.392719_2.187239@1306269564"
+    },
+    "wof:country":"ES",
+    "wof:created":1472584081,
+    "wof:geomhash":"3a309dedd28b3cdf3a49ed93f36b454f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1007756749
+        }
+    ],
+    "wof:id":1007756749,
+    "wof:lastmodified":1472584081,
+    "wof:name":"Jufre Manzano Carmen",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1872389317,
+    41.3927192688,
+    2.1872389317,
+    41.3927192688
+],
+  "geometry": {"coordinates":[2.1872389317,41.3927192688],"type":"Point"}
+}

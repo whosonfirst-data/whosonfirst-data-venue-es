@@ -1,0 +1,64 @@
+{
+  "id": 991035833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7354946136,40.4762191772,-3.7354946136,40.4762191772",
+    "geom:latitude":40.476219,
+    "geom:longitude":-3.735495,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ramon Pulido, 26",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Organizaciones Internacionales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 86 69 40",
+    "sg:postcode":"28035",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85682783,
+        102191581,
+        85633129,
+        101748283,
+        85863557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YQ7Ebxr0BRnh9nrbsW267_40.476219_-3.735495@1306269432"
+    },
+    "wof:country":"ES",
+    "wof:created":1472521889,
+    "wof:geomhash":"1e1c9bd3420b5375c7fd6fec27815c27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748283,
+            "neighbourhood_id":85863557,
+            "region_id":85682783,
+            "venue_id":991035833
+        }
+    ],
+    "wof:id":991035833,
+    "wof:lastmodified":1472521889,
+    "wof:name":"Asociacion Dual",
+    "wof:parent_id":85863557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7354946136,
+    40.4762191772,
+    -3.7354946136,
+    40.4762191772
+],
+  "geometry": {"coordinates":[-3.7354946136,40.4762191772],"type":"Point"}
+}

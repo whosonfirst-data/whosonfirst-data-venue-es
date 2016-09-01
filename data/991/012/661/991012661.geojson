@@ -1,0 +1,72 @@
+{
+  "id": 991012661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7510023117,40.3745307922,-3.7510023117,40.3745307922",
+    "geom:latitude":40.374531,
+    "geom:longitude":-3.751002,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Eugenia De Montijo, 106",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 08 30 88",
+    "sg:postcode":"28044",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863781,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101753743,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KbSTGwlrQIxpHgxZOToiA_40.374531_-3.751002@1306269429"
+    },
+    "wof:country":"ES",
+    "wof:created":1472520132,
+    "wof:geomhash":"55c8b96f323723506513c2bc95847d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101753743,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863781,
+            "region_id":85682783,
+            "venue_id":991012661
+        }
+    ],
+    "wof:id":991012661,
+    "wof:lastmodified":1472520132,
+    "wof:name":"Arroyo Escudero Felix",
+    "wof:parent_id":85863781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7510023117,
+    40.3745307922,
+    -3.7510023117,
+    40.3745307922
+],
+  "geometry": {"coordinates":[-3.7510023117,40.3745307922],"type":"Point"}
+}

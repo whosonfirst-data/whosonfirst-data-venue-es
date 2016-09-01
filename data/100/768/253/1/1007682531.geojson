@@ -1,0 +1,79 @@
+{
+  "id": 1007682531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.7883615494,37.8814353943,-4.7883615494,37.8814353943",
+    "geom:latitude":37.881435,
+    "geom:longitude":-4.788362,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Camino De Los Sastres, 10",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[],
+    "sg:orig_category":"Inform\u00c1tica, Ofim\u00c1tica (estudios, Asesor\u00cda, Ingenier\u00cda, Formaci\u00d3n)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 41 37 19",
+    "sg:postcode":"14004",
+    "sg:province":"C\u00f3rdoba",
+    "sg:website":"www.beep.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863883,
+        102191581,
+        404333687,
+        85633129,
+        404227361,
+        101748233,
+        85682697,
+        85863885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75Txl7ZF1YbYvZu7DBq08B_37.881435_-4.788362@1306269554"
+    },
+    "wof:country":"ES",
+    "wof:created":1472580124,
+    "wof:geomhash":"868aa87d658a9db4399358b3b2abb07d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863883,
+            "region_id":85682697,
+            "venue_id":1007682531
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863885,
+            "region_id":85682697,
+            "venue_id":1007682531
+        }
+    ],
+    "wof:id":1007682531,
+    "wof:lastmodified":1472580124,
+    "wof:name":"Informacor Sl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7883615494,
+    37.8814353943,
+    -4.7883615494,
+    37.8814353943
+],
+  "geometry": {"coordinates":[-4.7883615494,37.8814353943],"type":"Point"}
+}

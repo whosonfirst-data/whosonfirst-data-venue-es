@@ -1,0 +1,72 @@
+{
+  "id": 1008152885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0822989941,41.3634262085,2.0822989941,41.3634262085",
+    "geom:latitude":41.363426,
+    "geom:longitude":2.082299,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Bedoll, 8",
+    "sg:city":"Cornella Llobregat",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 76 18 48",
+    "sg:postcode":"08940",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799283,
+        102191581,
+        404331105,
+        85633129,
+        404227379,
+        101748333,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rECrfgz2PsZWnGo5KZqHR_41.363426_2.082299@1306269615"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601961,
+    "wof:geomhash":"ce98e6d16b031a8bf524fc1ff5f4c3dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331105,
+            "locality_id":101748333,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799283,
+            "region_id":85682663,
+            "venue_id":1008152885
+        }
+    ],
+    "wof:id":1008152885,
+    "wof:lastmodified":1472601961,
+    "wof:name":"Palacios Palacios Jose Domingo",
+    "wof:parent_id":85799283,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0822989941,
+    41.3634262085,
+    2.0822989941,
+    41.3634262085
+],
+  "geometry": {"coordinates":[2.0822989941,41.3634262085],"type":"Point"}
+}

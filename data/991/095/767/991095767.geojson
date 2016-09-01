@@ -1,0 +1,78 @@
+{
+  "id": 991095767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6259999275,40.3776092529,-3.6259999275,40.3776092529",
+    "geom:latitude":40.377609,
+    "geom:longitude":-3.626,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Sierra Vieja, 39",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 03 25 26",
+    "sg:postcode":"28031",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863723,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zt1hBLdBM53BuJqHlSc0m_40.377609_-3.626000@1306269440"
+    },
+    "wof:country":"ES",
+    "wof:created":1472526477,
+    "wof:geomhash":"15e4c09df81e6c795eb791cd1e375d24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863723,
+            "region_id":85682783,
+            "venue_id":991095767
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863725,
+            "region_id":85682783,
+            "venue_id":991095767
+        }
+    ],
+    "wof:id":991095767,
+    "wof:lastmodified":1472526477,
+    "wof:name":"Ballesteros Magro Francisca",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6259999275,
+    40.3776092529,
+    -3.6259999275,
+    40.3776092529
+],
+  "geometry": {"coordinates":[-3.6259999275,40.3776092529],"type":"Point"}
+}

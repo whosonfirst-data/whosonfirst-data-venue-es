@@ -1,0 +1,67 @@
+{
+  "id": 990913037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1382758617,41.3810997009,2.1382758617,41.3810997009",
+    "geom:latitude":41.3811,
+    "geom:longitude":2.138276,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Melcior De Palau, 134",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros De Educaci\u00d3n Especial",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 90 79 32",
+    "sg:postcode":"08014",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799597,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74FxGOjRSY8AvrHut4cUpC_41.381100_2.138276@1306269415"
+    },
+    "wof:country":"ES",
+    "wof:created":1472509860,
+    "wof:geomhash":"800b8f39ef39280aed10839960327bdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799597,
+            "region_id":85682663,
+            "venue_id":990913037
+        }
+    ],
+    "wof:id":990913037,
+    "wof:lastmodified":1472509860,
+    "wof:name":"Ajuntament De Barcelona",
+    "wof:parent_id":85799597,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1382758617,
+    41.3810997009,
+    2.1382758617,
+    41.3810997009
+],
+  "geometry": {"coordinates":[2.1382758617,41.3810997009],"type":"Point"}
+}

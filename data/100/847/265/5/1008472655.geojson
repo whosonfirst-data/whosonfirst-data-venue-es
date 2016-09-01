@@ -1,0 +1,79 @@
+{
+  "id": 1008472655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6964309216,40.4117889404,-3.6964309216,40.4117889404",
+    "geom:latitude":40.411789,
+    "geom:longitude":-3.696431,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Gobernador, 3",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Diarios, Revistas Y Boletines (distribuidores)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 29 37 74",
+    "sg:postcode":"28014",
+    "sg:province":"Madrid",
+    "sg:website":"www.nodo50.org/worldwatch",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863793,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51ckKJZCX49ACOZI51RxXg_40.411789_-3.696431@1306269658"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628821,
+    "wof:geomhash":"2db690be1c680f494bb47d30368214af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863793,
+            "region_id":85682783,
+            "venue_id":1008472655
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863685,
+            "region_id":85682783,
+            "venue_id":1008472655
+        }
+    ],
+    "wof:id":1008472655,
+    "wof:lastmodified":1472628821,
+    "wof:name":"Santamarta Florez Jose",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6964309216,
+    40.4117889404,
+    -3.6964309216,
+    40.4117889404
+],
+  "geometry": {"coordinates":[-3.6964309216,40.4117889404],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1008154483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.0327391624,37.3991012573,-6.0327391624,37.3991012573",
+    "geom:latitude":37.399101,
+    "geom:longitude":-6.032739,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Turia, 30",
+    "sg:city":"Camas",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 39 63 89",
+    "sg:postcode":"41900",
+    "sg:province":"Sevilla",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864123,
+        102191581,
+        404342807,
+        85633129,
+        404227361,
+        101757457,
+        85682841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57aZ5xUpGNVAVJB8el22Vj_37.399101_-6.032739@1306269615"
+    },
+    "wof:country":"ES",
+    "wof:created":1472602042,
+    "wof:geomhash":"6e95e7d64232ca5312253345d4414d8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342807,
+            "locality_id":101757457,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864123,
+            "region_id":85682841,
+            "venue_id":1008154483
+        }
+    ],
+    "wof:id":1008154483,
+    "wof:lastmodified":1472602042,
+    "wof:name":"Pallares Barrera Julian",
+    "wof:parent_id":85864123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -6.0327391624,
+    37.3991012573,
+    -6.0327391624,
+    37.3991012573
+],
+  "geometry": {"coordinates":[-6.0327391624,37.3991012573],"type":"Point"}
+}

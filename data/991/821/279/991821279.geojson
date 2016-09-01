@@ -1,0 +1,92 @@
+{
+  "id": 991821279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7019619942,40.4005966187,-3.7019619942,40.4005966187",
+    "geom:latitude":40.400597,
+    "geom:longitude":-3.701962,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pe\u00d1uelas, 43",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 74 27 25",
+    "sg:postcode":"28005",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863743,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dV6N3noNYBsiq5jOSNue3_40.400597_-3.701962@1306269537"
+    },
+    "wof:country":"ES",
+    "wof:created":1472573097,
+    "wof:geomhash":"d736d26c4ae94b2cd5cee658e56aa3b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863743,
+            "region_id":85682783,
+            "venue_id":991821279
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863745,
+            "region_id":85682783,
+            "venue_id":991821279
+        }
+    ],
+    "wof:id":991821279,
+    "wof:lastmodified":1472573097,
+    "wof:name":"Gonzalez Cordero Benito",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.7019619942,
+    40.4005966187,
+    -3.7019619942,
+    40.4005966187
+],
+  "geometry": {"coordinates":[-3.7019619942,40.4005966187],"type":"Point"}
+}

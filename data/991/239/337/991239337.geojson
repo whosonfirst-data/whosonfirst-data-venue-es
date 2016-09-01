@@ -1,0 +1,81 @@
+{
+  "id": 991239337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.739511013,40.3888053894,-3.739511013,40.3888053894",
+    "geom:latitude":40.388805,
+    "geom:longitude":-3.739511,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Oca, 65",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 61 52 49",
+    "sg:postcode":"28025",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863765,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hUfgbsDI5Wi19ENoWd4re_40.388805_-3.739511@1306269459"
+    },
+    "wof:country":"ES",
+    "wof:created":1472539473,
+    "wof:geomhash":"741836dcf82d478e4b9940c0952fc299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863765,
+            "region_id":85682783,
+            "venue_id":991239337
+        }
+    ],
+    "wof:id":991239337,
+    "wof:lastmodified":1472539473,
+    "wof:name":"Campo Blanco Samuel",
+    "wof:parent_id":85863765,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [
+    -3.739511013,
+    40.3888053894,
+    -3.739511013,
+    40.3888053894
+],
+  "geometry": {"coordinates":[-3.739511013,40.3888053894],"type":"Point"}
+}

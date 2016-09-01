@@ -1,0 +1,78 @@
+{
+  "id": 1008455005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.7816181183,37.8874778748,-4.7816181183,37.8874778748",
+    "geom:latitude":37.887478,
+    "geom:longitude":-4.781618,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Manuel De Sandoval, 5",
+    "sg:city":"Cordoba",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asesor\u00cda Sobre Comunicaci\u00d3n De Empresas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 957 49 03 30",
+    "sg:postcode":"14008",
+    "sg:province":"C\u00f3rdoba",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863865,
+        102191581,
+        404333687,
+        85633129,
+        404227361,
+        101748233,
+        85682697,
+        85863895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QDagYl2mQh8RqVuW7X85l_37.887478_-4.781618@1306269656"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628125,
+    "wof:geomhash":"0bc3bbe8f4065ae0f0a9c5bfb6b3d287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863865,
+            "region_id":85682697,
+            "venue_id":1008455005
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404333687,
+            "locality_id":101748233,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85863895,
+            "region_id":85682697,
+            "venue_id":1008455005
+        }
+    ],
+    "wof:id":1008455005,
+    "wof:lastmodified":1472628125,
+    "wof:name":"Sanchez Luque Antonio Gregorio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7816181183,
+    37.8874778748,
+    -4.7816181183,
+    37.8874778748
+],
+  "geometry": {"coordinates":[-4.7816181183,37.8874778748],"type":"Point"}
+}

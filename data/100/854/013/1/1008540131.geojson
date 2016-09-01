@@ -1,0 +1,67 @@
+{
+  "id": 1008540131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1541750431,41.3503112793,2.1541750431,41.3503112793",
+    "geom:latitude":41.350311,
+    "geom:longitude":2.154175,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Via Circulacio Del Nord, S/n",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Barcos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 23 01 79",
+    "sg:postcode":"08039",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799225,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Bf97Jt4AVPzsYM82olw40_41.350311_2.154175@1306269667"
+    },
+    "wof:country":"ES",
+    "wof:created":1472631701,
+    "wof:geomhash":"bc8ac94c3901faa4e7418413d816858f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799225,
+            "region_id":85682663,
+            "venue_id":1008540131
+        }
+    ],
+    "wof:id":1008540131,
+    "wof:lastmodified":1472631701,
+    "wof:name":"Sociedad Estatal De Estiba Y Desestiba Del Puerto De Barcelona S.a.",
+    "wof:parent_id":85799225,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1541750431,
+    41.3503112793,
+    2.1541750431,
+    41.3503112793
+],
+  "geometry": {"coordinates":[2.1541750431,41.3503112793],"type":"Point"}
+}

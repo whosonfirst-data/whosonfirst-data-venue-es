@@ -1,0 +1,81 @@
+{
+  "id": 1007982997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1296958923,41.3806762695,2.1296958923,41.3806762695",
+    "geom:latitude":41.380676,
+    "geom:longitude":2.129696,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Pobla De Lillet, 12",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 91 24 21",
+    "sg:postcode":"08028",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799597,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AgFHbhqlPQzqPmKeFp1jO_41.380676_2.129696@1306269593"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594459,
+    "wof:geomhash":"b0f387d1efa0258ae38b8981e635dc2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799597,
+            "region_id":85682663,
+            "venue_id":1007982997
+        }
+    ],
+    "wof:id":1007982997,
+    "wof:lastmodified":1472594459,
+    "wof:name":"Menvall S.l.",
+    "wof:parent_id":85799597,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ]
+},
+  "bbox": [
+    2.1296958923,
+    41.3806762695,
+    2.1296958923,
+    41.3806762695
+],
+  "geometry": {"coordinates":[2.1296958923,41.3806762695],"type":"Point"}
+}

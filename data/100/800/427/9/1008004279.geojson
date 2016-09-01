@@ -1,0 +1,59 @@
+{
+  "id": 1008004279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8731100559,40.4919319153,-3.8731100559,40.4919319153",
+    "geom:latitude":40.491932,
+    "geom:longitude":-3.87311,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Iglesia, 2",
+    "sg:city":"Rozas De Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados Especialistas En Derecho Penal",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 36 31 52",
+    "sg:postcode":"28230",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863613,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bIx8W30hD63jwtAtTzUhV_40.491932_-3.873110@1306269595"
+    },
+    "wof:country":"ES",
+    "wof:created":1472595358,
+    "wof:geomhash":"db7473762a2cfac54bad8d61a19b39c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863613,
+            "region_id":85682783,
+            "venue_id":1008004279
+        }
+    ],
+    "wof:id":1008004279,
+    "wof:lastmodified":1472595358,
+    "wof:name":"Miralles De Imperial Hornedo Maria Ana",
+    "wof:parent_id":85863613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8731100559,
+    40.4919319153,
+    -3.8731100559,
+    40.4919319153
+],
+  "geometry": {"coordinates":[-3.8731100559,40.4919319153],"type":"Point"}
+}

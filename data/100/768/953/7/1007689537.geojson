@@ -1,0 +1,74 @@
+{
+  "id": 1007689537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6698079109,39.5773162842,2.6698079109,39.5773162842",
+    "geom:latitude":39.577316,
+    "geom:longitude":2.669808,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Indalecio Prieto, 11",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Zapatos (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 27 16 87",
+    "sg:postcode":"07008",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864111,
+        85682647,
+        85864089,
+        102191581,
+        404330817,
+        404227367,
+        101748237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VFkltpOQt7FqJ3uIwA2gh_39.577316_2.669808@1306269555"
+    },
+    "wof:country":"ES",
+    "wof:created":1472580486,
+    "wof:geomhash":"9ba9e6da9a511e30e2f5691bc7aecf11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864111,
+            "region_id":85682647,
+            "venue_id":1007689537
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864089,
+            "region_id":85682647,
+            "venue_id":1007689537
+        }
+    ],
+    "wof:id":1007689537,
+    "wof:lastmodified":1472580486,
+    "wof:name":"Inmobulding Group S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6698079109,
+    39.5773162842,
+    2.6698079109,
+    39.5773162842
+],
+  "geometry": {"coordinates":[2.6698079109,39.5773162842],"type":"Point"}
+}

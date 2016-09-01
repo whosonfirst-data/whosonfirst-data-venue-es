@@ -1,0 +1,65 @@
+{
+  "id": 991056369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5604550838,40.4275360107,-3.5604550838,40.4275360107",
+    "geom:latitude":40.427536,
+    "geom:longitude":-3.560455,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Constitucion (de La), 98",
+    "sg:city":"Coslada",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 72 18 21",
+    "sg:postcode":"28820",
+    "sg:province":"Madrid",
+    "sg:website":"www.autoescuelagoya.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863629,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1r7Np9Q3KEpCSVjgXc3BDz_40.427536_-3.560455@1306269435"
+    },
+    "wof:country":"ES",
+    "wof:created":1472523376,
+    "wof:geomhash":"75081618805a43b710459569c703c872",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863629,
+            "region_id":85682783,
+            "venue_id":991056369
+        }
+    ],
+    "wof:id":991056369,
+    "wof:lastmodified":1472523376,
+    "wof:name":"Auto Escuela Goya S. L.",
+    "wof:parent_id":85863629,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5604550838,
+    40.4275360107,
+    -3.5604550838,
+    40.4275360107
+],
+  "geometry": {"coordinates":[-3.5604550838,40.4275360107],"type":"Point"}
+}

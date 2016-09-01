@@ -1,0 +1,67 @@
+{
+  "id": 1008065867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1980919838,41.4067001343,2.1980919838,41.4067001343",
+    "geom:latitude":41.4067,
+    "geom:longitude":2.198092,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Bilbao, 145",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 07 05 74",
+    "sg:postcode":"08018",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799265,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_194E56DneddDfyESe2FFC0_41.406700_2.198092@1306269603"
+    },
+    "wof:country":"ES",
+    "wof:created":1472597988,
+    "wof:geomhash":"f5416038c317b168665fccc1079ef82c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799265,
+            "region_id":85682663,
+            "venue_id":1008065867
+        }
+    ],
+    "wof:id":1008065867,
+    "wof:lastmodified":1472597988,
+    "wof:name":"Munne Campos Marina",
+    "wof:parent_id":85799265,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1980919838,
+    41.4067001343,
+    2.1980919838,
+    41.4067001343
+],
+  "geometry": {"coordinates":[2.1980919838,41.4067001343],"type":"Point"}
+}

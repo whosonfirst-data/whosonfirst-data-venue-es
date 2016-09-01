@@ -1,0 +1,78 @@
+{
+  "id": 991589423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1617751122,41.4087905884,2.1617751122,41.4087905884",
+    "geom:latitude":41.408791,
+    "geom:longitude":2.161775,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Legalitat, 57",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Distribuci\u00d3n De Petr\u00d3leo Y Derivados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 13 52 20",
+    "sg:postcode":"08024",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863999,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85799393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mUuC07WSjaVDEhbVZ6X2g_41.408791_2.161775@1306269506"
+    },
+    "wof:country":"ES",
+    "wof:created":1472559122,
+    "wof:geomhash":"ced5a0ebd68dc9ac329af05b374720fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863999,
+            "region_id":85682663,
+            "venue_id":991589423
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799393,
+            "region_id":85682663,
+            "venue_id":991589423
+        }
+    ],
+    "wof:id":991589423,
+    "wof:lastmodified":1472559122,
+    "wof:name":"Estacion De Servicio Legalidad S. A.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1617751122,
+    41.4087905884,
+    2.1617751122,
+    41.4087905884
+],
+  "geometry": {"coordinates":[2.1617751122,41.4087905884],"type":"Point"}
+}

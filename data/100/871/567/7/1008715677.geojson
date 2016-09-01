@@ -1,0 +1,68 @@
+{
+  "id": 1008715677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7150309086,40.4286499023,-3.7150309086,40.4286499023",
+    "geom:latitude":40.42865,
+    "geom:longitude":-3.715031,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Princesa, 35",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 47 35 00",
+    "sg:postcode":"28008",
+    "sg:province":"Madrid",
+    "sg:website":"www.marsans.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863669,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YQizzUqyWxhlNRoxUVjJx_40.428650_-3.715031@1306269691"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639255,
+    "wof:geomhash":"a04e3e6a8ad6c4f5382af1d730f80b62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863669,
+            "region_id":85682783,
+            "venue_id":1008715677
+        }
+    ],
+    "wof:id":1008715677,
+    "wof:lastmodified":1472639255,
+    "wof:name":"Viajes Marsans",
+    "wof:parent_id":85863669,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7150309086,
+    40.4286499023,
+    -3.7150309086,
+    40.4286499023
+],
+  "geometry": {"coordinates":[-3.7150309086,40.4286499023],"type":"Point"}
+}

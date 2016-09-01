@@ -1,0 +1,60 @@
+{
+  "id": 1008243357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2470281124,41.4633140564,2.2470281124,41.4633140564",
+    "geom:latitude":41.463314,
+    "geom:longitude":2.247028,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carr Alacant, 1",
+    "sg:city":"Badalona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Empresas De Pintura Y Revestimientos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 65 15 60",
+    "sg:postcode":"08915",
+    "sg:province":"Barcelona",
+    "sg:website":"www.pinturasabello.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799485,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VcFeTsBsbCVlcEUmbTdjq_41.463314_2.247028@1306269628"
+    },
+    "wof:country":"ES",
+    "wof:created":1472615586,
+    "wof:geomhash":"13f873b6b544973189759d4f511d3887",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799485,
+            "region_id":85682663,
+            "venue_id":1008243357
+        }
+    ],
+    "wof:id":1008243357,
+    "wof:lastmodified":1472615586,
+    "wof:name":"Pinturas Antonio Bello S. A.",
+    "wof:parent_id":85799485,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2470281124,
+    41.4633140564,
+    2.2470281124,
+    41.4633140564
+],
+  "geometry": {"coordinates":[2.2470281124,41.4633140564],"type":"Point"}
+}

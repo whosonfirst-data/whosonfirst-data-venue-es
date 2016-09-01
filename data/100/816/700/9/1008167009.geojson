@@ -1,0 +1,78 @@
+{
+  "id": 1008167009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3758620024,39.4657669067,-0.3758620024,39.4657669067",
+    "geom:latitude":39.465767,
+    "geom:longitude":-0.375862,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Psaj Doctor Serra, 12",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 51 51 70",
+    "sg:postcode":"46004",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864207,
+        102191581,
+        404345361,
+        85633129,
+        404227381,
+        101748241,
+        85682867,
+        85864209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2A8dElYJ9kAaCK95lZ31Ho_39.465767_-0.375862@1306269617"
+    },
+    "wof:country":"ES",
+    "wof:created":1472603513,
+    "wof:geomhash":"b0f78e920985d085f2ab2a981581bd2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345361,
+            "locality_id":101748241,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864207,
+            "region_id":85682867,
+            "venue_id":1008167009
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345361,
+            "locality_id":101748241,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864209,
+            "region_id":85682867,
+            "venue_id":1008167009
+        }
+    ],
+    "wof:id":1008167009,
+    "wof:lastmodified":1472603513,
+    "wof:name":"Pardos Algarra Vicente",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3758620024,
+    39.4657669067,
+    -0.3758620024,
+    39.4657669067
+],
+  "geometry": {"coordinates":[-0.3758620024,39.4657669067],"type":"Point"}
+}

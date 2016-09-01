@@ -1,0 +1,63 @@
+{
+  "id": 1007871175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1888771057,41.3795394897,2.1888771057,41.3795394897",
+    "geom:latitude":41.379539,
+    "geom:longitude":2.188877,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Escuder, 10",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 21 74 13",
+    "sg:postcode":"08003",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YOm7B9RyxbaCTPN8edgaU_41.379539_2.188877@1306269579"
+    },
+    "wof:country":"ES",
+    "wof:created":1472589728,
+    "wof:geomhash":"e2c5096935aff8f38b509253942aa5c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":1007871175
+        }
+    ],
+    "wof:id":1007871175,
+    "wof:lastmodified":1472589728,
+    "wof:name":"Magemm S. A.",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1888771057,
+    41.3795394897,
+    2.1888771057,
+    41.3795394897
+],
+  "geometry": {"coordinates":[2.1888771057,41.3795394897],"type":"Point"}
+}

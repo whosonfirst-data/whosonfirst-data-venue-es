@@ -1,0 +1,59 @@
+{
+  "id": 1008480865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.4682309628,40.4502296448,-3.4682309628,40.4502296448",
+    "geom:latitude":40.45023,
+    "geom:longitude":-3.468231,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Marmol, 11",
+    "sg:city":"Torrejon Ardoz",
+    "sg:classifiers":[],
+    "sg:orig_category":"Lavado, Limpieza De Veh\u00cdculos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 77 50 62",
+    "sg:postcode":"28850",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863709,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6V3SsGqhIEGtpEHpH1E1XH_40.450230_-3.468231@1306269659"
+    },
+    "wof:country":"ES",
+    "wof:created":1472629157,
+    "wof:geomhash":"692c0efc5c20749ba0fa6511685bb639",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863709,
+            "region_id":85682783,
+            "venue_id":1008480865
+        }
+    ],
+    "wof:id":1008480865,
+    "wof:lastmodified":1472629157,
+    "wof:name":"Sanz Rubio Marcelo",
+    "wof:parent_id":85863709,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.4682309628,
+    40.4502296448,
+    -3.4682309628,
+    40.4502296448
+],
+  "geometry": {"coordinates":[-3.4682309628,40.4502296448],"type":"Point"}
+}

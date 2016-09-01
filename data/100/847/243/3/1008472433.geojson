@@ -1,0 +1,78 @@
+{
+  "id": 1008472433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1765189171,41.4047927856,2.1765189171,41.4047927856",
+    "geom:latitude":41.404793,
+    "geom:longitude":2.176519,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Lepant, 280",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ropa Para Ni\u00d1os (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 35 99 10",
+    "sg:postcode":"08013",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864013,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85863999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0p2AfJ2xZrzayoRCHvO2BN_41.404793_2.176519@1306269658"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628811,
+    "wof:geomhash":"cdd132d8e12f38bf0d84b5277bdc7010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864013,
+            "region_id":85682663,
+            "venue_id":1008472433
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863999,
+            "region_id":85682663,
+            "venue_id":1008472433
+        }
+    ],
+    "wof:id":1008472433,
+    "wof:lastmodified":1472628811,
+    "wof:name":"Santamaria Salgado Francisco",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1765189171,
+    41.4047927856,
+    2.1765189171,
+    41.4047927856
+],
+  "geometry": {"coordinates":[2.1765189171,41.4047927856],"type":"Point"}
+}

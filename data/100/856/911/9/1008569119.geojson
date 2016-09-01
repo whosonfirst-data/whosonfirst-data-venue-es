@@ -1,0 +1,59 @@
+{
+  "id": 1008569119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1793830395,41.3986320496,2.1793830395,41.3986320496",
+    "geom:latitude":41.398632,
+    "geom:longitude":2.179383,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sardenya, 199",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Electricidad: Equipos Industriales, Componentes (fabricaci\u00d3n)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 65 45 83",
+    "sg:postcode":"08013",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hOkor7sbWox288VvlHrnH_41.398632_2.179383@1306269671"
+    },
+    "wof:country":"ES",
+    "wof:created":1472632932,
+    "wof:geomhash":"85785b9d22d2e941c8b4e112617f9fc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008569119
+        }
+    ],
+    "wof:id":1008569119,
+    "wof:lastmodified":1472632932,
+    "wof:name":"Suministros Electricos Quars S.a.",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1793830395,
+    41.3986320496,
+    2.1793830395,
+    41.3986320496
+],
+  "geometry": {"coordinates":[2.1793830395,41.3986320496],"type":"Point"}
+}

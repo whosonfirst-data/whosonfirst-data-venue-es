@@ -1,0 +1,78 @@
+{
+  "id": 990931027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6774203777,40.4300308228,-3.6774203777,40.4300308228",
+    "geom:latitude":40.430031,
+    "geom:longitude":-3.67742,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Jose Ortega Y Gasset, 49",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asesor\u00cda Fiscal Y Jur\u00cddica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 09 28 53",
+    "sg:postcode":"28006",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863805,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pLW7FH84zvD3lTgyFUPn3_40.430031_-3.677420@1306269418"
+    },
+    "wof:country":"ES",
+    "wof:created":1472511347,
+    "wof:geomhash":"9997000e26c847ee411a69ea95c2a616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863805,
+            "region_id":85682783,
+            "venue_id":990931027
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863673,
+            "region_id":85682783,
+            "venue_id":990931027
+        }
+    ],
+    "wof:id":990931027,
+    "wof:lastmodified":1472511347,
+    "wof:name":"Alfalop Investments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6774203777,
+    40.4300308228,
+    -3.6774203777,
+    40.4300308228
+],
+  "geometry": {"coordinates":[-3.6774203777,40.4300308228],"type":"Point"}
+}

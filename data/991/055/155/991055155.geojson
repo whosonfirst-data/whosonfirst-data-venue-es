@@ -1,0 +1,64 @@
+{
+  "id": 991055155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6359128952,39.5827217102,2.6359128952,39.5827217102",
+    "geom:latitude":39.582722,
+    "geom:longitude":2.635913,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sagasta, 27",
+    "sg:city":"Palma",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 73 05 24",
+    "sg:postcode":"07011",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864101,
+        85682647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SaHJfocSS27BuF4Hd9V4p_39.582722_2.635913@1306269434"
+    },
+    "wof:country":"ES",
+    "wof:created":1472523290,
+    "wof:geomhash":"6d3aae71d09bb43dfa3ea6196862cd5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864101,
+            "region_id":85682647,
+            "venue_id":991055155
+        }
+    ],
+    "wof:id":991055155,
+    "wof:lastmodified":1472523290,
+    "wof:name":"Autoescola Mallorca S.cv.",
+    "wof:parent_id":85864101,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6359128952,
+    39.5827217102,
+    2.6359128952,
+    39.5827217102
+],
+  "geometry": {"coordinates":[2.6359128952,39.5827217102],"type":"Point"}
+}

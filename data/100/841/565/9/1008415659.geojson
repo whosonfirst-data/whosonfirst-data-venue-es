@@ -1,0 +1,81 @@
+{
+  "id": 1008415659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8657379746,41.6408843994,-0.8657379746,41.6408843994",
+    "geom:latitude":41.640884,
+    "geom:longitude":-0.865738,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Francisco De Quevedo, 12",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 13 47 54",
+    "sg:postcode":"50013",
+    "sg:province":"Zaragoza",
+    "sg:tags":[
+        "de",
+        "industrial",
+        "alquiler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863355,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fz7bZJBfmOkJANZhDcOaX_41.640884_-0.865738@1306269651"
+    },
+    "wof:country":"ES",
+    "wof:created":1472626498,
+    "wof:geomhash":"24109cc188a4ce8e5a87385ae63a6e79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863355,
+            "region_id":85682891,
+            "venue_id":1008415659
+        }
+    ],
+    "wof:id":1008415659,
+    "wof:lastmodified":1472626498,
+    "wof:name":"Rubio Y Gaytan S. A.",
+    "wof:parent_id":85863355,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "de",
+        "industrial",
+        "alquiler"
+    ]
+},
+  "bbox": [
+    -0.8657379746,
+    41.6408843994,
+    -0.8657379746,
+    41.6408843994
+],
+  "geometry": {"coordinates":[-0.8657379746,41.6408843994],"type":"Point"}
+}

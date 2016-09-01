@@ -1,0 +1,72 @@
+{
+  "id": 1007943209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7041840553,40.4126205444,-3.7041840553,40.4126205444",
+    "geom:latitude":40.412621,
+    "geom:longitude":-3.704184,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Tirso De Molina, 18",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 69 38 36",
+    "sg:postcode":"28012",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863793,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hCWc4dCg7vQGXcCrQJVED_40.412621_-3.704184@1306269588"
+    },
+    "wof:country":"ES",
+    "wof:created":1472592831,
+    "wof:geomhash":"e89809e7e15dbbd85de7784f48f688f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863793,
+            "region_id":85682783,
+            "venue_id":1007943209
+        }
+    ],
+    "wof:id":1007943209,
+    "wof:lastmodified":1472592831,
+    "wof:name":"Martin Martin Santiago",
+    "wof:parent_id":85863793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7041840553,
+    40.4126205444,
+    -3.7041840553,
+    40.4126205444
+],
+  "geometry": {"coordinates":[-3.7041840553,40.4126205444],"type":"Point"}
+}

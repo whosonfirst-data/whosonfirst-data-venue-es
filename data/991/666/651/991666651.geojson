@@ -1,0 +1,72 @@
+{
+  "id": 991666651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1805860996,41.4285125732,2.1805860996,41.4285125732",
+    "geom:latitude":41.428513,
+    "geom:longitude":2.180586,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Velia, 27",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 51 67 32",
+    "sg:postcode":"08016",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799399,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VZcPB1O7mRtMab9iFYwVj_41.428513_2.180586@1306269516"
+    },
+    "wof:country":"ES",
+    "wof:created":1472563808,
+    "wof:geomhash":"26877588fc0958be0304cb0a839a4af5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799399,
+            "region_id":85682663,
+            "venue_id":991666651
+        }
+    ],
+    "wof:id":991666651,
+    "wof:lastmodified":1472563808,
+    "wof:name":"Fina Moral Juan",
+    "wof:parent_id":85799399,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1805860996,
+    41.4285125732,
+    2.1805860996,
+    41.4285125732
+],
+  "geometry": {"coordinates":[2.1805860996,41.4285125732],"type":"Point"}
+}

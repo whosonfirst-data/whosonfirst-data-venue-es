@@ -1,0 +1,78 @@
+{
+  "id": 991137403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6636641026,40.382774353,-3.6636641026,40.382774353",
+    "geom:latitude":40.382774,
+    "geom:longitude":-3.663664,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Sierra Nevada, 7",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Chapister\u00cda",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 86 12 10",
+    "sg:postcode":"28018",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863729,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oAL4bjRK7LKTCwVmE0GmR_40.382774_-3.663664@1306269445"
+    },
+    "wof:country":"ES",
+    "wof:created":1472530351,
+    "wof:geomhash":"c42285cfaa093baecc536b88c9345fd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863729,
+            "region_id":85682783,
+            "venue_id":991137403
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863733,
+            "region_id":85682783,
+            "venue_id":991137403
+        }
+    ],
+    "wof:id":991137403,
+    "wof:lastmodified":1472530351,
+    "wof:name":"Benito Pozo Lorenzo",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6636641026,
+    40.382774353,
+    -3.6636641026,
+    40.382774353
+],
+  "geometry": {"coordinates":[-3.6636641026,40.382774353],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 1008314113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5453810692,40.5041770935,-3.5453810692,40.5041770935",
+    "geom:latitude":40.504177,
+    "geom:longitude":-3.545381,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Jarama (del), S/n",
+    "sg:city":"El Cruce",
+    "sg:classifiers":[],
+    "sg:orig_category":"Librer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 58 42 80",
+    "sg:postcode":"28860",
+    "sg:province":"Madrid",
+    "sg:website":"www.ra-ma.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863587,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Fsfs4AtRypzAgHyT5gR0v_40.504177_-3.545381@1306269637"
+    },
+    "wof:country":"ES",
+    "wof:created":1472621958,
+    "wof:geomhash":"b77922f49511f1c8438242f4fff048ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863587,
+            "region_id":85682783,
+            "venue_id":1008314113
+        }
+    ],
+    "wof:id":1008314113,
+    "wof:lastmodified":1472621958,
+    "wof:name":"Ramirez Martin S. A.",
+    "wof:parent_id":85863587,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5453810692,
+    40.5041770935,
+    -3.5453810692,
+    40.5041770935
+],
+  "geometry": {"coordinates":[-3.5453810692,40.5041770935],"type":"Point"}
+}

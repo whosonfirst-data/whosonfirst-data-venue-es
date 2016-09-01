@@ -1,0 +1,84 @@
+{
+  "id": 1024496779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6902569,40.4610921,-3.6902569,40.4610921",
+    "geom:latitude":40.461092,
+    "geom:longitude":-3.690257,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Paseo de la Castellana, 153 Bajo",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"28046",
+    "sg:tags":[
+        "virtual-assistants",
+        "natural-language-interaction",
+        "virtual-agent",
+        "online-slaes",
+        "cutomer-service-optimization"
+    ],
+    "sg:website":"http://www.artificial-solutions.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863603,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0L6DG40xVoYtrsCIPNI8Nz_40.461092_-3.690257@1308163242"
+    },
+    "wof:country":"ES",
+    "wof:created":1472641481,
+    "wof:geomhash":"dae1cc0dba75d025c0b7cdc5b1b812ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863603,
+            "region_id":85682783,
+            "venue_id":1024496779
+        }
+    ],
+    "wof:id":1024496779,
+    "wof:lastmodified":1472641481,
+    "wof:name":"Artificial Solutions",
+    "wof:parent_id":85863603,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "virtual-assistants",
+        "natural-language-interaction",
+        "virtual-agent",
+        "online-slaes",
+        "cutomer-service-optimization"
+    ]
+},
+  "bbox": [
+    -3.6902569,
+    40.4610921,
+    -3.6902569,
+    40.4610921
+],
+  "geometry": {"coordinates":[-3.6902569,40.4610921],"type":"Point"}
+}

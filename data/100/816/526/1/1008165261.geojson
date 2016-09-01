@@ -1,0 +1,59 @@
+{
+  "id": 1008165261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6063520908,40.3781738281,-3.6063520908,40.3781738281",
+    "geom:latitude":40.378174,
+    "geom:longitude":-3.606352,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Poza De La Sal, 24",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias Y Agentes Comerciales, Representantes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 31 15 34",
+    "sg:postcode":"28031",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863777,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dUodtcqoW4grTv2eUbzIg_40.378174_-3.606352@1306269617"
+    },
+    "wof:country":"ES",
+    "wof:created":1472603264,
+    "wof:geomhash":"225e44f68a88ae06574e1417632aaceb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863777,
+            "region_id":85682783,
+            "venue_id":1008165261
+        }
+    ],
+    "wof:id":1008165261,
+    "wof:lastmodified":1472603264,
+    "wof:name":"Paradero Blanco Antonio",
+    "wof:parent_id":85863777,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6063520908,
+    40.3781738281,
+    -3.6063520908,
+    40.3781738281
+],
+  "geometry": {"coordinates":[-3.6063520908,40.3781738281],"type":"Point"}
+}

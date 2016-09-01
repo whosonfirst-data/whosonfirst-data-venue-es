@@ -1,0 +1,64 @@
+{
+  "id": 991271827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4515410066,39.4868545532,-0.4515410066,39.4868545532",
+    "geom:latitude":39.486855,
+    "geom:longitude":-0.451541,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carr Justo Vilar, 3",
+    "sg:city":"Manises",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 961 53 35 80",
+    "sg:postcode":"46940",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799211,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2khpDb3tqdjEy1dXMk170x_39.486855_-0.451541@1306269463"
+    },
+    "wof:country":"ES",
+    "wof:created":1472541333,
+    "wof:geomhash":"9f2841d117a99957c0e6ae3b6ecbbc9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799211,
+            "region_id":85682867,
+            "venue_id":991271827
+        }
+    ],
+    "wof:id":991271827,
+    "wof:lastmodified":1472541333,
+    "wof:name":"Carrasco Martinez Joaquin Vicente",
+    "wof:parent_id":85799211,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4515410066,
+    39.4868545532,
+    -0.4515410066,
+    39.4868545532
+],
+  "geometry": {"coordinates":[-0.4515410066,39.4868545532],"type":"Point"}
+}

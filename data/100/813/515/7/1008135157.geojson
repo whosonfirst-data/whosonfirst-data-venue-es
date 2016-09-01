@@ -1,0 +1,64 @@
+{
+  "id": 1008135157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7202010155,40.4814872742,-3.7202010155,40.4814872742",
+    "geom:latitude":40.481487,
+    "geom:longitude":-3.720201,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Cardenal Herrera Oria, 246",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Librer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 30 11 63",
+    "sg:postcode":"28035",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85682783,
+        102191581,
+        85633129,
+        101748283,
+        85863557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NzoVPCGYfDKSZt1BO32RV_40.481487_-3.720201@1306269613"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601175,
+    "wof:geomhash":"3906e6fd1be7373b384e660226498229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748283,
+            "neighbourhood_id":85863557,
+            "region_id":85682783,
+            "venue_id":1008135157
+        }
+    ],
+    "wof:id":1008135157,
+    "wof:lastmodified":1472601175,
+    "wof:name":"Ortega Carretero Esperanza",
+    "wof:parent_id":85863557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7202010155,
+    40.4814872742,
+    -3.7202010155,
+    40.4814872742
+],
+  "geometry": {"coordinates":[-3.7202010155,40.4814872742],"type":"Point"}
+}

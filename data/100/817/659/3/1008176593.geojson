@@ -1,0 +1,59 @@
+{
+  "id": 1008176593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5311648846,40.5057945251,-3.5311648846,40.5057945251",
+    "geom:latitude":40.505795,
+    "geom:longitude":-3.531165,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Real De Burgos (del), 13",
+    "sg:city":"Paracuellos De Jarama",
+    "sg:classifiers":[],
+    "sg:orig_category":"Iglesia Cat\u00d3lica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 58 02 56",
+    "sg:postcode":"28860",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863587,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Fdka68zgQAolhrEFCM4dO_40.505795_-3.531165@1306269618"
+    },
+    "wof:country":"ES",
+    "wof:created":1472604787,
+    "wof:geomhash":"85227733bb208633e0fe5e99f2c1d84d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863587,
+            "region_id":85682783,
+            "venue_id":1008176593
+        }
+    ],
+    "wof:id":1008176593,
+    "wof:lastmodified":1472604787,
+    "wof:name":"Parroquia De San Vicente Martir",
+    "wof:parent_id":85863587,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5311648846,
+    40.5057945251,
+    -3.5311648846,
+    40.5057945251
+],
+  "geometry": {"coordinates":[-3.5311648846,40.5057945251],"type":"Point"}
+}

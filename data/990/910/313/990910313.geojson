@@ -1,0 +1,67 @@
+{
+  "id": 990910313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1650109291,41.4075622559,2.1650109291,41.4075622559",
+    "geom:latitude":41.407562,
+    "geom:longitude":2.165011,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Secretari Coloma, 24",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros Empresariales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 85 72 16",
+    "sg:postcode":"08025",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863999,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pON9eFItNa7dnUFPrC0c6_41.407562_2.165011@1306269415"
+    },
+    "wof:country":"ES",
+    "wof:created":1472509592,
+    "wof:geomhash":"5b57ae1d5bdeb189a152e8ca38a66283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863999,
+            "region_id":85682663,
+            "venue_id":990910313
+        }
+    ],
+    "wof:id":990910313,
+    "wof:lastmodified":1472509592,
+    "wof:name":"Aires",
+    "wof:parent_id":85863999,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1650109291,
+    41.4075622559,
+    2.1650109291,
+    41.4075622559
+],
+  "geometry": {"coordinates":[2.1650109291,41.4075622559],"type":"Point"}
+}

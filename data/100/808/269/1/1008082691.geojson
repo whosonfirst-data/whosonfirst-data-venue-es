@@ -1,0 +1,59 @@
+{
+  "id": 1008082691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4135789871,38.3707199097,-0.4135789871,38.3707199097",
+    "geom:latitude":38.37072,
+    "geom:longitude":-0.413579,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Bruselas, S/n",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 26 23 51",
+    "sg:postcode":"03540",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864061,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20EGTYzq4UGGwfuk0YI2u0_38.370720_-0.413579@1306269606"
+    },
+    "wof:country":"ES",
+    "wof:created":1472598765,
+    "wof:geomhash":"f4b2fb7081aaf62f7f932c504f3c47b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864061,
+            "region_id":85682625,
+            "venue_id":1008082691
+        }
+    ],
+    "wof:id":1008082691,
+    "wof:lastmodified":1472598765,
+    "wof:name":"Navarro Alonso Antonio",
+    "wof:parent_id":85864061,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4135789871,
+    38.3707199097,
+    -0.4135789871,
+    38.3707199097
+],
+  "geometry": {"coordinates":[-0.4135789871,38.3707199097],"type":"Point"}
+}

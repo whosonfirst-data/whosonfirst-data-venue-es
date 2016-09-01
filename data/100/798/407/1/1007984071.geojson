@@ -1,0 +1,60 @@
+{
+  "id": 1007984071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4803720117,38.3617668152,-0.4803720117,38.3617668152",
+    "geom:latitude":38.361767,
+    "geom:longitude":-0.480372,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Rodrigo Caro, 15",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 25 17 95",
+    "sg:postcode":"03012",
+    "sg:province":"Alicante",
+    "sg:website":"www.mercadona.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864065,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3a1jyW2PbsFNLQ27EXqE5H_38.361767_-0.480372@1306269593"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594497,
+    "wof:geomhash":"3106b0a3aa6a2c4b96aef94eda6bc341",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864065,
+            "region_id":85682625,
+            "venue_id":1007984071
+        }
+    ],
+    "wof:id":1007984071,
+    "wof:lastmodified":1472594497,
+    "wof:name":"Mercadona S.a.",
+    "wof:parent_id":85864065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4803720117,
+    38.3617668152,
+    -0.4803720117,
+    38.3617668152
+],
+  "geometry": {"coordinates":[-0.4803720117,38.3617668152],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1008080425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7185893059,40.4731864929,-3.7185893059,40.4731864929",
+    "geom:latitude":40.473186,
+    "geom:longitude":-3.718589,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de La Hiruela, 5",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros Empresariales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 86 38 14",
+    "sg:postcode":"28035",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799627,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sMYpz8ECaUiTvMwLReIJH_40.473186_-3.718589@1306269605"
+    },
+    "wof:country":"ES",
+    "wof:created":1472598664,
+    "wof:geomhash":"45aa36044f5ce43874d6dd2512c41025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799627,
+            "region_id":85682783,
+            "venue_id":1008080425
+        }
+    ],
+    "wof:id":1008080425,
+    "wof:lastmodified":1472598664,
+    "wof:name":"Natram",
+    "wof:parent_id":85799627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7185893059,
+    40.4731864929,
+    -3.7185893059,
+    40.4731864929
+],
+  "geometry": {"coordinates":[-3.7185893059,40.4731864929],"type":"Point"}
+}

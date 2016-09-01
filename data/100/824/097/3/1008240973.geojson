@@ -1,0 +1,59 @@
+{
+  "id": 1008240973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1048951149,41.5456581116,2.1048951149,41.5456581116",
+    "geom:latitude":41.545658,
+    "geom:longitude":2.104895,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Torras I Bages, 9",
+    "sg:city":"Sabadell",
+    "sg:classifiers":[],
+    "sg:orig_category":"Tintorer\u00cdas, Limpieza En Seco",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 25 49 18",
+    "sg:postcode":"08201",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6S2X1a2nwEqWodmTiuG7EF_41.545658_2.104895@1306269627"
+    },
+    "wof:country":"ES",
+    "wof:created":1472614523,
+    "wof:geomhash":"d35a81ef54f140d74d29044477143862",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008240973
+        }
+    ],
+    "wof:id":1008240973,
+    "wof:lastmodified":1472614523,
+    "wof:name":"Pineda Fontsere Jose",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1048951149,
+    41.5456581116,
+    2.1048951149,
+    41.5456581116
+],
+  "geometry": {"coordinates":[2.1048951149,41.5456581116],"type":"Point"}
+}

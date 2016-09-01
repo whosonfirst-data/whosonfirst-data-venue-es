@@ -1,0 +1,63 @@
+{
+  "id": 1007746849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1886560917,41.3805236816,2.1886560917,41.3805236816",
+    "geom:latitude":41.380524,
+    "geom:longitude":2.188656,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Baluard, 28",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Carros Elevadores, Carros De Operaciones Portuarias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 21 70 53",
+    "sg:postcode":"08003",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748323,
+        85799173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UMYgiAm5GcSYPSgdHThls_41.380524_2.188656@1306269563"
+    },
+    "wof:country":"ES",
+    "wof:created":1472583502,
+    "wof:geomhash":"a9459ec39bb685ef90af5b5aba0d4704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748323,
+            "neighbourhood_id":85799173,
+            "region_id":-1,
+            "venue_id":1007746849
+        }
+    ],
+    "wof:id":1007746849,
+    "wof:lastmodified":1472583502,
+    "wof:name":"Josep Llinas E Hijos S.l.",
+    "wof:parent_id":85799173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1886560917,
+    41.3805236816,
+    2.1886560917,
+    41.3805236816
+],
+  "geometry": {"coordinates":[2.1886560917,41.3805236816],"type":"Point"}
+}

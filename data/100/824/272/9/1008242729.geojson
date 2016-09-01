@@ -1,0 +1,59 @@
+{
+  "id": 1008242729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8286905289,40.3499069214,-3.8286905289,40.3499069214",
+    "geom:latitude":40.349907,
+    "geom:longitude":-3.828691,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Isidro, 6",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Peluquer\u00cdas, Peluquer\u00cda Mixta",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 12 78 51",
+    "sg:postcode":"28921",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Q3u8DcGDh2VVw1WOENSKT_40.349907_-3.828691@1306269628"
+    },
+    "wof:country":"ES",
+    "wof:created":1472614611,
+    "wof:geomhash":"9d9311da9d78a325f3bd60be5c80ad94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008242729
+        }
+    ],
+    "wof:id":1008242729,
+    "wof:lastmodified":1472614611,
+    "wof:name":"Pinto Fernandez Violeta",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8286905289,
+    40.3499069214,
+    -3.8286905289,
+    40.3499069214
+],
+  "geometry": {"coordinates":[-3.8286905289,40.3499069214],"type":"Point"}
+}

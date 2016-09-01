@@ -1,0 +1,67 @@
+{
+  "id": 1008010697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6136898994,40.4448471069,-3.6136898994,40.4448471069",
+    "geom:latitude":40.444847,
+    "geom:longitude":-3.61369,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Mariano, 5",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Servicios Gsm",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 93 29 25",
+    "sg:postcode":"28022",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863625,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JAqBLnX90IFT3zIme2AzB_40.444847_-3.613690@1306269596"
+    },
+    "wof:country":"ES",
+    "wof:created":1472595650,
+    "wof:geomhash":"c449eb1f2d0c6d506e8cc0dedcdb46bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863625,
+            "region_id":85682783,
+            "venue_id":1008010697
+        }
+    ],
+    "wof:id":1008010697,
+    "wof:lastmodified":1472595650,
+    "wof:name":"Mobile",
+    "wof:parent_id":85863625,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6136898994,
+    40.4448471069,
+    -3.6136898994,
+    40.4448471069
+],
+  "geometry": {"coordinates":[-3.6136898994,40.4448471069],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1008689129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0953640938,41.5444068909,2.0953640938,41.5444068909",
+    "geom:latitude":41.544407,
+    "geom:longitude":2.095364,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Caresmar, 46",
+    "sg:city":"Sabadell",
+    "sg:classifiers":[],
+    "sg:orig_category":"Moquetas, Alfombras (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 27 86 87",
+    "sg:postcode":"08205",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ktJ6KIbRTaB5nwbZsHCeq_41.544407_2.095364@1306269687"
+    },
+    "wof:country":"ES",
+    "wof:created":1472638031,
+    "wof:geomhash":"e6d2fe9a5debe636e0b6acf575a22d19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008689129
+        }
+    ],
+    "wof:id":1008689129,
+    "wof:lastmodified":1472638031,
+    "wof:name":"Valls Catala Ezequiel",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0953640938,
+    41.5444068909,
+    2.0953640938,
+    41.5444068909
+],
+  "geometry": {"coordinates":[2.0953640938,41.5444068909],"type":"Point"}
+}

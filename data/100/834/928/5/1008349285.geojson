@@ -1,0 +1,59 @@
+{
+  "id": 1008349285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7830779552,43.4721870422,-3.7830779552,43.4721870422",
+    "geom:latitude":43.472187,
+    "geom:longitude":-3.783078,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Italia, S/n",
+    "sg:city":"Santander",
+    "sg:classifiers":[],
+    "sg:orig_category":"Parques De Atracciones Y Centros De Esparcimiento",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 27 26 99",
+    "sg:postcode":"39005",
+    "sg:province":"Cantabria",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799303,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kWsSTDjnAcLKImzlWkayN_43.472187_-3.783078@1306269642"
+    },
+    "wof:country":"ES",
+    "wof:created":1472623491,
+    "wof:geomhash":"1d0fdd2a12082b28b6382ca177158571",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799303,
+            "region_id":85682833,
+            "venue_id":1008349285
+        }
+    ],
+    "wof:id":1008349285,
+    "wof:lastmodified":1472623491,
+    "wof:name":"Revert Martinez Francisca",
+    "wof:parent_id":85799303,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7830779552,
+    43.4721870422,
+    -3.7830779552,
+    43.4721870422
+],
+  "geometry": {"coordinates":[-3.7830779552,43.4721870422],"type":"Point"}
+}

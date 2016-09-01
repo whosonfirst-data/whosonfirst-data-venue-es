@@ -1,0 +1,73 @@
+{
+  "id": 1007935219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.0992720127,41.5462417603,2.0992720127,41.5462417603",
+    "geom:latitude":41.546242,
+    "geom:longitude":2.099272,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Margenat, 4",
+    "sg:city":"Sabadell",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 26 61 04",
+    "sg:postcode":"08206",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tp0Ex0mR2JMaOlNHnThKY_41.546242_2.099272@1306269587"
+    },
+    "wof:country":"ES",
+    "wof:created":1472592470,
+    "wof:geomhash":"1c27ff656ac818fa09f8a5cec40986ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1007935219
+        }
+    ],
+    "wof:id":1007935219,
+    "wof:lastmodified":1472592470,
+    "wof:name":"Martinez Sanchez Francisco",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.0992720127,
+    41.5462417603,
+    2.0992720127,
+    41.5462417603
+],
+  "geometry": {"coordinates":[2.0992720127,41.5462417603],"type":"Point"}
+}

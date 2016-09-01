@@ -1,0 +1,60 @@
+{
+  "id": 1008235013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2489368916,41.4641494751,2.2489368916,41.4641494751",
+    "geom:latitude":41.464149,
+    "geom:longitude":2.248937,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carr Joan D'austria, 38",
+    "sg:city":"Badalona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Florister\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 95 55 57",
+    "sg:postcode":"08915",
+    "sg:province":"Barcelona",
+    "sg:website":"www.guiabadalona.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799485,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QtqAUokrzqoyMtQx0ibuh_41.464149_2.248937@1306269627"
+    },
+    "wof:country":"ES",
+    "wof:created":1472614226,
+    "wof:geomhash":"eb51e9bd79d357c4b9f34c880fec986b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799485,
+            "region_id":85682663,
+            "venue_id":1008235013
+        }
+    ],
+    "wof:id":1008235013,
+    "wof:lastmodified":1472614226,
+    "wof:name":"Pe\u00f1a Samaniego Concepcion",
+    "wof:parent_id":85799485,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2489368916,
+    41.4641494751,
+    2.2489368916,
+    41.4641494751
+],
+  "geometry": {"coordinates":[2.2489368916,41.4641494751],"type":"Point"}
+}

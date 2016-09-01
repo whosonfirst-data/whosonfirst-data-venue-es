@@ -1,0 +1,59 @@
+{
+  "id": 1008373773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1762769222,41.3962287903,2.1762769222,41.3962287903",
+    "geom:latitude":41.396229,
+    "geom:longitude":2.176277,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Roger De Flor, 134",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Frutas, Legumbres Frescas Y Tempranas (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 32 58 65",
+    "sg:postcode":"08013",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xJSlGZYRBjtgXHyOAJKRE_41.396229_2.176277@1306269645"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624520,
+    "wof:geomhash":"82f4147af0e983f99acaa102f5ae2f9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008373773
+        }
+    ],
+    "wof:id":1008373773,
+    "wof:lastmodified":1472624520,
+    "wof:name":"Rodriguez Aparicio Maria Rosa",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1762769222,
+    41.3962287903,
+    2.1762769222,
+    41.3962287903
+],
+  "geometry": {"coordinates":[2.1762769222,41.3962287903],"type":"Point"}
+}

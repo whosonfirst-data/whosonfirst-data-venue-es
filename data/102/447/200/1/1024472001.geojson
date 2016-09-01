@@ -1,0 +1,67 @@
+{
+  "id": 1024472001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2159307003,41.4115753174,2.2159307003,41.4115753174",
+    "geom:latitude":41.411575,
+    "geom:longitude":2.215931,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Llull, 385",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 07 59 08",
+    "sg:postcode":"08019",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864011,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AOz9bCSfPnJ6nZezDXTeZ_41.411575_2.215931@1306269694"
+    },
+    "wof:country":"ES",
+    "wof:created":1472640438,
+    "wof:geomhash":"339a407c1b02b494c8e1e7f2a51a371b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864011,
+            "region_id":85682663,
+            "venue_id":1024472001
+        }
+    ],
+    "wof:id":1024472001,
+    "wof:lastmodified":1472640438,
+    "wof:name":"Vives Segala Montserrat",
+    "wof:parent_id":85864011,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2159307003,
+    41.4115753174,
+    2.2159307003,
+    41.4115753174
+],
+  "geometry": {"coordinates":[2.2159307003,41.4115753174],"type":"Point"}
+}

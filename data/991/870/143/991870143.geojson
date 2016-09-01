@@ -1,0 +1,82 @@
+{
+  "id": 991870143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1279609203,41.3962059021,2.1279609203,41.3962059021",
+    "geom:latitude":41.396206,
+    "geom:longitude":2.127961,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Gosol, 23",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 04 13 45",
+    "sg:postcode":"08017",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ],
+    "sg:website":"www.gurux.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799611,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yLptb2psc97WNETTSpPat_41.396206_2.127961@1306269543"
+    },
+    "wof:country":"ES",
+    "wof:created":1472575911,
+    "wof:geomhash":"82b082163f0051da5d14eec527faf287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799611,
+            "region_id":85682663,
+            "venue_id":991870143
+        }
+    ],
+    "wof:id":991870143,
+    "wof:lastmodified":1472575911,
+    "wof:name":"Gurux Entertainment S.l",
+    "wof:parent_id":85799611,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ]
+},
+  "bbox": [
+    2.1279609203,
+    41.3962059021,
+    2.1279609203,
+    41.3962059021
+],
+  "geometry": {"coordinates":[2.1279609203,41.3962059021],"type":"Point"}
+}

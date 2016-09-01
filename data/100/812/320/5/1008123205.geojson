@@ -1,0 +1,62 @@
+{
+  "id": 1008123205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.4361350536,38.9079704285,1.4361350536,38.9079704285",
+    "geom:latitude":38.90797,
+    "geom:longitude":1.436135,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carr Sant Rafel, 3",
+    "sg:city":"Eivissa",
+    "sg:classifiers":[],
+    "sg:orig_category":"Restaurantes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 39 11 14",
+    "sg:postcode":"07800",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101777557,
+        85864231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xNSRzUuPEEw4W6p2pW8h2_38.907970_1.436135@1306269611"
+    },
+    "wof:country":"ES",
+    "wof:created":1472600585,
+    "wof:geomhash":"ef61d93ab06fe95abb150c324a79b55e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101777557,
+            "neighbourhood_id":85864231,
+            "region_id":-1,
+            "venue_id":1008123205
+        }
+    ],
+    "wof:id":1008123205,
+    "wof:lastmodified":1472600585,
+    "wof:name":"Olmedilla S.a.",
+    "wof:parent_id":85864231,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.4361350536,
+    38.9079704285,
+    1.4361350536,
+    38.9079704285
+],
+  "geometry": {"coordinates":[1.4361350536,38.9079704285],"type":"Point"}
+}

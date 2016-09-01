@@ -1,0 +1,67 @@
+{
+  "id": 1008437831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3861170113,39.4729614258,-0.3861170113,39.4729614258",
+    "geom:latitude":39.472961,
+    "geom:longitude":-0.386117,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Simon Ortiz, 4",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alimentaci\u00d3n General (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 91 12 43",
+    "sg:postcode":"46008",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864207,
+        102191581,
+        404345361,
+        85633129,
+        404227381,
+        101748241,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aBRM36yEFTAAm9PmcySzj_39.472961_-0.386117@1306269654"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627493,
+    "wof:geomhash":"f3387298f251e14290e673460fb7167b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345361,
+            "locality_id":101748241,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864207,
+            "region_id":85682867,
+            "venue_id":1008437831
+        }
+    ],
+    "wof:id":1008437831,
+    "wof:lastmodified":1472627493,
+    "wof:name":"Salcedo Ruiz Vicente",
+    "wof:parent_id":85864207,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3861170113,
+    39.4729614258,
+    -0.3861170113,
+    39.4729614258
+],
+  "geometry": {"coordinates":[-0.3861170113,39.4729614258],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1008713575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.3491458893,36.1618232727,-5.3491458893,36.1618232727",
+    "geom:latitude":36.161823,
+    "geom:longitude":-5.349146,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Real, 20",
+    "sg:city":"Linea De La Concepcion",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 956 17 01 03",
+    "sg:postcode":"11300",
+    "sg:province":"C\u00e1diz",
+    "sg:website":"www.halconviajes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "85633167",
+        85794121,
+        "102191581",
+        "85633159",
+        101753853,
+        85684619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bjdvGw1TB9lHUHcXrycss_36.161823_-5.349146@1306269690"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639162,
+    "wof:geomhash":"152e9cfd528cec6586e1a37af868f5ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "dependency_id":"85633167",
+            "locality_id":101753853,
+            "neighbourhood_id":85794121,
+            "region_id":85684619,
+            "venue_id":1008713575
+        }
+    ],
+    "wof:id":1008713575,
+    "wof:lastmodified":1472639162,
+    "wof:name":"Viajes Halcon S.a.",
+    "wof:parent_id":85794121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.3491458893,
+    36.1618232727,
+    -5.3491458893,
+    36.1618232727
+],
+  "geometry": {"coordinates":[-5.3491458893,36.1618232727],"type":"Point"}
+}

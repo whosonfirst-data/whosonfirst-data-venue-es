@@ -1,0 +1,81 @@
+{
+  "id": 1008136895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4823099971,38.3444480896,-0.4823099971,38.3444480896",
+    "geom:latitude":38.344448,
+    "geom:longitude":-0.48231,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Rafael Altamira, 12",
+    "sg:city":"Alacant",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 14 20 51",
+    "sg:postcode":"03002",
+    "sg:province":"Alicante",
+    "sg:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864067,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XmdF1eXNkpnTFFVLcMqGQ_38.344448_-0.482310@1306269613"
+    },
+    "wof:country":"ES",
+    "wof:created":1472601244,
+    "wof:geomhash":"1aae4571b2ad0bb426e77aef4b89c375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864067,
+            "region_id":85682625,
+            "venue_id":1008136895
+        }
+    ],
+    "wof:id":1008136895,
+    "wof:lastmodified":1472601244,
+    "wof:name":"Ortega Sanchez Alfonso",
+    "wof:parent_id":85864067,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arte",
+        "de",
+        "galer\u00cdas"
+    ]
+},
+  "bbox": [
+    -0.4823099971,
+    38.3444480896,
+    -0.4823099971,
+    38.3444480896
+],
+  "geometry": {"coordinates":[-0.4823099971,38.3444480896],"type":"Point"}
+}

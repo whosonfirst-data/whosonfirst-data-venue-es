@@ -1,0 +1,66 @@
+{
+  "id": 1007976579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5368759632,40.4272117615,-3.5368759632,40.4272117615",
+    "geom:latitude":40.427212,
+    "geom:longitude":-3.536876,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Albino Perez Ayestarain (de), 35",
+    "sg:city":"San Fernando De Henares",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ropa Y Accesorios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 72 94 71",
+    "sg:postcode":"28830",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863709,
+        85682783,
+        85863631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cyCssea0yhk0q6zldlzVI_40.427212_-3.536876@1306269592"
+    },
+    "wof:country":"ES",
+    "wof:created":1472594228,
+    "wof:geomhash":"84116a8753c0961f765e52c98584e0e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863709,
+            "region_id":85682783,
+            "venue_id":1007976579
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863631,
+            "region_id":85682783,
+            "venue_id":1007976579
+        }
+    ],
+    "wof:id":1007976579,
+    "wof:lastmodified":1472594228,
+    "wof:name":"Mena Garcia Gloria",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5368759632,
+    40.4272117615,
+    -3.5368759632,
+    40.4272117615
+],
+  "geometry": {"coordinates":[-3.5368759632,40.4272117615],"type":"Point"}
+}

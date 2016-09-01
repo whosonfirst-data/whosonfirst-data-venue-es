@@ -1,0 +1,60 @@
+{
+  "id": 1008028427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7316379547,40.3045425415,-3.7316379547,40.3045425415",
+    "geom:latitude":40.304543,
+    "geom:longitude":-3.731638,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Hormigo, S/n",
+    "sg:city":"Getafe",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cajas De Ahorro",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 01 03 11",
+    "sg:postcode":"28901",
+    "sg:province":"Madrid",
+    "sg:website":"www.elmonte.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vUmn0ywYLzlXpyuQc5bTE_40.304543_-3.731638@1306269598"
+    },
+    "wof:country":"ES",
+    "wof:created":1472596420,
+    "wof:geomhash":"439a110e510a1ebec2590650f767bae2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1008028427
+        }
+    ],
+    "wof:id":1008028427,
+    "wof:lastmodified":1472596420,
+    "wof:name":"Monte De Piedad Y Caja De Ahorros De Huelva Y Sevilla",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7316379547,
+    40.3045425415,
+    -3.7316379547,
+    40.3045425415
+],
+  "geometry": {"coordinates":[-3.7316379547,40.3045425415],"type":"Point"}
+}

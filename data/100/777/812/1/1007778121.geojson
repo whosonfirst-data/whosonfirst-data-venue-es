@@ -1,0 +1,59 @@
+{
+  "id": 1007778121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5291121006,40.4259757996,-3.5291121006,40.4259757996",
+    "geom:latitude":40.425976,
+    "geom:longitude":-3.529112,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Nazario Calonge (de), 22",
+    "sg:city":"San Fernando De Henares",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reposter\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 74 28 11",
+    "sg:postcode":"28830",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863709,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dXm3RWGhEgAZc06I4NMgm_40.425976_-3.529112@1306269567"
+    },
+    "wof:country":"ES",
+    "wof:created":1472585141,
+    "wof:geomhash":"328e3c315352908a6174186bd65c343e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863709,
+            "region_id":85682783,
+            "venue_id":1007778121
+        }
+    ],
+    "wof:id":1007778121,
+    "wof:lastmodified":1472585141,
+    "wof:name":"La Espiga Dorada S. A.",
+    "wof:parent_id":85863709,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5291121006,
+    40.4259757996,
+    -3.5291121006,
+    40.4259757996
+],
+  "geometry": {"coordinates":[-3.5291121006,40.4259757996],"type":"Point"}
+}

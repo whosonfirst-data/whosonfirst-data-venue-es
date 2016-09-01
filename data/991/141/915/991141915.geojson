@@ -1,0 +1,73 @@
+{
+  "id": 991141915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.8871929646,43.2113227844,-2.8871929646,43.2113227844",
+    "geom:latitude":43.211323,
+    "geom:longitude":-2.887193,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Severo Ochoa, 8",
+    "sg:city":"Arrigorriaga",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 05 57 22",
+    "sg:postcode":"48480",
+    "sg:province":"Vizcaya",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799203,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SbhCpCTZC4xWqylLI4bL6_43.211323_-2.887193@1306269446"
+    },
+    "wof:country":"ES",
+    "wof:created":1472530970,
+    "wof:geomhash":"e67bca5dfaefd7209cf35e72c3efba43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799203,
+            "region_id":85682879,
+            "venue_id":991141915
+        }
+    ],
+    "wof:id":991141915,
+    "wof:lastmodified":1472530970,
+    "wof:name":"Bernabe Ruiz Valero",
+    "wof:parent_id":85799203,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -2.8871929646,
+    43.2113227844,
+    -2.8871929646,
+    43.2113227844
+],
+  "geometry": {"coordinates":[-2.8871929646,43.2113227844],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1008533027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8120219707,40.3380241394,-3.8120219707,40.3380241394",
+    "geom:latitude":40.338024,
+    "geom:longitude":-3.812022,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pintores (los), 26",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aperitivos (fabricaci\u00d3n Y Al Por Mayor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 41 62 11",
+    "sg:postcode":"28925",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rFMcHmdEbqapOZROl3NNg_40.338024_-3.812022@1306269666"
+    },
+    "wof:country":"ES",
+    "wof:created":1472631385,
+    "wof:geomhash":"cca614c7cbe4fef3e35d506cbf19f242",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008533027
+        }
+    ],
+    "wof:id":1008533027,
+    "wof:lastmodified":1472631385,
+    "wof:name":"Snack Ventures S.a.",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8120219707,
+    40.3380241394,
+    -3.8120219707,
+    40.3380241394
+],
+  "geometry": {"coordinates":[-3.8120219707,40.3380241394],"type":"Point"}
+}

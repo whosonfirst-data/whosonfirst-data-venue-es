@@ -1,0 +1,79 @@
+{
+  "id": 1008716683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9961681366,37.3902397156,-5.9961681366,37.3902397156",
+    "geom:latitude":37.39024,
+    "geom:longitude":-5.996168,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Rosario, 10",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[],
+    "sg:orig_category":"Agencias De Viajes",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 902 23 90 33",
+    "sg:postcode":"41001",
+    "sg:province":"Sevilla",
+    "sg:website":"wwww.pilman.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864165,
+        102191581,
+        404342947,
+        85633129,
+        404227361,
+        101748225,
+        85682841,
+        85864155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sOicX3qvTxlqBYb3EyY9r_37.390240_-5.996168@1306269691"
+    },
+    "wof:country":"ES",
+    "wof:created":1472639296,
+    "wof:geomhash":"c7863497c21606d36917d0c0e014ebe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864165,
+            "region_id":85682841,
+            "venue_id":1008716683
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864155,
+            "region_id":85682841,
+            "venue_id":1008716683
+        }
+    ],
+    "wof:id":1008716683,
+    "wof:lastmodified":1472639296,
+    "wof:name":"Viajes Pilman S.l.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.9961681366,
+    37.3902397156,
+    -5.9961681366,
+    37.3902397156
+],
+  "geometry": {"coordinates":[-5.9961681366,37.3902397156],"type":"Point"}
+}

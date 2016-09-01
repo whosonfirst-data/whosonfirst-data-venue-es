@@ -1,0 +1,68 @@
+{
+  "id": 1007697001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1563880444,41.3708152771,2.1563880444,41.3708152771",
+    "geom:latitude":41.370815,
+    "geom:longitude":2.156388,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Lleida, 57",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Teatros Y Salas De Espect\u00c1culos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 26 18 75",
+    "sg:postcode":"08004",
+    "sg:province":"Barcelona",
+    "sg:website":"www.mercatflors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864037,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4z144ORsG7hs9Sjw1cHbyA_41.370815_2.156388@1306269556"
+    },
+    "wof:country":"ES",
+    "wof:created":1472580817,
+    "wof:geomhash":"52962dbfe2b06e3b429e568029ea8f4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864037,
+            "region_id":85682663,
+            "venue_id":1007697001
+        }
+    ],
+    "wof:id":1007697001,
+    "wof:lastmodified":1472580817,
+    "wof:name":"Institut De Cultura De Barcelona",
+    "wof:parent_id":85864037,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1563880444,
+    41.3708152771,
+    2.1563880444,
+    41.3708152771
+],
+  "geometry": {"coordinates":[2.1563880444,41.3708152771],"type":"Point"}
+}

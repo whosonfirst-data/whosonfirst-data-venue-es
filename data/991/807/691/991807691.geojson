@@ -1,0 +1,78 @@
+{
+  "id": 991807691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4857789874,38.347694397,-0.4857789874,38.347694397",
+    "geom:latitude":38.347694,
+    "geom:longitude":-0.485779,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Alfonso El Sabio, 9",
+    "sg:city":"Alacant",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 14 25 67",
+    "sg:postcode":"03002",
+    "sg:province":"Alicante",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864067,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625,
+        85864055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4en5HodPNpfDROGaRcu3Y5_38.347694_-0.485779@1306269535"
+    },
+    "wof:country":"ES",
+    "wof:created":1472572339,
+    "wof:geomhash":"c79b6c99a2a98a5c383f3cd5f9ac8394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864067,
+            "region_id":85682625,
+            "venue_id":991807691
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864055,
+            "region_id":85682625,
+            "venue_id":991807691
+        }
+    ],
+    "wof:id":991807691,
+    "wof:lastmodified":1472572339,
+    "wof:name":"Gomez De Cadiz Delgado De Molina Jorge",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.4857789874,
+    38.347694397,
+    -0.4857789874,
+    38.347694397
+],
+  "geometry": {"coordinates":[-0.4857789874,38.347694397],"type":"Point"}
+}

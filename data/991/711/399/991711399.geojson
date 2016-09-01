@@ -1,0 +1,79 @@
+{
+  "id": 991711399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8346788883,43.4468154907,-3.8346788883,43.4468154907",
+    "geom:latitude":43.446815,
+    "geom:longitude":-3.834679,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Pe\u00d1as Rocias, S/n",
+    "sg:city":"Santander",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 35 23 03",
+    "sg:postcode":"39011",
+    "sg:province":"Cantabria",
+    "sg:tags":[
+        "en",
+        "fundiciones"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799521,
+        102191581,
+        404342209,
+        85633129,
+        404227371,
+        101748391,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Sp6sVEUgGEhJxvZBLELL7_43.446815_-3.834679@1306269522"
+    },
+    "wof:country":"ES",
+    "wof:created":1472566016,
+    "wof:geomhash":"e2b86899bc9a2d79b5af3d898773d9f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342209,
+            "locality_id":101748391,
+            "macroregion_id":404227371,
+            "neighbourhood_id":85799521,
+            "region_id":85682833,
+            "venue_id":991711399
+        }
+    ],
+    "wof:id":991711399,
+    "wof:lastmodified":1472566016,
+    "wof:name":"Fundiciones Fuentes S.c",
+    "wof:parent_id":85799521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "en",
+        "fundiciones"
+    ]
+},
+  "bbox": [
+    -3.8346788883,
+    43.4468154907,
+    -3.8346788883,
+    43.4468154907
+],
+  "geometry": {"coordinates":[-3.8346788883,43.4468154907],"type":"Point"}
+}

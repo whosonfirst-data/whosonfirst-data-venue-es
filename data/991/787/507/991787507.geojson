@@ -1,0 +1,81 @@
+{
+  "id": 991787507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6807119846,40.43542099,-3.6807119846,40.43542099",
+    "geom:latitude":40.435421,
+    "geom:longitude":-3.680712,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Castello, 109",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 61 44 27",
+    "sg:postcode":"28006",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863673,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mZ9gv2Z0BKBLK0Dah99B0_40.435421_-3.680712@1306269532"
+    },
+    "wof:country":"ES",
+    "wof:created":1472571240,
+    "wof:geomhash":"9e02cf5c969efba8fa920db5dcf91130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863673,
+            "region_id":85682783,
+            "venue_id":991787507
+        }
+    ],
+    "wof:id":991787507,
+    "wof:lastmodified":1472571240,
+    "wof:name":"Gestion Y Comercializacion De Servicios Y Equipamientos Comerciales S.l.",
+    "wof:parent_id":85863673,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asesor\u00cda",
+        "en",
+        "marketing"
+    ]
+},
+  "bbox": [
+    -3.6807119846,
+    40.43542099,
+    -3.6807119846,
+    40.43542099
+],
+  "geometry": {"coordinates":[-3.6807119846,40.43542099],"type":"Point"}
+}

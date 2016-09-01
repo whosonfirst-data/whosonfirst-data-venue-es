@@ -1,0 +1,59 @@
+{
+  "id": 1008594823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1944439411,41.3978767395,2.1944439411,41.3978767395",
+    "geom:latitude":41.397877,
+    "geom:longitude":2.194444,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Avila, 84",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Maquinaria Para Industrias Diversas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 09 27 15",
+    "sg:postcode":"08005",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49TbQsikjnnbBENwCxHfgD_41.397877_2.194444@1306269675"
+    },
+    "wof:country":"ES",
+    "wof:created":1472634019,
+    "wof:geomhash":"c17e3fef39ebd4b1d03246fdd3db117f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008594823
+        }
+    ],
+    "wof:id":1008594823,
+    "wof:lastmodified":1472634019,
+    "wof:name":"Taller Mecanico Sucesores De F.castellvi S.l.",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1944439411,
+    41.3978767395,
+    2.1944439411,
+    41.3978767395
+],
+  "geometry": {"coordinates":[2.1944439411,41.3978767395],"type":"Point"}
+}

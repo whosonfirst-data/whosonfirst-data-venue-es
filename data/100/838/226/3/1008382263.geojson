@@ -1,0 +1,59 @@
+{
+  "id": 1008382263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5321099758,40.4316825867,-3.5321099758,40.4316825867",
+    "geom:latitude":40.431683,
+    "geom:longitude":-3.53211,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Soria, 16",
+    "sg:city":"San Fernando De Henares",
+    "sg:classifiers":[],
+    "sg:orig_category":"Artes Gr\u00c1ficas, Artes Pl\u00c1sticas (curso)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 73 13 65",
+    "sg:postcode":"28830",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863709,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QrbtJ3F35TRi6zIkamzyL_40.431683_-3.532110@1306269646"
+    },
+    "wof:country":"ES",
+    "wof:created":1472624853,
+    "wof:geomhash":"d0bdf167bca9685f1a8f4304b795ba21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863709,
+            "region_id":85682783,
+            "venue_id":1008382263
+        }
+    ],
+    "wof:id":1008382263,
+    "wof:lastmodified":1472624853,
+    "wof:name":"Rodriguez Lopez Antonio",
+    "wof:parent_id":85863709,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5321099758,
+    40.4316825867,
+    -3.5321099758,
+    40.4316825867
+],
+  "geometry": {"coordinates":[-3.5321099758,40.4316825867],"type":"Point"}
+}

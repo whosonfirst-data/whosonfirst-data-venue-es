@@ -1,0 +1,78 @@
+{
+  "id": 1007915819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1508250237,41.3931083679,2.1508250237,41.3931083679",
+    "geom:latitude":41.393108,
+    "geom:longitude":2.150825,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Muntaner, 191",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Muebles, Minoristas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 30 20 43",
+    "sg:postcode":"08036",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864021,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85864017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1B4DNN9TVO3yB16TVlbE4M_41.393108_2.150825@1306269584"
+    },
+    "wof:country":"ES",
+    "wof:created":1472591565,
+    "wof:geomhash":"abe54f230e7e1e4c1ae6effa06a746b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864021,
+            "region_id":85682663,
+            "venue_id":1007915819
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864017,
+            "region_id":85682663,
+            "venue_id":1007915819
+        }
+    ],
+    "wof:id":1007915819,
+    "wof:lastmodified":1472591565,
+    "wof:name":"Martin Blanch Carmen",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1508250237,
+    41.3931083679,
+    2.1508250237,
+    41.3931083679
+],
+  "geometry": {"coordinates":[2.1508250237,41.3931083679],"type":"Point"}
+}

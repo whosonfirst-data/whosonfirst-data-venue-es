@@ -1,0 +1,71 @@
+{
+  "id": 991781335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6087889671,37.1505355835,-3.6087889671,37.1505355835",
+    "geom:latitude":37.150536,
+    "geom:longitude":-3.608789,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Perez De Ayala, 7",
+    "sg:city":"Armilla",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 958 12 40 27",
+    "sg:postcode":"18100",
+    "sg:province":"Granada",
+    "sg:tags":[
+        "organismos",
+        "control"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863847,
+        85682731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pMIDyhJnw1n04PNVhs5mB_37.150536_-3.608789@1306269531"
+    },
+    "wof:country":"ES",
+    "wof:created":1472570232,
+    "wof:geomhash":"0ecaffc71c5bb752e7fccbbc380d938b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863847,
+            "region_id":85682731,
+            "venue_id":991781335
+        }
+    ],
+    "wof:id":991781335,
+    "wof:lastmodified":1472570232,
+    "wof:name":"Geotecnica Y Control 2004 S.l.",
+    "wof:parent_id":85863847,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organismos",
+        "control"
+    ]
+},
+  "bbox": [
+    -3.6087889671,
+    37.1505355835,
+    -3.6087889671,
+    37.1505355835
+],
+  "geometry": {"coordinates":[-3.6087889671,37.1505355835],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 1008290789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1809329987,41.395149231,2.1809329987,41.395149231",
+    "geom:latitude":41.395149,
+    "geom:longitude":2.180933,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Ausias Marc, 92",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Edici\u00d3n De Diarios, Revistas, Boletines",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 45 03 03",
+    "sg:postcode":"08013",
+    "sg:province":"Barcelona",
+    "sg:website":"www.pamsa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nGZfo4z4EfTXse3v8Iafr_41.395149_2.180933@1306269634"
+    },
+    "wof:country":"ES",
+    "wof:created":1472618328,
+    "wof:geomhash":"785bce5d8a897432639d2c4f0a90e788",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008290789
+        }
+    ],
+    "wof:id":1008290789,
+    "wof:lastmodified":1472618328,
+    "wof:name":"Publicacions De L'abadia De Montserrat S.a.",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1809329987,
+    41.395149231,
+    2.1809329987,
+    41.395149231
+],
+  "geometry": {"coordinates":[2.1809329987,41.395149231],"type":"Point"}
+}

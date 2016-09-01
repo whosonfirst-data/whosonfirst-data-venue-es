@@ -1,0 +1,63 @@
+{
+  "id": 1007962813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6027629375,39.5526237488,2.6027629375,39.5526237488",
+    "geom:latitude":39.552624,
+    "geom:longitude":2.602763,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Joan Miro, 314",
+    "sg:city":"Sant Agusti",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 40 39 75",
+    "sg:postcode":"07015",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102191581,
+        85633129,
+        101748237,
+        85864109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YONXAaXL2NkhKk86YCaor_39.552624_2.602763@1306269590"
+    },
+    "wof:country":"ES",
+    "wof:created":1472593665,
+    "wof:geomhash":"092b012a78e17b4ffda321833a18de2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748237,
+            "neighbourhood_id":85864109,
+            "region_id":-1,
+            "venue_id":1007962813
+        }
+    ],
+    "wof:id":1007962813,
+    "wof:lastmodified":1472593665,
+    "wof:name":"Mayol Peraba Catalina",
+    "wof:parent_id":85864109,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6027629375,
+    39.5526237488,
+    2.6027629375,
+    39.5526237488
+],
+  "geometry": {"coordinates":[2.6027629375,39.5526237488],"type":"Point"}
+}

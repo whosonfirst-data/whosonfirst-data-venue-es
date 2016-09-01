@@ -1,0 +1,67 @@
+{
+  "id": 1008292801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6202208996,40.4005050659,-3.6202208996,40.4005050659",
+    "geom:latitude":40.400505,
+    "geom:longitude":-3.620221,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Raya, 18",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Muebles, Minoristas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 01 65 57",
+    "sg:postcode":"28032",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863821,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2F8vZCsonXXckYuMVafQE3_40.400505_-3.620221@1306269634"
+    },
+    "wof:country":"ES",
+    "wof:created":1472618428,
+    "wof:geomhash":"431b6969673370d55f23acf7dfc5d849",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863821,
+            "region_id":85682783,
+            "venue_id":1008292801
+        }
+    ],
+    "wof:id":1008292801,
+    "wof:lastmodified":1472618428,
+    "wof:name":"Puerta Plaza Jose Luis",
+    "wof:parent_id":85863821,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6202208996,
+    40.4005050659,
+    -3.6202208996,
+    40.4005050659
+],
+  "geometry": {"coordinates":[-3.6202208996,40.4005050659],"type":"Point"}
+}

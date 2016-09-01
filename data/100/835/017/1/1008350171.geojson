@@ -1,0 +1,59 @@
+{
+  "id": 1008350171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8058769703,43.4662857056,-3.8058769703,43.4662857056",
+    "geom:latitude":43.466286,
+    "geom:longitude":-3.805877,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Jose Martinez Mazas, 10",
+    "sg:city":"Santander",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alimentaci\u00d3n General (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 942 22 64 48",
+    "sg:postcode":"39001",
+    "sg:province":"Cantabria",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85799303,
+        85682833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77tmSoyRfAvTX3VMjPEuFn_43.466286_-3.805877@1306269642"
+    },
+    "wof:country":"ES",
+    "wof:created":1472623523,
+    "wof:geomhash":"b869dbf003b80c30ff2623e6f62cb858",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799303,
+            "region_id":85682833,
+            "venue_id":1008350171
+        }
+    ],
+    "wof:id":1008350171,
+    "wof:lastmodified":1472623523,
+    "wof:name":"Revuelta San Sebastian Manuel",
+    "wof:parent_id":85799303,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8058769703,
+    43.4662857056,
+    -3.8058769703,
+    43.4662857056
+],
+  "geometry": {"coordinates":[-3.8058769703,43.4662857056],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 991527447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.6634168625,43.5291557312,-5.6634168625,43.5291557312",
+    "geom:latitude":43.529156,
+    "geom:longitude":-5.663417,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Julio, 45",
+    "sg:city":"Gijon",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 985 15 21 13",
+    "sg:postcode":"33209",
+    "sg:province":"Asturias",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799415,
+        102191581,
+        404340333,
+        85633129,
+        404227365,
+        101748401,
+        85682805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RMLbaVxtrZenQ5E5UkJ1k_43.529156_-5.663417@1306269497"
+    },
+    "wof:country":"ES",
+    "wof:created":1472555848,
+    "wof:geomhash":"0254859af45665c083c8601b8cd0e2a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404340333,
+            "locality_id":101748401,
+            "macroregion_id":404227365,
+            "neighbourhood_id":85799415,
+            "region_id":85682805,
+            "venue_id":991527447
+        }
+    ],
+    "wof:id":991527447,
+    "wof:lastmodified":1472555848,
+    "wof:name":"Dos Santos Fernandez Fernando",
+    "wof:parent_id":85799415,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -5.6634168625,
+    43.5291557312,
+    -5.6634168625,
+    43.5291557312
+],
+  "geometry": {"coordinates":[-5.6634168625,43.5291557312],"type":"Point"}
+}

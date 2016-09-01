@@ -1,0 +1,79 @@
+{
+  "id": 1007685163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.6756324768,43.5284614563,-5.6756324768,43.5284614563",
+    "geom:latitude":43.528461,
+    "geom:longitude":-5.675632,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Constitucion, 81",
+    "sg:city":"Gijon",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bureau De Change",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 985 15 58 77",
+    "sg:postcode":"33210",
+    "sg:province":"Asturias",
+    "sg:tags":[
+        "organismos",
+        "control"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799415,
+        102191581,
+        404340333,
+        85633129,
+        404227365,
+        101748401,
+        85682805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28UqaOYs8mVclx6OVkDpi4_43.528461_-5.675632@1306269555"
+    },
+    "wof:country":"ES",
+    "wof:created":1472580256,
+    "wof:geomhash":"71966c898ede8f4d6e4dc3905392f3ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404340333,
+            "locality_id":101748401,
+            "macroregion_id":404227365,
+            "neighbourhood_id":85799415,
+            "region_id":85682805,
+            "venue_id":1007685163
+        }
+    ],
+    "wof:id":1007685163,
+    "wof:lastmodified":1472580256,
+    "wof:name":"Ingenort-servicios Geotecnicos Y Recursos Naturales S.l.",
+    "wof:parent_id":85799415,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organismos",
+        "control"
+    ]
+},
+  "bbox": [
+    -5.6756324768,
+    43.5284614563,
+    -5.6756324768,
+    43.5284614563
+],
+  "geometry": {"coordinates":[-5.6756324768,43.5284614563],"type":"Point"}
+}

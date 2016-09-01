@@ -1,0 +1,59 @@
+{
+  "id": 1008476791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8343379498,40.3454971313,-3.8343379498,40.3454971313",
+    "geom:latitude":40.345497,
+    "geom:longitude":-3.834338,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Siete Ojos, 4",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Empresas De Pintura Y Revestimientos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 44 01 50",
+    "sg:postcode":"28922",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sUYpuFwixYWmZ5u0E2eXG_40.345497_-3.834338@1306269659"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628985,
+    "wof:geomhash":"3a506e388c3771769a3bf97b4d00a6fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008476791
+        }
+    ],
+    "wof:id":1008476791,
+    "wof:lastmodified":1472628985,
+    "wof:name":"Santos Franco Desiderio",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8343379498,
+    40.3454971313,
+    -3.8343379498,
+    40.3454971313
+],
+  "geometry": {"coordinates":[-3.8343379498,40.3454971313],"type":"Point"}
+}

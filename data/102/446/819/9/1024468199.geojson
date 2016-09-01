@@ -1,0 +1,60 @@
+{
+  "id": 1024468199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8735160828,40.4740219116,-3.8735160828,40.4740219116",
+    "geom:latitude":40.474022,
+    "geom:longitude":-3.873516,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Doctor Perez Gallardo, S/n",
+    "sg:city":"Majadahonda",
+    "sg:classifiers":[],
+    "sg:orig_category":"Urbanistas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 34 78 77",
+    "sg:postcode":"28220",
+    "sg:province":"Madrid",
+    "sg:website":"www.virton.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863657,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_676lySsmnyFbU7viNSZhwd_40.474022_-3.873516@1306269694"
+    },
+    "wof:country":"ES",
+    "wof:created":1472640261,
+    "wof:geomhash":"311c4c4cac4f2fb918b989e362ffa629",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863657,
+            "region_id":85682783,
+            "venue_id":1024468199
+        }
+    ],
+    "wof:id":1024468199,
+    "wof:lastmodified":1472640261,
+    "wof:name":"Virton S.a.",
+    "wof:parent_id":85863657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8735160828,
+    40.4740219116,
+    -3.8735160828,
+    40.4740219116
+],
+  "geometry": {"coordinates":[-3.8735160828,40.4740219116],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1007720837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7323288918,40.3035507202,-3.7323288918,40.3035507202",
+    "geom:latitude":40.303551,
+    "geom:longitude":-3.732329,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Oriente, 3",
+    "sg:city":"Getafe",
+    "sg:classifiers":[],
+    "sg:orig_category":"Laboratorios Y Cl\u00cdnicas Veterinarias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 95 52 82",
+    "sg:postcode":"28901",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zn5wW4cLqdOR3Bk24Pbwb_40.303551_-3.732329@1306269559"
+    },
+    "wof:country":"ES",
+    "wof:created":1472582005,
+    "wof:geomhash":"c1706db0790cf36e0270b6357a1d06ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1007720837
+        }
+    ],
+    "wof:id":1007720837,
+    "wof:lastmodified":1472582005,
+    "wof:name":"Jara Redondo Emiliano",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7323288918,
+    40.3035507202,
+    -3.7323288918,
+    40.3035507202
+],
+  "geometry": {"coordinates":[-3.7323288918,40.3035507202],"type":"Point"}
+}

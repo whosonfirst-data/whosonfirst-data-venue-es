@@ -1,0 +1,64 @@
+{
+  "id": 1007845609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.734282732,40.4821853638,-3.734282732,40.4821853638",
+    "geom:latitude":40.482185,
+    "geom:longitude":-3.734283,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Alfonso Rodriguez Castelao, S/n",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 16 55 85",
+    "sg:postcode":"28035",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85682783,
+        102191581,
+        85633129,
+        101748283,
+        85863557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MEkrvuZEC37vHNKhLbENk_40.482185_-3.734283@1306269575"
+    },
+    "wof:country":"ES",
+    "wof:created":1472588490,
+    "wof:geomhash":"15719c8b57bf5f00adf682322125e852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748283,
+            "neighbourhood_id":85863557,
+            "region_id":85682783,
+            "venue_id":1007845609
+        }
+    ],
+    "wof:id":1007845609,
+    "wof:lastmodified":1472588490,
+    "wof:name":"Lopez Sanchez Maria Ascension",
+    "wof:parent_id":85863557,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.734282732,
+    40.4821853638,
+    -3.734282732,
+    40.4821853638
+],
+  "geometry": {"coordinates":[-3.734282732,40.4821853638],"type":"Point"}
+}

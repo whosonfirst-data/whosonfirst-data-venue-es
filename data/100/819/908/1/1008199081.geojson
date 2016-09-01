@@ -1,0 +1,67 @@
+{
+  "id": 1008199081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3827629983,39.4613761902,-0.3827629983,39.4613761902",
+    "geom:latitude":39.461376,
+    "geom:longitude":-0.382763,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de San Vicente Martir, 168",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hornos Industriales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 41 38 39",
+    "sg:postcode":"46007",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864207,
+        102191581,
+        404345361,
+        85633129,
+        404227381,
+        101748241,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dvfeTMQjRL95Dua1WFJHx_39.461376_-0.382763@1306269622"
+    },
+    "wof:country":"ES",
+    "wof:created":1472609351,
+    "wof:geomhash":"e7b8a820739d929f9483500e57a87637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345361,
+            "locality_id":101748241,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864207,
+            "region_id":85682867,
+            "venue_id":1008199081
+        }
+    ],
+    "wof:id":1008199081,
+    "wof:lastmodified":1472609351,
+    "wof:name":"Pellicer Esteve Abel",
+    "wof:parent_id":85864207,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3827629983,
+    39.4613761902,
+    -0.3827629983,
+    39.4613761902
+],
+  "geometry": {"coordinates":[-0.3827629983,39.4613761902],"type":"Point"}
+}

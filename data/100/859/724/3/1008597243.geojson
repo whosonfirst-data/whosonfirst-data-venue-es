@@ -1,0 +1,78 @@
+{
+  "id": 1008597243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6363990307,40.4093742371,-3.6363990307,40.4093742371",
+    "geom:latitude":40.409374,
+    "geom:longitude":-3.636399,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Antonio Cumella, 6",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros Empresariales",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 71 47 82",
+    "sg:postcode":"28030",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863715,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85799553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HBvqOaNTx7l3osbaGc1G5_40.409374_-3.636399@1306269675"
+    },
+    "wof:country":"ES",
+    "wof:created":1472634130,
+    "wof:geomhash":"568662824fba5ba93c29883187f3a422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863715,
+            "region_id":85682783,
+            "venue_id":1008597243
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799553,
+            "region_id":85682783,
+            "venue_id":1008597243
+        }
+    ],
+    "wof:id":1008597243,
+    "wof:lastmodified":1472634130,
+    "wof:name":"Taoying  Zhang",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6363990307,
+    40.4093742371,
+    -3.6363990307,
+    40.4093742371
+],
+  "geometry": {"coordinates":[-3.6363990307,40.4093742371],"type":"Point"}
+}

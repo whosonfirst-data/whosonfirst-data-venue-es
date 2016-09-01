@@ -1,0 +1,67 @@
+{
+  "id": 990912801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1685478687,41.3819389343,2.1685478687,41.3819389343",
+    "geom:latitude":41.381939,
+    "geom:longitude":2.168548,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Angels, 1",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Guarder\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 42 20 51",
+    "sg:postcode":"08001",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864035,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bliOW0o88oXUgpQQGgNIf_41.381939_2.168548@1306269415"
+    },
+    "wof:country":"ES",
+    "wof:created":1472509842,
+    "wof:geomhash":"ba087fcf742e8b8e7d50aef93a80908c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85864035,
+            "region_id":85682663,
+            "venue_id":990912801
+        }
+    ],
+    "wof:id":990912801,
+    "wof:lastmodified":1472509842,
+    "wof:name":"Ajuntament De Barcelona",
+    "wof:parent_id":85864035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1685478687,
+    41.3819389343,
+    2.1685478687,
+    41.3819389343
+],
+  "geometry": {"coordinates":[2.1685478687,41.3819389343],"type":"Point"}
+}

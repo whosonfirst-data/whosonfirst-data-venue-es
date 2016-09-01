@@ -1,0 +1,59 @@
+{
+  "id": 1008445843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7228899002,40.3125495911,-3.7228899002,40.3125495911",
+    "geom:latitude":40.31255,
+    "geom:longitude":-3.72289,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Catalu\u00d1a, 6",
+    "sg:city":"Getafe",
+    "sg:classifiers":[],
+    "sg:orig_category":"Muebles, Minoristas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 82 39 29",
+    "sg:postcode":"28903",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863795,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pvJnHXMQ5cjtsaT1X7Iw4_40.312550_-3.722890@1306269655"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627786,
+    "wof:geomhash":"c25f9f433f70f7dd668ad3891363f31b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863795,
+            "region_id":85682783,
+            "venue_id":1008445843
+        }
+    ],
+    "wof:id":1008445843,
+    "wof:lastmodified":1472627786,
+    "wof:name":"Sanchez Alonso Candido",
+    "wof:parent_id":85863795,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7228899002,
+    40.3125495911,
+    -3.7228899002,
+    40.3125495911
+],
+  "geometry": {"coordinates":[-3.7228899002,40.3125495911],"type":"Point"}
+}

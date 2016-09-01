@@ -1,0 +1,59 @@
+{
+  "id": 1008545443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8262758255,40.348777771,-3.8262758255,40.348777771",
+    "geom:latitude":40.348778,
+    "geom:longitude":-3.826276,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Jaboneria, 26",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Reparaci\u00d3n, Mantenimiento De Instrumentos Y Accesorios De M\u00dasica",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 10 84 46",
+    "sg:postcode":"28921",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Zfq7ofS3t2qLDmz1D6pen_40.348778_-3.826276@1306269668"
+    },
+    "wof:country":"ES",
+    "wof:created":1472631918,
+    "wof:geomhash":"7e3af0451b78420e7299a455154cf86b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008545443
+        }
+    ],
+    "wof:id":1008545443,
+    "wof:lastmodified":1472631918,
+    "wof:name":"Solar Gonzalez Anselmo",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8262758255,
+    40.348777771,
+    -3.8262758255,
+    40.348777771
+],
+  "geometry": {"coordinates":[-3.8262758255,40.348777771],"type":"Point"}
+}

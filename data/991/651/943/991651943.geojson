@@ -1,0 +1,72 @@
+{
+  "id": 991651943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7320849895,40.4086341858,-3.7320849895,40.4086341858",
+    "geom:latitude":40.408634,
+    "geom:longitude":-3.732085,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Jaime Tercero, 34",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 63 97 38",
+    "sg:postcode":"28011",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863773,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v65nT4OnVhn1idB06zCg8_40.408634_-3.732085@1306269514"
+    },
+    "wof:country":"ES",
+    "wof:created":1472563086,
+    "wof:geomhash":"5e9608133c4f3102b5af0cb41fee05e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863773,
+            "region_id":85682783,
+            "venue_id":991651943
+        }
+    ],
+    "wof:id":991651943,
+    "wof:lastmodified":1472563086,
+    "wof:name":"Fernandez Torres Carmen",
+    "wof:parent_id":85863773,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7320849895,
+    40.4086341858,
+    -3.7320849895,
+    40.4086341858
+],
+  "geometry": {"coordinates":[-3.7320849895,40.4086341858],"type":"Point"}
+}

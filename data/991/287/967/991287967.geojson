@@ -1,0 +1,81 @@
+{
+  "id": 991287967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1276900768,41.3666954041,2.1276900768,41.3666954041",
+    "geom:latitude":41.366695,
+    "geom:longitude":2.12769,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Jacint Verdaguer, 8",
+    "sg:city":"Hospitalet Llobregat",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 31 36 28",
+    "sg:postcode":"08902",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799585,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Re1ZctgNOa3icF5M54W7H_41.366695_2.127690@1306269465"
+    },
+    "wof:country":"ES",
+    "wof:created":1472542103,
+    "wof:geomhash":"f355304f8376110d04949724b9663501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799585,
+            "region_id":85682663,
+            "venue_id":991287967
+        }
+    ],
+    "wof:id":991287967,
+    "wof:lastmodified":1472542103,
+    "wof:name":"Casino De Santa Eulalia",
+    "wof:parent_id":85799585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [
+    2.1276900768,
+    41.3666954041,
+    2.1276900768,
+    41.3666954041
+],
+  "geometry": {"coordinates":[2.1276900768,41.3666954041],"type":"Point"}
+}

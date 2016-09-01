@@ -1,0 +1,67 @@
+{
+  "id": 1007746319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9918000698,43.2822723389,-2.9918000698,43.2822723389",
+    "geom:latitude":43.282272,
+    "geom:longitude":-2.9918,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de La Paz, 38",
+    "sg:city":"San Vicente De Barakaldo",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 90 26 84",
+    "sg:postcode":"48903",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799675,
+        102191581,
+        404345933,
+        85633129,
+        404227393,
+        101748387,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FSKGncBrcYXZT8bX703EK_43.282272_-2.991800@1306269563"
+    },
+    "wof:country":"ES",
+    "wof:created":1472583476,
+    "wof:geomhash":"7253ff595f16416d676c200560de038d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345933,
+            "locality_id":101748387,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85799675,
+            "region_id":85682879,
+            "venue_id":1007746319
+        }
+    ],
+    "wof:id":1007746319,
+    "wof:lastmodified":1472583476,
+    "wof:name":"Jose Mendez Ferreiro Y Otros Cdad",
+    "wof:parent_id":85799675,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9918000698,
+    43.2822723389,
+    -2.9918000698,
+    43.2822723389
+],
+  "geometry": {"coordinates":[-2.9918000698,43.2822723389],"type":"Point"}
+}

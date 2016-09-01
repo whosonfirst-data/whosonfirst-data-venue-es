@@ -1,0 +1,64 @@
+{
+  "id": 991055417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5329658985,40.427696228,-3.5329658985,40.427696228",
+    "geom:latitude":40.427696,
+    "geom:longitude":-3.532966,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Jose Alix Alix (de), 14",
+    "sg:city":"San Fernando De Henares",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 73 46 86",
+    "sg:postcode":"28830",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863709,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NtjGdYk9J0yQ2UkEnJb4F_40.427696_-3.532966@1306269434"
+    },
+    "wof:country":"ES",
+    "wof:created":1472523312,
+    "wof:geomhash":"63b9b52e4e1e5fe8a58fd8e387358084",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863709,
+            "region_id":85682783,
+            "venue_id":991055417
+        }
+    ],
+    "wof:id":991055417,
+    "wof:lastmodified":1472523312,
+    "wof:name":"Auto-escuela 2000 S. A",
+    "wof:parent_id":85863709,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5329658985,
+    40.427696228,
+    -3.5329658985,
+    40.427696228
+],
+  "geometry": {"coordinates":[-3.5329658985,40.427696228],"type":"Point"}
+}

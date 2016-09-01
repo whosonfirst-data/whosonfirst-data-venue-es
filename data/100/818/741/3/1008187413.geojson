@@ -1,0 +1,81 @@
+{
+  "id": 1008187413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.4888094962,38.3469772339,-0.4888094962,38.3469772339",
+    "geom:latitude":38.346977,
+    "geom:longitude":-0.488809,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Belando, 4",
+    "sg:city":"Alacant",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 965 21 06 61",
+    "sg:postcode":"03004",
+    "sg:province":"Alicante",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864055,
+        102191581,
+        404329281,
+        85633129,
+        404227381,
+        101748211,
+        85682625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rCPyRrkbXFFLMwZ17e9WG_38.346977_-0.488809@1306269620"
+    },
+    "wof:country":"ES",
+    "wof:created":1472606637,
+    "wof:geomhash":"d3a2456f3d05bcde4188539824a46c88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404329281,
+            "locality_id":101748211,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864055,
+            "region_id":85682625,
+            "venue_id":1008187413
+        }
+    ],
+    "wof:id":1008187413,
+    "wof:lastmodified":1472606637,
+    "wof:name":"Pastor Garcia Juan Antonio",
+    "wof:parent_id":85864055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -0.4888094962,
+    38.3469772339,
+    -0.4888094962,
+    38.3469772339
+],
+  "geometry": {"coordinates":[-0.4888094962,38.3469772339],"type":"Point"}
+}

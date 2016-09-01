@@ -1,0 +1,81 @@
+{
+  "id": 991005243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6927719116,40.4234695435,-3.6927719116,40.4234695435",
+    "geom:latitude":40.42347,
+    "geom:longitude":-3.692772,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Barbara De Braganza, 10",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 08 54 13",
+    "sg:postcode":"28004",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "te",
+        "de",
+        "salones"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863809,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qd68DlgVH9mnzifbZ3AUF_40.423470_-3.692772@1306269428"
+    },
+    "wof:country":"ES",
+    "wof:created":1472519468,
+    "wof:geomhash":"bc6d3bc713fa7c302324496b2774434b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863809,
+            "region_id":85682783,
+            "venue_id":991005243
+        }
+    ],
+    "wof:id":991005243,
+    "wof:lastmodified":1472519468,
+    "wof:name":"Armbruster Blecher Cristina",
+    "wof:parent_id":85863809,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "te",
+        "de",
+        "salones"
+    ]
+},
+  "bbox": [
+    -3.6927719116,
+    40.4234695435,
+    -3.6927719116,
+    40.4234695435
+],
+  "geometry": {"coordinates":[-3.6927719116,40.4234695435],"type":"Point"}
+}

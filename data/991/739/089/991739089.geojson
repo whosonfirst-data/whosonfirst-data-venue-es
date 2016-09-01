@@ -1,0 +1,74 @@
+{
+  "id": 991739089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9090030193,43.2516479492,-2.9090030193,43.2516479492",
+    "geom:latitude":43.251648,
+    "geom:longitude":-2.909003,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Lauaxeta, 5",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[],
+    "sg:orig_category":"Cajas Registradoras, Terminales De Puntos De Venta",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 11 31 99",
+    "sg:postcode":"48004",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863967,
+        102191581,
+        404345949,
+        85633129,
+        404227393,
+        101748385,
+        85682879,
+        85799199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53v85Jebiboja4XN67XyhQ_43.251648_-2.909003@1306269526"
+    },
+    "wof:country":"ES",
+    "wof:created":1472567429,
+    "wof:geomhash":"206c8c372131bb77a535eda824afbfb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345949,
+            "locality_id":101748385,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863967,
+            "region_id":85682879,
+            "venue_id":991739089
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85799199,
+            "region_id":85682879,
+            "venue_id":991739089
+        }
+    ],
+    "wof:id":991739089,
+    "wof:lastmodified":1472567429,
+    "wof:name":"Garcia Cerezo Felipe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9090030193,
+    43.2516479492,
+    -2.9090030193,
+    43.2516479492
+],
+  "geometry": {"coordinates":[-2.9090030193,43.2516479492],"type":"Point"}
+}

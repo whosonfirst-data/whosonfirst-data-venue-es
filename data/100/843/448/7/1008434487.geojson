@@ -1,0 +1,67 @@
+{
+  "id": 1008434487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6678659916,40.3968315125,-3.6678659916,40.3968315125",
+    "geom:latitude":40.396832,
+    "geom:longitude":-3.667866,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Monte Igueldo, 15",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Procuradores",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 51 38 04",
+    "sg:postcode":"28053",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799491,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IopNFwUON8DLMm9wHNvrm_40.396832_-3.667866@1306269653"
+    },
+    "wof:country":"ES",
+    "wof:created":1472627375,
+    "wof:geomhash":"506a02fbbe5c0724711f936bf20a519d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799491,
+            "region_id":85682783,
+            "venue_id":1008434487
+        }
+    ],
+    "wof:id":1008434487,
+    "wof:lastmodified":1472627375,
+    "wof:name":"Saiz Ferrer Maria Teresa",
+    "wof:parent_id":85799491,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6678659916,
+    40.3968315125,
+    -3.6678659916,
+    40.3968315125
+],
+  "geometry": {"coordinates":[-3.6678659916,40.3968315125],"type":"Point"}
+}

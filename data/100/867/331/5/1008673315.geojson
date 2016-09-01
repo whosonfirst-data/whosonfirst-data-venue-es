@@ -1,0 +1,68 @@
+{
+  "id": 1008673315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6530900002,40.4762916565,-3.6530900002,40.4762916565",
+    "geom:latitude":40.476292,
+    "geom:longitude":-3.65309,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Plaz Cortes, 4",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Universidades",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 24 70 00",
+    "sg:postcode":"28...",
+    "sg:province":"Madrid",
+    "sg:website":"www.uoc.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863583,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OuPYNGRgbHw4Ka854l6oy_40.476292_-3.653090@1306269685"
+    },
+    "wof:country":"ES",
+    "wof:created":1472637330,
+    "wof:geomhash":"4001df6b25591bf8ff47118759683f52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863583,
+            "region_id":85682783,
+            "venue_id":1008673315
+        }
+    ],
+    "wof:id":1008673315,
+    "wof:lastmodified":1472637330,
+    "wof:name":"Universitat Oberta De Catalunya",
+    "wof:parent_id":85863583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6530900002,
+    40.4762916565,
+    -3.6530900002,
+    40.4762916565
+],
+  "geometry": {"coordinates":[-3.6530900002,40.4762916565],"type":"Point"}
+}

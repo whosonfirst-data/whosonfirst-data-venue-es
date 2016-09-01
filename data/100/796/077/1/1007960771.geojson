@@ -1,0 +1,67 @@
+{
+  "id": 1007960771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1584889889,41.4024848938,2.1584889889,41.4024848938",
+    "geom:latitude":41.402485,
+    "geom:longitude":2.158489,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Ramon Y Cajal, 24",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 932 13 58 17",
+    "sg:postcode":"08012",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799393,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62EeheJT05CMLXLIpSOGav_41.402485_2.158489@1306269590"
+    },
+    "wof:country":"ES",
+    "wof:created":1472593584,
+    "wof:geomhash":"8f4a1dc3e1312766df17a7682fbfe010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799393,
+            "region_id":85682663,
+            "venue_id":1007960771
+        }
+    ],
+    "wof:id":1007960771,
+    "wof:lastmodified":1472593584,
+    "wof:name":"Mauri Martinez Emilia",
+    "wof:parent_id":85799393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1584889889,
+    41.4024848938,
+    2.1584889889,
+    41.4024848938
+],
+  "geometry": {"coordinates":[2.1584889889,41.4024848938],"type":"Point"}
+}

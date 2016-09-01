@@ -1,0 +1,80 @@
+{
+  "id": 1008219935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-5.9561290741,37.3742713928,-5.9561290741,37.3742713928",
+    "geom:latitude":37.374271,
+    "geom:longitude":-5.956129,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Tarragona, 112",
+    "sg:city":"Sevilla",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 954 63 37 88",
+    "sg:postcode":"41006",
+    "sg:province":"Sevilla",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864187,
+        102191581,
+        404342947,
+        85633129,
+        404227361,
+        101748225,
+        85682841,
+        85799231,
+        404342827,
+        101753675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wml4YQmnB0DyvNJuTDxg7_37.374271_-5.956129@1306269624"
+    },
+    "wof:country":"ES",
+    "wof:created":1472613374,
+    "wof:geomhash":"c6e58d12d29829b903e8602b9813c0e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342947,
+            "locality_id":101748225,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85864187,
+            "region_id":85682841,
+            "venue_id":1008219935
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404342827,
+            "locality_id":101753675,
+            "macroregion_id":404227361,
+            "neighbourhood_id":85799231,
+            "region_id":85682841,
+            "venue_id":1008219935
+        }
+    ],
+    "wof:id":1008219935,
+    "wof:lastmodified":1472613374,
+    "wof:name":"Perez Perez Crescencia",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.9561290741,
+    37.3742713928,
+    -5.9561290741,
+    37.3742713928
+],
+  "geometry": {"coordinates":[-5.9561290741,37.3742713928],"type":"Point"}
+}

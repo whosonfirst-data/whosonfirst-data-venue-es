@@ -1,0 +1,67 @@
+{
+  "id": 991105509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.3616352081,36.721282959,-4.3616352081,36.721282959",
+    "geom:latitude":36.721283,
+    "geom:longitude":-4.361635,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Juan Sebastian Elcano, 193",
+    "sg:city":"Malaga",
+    "sg:classifiers":[],
+    "sg:orig_category":"Bancos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 20 00 54",
+    "sg:postcode":"29017",
+    "sg:province":"M\u00e1laga",
+    "sg:website":"www.bancoatlantico.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863517,
+        85682787,
+        85863521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31n5xAYq0bysxThGrkQ4GO_36.721283_-4.361635@1306269441"
+    },
+    "wof:country":"ES",
+    "wof:created":1472527210,
+    "wof:geomhash":"3659096ae34c5353cec94b3606da0587",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863517,
+            "region_id":85682787,
+            "venue_id":991105509
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863521,
+            "region_id":85682787,
+            "venue_id":991105509
+        }
+    ],
+    "wof:id":991105509,
+    "wof:lastmodified":1472527210,
+    "wof:name":"Banc Sabadell S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.3616352081,
+    36.721282959,
+    -4.3616352081,
+    36.721282959
+],
+  "geometry": {"coordinates":[-4.3616352081,36.721282959],"type":"Point"}
+}

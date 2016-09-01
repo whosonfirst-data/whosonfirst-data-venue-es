@@ -1,0 +1,66 @@
+{
+  "id": 991462179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5374650955,40.4269523621,-3.5374650955,40.4269523621",
+    "geom:latitude":40.426952,
+    "geom:longitude":-3.537465,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Ca\u00d1ada, 24",
+    "sg:city":"San Fernando De Henares",
+    "sg:classifiers":[],
+    "sg:orig_category":"Asistencia Y Consejos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 914 85 09 30",
+    "sg:postcode":"28830",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863709,
+        85682783,
+        85863631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WCRlsdQKMVXujptRxtSgp_40.426952_-3.537465@1306269489"
+    },
+    "wof:country":"ES",
+    "wof:created":1472552358,
+    "wof:geomhash":"ba1ef7064087757a47e747abdba5a686",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863709,
+            "region_id":85682783,
+            "venue_id":991462179
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863631,
+            "region_id":85682783,
+            "venue_id":991462179
+        }
+    ],
+    "wof:id":991462179,
+    "wof:lastmodified":1472552358,
+    "wof:name":"Cuervo Herrero Ignacio Luis",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5374650955,
+    40.4269523621,
+    -3.5374650955,
+    40.4269523621
+],
+  "geometry": {"coordinates":[-3.5374650955,40.4269523621],"type":"Point"}
+}

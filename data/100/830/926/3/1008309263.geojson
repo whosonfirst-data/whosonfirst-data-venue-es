@@ -1,0 +1,81 @@
+{
+  "id": 1008309263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6335229874,40.447681427,-3.6335229874,40.447681427",
+    "geom:latitude":40.447681,
+    "geom:longitude":-3.633523,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Juan Ignacio Luca De Tena, 7",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 71 75 99",
+    "sg:postcode":"28027",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "televisiones",
+        "y",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863633,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_106QWdmWm2yCdjeezGGgpw_40.447681_-3.633523@1306269636"
+    },
+    "wof:country":"ES",
+    "wof:created":1472621766,
+    "wof:geomhash":"1b26647fac977bfc1344d144dc5ef5f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863633,
+            "region_id":85682783,
+            "venue_id":1008309263
+        }
+    ],
+    "wof:id":1008309263,
+    "wof:lastmodified":1472621766,
+    "wof:name":"Radio Publi S.l.",
+    "wof:parent_id":85863633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "televisiones",
+        "y",
+        "radio"
+    ]
+},
+  "bbox": [
+    -3.6335229874,
+    40.447681427,
+    -3.6335229874,
+    40.447681427
+],
+  "geometry": {"coordinates":[-3.6335229874,40.447681427],"type":"Point"}
+}

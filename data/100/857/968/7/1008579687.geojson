@@ -1,0 +1,80 @@
+{
+  "id": 1008579687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.2082800865,41.4519996643,2.2082800865,41.4519996643",
+    "geom:latitude":41.452,
+    "geom:longitude":2.20828,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pl Vila, 3",
+    "sg:city":"Santa Coloma De Gramenet",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 86 01 55",
+    "sg:postcode":"08921",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799559,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663,
+        85799517,
+        404331425,
+        101748345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7go39TbAJTlipIfH2vcsRh_41.452000_2.208280@1306269673"
+    },
+    "wof:country":"ES",
+    "wof:created":1472633365,
+    "wof:geomhash":"f7868bdecdc45095dae5e85033245b8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799559,
+            "region_id":85682663,
+            "venue_id":1008579687
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331425,
+            "locality_id":101748345,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799517,
+            "region_id":85682663,
+            "venue_id":1008579687
+        }
+    ],
+    "wof:id":1008579687,
+    "wof:lastmodified":1472633365,
+    "wof:name":"Taillefer De Prado Maria Jesus",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.2082800865,
+    41.4519996643,
+    2.2082800865,
+    41.4519996643
+],
+  "geometry": {"coordinates":[2.2082800865,41.4519996643],"type":"Point"}
+}

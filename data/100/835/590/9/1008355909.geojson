@@ -1,0 +1,59 @@
+{
+  "id": 1008355909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9436049461,43.2719078064,-2.9436049461,43.2719078064",
+    "geom:latitude":43.271908,
+    "geom:longitude":-2.943605,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Ramon Y Cajal, 3",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[],
+    "sg:orig_category":"Centros Comerciales Y Grandes Tiendas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 76 35 45",
+    "sg:postcode":"48014",
+    "sg:province":"Vizcaya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863945,
+        85682879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mjvqv9c4a4r1F5M6wmt6J_43.271908_-2.943605@1306269643"
+    },
+    "wof:country":"ES",
+    "wof:created":1472623764,
+    "wof:geomhash":"d653b1b0dd0cba80ef816e689948c69a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863945,
+            "region_id":85682879,
+            "venue_id":1008355909
+        }
+    ],
+    "wof:id":1008355909,
+    "wof:lastmodified":1472623764,
+    "wof:name":"Richard Ivan Gordillo Pintado",
+    "wof:parent_id":85863945,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9436049461,
+    43.2719078064,
+    -2.9436049461,
+    43.2719078064
+],
+  "geometry": {"coordinates":[-2.9436049461,43.2719078064],"type":"Point"}
+}

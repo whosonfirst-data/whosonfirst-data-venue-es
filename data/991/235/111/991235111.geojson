@@ -1,0 +1,72 @@
+{
+  "id": 991235111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.225892067,41.4505882263,2.225892067,41.4505882263",
+    "geom:latitude":41.450588,
+    "geom:longitude":2.225892,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avgd Lloreda, 42",
+    "sg:city":"Badalona",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 60 17 96",
+    "sg:postcode":"08917",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799179,
+        102191581,
+        404330911,
+        85633129,
+        404227379,
+        101748319,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xiKMCE5PvGxwqZ6FFytW9_41.450588_2.225892@1306269458"
+    },
+    "wof:country":"ES",
+    "wof:created":1472539283,
+    "wof:geomhash":"22a1b2302bb898f2188f291d1b9a71e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330911,
+            "locality_id":101748319,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799179,
+            "region_id":85682663,
+            "venue_id":991235111
+        }
+    ],
+    "wof:id":991235111,
+    "wof:lastmodified":1472539283,
+    "wof:name":"Camacho Lechuga S. L.",
+    "wof:parent_id":85799179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.225892067,
+    41.4505882263,
+    2.225892067,
+    41.4505882263
+],
+  "geometry": {"coordinates":[2.225892067,41.4505882263],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1007929771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6438319683,40.3896903992,-3.6438319683,40.3896903992",
+    "geom:latitude":40.38969,
+    "geom:longitude":-3.643832,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avda Pablo Neruda, 38",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Farmacias",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 917 77 16 27",
+    "sg:postcode":"28038",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799645,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LIG7cacnBShSnd7nLdqFg_40.389690_-3.643832@1306269586"
+    },
+    "wof:country":"ES",
+    "wof:created":1472592221,
+    "wof:geomhash":"31b54b660dc840f0622b56a651e7b6cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85799645,
+            "region_id":85682783,
+            "venue_id":1007929771
+        }
+    ],
+    "wof:id":1007929771,
+    "wof:lastmodified":1472592221,
+    "wof:name":"Martinez Melero Julia",
+    "wof:parent_id":85799645,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6438319683,
+    40.3896903992,
+    -3.6438319683,
+    40.3896903992
+],
+  "geometry": {"coordinates":[-3.6438319683,40.3896903992],"type":"Point"}
+}

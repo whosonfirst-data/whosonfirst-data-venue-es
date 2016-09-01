@@ -1,0 +1,79 @@
+{
+  "id": 1007797741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.9363050461,43.2619781494,-2.9363050461,43.2619781494",
+    "geom:latitude":43.261978,
+    "geom:longitude":-2.936305,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Rodriguez Arias, 23",
+    "sg:city":"Bilbao",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alquiler De Veh\u00cdculos: Turismos Y Utilitarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 944 70 38 20",
+    "sg:postcode":"48011",
+    "sg:province":"Vizcaya",
+    "sg:website":"www.leaseplan.es",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863957,
+        102191581,
+        404345949,
+        85633129,
+        404227393,
+        101748385,
+        85682879,
+        85863925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09hM14oDx5Q7NtqchCCYKR_43.261978_-2.936305@1306269570"
+    },
+    "wof:country":"ES",
+    "wof:created":1472586199,
+    "wof:geomhash":"2796c7db2a24fac164e77ecf296b7012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345949,
+            "locality_id":101748385,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863957,
+            "region_id":85682879,
+            "venue_id":1007797741
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345949,
+            "locality_id":101748385,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863925,
+            "region_id":85682879,
+            "venue_id":1007797741
+        }
+    ],
+    "wof:id":1007797741,
+    "wof:lastmodified":1472586199,
+    "wof:name":"Lease Plan Servicios, S.a.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9363050461,
+    43.2619781494,
+    -2.9363050461,
+    43.2619781494
+],
+  "geometry": {"coordinates":[-2.9363050461,43.2619781494],"type":"Point"}
+}

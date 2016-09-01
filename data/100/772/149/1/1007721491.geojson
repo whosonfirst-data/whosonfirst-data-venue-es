@@ -1,0 +1,67 @@
+{
+  "id": 1007721491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1436049938,41.391368866,2.1436049938,41.391368866",
+    "geom:latitude":41.391369,
+    "geom:longitude":2.143605,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av Josep Tarradellas, 151",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 39 88 02",
+    "sg:postcode":"08029",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799611,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZyCl8yElqSqXXvT4xATJx_41.391369_2.143605@1306269559"
+    },
+    "wof:country":"ES",
+    "wof:created":1472582036,
+    "wof:geomhash":"7ac49d0fa35b2512812550e51b92ef80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799611,
+            "region_id":85682663,
+            "venue_id":1007721491
+        }
+    ],
+    "wof:id":1007721491,
+    "wof:lastmodified":1472582036,
+    "wof:name":"Jardi Vintro Agustin",
+    "wof:parent_id":85799611,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1436049938,
+    41.391368866,
+    2.1436049938,
+    41.391368866
+],
+  "geometry": {"coordinates":[2.1436049938,41.391368866],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1008557611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5841226578,40.4533424377,-3.5841226578,40.4533424377",
+    "geom:latitude":40.453342,
+    "geom:longitude":-3.584123,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Trespaderne, 29",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Transporte En General",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 29 35 25",
+    "sg:postcode":"28042",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        102545773,
+        85863587,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FTjO2NntUMQ17qUrIvPDw_40.453342_-3.584123@1306269670"
+    },
+    "wof:country":"ES",
+    "wof:created":1472632450,
+    "wof:geomhash":"d3c07a188cf9df4fbb19892fd8fa2f77",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545773,
+            "country_id":85633129,
+            "neighbourhood_id":85863587,
+            "region_id":85682783,
+            "venue_id":1008557611
+        }
+    ],
+    "wof:id":1008557611,
+    "wof:lastmodified":1472632450,
+    "wof:name":"Space Cargo Export",
+    "wof:parent_id":102545773,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5841226578,
+    40.4533424377,
+    -3.5841226578,
+    40.4533424377
+],
+  "geometry": {"coordinates":[-3.5841226578,40.4533424377],"type":"Point"}
+}

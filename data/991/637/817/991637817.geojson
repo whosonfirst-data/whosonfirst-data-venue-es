@@ -1,0 +1,73 @@
+{
+  "id": 991637817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.423210144,36.765007019,-4.423210144,36.765007019",
+    "geom:latitude":36.765007,
+    "geom:longitude":-4.42321,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cra Capuchinos, 66",
+    "sg:city":"Malaga",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 952 65 22 61",
+    "sg:postcode":"29014",
+    "sg:province":"M\u00e1laga",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863477,
+        85682787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZJ1Pyls4fs6Cj0wYwtQNV_36.765007_-4.423210@1306269512"
+    },
+    "wof:country":"ES",
+    "wof:created":1472562383,
+    "wof:geomhash":"b5919519ddacea22ebac1b16b00bbe73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863477,
+            "region_id":85682787,
+            "venue_id":991637817
+        }
+    ],
+    "wof:id":991637817,
+    "wof:lastmodified":1472562383,
+    "wof:name":"Fernandez Escalera Jose",
+    "wof:parent_id":85863477,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -4.423210144,
+    36.765007019,
+    -4.423210144,
+    36.765007019
+],
+  "geometry": {"coordinates":[-4.423210144,36.765007019],"type":"Point"}
+}

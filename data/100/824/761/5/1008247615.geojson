@@ -1,0 +1,81 @@
+{
+  "id": 1008247615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.168900013,41.4065742493,2.168900013,41.4065742493",
+    "geom:latitude":41.406574,
+    "geom:longitude":2.1689,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sardenya, 385",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 934 58 93 13",
+    "sg:postcode":"08025",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863999,
+        102191581,
+        404330921,
+        85633129,
+        404227379,
+        101748323,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1V4U0WJM9zsOAczhuIAoIa_41.406574_2.168900@1306269628"
+    },
+    "wof:country":"ES",
+    "wof:created":1472615828,
+    "wof:geomhash":"f50d02b48d6c4c81f3dbde12e1184acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85863999,
+            "region_id":85682663,
+            "venue_id":1008247615
+        }
+    ],
+    "wof:id":1008247615,
+    "wof:lastmodified":1472615828,
+    "wof:name":"Pizarro Barba Felipe",
+    "wof:parent_id":85863999,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    2.168900013,
+    41.4065742493,
+    2.168900013,
+    41.4065742493
+],
+  "geometry": {"coordinates":[2.168900013,41.4065742493],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1008455969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.223541975,41.4466705322,2.223541975,41.4466705322",
+    "geom:latitude":41.446671,
+    "geom:longitude":2.223542,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carr Isaac Albeniz, 4",
+    "sg:city":"Badalona",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 83 79 45",
+    "sg:postcode":"08914",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799179,
+        102191581,
+        404330911,
+        85633129,
+        404227379,
+        101748319,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BGjBkK4Q23yKJt1mae8Qv_41.446671_2.223542@1306269656"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628157,
+    "wof:geomhash":"fb254a84b7b0d461bc7a93afc25c4ed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330911,
+            "locality_id":101748319,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799179,
+            "region_id":85682663,
+            "venue_id":1008455969
+        }
+    ],
+    "wof:id":1008455969,
+    "wof:lastmodified":1472628157,
+    "wof:name":"Sanchez Martinez Jeronimo",
+    "wof:parent_id":85799179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.223541975,
+    41.4466705322,
+    2.223541975,
+    41.4466705322
+],
+  "geometry": {"coordinates":[2.223541975,41.4466705322],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1008476329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.8203780651,40.3545875549,-3.8203780651,40.3545875549",
+    "geom:latitude":40.354588,
+    "geom:longitude":-3.820378,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Sahagun, 16",
+    "sg:city":"Alcorcon",
+    "sg:classifiers":[],
+    "sg:orig_category":"Alimentaci\u00d3n General (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 19 24 25",
+    "sg:postcode":"28925",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863783,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FdoYq2ECouYvZmoNeRwfp_40.354588_-3.820378@1306269659"
+    },
+    "wof:country":"ES",
+    "wof:created":1472628965,
+    "wof:geomhash":"f050b92ba5bb0b4ae7421ca66f23315e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863783,
+            "region_id":85682783,
+            "venue_id":1008476329
+        }
+    ],
+    "wof:id":1008476329,
+    "wof:lastmodified":1472628965,
+    "wof:name":"Santos Atienza Salvador",
+    "wof:parent_id":85863783,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8203780651,
+    40.3545875549,
+    -3.8203780651,
+    40.3545875549
+],
+  "geometry": {"coordinates":[-3.8203780651,40.3545875549],"type":"Point"}
+}

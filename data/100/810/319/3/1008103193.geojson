@@ -1,0 +1,78 @@
+{
+  "id": 1008103193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.8929960132,41.6425743103,-0.8929960132,41.6425743103",
+    "geom:latitude":41.642574,
+    "geom:longitude":-0.892996,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pase Fernando El Catolico, 19",
+    "sg:city":"Zaragoza",
+    "sg:classifiers":[],
+    "sg:orig_category":"Abogados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 976 35 85 81",
+    "sg:postcode":"50006",
+    "sg:province":"Zaragoza",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863377,
+        102191581,
+        404347363,
+        85633129,
+        404227363,
+        101748361,
+        85682891,
+        85863341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03iZfNiZBECq5OqKJ1RAr8_41.642574_-0.892996@1306269608"
+    },
+    "wof:country":"ES",
+    "wof:created":1472599655,
+    "wof:geomhash":"12b23dc073205f3290d751d079b0bd45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863377,
+            "region_id":85682891,
+            "venue_id":1008103193
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404347363,
+            "locality_id":101748361,
+            "macroregion_id":404227363,
+            "neighbourhood_id":85863341,
+            "region_id":85682891,
+            "venue_id":1008103193
+        }
+    ],
+    "wof:id":1008103193,
+    "wof:lastmodified":1472599655,
+    "wof:name":"Novel Peruga Jose Maria",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8929960132,
+    41.6425743103,
+    -0.8929960132,
+    41.6425743103
+],
+  "geometry": {"coordinates":[-0.8929960132,41.6425743103],"type":"Point"}
+}

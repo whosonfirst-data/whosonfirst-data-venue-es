@@ -1,0 +1,62 @@
+{
+  "id": 1008113311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"1.4362909794,38.9080734253,1.4362909794,38.9080734253",
+    "geom:latitude":38.908073,
+    "geom:longitude":1.436291,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carr Sant Carles, 6",
+    "sg:city":"Eivissa",
+    "sg:classifiers":[],
+    "sg:orig_category":"Arquitectos",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 30 26 35",
+    "sg:postcode":"07800",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        101777557,
+        85864231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QcBuXgH3fz8CGOnTEgEKK_38.908073_1.436291@1306269610"
+    },
+    "wof:country":"ES",
+    "wof:created":1472600088,
+    "wof:geomhash":"4edc6a0173f5d0810faa2f523dea74ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101777557,
+            "neighbourhood_id":85864231,
+            "region_id":-1,
+            "venue_id":1008113311
+        }
+    ],
+    "wof:id":1008113311,
+    "wof:lastmodified":1472600088,
+    "wof:name":"Obst  Ronert",
+    "wof:parent_id":85864231,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.4362909794,
+    38.9080734253,
+    1.4362909794,
+    38.9080734253
+],
+  "geometry": {"coordinates":[1.4362909794,38.9080734253],"type":"Point"}
+}

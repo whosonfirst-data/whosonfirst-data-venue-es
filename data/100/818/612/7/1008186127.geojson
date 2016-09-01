@@ -1,0 +1,64 @@
+{
+  "id": 1008186127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.5306766033,40.5097999573,-3.5306766033,40.5097999573",
+    "geom:latitude":40.5098,
+    "geom:longitude":-3.530677,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Chorrillo Alta (del), 37",
+    "sg:city":"Paracuellos De Jarama",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 916 58 28 88",
+    "sg:postcode":"28860",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85863587,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LbtKJ9zHbbfacZt8YfLAh_40.509800_-3.530677@1306269620"
+    },
+    "wof:country":"ES",
+    "wof:created":1472606310,
+    "wof:geomhash":"16d4a480aba0b30dba0e9cb14ed8a46d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863587,
+            "region_id":85682783,
+            "venue_id":1008186127
+        }
+    ],
+    "wof:id":1008186127,
+    "wof:lastmodified":1472606310,
+    "wof:name":"Pasteleria Latorre Learte, S.l",
+    "wof:parent_id":85863587,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5306766033,
+    40.5097999573,
+    -3.5306766033,
+    40.5097999573
+],
+  "geometry": {"coordinates":[-3.5306766033,40.5097999573],"type":"Point"}
+}

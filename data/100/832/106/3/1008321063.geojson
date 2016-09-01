@@ -1,0 +1,59 @@
+{
+  "id": 1008321063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1000299454,41.5532455444,2.1000299454,41.5532455444",
+    "geom:latitude":41.553246,
+    "geom:longitude":2.10003,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sant Isidre, 140",
+    "sg:city":"Sabadell",
+    "sg:classifiers":[],
+    "sg:orig_category":"Teatro, Ballet, Danza (agrupaciones, Compa\u00d1\u00cdas)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 23 05 05",
+    "sg:postcode":"08208",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NUnH8ajavpLoOQXtXIn5h_41.553246_2.100030@1306269638"
+    },
+    "wof:country":"ES",
+    "wof:created":1472622225,
+    "wof:geomhash":"97fe1c946ec5673b13f13c1b83fdae0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008321063
+        }
+    ],
+    "wof:id":1008321063,
+    "wof:lastmodified":1472622225,
+    "wof:name":"Raravis S.c.p.",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1000299454,
+    41.5532455444,
+    2.1000299454,
+    41.5532455444
+],
+  "geometry": {"coordinates":[2.1000299454,41.5532455444],"type":"Point"}
+}

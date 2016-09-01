@@ -1,0 +1,78 @@
+{
+  "id": 1007722275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6535499096,39.5734481812,2.6535499096,39.5734481812",
+    "geom:latitude":39.573448,
+    "geom:longitude":2.65355,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Sant Felip Neri, 23",
+    "sg:city":"Palma",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ropa Para Se\u00d1oras (al Por Menor)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 971 72 24 95",
+    "sg:postcode":"07002",
+    "sg:province":"Islas Baleares",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864097,
+        102191581,
+        404330817,
+        85633129,
+        404227367,
+        101748237,
+        85682647,
+        85864089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ivs0R59oaAWCeeck7cyXN_39.573448_2.653550@1306269559"
+    },
+    "wof:country":"ES",
+    "wof:created":1472582074,
+    "wof:geomhash":"272c081bd662a13eecfa2b33c2105227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864097,
+            "region_id":85682647,
+            "venue_id":1007722275
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330817,
+            "locality_id":101748237,
+            "macroregion_id":404227367,
+            "neighbourhood_id":85864089,
+            "region_id":85682647,
+            "venue_id":1007722275
+        }
+    ],
+    "wof:id":1007722275,
+    "wof:lastmodified":1472582074,
+    "wof:name":"Jaume Ferrer Maria",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.6535499096,
+    39.5734481812,
+    2.6535499096,
+    39.5734481812
+],
+  "geometry": {"coordinates":[2.6535499096,39.5734481812],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1008250905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.6739709377,41.6236953735,2.6739709377,41.6236953735",
+    "geom:latitude":41.623695,
+    "geom:longitude":2.673971,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Garbi, 144",
+    "sg:city":"Pineda Mar",
+    "sg:classifiers":[
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 937 67 17 62",
+    "sg:postcode":"08397",
+    "sg:province":"Barcelona",
+    "sg:tags":[
+        "locale",
+        "de",
+        "juego"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85799549,
+        102191581,
+        404331245,
+        85633129,
+        404227379,
+        101828575,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00PkK6dN96hVkji2NC8Cdz_41.623695_2.673971@1306269629"
+    },
+    "wof:country":"ES",
+    "wof:created":1472616036,
+    "wof:geomhash":"c43d01330729414529c3b4c85d30bf23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404331245,
+            "locality_id":101828575,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799549,
+            "region_id":85682663,
+            "venue_id":1008250905
+        }
+    ],
+    "wof:id":1008250905,
+    "wof:lastmodified":1472616036,
+    "wof:name":"Planeta Magic Pineda S.c.p.",
+    "wof:parent_id":85799549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locale",
+        "de",
+        "juego"
+    ]
+},
+  "bbox": [
+    2.6739709377,
+    41.6236953735,
+    2.6739709377,
+    41.6236953735
+],
+  "geometry": {"coordinates":[2.6739709377,41.6236953735],"type":"Point"}
+}

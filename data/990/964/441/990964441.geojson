@@ -1,0 +1,81 @@
+{
+  "id": 990964441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.7371900082,40.3893547058,-3.7371900082,40.3893547058",
+    "geom:latitude":40.389355,
+    "geom:longitude":-3.73719,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Oca, 50",
+    "sg:city":"Madrid",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 25 87 63",
+    "sg:postcode":"28025",
+    "sg:province":"Madrid",
+    "sg:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863765,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yB950S6wWlRuPFWwE0eBv_40.389355_-3.737190@1306269422"
+    },
+    "wof:country":"ES",
+    "wof:created":1472516227,
+    "wof:geomhash":"5e08d0f7652a372687ac9cc1e18a8917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863765,
+            "region_id":85682783,
+            "venue_id":990964441
+        }
+    ],
+    "wof:id":990964441,
+    "wof:lastmodified":1472516227,
+    "wof:name":"Ambos.m.w.s.l.",
+    "wof:parent_id":85863765,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caballeros",
+        "de",
+        "peluqueros"
+    ]
+},
+  "bbox": [
+    -3.7371900082,
+    40.3893547058,
+    -3.7371900082,
+    40.3893547058
+],
+  "geometry": {"coordinates":[-3.7371900082,40.3893547058],"type":"Point"}
+}

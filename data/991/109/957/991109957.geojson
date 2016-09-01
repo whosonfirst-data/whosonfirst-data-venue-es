@@ -1,0 +1,60 @@
+{
+  "id": 991109957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.1689500809,41.3903694153,2.1689500809,41.3903694153",
+    "geom:latitude":41.390369,
+    "geom:longitude":2.16895,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"G.v. Corts Catalanes, 617",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aeropuertos Y Servicios Aeroportuarios",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 01 38 93",
+    "sg:postcode":"08007",
+    "sg:province":"Barcelona",
+    "sg:website":"www.bcnair.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DNA0Qupa8Seqg3OUpzkeL_41.390369_2.168950@1306269442"
+    },
+    "wof:country":"ES",
+    "wof:created":1472527569,
+    "wof:geomhash":"099f8a908594b92e3d700415fcd56e53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":991109957
+        }
+    ],
+    "wof:id":991109957,
+    "wof:lastmodified":1472527569,
+    "wof:name":"Barcelona Airlines S.a.",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.1689500809,
+    41.3903694153,
+    2.1689500809,
+    41.3903694153
+],
+  "geometry": {"coordinates":[2.1689500809,41.3903694153],"type":"Point"}
+}

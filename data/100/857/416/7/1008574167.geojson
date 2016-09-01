@@ -1,0 +1,67 @@
+{
+  "id": 1008574167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.3941850066,39.4707832336,-0.3941850066,39.4707832336",
+    "geom:latitude":39.470783,
+    "geom:longitude":-0.394185,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Cartagena, 4",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Supermercados Y Hipermercados",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 82 27 37",
+    "sg:postcode":"46018",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864219,
+        102191581,
+        404345047,
+        85633129,
+        404227381,
+        101753691,
+        85682867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kloUcJIPb6N0GJoMCk5vK_39.470783_-0.394185@1306269672"
+    },
+    "wof:country":"ES",
+    "wof:created":1472633152,
+    "wof:geomhash":"f72056c5b77cd0b0625984514dcc9cb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345047,
+            "locality_id":101753691,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864219,
+            "region_id":85682867,
+            "venue_id":1008574167
+        }
+    ],
+    "wof:id":1008574167,
+    "wof:lastmodified":1472633152,
+    "wof:name":"Supermercados Sabeco S.a.",
+    "wof:parent_id":85864219,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.3941850066,
+    39.4707832336,
+    -0.3941850066,
+    39.4707832336
+],
+  "geometry": {"coordinates":[-0.3941850066,39.4707832336],"type":"Point"}
+}

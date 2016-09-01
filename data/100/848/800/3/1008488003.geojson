@@ -1,0 +1,59 @@
+{
+  "id": 1008488003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"2.196835041,41.3960533142,2.196835041,41.3960533142",
+    "geom:latitude":41.396053,
+    "geom:longitude":2.196835,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Carrer de Avila, 48",
+    "sg:city":"Barcelona",
+    "sg:classifiers":[],
+    "sg:orig_category":"Energ\u00cda Solar Y Nuevas Energ\u00cdas (equipo, Estudios)",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 933 00 01 60",
+    "sg:postcode":"08005",
+    "sg:province":"Barcelona",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lFM8W7N99VrOYy4kQD4rU_41.396053_2.196835@1306269660"
+    },
+    "wof:country":"ES",
+    "wof:created":1472629465,
+    "wof:geomhash":"467c5f618bca1e30273a61b157189b16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008488003
+        }
+    ],
+    "wof:id":1008488003,
+    "wof:lastmodified":1472629465,
+    "wof:name":"Scheuten Solar Iberica S. L.",
+    "wof:parent_id":85864029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.196835041,
+    41.3960533142,
+    2.196835041,
+    41.3960533142
+],
+  "geometry": {"coordinates":[2.196835041,41.3960533142],"type":"Point"}
+}

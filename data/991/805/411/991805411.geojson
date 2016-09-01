@@ -1,0 +1,78 @@
+{
+  "id": 991805411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-3.6928451061,40.4363822937,-3.6928451061,40.4363822937",
+    "geom:latitude":40.436382,
+    "geom:longitude":-3.692845,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Zurbano, 72",
+    "sg:city":"Madrid",
+    "sg:classifiers":[],
+    "sg:orig_category":"Ense\u00d1ante, Direcci\u00d3n",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 913 10 12 35",
+    "sg:postcode":"28010",
+    "sg:province":"Madrid",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85863673,
+        102191581,
+        404338863,
+        85633129,
+        404227387,
+        101748283,
+        85682783,
+        85863649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OIWQ9v2Qbv4L549IA6LTs_40.436382_-3.692845@1306269534"
+    },
+    "wof:country":"ES",
+    "wof:created":1472572233,
+    "wof:geomhash":"e457ff441c5d70d06bad2b0aed3a840d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863673,
+            "region_id":85682783,
+            "venue_id":991805411
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863649,
+            "region_id":85682783,
+            "venue_id":991805411
+        }
+    ],
+    "wof:id":991805411,
+    "wof:lastmodified":1472572233,
+    "wof:name":"Gomez Acevedo Fidel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6928451061,
+    40.4363822937,
+    -3.6928451061,
+    40.4363822937
+],
+  "geometry": {"coordinates":[-3.6928451061,40.4363822937],"type":"Point"}
+}

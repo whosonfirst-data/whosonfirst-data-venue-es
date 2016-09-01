@@ -1,0 +1,74 @@
+{
+  "id": 1008023071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-0.385318011,39.4874305725,-0.385318011,39.4874305725",
+    "geom:latitude":39.487431,
+    "geom:longitude":-0.385318,
+    "iso:country":"ES",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calle de Fragata, 8",
+    "sg:city":"Valencia",
+    "sg:classifiers":[],
+    "sg:orig_category":"Carnicer\u00cdas, Carnicer\u00cdas",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 963 49 90 40",
+    "sg:postcode":"46009",
+    "sg:province":"Valencia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85864223,
+        102191581,
+        404345361,
+        85633129,
+        404227381,
+        101748241,
+        85682867,
+        85864227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14Rmca0PMHU3wG7CZu0YAR_39.487431_-0.385318@1306269597"
+    },
+    "wof:country":"ES",
+    "wof:created":1472596185,
+    "wof:geomhash":"45ead55955f9779d5f6b9378d17c039c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404345361,
+            "locality_id":101748241,
+            "macroregion_id":404227381,
+            "neighbourhood_id":85864223,
+            "region_id":85682867,
+            "venue_id":1008023071
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85864227,
+            "region_id":85682867,
+            "venue_id":1008023071
+        }
+    ],
+    "wof:id":1008023071,
+    "wof:lastmodified":1472596185,
+    "wof:name":"Monferrer Centelles Efren",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-es",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.385318011,
+    39.4874305725,
+    -0.385318011,
+    39.4874305725
+],
+  "geometry": {"coordinates":[-0.385318011,39.4874305725],"type":"Point"}
+}
