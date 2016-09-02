@@ -2,6 +2,10 @@
   "id": 1008510787,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Valencia, 503 Barcelona Barcelona 08013",
+    "addr:housenumber":"503",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Valencia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008510787,
-    "wof:lastmodified":1472630474,
+    "wof:lastmodified":1472767005,
     "wof:name":"Servicio Estacion Barcelona S. A.",
     "wof:parent_id":85864013,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991748585,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Oporto, 22 Madrid Madrid 28019",
+    "addr:housenumber":"22",
+    "addr:postcode":"madrid;28019",
+    "addr:street":"Avda Oporto",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991748585,
-    "wof:lastmodified":1472568307,
+    "wof:lastmodified":1472770403,
     "wof:name":"Garcia Gutierrez Juan Gerardo",
     "wof:parent_id":85863759,
     "wof:placetype":"venue",

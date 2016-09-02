@@ -2,6 +2,10 @@
   "id": 1008291291,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Aguilon, 13 Madrid Madrid 28045",
+    "addr:housenumber":"13",
+    "addr:postcode":"madrid;28045",
+    "addr:street":"Calle De Aguilon",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008291291,
-    "wof:lastmodified":1472618355,
+    "wof:lastmodified":1472767137,
     "wof:name":"Publimed",
     "wof:parent_id":85863745,
     "wof:placetype":"venue",

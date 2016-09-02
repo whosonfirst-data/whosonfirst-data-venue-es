@@ -2,6 +2,10 @@
   "id": 991062637,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ctra Terrassa, 56 Sabadell Barcelona 08201",
+    "addr:housenumber":"56",
+    "addr:postcode":"08201",
+    "addr:street":"Ctra Terrassa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":991062637,
-    "wof:lastmodified":1472523858,
+    "wof:lastmodified":1472766873,
     "wof:name":"Autorapid Feliu Sl",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

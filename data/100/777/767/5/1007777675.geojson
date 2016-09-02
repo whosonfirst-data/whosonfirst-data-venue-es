@@ -2,6 +2,10 @@
   "id": 1007777675,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sagues, 22 Barcelona Barcelona 08021",
+    "addr:housenumber":"22",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De Sagues",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007777675,
-    "wof:lastmodified":1472585116,
+    "wof:lastmodified":1472769162,
     "wof:name":"Lado Pou Montserrat",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

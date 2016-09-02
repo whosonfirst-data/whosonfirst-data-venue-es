@@ -2,6 +2,10 @@
   "id": 1008547009,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Saragossa, 39 Barcelona Barcelona 08006",
+    "addr:housenumber":"39",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Saragossa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008547009,
-    "wof:lastmodified":1472631977,
+    "wof:lastmodified":1472768845,
     "wof:name":"Soler Carreras Rosa",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

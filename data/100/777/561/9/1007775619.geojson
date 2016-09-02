@@ -2,6 +2,10 @@
   "id": 1007775619,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Pantoja, 12 Madrid Madrid 28002",
+    "addr:housenumber":"12",
+    "addr:postcode":"madrid;28002",
+    "addr:street":"Calle De Pantoja",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007775619,
-    "wof:lastmodified":1472585026,
+    "wof:lastmodified":1472768777,
     "wof:name":"La Cambrija S. A.",
     "wof:parent_id":85863647,
     "wof:placetype":"venue",

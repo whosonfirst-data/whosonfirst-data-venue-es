@@ -2,6 +2,10 @@
   "id": 991486229,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Doctor Garcia Tapia, 31 Madrid Madrid 28030",
+    "addr:housenumber":"31",
+    "addr:postcode":"madrid;28030",
+    "addr:street":"Avda Doctor Garcia Tapia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991486229,
-    "wof:lastmodified":1472553686,
+    "wof:lastmodified":1472769915,
     "wof:name":"De Pablo Suils Jose Maria",
     "wof:parent_id":85863715,
     "wof:placetype":"venue",

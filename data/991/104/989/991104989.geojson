@@ -2,6 +2,10 @@
   "id": 991104989,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pl Sant Roc, 20 Sabadell Barcelona 08...",
+    "addr:housenumber":"20;08 ...",
+    "addr:postcode":"",
+    "addr:street":"Pl Sant Roc;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":991104989,
-    "wof:lastmodified":1472527173,
+    "wof:lastmodified":1472767560,
     "wof:name":"Banc Sabadell S.a.",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1024475591,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Amparo, 19 Madrid Madrid 28012",
+    "addr:housenumber":"19",
+    "addr:postcode":"madrid;28012",
+    "addr:street":"Calle De Amparo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1024475591,
-    "wof:lastmodified":1472640581,
+    "wof:lastmodified":1472768770,
     "wof:name":"Walter Tucano S.l.",
     "wof:parent_id":85863793,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008492087,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Lorena, 101 Barcelona Barcelona 08042",
+    "addr:housenumber":"101",
+    "addr:postcode":"08042",
+    "addr:street":"Carrer De Lorena",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008492087,
-    "wof:lastmodified":1472629646,
+    "wof:lastmodified":1472767599,
     "wof:name":"Segovia Alarcon M.carmen",
     "wof:parent_id":85799399,
     "wof:placetype":"venue",

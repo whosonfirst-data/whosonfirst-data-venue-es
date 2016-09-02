@@ -2,6 +2,10 @@
   "id": 1007873475,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Andarrios, 18 Madrid Madrid 28043",
+    "addr:housenumber":"18",
+    "addr:postcode":"madrid;28043",
+    "addr:street":"Calle De Andarrios",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1007873475,
-    "wof:lastmodified":1472589827,
+    "wof:lastmodified":1472768025,
     "wof:name":"Makicel S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

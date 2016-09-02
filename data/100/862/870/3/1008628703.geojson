@@ -2,6 +2,10 @@
   "id": 1008628703,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Discobolo, 62 Madrid Madrid 28022",
+    "addr:housenumber":"62",
+    "addr:postcode":"madrid;28022",
+    "addr:street":"Calle De Discobolo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008628703,
-    "wof:lastmodified":1472635499,
+    "wof:lastmodified":1472769159,
     "wof:name":"Toledo Martinez Matias Carlos",
     "wof:parent_id":85863625,
     "wof:placetype":"venue",

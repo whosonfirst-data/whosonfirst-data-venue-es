@@ -2,6 +2,10 @@
   "id": 1008357375,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Balmes, 307 Barcelona Barcelona 08006",
+    "addr:housenumber":"307",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Balmes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1008357375,
-    "wof:lastmodified":1472623821,
+    "wof:lastmodified":1472768971,
     "wof:name":"Riera Altimira Remedios",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

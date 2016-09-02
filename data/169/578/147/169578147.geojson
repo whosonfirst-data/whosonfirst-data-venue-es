@@ -2,6 +2,10 @@
   "id": 169578147,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Santander, 42 Barcelona Barcelona 08020",
+    "addr:housenumber":"42",
+    "addr:postcode":"08020",
+    "addr:street":"Carrer De Santander",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":169578147,
-    "wof:lastmodified":1466245115,
+    "wof:lastmodified":1472766660,
     "wof:name":"Abastecedora Catalana S. A.",
     "wof:parent_id":85864011,
     "wof:placetype":"venue",

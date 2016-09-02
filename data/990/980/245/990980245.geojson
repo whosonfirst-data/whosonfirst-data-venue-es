@@ -2,6 +2,10 @@
   "id": 990980245,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Manuel De Falla, 22 Barcelona Barcelona 08034",
+    "addr:housenumber":"22",
+    "addr:postcode":"08034",
+    "addr:street":"Carrer De Manuel De Falla",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990980245,
-    "wof:lastmodified":1472517747,
+    "wof:lastmodified":1472767904,
     "wof:name":"Anton De Vez Graciela",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

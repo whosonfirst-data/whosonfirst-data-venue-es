@@ -2,6 +2,10 @@
   "id": 991711103,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Goya, 1 Barcelona Barcelona 08012",
+    "addr:housenumber":"1",
+    "addr:postcode":"08012",
+    "addr:street":"Carrer De Goya",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":991711103,
-    "wof:lastmodified":1472565999,
+    "wof:lastmodified":1472770219,
     "wof:name":"Fundacio Viure I Conviure",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

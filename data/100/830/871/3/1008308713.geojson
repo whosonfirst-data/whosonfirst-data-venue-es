@@ -2,6 +2,10 @@
   "id": 1008308713,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Muntaner, 305 Barcelona Barcelona 08021",
+    "addr:housenumber":"305",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De Muntaner",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1008308713,
-    "wof:lastmodified":1472621746,
+    "wof:lastmodified":1472769349,
     "wof:name":"Radio Club 25 S.a.",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

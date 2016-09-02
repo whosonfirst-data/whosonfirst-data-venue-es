@@ -2,6 +2,10 @@
   "id": 990945025,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Menendez Pelayo, 85 Madrid Madrid 28007",
+    "addr:housenumber":"85",
+    "addr:postcode":"madrid;28007",
+    "addr:street":"Avda Menendez Pelayo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990945025,
-    "wof:lastmodified":1472513250,
+    "wof:lastmodified":1472767480,
     "wof:name":"Alonso Gonzalez Manuel",
     "wof:parent_id":85863691,
     "wof:placetype":"venue",

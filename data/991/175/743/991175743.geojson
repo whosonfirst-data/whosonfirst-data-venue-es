@@ -2,6 +2,10 @@
   "id": 991175743,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Goya, 7 Madrid Madrid 28001",
+    "addr:housenumber":"7",
+    "addr:postcode":"madrid;28001",
+    "addr:street":"Calle De Goya",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991175743,
-    "wof:lastmodified":1472534567,
+    "wof:lastmodified":1472767892,
     "wof:name":"Bravo Herrero Jose Maria",
     "wof:parent_id":85863809,
     "wof:placetype":"venue",

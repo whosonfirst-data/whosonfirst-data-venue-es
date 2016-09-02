@@ -2,6 +2,10 @@
   "id": 1008259537,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sants, 174 Barcelona Barcelona 08028",
+    "addr:housenumber":"174",
+    "addr:postcode":"08028",
+    "addr:street":"Carrer De Sants",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008259537,
-    "wof:lastmodified":1472616508,
+    "wof:lastmodified":1472769467,
     "wof:name":"Pons Escritg Juan",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

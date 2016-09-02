@@ -2,6 +2,10 @@
   "id": 991201409,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sicilia, 410 Barcelona Barcelona 08025",
+    "addr:housenumber":"410",
+    "addr:postcode":"08025",
+    "addr:street":"Carrer De Sicilia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991201409,
-    "wof:lastmodified":1472536609,
+    "wof:lastmodified":1472768059,
     "wof:name":"Caixa D'estalvis De Catalunya",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

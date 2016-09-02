@@ -2,6 +2,10 @@
   "id": 991459163,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Buenos Aires, 32 Madrid Madrid 28018",
+    "addr:housenumber":"32",
+    "addr:postcode":"madrid;28018",
+    "addr:street":"Avda Buenos Aires",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991459163,
-    "wof:lastmodified":1472552186,
+    "wof:lastmodified":1472769628,
     "wof:name":"Cuadrado Raibal Rosa Maria",
     "wof:parent_id":85863733,
     "wof:placetype":"venue",

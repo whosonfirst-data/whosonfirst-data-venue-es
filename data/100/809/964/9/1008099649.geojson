@@ -2,6 +2,10 @@
   "id": 1008099649,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Ballester, 48 Barcelona Barcelona 08023",
+    "addr:housenumber":"48",
+    "addr:postcode":"08023",
+    "addr:street":"Carrer De Ballester",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008099649,
-    "wof:lastmodified":1472599510,
+    "wof:lastmodified":1472769299,
     "wof:name":"Nolis Fabrega Joaquin",
     "wof:parent_id":85863989,
     "wof:placetype":"venue",

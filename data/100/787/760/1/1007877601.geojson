@@ -2,6 +2,10 @@
   "id": 1007877601,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda San Jose, 166 Zaragoza Zaragoza 50007",
+    "addr:housenumber":"166",
+    "addr:postcode":"50007",
+    "addr:street":"Avda San Jose",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007877601,
-    "wof:lastmodified":1472590013,
+    "wof:lastmodified":1472769014,
     "wof:name":"Manero Sangros Jose Luis",
     "wof:parent_id":85863361,
     "wof:placetype":"venue",

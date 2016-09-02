@@ -2,6 +2,10 @@
   "id": 1007783801,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Paris, 57 Barcelona Barcelona 08029",
+    "addr:housenumber":"57",
+    "addr:postcode":"08029",
+    "addr:street":"Carrer De Paris",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007783801,
-    "wof:lastmodified":1472585419,
+    "wof:lastmodified":1472768188,
     "wof:name":"Lampisteria Nara S.c.p.",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

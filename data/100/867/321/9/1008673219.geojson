@@ -2,6 +2,10 @@
   "id": 1008673219,
   "type": "Feature",
   "properties": {
+    "addr:full":"Cabrera, 38 Madrid Madrid 28...",
+    "addr:housenumber":"38;28 ...",
+    "addr:postcode":"madrid",
+    "addr:street":"Cabrera;Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008673219,
-    "wof:lastmodified":1472637327,
+    "wof:lastmodified":1472767953,
     "wof:name":"Universidad Nacional De Educacion A Distancia",
     "wof:parent_id":85863643,
     "wof:placetype":"venue",

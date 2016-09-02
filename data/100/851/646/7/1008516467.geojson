@@ -2,6 +2,10 @@
   "id": 1008516467,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Madrid, 196 Barcelona Barcelona 08028",
+    "addr:housenumber":"196",
+    "addr:postcode":"08028",
+    "addr:street":"Av Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1008516467,
-    "wof:lastmodified":1472630712,
+    "wof:lastmodified":1472768747,
     "wof:name":"Serviprix S.l.",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

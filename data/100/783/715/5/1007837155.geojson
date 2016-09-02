@@ -2,6 +2,10 @@
   "id": 1007837155,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Jazmin, 17 Madrid Madrid 28033",
+    "addr:housenumber":"17",
+    "addr:postcode":"madrid;28033",
+    "addr:street":"Calle De Jazmin",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007837155,
-    "wof:lastmodified":1472588073,
+    "wof:lastmodified":1472768882,
     "wof:name":"Lopez Jaramillo Tomas",
     "wof:parent_id":85863567,
     "wof:placetype":"venue",

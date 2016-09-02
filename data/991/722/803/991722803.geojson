@@ -2,6 +2,10 @@
   "id": 991722803,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ctra Hospitalet, 364 Almeda Mercader Barcelona 08940",
+    "addr:housenumber":"364",
+    "addr:postcode":"08940",
+    "addr:street":"Ctra Hospitalet;Mercader Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991722803,
-    "wof:lastmodified":1472566608,
+    "wof:lastmodified":1472770451,
     "wof:name":"Galivil S. L.",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",

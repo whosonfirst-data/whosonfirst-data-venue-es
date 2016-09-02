@@ -2,6 +2,10 @@
   "id": 1008250005,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Arago, 326 Barcelona Barcelona 08009",
+    "addr:housenumber":"326",
+    "addr:postcode":"08009",
+    "addr:street":"Carrer De Arago",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008250005,
-    "wof:lastmodified":1472615976,
+    "wof:lastmodified":1472766649,
     "wof:name":"Plana Prades Juan Salvador",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

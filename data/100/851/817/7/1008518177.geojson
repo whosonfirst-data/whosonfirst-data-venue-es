@@ -2,6 +2,10 @@
   "id": 1008518177,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Guatemala, 16 S. Andreu Barca Barcelona 08740",
+    "addr:housenumber":"16",
+    "addr:postcode":"08740",
+    "addr:street":"Av Guatemala;S. Andreu;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008518177,
-    "wof:lastmodified":1472630781,
+    "wof:lastmodified":1472769117,
     "wof:name":"Sevier S.c.p.",
     "wof:parent_id":85864241,
     "wof:placetype":"venue",

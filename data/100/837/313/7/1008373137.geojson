@@ -2,6 +2,10 @@
   "id": 1008373137,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Aldaya, 45 Madrid Madrid 28033",
+    "addr:housenumber":"45",
+    "addr:postcode":"madrid;28033",
+    "addr:street":"Calle De Aldaya",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008373137,
-    "wof:lastmodified":1472624490,
+    "wof:lastmodified":1472767959,
     "wof:name":"Rodriguez Albarran Tirso",
     "wof:parent_id":85863583,
     "wof:placetype":"venue",

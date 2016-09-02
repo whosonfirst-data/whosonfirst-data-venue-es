@@ -2,6 +2,10 @@
   "id": 991772119,
   "type": "Feature",
   "properties": {
+    "addr:full":"Plaz Tres Olivos, 7 Madrid Madrid 28034",
+    "addr:housenumber":"7",
+    "addr:postcode":"madrid;28034",
+    "addr:street":"Plaz;Olivos",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":991772119,
-    "wof:lastmodified":1472569683,
+    "wof:lastmodified":1472770289,
     "wof:name":"Garsanz Informatica Sl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

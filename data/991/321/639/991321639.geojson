@@ -2,6 +2,10 @@
   "id": 991321639,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Marques De Lozoya, 34 Madrid Madrid 28007",
+    "addr:housenumber":"34",
+    "addr:postcode":"madrid;28007",
+    "addr:street":"Calle De Marques De Lozoya",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991321639,
-    "wof:lastmodified":1472543647,
+    "wof:lastmodified":1472769775,
     "wof:name":"Centro Universitario Castel",
     "wof:parent_id":85863693,
     "wof:placetype":"venue",

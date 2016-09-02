@@ -2,6 +2,10 @@
   "id": 991013747,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Europa, 34 Madrid Madrid 28...",
+    "addr:housenumber":"34;28 ...",
+    "addr:postcode":"madrid",
+    "addr:street":"Avda Europa;Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991013747,
-    "wof:lastmodified":1472520248,
+    "wof:lastmodified":1472766957,
     "wof:name":"Arserex S.a.",
     "wof:parent_id":85799153,
     "wof:placetype":"venue",

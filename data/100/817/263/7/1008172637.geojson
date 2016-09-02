@@ -2,6 +2,10 @@
   "id": 1008172637,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Ramirez Tome, 22 Madrid Madrid 28038",
+    "addr:housenumber":"22",
+    "addr:postcode":"madrid;28038",
+    "addr:street":"Calle De Ramirez Tome",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008172637,
-    "wof:lastmodified":1472604252,
+    "wof:lastmodified":1472767760,
     "wof:name":"Parroquia De Los Santos Cosme Y San Dami",
     "wof:parent_id":85799645,
     "wof:placetype":"venue",

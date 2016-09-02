@@ -2,6 +2,10 @@
   "id": 1008555631,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Montserrat, 66 Pineda Mar Barcelona 08397",
+    "addr:housenumber":"66",
+    "addr:postcode":"08397",
+    "addr:street":"Av Montserrat;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008555631,
-    "wof:lastmodified":1472632358,
+    "wof:lastmodified":1472768617,
     "wof:name":"Sotillo Bueno Felisa",
     "wof:parent_id":85799549,
     "wof:placetype":"venue",

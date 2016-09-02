@@ -2,6 +2,10 @@
   "id": 1008314619,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Pou, 42 Barcelona Barcelona 08016",
+    "addr:housenumber":"42",
+    "addr:postcode":"08016",
+    "addr:street":"Carrer De Pou",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008314619,
-    "wof:lastmodified":1472621975,
+    "wof:lastmodified":1472768533,
     "wof:name":"Ramirez Rivera Francisco",
     "wof:parent_id":85799517,
     "wof:placetype":"venue",

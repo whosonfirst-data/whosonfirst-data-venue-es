@@ -2,6 +2,10 @@
   "id": 991188155,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Arnedillo, 31 Madrid Madrid 28049",
+    "addr:housenumber":"31",
+    "addr:postcode":"madrid;28049",
+    "addr:street":"Calle De Arnedillo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991188155,
-    "wof:lastmodified":1472535560,
+    "wof:lastmodified":1472767918,
     "wof:name":"Bustamante Main Raul",
     "wof:parent_id":85799465,
     "wof:placetype":"venue",

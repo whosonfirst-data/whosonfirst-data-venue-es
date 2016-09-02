@@ -2,6 +2,10 @@
   "id": 1007825837,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Pere Iv, 492 Barcelona Barcelona 08019",
+    "addr:housenumber":"492",
+    "addr:postcode":"08019",
+    "addr:street":"Carrer De Pere Iv",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007825837,
-    "wof:lastmodified":1472587532,
+    "wof:lastmodified":1472768536,
     "wof:name":"Loin S. A.",
     "wof:parent_id":85864011,
     "wof:placetype":"venue",

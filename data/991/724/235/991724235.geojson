@@ -2,6 +2,10 @@
   "id": 991724235,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda America, 44 Madrid Madrid 28028",
+    "addr:housenumber":"44",
+    "addr:postcode":"madrid;28028",
+    "addr:street":"Avda America",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991724235,
-    "wof:lastmodified":1472566679,
+    "wof:lastmodified":1472770291,
     "wof:name":"Gallego Calvo Luis",
     "wof:parent_id":85799435,
     "wof:placetype":"venue",

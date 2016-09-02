@@ -2,6 +2,10 @@
   "id": 991311047,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Arago, 287 Barcelona Barcelona 08009",
+    "addr:housenumber":"287",
+    "addr:postcode":"08009",
+    "addr:street":"Carrer De Arago",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991311047,
-    "wof:lastmodified":1472543160,
+    "wof:lastmodified":1472769573,
     "wof:name":"Centre D'estudis Europeu Per A La Formacio Dels Treballadors",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

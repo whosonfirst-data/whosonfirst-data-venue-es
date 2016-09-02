@@ -2,6 +2,10 @@
   "id": 1008007397,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Enric Morera, 29 Prat Llobregat Barcelona 08820",
+    "addr:housenumber":"29",
+    "addr:postcode":"08820",
+    "addr:street":"Carrer De Enric Morera;Llobregat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008007397,
-    "wof:lastmodified":1472595512,
+    "wof:lastmodified":1472768664,
     "wof:name":"Mir Juste Alfons",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008035741,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Llull, 204 Barcelona Barcelona 08005",
+    "addr:housenumber":"204",
+    "addr:postcode":"08005",
+    "addr:street":"Carrer De Llull",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1008035741,
-    "wof:lastmodified":1472596713,
+    "wof:lastmodified":1472768705,
     "wof:name":"Moral Ajado Josep Oriol",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991704423,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Pujades, 227 Barcelona Barcelona 08005",
+    "addr:housenumber":"227",
+    "addr:postcode":"08005",
+    "addr:street":"Carrer De Pujades",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":991704423,
-    "wof:lastmodified":1472565676,
+    "wof:lastmodified":1472770320,
     "wof:name":"Fueyo Alvarez Montserrat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

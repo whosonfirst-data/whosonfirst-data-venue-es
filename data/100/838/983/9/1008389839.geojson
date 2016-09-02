@@ -2,6 +2,10 @@
   "id": 1008389839,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Clos De Sant Francesc, 60 Barcelona Barcelona 08034",
+    "addr:housenumber":"60",
+    "addr:postcode":"08034",
+    "addr:street":"Carrer De Clos De Sant Francesc",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008389839,
-    "wof:lastmodified":1472625310,
+    "wof:lastmodified":1472769418,
     "wof:name":"Rodriguez Sanchez Paulino",
     "wof:parent_id":85799605,
     "wof:placetype":"venue",

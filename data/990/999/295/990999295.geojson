@@ -2,6 +2,10 @@
   "id": 990999295,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda America, 60 Madrid Madrid 28028",
+    "addr:housenumber":"60",
+    "addr:postcode":"madrid;28028",
+    "addr:street":"Avda America",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990999295,
-    "wof:lastmodified":1472519018,
+    "wof:lastmodified":1472768042,
     "wof:name":"Arevalo Eizaguirre Jose Ramon",
     "wof:parent_id":85799435,
     "wof:placetype":"venue",

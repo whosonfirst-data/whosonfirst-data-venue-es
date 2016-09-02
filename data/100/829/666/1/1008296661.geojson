@@ -2,6 +2,10 @@
   "id": 1008296661,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Rocafort, 225 Barcelona Barcelona 08029",
+    "addr:housenumber":"225",
+    "addr:postcode":"08029",
+    "addr:street":"Carrer De Rocafort",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008296661,
-    "wof:lastmodified":1472618748,
+    "wof:lastmodified":1472768771,
     "wof:name":"Pujol Folch Jose",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

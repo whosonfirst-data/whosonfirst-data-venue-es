@@ -2,6 +2,10 @@
   "id": 1007783987,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Palafox, 27 Madrid Madrid 28010",
+    "addr:housenumber":"27",
+    "addr:postcode":"madrid;28010",
+    "addr:street":"Calle De Palafox",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007783987,
-    "wof:lastmodified":1472585427,
+    "wof:lastmodified":1472768257,
     "wof:name":"Lanagran Gay Diego",
     "wof:parent_id":85863661,
     "wof:placetype":"venue",

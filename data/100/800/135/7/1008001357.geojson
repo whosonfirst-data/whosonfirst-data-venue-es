@@ -2,6 +2,10 @@
   "id": 1008001357,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Paris, 79 Barcelona Barcelona 08029",
+    "addr:housenumber":"79",
+    "addr:postcode":"08029",
+    "addr:street":"Carrer De Paris",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008001357,
-    "wof:lastmodified":1472595251,
+    "wof:lastmodified":1472767099,
     "wof:name":"Minguez De La Cruz Francisco",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

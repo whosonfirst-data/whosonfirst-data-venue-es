@@ -2,6 +2,10 @@
   "id": 1007723963,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Paris, 172 Barcelona Barcelona 08036",
+    "addr:housenumber":"172",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Paris",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007723963,
-    "wof:lastmodified":1472582153,
+    "wof:lastmodified":1472768199,
     "wof:name":"J & B Antiques S.c.p.",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

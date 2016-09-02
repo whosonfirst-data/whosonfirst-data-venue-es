@@ -2,6 +2,10 @@
   "id": 1007704925,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Maria De Molina, 6 Madrid Madrid 28...",
+    "addr:housenumber":"6;28 ...",
+    "addr:postcode":"",
+    "addr:street":"Calle De Maria De Molina;Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007704925,
-    "wof:lastmodified":1472581205,
+    "wof:lastmodified":1472768575,
     "wof:name":"Invercaixa Gestion Sgiic S.a.",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",

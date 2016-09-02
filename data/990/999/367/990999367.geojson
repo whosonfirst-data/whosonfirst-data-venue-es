@@ -2,6 +2,10 @@
   "id": 990999367,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Velazquez, 56 Madrid Madrid 28001",
+    "addr:housenumber":"56",
+    "addr:postcode":"madrid;28001",
+    "addr:street":"Calle De Velazquez",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990999367,
-    "wof:lastmodified":1472519023,
+    "wof:lastmodified":1472768073,
     "wof:name":"Arevalo Lombana Alejandro",
     "wof:parent_id":85863675,
     "wof:placetype":"venue",

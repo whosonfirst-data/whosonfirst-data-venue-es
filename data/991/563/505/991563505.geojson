@@ -2,6 +2,10 @@
   "id": 991563505,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Emilio Vargas, 7 Madrid Madrid 28...",
+    "addr:housenumber":"7;28 ...",
+    "addr:postcode":"madrid",
+    "addr:street":"Calle De Emilio Vargas;Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991563505,
-    "wof:lastmodified":1472557886,
+    "wof:lastmodified":1472770079,
     "wof:name":"Empresa Nacional De Residuos Radiactivos S.a.",
     "wof:parent_id":85799193,
     "wof:placetype":"venue",

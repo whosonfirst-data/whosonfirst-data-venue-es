@@ -2,6 +2,10 @@
   "id": 1007952771,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Girona, 91 Barcelona Barcelona 08009",
+    "addr:housenumber":"91",
+    "addr:postcode":"08009",
+    "addr:street":"Carrer De Girona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1007952771,
-    "wof:lastmodified":1472593248,
+    "wof:lastmodified":1472767823,
     "wof:name":"Mas Rodriguez Miquel",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

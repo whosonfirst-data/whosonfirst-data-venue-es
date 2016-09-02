@@ -2,6 +2,10 @@
   "id": 991651877,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Juan Vigon, 9 Madrid Madrid 28003",
+    "addr:housenumber":"9",
+    "addr:postcode":"madrid;28003",
+    "addr:street":"Calle De Juan Vigon",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991651877,
-    "wof:lastmodified":1472563083,
+    "wof:lastmodified":1472770223,
     "wof:name":"Fernandez Toledano Manuel",
     "wof:parent_id":85863653,
     "wof:placetype":"venue",

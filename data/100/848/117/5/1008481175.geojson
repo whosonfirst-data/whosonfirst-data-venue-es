@@ -2,6 +2,10 @@
   "id": 1008481175,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Palomeras, 98 Madrid Madrid 28018",
+    "addr:housenumber":"98",
+    "addr:postcode":"madrid;28018",
+    "addr:street":"Avda Palomeras",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008481175,
-    "wof:lastmodified":1472629173,
+    "wof:lastmodified":1472767166,
     "wof:name":"Sanz Tamboleo Maria",
     "wof:parent_id":85863733,
     "wof:placetype":"venue",

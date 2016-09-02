@@ -2,6 +2,10 @@
   "id": 990922873,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Liberacion, 25 Madrid Madrid 28033",
+    "addr:housenumber":"25",
+    "addr:postcode":"madrid;28033",
+    "addr:street":"Calle De Liberacion",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990922873,
-    "wof:lastmodified":1472510707,
+    "wof:lastmodified":1472767624,
     "wof:name":"Albor Asistencia S.l.",
     "wof:parent_id":85863583,
     "wof:placetype":"venue",

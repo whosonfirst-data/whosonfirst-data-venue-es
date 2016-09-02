@@ -2,6 +2,10 @@
   "id": 1007924143,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Rossello, 118 Barcelona Barcelona 08036",
+    "addr:housenumber":"118",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Rossello",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007924143,
-    "wof:lastmodified":1472591963,
+    "wof:lastmodified":1472768348,
     "wof:name":"Martinez Garcia Angel",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

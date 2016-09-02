@@ -2,6 +2,10 @@
   "id": 991808817,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Bruselas, 51 Madrid Madrid 28028",
+    "addr:housenumber":"51",
+    "addr:postcode":"madrid;28028",
+    "addr:street":"Avda Bruselas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991808817,
-    "wof:lastmodified":1472572403,
+    "wof:lastmodified":1472770560,
     "wof:name":"Gomez Folgado Roberto",
     "wof:parent_id":85863643,
     "wof:placetype":"venue",

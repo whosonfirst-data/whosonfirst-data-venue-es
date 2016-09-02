@@ -2,6 +2,10 @@
   "id": 991034411,
   "type": "Feature",
   "properties": {
+    "addr:full":"Miguel De Cervantes, 45 Zaragoza Zaragoza 50006",
+    "addr:housenumber":"45",
+    "addr:postcode":"50006",
+    "addr:street":"Miguel;Cervantes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991034411,
-    "wof:lastmodified":1472521771,
+    "wof:lastmodified":1472766794,
     "wof:name":"Asociacion De Ostomizados De Aragon",
     "wof:parent_id":85863361,
     "wof:placetype":"venue",

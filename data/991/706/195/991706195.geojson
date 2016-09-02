@@ -2,6 +2,10 @@
   "id": 991706195,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Portugal, 67 Madrid Madrid 28011",
+    "addr:housenumber":"67",
+    "addr:postcode":"madrid;28011",
+    "addr:street":"Avda Portugal",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991706195,
-    "wof:lastmodified":1472565748,
+    "wof:lastmodified":1472770244,
     "wof:name":"Fundacion Benefico Social Hogar Del Empl",
     "wof:parent_id":85863773,
     "wof:placetype":"venue",

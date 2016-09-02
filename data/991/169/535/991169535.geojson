@@ -2,6 +2,10 @@
   "id": 991169535,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Bilbao, 46 Barcelona Barcelona 08005",
+    "addr:housenumber":"46",
+    "addr:postcode":"08005",
+    "addr:street":"Carrer De Bilbao",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":991169535,
-    "wof:lastmodified":1472534095,
+    "wof:lastmodified":1472767730,
     "wof:name":"Borras Feliu Margarida",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

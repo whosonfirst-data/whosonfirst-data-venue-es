@@ -2,6 +2,10 @@
   "id": 1008252929,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Rosario, 17 Madrid Madrid 28005",
+    "addr:housenumber":"17",
+    "addr:postcode":"madrid;28005",
+    "addr:street":"Calle De Rosario",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008252929,
-    "wof:lastmodified":1472616166,
+    "wof:lastmodified":1472767824,
     "wof:name":"Plataforma Iberica De Asistencia",
     "wof:parent_id":85863775,
     "wof:placetype":"venue",

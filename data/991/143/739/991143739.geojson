@@ -2,6 +2,10 @@
   "id": 991143739,
   "type": "Feature",
   "properties": {
+    "addr:full":"Picasso, 11 Prado Rey Madrid 28223",
+    "addr:housenumber":"11",
+    "addr:postcode":"28223",
+    "addr:street":"Picasso;Rey",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991143739,
-    "wof:lastmodified":1472531211,
+    "wof:lastmodified":1472767761,
     "wof:name":"Bernat Valenzuela Francisco Javier",
     "wof:parent_id":85799153,
     "wof:placetype":"venue",

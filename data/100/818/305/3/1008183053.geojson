@@ -2,6 +2,10 @@
   "id": 1008183053,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sants, 141 Barcelona Barcelona 08028",
+    "addr:housenumber":"141",
+    "addr:postcode":"08028",
+    "addr:street":"Carrer De Sants",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008183053,
-    "wof:lastmodified":1472605616,
+    "wof:lastmodified":1472767898,
     "wof:name":"Partula Textil S.l.",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

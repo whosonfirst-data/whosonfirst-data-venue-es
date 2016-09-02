@@ -2,6 +2,10 @@
   "id": 991440037,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Filipinas, 36 Madrid Madrid 28003",
+    "addr:housenumber":"36",
+    "addr:postcode":"madrid;28003",
+    "addr:street":"Avda Filipinas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991440037,
-    "wof:lastmodified":1472551118,
+    "wof:lastmodified":1472769584,
     "wof:name":"Cortes Martinez Juan De Dios",
     "wof:parent_id":85863653,
     "wof:placetype":"venue",

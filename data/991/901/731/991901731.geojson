@@ -2,6 +2,10 @@
   "id": 991901731,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Doctor Castelo, 33 Madrid Madrid 28009",
+    "addr:housenumber":"33",
+    "addr:postcode":"madrid;28009",
+    "addr:street":"Calle De Doctor Castelo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991901731,
-    "wof:lastmodified":1472577606,
+    "wof:lastmodified":1472770613,
     "wof:name":"Herranz Concesionarios S.a.",
     "wof:parent_id":85863677,
     "wof:placetype":"venue",

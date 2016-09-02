@@ -2,6 +2,10 @@
   "id": 1008047353,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Julian Del Cerro, 21 Madrid Madrid 28038",
+    "addr:housenumber":"21",
+    "addr:postcode":"madrid;28038",
+    "addr:street":"Calle De Julian Del Cerro",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008047353,
-    "wof:lastmodified":1472597222,
+    "wof:lastmodified":1472769033,
     "wof:name":"Moreno Sanchez Santos",
     "wof:parent_id":85863731,
     "wof:placetype":"venue",

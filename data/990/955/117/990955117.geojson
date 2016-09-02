@@ -2,6 +2,10 @@
   "id": 990955117,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Llull, 189 Barcelona Barcelona 08005",
+    "addr:housenumber":"189",
+    "addr:postcode":"08005",
+    "addr:street":"Carrer De Llull",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990955117,
-    "wof:lastmodified":1472515254,
+    "wof:lastmodified":1472767611,
     "wof:name":"Alvarez-builla Montero Juan Ramon",
     "wof:parent_id":85799265,
     "wof:placetype":"venue",

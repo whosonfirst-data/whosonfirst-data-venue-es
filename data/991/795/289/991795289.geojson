@@ -2,6 +2,10 @@
   "id": 991795289,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pl Espanya, 3 S. Joan Despi Barcelona 08970",
+    "addr:housenumber":"3",
+    "addr:postcode":"08970",
+    "addr:street":"Pl Espanya;S. Joan Despi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":991795289,
-    "wof:lastmodified":1472571714,
+    "wof:lastmodified":1472770351,
     "wof:name":"Gimenez Espinosa Montserrat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

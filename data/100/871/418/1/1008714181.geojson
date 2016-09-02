@@ -2,6 +2,10 @@
   "id": 1008714181,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Ribera Del Loira, 42 Madrid Madrid 28042",
+    "addr:housenumber":"42",
+    "addr:postcode":"madrid;28042",
+    "addr:street":"Calle De Ribera Del Loira",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008714181,
-    "wof:lastmodified":1472639195,
+    "wof:lastmodified":1472768409,
     "wof:name":"Viajes Halcon S A",
     "wof:parent_id":85863803,
     "wof:placetype":"venue",

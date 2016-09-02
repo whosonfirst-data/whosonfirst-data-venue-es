@@ -2,6 +2,10 @@
   "id": 991201259,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Marc Aureli, 42 Barcelona Barcelona 08006",
+    "addr:housenumber":"42",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Marc Aureli",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":991201259,
-    "wof:lastmodified":1472536600,
+    "wof:lastmodified":1472767980,
     "wof:name":"Caixa D'estalvis De Catalunya",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1024496815,
   "type": "Feature",
   "properties": {
+    "addr:full":"Valencia, 620 Barcelona 08026",
+    "addr:housenumber":"620",
+    "addr:postcode":"08026",
+    "addr:street":"Valencia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1024496815,
-    "wof:lastmodified":1472641483,
+    "wof:lastmodified":1472768837,
     "wof:name":"MEDDIA",
     "wof:parent_id":85799265,
     "wof:placetype":"venue",

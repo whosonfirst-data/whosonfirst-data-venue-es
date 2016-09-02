@@ -2,6 +2,10 @@
   "id": 991106713,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Galileu, 231 Barcelona Barcelona 08028",
+    "addr:housenumber":"231",
+    "addr:postcode":"08028",
+    "addr:street":"Carrer De Galileu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":991106713,
-    "wof:lastmodified":1472527309,
+    "wof:lastmodified":1472767335,
     "wof:name":"Banus Villarroya Maria Del Carmen",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1007989211,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Ruben Dario, 32 Barcelona Barcelona 08030",
+    "addr:housenumber":"32",
+    "addr:postcode":"08030",
+    "addr:street":"Carrer De Ruben Dario",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007989211,
-    "wof:lastmodified":1472594706,
+    "wof:lastmodified":1472769178,
     "wof:name":"Mesa Martinez Rafael",
     "wof:parent_id":85863995,
     "wof:placetype":"venue",

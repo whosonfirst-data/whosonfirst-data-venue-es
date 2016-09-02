@@ -2,6 +2,10 @@
   "id": 1008168151,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Ramon Cases, 76 Ca L'estape Barcelona 08186",
+    "addr:housenumber":"76",
+    "addr:postcode":"08186",
+    "addr:street":"Carrer De Ramon Cases;Ca L'Estape",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008168151,
-    "wof:lastmodified":1472603685,
+    "wof:lastmodified":1472769269,
     "wof:name":"Parellada Montserrat Manuel",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",

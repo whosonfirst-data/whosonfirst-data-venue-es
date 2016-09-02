@@ -2,6 +2,10 @@
   "id": 1008654881,
   "type": "Feature",
   "properties": {
+    "addr:full":"Plaz Campo De Criptana, 34 Madrid Madrid 28026",
+    "addr:housenumber":"34",
+    "addr:postcode":"madrid;28026",
+    "addr:street":"Campo;Criptana",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1008654881,
-    "wof:lastmodified":1472636594,
+    "wof:lastmodified":1472768571,
     "wof:name":"Tresdes S. L.",
     "wof:parent_id":85863749,
     "wof:placetype":"venue",

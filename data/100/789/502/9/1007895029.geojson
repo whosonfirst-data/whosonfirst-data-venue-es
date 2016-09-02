@@ -2,6 +2,10 @@
   "id": 1007895029,
   "type": "Feature",
   "properties": {
+    "addr:full":"Miguel De Cervantes, 14 Zaragoza Zaragoza 50006",
+    "addr:housenumber":"14",
+    "addr:postcode":"50006",
+    "addr:street":"Miguel;Cervantes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007895029,
-    "wof:lastmodified":1472590660,
+    "wof:lastmodified":1472768587,
     "wof:name":"Marco Tremp Santiago",
     "wof:parent_id":85863361,
     "wof:placetype":"venue",

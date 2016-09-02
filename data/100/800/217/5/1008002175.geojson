@@ -2,6 +2,10 @@
   "id": 1008002175,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pase Prado, 28 Madrid Madrid 28...",
+    "addr:housenumber":"28;28 ...",
+    "addr:postcode":"madrid",
+    "addr:street":"Prado;Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008002175,
-    "wof:lastmodified":1472595276,
+    "wof:lastmodified":1472767406,
     "wof:name":"Ministerio De Educacion Y Ciencia-subsecretaria",
     "wof:parent_id":85863667,
     "wof:placetype":"venue",

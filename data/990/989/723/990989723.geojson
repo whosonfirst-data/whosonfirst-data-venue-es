@@ -2,6 +2,10 @@
   "id": 990989723,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Joan De Malta, 55 Barcelona Barcelona 08018",
+    "addr:housenumber":"55",
+    "addr:postcode":"08018",
+    "addr:street":"Carrer De Sant Joan De Malta",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":990989723,
-    "wof:lastmodified":1472518353,
+    "wof:lastmodified":1472768087,
     "wof:name":"Aragall Cortes Narciso",
     "wof:parent_id":85799265,
     "wof:placetype":"venue",

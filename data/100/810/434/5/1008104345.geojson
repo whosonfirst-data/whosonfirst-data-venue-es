@@ -2,6 +2,10 @@
   "id": 1008104345,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Alberto Alcocer, 46 Madrid Madrid 28016",
+    "addr:housenumber":"46",
+    "addr:postcode":"madrid;28016",
+    "addr:street":"Alberto Alcocer",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008104345,
-    "wof:lastmodified":1472599705,
+    "wof:lastmodified":1472768323,
     "wof:name":"Nozal De Frutos Isaac",
     "wof:parent_id":85799237,
     "wof:placetype":"venue",

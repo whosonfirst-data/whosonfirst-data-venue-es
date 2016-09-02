@@ -2,6 +2,10 @@
   "id": 991041145,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Jose Ortega Y Gasset, 91 Madrid Madrid 28006",
+    "addr:housenumber":"91",
+    "addr:postcode":"madrid;28006",
+    "addr:street":"Calle De Jose Ortega Y Gasset",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991041145,
-    "wof:lastmodified":1472522281,
+    "wof:lastmodified":1472766706,
     "wof:name":"Asociacion Puerta De Alcala",
     "wof:parent_id":85863805,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008168133,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Garbi, 173 Pineda Mar Barcelona 08397",
+    "addr:housenumber":"173",
+    "addr:postcode":"08397",
+    "addr:street":"Carrer De Garbi;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008168133,
-    "wof:lastmodified":1472603683,
+    "wof:lastmodified":1472769268,
     "wof:name":"Parella Comas Jordi",
     "wof:parent_id":85799549,
     "wof:placetype":"venue",

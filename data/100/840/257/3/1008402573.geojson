@@ -2,6 +2,10 @@
   "id": 1008402573,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Bon Pastor, 158 S. Adria Besos Barcelona 08930",
+    "addr:housenumber":"158",
+    "addr:postcode":"08930",
+    "addr:street":"Av Bon Pastor;S. Adria Besos Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008402573,
-    "wof:lastmodified":1472625804,
+    "wof:lastmodified":1472767756,
     "wof:name":"Romero Vicente Joaquin",
     "wof:parent_id":85799179,
     "wof:placetype":"venue",

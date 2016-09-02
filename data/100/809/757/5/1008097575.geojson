@@ -2,6 +2,10 @@
   "id": 1008097575,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de L'avenir, 42 Barcelona Barcelona 08021",
+    "addr:housenumber":"42",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De L'Avenir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008097575,
-    "wof:lastmodified":1472599411,
+    "wof:lastmodified":1472768992,
     "wof:name":"Nix Tlh S.a.",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

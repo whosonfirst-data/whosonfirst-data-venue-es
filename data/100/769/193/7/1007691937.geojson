@@ -2,6 +2,10 @@
   "id": 1007691937,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Josep Miret, 35 Barcelona Barcelona 08020",
+    "addr:housenumber":"35",
+    "addr:postcode":"08020",
+    "addr:street":"Carrer De Josep Miret",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007691937,
-    "wof:lastmodified":1472580596,
+    "wof:lastmodified":1472767501,
     "wof:name":"Insermatic S.c.p.",
     "wof:parent_id":85864011,
     "wof:placetype":"venue",

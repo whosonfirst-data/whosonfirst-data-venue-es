@@ -2,6 +2,10 @@
   "id": 1008470975,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Aribau, 320 Barcelona Barcelona 08006",
+    "addr:housenumber":"320",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Aribau",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008470975,
-    "wof:lastmodified":1472628755,
+    "wof:lastmodified":1472767072,
     "wof:name":"Sans Segarra Jose Maria",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

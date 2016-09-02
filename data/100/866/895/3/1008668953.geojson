@@ -2,6 +2,10 @@
   "id": 1008668953,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Napols, 42 Barcelona Barcelona 08018",
+    "addr:housenumber":"42",
+    "addr:postcode":"08018",
+    "addr:street":"Carrer De Napols",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008668953,
-    "wof:lastmodified":1472637167,
+    "wof:lastmodified":1472769440,
     "wof:name":"Unio De Federacions Esportives Catalanes",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

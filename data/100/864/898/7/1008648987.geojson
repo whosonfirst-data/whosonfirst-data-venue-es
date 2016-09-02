@@ -2,6 +2,10 @@
   "id": 1008648987,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Gava, 55 Barcelona Barcelona 08014",
+    "addr:housenumber":"55",
+    "addr:postcode":"08014",
+    "addr:street":"Carrer De Gava",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008648987,
-    "wof:lastmodified":1472636357,
+    "wof:lastmodified":1472769512,
     "wof:name":"Transportes Flix S. A.",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

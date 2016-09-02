@@ -2,6 +2,10 @@
   "id": 1008447229,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Doctor Fleming, 24 S. Andreu Barca Barcelona 08740",
+    "addr:housenumber":"24",
+    "addr:postcode":"08740",
+    "addr:street":"Carrer De Doctor Fleming;S. Andreu;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008447229,
-    "wof:lastmodified":1472627846,
+    "wof:lastmodified":1472768979,
     "wof:name":"Sanchez Blanques Maria Encarnacion",
     "wof:parent_id":85864241,
     "wof:placetype":"venue",

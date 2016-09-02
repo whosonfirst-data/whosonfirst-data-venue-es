@@ -2,6 +2,10 @@
   "id": 1007714303,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pl Cerdanya, 6 S. Andreu Barca Barcelona 08740",
+    "addr:housenumber":"6",
+    "addr:postcode":"08740",
+    "addr:street":"Pl Cerdanya;S. Andreu;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007714303,
-    "wof:lastmodified":1472581675,
+    "wof:lastmodified":1472768312,
     "wof:name":"Iuris Sant Andreu S.l.",
     "wof:parent_id":85864241,
     "wof:placetype":"venue",

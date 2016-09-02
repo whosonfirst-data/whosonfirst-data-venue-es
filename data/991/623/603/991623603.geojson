@@ -2,6 +2,10 @@
   "id": 991623603,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Madrazo, 161 Barcelona Barcelona 08021",
+    "addr:housenumber":"161",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De Madrazo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991623603,
-    "wof:lastmodified":1472561474,
+    "wof:lastmodified":1472770127,
     "wof:name":"Farreras Escala Marta",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

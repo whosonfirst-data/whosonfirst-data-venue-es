@@ -2,6 +2,10 @@
   "id": 1007773055,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sants, 308 Barcelona Barcelona 08028",
+    "addr:housenumber":"308",
+    "addr:postcode":"08028",
+    "addr:street":"Carrer De Sants",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1007773055,
-    "wof:lastmodified":1472584906,
+    "wof:lastmodified":1472768065,
     "wof:name":"Laboratori Fotografic M C.d S.c.p",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

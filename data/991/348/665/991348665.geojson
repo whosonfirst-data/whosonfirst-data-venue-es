@@ -2,6 +2,10 @@
   "id": 991348665,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Juan Andres, 60 Madrid Madrid 28035",
+    "addr:housenumber":"60",
+    "addr:postcode":"madrid;28035",
+    "addr:street":"Avda Juan Andres",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991348665,
-    "wof:lastmodified":1472545048,
+    "wof:lastmodified":1472769812,
     "wof:name":"Clinica Fiorela",
     "wof:parent_id":85799627,
     "wof:placetype":"venue",

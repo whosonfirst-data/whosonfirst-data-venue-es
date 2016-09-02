@@ -2,6 +2,10 @@
   "id": 1008451095,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Bruc, 168 Barcelona Barcelona 08037",
+    "addr:housenumber":"168",
+    "addr:postcode":"08037",
+    "addr:street":"Carrer De Bruc",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008451095,
-    "wof:lastmodified":1472627984,
+    "wof:lastmodified":1472767029,
     "wof:name":"Sanchez Galimany Pere",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

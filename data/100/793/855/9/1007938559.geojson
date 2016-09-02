@@ -2,6 +2,10 @@
   "id": 1007938559,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Buenos Aires, 64 Madrid Madrid 28018",
+    "addr:housenumber":"64",
+    "addr:postcode":"madrid;28018",
+    "addr:street":"Avda Buenos Aires",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007938559,
-    "wof:lastmodified":1472592615,
+    "wof:lastmodified":1472768903,
     "wof:name":"Martinez Vicente Fernando",
     "wof:parent_id":85863733,
     "wof:placetype":"venue",

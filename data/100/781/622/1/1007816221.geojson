@@ -2,6 +2,10 @@
   "id": 1007816221,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Sant Ramon Nonat, 30 Barcelona Barcelona 08028",
+    "addr:housenumber":"30",
+    "addr:postcode":"08028",
+    "addr:street":"Av;Ramon Nonat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007816221,
-    "wof:lastmodified":1472587143,
+    "wof:lastmodified":1472768692,
     "wof:name":"Llaurado Ricart Pilar",
     "wof:parent_id":85799283,
     "wof:placetype":"venue",

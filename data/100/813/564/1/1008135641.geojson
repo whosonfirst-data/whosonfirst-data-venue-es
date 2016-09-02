@@ -2,6 +2,10 @@
   "id": 1008135641,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Arganda, 12 Madrid Madrid 28005",
+    "addr:housenumber":"12",
+    "addr:postcode":"madrid;28005",
+    "addr:street":"Calle De Arganda",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008135641,
-    "wof:lastmodified":1472601196,
+    "wof:lastmodified":1472768395,
     "wof:name":"Ortega Gete Ceferina",
     "wof:parent_id":85863743,
     "wof:placetype":"venue",

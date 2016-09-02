@@ -2,6 +2,10 @@
   "id": 991771151,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de San Lucas, 15 Madrid Madrid 28004",
+    "addr:housenumber":"15",
+    "addr:postcode":"madrid;28004",
+    "addr:street":"Calle De San Lucas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991771151,
-    "wof:lastmodified":1472569633,
+    "wof:lastmodified":1472770280,
     "wof:name":"Garrido Sevilla Andres",
     "wof:parent_id":85863791,
     "wof:placetype":"venue",

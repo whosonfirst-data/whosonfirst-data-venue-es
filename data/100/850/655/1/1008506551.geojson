@@ -2,6 +2,10 @@
   "id": 1008506551,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Juan Duque, 33 Madrid Madrid 28005",
+    "addr:housenumber":"33",
+    "addr:postcode":"madrid;28005",
+    "addr:street":"Calle De Juan Duque",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008506551,
-    "wof:lastmodified":1472630302,
+    "wof:lastmodified":1472768972,
     "wof:name":"Serrano Vera Dolores",
     "wof:parent_id":85863775,
     "wof:placetype":"venue",

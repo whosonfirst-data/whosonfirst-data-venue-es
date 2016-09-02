@@ -2,6 +2,10 @@
   "id": 1007702701,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Balmes, 354 Barcelona Barcelona 08006",
+    "addr:housenumber":"354",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Balmes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1007702701,
-    "wof:lastmodified":1472581101,
+    "wof:lastmodified":1472767723,
     "wof:name":"Interiorisme Arredo S.l.",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

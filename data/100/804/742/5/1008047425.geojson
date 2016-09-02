@@ -2,6 +2,10 @@
   "id": 1008047425,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de L'escorial, 162 Barcelona Barcelona 08024",
+    "addr:housenumber":"162",
+    "addr:postcode":"08024",
+    "addr:street":"Carrer De L'Escorial",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008047425,
-    "wof:lastmodified":1472597226,
+    "wof:lastmodified":1472769023,
     "wof:name":"Moreno Santos Jose Antonio",
     "wof:parent_id":85863993,
     "wof:placetype":"venue",

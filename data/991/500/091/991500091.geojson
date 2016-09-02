@@ -2,6 +2,10 @@
   "id": 991500091,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Costa Rica, 28 Madrid Madrid 28016",
+    "addr:housenumber":"28",
+    "addr:postcode":"madrid;28016",
+    "addr:street":"Calle De Costa Rica",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991500091,
-    "wof:lastmodified":1472554429,
+    "wof:lastmodified":1472769921,
     "wof:name":"Diaz Vallejo Emilio",
     "wof:parent_id":85863599,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008250027,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Besalu, 55 Barcelona Barcelona 08026",
+    "addr:housenumber":"55",
+    "addr:postcode":"08026",
+    "addr:street":"Carrer De Besalu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008250027,
-    "wof:lastmodified":1472615977,
+    "wof:lastmodified":1472766658,
     "wof:name":"Plana Roca Jaime",
     "wof:parent_id":85864003,
     "wof:placetype":"venue",

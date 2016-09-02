@@ -2,6 +2,10 @@
   "id": 1024475965,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Saragossa, 46 Barcelona Barcelona 08006",
+    "addr:housenumber":"46",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Saragossa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1024475965,
-    "wof:lastmodified":1472640595,
+    "wof:lastmodified":1472768837,
     "wof:name":"Warm-up S.c.",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

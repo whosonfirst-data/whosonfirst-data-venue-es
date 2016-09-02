@@ -2,6 +2,10 @@
   "id": 991842303,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Cabres, 12 Barcelona Barcelona 08001",
+    "addr:housenumber":"12",
+    "addr:postcode":"08001",
+    "addr:street":"Carrer De Cabres",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991842303,
-    "wof:lastmodified":1472574278,
+    "wof:lastmodified":1472770350,
     "wof:name":"Gracia Vendrell Montserrat",
     "wof:parent_id":85864035,
     "wof:placetype":"venue",

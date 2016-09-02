@@ -2,6 +2,10 @@
   "id": 1008384811,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Balmes, 200 Barcelona Barcelona 08006",
+    "addr:housenumber":"200",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Balmes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008384811,
-    "wof:lastmodified":1472624975,
+    "wof:lastmodified":1472768534,
     "wof:name":"Rodriguez Moreno Jesus",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

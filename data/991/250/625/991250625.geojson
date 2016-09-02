@@ -2,6 +2,10 @@
   "id": 991250625,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Madrazo, 127 Barcelona Barcelona 08021",
+    "addr:housenumber":"127",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De Madrazo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991250625,
-    "wof:lastmodified":1472540109,
+    "wof:lastmodified":1472768392,
     "wof:name":"Caparros Ferrer Jorge",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

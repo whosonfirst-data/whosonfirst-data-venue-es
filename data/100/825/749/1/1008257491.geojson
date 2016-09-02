@@ -2,6 +2,10 @@
   "id": 1008257491,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Rafael Alberti, 26 Madrid Madrid 28038",
+    "addr:housenumber":"26",
+    "addr:postcode":"madrid;28038",
+    "addr:street":"Avda Rafael Alberti",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008257491,
-    "wof:lastmodified":1472616419,
+    "wof:lastmodified":1472769125,
     "wof:name":"Polonio Sanchez Santiago",
     "wof:parent_id":85799645,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1007696971,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ctra Bordeta, 39 Barcelona Barcelona 08014",
+    "addr:housenumber":"39",
+    "addr:postcode":"08014",
+    "addr:street":"Ctra Bordeta",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007696971,
-    "wof:lastmodified":1472580816,
+    "wof:lastmodified":1472768934,
     "wof:name":"Institut De Batxillerat Joan Coromines",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

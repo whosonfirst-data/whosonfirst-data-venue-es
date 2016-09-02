@@ -2,6 +2,10 @@
   "id": 1008343847,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Llacuna, 120 Barcelona Barcelona 08018",
+    "addr:housenumber":"120",
+    "addr:postcode":"08018",
+    "addr:street":"Carrer De Llacuna",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008343847,
-    "wof:lastmodified":1472623230,
+    "wof:lastmodified":1472768170,
     "wof:name":"Residencia Aidar S.l.",
     "wof:parent_id":85799265,
     "wof:placetype":"venue",

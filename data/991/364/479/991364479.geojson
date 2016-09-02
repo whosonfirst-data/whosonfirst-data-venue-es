@@ -2,6 +2,10 @@
   "id": 991364479,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Alfonso Xiii, 25 Madrid Madrid 28002",
+    "addr:housenumber":"25",
+    "addr:postcode":"madrid;28002",
+    "addr:street":"Avda Alfonso Xiii",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991364479,
-    "wof:lastmodified":1472546235,
+    "wof:lastmodified":1472769741,
     "wof:name":"Colegio Nacional Padre Poveda",
     "wof:parent_id":85863647,
     "wof:placetype":"venue",

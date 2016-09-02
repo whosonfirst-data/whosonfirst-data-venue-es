@@ -2,6 +2,10 @@
   "id": 1007939823,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Ricardo Ortiz, 44 Madrid Madrid 28017",
+    "addr:housenumber":"44",
+    "addr:postcode":"madrid;28017",
+    "addr:street":"Calle De Ricardo Ortiz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007939823,
-    "wof:lastmodified":1472592679,
+    "wof:lastmodified":1472769195,
     "wof:name":"Martin Garcia Gregorio",
     "wof:parent_id":85863683,
     "wof:placetype":"venue",

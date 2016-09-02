@@ -2,6 +2,10 @@
   "id": 991005265,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Eugenia De Montijo, 59 Madrid Madrid 28025",
+    "addr:housenumber":"59",
+    "addr:postcode":"madrid;28025",
+    "addr:street":"Calle De Eugenia De Montijo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991005265,
-    "wof:lastmodified":1472519469,
+    "wof:lastmodified":1472766726,
     "wof:name":"Arm Electronica Informatica",
     "wof:parent_id":85863781,
     "wof:placetype":"venue",

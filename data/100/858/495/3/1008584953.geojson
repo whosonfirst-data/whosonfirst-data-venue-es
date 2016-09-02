@@ -2,6 +2,10 @@
   "id": 1008584953,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Capellades, 17 Ca L'anton Barcelona 08789",
+    "addr:housenumber":"17",
+    "addr:postcode":"08789",
+    "addr:street":"Carrer De Capellades;Ca L'Anton",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008584953,
-    "wof:lastmodified":1472633566,
+    "wof:lastmodified":1472768427,
     "wof:name":"Talleres Dicor S.l.",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",

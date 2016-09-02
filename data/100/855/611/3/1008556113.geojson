@@ -2,6 +2,10 @@
   "id": 1008556113,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de L'hospital, 45 Barcelona Barcelona 08001",
+    "addr:housenumber":"45",
+    "addr:postcode":"08001",
+    "addr:street":"Carrer De L'Hospital",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008556113,
-    "wof:lastmodified":1472632384,
+    "wof:lastmodified":1472768779,
     "wof:name":"Soto Garcia Rosa",
     "wof:parent_id":85864035,
     "wof:placetype":"venue",

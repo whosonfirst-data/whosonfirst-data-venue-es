@@ -2,6 +2,10 @@
   "id": 1007707621,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de General Diaz Porlier, 33 Madrid Madrid 28001",
+    "addr:housenumber":"33",
+    "addr:postcode":"madrid;28001",
+    "addr:street":"Calle De General Diaz Porlier",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007707621,
-    "wof:lastmodified":1472581343,
+    "wof:lastmodified":1472769188,
     "wof:name":"Invirsan 2000 S.l.",
     "wof:parent_id":85863675,
     "wof:placetype":"venue",

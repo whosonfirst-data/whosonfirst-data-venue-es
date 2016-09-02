@@ -2,6 +2,10 @@
   "id": 1007713243,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Pere, 3 Prat Llobregat Barcelona 08820",
+    "addr:housenumber":"3",
+    "addr:postcode":"08820",
+    "addr:street":"Carrer De Sant Pere;Llobregat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007713243,
-    "wof:lastmodified":1472581624,
+    "wof:lastmodified":1472767982,
     "wof:name":"Itarte Pujals Juan",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008522409,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Pujades, 221 Barcelona Barcelona 08005",
+    "addr:housenumber":"221",
+    "addr:postcode":"08005",
+    "addr:street":"Carrer De Pujades",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1008522409,
-    "wof:lastmodified":1472630950,
+    "wof:lastmodified":1472767685,
     "wof:name":"Sierra Salgado Amador",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991643101,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Ordicia, 17 Madrid Madrid 28041",
+    "addr:housenumber":"17",
+    "addr:postcode":"madrid;28041",
+    "addr:street":"Calle De Ordicia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991643101,
-    "wof:lastmodified":1472562629,
+    "wof:lastmodified":1472769996,
     "wof:name":"Fernandez Laredo Jose Sotero",
     "wof:parent_id":85863757,
     "wof:placetype":"venue",

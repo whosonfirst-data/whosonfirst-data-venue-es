@@ -2,6 +2,10 @@
   "id": 991125915,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Galileu, 299 Barcelona Barcelona 08028",
+    "addr:housenumber":"299",
+    "addr:postcode":"08028",
+    "addr:street":"Carrer De Galileu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991125915,
-    "wof:lastmodified":1472528965,
+    "wof:lastmodified":1472767513,
     "wof:name":"Ba\u00f1o Quesada Ramon",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

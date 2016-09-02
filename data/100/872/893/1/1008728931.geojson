@@ -2,6 +2,10 @@
   "id": 1008728931,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Antoni Gaudi, 3 S. Joan Despi Barcelona 08970",
+    "addr:housenumber":"3",
+    "addr:postcode":"08970",
+    "addr:street":"Carrer De Antoni Gaudi;S. Joan Despi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1008728931,
-    "wof:lastmodified":1472639800,
+    "wof:lastmodified":1472769446,
     "wof:name":"Vila Mancho Emma",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

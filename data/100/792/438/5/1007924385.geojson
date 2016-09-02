@@ -2,6 +2,10 @@
   "id": 1007924385,
   "type": "Feature",
   "properties": {
+    "addr:full":"C/ Sant Marti, 77 Cerdanyola Valles Barcelona 08290",
+    "addr:housenumber":"77",
+    "addr:postcode":"08290",
+    "addr:street":"C / Sant Marti;Valles Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1007924385,
-    "wof:lastmodified":1472591974,
+    "wof:lastmodified":1472768396,
     "wof:name":"Martinez Garcia Joan",
     "wof:parent_id":85799639,
     "wof:placetype":"venue",

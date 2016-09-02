@@ -2,6 +2,10 @@
   "id": 1007769925,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Infanta Maria Teresa, 16 Madrid Madrid 28016",
+    "addr:housenumber":"16",
+    "addr:postcode":"madrid;28016",
+    "addr:street":"Calle De Infanta Maria Teresa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007769925,
-    "wof:lastmodified":1472584753,
+    "wof:lastmodified":1472769504,
     "wof:name":"Kojanche",
     "wof:parent_id":85799237,
     "wof:placetype":"venue",

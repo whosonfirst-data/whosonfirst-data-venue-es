@@ -2,6 +2,10 @@
   "id": 1008068487,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Antoni, 88 Calella Barcelona 08370",
+    "addr:housenumber":"88",
+    "addr:postcode":"08370",
+    "addr:street":"Carrer De Sant Antoni",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008068487,
-    "wof:lastmodified":1472598107,
+    "wof:lastmodified":1472769303,
     "wof:name":"Musach Torrent Ezequiel",
     "wof:parent_id":85799549,
     "wof:placetype":"venue",

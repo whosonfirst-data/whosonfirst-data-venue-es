@@ -2,6 +2,10 @@
   "id": 1024478641,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Corsega, 79 Barcelona Barcelona 08029",
+    "addr:housenumber":"79",
+    "addr:postcode":"08029",
+    "addr:street":"Carrer De Corsega",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1024478641,
-    "wof:lastmodified":1472640709,
+    "wof:lastmodified":1472769424,
     "wof:name":"Wyeth Farma S.a.",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

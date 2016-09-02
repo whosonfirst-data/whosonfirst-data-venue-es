@@ -2,6 +2,10 @@
   "id": 1007811043,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Joaquim Costa, 18 Mallorquines Barcelona 08390",
+    "addr:housenumber":"18",
+    "addr:postcode":"08390",
+    "addr:street":"Carrer De Joaquim Costa;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1007811043,
-    "wof:lastmodified":1472586903,
+    "wof:lastmodified":1472767052,
     "wof:name":"Linear Chemicals S.l.",
     "wof:parent_id":85799485,
     "wof:placetype":"venue",

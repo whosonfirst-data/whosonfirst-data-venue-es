@@ -2,6 +2,10 @@
   "id": 990907537,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Corazon De Maria, 55 Madrid Madrid 28002",
+    "addr:housenumber":"55",
+    "addr:postcode":"madrid;28002",
+    "addr:street":"Calle De Corazon;Maria",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990907537,
-    "wof:lastmodified":1472509350,
+    "wof:lastmodified":1472767330,
     "wof:name":"Aguirre Rubio C.b.",
     "wof:parent_id":85799435,
     "wof:placetype":"venue",

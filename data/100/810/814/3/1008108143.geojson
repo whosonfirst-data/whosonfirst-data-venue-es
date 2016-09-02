@@ -2,6 +2,10 @@
   "id": 1008108143,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Girona, 125 Prat Llobregat Barcelona 08820",
+    "addr:housenumber":"125",
+    "addr:postcode":"08820",
+    "addr:street":"Carrer De Girona;Llobregat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008108143,
-    "wof:lastmodified":1472599863,
+    "wof:lastmodified":1472769156,
     "wof:name":"Nu\u00f1ez Notario Manuela",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",

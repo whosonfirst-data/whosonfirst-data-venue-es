@@ -2,6 +2,10 @@
   "id": 1008611699,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Jorge Manrique, 12 Madrid Madrid 28...",
+    "addr:housenumber":"12;28 ...",
+    "addr:postcode":"madrid",
+    "addr:street":"Calle De Jorge Manrique;Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008611699,
-    "wof:lastmodified":1472634770,
+    "wof:lastmodified":1472767340,
     "wof:name":"Telefonica Contenidos S.a.",
     "wof:parent_id":85863799,
     "wof:placetype":"venue",

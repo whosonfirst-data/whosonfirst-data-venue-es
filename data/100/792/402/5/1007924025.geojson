@@ -2,6 +2,10 @@
   "id": 1007924025,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carr Esc Manolo Hugue, 10 Badalona Barcelona 08917",
+    "addr:housenumber":"10",
+    "addr:postcode":"08917",
+    "addr:street":"Carr;Hugue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1007924025,
-    "wof:lastmodified":1472591959,
+    "wof:lastmodified":1472768307,
     "wof:name":"Martinez Gallego Blas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

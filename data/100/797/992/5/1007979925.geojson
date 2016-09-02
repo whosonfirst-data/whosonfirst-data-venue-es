@@ -2,6 +2,10 @@
   "id": 1007979925,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Real Madrid, 30 Madrid Madrid 28025",
+    "addr:housenumber":"30",
+    "addr:postcode":"madrid;28025",
+    "addr:street":"Calle De;Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1007979925,
-    "wof:lastmodified":1472594353,
+    "wof:lastmodified":1472769408,
     "wof:name":"Mendoza Carrasco Isabel",
     "wof:parent_id":85863819,
     "wof:placetype":"venue",

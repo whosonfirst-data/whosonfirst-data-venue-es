@@ -2,6 +2,10 @@
   "id": 991122169,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Maria Cubi, 159 Barcelona Barcelona 08021",
+    "addr:housenumber":"159",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De Maria Cubi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991122169,
-    "wof:lastmodified":1472528585,
+    "wof:lastmodified":1472767189,
     "wof:name":"Bastida Vila Javier",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

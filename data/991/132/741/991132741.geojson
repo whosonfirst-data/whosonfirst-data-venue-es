@@ -2,6 +2,10 @@
   "id": 991132741,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Diputacio, 342 Barcelona Barcelona 08009",
+    "addr:housenumber":"342",
+    "addr:postcode":"08009",
+    "addr:street":"Carrer De Diputacio",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":991132741,
-    "wof:lastmodified":1472529785,
+    "wof:lastmodified":1472767468,
     "wof:name":"Beltran Bielsa Luis",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

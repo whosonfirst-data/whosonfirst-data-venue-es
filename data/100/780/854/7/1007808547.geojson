@@ -2,6 +2,10 @@
   "id": 1007808547,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Luis Pasteur, 8 Cartagena Murcia 30...",
+    "addr:housenumber":"8;30 ...",
+    "addr:postcode":"",
+    "addr:street":"Calle De Luis Pasteur;Murcia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007808547,
-    "wof:lastmodified":1472586767,
+    "wof:lastmodified":1472769503,
     "wof:name":"Limpieza E Higiene De Cartagena S.a.",
     "wof:parent_id":85799251,
     "wof:placetype":"venue",

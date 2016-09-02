@@ -2,6 +2,10 @@
   "id": 1007856091,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Alvarez Abellan, 25 Madrid Madrid 28025",
+    "addr:housenumber":"25",
+    "addr:postcode":"madrid;28025",
+    "addr:street":"Calle De Alvarez Abellan",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007856091,
-    "wof:lastmodified":1472589011,
+    "wof:lastmodified":1472768813,
     "wof:name":"Lucas Rodriguez Jose Javier De",
     "wof:parent_id":85799217,
     "wof:placetype":"venue",

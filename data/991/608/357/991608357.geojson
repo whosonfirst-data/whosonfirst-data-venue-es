@@ -2,6 +2,10 @@
   "id": 991608357,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de San Modesto, 44 Madrid Madrid 28034",
+    "addr:housenumber":"44",
+    "addr:postcode":"madrid;28034",
+    "addr:street":"Calle De San Modesto",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991608357,
-    "wof:lastmodified":1472559992,
+    "wof:lastmodified":1472770040,
     "wof:name":"Evora Martin Tomasa",
     "wof:parent_id":85863569,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008340999,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Martin De Vargas, 22 Madrid Madrid 28005",
+    "addr:housenumber":"22",
+    "addr:postcode":"madrid;28005",
+    "addr:street":"Calle De Martin De Vargas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008340999,
-    "wof:lastmodified":1472623118,
+    "wof:lastmodified":1472766983,
     "wof:name":"Representaciones Vera Martin S.a.",
     "wof:parent_id":85863743,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008105367,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Marcelo Usera, 93 Madrid Madrid 28026",
+    "addr:housenumber":"93",
+    "addr:postcode":"madrid;28026",
+    "addr:street":"Calle De Marcelo Usera",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008105367,
-    "wof:lastmodified":1472599747,
+    "wof:lastmodified":1472768576,
     "wof:name":"Nueva Vidrieria S.l.",
     "wof:parent_id":85863749,
     "wof:placetype":"venue",

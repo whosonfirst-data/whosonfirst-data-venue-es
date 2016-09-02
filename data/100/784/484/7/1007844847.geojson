@@ -2,6 +2,10 @@
   "id": 1007844847,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Rossello, 311 Barcelona Barcelona 08037",
+    "addr:housenumber":"311",
+    "addr:postcode":"08037",
+    "addr:street":"Carrer De Rossello",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007844847,
-    "wof:lastmodified":1472588444,
+    "wof:lastmodified":1472768586,
     "wof:name":"Lopez Rubio Fidel",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

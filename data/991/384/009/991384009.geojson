@@ -2,6 +2,10 @@
   "id": 991384009,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Independencia, 314 Barcelona Barcelona 08026",
+    "addr:housenumber":"314",
+    "addr:postcode":"08026",
+    "addr:street":"Carrer De Independencia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":991384009,
-    "wof:lastmodified":1472547665,
+    "wof:lastmodified":1472769569,
     "wof:name":"Comercial P. Valls S.a.",
     "wof:parent_id":85799265,
     "wof:placetype":"venue",

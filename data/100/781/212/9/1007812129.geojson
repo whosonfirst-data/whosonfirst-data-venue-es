@@ -2,6 +2,10 @@
   "id": 1007812129,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Barrilero, 11 Madrid Madrid 28007",
+    "addr:housenumber":"11",
+    "addr:postcode":"madrid;28007",
+    "addr:street":"Calle De Barrilero",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007812129,
-    "wof:lastmodified":1472586954,
+    "wof:lastmodified":1472767472,
     "wof:name":"Lista Motor S.a.",
     "wof:parent_id":85799491,
     "wof:placetype":"venue",

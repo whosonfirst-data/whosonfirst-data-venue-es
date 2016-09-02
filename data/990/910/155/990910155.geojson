@@ -2,6 +2,10 @@
   "id": 990910155,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ctra Boadilla Del Monte, 34 Madrid Madrid 28024",
+    "addr:housenumber":"34",
+    "addr:postcode":"madrid;28024",
+    "addr:street":"Ctra Boadilla Del Monte",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990910155,
-    "wof:lastmodified":1472509581,
+    "wof:lastmodified":1472767195,
     "wof:name":"Air Center S. A.",
     "wof:parent_id":85863817,
     "wof:placetype":"venue",

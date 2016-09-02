@@ -2,6 +2,10 @@
   "id": 1007748539,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Pau Claris, 139 Barcelona Barcelona 08009",
+    "addr:housenumber":"139",
+    "addr:postcode":"08009",
+    "addr:street":"Carrer De Pau Claris",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007748539,
-    "wof:lastmodified":1472583589,
+    "wof:lastmodified":1472769237,
     "wof:name":"Joventuts Musicals De Barcelona",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

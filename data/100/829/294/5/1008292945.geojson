@@ -2,6 +2,10 @@
   "id": 1008292945,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Juan Andres, 52 Madrid Madrid 28035",
+    "addr:housenumber":"52",
+    "addr:postcode":"madrid;28035",
+    "addr:street":"Avda Juan Andres",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008292945,
-    "wof:lastmodified":1472618438,
+    "wof:lastmodified":1472767824,
     "wof:name":"Puertas Blanco S.l",
     "wof:parent_id":85799627,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991891963,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Juan Bravo, 61 Madrid Madrid 28006",
+    "addr:housenumber":"61",
+    "addr:postcode":"madrid;28006",
+    "addr:street":"Calle De Juan Bravo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":991891963,
-    "wof:lastmodified":1472577130,
+    "wof:lastmodified":1472770637,
     "wof:name":"Hermida Jimenez Jesus",
     "wof:parent_id":85863805,
     "wof:placetype":"venue",

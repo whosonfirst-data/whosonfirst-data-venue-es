@@ -2,6 +2,10 @@
   "id": 991749257,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Barcelona, 1 S. Joan Despi Barcelona 08970",
+    "addr:housenumber":"1",
+    "addr:postcode":"08970",
+    "addr:street":"Av Barcelona;S. Joan Despi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991749257,
-    "wof:lastmodified":1472568345,
+    "wof:lastmodified":1472770309,
     "wof:name":"Garcia Herreros Lurdes",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",

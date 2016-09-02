@@ -2,6 +2,10 @@
   "id": 1008073729,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Pere Mitja, 33 Barcelona Barcelona 08003",
+    "addr:housenumber":"33",
+    "addr:postcode":"08003",
+    "addr:street":"Carrer De Sant;Mitja",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008073729,
-    "wof:lastmodified":1472598339,
+    "wof:lastmodified":1472768111,
     "wof:name":"Mu\u00f1oz Lopez Javier",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",

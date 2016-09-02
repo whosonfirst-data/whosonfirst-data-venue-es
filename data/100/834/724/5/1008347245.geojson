@@ -2,6 +2,10 @@
   "id": 1008347245,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ctra Barcelona, 88 Ripollet Barcelona 08291",
+    "addr:housenumber":"88",
+    "addr:postcode":"08291",
+    "addr:street":"Ctra Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008347245,
-    "wof:lastmodified":1472623379,
+    "wof:lastmodified":1472769050,
     "wof:name":"Restaurante Meson Del Valles S.a.",
     "wof:parent_id":85799639,
     "wof:placetype":"venue",

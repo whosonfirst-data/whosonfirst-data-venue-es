@@ -2,6 +2,10 @@
   "id": 1007828365,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Cristobal Bordiu, 49 Madrid Madrid 28003",
+    "addr:housenumber":"49",
+    "addr:postcode":"madrid;28003",
+    "addr:street":"Calle De Cristobal Bordiu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007828365,
-    "wof:lastmodified":1472587627,
+    "wof:lastmodified":1472769020,
     "wof:name":"Lopez Alonso Adelaida",
     "wof:parent_id":85863799,
     "wof:placetype":"venue",

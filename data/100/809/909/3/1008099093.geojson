@@ -2,6 +2,10 @@
   "id": 1008099093,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Corsega, 382 Barcelona Barcelona 08037",
+    "addr:housenumber":"382",
+    "addr:postcode":"08037",
+    "addr:street":"Carrer De Corsega",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008099093,
-    "wof:lastmodified":1472599482,
+    "wof:lastmodified":1472769233,
     "wof:name":"Noguera Rimblas Juan",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

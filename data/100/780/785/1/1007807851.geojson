@@ -2,6 +2,10 @@
   "id": 1007807851,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Alonso Cano, 74 Madrid Madrid 28003",
+    "addr:housenumber":"74",
+    "addr:postcode":"madrid;28003",
+    "addr:street":"Calle De Alonso Cano",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007807851,
-    "wof:lastmodified":1472586733,
+    "wof:lastmodified":1472769446,
     "wof:name":"Lilium",
     "wof:parent_id":85863649,
     "wof:placetype":"venue",

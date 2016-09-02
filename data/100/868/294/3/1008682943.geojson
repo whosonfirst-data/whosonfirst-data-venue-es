@@ -2,6 +2,10 @@
   "id": 1008682943,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Corsega, 335 Barcelona Barcelona 08037",
+    "addr:housenumber":"335",
+    "addr:postcode":"08037",
+    "addr:street":"Carrer De Corsega",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1008682943,
-    "wof:lastmodified":1472637741,
+    "wof:lastmodified":1472767934,
     "wof:name":"Valenbin S. L.",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

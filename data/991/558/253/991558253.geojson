@@ -2,6 +2,10 @@
   "id": 991558253,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Elies, 36 Barcelona Barcelona 08006",
+    "addr:housenumber":"36",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Sant Elies",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991558253,
-    "wof:lastmodified":1472557522,
+    "wof:lastmodified":1472770011,
     "wof:name":"El Raco D En Cym",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

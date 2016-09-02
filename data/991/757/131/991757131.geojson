@@ -2,6 +2,10 @@
   "id": 991757131,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Juan Andres, 30 Madrid Madrid 28035",
+    "addr:housenumber":"30",
+    "addr:postcode":"madrid;28035",
+    "addr:street":"Avda Juan Andres",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991757131,
-    "wof:lastmodified":1472568861,
+    "wof:lastmodified":1472770255,
     "wof:name":"Garcia Orrao Eva Maria",
     "wof:parent_id":85799627,
     "wof:placetype":"venue",

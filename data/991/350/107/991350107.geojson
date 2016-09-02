@@ -2,6 +2,10 @@
   "id": 991350107,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Rubio I Ors, 190 Cornella Llobregat Barcelona 08940",
+    "addr:housenumber":"190",
+    "addr:postcode":"08940",
+    "addr:street":"Carrer De Rubio;Ors",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991350107,
-    "wof:lastmodified":1472545139,
+    "wof:lastmodified":1472769609,
     "wof:name":"Clinica Veterinaria Verdun S.c.p.",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",

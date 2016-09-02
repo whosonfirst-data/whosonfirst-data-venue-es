@@ -2,6 +2,10 @@
   "id": 991316279,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Fernan Gonzalez, 26 Madrid Madrid 28009",
+    "addr:housenumber":"26",
+    "addr:postcode":"madrid;28009",
+    "addr:street":"Calle De Fernan Gonzalez",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991316279,
-    "wof:lastmodified":1472543407,
+    "wof:lastmodified":1472769690,
     "wof:name":"Centro De Investigacion En Psiquiatria Medica",
     "wof:parent_id":85863677,
     "wof:placetype":"venue",

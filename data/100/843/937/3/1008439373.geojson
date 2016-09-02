@@ -2,6 +2,10 @@
   "id": 1008439373,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Cardenal Siliceo, 21 Madrid Madrid 28002",
+    "addr:housenumber":"21",
+    "addr:postcode":"madrid;28002",
+    "addr:street":"Calle De Cardenal Siliceo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008439373,
-    "wof:lastmodified":1472627547,
+    "wof:lastmodified":1472769226,
     "wof:name":"Salido Eismann Gines",
     "wof:parent_id":85799435,
     "wof:placetype":"venue",

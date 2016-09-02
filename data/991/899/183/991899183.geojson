@@ -2,6 +2,10 @@
   "id": 991899183,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Juan Andres, 15 Madrid Madrid 28035",
+    "addr:housenumber":"15",
+    "addr:postcode":"madrid;28035",
+    "addr:street":"Avda Juan Andres",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991899183,
-    "wof:lastmodified":1472577485,
+    "wof:lastmodified":1472770525,
     "wof:name":"Hernandez Sanchez Jesus",
     "wof:parent_id":85799627,
     "wof:placetype":"venue",

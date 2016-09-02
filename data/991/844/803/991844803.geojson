@@ -2,6 +2,10 @@
   "id": 991844803,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Rossello, 142 Barcelona Barcelona 08036",
+    "addr:housenumber":"142",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Rossello",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991844803,
-    "wof:lastmodified":1472574454,
+    "wof:lastmodified":1472770520,
     "wof:name":"Gramunt Guardia Josefa",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

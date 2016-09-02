@@ -2,6 +2,10 @@
   "id": 1008357709,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sardenya, 312 Barcelona Barcelona 08013",
+    "addr:housenumber":"312",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Sardenya",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008357709,
-    "wof:lastmodified":1472623835,
+    "wof:lastmodified":1472769070,
     "wof:name":"Riera Llach Maria",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

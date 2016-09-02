@@ -2,6 +2,10 @@
   "id": 1007929633,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Doctor Waksman, 60 Valencia Valencia 46013",
+    "addr:housenumber":"60",
+    "addr:postcode":"46013",
+    "addr:street":"Avda Doctor Waksman",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007929633,
-    "wof:lastmodified":1472592215,
+    "wof:lastmodified":1472769353,
     "wof:name":"Martinez Mateo Eutemio",
     "wof:parent_id":85864201,
     "wof:placetype":"venue",

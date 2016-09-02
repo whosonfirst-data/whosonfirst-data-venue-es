@@ -2,6 +2,10 @@
   "id": 991653679,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Martin De Los Heros, 18 Madrid Madrid 28008",
+    "addr:housenumber":"18",
+    "addr:postcode":"madrid;28008",
+    "addr:street":"Calle De Martin De Los Heros",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991653679,
-    "wof:lastmodified":1472563184,
+    "wof:lastmodified":1472770198,
     "wof:name":"Fernando Maurice",
     "wof:parent_id":85863669,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008424969,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Fluvia, 278 Barcelona Barcelona 08020",
+    "addr:housenumber":"278",
+    "addr:postcode":"08020",
+    "addr:street":"Carrer De Fluvia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008424969,
-    "wof:lastmodified":1472626912,
+    "wof:lastmodified":1472768486,
     "wof:name":"Ruiz Sanchez Jose Antonio",
     "wof:parent_id":85864003,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1024475981,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Lopez De Hoyos, 42 Madrid Madrid 28...",
+    "addr:housenumber":"42;28 ...",
+    "addr:postcode":"madrid",
+    "addr:street":"Calle De Lopez De Hoyos;Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1024475981,
-    "wof:lastmodified":1472640595,
+    "wof:lastmodified":1472768839,
     "wof:name":"Warner-chappell Music Spain S.a.",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",

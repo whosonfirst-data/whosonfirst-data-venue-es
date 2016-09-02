@@ -2,6 +2,10 @@
   "id": 1008365831,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Infanta Mercedes, 57 Madrid Madrid 28020",
+    "addr:housenumber":"57",
+    "addr:postcode":"madrid;28020",
+    "addr:street":"Calle De Infanta Mercedes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1008365831,
-    "wof:lastmodified":1472624189,
+    "wof:lastmodified":1472768717,
     "wof:name":"Rizos S.l.",
     "wof:parent_id":85863797,
     "wof:placetype":"venue",

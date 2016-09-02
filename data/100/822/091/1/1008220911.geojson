@@ -2,6 +2,10 @@
   "id": 1008220911,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Muntaner, 325 Barcelona Barcelona 08021",
+    "addr:housenumber":"325",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De Muntaner",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1008220911,
-    "wof:lastmodified":1472613418,
+    "wof:lastmodified":1472766997,
     "wof:name":"Perez Pueyo Visitacion",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

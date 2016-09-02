@@ -2,6 +2,10 @@
   "id": 1007988865,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Doctor Ferran, 24 Barcelona Barcelona 08034",
+    "addr:housenumber":"24",
+    "addr:postcode":"08034",
+    "addr:street":"Carrer De Doctor Ferran",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007988865,
-    "wof:lastmodified":1472594691,
+    "wof:lastmodified":1472769102,
     "wof:name":"Mery Barruel Jorge",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

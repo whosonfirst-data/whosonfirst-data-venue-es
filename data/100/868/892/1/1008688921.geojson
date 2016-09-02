@@ -2,6 +2,10 @@
   "id": 1008688921,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Llull, 217 Barcelona Barcelona 08005",
+    "addr:housenumber":"217",
+    "addr:postcode":"08005",
+    "addr:street":"Carrer De Llull",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1008688921,
-    "wof:lastmodified":1472638022,
+    "wof:lastmodified":1472769391,
     "wof:name":"Vall King S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

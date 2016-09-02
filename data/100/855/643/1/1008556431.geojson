@@ -2,6 +2,10 @@
   "id": 1008556431,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Balmes, 244 Barcelona Barcelona 08006",
+    "addr:housenumber":"244",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Balmes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008556431,
-    "wof:lastmodified":1472632403,
+    "wof:lastmodified":1472768842,
     "wof:name":"Sotomayor Rodriguez Miguel",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991903231,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Josep Pla, 45 Barcelona Barcelona 08019",
+    "addr:housenumber":"45",
+    "addr:postcode":"08019",
+    "addr:street":"Carrer De Josep Pla",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991903231,
-    "wof:lastmodified":1472577684,
+    "wof:lastmodified":1472770564,
     "wof:name":"Herrera Savall Hipolito",
     "wof:parent_id":85864011,
     "wof:placetype":"venue",

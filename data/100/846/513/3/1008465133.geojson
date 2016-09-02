@@ -2,6 +2,10 @@
   "id": 1008465133,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Valencia, 21 Zaragoza Zaragoza 50005",
+    "addr:housenumber":"21",
+    "addr:postcode":"50005",
+    "addr:street":"Avda Valencia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008465133,
-    "wof:lastmodified":1472628513,
+    "wof:lastmodified":1472768524,
     "wof:name":"Sancho Molina Pilar",
     "wof:parent_id":85863341,
     "wof:placetype":"venue",

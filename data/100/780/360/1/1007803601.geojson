@@ -2,6 +2,10 @@
   "id": 1007803601,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Alberes, 40 Barcelona Barcelona 08017",
+    "addr:housenumber":"40",
+    "addr:postcode":"08017",
+    "addr:street":"Carrer De Alberes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007803601,
-    "wof:lastmodified":1472586522,
+    "wof:lastmodified":1472768279,
     "wof:name":"Lerin Vilardell Gloria",
     "wof:parent_id":85799651,
     "wof:placetype":"venue",

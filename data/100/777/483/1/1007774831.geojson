@@ -2,6 +2,10 @@
   "id": 1007774831,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Alberto Aguilera, 58 Madrid Madrid 28015",
+    "addr:housenumber":"58",
+    "addr:postcode":"madrid;28015",
+    "addr:street":"Calle De Alberto Aguilera",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1007774831,
-    "wof:lastmodified":1472584993,
+    "wof:lastmodified":1472768625,
     "wof:name":"La Boutique De La Empresa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1007919129,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Bailen, 161 Barcelona Barcelona 08037",
+    "addr:housenumber":"161",
+    "addr:postcode":"08037",
+    "addr:street":"Carrer De Bailen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007919129,
-    "wof:lastmodified":1472591711,
+    "wof:lastmodified":1472769474,
     "wof:name":"Martinez Aznar Jose Agustin",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

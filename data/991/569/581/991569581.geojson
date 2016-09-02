@@ -2,6 +2,10 @@
   "id": 991569581,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Doctor Trueta, 180 Barcelona Barcelona 08005",
+    "addr:housenumber":"180",
+    "addr:postcode":"08005",
+    "addr:street":"Carrer De Doctor Trueta",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991569581,
-    "wof:lastmodified":1472558169,
+    "wof:lastmodified":1472770112,
     "wof:name":"Environment Personal Computer S.l.u.",
     "wof:parent_id":85799265,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1024477287,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Santalo, 101 Barcelona Barcelona 08021",
+    "addr:housenumber":"101",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De Santalo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1024477287,
-    "wof:lastmodified":1472640652,
+    "wof:lastmodified":1472769105,
     "wof:name":"Willimar S.c.p.",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

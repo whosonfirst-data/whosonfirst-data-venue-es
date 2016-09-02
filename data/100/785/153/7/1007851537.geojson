@@ -2,6 +2,10 @@
   "id": 1007851537,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Pablo Gargallo, 42 Zaragoza Zaragoza 50003",
+    "addr:housenumber":"42",
+    "addr:postcode":"50003",
+    "addr:street":"Avda Pablo Gargallo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007851537,
-    "wof:lastmodified":1472588792,
+    "wof:lastmodified":1472767282,
     "wof:name":"Losantos S.c.",
     "wof:parent_id":85863323,
     "wof:placetype":"venue",

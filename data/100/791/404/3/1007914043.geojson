@@ -2,6 +2,10 @@
   "id": 1007914043,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Mas Duran, 50 Barcelona Barcelona 08042",
+    "addr:housenumber":"50",
+    "addr:postcode":"08042",
+    "addr:street":"Carrer De Mas Duran",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007914043,
-    "wof:lastmodified":1472591492,
+    "wof:lastmodified":1472768418,
     "wof:name":"Marti Font Alberto",
     "wof:parent_id":85799517,
     "wof:placetype":"venue",

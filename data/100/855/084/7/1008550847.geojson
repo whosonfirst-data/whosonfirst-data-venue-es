@@ -2,6 +2,10 @@
   "id": 1008550847,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Pere Mitja, 77 Barcelona Barcelona 08003",
+    "addr:housenumber":"77",
+    "addr:postcode":"08003",
+    "addr:street":"Carrer De Sant;Mitja",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008550847,
-    "wof:lastmodified":1472632139,
+    "wof:lastmodified":1472767010,
     "wof:name":"Solverein 3d S.c.p.",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008243251,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Villaescusa, 42 Madrid Madrid 28017",
+    "addr:housenumber":"42",
+    "addr:postcode":"madrid;28017",
+    "addr:street":"Calle De Villaescusa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008243251,
-    "wof:lastmodified":1472615581,
+    "wof:lastmodified":1472768009,
     "wof:name":"Pinturas A Espejo S. A.",
     "wof:parent_id":85799553,
     "wof:placetype":"venue",

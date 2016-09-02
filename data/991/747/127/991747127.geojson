@@ -2,6 +2,10 @@
   "id": 991747127,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Doctor Fleming, 9 S. Adria Besos Barcelona 08930",
+    "addr:housenumber":"9",
+    "addr:postcode":"08930",
+    "addr:street":"Carrer De Doctor Fleming;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991747127,
-    "wof:lastmodified":1472568024,
+    "wof:lastmodified":1472770241,
     "wof:name":"Garcia Gomez Pedro",
     "wof:parent_id":85864011,
     "wof:placetype":"venue",

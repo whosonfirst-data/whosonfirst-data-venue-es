@@ -2,6 +2,10 @@
   "id": 1008121709,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Josep Pla, 139 Barcelona Barcelona 08019",
+    "addr:housenumber":"139",
+    "addr:postcode":"08019",
+    "addr:street":"Carrer De Josep Pla",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008121709,
-    "wof:lastmodified":1472600462,
+    "wof:lastmodified":1472767425,
     "wof:name":"Oliver Arnau Francisco",
     "wof:parent_id":85864011,
     "wof:placetype":"venue",

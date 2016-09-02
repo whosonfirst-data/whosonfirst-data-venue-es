@@ -2,6 +2,10 @@
   "id": 1008171745,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Atocha, 58 Madrid Madrid 28012",
+    "addr:housenumber":"58",
+    "addr:postcode":"madrid;28012",
+    "addr:street":"Calle De Atocha",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008171745,
-    "wof:lastmodified":1472604142,
+    "wof:lastmodified":1472767397,
     "wof:name":"Parroquia De El Salvador Y San Nicolas. Madrid",
     "wof:parent_id":85863793,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008206323,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Serrano, 22 Barcelona Barcelona 08031",
+    "addr:housenumber":"22",
+    "addr:postcode":"08031",
+    "addr:street":"Carrer De Serrano",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008206323,
-    "wof:lastmodified":1472610955,
+    "wof:lastmodified":1472768724,
     "wof:name":"Perello Martinez Maria Nuria",
     "wof:parent_id":85799399,
     "wof:placetype":"venue",

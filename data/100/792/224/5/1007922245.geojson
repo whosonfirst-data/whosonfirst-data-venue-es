@@ -2,6 +2,10 @@
   "id": 1007922245,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Villa De Marin, 9 Madrid Madrid 28029",
+    "addr:housenumber":"9",
+    "addr:postcode":"madrid;28029",
+    "addr:street":"Calle De Villa De Marin",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007922245,
-    "wof:lastmodified":1472591859,
+    "wof:lastmodified":1472767656,
     "wof:name":"Martinez De Pablo Juan",
     "wof:parent_id":85863561,
     "wof:placetype":"venue",

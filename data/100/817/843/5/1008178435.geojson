@@ -2,6 +2,10 @@
   "id": 1008178435,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Cantabria, 42 Madrid Madrid 28042",
+    "addr:housenumber":"42",
+    "addr:postcode":"madrid;28042",
+    "addr:street":"Avda Cantabria",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008178435,
-    "wof:lastmodified":1472605024,
+    "wof:lastmodified":1472769132,
     "wof:name":"Parroquia Padre Nuestro",
     "wof:parent_id":85863589,
     "wof:placetype":"venue",

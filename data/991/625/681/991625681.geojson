@@ -2,6 +2,10 @@
   "id": 991625681,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Albufera, 32 Madrid Madrid 28038",
+    "addr:housenumber":"32",
+    "addr:postcode":"madrid;28038",
+    "addr:street":"Avda Albufera",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991625681,
-    "wof:lastmodified":1472561559,
+    "wof:lastmodified":1472770135,
     "wof:name":"Febrel Fernandez Magdalena",
     "wof:parent_id":85799491,
     "wof:placetype":"venue",

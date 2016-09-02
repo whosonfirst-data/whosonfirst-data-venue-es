@@ -2,6 +2,10 @@
   "id": 1008489253,
   "type": "Feature",
   "properties": {
+    "addr:full":"Centro Transportes Madrid, Km. 0003,5 Madrid Madrid 28053",
+    "addr:housenumber":"km.",
+    "addr:postcode":"28053",
+    "addr:street":"0003,5 Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008489253,
-    "wof:lastmodified":1472629515,
+    "wof:lastmodified":1472769315,
     "wof:name":"Sealog S.a",
     "wof:parent_id":85863667,
     "wof:placetype":"venue",

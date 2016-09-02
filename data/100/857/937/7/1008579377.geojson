@@ -2,6 +2,10 @@
   "id": 1008579377,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Creu Roja, 1 Cerdanyola Valles Barcelona 08290",
+    "addr:housenumber":"1",
+    "addr:postcode":"08290",
+    "addr:street":"Av Creu Roja;Valles Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008579377,
-    "wof:lastmodified":1472633349,
+    "wof:lastmodified":1472769521,
     "wof:name":"Tagonet S. A.",
     "wof:parent_id":85799639,
     "wof:placetype":"venue",

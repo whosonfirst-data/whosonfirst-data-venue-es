@@ -2,6 +2,10 @@
   "id": 991459739,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Arturo Soria, 285 Madrid Madrid 28...",
+    "addr:housenumber":"285;28 ...",
+    "addr:postcode":"",
+    "addr:street":"Calle De Arturo Soria;Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991459739,
-    "wof:lastmodified":1472552232,
+    "wof:lastmodified":1472769827,
     "wof:name":"Cuartel General De La Armada",
     "wof:parent_id":85863567,
     "wof:placetype":"venue",

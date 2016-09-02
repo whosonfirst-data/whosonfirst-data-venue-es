@@ -2,6 +2,10 @@
   "id": 1008638597,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Orcasur, 12 Madrid Madrid 28041",
+    "addr:housenumber":"12",
+    "addr:postcode":"madrid;28041",
+    "addr:street":"Avda Orcasur",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008638597,
-    "wof:lastmodified":1472635906,
+    "wof:lastmodified":1472769450,
     "wof:name":"Torres Lopez Francisco Javier",
     "wof:parent_id":85863757,
     "wof:placetype":"venue",

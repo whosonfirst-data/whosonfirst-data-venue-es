@@ -2,6 +2,10 @@
   "id": 1024459799,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de General Padros, 34 Caldes Montbui Barcelona 08140",
+    "addr:housenumber":"34",
+    "addr:postcode":"08140",
+    "addr:street":"Carrer De General Padros;Montbui Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1024459799,
-    "wof:lastmodified":1472639902,
+    "wof:lastmodified":1472767044,
     "wof:name":"Vilchez Arenas Encarna",
     "wof:parent_id":85799453,
     "wof:placetype":"venue",

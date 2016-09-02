@@ -2,6 +2,10 @@
   "id": 990989727,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Catalunya, 82 S. Adria Besos Barcelona 08930",
+    "addr:housenumber":"82",
+    "addr:postcode":"08930",
+    "addr:street":"Av Catalunya;S. Adria Besos Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990989727,
-    "wof:lastmodified":1472518353,
+    "wof:lastmodified":1472768088,
     "wof:name":"Aragall Palau Salvador",
     "wof:parent_id":85799179,
     "wof:placetype":"venue",

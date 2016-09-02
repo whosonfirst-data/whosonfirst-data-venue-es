@@ -2,6 +2,10 @@
   "id": 1008292299,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Madrazo, 141 Barcelona Barcelona 08021",
+    "addr:housenumber":"141",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De Madrazo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008292299,
-    "wof:lastmodified":1472618408,
+    "wof:lastmodified":1472767507,
     "wof:name":"Puente Jario Ricardo",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

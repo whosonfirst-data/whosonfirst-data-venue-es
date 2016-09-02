@@ -2,6 +2,10 @@
   "id": 1008468323,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Orense, 12 Madrid Madrid 28020",
+    "addr:housenumber":"12",
+    "addr:postcode":"madrid;28020",
+    "addr:street":"Calle De Orense",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008468323,
-    "wof:lastmodified":1472628646,
+    "wof:lastmodified":1472769278,
     "wof:name":"San Jose Seivane Francisca",
     "wof:parent_id":85863799,
     "wof:placetype":"venue",

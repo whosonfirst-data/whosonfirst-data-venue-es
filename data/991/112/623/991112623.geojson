@@ -2,6 +2,10 @@
   "id": 991112623,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Reina Victoria, 17 Madrid Madrid 28003",
+    "addr:housenumber":"17",
+    "addr:postcode":"madrid;28003",
+    "addr:street":"Avda Reina Victoria",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991112623,
-    "wof:lastmodified":1472527787,
+    "wof:lastmodified":1472767343,
     "wof:name":"Bar La Delicia Cb",
     "wof:parent_id":85863653,
     "wof:placetype":"venue",

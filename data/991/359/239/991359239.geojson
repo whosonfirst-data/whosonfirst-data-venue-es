@@ -2,6 +2,10 @@
   "id": 991359239,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Grassot, 94 Barcelona Barcelona 08025",
+    "addr:housenumber":"94",
+    "addr:postcode":"08025",
+    "addr:street":"Carrer De Grassot",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991359239,
-    "wof:lastmodified":1472545749,
+    "wof:lastmodified":1472769681,
     "wof:name":"Co%egi Sant Josep-teresianes",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

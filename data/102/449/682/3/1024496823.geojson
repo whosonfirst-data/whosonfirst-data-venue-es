@@ -2,6 +2,10 @@
   "id": 1024496823,
   "type": "Feature",
   "properties": {
+    "addr:full":"Doctor Castelo 10 Local 1 Madrid 28009 ",
+    "addr:housenumber":"10 local 1",
+    "addr:postcode":"28009",
+    "addr:street":"Doctor Castelo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1024496823,
-    "wof:lastmodified":1472641483,
+    "wof:lastmodified":1472768836,
     "wof:name":"Digital Assets Deployment",
     "wof:parent_id":85863677,
     "wof:placetype":"venue",

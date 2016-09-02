@@ -2,6 +2,10 @@
   "id": 991403817,
   "type": "Feature",
   "properties": {
+    "addr:full":"Via Laietana, 42 Barcelona Barcelona 08003",
+    "addr:housenumber":"42",
+    "addr:postcode":"08003",
+    "addr:street":"Via Laietana",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991403817,
-    "wof:lastmodified":1472549025,
+    "wof:lastmodified":1472769803,
     "wof:name":"Confortel Gestion S.a.",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991197929,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Lope De Vega, 30 Madrid Madrid 28014",
+    "addr:housenumber":"30",
+    "addr:postcode":"madrid;28014",
+    "addr:street":"Calle De Lope De Vega",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991197929,
-    "wof:lastmodified":1472536336,
+    "wof:lastmodified":1472768245,
     "wof:name":"Cafe Bar Labrocense S.l.",
     "wof:parent_id":85863685,
     "wof:placetype":"venue",

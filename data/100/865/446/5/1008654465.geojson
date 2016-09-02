@@ -2,6 +2,10 @@
   "id": 1008654465,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Gelabert, 38 Barcelona Barcelona 08029",
+    "addr:housenumber":"38",
+    "addr:postcode":"08029",
+    "addr:street":"Carrer De Gelabert",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008654465,
-    "wof:lastmodified":1472636580,
+    "wof:lastmodified":1472768430,
     "wof:name":"Trenado Serrano Santos",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008012461,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda San Diego, 67 Madrid Madrid 28053",
+    "addr:housenumber":"67",
+    "addr:postcode":"madrid;28053",
+    "addr:street":"Avda San Diego",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008012461,
-    "wof:lastmodified":1472595721,
+    "wof:lastmodified":1472767616,
     "wof:name":"Modas Teide S. L.",
     "wof:parent_id":85863729,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991064399,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Aviacion, 95 Madrid Madrid 28044",
+    "addr:housenumber":"95",
+    "addr:postcode":"madrid;28044",
+    "addr:street":"Avda Aviacion",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":991064399,
-    "wof:lastmodified":1472524029,
+    "wof:lastmodified":1472766749,
     "wof:name":"Autoservicio Gilarranz S.a.",
     "wof:parent_id":85863785,
     "wof:placetype":"venue",

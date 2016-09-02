@@ -2,6 +2,10 @@
   "id": 991626743,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Diputacio, 237 Barcelona Barcelona 08007",
+    "addr:housenumber":"237",
+    "addr:postcode":"08007",
+    "addr:street":"Carrer De Diputacio",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991626743,
-    "wof:lastmodified":1472561604,
+    "wof:lastmodified":1472770179,
     "wof:name":"Federacion Catalana De Natacion",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

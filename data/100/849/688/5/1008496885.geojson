@@ -2,6 +2,10 @@
   "id": 1008496885,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Freneria, 12 Barcelona Barcelona 08002",
+    "addr:housenumber":"12",
+    "addr:postcode":"08002",
+    "addr:street":"Carrer De Freneria",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008496885,
-    "wof:lastmodified":1472629867,
+    "wof:lastmodified":1472769025,
     "wof:name":"Selvaggio Montserrat Fernando",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",

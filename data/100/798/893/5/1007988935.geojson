@@ -2,6 +2,10 @@
   "id": 1007988935,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Santander, 42 Barcelona Barcelona 08020",
+    "addr:housenumber":"42",
+    "addr:postcode":"08020",
+    "addr:street":"Carrer De Santander",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007988935,
-    "wof:lastmodified":1472594694,
+    "wof:lastmodified":1472769105,
     "wof:name":"Mesaber S.a.",
     "wof:parent_id":85864011,
     "wof:placetype":"venue",

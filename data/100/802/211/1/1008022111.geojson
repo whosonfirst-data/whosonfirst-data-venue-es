@@ -2,6 +2,10 @@
   "id": 1008022111,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Castella, 22 Prat Llobregat Barcelona 08820",
+    "addr:housenumber":"22",
+    "addr:postcode":"08820",
+    "addr:street":"Carrer De Castella;Llobregat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008022111,
-    "wof:lastmodified":1472596125,
+    "wof:lastmodified":1472767370,
     "wof:name":"Monclus Calduch Juan Maria",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",

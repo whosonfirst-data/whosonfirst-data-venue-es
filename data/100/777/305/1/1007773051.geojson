@@ -2,6 +2,10 @@
   "id": 1007773051,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Santalo, 14 Barcelona Barcelona 08021",
+    "addr:housenumber":"14",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De Santalo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007773051,
-    "wof:lastmodified":1472584906,
+    "wof:lastmodified":1472768064,
     "wof:name":"Laboratori Fotocyan S.l.",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008533667,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Menorca, 22 Madrid Madrid 28009",
+    "addr:housenumber":"22",
+    "addr:postcode":"madrid;28009",
+    "addr:street":"Calle De Menorca",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008533667,
-    "wof:lastmodified":1472631410,
+    "wof:lastmodified":1472768056,
     "wof:name":"Sobrino Garcia Carlos",
     "wof:parent_id":85863679,
     "wof:placetype":"venue",

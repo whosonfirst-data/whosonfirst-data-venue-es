@@ -2,6 +2,10 @@
   "id": 1007913685,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Pelai, 52 Barcelona Barcelona 08001",
+    "addr:housenumber":"52",
+    "addr:postcode":"08001",
+    "addr:street":"Carrer De Pelai",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1007913685,
-    "wof:lastmodified":1472591478,
+    "wof:lastmodified":1472768299,
     "wof:name":"Marti Beltran Jordi",
     "wof:parent_id":85864035,
     "wof:placetype":"venue",

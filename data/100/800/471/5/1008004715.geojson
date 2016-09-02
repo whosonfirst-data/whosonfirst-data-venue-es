@@ -2,6 +2,10 @@
   "id": 1008004715,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sants, 37 Barcelona Barcelona 08014",
+    "addr:housenumber":"37",
+    "addr:postcode":"08014",
+    "addr:street":"Carrer De Sants",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008004715,
-    "wof:lastmodified":1472595381,
+    "wof:lastmodified":1472768157,
     "wof:name":"Miralles Riera Gloria",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

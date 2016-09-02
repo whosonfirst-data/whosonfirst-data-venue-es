@@ -2,6 +2,10 @@
   "id": 991255079,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Casp, 54 Barcelona Barcelona 08010",
+    "addr:housenumber":"54",
+    "addr:postcode":"08010",
+    "addr:street":"Carrer De Casp",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":991255079,
-    "wof:lastmodified":1472540307,
+    "wof:lastmodified":1472768227,
     "wof:name":"Carbonell Casals Esteban",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

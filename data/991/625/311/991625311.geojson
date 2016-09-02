@@ -2,6 +2,10 @@
   "id": 991625311,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda General Peron, 36 Madrid Madrid 28...",
+    "addr:housenumber":"36;28 ...",
+    "addr:postcode":"madrid",
+    "addr:street":"Avda General Peron;Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991625311,
-    "wof:lastmodified":1472561546,
+    "wof:lastmodified":1472770015,
     "wof:name":"Fcc Construccion S.a.",
     "wof:parent_id":85863621,
     "wof:placetype":"venue",

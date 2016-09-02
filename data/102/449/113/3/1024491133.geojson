@@ -2,6 +2,10 @@
   "id": 1024491133,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Tallers, 45 Barcelona Barcelona 08001",
+    "addr:housenumber":"45",
+    "addr:postcode":"08001",
+    "addr:street":"Carrer De Tallers",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1024491133,
-    "wof:lastmodified":1472641239,
+    "wof:lastmodified":1472767117,
     "wof:name":"Zarco Ruiz Antinio",
     "wof:parent_id":85864035,
     "wof:placetype":"venue",

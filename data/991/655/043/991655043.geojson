@@ -2,6 +2,10 @@
   "id": 991655043,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Santalo, 105 Barcelona Barcelona 08021",
+    "addr:housenumber":"105",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De Santalo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991655043,
-    "wof:lastmodified":1472563256,
+    "wof:lastmodified":1472769970,
     "wof:name":"Ferrando Acquisto Raul Octar",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

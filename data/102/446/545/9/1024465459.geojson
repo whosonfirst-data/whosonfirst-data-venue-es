@@ -2,6 +2,10 @@
   "id": 1024465459,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Clara Del Rey, 31 Madrid Madrid 28002",
+    "addr:housenumber":"31",
+    "addr:postcode":"madrid;28002",
+    "addr:street":"Calle De Clara Del Rey",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1024465459,
-    "wof:lastmodified":1472640154,
+    "wof:lastmodified":1472768611,
     "wof:name":"Villegas Prieto Eduardo",
     "wof:parent_id":85799435,
     "wof:placetype":"venue",

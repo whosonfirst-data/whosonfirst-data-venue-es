@@ -2,6 +2,10 @@
   "id": 991465843,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Bailen, 223 Barcelona Barcelona 08037",
+    "addr:housenumber":"223",
+    "addr:postcode":"08037",
+    "addr:street":"Carrer De Bailen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991465843,
-    "wof:lastmodified":1472552576,
+    "wof:lastmodified":1472769827,
     "wof:name":"Cusachs Farreras Isidro",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

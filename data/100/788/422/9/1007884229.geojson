@@ -2,6 +2,10 @@
   "id": 1007884229,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Rossello, 188 Barcelona Barcelona 08008",
+    "addr:housenumber":"188",
+    "addr:postcode":"08008",
+    "addr:street":"Carrer De Rossello",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007884229,
-    "wof:lastmodified":1472590247,
+    "wof:lastmodified":1472767859,
     "wof:name":"Manuel Vilaseca S.a.",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

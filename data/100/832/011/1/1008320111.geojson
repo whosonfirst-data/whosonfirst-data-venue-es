@@ -2,6 +2,10 @@
   "id": 1008320111,
   "type": "Feature",
   "properties": {
+    "addr:full":"C/ Bilbao, 11 Ripollet Barcelona 08291",
+    "addr:housenumber":"11",
+    "addr:postcode":"08291",
+    "addr:street":"C / Bilbao",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008320111,
-    "wof:lastmodified":1472622186,
+    "wof:lastmodified":1472766707,
     "wof:name":"Ramtaub S. A.",
     "wof:parent_id":85799639,
     "wof:placetype":"venue",

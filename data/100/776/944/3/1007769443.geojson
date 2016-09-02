@@ -2,6 +2,10 @@
   "id": 1007769443,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda America, 37 Madrid Madrid 28002",
+    "addr:housenumber":"37",
+    "addr:postcode":"madrid;28002",
+    "addr:street":"Avda America",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007769443,
-    "wof:lastmodified":1472584732,
+    "wof:lastmodified":1472769450,
     "wof:name":"Klein Iberica S. A.",
     "wof:parent_id":85863643,
     "wof:placetype":"venue",

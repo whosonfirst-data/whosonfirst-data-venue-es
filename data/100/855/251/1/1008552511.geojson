@@ -2,6 +2,10 @@
   "id": 1008552511,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Consell De Cent, 555 Barcelona Barcelona 08013",
+    "addr:housenumber":"555",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Consell De Cent",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008552511,
-    "wof:lastmodified":1472632216,
+    "wof:lastmodified":1472767654,
     "wof:name":"Sopair 2 Comercial",
     "wof:parent_id":85864013,
     "wof:placetype":"venue",

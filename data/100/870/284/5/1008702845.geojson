@@ -2,6 +2,10 @@
   "id": 1008702845,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Biblioteca, 21 Pineda Mar Barcelona 08397",
+    "addr:housenumber":"21",
+    "addr:postcode":"08397",
+    "addr:street":"Carrer De Biblioteca;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008702845,
-    "wof:lastmodified":1472638657,
+    "wof:lastmodified":1472767965,
     "wof:name":"Velasco Ramiro Pedro",
     "wof:parent_id":85799549,
     "wof:placetype":"venue",

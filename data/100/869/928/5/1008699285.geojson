@@ -2,6 +2,10 @@
   "id": 1008699285,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Clara Del Rey, 32 Madrid Madrid 28002",
+    "addr:housenumber":"32",
+    "addr:postcode":"madrid;28002",
+    "addr:street":"Calle De Clara Del Rey",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008699285,
-    "wof:lastmodified":1472638482,
+    "wof:lastmodified":1472769485,
     "wof:name":"Vega De Mingo Luis",
     "wof:parent_id":85799435,
     "wof:placetype":"venue",

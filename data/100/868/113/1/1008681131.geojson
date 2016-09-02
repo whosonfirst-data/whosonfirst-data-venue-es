@@ -2,6 +2,10 @@
   "id": 1008681131,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Buenos Aires, 24 Madrid Madrid 28038",
+    "addr:housenumber":"24",
+    "addr:postcode":"madrid;28038",
+    "addr:street":"Avda Buenos Aires",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008681131,
-    "wof:lastmodified":1472637674,
+    "wof:lastmodified":1472767140,
     "wof:name":"Valades Mateo Francisco",
     "wof:parent_id":85863733,
     "wof:placetype":"venue",

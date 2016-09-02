@@ -2,6 +2,10 @@
   "id": 990942595,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de 31 De Desembre, 27 Palma Islas Baleares 07003",
+    "addr:housenumber":"31;27",
+    "addr:postcode":"07003",
+    "addr:street":"Carrer De;Desembre",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":990942595,
-    "wof:lastmodified":1472512778,
+    "wof:lastmodified":1472767719,
     "wof:name":"Alomar Tarongi Rafael",
     "wof:parent_id":85864097,
     "wof:placetype":"venue",

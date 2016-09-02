@@ -2,6 +2,10 @@
   "id": 1008470525,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda San Diego, 70 Madrid Madrid 28053",
+    "addr:housenumber":"70",
+    "addr:postcode":"madrid;28053",
+    "addr:street":"Avda San Diego",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008470525,
-    "wof:lastmodified":1472628736,
+    "wof:lastmodified":1472766887,
     "wof:name":"Sansans Carbonell Alberto",
     "wof:parent_id":85863729,
     "wof:placetype":"venue",

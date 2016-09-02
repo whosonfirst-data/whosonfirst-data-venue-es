@@ -2,6 +2,10 @@
   "id": 991138771,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Diputacio, 475 Barcelona Barcelona 08013",
+    "addr:housenumber":"475",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Diputacio",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991138771,
-    "wof:lastmodified":1472530563,
+    "wof:lastmodified":1472767700,
     "wof:name":"Berbers Computer Spain S.a",
     "wof:parent_id":85864013,
     "wof:placetype":"venue",

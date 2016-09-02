@@ -2,6 +2,10 @@
   "id": 990913537,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Baltasar Oriol, 66 Almeda Mercader Barcelona 08940",
+    "addr:housenumber":"66",
+    "addr:postcode":"08940",
+    "addr:street":"Carrer De Baltasar Oriol;Mercader Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990913537,
-    "wof:lastmodified":1472509899,
+    "wof:lastmodified":1472767320,
     "wof:name":"Ajuntament De Cornella",
     "wof:parent_id":85799283,
     "wof:placetype":"venue",

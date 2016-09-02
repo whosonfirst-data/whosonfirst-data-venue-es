@@ -2,6 +2,10 @@
   "id": 1007777651,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Rio De Janeiro, 42 Barcelona Barcelona 08016",
+    "addr:housenumber":"42",
+    "addr:postcode":"08016",
+    "addr:street":"Av Rio De Janeiro",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007777651,
-    "wof:lastmodified":1472585115,
+    "wof:lastmodified":1472769144,
     "wof:name":"La Dolce Vita Cofee Shop Sl",
     "wof:parent_id":85799399,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1024480097,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carr Major, Carrer, 59 Casco Urbano Valencia 46760",
+    "addr:housenumber":"59",
+    "addr:postcode":"46760",
+    "addr:street":"Carr;Carrer",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1024480097,
-    "wof:lastmodified":1472640765,
+    "wof:lastmodified":1472766675,
     "wof:name":"Xipnou Sl",
     "wof:parent_id":85864217,
     "wof:placetype":"venue",

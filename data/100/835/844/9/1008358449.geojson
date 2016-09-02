@@ -2,6 +2,10 @@
   "id": 1008358449,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Lluis, 95 Barcelona Barcelona 08024",
+    "addr:housenumber":"95",
+    "addr:postcode":"08024",
+    "addr:street":"Carrer De Sant Lluis",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008358449,
-    "wof:lastmodified":1472623861,
+    "wof:lastmodified":1472769221,
     "wof:name":"Rigau Ribas Juan",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008085759,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Feliu I Codina, 19 Barcelona Barcelona 08031",
+    "addr:housenumber":"19",
+    "addr:postcode":"08031",
+    "addr:street":"Carrer De Feliu;Codina",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008085759,
-    "wof:lastmodified":1472598908,
+    "wof:lastmodified":1472768704,
     "wof:name":"Navarro Pinacho Vicente",
     "wof:parent_id":85799399,
     "wof:placetype":"venue",

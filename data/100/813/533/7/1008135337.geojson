@@ -2,6 +2,10 @@
   "id": 1008135337,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Alcala, 387 Madrid Madrid 28027",
+    "addr:housenumber":"387",
+    "addr:postcode":"28027",
+    "addr:street":"Calle De Alcala",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008135337,
-    "wof:lastmodified":1472601184,
+    "wof:lastmodified":1472768352,
     "wof:name":"Ortega De Santos Horacio",
     "wof:parent_id":85863639,
     "wof:placetype":"venue",

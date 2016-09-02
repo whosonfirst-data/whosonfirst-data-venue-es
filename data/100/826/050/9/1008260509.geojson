@@ -2,6 +2,10 @@
   "id": 1008260509,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Pere Iv, 66 Barcelona Barcelona 08005",
+    "addr:housenumber":"66",
+    "addr:postcode":"08005",
+    "addr:street":"Carrer De Pere Iv",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008260509,
-    "wof:lastmodified":1472616547,
+    "wof:lastmodified":1472766790,
     "wof:name":"Pont Garcia Jose",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

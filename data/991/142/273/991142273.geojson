@@ -2,6 +2,10 @@
   "id": 991142273,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Berlin, 107 Barcelona Barcelona 08029",
+    "addr:housenumber":"107",
+    "addr:postcode":"08029",
+    "addr:street":"Carrer De Berlin",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991142273,
-    "wof:lastmodified":1472531016,
+    "wof:lastmodified":1472767549,
     "wof:name":"Bernad Folch Cristian",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

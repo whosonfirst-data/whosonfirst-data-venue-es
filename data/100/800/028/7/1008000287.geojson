@@ -2,6 +2,10 @@
   "id": 1008000287,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pl Sant Ramon, 6 Cerdanyola Valles Barcelona 08290",
+    "addr:housenumber":"6",
+    "addr:postcode":"08290",
+    "addr:street":"Pl Sant Ramon;Valles Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008000287,
-    "wof:lastmodified":1472595208,
+    "wof:lastmodified":1472766782,
     "wof:name":"Mimo Arquitectes S.c.p.",
     "wof:parent_id":85799639,
     "wof:placetype":"venue",

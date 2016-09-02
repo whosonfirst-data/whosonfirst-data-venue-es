@@ -2,6 +2,10 @@
   "id": 1008199625,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Johann Sebastian Bach, 20 Barcelona Barcelona 08021",
+    "addr:housenumber":"20",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De Johann Sebastian Bach",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008199625,
-    "wof:lastmodified":1472609458,
+    "wof:lastmodified":1472769492,
     "wof:name":"Peluqueria Bach S.a.",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

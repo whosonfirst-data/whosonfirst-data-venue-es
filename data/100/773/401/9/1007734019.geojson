@@ -2,6 +2,10 @@
   "id": 1007734019,
   "type": "Feature",
   "properties": {
+    "addr:full":"Miguel De Cervantes, 10 Zaragoza Zaragoza 50006",
+    "addr:housenumber":"10",
+    "addr:postcode":"50006",
+    "addr:street":"Miguel;Cervantes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007734019,
-    "wof:lastmodified":1472582696,
+    "wof:lastmodified":1472768125,
     "wof:name":"Jimenez Redrado Sergio",
     "wof:parent_id":85863361,
     "wof:placetype":"venue",

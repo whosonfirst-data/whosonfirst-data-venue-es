@@ -2,6 +2,10 @@
   "id": 991185755,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Boqueria, 42 Barcelona Barcelona 08002",
+    "addr:housenumber":"42",
+    "addr:postcode":"08002",
+    "addr:street":"Carrer De Boqueria",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991185755,
-    "wof:lastmodified":1472535371,
+    "wof:lastmodified":1472768083,
     "wof:name":"Buni Dos S.a.",
     "wof:parent_id":85864033,
     "wof:placetype":"venue",

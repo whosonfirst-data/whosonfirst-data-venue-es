@@ -2,6 +2,10 @@
   "id": 991204541,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de La Rambla, 91 Barcelona Barcelona 08002",
+    "addr:housenumber":"91",
+    "addr:postcode":"08002",
+    "addr:street":"Carrer De La Rambla",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991204541,
-    "wof:lastmodified":1472536844,
+    "wof:lastmodified":1472768086,
     "wof:name":"Caixa D'estalvis I Pensions De Barcelona",
     "wof:parent_id":85864035,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991642873,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Rafael Alberti, 20 Madrid Madrid 28038",
+    "addr:housenumber":"20",
+    "addr:postcode":"madrid;28038",
+    "addr:street":"Avda Rafael Alberti",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991642873,
-    "wof:lastmodified":1472562615,
+    "wof:lastmodified":1472770201,
     "wof:name":"Fernandez Jimenez Julian",
     "wof:parent_id":85799645,
     "wof:placetype":"venue",

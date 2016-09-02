@@ -2,6 +2,10 @@
   "id": 1008423975,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Alberto Alcocer, 48 Madrid Madrid 28016",
+    "addr:housenumber":"48",
+    "addr:postcode":"madrid;28016",
+    "addr:street":"Alberto Alcocer",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008423975,
-    "wof:lastmodified":1472626873,
+    "wof:lastmodified":1472768131,
     "wof:name":"Ruiz Portalatin Jose Antonio",
     "wof:parent_id":85799237,
     "wof:placetype":"venue",

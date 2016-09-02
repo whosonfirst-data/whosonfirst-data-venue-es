@@ -2,6 +2,10 @@
   "id": 991399145,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Napols, 277 Barcelona Barcelona 08025",
+    "addr:housenumber":"277",
+    "addr:postcode":"08025",
+    "addr:street":"Carrer De Napols",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991399145,
-    "wof:lastmodified":1472548712,
+    "wof:lastmodified":1472769629,
     "wof:name":"Condal Serveis S. L.",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

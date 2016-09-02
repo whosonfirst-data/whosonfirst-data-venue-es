@@ -2,6 +2,10 @@
   "id": 1008221111,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Abrantes, 11 Madrid Madrid 28025",
+    "addr:housenumber":"11",
+    "addr:postcode":"madrid;28025",
+    "addr:street":"Avda Abrantes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008221111,
-    "wof:lastmodified":1472613429,
+    "wof:lastmodified":1472767097,
     "wof:name":"Perez Ramos Maximo",
     "wof:parent_id":85863759,
     "wof:placetype":"venue",

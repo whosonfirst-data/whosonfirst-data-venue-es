@@ -2,6 +2,10 @@
   "id": 1007809879,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Ferroviarios, 11 Madrid Madrid 28026",
+    "addr:housenumber":"11",
+    "addr:postcode":"madrid;28026",
+    "addr:street":"Calle De Ferroviarios",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007809879,
-    "wof:lastmodified":1472586829,
+    "wof:lastmodified":1472769566,
     "wof:name":"Lin  Yun",
     "wof:parent_id":85863749,
     "wof:placetype":"venue",

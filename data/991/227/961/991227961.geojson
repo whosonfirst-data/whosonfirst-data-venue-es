@@ -2,6 +2,10 @@
   "id": 991227961,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Clara Del Rey, 81 Madrid Madrid 28002",
+    "addr:housenumber":"81",
+    "addr:postcode":"madrid;28002",
+    "addr:street":"Calle De Clara Del Rey",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991227961,
-    "wof:lastmodified":1472538908,
+    "wof:lastmodified":1472768321,
     "wof:name":"Calero Marchena Florencio",
     "wof:parent_id":85799435,
     "wof:placetype":"venue",

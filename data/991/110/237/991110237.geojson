@@ -2,6 +2,10 @@
   "id": 991110237,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Mallorca, 75 Barcelona Barcelona 08029",
+    "addr:housenumber":"75",
+    "addr:postcode":"08029",
+    "addr:street":"Carrer De Mallorca",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991110237,
-    "wof:lastmodified":1472527588,
+    "wof:lastmodified":1472767198,
     "wof:name":"Barcelo Pedrola Xenia",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

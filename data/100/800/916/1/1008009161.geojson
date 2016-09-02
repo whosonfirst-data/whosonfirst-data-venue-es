@@ -2,6 +2,10 @@
   "id": 1008009161,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Amigo, 76 Barcelona Barcelona 08021",
+    "addr:housenumber":"76",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De Amigo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008009161,
-    "wof:lastmodified":1472595581,
+    "wof:lastmodified":1472769100,
     "wof:name":"Mitjans Perello Juan Pablo",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

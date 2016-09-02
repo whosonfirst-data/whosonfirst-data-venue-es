@@ -2,6 +2,10 @@
   "id": 1008357737,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Elisa, 21 Barcelona Barcelona 08023",
+    "addr:housenumber":"21",
+    "addr:postcode":"08023",
+    "addr:street":"Carrer De Elisa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008357737,
-    "wof:lastmodified":1472623836,
+    "wof:lastmodified":1472769072,
     "wof:name":"Riera Mante Juan",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

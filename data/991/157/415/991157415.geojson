@@ -2,6 +2,10 @@
   "id": 991157415,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Roger De Flor, 332 Barcelona Barcelona 08025",
+    "addr:housenumber":"332",
+    "addr:postcode":"08025",
+    "addr:street":"Carrer De Roger De Flor",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991157415,
-    "wof:lastmodified":1472532780,
+    "wof:lastmodified":1472767669,
     "wof:name":"Blasco Marco Guillermo",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008265827,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pl Llucmajor, 3 Barcelona Barcelona 08042",
+    "addr:housenumber":"3",
+    "addr:postcode":"08042",
+    "addr:street":"Llucmajor",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008265827,
-    "wof:lastmodified":1472616844,
+    "wof:lastmodified":1472768739,
     "wof:name":"Pozas Olivenza Isidoro",
     "wof:parent_id":85799399,
     "wof:placetype":"venue",

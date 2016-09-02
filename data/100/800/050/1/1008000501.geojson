@@ -2,6 +2,10 @@
   "id": 1008000501,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Puntallana, 20 Madrid Madrid 28017",
+    "addr:housenumber":"20",
+    "addr:postcode":"madrid;28017",
+    "addr:street":"Calle De Puntallana",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008000501,
-    "wof:lastmodified":1472595215,
+    "wof:lastmodified":1472766832,
     "wof:name":"Minaya Cobo Dolores",
     "wof:parent_id":85863697,
     "wof:placetype":"venue",

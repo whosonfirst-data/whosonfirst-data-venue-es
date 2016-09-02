@@ -2,6 +2,10 @@
   "id": 991291925,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Saragossa, 110 Barcelona Barcelona 08006",
+    "addr:housenumber":"110",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Saragossa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991291925,
-    "wof:lastmodified":1472542275,
+    "wof:lastmodified":1472769910,
     "wof:name":"Castelltort Bonet Pedro",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

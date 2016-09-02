@@ -2,6 +2,10 @@
   "id": 1008267689,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Albufera, 35 Madrid Madrid 28038",
+    "addr:housenumber":"35",
+    "addr:postcode":"madrid;28038",
+    "addr:street":"Avda Albufera",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008267689,
-    "wof:lastmodified":1472616953,
+    "wof:lastmodified":1472769127,
     "wof:name":"Prado Gonzalez Angel",
     "wof:parent_id":85863731,
     "wof:placetype":"venue",

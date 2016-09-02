@@ -2,6 +2,10 @@
   "id": 1008010743,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Goya, 60 Zaragoza Zaragoza 50005",
+    "addr:housenumber":"60",
+    "addr:postcode":"50005",
+    "addr:street":"Avda Goya",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008010743,
-    "wof:lastmodified":1472595652,
+    "wof:lastmodified":1472767010,
     "wof:name":"Mobile S.c",
     "wof:parent_id":85863361,
     "wof:placetype":"venue",

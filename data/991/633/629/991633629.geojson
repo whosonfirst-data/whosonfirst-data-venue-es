@@ -2,6 +2,10 @@
   "id": 991633629,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Pradillo, 61 Madrid Madrid 28002",
+    "addr:housenumber":"61",
+    "addr:postcode":"madrid;28002",
+    "addr:street":"Calle De Pradillo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991633629,
-    "wof:lastmodified":1472561922,
+    "wof:lastmodified":1472770130,
     "wof:name":"Fernandez Arceu Gonzalo",
     "wof:parent_id":85863647,
     "wof:placetype":"venue",

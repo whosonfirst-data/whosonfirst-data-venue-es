@@ -2,6 +2,10 @@
   "id": 1008707973,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Badajoz, 13 Madrid Madrid 28027",
+    "addr:housenumber":"13",
+    "addr:postcode":"madrid;28027",
+    "addr:street":"Avda Badajoz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008707973,
-    "wof:lastmodified":1472638907,
+    "wof:lastmodified":1472769308,
     "wof:name":"Verdugo Cuellar Pedro",
     "wof:parent_id":85863637,
     "wof:placetype":"venue",

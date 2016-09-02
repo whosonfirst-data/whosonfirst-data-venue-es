@@ -2,6 +2,10 @@
   "id": 1007802245,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Orovilla, 42 Madrid Madrid 28041",
+    "addr:housenumber":"42",
+    "addr:postcode":"madrid;28041",
+    "addr:street":"Avda Orovilla",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007802245,
-    "wof:lastmodified":1472586443,
+    "wof:lastmodified":1472767663,
     "wof:name":"Leon Hernandez Maria Belen",
     "wof:parent_id":85863749,
     "wof:placetype":"venue",

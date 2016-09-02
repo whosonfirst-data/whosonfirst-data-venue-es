@@ -2,6 +2,10 @@
   "id": 1008577195,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Menendez Pelayo, 81 Madrid Madrid 28007",
+    "addr:housenumber":"81",
+    "addr:postcode":"madrid;28007",
+    "addr:street":"Avda Menendez Pelayo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1008577195,
-    "wof:lastmodified":1472633266,
+    "wof:lastmodified":1472769105,
     "wof:name":"Syade S. A.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008324871,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Reina Victoria, 20 Madrid Madrid 28003",
+    "addr:housenumber":"20",
+    "addr:postcode":"madrid;28003",
+    "addr:street":"Avda Reina Victoria",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008324871,
-    "wof:lastmodified":1472622383,
+    "wof:lastmodified":1472768575,
     "wof:name":"Rebollo Vallejo Jesus",
     "wof:parent_id":85863653,
     "wof:placetype":"venue",

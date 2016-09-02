@@ -2,6 +2,10 @@
   "id": 991599931,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Princesa, 23 Madrid Madrid 28...",
+    "addr:housenumber":"23;28 ...",
+    "addr:postcode":"madrid",
+    "addr:street":"Calle De Princesa;Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991599931,
-    "wof:lastmodified":1472559589,
+    "wof:lastmodified":1472770224,
     "wof:name":"Eterna Aseguradora S.a. Compa\u00d1ia De Seguros Y Reaseguros",
     "wof:parent_id":85863669,
     "wof:placetype":"venue",

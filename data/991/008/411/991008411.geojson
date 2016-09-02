@@ -2,6 +2,10 @@
   "id": 991008411,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Villarroel, 155 Barcelona Barcelona 08036",
+    "addr:housenumber":"155",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Villarroel",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991008411,
-    "wof:lastmodified":1472519735,
+    "wof:lastmodified":1472766840,
     "wof:name":"Arquer Porcell Pedro",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

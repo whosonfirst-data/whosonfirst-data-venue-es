@@ -2,6 +2,10 @@
   "id": 1008101215,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Motors, 326 Hospitalet Llobregat Barcelona 08908",
+    "addr:housenumber":"326",
+    "addr:postcode":"08908",
+    "addr:street":"Carrer",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008101215,
-    "wof:lastmodified":1472599575,
+    "wof:lastmodified":1472767134,
     "wof:name":"Nortons Iberica S.a.",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991325393,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Malcampo, 21 Madrid Madrid 28002",
+    "addr:housenumber":"21",
+    "addr:postcode":"madrid;28002",
+    "addr:street":"Calle De Malcampo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991325393,
-    "wof:lastmodified":1472543820,
+    "wof:lastmodified":1472769705,
     "wof:name":"Cermar S.l.",
     "wof:parent_id":85863647,
     "wof:placetype":"venue",

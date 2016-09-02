@@ -2,6 +2,10 @@
   "id": 991273143,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Martin De Los Heros, 19 Madrid Madrid 28008",
+    "addr:housenumber":"19",
+    "addr:postcode":"madrid;28008",
+    "addr:street":"Calle De Martin De Los Heros",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991273143,
-    "wof:lastmodified":1472541409,
+    "wof:lastmodified":1472769537,
     "wof:name":"Carrera Garcia Noemi",
     "wof:parent_id":85863669,
     "wof:placetype":"venue",

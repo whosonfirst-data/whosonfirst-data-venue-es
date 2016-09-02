@@ -2,6 +2,10 @@
   "id": 990954789,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Eduardo Requenas, 37 Madrid Madrid 28053",
+    "addr:housenumber":"37",
+    "addr:postcode":"madrid;28053",
+    "addr:street":"Calle De Eduardo Requenas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990954789,
-    "wof:lastmodified":1472515204,
+    "wof:lastmodified":1472767772,
     "wof:name":"Alvarez Barba Francisco",
     "wof:parent_id":85863729,
     "wof:placetype":"venue",

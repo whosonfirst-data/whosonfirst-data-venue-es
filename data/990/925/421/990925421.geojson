@@ -2,6 +2,10 @@
   "id": 990925421,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Fernando El Catolico, 10 Madrid Madrid 28015",
+    "addr:housenumber":"10",
+    "addr:postcode":"madrid;28015",
+    "addr:street":"Calle De Fernando El Catolico",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":990925421,
-    "wof:lastmodified":1472510909,
+    "wof:lastmodified":1472767542,
     "wof:name":"Alcazar Bautista Miguel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

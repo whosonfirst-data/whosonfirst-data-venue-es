@@ -2,6 +2,10 @@
   "id": 1008367115,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sants, 91 Barcelona Barcelona 08014",
+    "addr:housenumber":"91",
+    "addr:postcode":"08014",
+    "addr:street":"Carrer De Sants",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008367115,
-    "wof:lastmodified":1472624254,
+    "wof:lastmodified":1472769134,
     "wof:name":"Robledano Vicente Loreto",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

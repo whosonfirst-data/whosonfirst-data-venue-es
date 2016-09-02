@@ -2,6 +2,10 @@
   "id": 1007997943,
   "type": "Feature",
   "properties": {
+    "addr:full":"C/ Sant Ramon, 266 Cerdanyola Valles Barcelona 08290",
+    "addr:housenumber":"266",
+    "addr:postcode":"08290",
+    "addr:street":"C / Sant Ramon;Valles Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1007997943,
-    "wof:lastmodified":1472595115,
+    "wof:lastmodified":1472769053,
     "wof:name":"Mijan Puchol Bernardino",
     "wof:parent_id":85799639,
     "wof:placetype":"venue",

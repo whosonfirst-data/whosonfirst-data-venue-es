@@ -2,6 +2,10 @@
   "id": 1007891347,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Fernandez De La Hoz, 45 Madrid Madrid 28010",
+    "addr:housenumber":"45",
+    "addr:postcode":"madrid;28010",
+    "addr:street":"Calle De Fernandez De La Hoz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007891347,
-    "wof:lastmodified":1472590490,
+    "wof:lastmodified":1472767234,
     "wof:name":"Marallano Schwars Oscar",
     "wof:parent_id":85863649,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991315655,
   "type": "Feature",
   "properties": {
+    "addr:full":"Miguel De Cervantes, 11 Zaragoza Zaragoza 50006",
+    "addr:housenumber":"11",
+    "addr:postcode":"50006",
+    "addr:street":"Miguel;Cervantes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991315655,
-    "wof:lastmodified":1472543378,
+    "wof:lastmodified":1472769799,
     "wof:name":"Centro De Estudios Y Desarrollos Sanitarios S. A.",
     "wof:parent_id":85863361,
     "wof:placetype":"venue",

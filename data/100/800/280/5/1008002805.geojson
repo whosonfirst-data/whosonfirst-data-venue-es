@@ -2,6 +2,10 @@
   "id": 1008002805,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pase Direccion, 107 Madrid Madrid 28039",
+    "addr:housenumber":"107",
+    "addr:postcode":"madrid;28039",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008002805,
-    "wof:lastmodified":1472595296,
+    "wof:lastmodified":1472767597,
     "wof:name":"Mioforcons S.l",
     "wof:parent_id":85863797,
     "wof:placetype":"venue",

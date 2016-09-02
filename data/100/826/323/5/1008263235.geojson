@@ -2,6 +2,10 @@
   "id": 1008263235,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Arago, 224 Barcelona Barcelona 08011",
+    "addr:housenumber":"224",
+    "addr:postcode":"08011",
+    "addr:street":"Carrer De Arago",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008263235,
-    "wof:lastmodified":1472616683,
+    "wof:lastmodified":1472768055,
     "wof:name":"Portillo Montejo Jose Luis",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

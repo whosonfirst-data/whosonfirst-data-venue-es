@@ -2,6 +2,10 @@
   "id": 991824267,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Real Betis, 12 Madrid Madrid 28025",
+    "addr:housenumber":"12",
+    "addr:postcode":"madrid;28025",
+    "addr:street":"Calle De;Betis",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991824267,
-    "wof:lastmodified":1472573297,
+    "wof:lastmodified":1472770391,
     "wof:name":"Gonzalez Gamarra Rodolfo",
     "wof:parent_id":85863819,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008062101,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda America, 12 Madrid Madrid 28028",
+    "addr:housenumber":"12",
+    "addr:postcode":"madrid;28028",
+    "addr:street":"Avda America",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008062101,
-    "wof:lastmodified":1472597827,
+    "wof:lastmodified":1472767504,
     "wof:name":"Muelas Fernandez Leonor",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",

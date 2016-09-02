@@ -2,6 +2,10 @@
   "id": 1008220433,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda General Fanjul, 34 Madrid Madrid 28044",
+    "addr:housenumber":"34",
+    "addr:postcode":"madrid;28044",
+    "addr:street":"Avda General Fanjul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008220433,
-    "wof:lastmodified":1472613394,
+    "wof:lastmodified":1472766811,
     "wof:name":"Perez Perez Santiago",
     "wof:parent_id":85863817,
     "wof:placetype":"venue",

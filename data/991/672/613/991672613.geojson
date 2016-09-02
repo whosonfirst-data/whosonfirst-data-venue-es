@@ -2,6 +2,10 @@
   "id": 991672613,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de San Cosme Y San Damian, 18 Madrid Madrid 28012",
+    "addr:housenumber":"18",
+    "addr:postcode":"madrid;28012",
+    "addr:street":"Calle De San;Y San Damian",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991672613,
-    "wof:lastmodified":1472564092,
+    "wof:lastmodified":1472770246,
     "wof:name":"Flores Castillo Jose",
     "wof:parent_id":85863793,
     "wof:placetype":"venue",

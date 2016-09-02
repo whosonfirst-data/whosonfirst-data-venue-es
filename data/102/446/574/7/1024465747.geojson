@@ -2,6 +2,10 @@
   "id": 1024465747,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Canal, 153 Prat Llobregat Barcelona 08820",
+    "addr:housenumber":"153",
+    "addr:postcode":"08820",
+    "addr:street":"Av Canal;Llobregat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1024465747,
-    "wof:lastmodified":1472640165,
+    "wof:lastmodified":1472768648,
     "wof:name":"Villena Villena Jose",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",

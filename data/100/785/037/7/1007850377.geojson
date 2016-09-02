@@ -2,6 +2,10 @@
   "id": 1007850377,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Reina Victoria, 29 Madrid Madrid 28003",
+    "addr:housenumber":"29",
+    "addr:postcode":"madrid;28003",
+    "addr:street":"Avda Reina Victoria",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007850377,
-    "wof:lastmodified":1472588743,
+    "wof:lastmodified":1472766769,
     "wof:name":"Lorenzo Rodriguez Romulo Miguel",
     "wof:parent_id":85863653,
     "wof:placetype":"venue",

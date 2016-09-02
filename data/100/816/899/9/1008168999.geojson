@@ -2,6 +2,10 @@
   "id": 1008168999,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Castanyer, 3 Barcelona Barcelona 08022",
+    "addr:housenumber":"3",
+    "addr:postcode":"08022",
+    "addr:street":"Carrer De Castanyer",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008168999,
-    "wof:lastmodified":1472603797,
+    "wof:lastmodified":1472769482,
     "wof:name":"Parking Blau S. A.",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

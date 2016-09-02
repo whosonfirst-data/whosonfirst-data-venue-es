@@ -2,6 +2,10 @@
   "id": 1008241689,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda America, 8 Madrid Madrid 28028",
+    "addr:housenumber":"8",
+    "addr:postcode":"madrid;28028",
+    "addr:street":"Avda America",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008241689,
-    "wof:lastmodified":1472614563,
+    "wof:lastmodified":1472767321,
     "wof:name":"Pinillos Martinez Natividad",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",

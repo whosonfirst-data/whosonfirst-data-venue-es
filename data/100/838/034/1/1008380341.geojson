@@ -2,6 +2,10 @@
   "id": 1008380341,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Fernando El Catolico, 65 Madrid Madrid 28015",
+    "addr:housenumber":"65",
+    "addr:postcode":"madrid;28015",
+    "addr:street":"Calle De Fernando El Catolico",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008380341,
-    "wof:lastmodified":1472624777,
+    "wof:lastmodified":1472766784,
     "wof:name":"Rodriguez Gonzalez Francisca",
     "wof:parent_id":85863655,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991755131,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Avila, 35 Madrid Madrid 28020",
+    "addr:housenumber":"35",
+    "addr:postcode":"madrid;28020",
+    "addr:street":"Calle De Avila",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991755131,
-    "wof:lastmodified":1472568751,
+    "wof:lastmodified":1472770266,
     "wof:name":"Garcia Montes Maria Pilar",
     "wof:parent_id":85863621,
     "wof:placetype":"venue",

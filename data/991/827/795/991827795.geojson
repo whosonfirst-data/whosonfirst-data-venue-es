@@ -2,6 +2,10 @@
   "id": 991827795,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Moratalaz, 40 Madrid Madrid 28030",
+    "addr:housenumber":"40",
+    "addr:postcode":"madrid;28030",
+    "addr:street":"Avda Moratalaz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991827795,
-    "wof:lastmodified":1472573490,
+    "wof:lastmodified":1472770573,
     "wof:name":"Gonzalez Jimenez Luis Fernando",
     "wof:parent_id":85863693,
     "wof:placetype":"venue",

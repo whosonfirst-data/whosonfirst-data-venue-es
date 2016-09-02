@@ -2,6 +2,10 @@
   "id": 1007818789,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Galileu, 157 Barcelona Barcelona 08028",
+    "addr:housenumber":"157",
+    "addr:postcode":"08028",
+    "addr:street":"Carrer De Galileu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007818789,
-    "wof:lastmodified":1472587232,
+    "wof:lastmodified":1472768983,
     "wof:name":"Llobet Guiral Josefina",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

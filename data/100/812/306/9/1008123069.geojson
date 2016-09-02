@@ -2,6 +2,10 @@
   "id": 1008123069,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Urgell, 4 S. Andreu Barca Barcelona 08740",
+    "addr:housenumber":"4",
+    "addr:postcode":"08740",
+    "addr:street":"Carrer De Urgell;S. Andreu;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008123069,
-    "wof:lastmodified":1472600570,
+    "wof:lastmodified":1472768016,
     "wof:name":"Olle Vendrell Miguel",
     "wof:parent_id":85864241,
     "wof:placetype":"venue",

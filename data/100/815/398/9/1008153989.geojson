@@ -2,6 +2,10 @@
   "id": 1008153989,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de L'estacio, 11 Barcelona Barcelona 08030",
+    "addr:housenumber":"11",
+    "addr:postcode":"08030",
+    "addr:street":"Carrer De L'Estacio",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008153989,
-    "wof:lastmodified":1472602013,
+    "wof:lastmodified":1472768323,
     "wof:name":"Palema S. A.",
     "wof:parent_id":85799559,
     "wof:placetype":"venue",

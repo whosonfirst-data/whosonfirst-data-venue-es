@@ -2,6 +2,10 @@
   "id": 1008298883,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Comte Borrell, 225 Barcelona Barcelona 08029",
+    "addr:housenumber":"225",
+    "addr:postcode":"08029",
+    "addr:street":"Carrer De Comte Borrell",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008298883,
-    "wof:lastmodified":1472619448,
+    "wof:lastmodified":1472769231,
     "wof:name":"Punt I Apart S.c.p.",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

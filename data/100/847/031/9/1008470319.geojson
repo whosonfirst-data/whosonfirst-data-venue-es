@@ -2,6 +2,10 @@
   "id": 1008470319,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Humera, 54 Madrid Madrid 28023",
+    "addr:housenumber":"54",
+    "addr:postcode":"madrid;28023",
+    "addr:street":"Calle De Humera",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008470319,
-    "wof:lastmodified":1472628723,
+    "wof:lastmodified":1472766804,
     "wof:name":"San Roman Pina Jose Jesus",
     "wof:parent_id":85799153,
     "wof:placetype":"venue",

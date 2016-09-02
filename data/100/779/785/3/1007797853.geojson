@@ -2,6 +2,10 @@
   "id": 1007797853,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pl Joaquim Pena, 8 Barcelona Barcelona 08017",
+    "addr:housenumber":"8",
+    "addr:postcode":"08017",
+    "addr:street":"Pl;Pena",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007797853,
-    "wof:lastmodified":1472586211,
+    "wof:lastmodified":1472769308,
     "wof:name":"Le Bouedec  Gaetan",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

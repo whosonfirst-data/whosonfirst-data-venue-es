@@ -2,6 +2,10 @@
   "id": 1008530601,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Monforte De Lemos, 36 Madrid Madrid 28...",
+    "addr:housenumber":"36;28 ...",
+    "addr:postcode":"madrid",
+    "addr:street":"Avda Monforte De Lemos;Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008530601,
-    "wof:lastmodified":1472631280,
+    "wof:lastmodified":1472766887,
     "wof:name":"Sistemas De Oficina De Fm-2 S.a.",
     "wof:parent_id":85863551,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008468325,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de General Davila, 8 Madrid Madrid 28003",
+    "addr:housenumber":"8",
+    "addr:postcode":"madrid;28003",
+    "addr:street":"Calle De General Davila",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008468325,
-    "wof:lastmodified":1472628646,
+    "wof:lastmodified":1472769285,
     "wof:name":"San Jose Sevilla Victoria",
     "wof:parent_id":85863653,
     "wof:placetype":"venue",

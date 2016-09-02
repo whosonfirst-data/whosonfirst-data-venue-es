@@ -2,6 +2,10 @@
   "id": 1008715967,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pase John Lennon, S/n Getafe Madrid 28906",
+    "addr:housenumber":"s / n",
+    "addr:postcode":"28906",
+    "addr:street":"John Lennon",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":1008715967,
-    "wof:lastmodified":1472639271,
+    "wof:lastmodified":1472768812,
     "wof:name":"Viajes Marsans S.a.",
     "wof:parent_id":85863795,
     "wof:placetype":"venue",

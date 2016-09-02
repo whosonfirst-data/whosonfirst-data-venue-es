@@ -2,6 +2,10 @@
   "id": 1024463811,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Mallorca, 610 Barcelona Barcelona 08026",
+    "addr:housenumber":"610",
+    "addr:postcode":"08026",
+    "addr:street":"Carrer De Mallorca",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1024463811,
-    "wof:lastmodified":1472640078,
+    "wof:lastmodified":1472768116,
     "wof:name":"Villarino Marcos Maria Pilar",
     "wof:parent_id":85799265,
     "wof:placetype":"venue",

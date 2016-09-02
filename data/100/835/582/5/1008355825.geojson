@@ -2,6 +2,10 @@
   "id": 1008355825,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Corsega, 111 Barcelona Barcelona 08029",
+    "addr:housenumber":"111",
+    "addr:postcode":"08029",
+    "addr:street":"Carrer De Corsega",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008355825,
-    "wof:lastmodified":1472623761,
+    "wof:lastmodified":1472768664,
     "wof:name":"Ricart Vergara Miguel",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

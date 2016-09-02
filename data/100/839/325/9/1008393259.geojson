@@ -2,6 +2,10 @@
   "id": 1008393259,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Tajo, 60 Barcelona Barcelona 08032",
+    "addr:housenumber":"60",
+    "addr:postcode":"08032",
+    "addr:street":"Carrer De Tajo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008393259,
-    "wof:lastmodified":1472625458,
+    "wof:lastmodified":1472768080,
     "wof:name":"Roig Pastissers S.l.",
     "wof:parent_id":85799399,
     "wof:placetype":"venue",

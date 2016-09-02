@@ -2,6 +2,10 @@
   "id": 1008431063,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Padilla, 254 Barcelona Barcelona 08025",
+    "addr:housenumber":"254",
+    "addr:postcode":"08025",
+    "addr:street":"Carrer De Padilla",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008431063,
-    "wof:lastmodified":1472627232,
+    "wof:lastmodified":1472767006,
     "wof:name":"Saez Aparicio Primitiva",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

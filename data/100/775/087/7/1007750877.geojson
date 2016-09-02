@@ -2,6 +2,10 @@
   "id": 1007750877,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda America, 45 Madrid Madrid 28002",
+    "addr:housenumber":"45",
+    "addr:postcode":"madrid;28002",
+    "addr:street":"Avda America",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007750877,
-    "wof:lastmodified":1472583710,
+    "wof:lastmodified":1472767012,
     "wof:name":"Jr Inmobiliaria S.a.",
     "wof:parent_id":85799435,
     "wof:placetype":"venue",

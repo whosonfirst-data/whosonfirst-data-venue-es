@@ -2,6 +2,10 @@
   "id": 991010761,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Albufera, 77 Madrid Madrid 28038",
+    "addr:housenumber":"77",
+    "addr:postcode":"madrid;28038",
+    "addr:street":"Avda Albufera",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991010761,
-    "wof:lastmodified":1472519958,
+    "wof:lastmodified":1472766901,
     "wof:name":"Arria Quiros Miriam",
     "wof:parent_id":85863731,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991461805,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Albufera, 25 Madrid Madrid 28038",
+    "addr:housenumber":"25",
+    "addr:postcode":"madrid;28038",
+    "addr:street":"Avda Albufera",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991461805,
-    "wof:lastmodified":1472552342,
+    "wof:lastmodified":1472769870,
     "wof:name":"Cuenca Sanchez Julio",
     "wof:parent_id":85799491,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991010227,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pl Rovira I Trias, 9 Barcelona Barcelona 08024",
+    "addr:housenumber":"9",
+    "addr:postcode":"08024",
+    "addr:street":"Pl;Trias",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":991010227,
-    "wof:lastmodified":1472519912,
+    "wof:lastmodified":1472766738,
     "wof:name":"Arredo Junior's S.l.",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008078887,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Josep Tarradellas, 115 Barcelona Barcelona 08029",
+    "addr:housenumber":"115",
+    "addr:postcode":"08029",
+    "addr:street":"Av Josep Tarradellas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008078887,
-    "wof:lastmodified":1472598580,
+    "wof:lastmodified":1472769406,
     "wof:name":"Naobi S. A.",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

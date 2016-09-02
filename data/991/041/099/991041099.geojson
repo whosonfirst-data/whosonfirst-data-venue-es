@@ -2,6 +2,10 @@
   "id": 991041099,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Moratalaz, 86 Madrid Madrid 28030",
+    "addr:housenumber":"86",
+    "addr:postcode":"madrid;28030",
+    "addr:street":"Avda Moratalaz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991041099,
-    "wof:lastmodified":1472522278,
+    "wof:lastmodified":1472766673,
     "wof:name":"Asociacion Pro-vivienda",
     "wof:parent_id":85863715,
     "wof:placetype":"venue",

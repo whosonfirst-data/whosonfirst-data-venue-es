@@ -2,6 +2,10 @@
   "id": 1024482345,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ctra Carmel, 100 Barcelona Barcelona 08024",
+    "addr:housenumber":"100",
+    "addr:postcode":"08024",
+    "addr:street":"Ctra Carmel",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1024482345,
-    "wof:lastmodified":1472640850,
+    "wof:lastmodified":1472767522,
     "wof:name":"Yarza Pujol Antonio",
     "wof:parent_id":85863993,
     "wof:placetype":"venue",

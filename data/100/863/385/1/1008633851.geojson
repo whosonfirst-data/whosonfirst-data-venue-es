@@ -2,6 +2,10 @@
   "id": 1008633851,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sepulveda, 162 Barcelona Barcelona 08011",
+    "addr:housenumber":"162",
+    "addr:postcode":"08011",
+    "addr:street":"Carrer De Sepulveda",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008633851,
-    "wof:lastmodified":1472635703,
+    "wof:lastmodified":1472768354,
     "wof:name":"Torradas Baquer Jordi",
     "wof:parent_id":85864035,
     "wof:placetype":"venue",

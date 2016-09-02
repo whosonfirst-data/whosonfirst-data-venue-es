@@ -2,6 +2,10 @@
   "id": 1008188645,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Napols, 162 Barcelona Barcelona 08013",
+    "addr:housenumber":"162",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Napols",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008188645,
-    "wof:lastmodified":1472606949,
+    "wof:lastmodified":1472769304,
     "wof:name":"Patentes Platt S. A.",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

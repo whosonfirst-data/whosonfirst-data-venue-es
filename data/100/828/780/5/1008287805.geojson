@@ -2,6 +2,10 @@
   "id": 1008287805,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Arago, 327 Barcelona Barcelona 08009",
+    "addr:housenumber":"327",
+    "addr:postcode":"08009",
+    "addr:street":"Carrer De Arago",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008287805,
-    "wof:lastmodified":1472618151,
+    "wof:lastmodified":1472769175,
     "wof:name":"Proveedora Escolar S. A.",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991245463,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Velazquez, 86 Madrid Madrid 28006",
+    "addr:housenumber":"86",
+    "addr:postcode":"madrid;28006",
+    "addr:street":"Calle De Velazquez",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991245463,
-    "wof:lastmodified":1472539879,
+    "wof:lastmodified":1472768286,
     "wof:name":"Cangas Thiebaut Ivan",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",

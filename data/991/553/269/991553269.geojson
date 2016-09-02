@@ -2,6 +2,10 @@
   "id": 991553269,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Pous, 31 S. Andreu Barca Barcelona 08740",
+    "addr:housenumber":"31",
+    "addr:postcode":"08740",
+    "addr:street":"Carrer De Pous;S. Andreu;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991553269,
-    "wof:lastmodified":1472557215,
+    "wof:lastmodified":1472769963,
     "wof:name":"Electrorrec S.a.",
     "wof:parent_id":85864241,
     "wof:placetype":"venue",

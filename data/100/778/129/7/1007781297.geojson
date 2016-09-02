@@ -2,6 +2,10 @@
   "id": 1007781297,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Aribau, 316 Barcelona Barcelona 08006",
+    "addr:housenumber":"316",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Aribau",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007781297,
-    "wof:lastmodified":1472585287,
+    "wof:lastmodified":1472767120,
     "wof:name":"Lainez Vidal Isabel",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

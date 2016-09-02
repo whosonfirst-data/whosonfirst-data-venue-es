@@ -2,6 +2,10 @@
   "id": 1008636307,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Josep Tarradellas, 107 Barcelona Barcelona 08029",
+    "addr:housenumber":"107",
+    "addr:postcode":"08029",
+    "addr:street":"Av Josep Tarradellas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008636307,
-    "wof:lastmodified":1472635814,
+    "wof:lastmodified":1472768922,
     "wof:name":"Torrente Tomas Maria Jose",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

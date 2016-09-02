@@ -2,6 +2,10 @@
   "id": 1008004209,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Madrazo, 107 Barcelona Barcelona 08021",
+    "addr:housenumber":"107",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De Madrazo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008004209,
-    "wof:lastmodified":1472595356,
+    "wof:lastmodified":1472767967,
     "wof:name":"Miralles Brosa Luis",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

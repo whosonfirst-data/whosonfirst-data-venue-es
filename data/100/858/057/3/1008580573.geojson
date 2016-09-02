@@ -2,6 +2,10 @@
   "id": 1008580573,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Ferroviarios, 57 Madrid Madrid 28026",
+    "addr:housenumber":"57",
+    "addr:postcode":"madrid;28026",
+    "addr:street":"Calle De Ferroviarios",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008580573,
-    "wof:lastmodified":1472633399,
+    "wof:lastmodified":1472766874,
     "wof:name":"Taller 57 C.b.",
     "wof:parent_id":85863749,
     "wof:placetype":"venue",

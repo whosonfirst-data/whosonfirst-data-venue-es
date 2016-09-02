@@ -2,6 +2,10 @@
   "id": 991042007,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de San Cosme Y San Damian, 1 Madrid Madrid 28012",
+    "addr:housenumber":"1",
+    "addr:postcode":"28012",
+    "addr:street":"Calle De San;Y San Damian",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991042007,
-    "wof:lastmodified":1472522343,
+    "wof:lastmodified":1472766653,
     "wof:name":"Asociacion Turistica Ferroviaria",
     "wof:parent_id":85863793,
     "wof:placetype":"venue",

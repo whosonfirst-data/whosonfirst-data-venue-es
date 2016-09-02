@@ -2,6 +2,10 @@
   "id": 1007832449,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Costa Rica, 23 Madrid Madrid 28016",
+    "addr:housenumber":"23",
+    "addr:postcode":"madrid;28016",
+    "addr:street":"Calle De Costa Rica",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007832449,
-    "wof:lastmodified":1472587846,
+    "wof:lastmodified":1472767715,
     "wof:name":"Lopez Del Rio Stolle Santiago Maria",
     "wof:parent_id":85863599,
     "wof:placetype":"venue",

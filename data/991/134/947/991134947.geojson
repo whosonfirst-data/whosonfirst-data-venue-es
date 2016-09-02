@@ -2,6 +2,10 @@
   "id": 991134947,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Barcelona, 65 Prat Llobregat Barcelona 08820",
+    "addr:housenumber":"65",
+    "addr:postcode":"08820",
+    "addr:street":"Carrer De Barcelona;Llobregat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991134947,
-    "wof:lastmodified":1472530043,
+    "wof:lastmodified":1472767549,
     "wof:name":"Beneito Barrera Francisco",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",

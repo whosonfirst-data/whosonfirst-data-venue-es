@@ -2,6 +2,10 @@
   "id": 1008240513,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Camp Arriassa, 55 Barcelona Barcelona 08020",
+    "addr:housenumber":"55",
+    "addr:postcode":"08020",
+    "addr:street":"Carrer De Camp Arriassa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1008240513,
-    "wof:lastmodified":1472614501,
+    "wof:lastmodified":1472766860,
     "wof:name":"Pina Pastor Joaquin",
     "wof:parent_id":85864011,
     "wof:placetype":"venue",

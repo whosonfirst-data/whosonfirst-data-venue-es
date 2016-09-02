@@ -2,6 +2,10 @@
   "id": 1007933547,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Coll Del Portell, 39 Barcelona Barcelona 08024",
+    "addr:housenumber":"39",
+    "addr:postcode":"08024",
+    "addr:street":"Av Coll Del Portell",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007933547,
-    "wof:lastmodified":1472592404,
+    "wof:lastmodified":1472768016,
     "wof:name":"Martinez Rius Albert",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

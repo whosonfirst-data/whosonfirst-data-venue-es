@@ -2,6 +2,10 @@
   "id": 990913073,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Diputacio, 116 Barcelona Barcelona 08015",
+    "addr:housenumber":"116",
+    "addr:postcode":"08015",
+    "addr:street":"Carrer De Diputacio",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990913073,
-    "wof:lastmodified":1472509864,
+    "wof:lastmodified":1472767148,
     "wof:name":"Ajuntament De Barcelona",
     "wof:parent_id":85864027,
     "wof:placetype":"venue",

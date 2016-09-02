@@ -2,6 +2,10 @@
   "id": 1008254101,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Enric Granados, 147 Barcelona Barcelona 08008",
+    "addr:housenumber":"147",
+    "addr:postcode":"08008",
+    "addr:street":"Carrer De Enric Granados",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008254101,
-    "wof:lastmodified":1472616239,
+    "wof:lastmodified":1472768282,
     "wof:name":"Plaza Notario Guillermina",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

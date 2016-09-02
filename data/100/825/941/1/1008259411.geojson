@@ -2,6 +2,10 @@
   "id": 1008259411,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Muntaner, 340 Barcelona Barcelona 08021",
+    "addr:housenumber":"340",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De Muntaner",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008259411,
-    "wof:lastmodified":1472616503,
+    "wof:lastmodified":1472769439,
     "wof:name":"Pons Cardoner Jose",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008590501,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Fernando Mora, 16 Madrid Madrid 28019",
+    "addr:housenumber":"16",
+    "addr:postcode":"madrid;28019",
+    "addr:street":"Calle De Fernando Mora",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008590501,
-    "wof:lastmodified":1472633796,
+    "wof:lastmodified":1472766898,
     "wof:name":"Talleres Moreno Boiza S.a.",
     "wof:parent_id":85863765,
     "wof:placetype":"venue",

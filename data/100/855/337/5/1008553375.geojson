@@ -2,6 +2,10 @@
   "id": 1008553375,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pl. Camaron Isla, 570 Badalona Barcelona 08918",
+    "addr:housenumber":"570",
+    "addr:postcode":"08918",
+    "addr:street":"Pl.;Isla",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1008553375,
-    "wof:lastmodified":1472632253,
+    "wof:lastmodified":1472767970,
     "wof:name":"Soria Natural S.a.",
     "wof:parent_id":85799179,
     "wof:placetype":"venue",

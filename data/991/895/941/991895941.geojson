@@ -2,6 +2,10 @@
   "id": 991895941,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Socrates, 67 Barcelona Barcelona 08030",
+    "addr:housenumber":"67",
+    "addr:postcode":"08030",
+    "addr:street":"Carrer De Socrates",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991895941,
-    "wof:lastmodified":1472577312,
+    "wof:lastmodified":1472770642,
     "wof:name":"Hernandez Hernandez Juan Bautista",
     "wof:parent_id":85863995,
     "wof:placetype":"venue",

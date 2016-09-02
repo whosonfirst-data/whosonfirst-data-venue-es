@@ -2,6 +2,10 @@
   "id": 991682191,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Santa Amelia, 20 Barcelona Barcelona 08034",
+    "addr:housenumber":"20",
+    "addr:postcode":"08034",
+    "addr:street":"Carrer De Santa Amelia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991682191,
-    "wof:lastmodified":1472564579,
+    "wof:lastmodified":1472770236,
     "wof:name":"Forn Argrimon Bernat",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

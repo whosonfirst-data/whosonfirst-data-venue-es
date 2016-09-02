@@ -2,6 +2,10 @@
   "id": 1008294973,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Industries, 42 Prat Llobregat Barcelona 08820",
+    "addr:housenumber":"42",
+    "addr:postcode":"08820",
+    "addr:street":"Carrer De Industries;Llobregat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008294973,
-    "wof:lastmodified":1472618545,
+    "wof:lastmodified":1472768439,
     "wof:name":"Puig Climent Merce",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",

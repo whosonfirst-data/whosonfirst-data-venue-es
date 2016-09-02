@@ -2,6 +2,10 @@
   "id": 1007989967,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Juan De Garay, 42 Valencia Valencia 46017",
+    "addr:housenumber":"42",
+    "addr:postcode":"46017",
+    "addr:street":"Calle De Juan De Garay",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1007989967,
-    "wof:lastmodified":1472594750,
+    "wof:lastmodified":1472769325,
     "wof:name":"Meson El Desvan S.l.",
     "wof:parent_id":85864205,
     "wof:placetype":"venue",

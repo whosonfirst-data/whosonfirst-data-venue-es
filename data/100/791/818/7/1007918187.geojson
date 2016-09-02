@@ -2,6 +2,10 @@
   "id": 1007918187,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Soto Hidalgo, 12 Madrid Madrid 28042",
+    "addr:housenumber":"12",
+    "addr:postcode":"madrid;28042",
+    "addr:street":"Calle De Soto Hidalgo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1007918187,
-    "wof:lastmodified":1472591673,
+    "wof:lastmodified":1472769349,
     "wof:name":"Martinez Alfaro Bienvenida",
     "wof:parent_id":102545773,
     "wof:placetype":"venue",

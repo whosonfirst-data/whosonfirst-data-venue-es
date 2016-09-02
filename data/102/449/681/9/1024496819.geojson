@@ -2,6 +2,10 @@
   "id": 1024496819,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Casp 33B - 4\u00ba 2\u00aa Barcelona 08010",
+    "addr:housenumber":"33b",
+    "addr:postcode":"08010",
+    "addr:street":"Carrer De Casp;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1024496819,
-    "wof:lastmodified":1472641483,
+    "wof:lastmodified":1472768837,
     "wof:name":"Nuroa",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

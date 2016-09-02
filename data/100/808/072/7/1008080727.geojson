@@ -2,6 +2,10 @@
   "id": 1008080727,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Alfonso Xiii, 13 Madrid Madrid 28002",
+    "addr:housenumber":"13",
+    "addr:postcode":"madrid;28002",
+    "addr:street":"Avda Alfonso Xiii",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008080727,
-    "wof:lastmodified":1472598676,
+    "wof:lastmodified":1472766948,
     "wof:name":"Natural Vox S.a.",
     "wof:parent_id":85799435,
     "wof:placetype":"venue",

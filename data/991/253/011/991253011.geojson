@@ -2,6 +2,10 @@
   "id": 991253011,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Gran De Sant Andreu, 245 Barcelona Barcelona 08030",
+    "addr:housenumber":"245",
+    "addr:postcode":"08030",
+    "addr:street":"Carrer De Gran De Sant Andreu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991253011,
-    "wof:lastmodified":1472540213,
+    "wof:lastmodified":1472768202,
     "wof:name":"Captri S. A.",
     "wof:parent_id":85799559,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008449345,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Miguel Arredondo, 7 Madrid Madrid 28045",
+    "addr:housenumber":"7",
+    "addr:postcode":"madrid;28045",
+    "addr:street":"Calle De Miguel Arredondo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008449345,
-    "wof:lastmodified":1472627921,
+    "wof:lastmodified":1472769347,
     "wof:name":"Sanchez De La Camara Jose Javier",
     "wof:parent_id":85799161,
     "wof:placetype":"venue",

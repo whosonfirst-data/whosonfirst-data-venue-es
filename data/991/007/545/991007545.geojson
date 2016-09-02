@@ -2,6 +2,10 @@
   "id": 991007545,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Doctor Federico Rubio Y Gali, 40 Madrid Madrid 28039",
+    "addr:housenumber":"40",
+    "addr:postcode":"madrid;28039",
+    "addr:street":"Avda Doctor Federico Rubio Y Gali",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991007545,
-    "wof:lastmodified":1472519642,
+    "wof:lastmodified":1472766830,
     "wof:name":"Aromas De Jabon C.d.",
     "wof:parent_id":85863619,
     "wof:placetype":"venue",

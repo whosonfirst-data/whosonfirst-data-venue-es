@@ -2,6 +2,10 @@
   "id": 991775031,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Santapau, 62 Barcelona Barcelona 08016",
+    "addr:housenumber":"62",
+    "addr:postcode":"08016",
+    "addr:street":"Carrer De Santapau",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991775031,
-    "wof:lastmodified":1472569838,
+    "wof:lastmodified":1472770245,
     "wof:name":"Gatell Artigas Jose Maria",
     "wof:parent_id":85799399,
     "wof:placetype":"venue",

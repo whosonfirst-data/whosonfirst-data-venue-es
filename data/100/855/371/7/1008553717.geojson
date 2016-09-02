@@ -2,6 +2,10 @@
   "id": 1008553717,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Lepant, 272 Barcelona Barcelona 08013",
+    "addr:housenumber":"272",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Lepant",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008553717,
-    "wof:lastmodified":1472632266,
+    "wof:lastmodified":1472768070,
     "wof:name":"Soriano Gomez Antonio",
     "wof:parent_id":85864013,
     "wof:placetype":"venue",

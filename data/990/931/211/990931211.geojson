@@ -2,6 +2,10 @@
   "id": 990931211,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Fornillos, 56 Madrid Madrid 28026",
+    "addr:housenumber":"56",
+    "addr:postcode":"madrid;28026",
+    "addr:street":"Calle De Fornillos",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990931211,
-    "wof:lastmodified":1472511357,
+    "wof:lastmodified":1472767496,
     "wof:name":"Alfaro Alvarez Fernando",
     "wof:parent_id":85863757,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008508099,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ctra Esplugues, 162 Fatjo Barcelona 08940",
+    "addr:housenumber":"162",
+    "addr:postcode":"08940",
+    "addr:street":"Ctra Esplugues;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008508099,
-    "wof:lastmodified":1472630364,
+    "wof:lastmodified":1472769266,
     "wof:name":"Servei Moto S.l.",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",

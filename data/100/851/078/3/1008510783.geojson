@@ -2,6 +2,10 @@
   "id": 1008510783,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Reina Victoria, 21 Madrid Madrid 28003",
+    "addr:housenumber":"21",
+    "addr:postcode":"madrid;28003",
+    "addr:street":"Avda Reina Victoria",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008510783,
-    "wof:lastmodified":1472630474,
+    "wof:lastmodified":1472767004,
     "wof:name":"Servicio Especial De Urgencias De Madrid",
     "wof:parent_id":85863653,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008570041,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ctra Hospitalet, 147 Almeda Mercader Barcelona 08940",
+    "addr:housenumber":"147",
+    "addr:postcode":"08940",
+    "addr:street":"Ctra Hospitalet;Mercader Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008570041,
-    "wof:lastmodified":1472632966,
+    "wof:lastmodified":1472766661,
     "wof:name":"Suministros Integrales De Oficina S.a.",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",

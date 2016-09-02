@@ -2,6 +2,10 @@
   "id": 1008389267,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Donostiarra, 24 Madrid Madrid 28027",
+    "addr:housenumber":"24",
+    "addr:postcode":"madrid;28027",
+    "addr:street":"Avda Donostiarra",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008389267,
-    "wof:lastmodified":1472625287,
+    "wof:lastmodified":1472769335,
     "wof:name":"Rodriguez Ruiz Rosa Maria",
     "wof:parent_id":85863643,
     "wof:placetype":"venue",

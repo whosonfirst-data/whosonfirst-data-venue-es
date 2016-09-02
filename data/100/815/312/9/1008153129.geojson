@@ -2,6 +2,10 @@
   "id": 1008153129,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Roger De Lluria, 123 Barcelona Barcelona 08037",
+    "addr:housenumber":"123",
+    "addr:postcode":"08037",
+    "addr:street":"Carrer De Roger De Lluria",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008153129,
-    "wof:lastmodified":1472601972,
+    "wof:lastmodified":1472767950,
     "wof:name":"Paladella Salord Teresa",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

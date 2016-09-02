@@ -2,6 +2,10 @@
   "id": 1007974101,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Garcia Luna, 19 Madrid Madrid 28002",
+    "addr:housenumber":"19",
+    "addr:postcode":"madrid;28002",
+    "addr:street":"Calle De Garcia Luna",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007974101,
-    "wof:lastmodified":1472594129,
+    "wof:lastmodified":1472768250,
     "wof:name":"Mejias Rodriguez Candido",
     "wof:parent_id":85863647,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008235379,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Barcelona, 5 Prat Llobregat Barcelona 08820",
+    "addr:housenumber":"5",
+    "addr:postcode":"08820",
+    "addr:street":"Carrer De Barcelona;Llobregat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008235379,
-    "wof:lastmodified":1472614243,
+    "wof:lastmodified":1472768642,
     "wof:name":"Pe\u00f1a Taurina El Prat",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",

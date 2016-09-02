@@ -2,6 +2,10 @@
   "id": 991319353,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Monforte De Lemos, 113 Madrid Madrid 28...",
+    "addr:housenumber":"113;28 ...",
+    "addr:postcode":"",
+    "addr:street":"Avda Monforte De Lemos;Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991319353,
-    "wof:lastmodified":1472543539,
+    "wof:lastmodified":1472769664,
     "wof:name":"Centro Medico Monforte-vaguada S.a.",
     "wof:parent_id":85863551,
     "wof:placetype":"venue",

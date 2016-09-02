@@ -2,6 +2,10 @@
   "id": 1007780561,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Lepant, 285 Barcelona Barcelona 08025",
+    "addr:housenumber":"285",
+    "addr:postcode":"08025",
+    "addr:street":"Carrer De Lepant",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007780561,
-    "wof:lastmodified":1472585250,
+    "wof:lastmodified":1472766833,
     "wof:name":"Laguna Ventosa Maria Joaquina",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

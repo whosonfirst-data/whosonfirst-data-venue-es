@@ -2,6 +2,10 @@
   "id": 1007917969,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Albufera, 66 Madrid Madrid 28038",
+    "addr:housenumber":"66",
+    "addr:postcode":"madrid;28038",
+    "addr:street":"Avda Albufera",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1007917969,
-    "wof:lastmodified":1472591664,
+    "wof:lastmodified":1472769319,
     "wof:name":"Martinez Adarve Rafael",
     "wof:parent_id":85799491,
     "wof:placetype":"venue",

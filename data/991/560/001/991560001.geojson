@@ -2,6 +2,10 @@
   "id": 991560001,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pase Castellana, 30 Madrid Madrid 28046",
+    "addr:housenumber":"30",
+    "addr:postcode":"madrid;28046",
+    "addr:street":"Castellana",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991560001,
-    "wof:lastmodified":1472557655,
+    "wof:lastmodified":1472770544,
     "wof:name":"Embajada De La Republica Dominicana",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",

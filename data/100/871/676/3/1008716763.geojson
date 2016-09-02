@@ -2,6 +2,10 @@
   "id": 1008716763,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda General, 34 Madrid Madrid 28042",
+    "addr:housenumber":"34",
+    "addr:postcode":"madrid;28042",
+    "addr:street":"Avda General",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008716763,
-    "wof:lastmodified":1472639299,
+    "wof:lastmodified":1472769044,
     "wof:name":"Viajes Puerta Del Sol S.l.",
     "wof:parent_id":85863589,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 990929801,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Treball, 255 Barcelona Barcelona 08020",
+    "addr:housenumber":"255",
+    "addr:postcode":"08020",
+    "addr:street":"Carrer De Treball",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990929801,
-    "wof:lastmodified":1472511248,
+    "wof:lastmodified":1472767724,
     "wof:name":"Aleman Saez Sergi",
     "wof:parent_id":85864011,
     "wof:placetype":"venue",

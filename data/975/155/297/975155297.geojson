@@ -2,6 +2,10 @@
   "id": 975155297,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Mallorca, 306 Barcelona Barcelona 08037",
+    "addr:housenumber":"306",
+    "addr:postcode":"08037",
+    "addr:street":"Carrer De Mallorca",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":975155297,
-    "wof:lastmodified":1472507460,
+    "wof:lastmodified":1472766873,
     "wof:name":"Acerf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

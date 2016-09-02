@@ -2,6 +2,10 @@
   "id": 1007798261,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Corts Catalanes, 555 S. Adria Besos Barcelona 08930",
+    "addr:housenumber":"555",
+    "addr:postcode":"08930",
+    "addr:street":"Av Corts Catalanes;S. Adria Besos Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007798261,
-    "wof:lastmodified":1472586232,
+    "wof:lastmodified":1472769395,
     "wof:name":"Lecina Pelay Jose Antonio",
     "wof:parent_id":85799179,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1007799243,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Francesc Cambo, 14 Barcelona Barcelona 08003",
+    "addr:housenumber":"14",
+    "addr:postcode":"08003",
+    "addr:street":"Av Francesc Cambo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007799243,
-    "wof:lastmodified":1472586282,
+    "wof:lastmodified":1472769541,
     "wof:name":"Legend Forwarding Group S. L.",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",

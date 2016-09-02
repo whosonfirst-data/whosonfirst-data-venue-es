@@ -2,6 +2,10 @@
   "id": 1008505043,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Maria De Molina, 58 Madrid Madrid 28006",
+    "addr:housenumber":"58",
+    "addr:postcode":"madrid;28006",
+    "addr:street":"Calle De Maria De Molina",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008505043,
-    "wof:lastmodified":1472630238,
+    "wof:lastmodified":1472768587,
     "wof:name":"Serrano Iglesias Gerardo",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991843391,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Sorgo, 56 Madrid Madrid 28029",
+    "addr:housenumber":"56",
+    "addr:postcode":"madrid;28029",
+    "addr:street":"Calle De Sorgo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991843391,
-    "wof:lastmodified":1472574325,
+    "wof:lastmodified":1472770435,
     "wof:name":"Graficas Maravillas S. L.",
     "wof:parent_id":85863561,
     "wof:placetype":"venue",

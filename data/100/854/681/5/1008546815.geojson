@@ -2,6 +2,10 @@
   "id": 1008546815,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Arago, 537 Barcelona Barcelona 08026",
+    "addr:housenumber":"537",
+    "addr:postcode":"08026",
+    "addr:street":"Carrer De Arago",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008546815,
-    "wof:lastmodified":1472631970,
+    "wof:lastmodified":1472768797,
     "wof:name":"Soler Aragones Monserrat",
     "wof:parent_id":85799265,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008241505,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Avena, 8 Madrid Madrid 28026",
+    "addr:housenumber":"8",
+    "addr:postcode":"madrid;28026",
+    "addr:street":"Calle De Avena",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008241505,
-    "wof:lastmodified":1472614549,
+    "wof:lastmodified":1472767246,
     "wof:name":"Pinilla Escalera Maria Isabel",
     "wof:parent_id":85863757,
     "wof:placetype":"venue",

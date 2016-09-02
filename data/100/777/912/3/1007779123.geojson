@@ -2,6 +2,10 @@
   "id": 1007779123,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Madrid, 21 Zaragoza Zaragoza 50004",
+    "addr:housenumber":"21",
+    "addr:postcode":"50004",
+    "addr:street":"Avda Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007779123,
-    "wof:lastmodified":1472585183,
+    "wof:lastmodified":1472769488,
     "wof:name":"Lafuente Palacin Felipe",
     "wof:parent_id":85863323,
     "wof:placetype":"venue",

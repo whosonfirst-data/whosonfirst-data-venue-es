@@ -2,6 +2,10 @@
   "id": 991008697,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Muntaner, 181 Barcelona Barcelona 08036",
+    "addr:housenumber":"181",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Muntaner",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991008697,
-    "wof:lastmodified":1472519767,
+    "wof:lastmodified":1472766965,
     "wof:name":"Arquingest.s.c.p.",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991483265,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Rodriguez San Pedro, 25 Madrid Madrid 28015",
+    "addr:housenumber":"25",
+    "addr:postcode":"madrid;28015",
+    "addr:street":"Calle De Rodriguez San Pedro",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":991483265,
-    "wof:lastmodified":1472553534,
+    "wof:lastmodified":1472769928,
     "wof:name":"Del Pozo Delgado Francisco Jose",
     "wof:parent_id":85863659,
     "wof:placetype":"venue",

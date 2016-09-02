@@ -2,6 +2,10 @@
   "id": 1007796353,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda America, 35 Madrid Madrid 28002",
+    "addr:housenumber":"35",
+    "addr:postcode":"madrid;28002",
+    "addr:street":"Avda America",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007796353,
-    "wof:lastmodified":1472586119,
+    "wof:lastmodified":1472768896,
     "wof:name":"Lazaro Lazaro Eduardo",
     "wof:parent_id":85863643,
     "wof:placetype":"venue",

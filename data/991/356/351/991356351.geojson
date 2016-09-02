@@ -2,6 +2,10 @@
   "id": 991356351,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Bilbao, 37 Barcelona Barcelona 08005",
+    "addr:housenumber":"37",
+    "addr:postcode":"08005",
+    "addr:street":"Carrer De Bilbao",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991356351,
-    "wof:lastmodified":1472545573,
+    "wof:lastmodified":1472769722,
     "wof:name":"Cobos Redondo Maria Del Carmen",
     "wof:parent_id":85864011,
     "wof:placetype":"venue",

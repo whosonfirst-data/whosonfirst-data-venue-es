@@ -2,6 +2,10 @@
   "id": 1008265741,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Murcia, 15 Barcelona Barcelona 08027",
+    "addr:housenumber":"15",
+    "addr:postcode":"08027",
+    "addr:street":"Carrer De Murcia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008265741,
-    "wof:lastmodified":1472616839,
+    "wof:lastmodified":1472768715,
     "wof:name":"Poza Ferraz Marin",
     "wof:parent_id":85864003,
     "wof:placetype":"venue",

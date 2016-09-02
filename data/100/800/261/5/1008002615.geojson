@@ -2,6 +2,10 @@
   "id": 1008002615,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Pallars, 160 Barcelona Barcelona 08005",
+    "addr:housenumber":"160",
+    "addr:postcode":"08005",
+    "addr:street":"Carrer De Pallars",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008002615,
-    "wof:lastmodified":1472595290,
+    "wof:lastmodified":1472767535,
     "wof:name":"Minos Digenis Arquitectos",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

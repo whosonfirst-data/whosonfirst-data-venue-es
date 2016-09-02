@@ -2,6 +2,10 @@
   "id": 991799607,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Cervantes, 25 Calella Barcelona 08370",
+    "addr:housenumber":"25",
+    "addr:postcode":"08370",
+    "addr:street":"Carrer De Cervantes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991799607,
-    "wof:lastmodified":1472571942,
+    "wof:lastmodified":1472770513,
     "wof:name":"Giro Ribas Montserrat",
     "wof:parent_id":85799549,
     "wof:placetype":"venue",

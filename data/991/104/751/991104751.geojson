@@ -2,6 +2,10 @@
   "id": 991104751,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Sarria, 146 Barcelona Barcelona 08017",
+    "addr:housenumber":"146",
+    "addr:postcode":"08017",
+    "addr:street":"Av Sarria",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991104751,
-    "wof:lastmodified":1472527152,
+    "wof:lastmodified":1472767409,
     "wof:name":"Banc Sabadell S.a.",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

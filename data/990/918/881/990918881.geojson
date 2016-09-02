@@ -2,6 +2,10 @@
   "id": 990918881,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Plaza De Toros, 16 Madrid Madrid 28025",
+    "addr:housenumber":"16",
+    "addr:postcode":"madrid;28025",
+    "addr:street":"Avda Plaza De Toros",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990918881,
-    "wof:lastmodified":1472510359,
+    "wof:lastmodified":1472767557,
     "wof:name":"Albabus S.l.",
     "wof:parent_id":85863819,
     "wof:placetype":"venue",

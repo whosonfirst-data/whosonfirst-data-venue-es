@@ -2,6 +2,10 @@
   "id": 1008218353,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Murcia, 46 Barcelona Barcelona 08027",
+    "addr:housenumber":"46",
+    "addr:postcode":"08027",
+    "addr:street":"Carrer De Murcia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008218353,
-    "wof:lastmodified":1472613308,
+    "wof:lastmodified":1472769282,
     "wof:name":"Perez Moratalla Isaac",
     "wof:parent_id":85864003,
     "wof:placetype":"venue",

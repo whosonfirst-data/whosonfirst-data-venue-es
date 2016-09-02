@@ -2,6 +2,10 @@
   "id": 1007696933,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Comte D'urgell, 259 Barcelona Barcelona 08036",
+    "addr:housenumber":"259",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Comte D'Urgell",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007696933,
-    "wof:lastmodified":1472580814,
+    "wof:lastmodified":1472768945,
     "wof:name":"Institut Catala D'antropologia",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

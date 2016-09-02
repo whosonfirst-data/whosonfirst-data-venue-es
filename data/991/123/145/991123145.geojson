@@ -2,6 +2,10 @@
   "id": 991123145,
   "type": "Feature",
   "properties": {
+    "addr:full":"Via Augusta, 290 Barcelona Barcelona 08017",
+    "addr:housenumber":"290",
+    "addr:postcode":"08017",
+    "addr:street":"Via Augusta",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991123145,
-    "wof:lastmodified":1472528683,
+    "wof:lastmodified":1472767168,
     "wof:name":"Batlle Freixa Inma",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991705345,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Muntaner, 179 Barcelona Barcelona 08036",
+    "addr:housenumber":"179",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Muntaner",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991705345,
-    "wof:lastmodified":1472565712,
+    "wof:lastmodified":1472770281,
     "wof:name":"Fundacio Institut Catala De La Cuina",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

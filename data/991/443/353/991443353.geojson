@@ -2,6 +2,10 @@
   "id": 991443353,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Mare Deu De Montserrat, 229 Barcelona Barcelona 08041",
+    "addr:housenumber":"229",
+    "addr:postcode":"08041",
+    "addr:street":"Av Mare;De Montserrat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991443353,
-    "wof:lastmodified":1472551315,
+    "wof:lastmodified":1472769699,
     "wof:name":"Costa Escandell Juan",
     "wof:parent_id":85863997,
     "wof:placetype":"venue",

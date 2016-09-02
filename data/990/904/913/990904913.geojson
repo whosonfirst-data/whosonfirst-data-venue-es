@@ -2,6 +2,10 @@
   "id": 990904913,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Canigo, 76 Barcelona Barcelona 08031",
+    "addr:housenumber":"76",
+    "addr:postcode":"08031",
+    "addr:street":"Carrer De Canigo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990904913,
-    "wof:lastmodified":1472509126,
+    "wof:lastmodified":1472767361,
     "wof:name":"Aguilar Blasco Emilio",
     "wof:parent_id":85799399,
     "wof:placetype":"venue",

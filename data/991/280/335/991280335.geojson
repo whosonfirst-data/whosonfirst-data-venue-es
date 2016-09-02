@@ -2,6 +2,10 @@
   "id": 991280335,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Diputacio, 452 Barcelona Barcelona 08013",
+    "addr:housenumber":"452",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Diputacio",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991280335,
-    "wof:lastmodified":1472541739,
+    "wof:lastmodified":1472769684,
     "wof:name":"Casademunt Figueras David",
     "wof:parent_id":85864013,
     "wof:placetype":"venue",

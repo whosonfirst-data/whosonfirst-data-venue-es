@@ -2,6 +2,10 @@
   "id": 1007703443,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Gabriel Roca, 45 Sant Agusti Islas Baleares 07015",
+    "addr:housenumber":"45",
+    "addr:postcode":"07015",
+    "addr:street":"Av Gabriel Roca",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1007703443,
-    "wof:lastmodified":1472581132,
+    "wof:lastmodified":1472768056,
     "wof:name":"International Business Machines S.a.e.",
     "wof:parent_id":85864109,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991634721,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Ramon Turro, 252 Barcelona Barcelona 08005",
+    "addr:housenumber":"252",
+    "addr:postcode":"08005",
+    "addr:street":"Carrer De Ramon Turro",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":991634721,
-    "wof:lastmodified":1472561963,
+    "wof:lastmodified":1472770130,
     "wof:name":"Fernandez Borras Montserrat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

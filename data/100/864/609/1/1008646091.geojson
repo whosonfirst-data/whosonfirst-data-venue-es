@@ -2,6 +2,10 @@
   "id": 1008646091,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de San Fidel, 69 Madrid Madrid 28017",
+    "addr:housenumber":"69",
+    "addr:postcode":"madrid;28017",
+    "addr:street":"Calle De San Fidel",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008646091,
-    "wof:lastmodified":1472636239,
+    "wof:lastmodified":1472768815,
     "wof:name":"Transfer Papel S.l.",
     "wof:parent_id":85863697,
     "wof:placetype":"venue",

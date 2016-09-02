@@ -2,6 +2,10 @@
   "id": 990926603,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Catalunya, 25 S. Andreu Barca Barcelona 08740",
+    "addr:housenumber":"25",
+    "addr:postcode":"08740",
+    "addr:street":"Carrer De Catalunya;S. Andreu;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990926603,
-    "wof:lastmodified":1472511002,
+    "wof:lastmodified":1472767623,
     "wof:name":"Alcolea Viladrich Ana",
     "wof:parent_id":85864241,
     "wof:placetype":"venue",

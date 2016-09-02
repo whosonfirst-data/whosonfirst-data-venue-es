@@ -2,6 +2,10 @@
   "id": 1007970497,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Constitucio, 136 Barcelona Barcelona 08014",
+    "addr:housenumber":"136",
+    "addr:postcode":"08014",
+    "addr:street":"Carrer De Constitucio",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007970497,
-    "wof:lastmodified":1472593976,
+    "wof:lastmodified":1472766851,
     "wof:name":"Medina Cano Sergio",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008049389,
   "type": "Feature",
   "properties": {
+    "addr:full":"G.v. Corts Catalanes, 162 Barcelona Barcelona 08038",
+    "addr:housenumber":"162",
+    "addr:postcode":"08038",
+    "addr:street":"Catalanes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008049389,
-    "wof:lastmodified":1472597308,
+    "wof:lastmodified":1472769344,
     "wof:name":"Morillas Morillas Marcelino",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",

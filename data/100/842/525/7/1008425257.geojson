@@ -2,6 +2,10 @@
   "id": 1008425257,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sagrera, 110 Barcelona Barcelona 08027",
+    "addr:housenumber":"110",
+    "addr:postcode":"08027",
+    "addr:street":"Carrer De Sagrera",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008425257,
-    "wof:lastmodified":1472626926,
+    "wof:lastmodified":1472768549,
     "wof:name":"Ruiz Sentis Montserrat",
     "wof:parent_id":85864003,
     "wof:placetype":"venue",

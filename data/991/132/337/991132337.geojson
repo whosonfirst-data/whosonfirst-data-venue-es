@@ -2,6 +2,10 @@
   "id": 991132337,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Amilcar, 138 Barcelona Barcelona 08032",
+    "addr:housenumber":"138",
+    "addr:postcode":"08032",
+    "addr:street":"Carrer De Amilcar",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991132337,
-    "wof:lastmodified":1472529736,
+    "wof:lastmodified":1472767278,
     "wof:name":"Belmonte S.c.p.",
     "wof:parent_id":85863997,
     "wof:placetype":"venue",

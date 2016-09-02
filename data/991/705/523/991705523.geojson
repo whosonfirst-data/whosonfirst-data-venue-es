@@ -2,6 +2,10 @@
   "id": 991705523,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Corsega, 230 Barcelona Barcelona 08036",
+    "addr:housenumber":"230",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Corsega",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991705523,
-    "wof:lastmodified":1472565719,
+    "wof:lastmodified":1472770344,
     "wof:name":"Fundacio Musica Contemporania",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

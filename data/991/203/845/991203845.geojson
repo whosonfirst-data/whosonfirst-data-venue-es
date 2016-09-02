@@ -2,6 +2,10 @@
   "id": 991203845,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Ciutat, 1 Barcelona Barcelona 08002",
+    "addr:housenumber":"1",
+    "addr:postcode":"08002",
+    "addr:street":"Carrer De Ciutat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991203845,
-    "wof:lastmodified":1472536779,
+    "wof:lastmodified":1472768123,
     "wof:name":"Caixa D'estalvis I Pensions De Barcelona",
     "wof:parent_id":85864033,
     "wof:placetype":"venue",

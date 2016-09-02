@@ -2,6 +2,10 @@
   "id": 1024470299,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Pou, 21 Barcelona Barcelona 08016",
+    "addr:housenumber":"21",
+    "addr:postcode":"08016",
+    "addr:street":"Carrer De Pou",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1024470299,
-    "wof:lastmodified":1472640358,
+    "wof:lastmodified":1472766786,
     "wof:name":"Vivanco Castillo Flor",
     "wof:parent_id":85799517,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1007812275,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Alegria De Oria, 45 Madrid Madrid 28027",
+    "addr:housenumber":"45",
+    "addr:postcode":"madrid;28027",
+    "addr:street":"Calle De Alegria De Oria",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007812275,
-    "wof:lastmodified":1472586966,
+    "wof:lastmodified":1472767513,
     "wof:name":"Litis Gestion S.l.",
     "wof:parent_id":85863633,
     "wof:placetype":"venue",

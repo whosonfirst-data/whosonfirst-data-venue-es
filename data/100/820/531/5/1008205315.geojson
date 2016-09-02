@@ -2,6 +2,10 @@
   "id": 1008205315,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Cea Bermudez, 38 Madrid Madrid 28003",
+    "addr:housenumber":"38",
+    "addr:postcode":"madrid;28003",
+    "addr:street":"Calle De Cea Bermudez",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008205315,
-    "wof:lastmodified":1472610723,
+    "wof:lastmodified":1472768497,
     "wof:name":"Pereda Rodriguez Maria Del Carmen",
     "wof:parent_id":85863653,
     "wof:placetype":"venue",

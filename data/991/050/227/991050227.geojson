@@ -2,6 +2,10 @@
   "id": 991050227,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Alfonso Xiii, 72 Madrid Madrid 28016",
+    "addr:housenumber":"72",
+    "addr:postcode":"madrid;28016",
+    "addr:street":"Avda Alfonso Xiii",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991050227,
-    "wof:lastmodified":1472522940,
+    "wof:lastmodified":1472766753,
     "wof:name":"Auditores De Energia S.a.",
     "wof:parent_id":85863599,
     "wof:placetype":"venue",

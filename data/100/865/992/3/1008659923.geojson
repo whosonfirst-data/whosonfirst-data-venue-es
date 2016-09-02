@@ -2,6 +2,10 @@
   "id": 1008659923,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ctra Hospitalet, 147 Almeda Mercader Barcelona 08940",
+    "addr:housenumber":"147",
+    "addr:postcode":"08940",
+    "addr:street":"Ctra Hospitalet;Mercader Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008659923,
-    "wof:lastmodified":1472636808,
+    "wof:lastmodified":1472769555,
     "wof:name":"T-systems Itc Services Espa\u00d1a S.a.",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",

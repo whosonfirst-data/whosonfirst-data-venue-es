@@ -2,6 +2,10 @@
   "id": 1008478975,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Joan Miro, 19 Barcelona Barcelona 08005",
+    "addr:housenumber":"19",
+    "addr:postcode":"08005",
+    "addr:street":"Carrer De Joan Miro",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1008478975,
-    "wof:lastmodified":1472629078,
+    "wof:lastmodified":1472769428,
     "wof:name":"Sanz Cano Maria Jose",
     "wof:parent_id":85799173,
     "wof:placetype":"venue",

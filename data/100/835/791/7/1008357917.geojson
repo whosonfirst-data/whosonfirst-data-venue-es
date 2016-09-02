@@ -2,6 +2,10 @@
   "id": 1008357917,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de L'agricultura, 290 Barcelona Barcelona 08020",
+    "addr:housenumber":"290",
+    "addr:postcode":"08020",
+    "addr:street":"Carrer De L'Agricultura",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008357917,
-    "wof:lastmodified":1472623843,
+    "wof:lastmodified":1472769121,
     "wof:name":"Riera Ranz C.b.",
     "wof:parent_id":85864011,
     "wof:placetype":"venue",

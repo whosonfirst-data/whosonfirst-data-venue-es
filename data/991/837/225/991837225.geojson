@@ -2,6 +2,10 @@
   "id": 991837225,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de La Rambla, 36 Barcelona Barcelona 08002",
+    "addr:housenumber":"36",
+    "addr:postcode":"08002",
+    "addr:street":"Carrer De La Rambla",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991837225,
-    "wof:lastmodified":1472574008,
+    "wof:lastmodified":1472770348,
     "wof:name":"Gonzalez Vera Jose",
     "wof:parent_id":85864033,
     "wof:placetype":"venue",

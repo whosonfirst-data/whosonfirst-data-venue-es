@@ -2,6 +2,10 @@
   "id": 1007752499,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Santander, 130 Barcelona Barcelona 08030",
+    "addr:housenumber":"130",
+    "addr:postcode":"08030",
+    "addr:street":"Carrer De Santander",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1007752499,
-    "wof:lastmodified":1472583812,
+    "wof:lastmodified":1472767643,
     "wof:name":"Juan Ca\u00f1ada Antonio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

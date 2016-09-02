@@ -2,6 +2,10 @@
   "id": 1024467385,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Corsega, 217 Barcelona Barcelona 08036",
+    "addr:housenumber":"217",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Corsega",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1024467385,
-    "wof:lastmodified":1472640229,
+    "wof:lastmodified":1472768957,
     "wof:name":"Vinyals Grau Merce",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

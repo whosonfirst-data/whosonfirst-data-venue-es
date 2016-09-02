@@ -2,6 +2,10 @@
   "id": 1007829129,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda General Fanjul, 36 Madrid Madrid 28044",
+    "addr:housenumber":"36",
+    "addr:postcode":"madrid;28044",
+    "addr:street":"Avda General Fanjul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007829129,
-    "wof:lastmodified":1472587671,
+    "wof:lastmodified":1472769183,
     "wof:name":"Lopez Arteaga Edison Hambet",
     "wof:parent_id":85863817,
     "wof:placetype":"venue",

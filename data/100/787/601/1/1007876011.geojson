@@ -2,6 +2,10 @@
   "id": 1007876011,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Baviera, 18 Madrid Madrid 28028",
+    "addr:housenumber":"18",
+    "addr:postcode":"madrid;28028",
+    "addr:street":"Avda Baviera",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007876011,
-    "wof:lastmodified":1472589944,
+    "wof:lastmodified":1472768705,
     "wof:name":"Management Arior S.l.",
     "wof:parent_id":85799435,
     "wof:placetype":"venue",

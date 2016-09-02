@@ -2,6 +2,10 @@
   "id": 1008330865,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Cesar Augusto, 111 Zaragoza Zaragoza 50003",
+    "addr:housenumber":"111",
+    "addr:postcode":"50003",
+    "addr:street":"Avda Cesar Augusto",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008330865,
-    "wof:lastmodified":1472622647,
+    "wof:lastmodified":1472766904,
     "wof:name":"Redondo Rodrigo Mariano",
     "wof:parent_id":85863307,
     "wof:placetype":"venue",

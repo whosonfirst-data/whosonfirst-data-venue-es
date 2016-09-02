@@ -2,6 +2,10 @@
   "id": 1008253753,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Espinela, 38 Madrid Madrid 28021",
+    "addr:housenumber":"38",
+    "addr:postcode":"madrid;28021",
+    "addr:street":"Avda Espinela",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008253753,
-    "wof:lastmodified":1472616224,
+    "wof:lastmodified":1472768183,
     "wof:name":"Plaza Cuesta Miguel Angel",
     "wof:parent_id":85799667,
     "wof:placetype":"venue",

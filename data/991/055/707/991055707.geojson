@@ -2,6 +2,10 @@
   "id": 991055707,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Marques De Corbera, 89 Madrid Madrid 28017",
+    "addr:housenumber":"89",
+    "addr:postcode":"madrid;28017",
+    "addr:street":"Avda Marques De Corbera",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":991055707,
-    "wof:lastmodified":1472523330,
+    "wof:lastmodified":1472766944,
     "wof:name":"Auto Escuela Balmaseda S. A.",
     "wof:parent_id":85863695,
     "wof:placetype":"venue",

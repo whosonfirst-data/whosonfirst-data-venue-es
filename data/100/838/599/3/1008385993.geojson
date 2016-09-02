@@ -2,6 +2,10 @@
   "id": 1008385993,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Pelicano, 20 Madrid Madrid 28025",
+    "addr:housenumber":"20",
+    "addr:postcode":"madrid;28025",
+    "addr:street":"Calle De Pelicano",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008385993,
-    "wof:lastmodified":1472625075,
+    "wof:lastmodified":1472768713,
     "wof:name":"Rodriguez Pasarin Jose",
     "wof:parent_id":85863761,
     "wof:placetype":"venue",

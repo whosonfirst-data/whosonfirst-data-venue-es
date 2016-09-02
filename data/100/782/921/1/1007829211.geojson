@@ -2,6 +2,10 @@
   "id": 1007829211,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Verdi, 339 Barcelona Barcelona 08024",
+    "addr:housenumber":"339",
+    "addr:postcode":"08024",
+    "addr:street":"Carrer De Verdi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1007829211,
-    "wof:lastmodified":1472587675,
+    "wof:lastmodified":1472769211,
     "wof:name":"Lopez Au\u00f1on Jesus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

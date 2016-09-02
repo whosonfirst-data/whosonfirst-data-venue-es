@@ -2,6 +2,10 @@
   "id": 1008614139,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Casanova, 105 Barcelona Barcelona 08036",
+    "addr:housenumber":"105",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Casanova",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008614139,
-    "wof:lastmodified":1472634888,
+    "wof:lastmodified":1472768331,
     "wof:name":"Tello Paniagua Paula",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991524463,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Industria, 273 Barcelona Barcelona 08041",
+    "addr:housenumber":"273",
+    "addr:postcode":"08041",
+    "addr:street":"Carrer De Industria",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991524463,
-    "wof:lastmodified":1472555659,
+    "wof:lastmodified":1472770038,
     "wof:name":"Dominguez-vives S.c.p.",
     "wof:parent_id":85864001,
     "wof:placetype":"venue",

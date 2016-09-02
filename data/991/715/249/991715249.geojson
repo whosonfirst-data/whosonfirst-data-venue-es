@@ -2,6 +2,10 @@
   "id": 991715249,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Aribau, 103 Barcelona Barcelona 08036",
+    "addr:housenumber":"103",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Aribau",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991715249,
-    "wof:lastmodified":1472566213,
+    "wof:lastmodified":1472770252,
     "wof:name":"Gabaldon Fraile Sabel",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

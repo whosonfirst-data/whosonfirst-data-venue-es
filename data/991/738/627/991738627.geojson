@@ -2,6 +2,10 @@
   "id": 991738627,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Toledo, 90 Madrid Madrid 28005",
+    "addr:housenumber":"90",
+    "addr:postcode":"madrid;28005",
+    "addr:street":"Calle De Toledo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991738627,
-    "wof:lastmodified":1472567404,
+    "wof:lastmodified":1472770392,
     "wof:name":"Garcia Casta\u00f1os Ignacio",
     "wof:parent_id":85863775,
     "wof:placetype":"venue",

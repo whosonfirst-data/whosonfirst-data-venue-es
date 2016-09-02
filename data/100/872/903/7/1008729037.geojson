@@ -2,6 +2,10 @@
   "id": 1008729037,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Calvet, 52 Barcelona Barcelona 08021",
+    "addr:housenumber":"52",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De Calvet",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008729037,
-    "wof:lastmodified":1472639819,
+    "wof:lastmodified":1472769471,
     "wof:name":"Vila Monche Wenceslao",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

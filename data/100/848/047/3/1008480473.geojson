@@ -2,6 +2,10 @@
   "id": 1008480473,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Principe, 14 Madrid Madrid 28012",
+    "addr:housenumber":"14",
+    "addr:postcode":"madrid;28012",
+    "addr:street":"Calle De Principe",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008480473,
-    "wof:lastmodified":1472629140,
+    "wof:lastmodified":1472766815,
     "wof:name":"Sanz Olmo Rodolfo",
     "wof:parent_id":85863685,
     "wof:placetype":"venue",

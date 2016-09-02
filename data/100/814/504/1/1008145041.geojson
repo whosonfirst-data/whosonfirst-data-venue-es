@@ -2,6 +2,10 @@
   "id": 1008145041,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Padilla, 268 Barcelona Barcelona 08025",
+    "addr:housenumber":"268",
+    "addr:postcode":"08025",
+    "addr:street":"Carrer De Padilla",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008145041,
-    "wof:lastmodified":1472601616,
+    "wof:lastmodified":1472768325,
     "wof:name":"Otsuka Pharmaceutical S.a.",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

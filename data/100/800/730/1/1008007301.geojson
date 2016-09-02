@@ -2,6 +2,10 @@
   "id": 1008007301,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Lepant, 266 Barcelona Barcelona 08013",
+    "addr:housenumber":"266",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Lepant",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008007301,
-    "wof:lastmodified":1472595503,
+    "wof:lastmodified":1472768646,
     "wof:name":"Miret Vitores Francisco Javier",
     "wof:parent_id":85864013,
     "wof:placetype":"venue",

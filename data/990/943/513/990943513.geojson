@@ -2,6 +2,10 @@
   "id": 990943513,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Pedro Villar, 11 Madrid Madrid 28020",
+    "addr:housenumber":"11",
+    "addr:postcode":"madrid;28020",
+    "addr:street":"Calle De Pedro Villar",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990943513,
-    "wof:lastmodified":1472512921,
+    "wof:lastmodified":1472767621,
     "wof:name":"Alonso Carbajo Jose Antonio",
     "wof:parent_id":85863603,
     "wof:placetype":"venue",

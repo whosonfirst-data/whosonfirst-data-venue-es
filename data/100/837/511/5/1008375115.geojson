@@ -2,6 +2,10 @@
   "id": 1008375115,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Padre Garcia Tejero, 13 Sevilla Sevilla 41012",
+    "addr:housenumber":"13",
+    "addr:postcode":"41012",
+    "addr:street":"Avda Padre;Tejero",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008375115,
-    "wof:lastmodified":1472624569,
+    "wof:lastmodified":1472768573,
     "wof:name":"Rodriguez Calzada Jose",
     "wof:parent_id":85864193,
     "wof:placetype":"venue",

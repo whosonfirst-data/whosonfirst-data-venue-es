@@ -2,6 +2,10 @@
   "id": 1008022695,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda America, 7 Madrid Madrid 28002",
+    "addr:housenumber":"7",
+    "addr:postcode":"madrid;28002",
+    "addr:street":"Avda America",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008022695,
-    "wof:lastmodified":1472596160,
+    "wof:lastmodified":1472767500,
     "wof:name":"Monedero Instalaciones Y Servicios S.a.",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",

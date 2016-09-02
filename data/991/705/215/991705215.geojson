@@ -2,6 +2,10 @@
   "id": 991705215,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Arago, 297 Barcelona Barcelona 08009",
+    "addr:housenumber":"297",
+    "addr:postcode":"08009",
+    "addr:street":"Carrer De Arago",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991705215,
-    "wof:lastmodified":1472565707,
+    "wof:lastmodified":1472770241,
     "wof:name":"Fundacio De Salut Mental Cpb",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

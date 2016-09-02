@@ -2,6 +2,10 @@
   "id": 1008322225,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de San Raimundo, 16 Madrid Madrid 28039",
+    "addr:housenumber":"16",
+    "addr:postcode":"madrid;28039",
+    "addr:street":"Calle De San",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008322225,
-    "wof:lastmodified":1472622269,
+    "wof:lastmodified":1472767637,
     "wof:name":"Raymovil S.l.",
     "wof:parent_id":85799245,
     "wof:placetype":"venue",

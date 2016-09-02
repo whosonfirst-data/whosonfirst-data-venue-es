@@ -2,6 +2,10 @@
   "id": 1008268621,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ctra Mig, 67 Almeda Mercader Barcelona 08940",
+    "addr:housenumber":"67",
+    "addr:postcode":"08940",
+    "addr:street":"Ctra Mig;Mercader Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008268621,
-    "wof:lastmodified":1472617011,
+    "wof:lastmodified":1472769343,
     "wof:name":"Prat Munne S. L.",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",

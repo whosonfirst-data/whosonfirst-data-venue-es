@@ -2,6 +2,10 @@
   "id": 991050447,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Adria, 89 Barcelona Barcelona 08030",
+    "addr:housenumber":"89",
+    "addr:postcode":"08030",
+    "addr:street":"Carrer De Sant Adria",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991050447,
-    "wof:lastmodified":1472522956,
+    "wof:lastmodified":1472766831,
     "wof:name":"Augusta Hospitalet S. A.",
     "wof:parent_id":85799559,
     "wof:placetype":"venue",

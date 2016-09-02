@@ -2,6 +2,10 @@
   "id": 1008257225,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Pau, 90 Barcelona Barcelona 08001",
+    "addr:housenumber":"90",
+    "addr:postcode":"08001",
+    "addr:street":"Carrer De Sant Pau",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1008257225,
-    "wof:lastmodified":1472616409,
+    "wof:lastmodified":1472769060,
     "wof:name":"Polo Campos Raul",
     "wof:parent_id":85864035,
     "wof:placetype":"venue",

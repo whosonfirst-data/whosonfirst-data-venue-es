@@ -2,6 +2,10 @@
   "id": 991310529,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Girona, 46 Barcelona Barcelona 08009",
+    "addr:housenumber":"46",
+    "addr:postcode":"08009",
+    "addr:street":"Carrer De Girona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":991310529,
-    "wof:lastmodified":1472543136,
+    "wof:lastmodified":1472769704,
     "wof:name":"Centre Catala D'assessorament S. A",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

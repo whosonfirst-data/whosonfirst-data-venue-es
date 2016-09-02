@@ -2,6 +2,10 @@
   "id": 991817449,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Atocha, 7 Madrid Madrid 28012",
+    "addr:housenumber":"7",
+    "addr:postcode":"madrid;28012",
+    "addr:street":"Calle De Atocha",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991817449,
-    "wof:lastmodified":1472572892,
+    "wof:lastmodified":1472770425,
     "wof:name":"Gonzalea Fernandez Vicente",
     "wof:parent_id":85863747,
     "wof:placetype":"venue",

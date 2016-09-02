@@ -2,6 +2,10 @@
   "id": 1007931781,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Joan Miro, 300 Sant Agusti Islas Baleares 07015",
+    "addr:housenumber":"300",
+    "addr:postcode":"07015",
+    "addr:street":"Av Joan Miro;Sant Agusti",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1007931781,
-    "wof:lastmodified":1472592315,
+    "wof:lastmodified":1472767340,
     "wof:name":"Martinez Parra Susana",
     "wof:parent_id":85864109,
     "wof:placetype":"venue",

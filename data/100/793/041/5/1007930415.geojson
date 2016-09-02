@@ -2,6 +2,10 @@
   "id": 1007930415,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Alcala, 242 Madrid Madrid 28027",
+    "addr:housenumber":"242",
+    "addr:postcode":"28027",
+    "addr:street":"Calle De Alcala",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007930415,
-    "wof:lastmodified":1472592253,
+    "wof:lastmodified":1472766795,
     "wof:name":"Martinez Moran Paloma",
     "wof:parent_id":85863683,
     "wof:placetype":"venue",

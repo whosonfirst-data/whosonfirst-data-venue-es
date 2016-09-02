@@ -2,6 +2,10 @@
   "id": 991575923,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Miquel Angel, 113 Barcelona Barcelona 08028",
+    "addr:housenumber":"113",
+    "addr:postcode":"08028",
+    "addr:street":"Carrer De Miquel Angel",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991575923,
-    "wof:lastmodified":1472558509,
+    "wof:lastmodified":1472770190,
     "wof:name":"Escoda Escoda Merce",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

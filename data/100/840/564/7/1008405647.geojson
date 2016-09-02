@@ -2,6 +2,10 @@
   "id": 1008405647,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Amilcar, 56 Barcelona Barcelona 08031",
+    "addr:housenumber":"56",
+    "addr:postcode":"08031",
+    "addr:street":"Carrer De Amilcar",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008405647,
-    "wof:lastmodified":1472625966,
+    "wof:lastmodified":1472768728,
     "wof:name":"Rosa Ribera Jaime",
     "wof:parent_id":85799399,
     "wof:placetype":"venue",

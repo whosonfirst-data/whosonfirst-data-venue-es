@@ -2,6 +2,10 @@
   "id": 1008168387,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Guardia, 7 Barcelona Barcelona 08001",
+    "addr:housenumber":"7",
+    "addr:postcode":"08001",
+    "addr:street":"Carrer De Guardia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008168387,
-    "wof:lastmodified":1472603715,
+    "wof:lastmodified":1472769343,
     "wof:name":"Pares Ferrer Juana",
     "wof:parent_id":85864033,
     "wof:placetype":"venue",

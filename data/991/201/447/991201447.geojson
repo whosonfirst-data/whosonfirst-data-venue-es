@@ -2,6 +2,10 @@
   "id": 991201447,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Muntaner, 271 Barcelona Barcelona 08021",
+    "addr:housenumber":"271",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De Muntaner",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991201447,
-    "wof:lastmodified":1472536611,
+    "wof:lastmodified":1472768076,
     "wof:name":"Caixa D'estalvis De Catalunya",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991420013,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Casp, 33 Barcelona Barcelona 08010",
+    "addr:housenumber":"33",
+    "addr:postcode":"08010",
+    "addr:street":"Carrer De Casp",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":991420013,
-    "wof:lastmodified":1472549944,
+    "wof:lastmodified":1472769580,
     "wof:name":"Consulado General De Chile En Barcelona",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

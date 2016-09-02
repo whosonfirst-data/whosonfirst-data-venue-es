@@ -2,6 +2,10 @@
   "id": 1008157639,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Marti, 67 Barcelona Barcelona 08024",
+    "addr:housenumber":"67",
+    "addr:postcode":"08024",
+    "addr:street":"Carrer De Marti",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008157639,
-    "wof:lastmodified":1472602410,
+    "wof:lastmodified":1472769191,
     "wof:name":"Pamies Torras Antonio",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

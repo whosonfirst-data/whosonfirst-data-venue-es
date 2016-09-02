@@ -2,6 +2,10 @@
   "id": 991356325,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Camino De Santiago, 45 Madrid Madrid 28050",
+    "addr:housenumber":"45",
+    "addr:postcode":"madrid;28050",
+    "addr:street":"Avda Camino De Santiago",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":991356325,
-    "wof:lastmodified":1472545571,
+    "wof:lastmodified":1472769717,
     "wof:name":"Cobo Solano Jose Ramon",
     "wof:parent_id":85799389,
     "wof:placetype":"venue",

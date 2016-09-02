@@ -2,6 +2,10 @@
   "id": 1007999781,
   "type": "Feature",
   "properties": {
+    "addr:full":"G.v. Corts Catalanes, 562 Barcelona Barcelona 08011",
+    "addr:housenumber":"562",
+    "addr:postcode":"08011",
+    "addr:street":"Catalanes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1007999781,
-    "wof:lastmodified":1472595188,
+    "wof:lastmodified":1472769410,
     "wof:name":"Milla Paradell Montserrat",
     "wof:parent_id":85864027,
     "wof:placetype":"venue",

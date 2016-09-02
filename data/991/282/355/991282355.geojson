@@ -2,6 +2,10 @@
   "id": 991282355,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Mallorca, 325 Barcelona Barcelona 08037",
+    "addr:housenumber":"325",
+    "addr:postcode":"08037",
+    "addr:street":"Carrer De Mallorca",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991282355,
-    "wof:lastmodified":1472541844,
+    "wof:lastmodified":1472769698,
     "wof:name":"Casals Coll Joaquin",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

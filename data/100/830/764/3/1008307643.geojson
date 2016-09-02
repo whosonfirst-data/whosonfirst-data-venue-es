@@ -2,6 +2,10 @@
   "id": 1008307643,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Valencia, 160 Barcelona Barcelona 08011",
+    "addr:housenumber":"160",
+    "addr:postcode":"08011",
+    "addr:street":"Carrer De Valencia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008307643,
-    "wof:lastmodified":1472621698,
+    "wof:lastmodified":1472769061,
     "wof:name":"Rabassa Pascual Agustin",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

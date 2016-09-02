@@ -2,6 +2,10 @@
   "id": 975165691,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Balmes, 126 Barcelona Barcelona 08008",
+    "addr:housenumber":"126",
+    "addr:postcode":"08008",
+    "addr:street":"Carrer De Balmes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":975165691,
-    "wof:lastmodified":1472508194,
+    "wof:lastmodified":1472767325,
     "wof:name":"A. Garriga S.a.",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

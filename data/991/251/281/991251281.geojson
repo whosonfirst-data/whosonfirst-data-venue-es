@@ -2,6 +2,10 @@
   "id": 991251281,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Diputacio, 310 Barcelona Barcelona 08009",
+    "addr:housenumber":"310",
+    "addr:postcode":"08009",
+    "addr:street":"Carrer De Diputacio",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":991251281,
-    "wof:lastmodified":1472540137,
+    "wof:lastmodified":1472768266,
     "wof:name":"Capellas Fatjo Ramon",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

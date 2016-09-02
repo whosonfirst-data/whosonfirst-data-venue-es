@@ -2,6 +2,10 @@
   "id": 991012919,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pase Ferroviarios, 63 Madrid Madrid 28021",
+    "addr:housenumber":"63",
+    "addr:postcode":"madrid;28021",
+    "addr:street":"Ferroviarios",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991012919,
-    "wof:lastmodified":1472520152,
+    "wof:lastmodified":1472767043,
     "wof:name":"Arroyo Lozano Eutimio",
     "wof:parent_id":85799667,
     "wof:placetype":"venue",

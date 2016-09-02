@@ -2,6 +2,10 @@
   "id": 1007921751,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Juan De Mena, 5 Barcelona Barcelona 08035",
+    "addr:housenumber":"5",
+    "addr:postcode":"08035",
+    "addr:street":"Carrer De Juan De Mena",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1007921751,
-    "wof:lastmodified":1472591828,
+    "wof:lastmodified":1472767471,
     "wof:name":"Martinez Cuevas Jesus",
     "wof:parent_id":85799471,
     "wof:placetype":"venue",

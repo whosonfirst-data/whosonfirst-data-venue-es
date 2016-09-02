@@ -2,6 +2,10 @@
   "id": 1008608221,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Fernando Pessoa, 9 Barcelona Barcelona 08030",
+    "addr:housenumber":"9",
+    "addr:postcode":"08030",
+    "addr:street":"Carrer De Fernando Pessoa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008608221,
-    "wof:lastmodified":1472634607,
+    "wof:lastmodified":1472769257,
     "wof:name":"Teixido Casals Josefa",
     "wof:parent_id":85799559,
     "wof:placetype":"venue",

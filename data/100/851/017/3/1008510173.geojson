@@ -2,6 +2,10 @@
   "id": 1008510173,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Unidad, S/n Castilleja Cuesta Sevilla 41950",
+    "addr:housenumber":"s / n",
+    "addr:postcode":"41950",
+    "addr:street":"Avda Unidad;Castilleja Cuesta Sevilla",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008510173,
-    "wof:lastmodified":1472630450,
+    "wof:lastmodified":1472766708,
     "wof:name":"Servicio Andaluz De Salud",
     "wof:parent_id":85864123,
     "wof:placetype":"venue",

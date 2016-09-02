@@ -2,6 +2,10 @@
   "id": 1008272389,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Ariza, 130 Madrid Madrid 28047",
+    "addr:housenumber":"130",
+    "addr:postcode":"28047",
+    "addr:street":"Calle De Ariza",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008272389,
-    "wof:lastmodified":1472617224,
+    "wof:lastmodified":1472767746,
     "wof:name":"Prieto Almena Generoso",
     "wof:parent_id":85863767,
     "wof:placetype":"venue",

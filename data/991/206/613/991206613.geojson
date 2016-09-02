@@ -2,6 +2,10 @@
   "id": 991206613,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Camino De Santiago, 45 Madrid Madrid 28050",
+    "addr:housenumber":"45",
+    "addr:postcode":"madrid;28050",
+    "addr:street":"Avda Camino De Santiago",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":991206613,
-    "wof:lastmodified":1472537024,
+    "wof:lastmodified":1472768153,
     "wof:name":"Caixa D'estalvis I Pensions De Barcelona",
     "wof:parent_id":85799389,
     "wof:placetype":"venue",

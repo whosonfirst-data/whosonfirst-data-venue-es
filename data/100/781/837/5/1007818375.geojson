@@ -2,6 +2,10 @@
   "id": 1007818375,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de 31 De Desembre, 9 Palma Islas Baleares 07003",
+    "addr:housenumber":"31;9",
+    "addr:postcode":"07003",
+    "addr:street":"Carrer De;Desembre",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007818375,
-    "wof:lastmodified":1472587216,
+    "wof:lastmodified":1472768937,
     "wof:name":"Llinas Ramirez Pablo",
     "wof:parent_id":85864097,
     "wof:placetype":"venue",

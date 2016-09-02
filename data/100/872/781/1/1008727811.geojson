@@ -2,6 +2,10 @@
   "id": 1008727811,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sardenya, 499 Barcelona Barcelona 08024",
+    "addr:housenumber":"499",
+    "addr:postcode":"08024",
+    "addr:street":"Carrer De Sardenya",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008727811,
-    "wof:lastmodified":1472639744,
+    "wof:lastmodified":1472769238,
     "wof:name":"Vila Armengol Maria Del Carmen",
     "wof:parent_id":85863993,
     "wof:placetype":"venue",

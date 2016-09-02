@@ -2,6 +2,10 @@
   "id": 1008638977,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Goya, 60 Zaragoza Zaragoza 50005",
+    "addr:housenumber":"60",
+    "addr:postcode":"50005",
+    "addr:street":"Avda Goya",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008638977,
-    "wof:lastmodified":1472635919,
+    "wof:lastmodified":1472769496,
     "wof:name":"Torres Miguel Maria",
     "wof:parent_id":85863361,
     "wof:placetype":"venue",

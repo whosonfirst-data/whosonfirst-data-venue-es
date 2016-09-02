@@ -2,6 +2,10 @@
   "id": 1008163363,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Energia, 112 Almeda Mercader Barcelona 08940",
+    "addr:housenumber":"112",
+    "addr:postcode":"08940",
+    "addr:street":"Carrer De Energia;Mercader Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008163363,
-    "wof:lastmodified":1472603067,
+    "wof:lastmodified":1472767990,
     "wof:name":"Panlab S. L.",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",

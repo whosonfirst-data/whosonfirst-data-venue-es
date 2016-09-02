@@ -2,6 +2,10 @@
   "id": 1008690515,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Ricardo Ortiz, 42 Madrid Madrid 28017",
+    "addr:housenumber":"42",
+    "addr:postcode":"madrid;28017",
+    "addr:street":"Calle De Ricardo Ortiz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008690515,
-    "wof:lastmodified":1472638096,
+    "wof:lastmodified":1472766888,
     "wof:name":"Valverde Diaz Mercedes",
     "wof:parent_id":85863683,
     "wof:placetype":"venue",

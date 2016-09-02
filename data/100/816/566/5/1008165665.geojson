@@ -2,6 +2,10 @@
   "id": 1008165665,
   "type": "Feature",
   "properties": {
+    "addr:full":"Plaz Ribadeo, 13 Madrid Madrid 28029",
+    "addr:housenumber":"13",
+    "addr:postcode":"madrid;28029",
+    "addr:street":"Ribadeo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008165665,
-    "wof:lastmodified":1472603318,
+    "wof:lastmodified":1472768710,
     "wof:name":"Paramo Neyra Mercedes",
     "wof:parent_id":85863551,
     "wof:placetype":"venue",

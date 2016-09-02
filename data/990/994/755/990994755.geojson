@@ -2,6 +2,10 @@
   "id": 990994755,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pl Rovira I Trias, 2 Barcelona Barcelona 08024",
+    "addr:housenumber":"2",
+    "addr:postcode":"08024",
+    "addr:street":"Pl;Trias",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990994755,
-    "wof:lastmodified":1472518691,
+    "wof:lastmodified":1472768146,
     "wof:name":"Arcarons Simo Jaime",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

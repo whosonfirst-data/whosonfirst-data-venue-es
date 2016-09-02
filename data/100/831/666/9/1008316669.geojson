@@ -2,6 +2,10 @@
   "id": 1008316669,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Besalu, 93 Barcelona Barcelona 08026",
+    "addr:housenumber":"93",
+    "addr:postcode":"08026",
+    "addr:street":"Carrer De Besalu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008316669,
-    "wof:lastmodified":1472622059,
+    "wof:lastmodified":1472768967,
     "wof:name":"Ramon Rovira Rogelio",
     "wof:parent_id":85864003,
     "wof:placetype":"venue",

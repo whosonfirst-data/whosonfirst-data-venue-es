@@ -2,6 +2,10 @@
   "id": 1008386295,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Paris, 67 Barcelona Barcelona 08029",
+    "addr:housenumber":"67",
+    "addr:postcode":"08029",
+    "addr:street":"Carrer De Paris",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008386295,
-    "wof:lastmodified":1472625092,
+    "wof:lastmodified":1472768776,
     "wof:name":"Rodriguez Perez Elio",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

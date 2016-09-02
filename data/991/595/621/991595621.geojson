@@ -2,6 +2,10 @@
   "id": 991595621,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Camp Arriassa, 119 Barcelona Barcelona 08020",
+    "addr:housenumber":"119",
+    "addr:postcode":"08020",
+    "addr:street":"Carrer De Camp Arriassa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991595621,
-    "wof:lastmodified":1472559404,
+    "wof:lastmodified":1472770155,
     "wof:name":"Estrada Espada Agustin",
     "wof:parent_id":85864011,
     "wof:placetype":"venue",

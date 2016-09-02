@@ -2,6 +2,10 @@
   "id": 1008502513,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Ferrocarril, 20 Madrid Madrid 28045",
+    "addr:housenumber":"20",
+    "addr:postcode":"madrid;28045",
+    "addr:street":"Calle De Ferrocarril",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1008502513,
-    "wof:lastmodified":1472630131,
+    "wof:lastmodified":1472767635,
     "wof:name":"Serprogesa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

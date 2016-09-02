@@ -2,6 +2,10 @@
   "id": 1007985661,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Tembleque, 66 Madrid Madrid 28024",
+    "addr:housenumber":"66",
+    "addr:postcode":"madrid;28024",
+    "addr:street":"Calle De Tembleque",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007985661,
-    "wof:lastmodified":1472594549,
+    "wof:lastmodified":1472768348,
     "wof:name":"Mercaparque Cb",
     "wof:parent_id":85799479,
     "wof:placetype":"venue",

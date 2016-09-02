@@ -2,6 +2,10 @@
   "id": 1008640893,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Cartagena, 315 Barcelona Barcelona 08025",
+    "addr:housenumber":"315",
+    "addr:postcode":"08025",
+    "addr:street":"Carrer De Cartagena",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1008640893,
-    "wof:lastmodified":1472635998,
+    "wof:lastmodified":1472767029,
     "wof:name":"Torrijo Tapia Lidia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

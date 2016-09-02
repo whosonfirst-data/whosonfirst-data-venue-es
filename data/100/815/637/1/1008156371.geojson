@@ -2,6 +2,10 @@
   "id": 1008156371,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Horta, 223 Barcelona Barcelona 08032",
+    "addr:housenumber":"223",
+    "addr:postcode":"08032",
+    "addr:street":"Carrer De Horta",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008156371,
-    "wof:lastmodified":1472602273,
+    "wof:lastmodified":1472768897,
     "wof:name":"Palomas Prats Rosa",
     "wof:parent_id":85799399,
     "wof:placetype":"venue",

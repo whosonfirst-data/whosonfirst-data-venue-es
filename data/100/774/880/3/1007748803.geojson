@@ -2,6 +2,10 @@
   "id": 1007748803,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Pau, 88 Barcelona Barcelona 08001",
+    "addr:housenumber":"88",
+    "addr:postcode":"08001",
+    "addr:street":"Carrer De Sant Pau",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007748803,
-    "wof:lastmodified":1472583603,
+    "wof:lastmodified":1472769282,
     "wof:name":"Jove Vila Josefina",
     "wof:parent_id":85864035,
     "wof:placetype":"venue",

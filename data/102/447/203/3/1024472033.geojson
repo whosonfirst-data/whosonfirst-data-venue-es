@@ -2,6 +2,10 @@
   "id": 1024472033,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Nadal, 50 Barcelona Barcelona 08030",
+    "addr:housenumber":"50",
+    "addr:postcode":"08030",
+    "addr:street":"Carrer De Nadal",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1024472033,
-    "wof:lastmodified":1472640439,
+    "wof:lastmodified":1472767554,
     "wof:name":"Vives Subirana Francisca Ana",
     "wof:parent_id":85863995,
     "wof:placetype":"venue",

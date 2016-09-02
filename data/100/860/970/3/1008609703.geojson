@@ -2,6 +2,10 @@
   "id": 1008609703,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Casp, 33 Barcelona Barcelona 08010",
+    "addr:housenumber":"33",
+    "addr:postcode":"08010",
+    "addr:street":"Carrer De Casp",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":1008609703,
-    "wof:lastmodified":1472634683,
+    "wof:lastmodified":1472769520,
     "wof:name":"Tejidos Cornejo S. A.",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

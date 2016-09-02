@@ -2,6 +2,10 @@
   "id": 1008033901,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Verge Montserrat, 61 Prat Llobregat Barcelona 08820",
+    "addr:housenumber":"61",
+    "addr:postcode":"08820",
+    "addr:street":"Av Verge Montserrat;Llobregat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008033901,
-    "wof:lastmodified":1472596642,
+    "wof:lastmodified":1472768293,
     "wof:name":"Montserrat Gustems Jaime",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",

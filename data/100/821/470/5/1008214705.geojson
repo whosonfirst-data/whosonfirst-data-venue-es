@@ -2,6 +2,10 @@
   "id": 1008214705,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Diputacio, 113 Barcelona Barcelona 08015",
+    "addr:housenumber":"113",
+    "addr:postcode":"08015",
+    "addr:street":"Carrer De Diputacio",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008214705,
-    "wof:lastmodified":1472612871,
+    "wof:lastmodified":1472768365,
     "wof:name":"Perez Guillermo Carmen",
     "wof:parent_id":85864027,
     "wof:placetype":"venue",

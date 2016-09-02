@@ -2,6 +2,10 @@
   "id": 1007731171,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda America, 64 Madrid Madrid 28028",
+    "addr:housenumber":"64",
+    "addr:postcode":"madrid;28028",
+    "addr:street":"Avda America",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007731171,
-    "wof:lastmodified":1472582541,
+    "wof:lastmodified":1472767042,
     "wof:name":"Jimenez Gutierrez Gregorio",
     "wof:parent_id":85799435,
     "wof:placetype":"venue",

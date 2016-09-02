@@ -2,6 +2,10 @@
   "id": 1008580081,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Alberto Alcocer, 10 Madrid Madrid 28036",
+    "addr:housenumber":"10",
+    "addr:postcode":"madrid;28036",
+    "addr:street":"Alberto Alcocer",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008580081,
-    "wof:lastmodified":1472633379,
+    "wof:lastmodified":1472766701,
     "wof:name":"Talavan Palomo German",
     "wof:parent_id":85799237,
     "wof:placetype":"venue",

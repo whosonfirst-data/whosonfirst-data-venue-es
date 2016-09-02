@@ -2,6 +2,10 @@
   "id": 1008467735,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Juan Vigon, 3 Madrid Madrid 28003",
+    "addr:housenumber":"3",
+    "addr:postcode":"28003",
+    "addr:street":"Calle De Juan Vigon",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008467735,
-    "wof:lastmodified":1472628619,
+    "wof:lastmodified":1472769120,
     "wof:name":"Sanilab S.a.",
     "wof:parent_id":85863653,
     "wof:placetype":"venue",

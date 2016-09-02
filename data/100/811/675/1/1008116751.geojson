@@ -2,6 +2,10 @@
   "id": 1008116751,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de General Moscardo, 32 Madrid Madrid 28020",
+    "addr:housenumber":"32",
+    "addr:postcode":"madrid;28020",
+    "addr:street":"Calle De General Moscardo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008116751,
-    "wof:lastmodified":1472600239,
+    "wof:lastmodified":1472768874,
     "wof:name":"Ofimont S. A.",
     "wof:parent_id":85863621,
     "wof:placetype":"venue",

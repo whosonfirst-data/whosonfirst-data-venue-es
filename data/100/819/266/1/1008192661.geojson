@@ -2,6 +2,10 @@
   "id": 1008192661,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Catalunya, 44 S. Adria Besos Barcelona 08930",
+    "addr:housenumber":"44",
+    "addr:postcode":"08930",
+    "addr:street":"Av Catalunya;S. Adria Besos Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008192661,
-    "wof:lastmodified":1472607895,
+    "wof:lastmodified":1472767756,
     "wof:name":"Paz Ortiz Carlos",
     "wof:parent_id":85799179,
     "wof:placetype":"venue",

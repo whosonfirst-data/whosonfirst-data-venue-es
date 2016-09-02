@@ -2,6 +2,10 @@
   "id": 990941029,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Reina Victoria, 40 Madrid Madrid 28003",
+    "addr:housenumber":"40",
+    "addr:postcode":"madrid;28003",
+    "addr:street":"Avda Reina Victoria",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990941029,
-    "wof:lastmodified":1472512512,
+    "wof:lastmodified":1472767475,
     "wof:name":"Almeida Machuca Raquel",
     "wof:parent_id":85863653,
     "wof:placetype":"venue",

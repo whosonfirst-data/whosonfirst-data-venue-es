@@ -2,6 +2,10 @@
   "id": 1008317821,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Descartes, 11 Barcelona Barcelona 08006",
+    "addr:housenumber":"11",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Descartes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008317821,
-    "wof:lastmodified":1472622110,
+    "wof:lastmodified":1472769225,
     "wof:name":"Ramos Estiu Rosa Maria",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

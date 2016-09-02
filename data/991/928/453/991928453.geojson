@@ -2,6 +2,10 @@
   "id": 991928453,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Fama, 32 Almeda Mercader Barcelona 08940",
+    "addr:housenumber":"32",
+    "addr:postcode":"08940",
+    "addr:street":"Av Fama;Mercader Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991928453,
-    "wof:lastmodified":1472578863,
+    "wof:lastmodified":1472770652,
     "wof:name":"Hydrofer S. A.",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008001891,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Lopez De Hoyos, 142 Madrid Madrid 28002",
+    "addr:housenumber":"142",
+    "addr:postcode":"28002",
+    "addr:street":"Calle De Lopez De Hoyos",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1008001891,
-    "wof:lastmodified":1472595267,
+    "wof:lastmodified":1472767297,
     "wof:name":"Minimal Grupo De Comunicaciones S.l.",
     "wof:parent_id":85863647,
     "wof:placetype":"venue",

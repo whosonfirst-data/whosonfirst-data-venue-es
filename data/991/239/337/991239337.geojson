@@ -2,6 +2,10 @@
   "id": 991239337,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Oca, 65 Madrid Madrid 28025",
+    "addr:housenumber":"65",
+    "addr:postcode":"madrid;28025",
+    "addr:street":"Calle De Oca",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":991239337,
-    "wof:lastmodified":1472539473,
+    "wof:lastmodified":1472768303,
     "wof:name":"Campo Blanco Samuel",
     "wof:parent_id":85863765,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008185065,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Clara Del Rey, 47 Madrid Madrid 28002",
+    "addr:housenumber":"47",
+    "addr:postcode":"madrid;28002",
+    "addr:street":"Calle De Clara Del Rey",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008185065,
-    "wof:lastmodified":1472606035,
+    "wof:lastmodified":1472768520,
     "wof:name":"Pascual Saura Alberto",
     "wof:parent_id":85799435,
     "wof:placetype":"venue",

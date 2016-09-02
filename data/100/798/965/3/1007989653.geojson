@@ -2,6 +2,10 @@
   "id": 1007989653,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Valencia, 534 Barcelona Barcelona 08013",
+    "addr:housenumber":"534",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Valencia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007989653,
-    "wof:lastmodified":1472594727,
+    "wof:lastmodified":1472769236,
     "wof:name":"Meseguer Cardona Felix",
     "wof:parent_id":85864013,
     "wof:placetype":"venue",

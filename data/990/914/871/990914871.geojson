@@ -2,6 +2,10 @@
   "id": 990914871,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pl Sant Roc, 1 Sabadell Barcelona 08...",
+    "addr:housenumber":"1;08 ...",
+    "addr:postcode":"",
+    "addr:street":"Pl Sant Roc;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":990914871,
-    "wof:lastmodified":1472510015,
+    "wof:lastmodified":1472767428,
     "wof:name":"Ajuntament De Sabadell",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

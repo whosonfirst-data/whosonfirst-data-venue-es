@@ -2,6 +2,10 @@
   "id": 1008403541,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Doctor Lluch, 12 Valencia Valencia 46011",
+    "addr:housenumber":"12",
+    "addr:postcode":"46011",
+    "addr:street":"Calle De Doctor Lluch",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008403541,
-    "wof:lastmodified":1472625852,
+    "wof:lastmodified":1472768147,
     "wof:name":"Ronda Garay Antonio",
     "wof:parent_id":85864199,
     "wof:placetype":"venue",

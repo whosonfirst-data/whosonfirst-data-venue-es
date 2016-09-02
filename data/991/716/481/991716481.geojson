@@ -2,6 +2,10 @@
   "id": 991716481,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Corsega, 276 Barcelona Barcelona 08008",
+    "addr:housenumber":"276",
+    "addr:postcode":"08008",
+    "addr:street":"Carrer De Corsega",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991716481,
-    "wof:lastmodified":1472566292,
+    "wof:lastmodified":1472770336,
     "wof:name":"Gabinete Medico Corcega",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

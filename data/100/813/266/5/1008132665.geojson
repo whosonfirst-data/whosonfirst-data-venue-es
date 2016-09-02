@@ -2,6 +2,10 @@
   "id": 1008132665,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Isabel De Valois, 76 Madrid Madrid 28050",
+    "addr:housenumber":"76",
+    "addr:postcode":"madrid;28050",
+    "addr:street":"Avda Isabel De Valois",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008132665,
-    "wof:lastmodified":1472601071,
+    "wof:lastmodified":1472767380,
     "wof:name":"Origen Films Estudios S.a.",
     "wof:parent_id":85863571,
     "wof:placetype":"venue",

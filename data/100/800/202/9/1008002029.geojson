@@ -2,6 +2,10 @@
   "id": 1008002029,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Alcala, 5 Madrid Madrid 28...",
+    "addr:housenumber":"5;28 ...",
+    "addr:postcode":"",
+    "addr:street":"Calle De Alcala;Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008002029,
-    "wof:lastmodified":1472595272,
+    "wof:lastmodified":1472767339,
     "wof:name":"Ministerio De Economia Y Hacienda",
     "wof:parent_id":85863685,
     "wof:placetype":"venue",

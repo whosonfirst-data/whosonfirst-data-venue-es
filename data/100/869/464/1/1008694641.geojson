@@ -2,6 +2,10 @@
   "id": 1008694641,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Bonn, 21 Madrid Madrid 28028",
+    "addr:housenumber":"21",
+    "addr:postcode":"madrid;28028",
+    "addr:street":"Avda Bonn",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008694641,
-    "wof:lastmodified":1472638269,
+    "wof:lastmodified":1472768455,
     "wof:name":"Vasserot Serrano Alfredo",
     "wof:parent_id":85863643,
     "wof:placetype":"venue",

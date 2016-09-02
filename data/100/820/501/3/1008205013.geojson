@@ -2,6 +2,10 @@
   "id": 1008205013,
   "type": "Feature",
   "properties": {
+    "addr:full":"Plaz Angel Carbajo, 12 Madrid Madrid 28020",
+    "addr:housenumber":"12",
+    "addr:postcode":"madrid;28020",
+    "addr:street":"Carbajo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008205013,
-    "wof:lastmodified":1472610675,
+    "wof:lastmodified":1472768442,
     "wof:name":"Perea Moreno Eugenio",
     "wof:parent_id":85863603,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008212205,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Alcala, 219 Madrid Madrid 28028",
+    "addr:housenumber":"219",
+    "addr:postcode":"28028",
+    "addr:street":"Calle De Alcala",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008212205,
-    "wof:lastmodified":1472612332,
+    "wof:lastmodified":1472767448,
     "wof:name":"Perez Fernandez Raimundo",
     "wof:parent_id":85863683,
     "wof:placetype":"venue",

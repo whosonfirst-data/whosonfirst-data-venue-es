@@ -2,6 +2,10 @@
   "id": 1008691725,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Ricart, 40 S. Adria Besos Barcelona 08930",
+    "addr:housenumber":"40",
+    "addr:postcode":"08930",
+    "addr:street":"Carrer De Ricart;S. Adria Besos Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008691725,
-    "wof:lastmodified":1472638149,
+    "wof:lastmodified":1472767386,
     "wof:name":"Vaquera Guzman Juan",
     "wof:parent_id":85799179,
     "wof:placetype":"venue",

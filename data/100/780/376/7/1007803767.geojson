@@ -2,6 +2,10 @@
   "id": 1007803767,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Antonio Ramos Carratala, S/n Alacant Alicante 03...",
+    "addr:housenumber":"s / n;03 ...",
+    "addr:postcode":"",
+    "addr:street":"Avda Antonio Ramos Carratala;Alicante",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":1007803767,
-    "wof:lastmodified":1472586530,
+    "wof:lastmodified":1472768337,
     "wof:name":"Leroy Merlin S.a.",
     "wof:parent_id":85864073,
     "wof:placetype":"venue",

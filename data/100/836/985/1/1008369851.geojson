@@ -2,6 +2,10 @@
   "id": 1008369851,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Maria Rosa, 11 Fatjo Barcelona 08940",
+    "addr:housenumber":"11",
+    "addr:postcode":"08940",
+    "addr:street":"Carrer De Maria Rosa;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008369851,
-    "wof:lastmodified":1472624358,
+    "wof:lastmodified":1472769550,
     "wof:name":"Roca Vila Ventura",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",

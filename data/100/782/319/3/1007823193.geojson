@@ -2,6 +2,10 @@
   "id": 1007823193,
   "type": "Feature",
   "properties": {
+    "addr:full":"Dr Lopez Torruellas, 9 Tomares Sevilla 41940",
+    "addr:housenumber":"9",
+    "addr:postcode":"41940",
+    "addr:street":"Dr;Torruellas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007823193,
-    "wof:lastmodified":1472587447,
+    "wof:lastmodified":1472767948,
     "wof:name":"Lobo Garcia Maria Remedios",
     "wof:parent_id":85864125,
     "wof:placetype":"venue",

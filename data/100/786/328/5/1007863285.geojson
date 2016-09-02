@@ -2,6 +2,10 @@
   "id": 1007863285,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Corsega, 61 Barcelona Barcelona 08029",
+    "addr:housenumber":"61",
+    "addr:postcode":"08029",
+    "addr:street":"Carrer De Corsega",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007863285,
-    "wof:lastmodified":1472589381,
+    "wof:lastmodified":1472768008,
     "wof:name":"Mabes Consulting, S.l.",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

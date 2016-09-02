@@ -2,6 +2,10 @@
   "id": 991097573,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pase Castellana, 35 Madrid Madrid 28...",
+    "addr:housenumber":"35;28 ...",
+    "addr:postcode":"madrid",
+    "addr:street":"Castellana;Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991097573,
-    "wof:lastmodified":1472526607,
+    "wof:lastmodified":1472767282,
     "wof:name":"Banca Nazionale Del Lavoro S.a.",
     "wof:parent_id":85863563,
     "wof:placetype":"venue",

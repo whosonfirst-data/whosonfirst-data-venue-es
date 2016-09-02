@@ -2,6 +2,10 @@
   "id": 991372073,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Espronceda, 234 Barcelona Barcelona 08018",
+    "addr:housenumber":"234",
+    "addr:postcode":"08018",
+    "addr:street":"Carrer De Espronceda",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991372073,
-    "wof:lastmodified":1472546807,
+    "wof:lastmodified":1472769578,
     "wof:name":"Colimp Scp",
     "wof:parent_id":85864003,
     "wof:placetype":"venue",

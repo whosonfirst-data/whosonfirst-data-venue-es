@@ -2,6 +2,10 @@
   "id": 1008299973,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Ali Bei, 135 Barcelona Barcelona 08013",
+    "addr:housenumber":"135",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Ali Bei",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1008299973,
-    "wof:lastmodified":1472619822,
+    "wof:lastmodified":1472769486,
     "wof:name":"Puyal Casado Margarita",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

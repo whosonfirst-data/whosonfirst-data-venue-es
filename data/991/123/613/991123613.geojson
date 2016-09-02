@@ -2,6 +2,10 @@
   "id": 991123613,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Viladomat, 293 Barcelona Barcelona 08029",
+    "addr:housenumber":"293",
+    "addr:postcode":"08029",
+    "addr:street":"Carrer De Viladomat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991123613,
-    "wof:lastmodified":1472528725,
+    "wof:lastmodified":1472767317,
     "wof:name":"Bausa Diaz Jose Antonio",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

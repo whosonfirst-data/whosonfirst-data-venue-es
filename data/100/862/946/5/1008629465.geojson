@@ -2,6 +2,10 @@
   "id": 1008629465,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Rocafort, 98 Barcelona Barcelona 08015",
+    "addr:housenumber":"98",
+    "addr:postcode":"08015",
+    "addr:street":"Carrer De Rocafort",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008629465,
-    "wof:lastmodified":1472635529,
+    "wof:lastmodified":1472769326,
     "wof:name":"Tomas Corominas Juan",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

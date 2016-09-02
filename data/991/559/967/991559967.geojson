@@ -2,6 +2,10 @@
   "id": 991559967,
   "type": "Feature",
   "properties": {
+    "addr:full":"Velazquez, 150 Madrid Madrid 28...",
+    "addr:housenumber":"150;28 ...",
+    "addr:postcode":"",
+    "addr:street":"Velazquez;Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991559967,
-    "wof:lastmodified":1472557653,
+    "wof:lastmodified":1472770236,
     "wof:name":"Embajada De Israel",
     "wof:parent_id":85863651,
     "wof:placetype":"venue",

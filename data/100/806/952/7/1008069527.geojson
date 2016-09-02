@@ -2,6 +2,10 @@
   "id": 1008069527,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Josep, 62 Manresa Barcelona 08242",
+    "addr:housenumber":"62",
+    "addr:postcode":"08242",
+    "addr:street":"Carrer De Sant Josep",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":1008069527,
-    "wof:lastmodified":1472598154,
+    "wof:lastmodified":1472769456,
     "wof:name":"Mutua Intercomarcal",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

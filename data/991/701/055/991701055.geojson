@@ -2,6 +2,10 @@
   "id": 991701055,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Ayala, 61 Madrid Madrid 28001",
+    "addr:housenumber":"61",
+    "addr:postcode":"madrid;28001",
+    "addr:street":"Calle De Ayala",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991701055,
-    "wof:lastmodified":1472565521,
+    "wof:lastmodified":1472770184,
     "wof:name":"Frutos Gonzalez Tomas",
     "wof:parent_id":85863675,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008183919,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Niza, 51 Madrid Madrid 28022",
+    "addr:housenumber":"51",
+    "addr:postcode":"madrid;28022",
+    "addr:street":"Avda Niza",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1008183919,
-    "wof:lastmodified":1472605734,
+    "wof:lastmodified":1472768163,
     "wof:name":"Pascual Diaz Juan Antonio",
     "wof:parent_id":85799567,
     "wof:placetype":"venue",

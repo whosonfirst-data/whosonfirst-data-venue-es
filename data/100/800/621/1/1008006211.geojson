@@ -2,6 +2,10 @@
   "id": 1008006211,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Paris, 38 Barcelona Barcelona 08029",
+    "addr:housenumber":"38",
+    "addr:postcode":"08029",
+    "addr:street":"Carrer De Paris",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008006211,
-    "wof:lastmodified":1472595460,
+    "wof:lastmodified":1472768456,
     "wof:name":"Mirapeix Vicens Jose Maria",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

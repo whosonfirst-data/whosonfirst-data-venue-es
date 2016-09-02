@@ -2,6 +2,10 @@
   "id": 990924069,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Viladrosa, 122 Barcelona Barcelona 08042",
+    "addr:housenumber":"122",
+    "addr:postcode":"08042",
+    "addr:street":"Carrer De Viladrosa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990924069,
-    "wof:lastmodified":1472510811,
+    "wof:lastmodified":1472767383,
     "wof:name":"Alcalde Faro Victoria",
     "wof:parent_id":85799517,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991571737,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pl Josep Pallach, 12 Barcelona Barcelona 08035",
+    "addr:housenumber":"12",
+    "addr:postcode":"08035",
+    "addr:street":"Pl;Pallach",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":991571737,
-    "wof:lastmodified":1472558268,
+    "wof:lastmodified":1472770170,
     "wof:name":"Ergon Creacion S.a.",
     "wof:parent_id":85799471,
     "wof:placetype":"venue",

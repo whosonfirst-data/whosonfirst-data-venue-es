@@ -2,6 +2,10 @@
   "id": 991735199,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Nou De La Rambla, 100 Barcelona Barcelona 08001",
+    "addr:housenumber":"100",
+    "addr:postcode":"08001",
+    "addr:street":"Carrer De Nou De La Rambla",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991735199,
-    "wof:lastmodified":1472567228,
+    "wof:lastmodified":1472770256,
     "wof:name":"Garcia Arribas Simon",
     "wof:parent_id":85864035,
     "wof:placetype":"venue",

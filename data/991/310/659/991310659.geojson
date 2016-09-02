@@ -2,6 +2,10 @@
   "id": 991310659,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Josep Anselm Clave, 55 Prat Llobregat Barcelona 08820",
+    "addr:housenumber":"55",
+    "addr:postcode":"08820",
+    "addr:street":"Av Josep Anselm Clave;Llobregat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991310659,
-    "wof:lastmodified":1472543142,
+    "wof:lastmodified":1472769748,
     "wof:name":"Centre De Bricolatge S.cp.",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",

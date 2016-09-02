@@ -2,6 +2,10 @@
   "id": 991317811,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Martin De Los Heros, 68 Madrid Madrid 28008",
+    "addr:housenumber":"68",
+    "addr:postcode":"madrid;28008",
+    "addr:street":"Calle De Martin De Los Heros",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991317811,
-    "wof:lastmodified":1472543471,
+    "wof:lastmodified":1472769871,
     "wof:name":"Centro Espa\u00f1ol De Solidaridad",
     "wof:parent_id":85863655,
     "wof:placetype":"venue",

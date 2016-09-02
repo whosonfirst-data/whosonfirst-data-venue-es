@@ -2,6 +2,10 @@
   "id": 991427775,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Tanger, 61 Barcelona Barcelona 08018",
+    "addr:housenumber":"61",
+    "addr:postcode":"08018",
+    "addr:street":"Carrer De Tanger",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":991427775,
-    "wof:lastmodified":1472550392,
+    "wof:lastmodified":1472769817,
     "wof:name":"Cooperativa De Transportes Del Besos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

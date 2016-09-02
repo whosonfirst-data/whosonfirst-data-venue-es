@@ -2,6 +2,10 @@
   "id": 1008171377,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda General Peron, 25 Madrid Madrid 28020",
+    "addr:housenumber":"25",
+    "addr:postcode":"madrid;28020",
+    "addr:street":"Avda General Peron",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008171377,
-    "wof:lastmodified":1472604091,
+    "wof:lastmodified":1472767217,
     "wof:name":"Parrondo Panpin Marcial",
     "wof:parent_id":85863621,
     "wof:placetype":"venue",

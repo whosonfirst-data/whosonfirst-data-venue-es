@@ -2,6 +2,10 @@
   "id": 1008680781,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Abrantes, 88 Madrid Madrid 28025",
+    "addr:housenumber":"88",
+    "addr:postcode":"madrid;28025",
+    "addr:street":"Avda Abrantes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008680781,
-    "wof:lastmodified":1472637662,
+    "wof:lastmodified":1472766987,
     "wof:name":"Vadillo Fraile Carmen",
     "wof:parent_id":85863761,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1024466439,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ctra Esplugues, 234 Fatjo Barcelona 08940",
+    "addr:housenumber":"234",
+    "addr:postcode":"08940",
+    "addr:street":"Ctra Esplugues;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1024466439,
-    "wof:lastmodified":1472640190,
+    "wof:lastmodified":1472768727,
     "wof:name":"Vinagre Megias Valentin",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",

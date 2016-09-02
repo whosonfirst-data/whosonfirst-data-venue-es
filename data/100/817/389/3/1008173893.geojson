@@ -2,6 +2,10 @@
   "id": 1008173893,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Alberto Alcocer, 9 Madrid Madrid 28036",
+    "addr:housenumber":"9",
+    "addr:postcode":"madrid;28036",
+    "addr:street":"Alberto Alcocer",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008173893,
-    "wof:lastmodified":1472604458,
+    "wof:lastmodified":1472768232,
     "wof:name":"Parroquia De San Fernando",
     "wof:parent_id":85863603,
     "wof:placetype":"venue",

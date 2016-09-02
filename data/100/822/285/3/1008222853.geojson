@@ -2,6 +2,10 @@
   "id": 1008222853,
   "type": "Feature",
   "properties": {
+    "addr:full":"C/ Padro, 42 Ripollet Barcelona 08291",
+    "addr:housenumber":"42",
+    "addr:postcode":"08291",
+    "addr:street":"C / Padro",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008222853,
-    "wof:lastmodified":1472613670,
+    "wof:lastmodified":1472767793,
     "wof:name":"Perez Sanchez Silvestre",
     "wof:parent_id":85799639,
     "wof:placetype":"venue",

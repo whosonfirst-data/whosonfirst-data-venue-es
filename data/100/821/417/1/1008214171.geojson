@@ -2,6 +2,10 @@
   "id": 1008214171,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Segovia, 61 Madrid Madrid 28005",
+    "addr:housenumber":"61",
+    "addr:postcode":"madrid;28005",
+    "addr:street":"Calle De Segovia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008214171,
-    "wof:lastmodified":1472612766,
+    "wof:lastmodified":1472768221,
     "wof:name":"Perez Gonzalez Jacinto",
     "wof:parent_id":85863747,
     "wof:placetype":"venue",

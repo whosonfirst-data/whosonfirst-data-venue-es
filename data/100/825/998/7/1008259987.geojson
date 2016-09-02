@@ -2,6 +2,10 @@
   "id": 1008259987,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Montsant, 30 Barcelona Barcelona 08031",
+    "addr:housenumber":"30",
+    "addr:postcode":"08031",
+    "addr:street":"Carrer De Montsant",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008259987,
-    "wof:lastmodified":1472616527,
+    "wof:lastmodified":1472769503,
     "wof:name":"Pons Pons Carmen",
     "wof:parent_id":85799399,
     "wof:placetype":"venue",

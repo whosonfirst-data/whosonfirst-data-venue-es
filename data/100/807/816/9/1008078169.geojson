@@ -2,6 +2,10 @@
   "id": 1008078169,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Andrade, 176 Barcelona Barcelona 08020",
+    "addr:housenumber":"176",
+    "addr:postcode":"08020",
+    "addr:street":"Carrer De Andrade",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008078169,
-    "wof:lastmodified":1472598551,
+    "wof:lastmodified":1472769215,
     "wof:name":"Naharro Barreda Antonio",
     "wof:parent_id":85864011,
     "wof:placetype":"venue",

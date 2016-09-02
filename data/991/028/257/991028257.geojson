@@ -2,6 +2,10 @@
   "id": 991028257,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Diputacio, 123 Barcelona Barcelona 08015",
+    "addr:housenumber":"123",
+    "addr:postcode":"08015",
+    "addr:street":"Carrer De Diputacio",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":991028257,
-    "wof:lastmodified":1472521372,
+    "wof:lastmodified":1472766732,
     "wof:name":"Asociacion Aerotaxi",
     "wof:parent_id":85864027,
     "wof:placetype":"venue",

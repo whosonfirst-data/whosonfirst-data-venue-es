@@ -2,6 +2,10 @@
   "id": 1008353181,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Galileo, 94 Madrid Madrid 28015",
+    "addr:housenumber":"94",
+    "addr:postcode":"madrid;28015",
+    "addr:street":"Calle De Galileo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008353181,
-    "wof:lastmodified":1472623655,
+    "wof:lastmodified":1472767863,
     "wof:name":"Rial Dominguez Alfonso",
     "wof:parent_id":85863653,
     "wof:placetype":"venue",

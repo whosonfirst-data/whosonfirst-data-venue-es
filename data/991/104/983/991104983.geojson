@@ -2,6 +2,10 @@
   "id": 991104983,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Muntaner, 242 Barcelona Barcelona 08021",
+    "addr:housenumber":"242",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De Muntaner",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991104983,
-    "wof:lastmodified":1472527172,
+    "wof:lastmodified":1472767559,
     "wof:name":"Banc Sabadell S.a.",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

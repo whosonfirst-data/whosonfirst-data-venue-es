@@ -2,6 +2,10 @@
   "id": 1007999165,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Aribau, 52 Barcelona Barcelona 08011",
+    "addr:housenumber":"52",
+    "addr:postcode":"08011",
+    "addr:street":"Carrer De Aribau",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007999165,
-    "wof:lastmodified":1472595163,
+    "wof:lastmodified":1472769280,
     "wof:name":"Millan Azura Vicente",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

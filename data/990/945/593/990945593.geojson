@@ -2,6 +2,10 @@
   "id": 990945593,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Castillo, 19 Madrid Madrid 28010",
+    "addr:housenumber":"19",
+    "addr:postcode":"madrid;28010",
+    "addr:street":"Calle De Castillo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990945593,
-    "wof:lastmodified":1472513374,
+    "wof:lastmodified":1472767676,
     "wof:name":"Alonso Lucia Andres",
     "wof:parent_id":85863661,
     "wof:placetype":"venue",

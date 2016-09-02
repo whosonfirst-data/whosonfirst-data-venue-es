@@ -2,6 +2,10 @@
   "id": 991247045,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Aribau, 114 Barcelona Barcelona 08036",
+    "addr:housenumber":"114",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Aribau",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991247045,
-    "wof:lastmodified":1472539943,
+    "wof:lastmodified":1472768183,
     "wof:name":"Canonigo Hermo Esperanza",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

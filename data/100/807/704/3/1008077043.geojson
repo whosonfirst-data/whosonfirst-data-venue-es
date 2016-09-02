@@ -2,6 +2,10 @@
   "id": 1008077043,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Joaquin Costa, 12 Madrid Madrid 28002",
+    "addr:housenumber":"12",
+    "addr:postcode":"madrid;28002",
+    "addr:street":"Calle De Joaquin Costa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008077043,
-    "wof:lastmodified":1472598507,
+    "wof:lastmodified":1472768951,
     "wof:name":"My School S.l.",
     "wof:parent_id":85863651,
     "wof:placetype":"venue",

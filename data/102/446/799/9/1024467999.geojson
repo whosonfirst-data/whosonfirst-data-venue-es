@@ -2,6 +2,10 @@
   "id": 1024467999,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Rio De Janeiro, 42 Barcelona Barcelona 08016",
+    "addr:housenumber":"42",
+    "addr:postcode":"08016",
+    "addr:street":"Av Rio De Janeiro",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1024467999,
-    "wof:lastmodified":1472640253,
+    "wof:lastmodified":1472769124,
     "wof:name":"Virgin Active Espana S.a.u.",
     "wof:parent_id":85799399,
     "wof:placetype":"venue",

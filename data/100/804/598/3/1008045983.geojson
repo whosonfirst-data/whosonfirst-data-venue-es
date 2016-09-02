@@ -2,6 +2,10 @@
   "id": 1008045983,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Laforja, 140 Barcelona Barcelona 08021",
+    "addr:housenumber":"140",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De Laforja",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008045983,
-    "wof:lastmodified":1472597166,
+    "wof:lastmodified":1472768719,
     "wof:name":"Moreno Navarro Julia",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",

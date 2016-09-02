@@ -2,6 +2,10 @@
   "id": 1008166001,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Xavier Nogues, 3 Barcelona Barcelona 08019",
+    "addr:housenumber":"3",
+    "addr:postcode":"08019",
+    "addr:street":"Carrer De Xavier Nogues",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008166001,
-    "wof:lastmodified":1472603366,
+    "wof:lastmodified":1472768805,
     "wof:name":"Pardes Carrera Angel",
     "wof:parent_id":85864011,
     "wof:placetype":"venue",

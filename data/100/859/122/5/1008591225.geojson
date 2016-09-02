@@ -2,6 +2,10 @@
   "id": 1008591225,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Luis Ruiz, 18 Madrid Madrid 28017",
+    "addr:housenumber":"18",
+    "addr:postcode":"madrid;28017",
+    "addr:street":"Calle De Luis Ruiz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008591225,
-    "wof:lastmodified":1472633827,
+    "wof:lastmodified":1472767167,
     "wof:name":"Talleres Peman C.b.",
     "wof:parent_id":85863697,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991806673,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Bonn, 15 Madrid Madrid 28028",
+    "addr:housenumber":"15",
+    "addr:postcode":"madrid;28028",
+    "addr:street":"Avda Bonn",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991806673,
-    "wof:lastmodified":1472572294,
+    "wof:lastmodified":1472770475,
     "wof:name":"Gomez Calero Juana Maria",
     "wof:parent_id":85863643,
     "wof:placetype":"venue",

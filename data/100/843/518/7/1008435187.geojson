@@ -2,6 +2,10 @@
   "id": 1008435187,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Joan, 94 Calella Barcelona 08370",
+    "addr:housenumber":"94",
+    "addr:postcode":"08370",
+    "addr:street":"Carrer De Sant Joan",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008435187,
-    "wof:lastmodified":1472627399,
+    "wof:lastmodified":1472768564,
     "wof:name":"Sala Casals S.c.p.",
     "wof:parent_id":85799549,
     "wof:placetype":"venue",

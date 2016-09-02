@@ -2,6 +2,10 @@
   "id": 1007822701,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Elfo, 78 Madrid Madrid 28027",
+    "addr:housenumber":"78",
+    "addr:postcode":"madrid;28027",
+    "addr:street":"Calle De Elfo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1007822701,
-    "wof:lastmodified":1472587427,
+    "wof:lastmodified":1472767757,
     "wof:name":"Lobato Leal Jose",
     "wof:parent_id":85799257,
     "wof:placetype":"venue",

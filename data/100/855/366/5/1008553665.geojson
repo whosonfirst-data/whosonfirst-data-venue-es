@@ -2,6 +2,10 @@
   "id": 1008553665,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Riera, 48 Calella Barcelona 08370",
+    "addr:housenumber":"48",
+    "addr:postcode":"08370",
+    "addr:street":"Carrer De Riera",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008553665,
-    "wof:lastmodified":1472632264,
+    "wof:lastmodified":1472768050,
     "wof:name":"Soriano Garcia Amador",
     "wof:parent_id":85799549,
     "wof:placetype":"venue",

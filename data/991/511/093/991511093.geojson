@@ -2,6 +2,10 @@
   "id": 991511093,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Paris, 127 Barcelona Barcelona 08036",
+    "addr:housenumber":"127",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Paris",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991511093,
-    "wof:lastmodified":1472554939,
+    "wof:lastmodified":1472769907,
     "wof:name":"Disseny Grafic Publicitari S.l.",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

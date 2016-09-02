@@ -2,6 +2,10 @@
   "id": 1008384661,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Pablo Iglesias, 99 Barcelona Barcelona 08016",
+    "addr:housenumber":"99",
+    "addr:postcode":"08016",
+    "addr:street":"Carrer De Pablo Iglesias",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008384661,
-    "wof:lastmodified":1472624969,
+    "wof:lastmodified":1472768501,
     "wof:name":"Rodriguez Morales Esther",
     "wof:parent_id":85799517,
     "wof:placetype":"venue",

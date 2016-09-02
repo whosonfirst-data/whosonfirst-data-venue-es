@@ -2,6 +2,10 @@
   "id": 1008221041,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Maria Cubi, 6 Barcelona Barcelona 08006",
+    "addr:housenumber":"6",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Maria Cubi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008221041,
-    "wof:lastmodified":1472613426,
+    "wof:lastmodified":1472767071,
     "wof:name":"Perez Ramirez Juan",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1007800291,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Tanger, 35 Barcelona Barcelona 08018",
+    "addr:housenumber":"35",
+    "addr:postcode":"08018",
+    "addr:street":"Carrer De Tanger",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007800291,
-    "wof:lastmodified":1472586346,
+    "wof:lastmodified":1472766798,
     "wof:name":"Lejias Pons S. A.",
     "wof:parent_id":85864013,
     "wof:placetype":"venue",

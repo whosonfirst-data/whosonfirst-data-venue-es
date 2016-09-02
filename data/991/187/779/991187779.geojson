@@ -2,6 +2,10 @@
   "id": 991187779,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Pons I Gallarza, 92 Barcelona Barcelona 08030",
+    "addr:housenumber":"92",
+    "addr:postcode":"08030",
+    "addr:street":"Carrer De Pons;Gallarza",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991187779,
-    "wof:lastmodified":1472535523,
+    "wof:lastmodified":1472768104,
     "wof:name":"Busquet Masip Carles",
     "wof:parent_id":85863995,
     "wof:placetype":"venue",

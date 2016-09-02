@@ -2,6 +2,10 @@
   "id": 1008086381,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Modesto Lafuente, 65 Madrid Madrid 28003",
+    "addr:housenumber":"65",
+    "addr:postcode":"madrid;28003",
+    "addr:street":"Calle De Modesto Lafuente",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008086381,
-    "wof:lastmodified":1472598938,
+    "wof:lastmodified":1472768871,
     "wof:name":"Navarro Sanz Maria Teresa",
     "wof:parent_id":85863799,
     "wof:placetype":"venue",

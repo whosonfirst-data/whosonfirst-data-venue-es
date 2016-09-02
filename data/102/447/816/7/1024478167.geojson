@@ -2,6 +2,10 @@
   "id": 1024478167,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Albufera, 321 Madrid Madrid 28031",
+    "addr:housenumber":"321",
+    "addr:postcode":"28031",
+    "addr:street":"Avda Albufera",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1024478167,
-    "wof:lastmodified":1472640689,
+    "wof:lastmodified":1472769348,
     "wof:name":"World Limp S.l.",
     "wof:parent_id":85863723,
     "wof:placetype":"venue",

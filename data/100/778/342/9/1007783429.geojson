@@ -2,6 +2,10 @@
   "id": 1007783429,
   "type": "Feature",
   "properties": {
+    "addr:full":"C/ Pizarro, 44 Cerdanyola Valles Barcelona 08290",
+    "addr:housenumber":"44",
+    "addr:postcode":"08290",
+    "addr:street":"C / Pizarro;Valles Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1007783429,
-    "wof:lastmodified":1472585398,
+    "wof:lastmodified":1472768029,
     "wof:name":"La Montanyeta De Xiquilandia",
     "wof:parent_id":85799639,
     "wof:placetype":"venue",

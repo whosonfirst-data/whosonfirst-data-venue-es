@@ -2,6 +2,10 @@
   "id": 1007772439,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Padilla, 378 Barcelona Barcelona 08025",
+    "addr:housenumber":"378",
+    "addr:postcode":"08025",
+    "addr:street":"Carrer De Padilla",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007772439,
-    "wof:lastmodified":1472584873,
+    "wof:lastmodified":1472767770,
     "wof:name":"Labarta Marques Xavier",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

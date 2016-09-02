@@ -2,6 +2,10 @@
   "id": 1008621085,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Ave Maria, 46 Madrid Madrid 28012",
+    "addr:housenumber":"46",
+    "addr:postcode":"madrid;28012",
+    "addr:street":"Calle De Ave Maria",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008621085,
-    "wof:lastmodified":1472635182,
+    "wof:lastmodified":1472767202,
     "wof:name":"Text-shop S.l.",
     "wof:parent_id":85863793,
     "wof:placetype":"venue",

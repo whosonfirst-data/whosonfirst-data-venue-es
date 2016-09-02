@@ -2,6 +2,10 @@
   "id": 991562689,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de La Rambla, 138 Barcelona Barcelona 08002",
+    "addr:housenumber":"138",
+    "addr:postcode":"08002",
+    "addr:street":"Carrer De La Rambla",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991562689,
-    "wof:lastmodified":1472557823,
+    "wof:lastmodified":1472770117,
     "wof:name":"Empresa Alianza S. L.",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",

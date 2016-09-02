@@ -2,6 +2,10 @@
   "id": 1008301651,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Camelies, 10 Barcelona Barcelona 08024",
+    "addr:housenumber":"10",
+    "addr:postcode":"08024",
+    "addr:street":"Carrer De Camelies",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008301651,
-    "wof:lastmodified":1472620496,
+    "wof:lastmodified":1472767295,
     "wof:name":"Queralt Arque Ramon",
     "wof:parent_id":85863993,
     "wof:placetype":"venue",

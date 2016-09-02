@@ -2,6 +2,10 @@
   "id": 1008099079,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Joan Miro, 306 Sant Agusti Islas Baleares 07015",
+    "addr:housenumber":"306",
+    "addr:postcode":"07015",
+    "addr:street":"Av Joan Miro;Sant Agusti",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1008099079,
-    "wof:lastmodified":1472599481,
+    "wof:lastmodified":1472769243,
     "wof:name":"Noguera Pons Maria",
     "wof:parent_id":85864109,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 990918241,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Monte Igueldo, 53 Madrid Madrid 28053",
+    "addr:housenumber":"53",
+    "addr:postcode":"madrid;28053",
+    "addr:street":"Avda Monte Igueldo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990918241,
-    "wof:lastmodified":1472510302,
+    "wof:lastmodified":1472767268,
     "wof:name":"Alarcon Romero Mariano",
     "wof:parent_id":85799491,
     "wof:placetype":"venue",

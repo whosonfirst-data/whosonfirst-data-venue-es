@@ -2,6 +2,10 @@
   "id": 1008374009,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Industria, 159 Barcelona Barcelona 08025",
+    "addr:housenumber":"159",
+    "addr:postcode":"08025",
+    "addr:street":"Carrer De Industria",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008374009,
-    "wof:lastmodified":1472624529,
+    "wof:lastmodified":1472768328,
     "wof:name":"Rodriguez Asencio Maria Del Valle",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

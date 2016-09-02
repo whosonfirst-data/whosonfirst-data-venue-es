@@ -2,6 +2,10 @@
   "id": 1008184479,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Rodriguez Jaen, 7 Madrid Madrid 28036",
+    "addr:housenumber":"7",
+    "addr:postcode":"madrid;28036",
+    "addr:street":"Calle De Rodriguez Jaen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008184479,
-    "wof:lastmodified":1472605868,
+    "wof:lastmodified":1472768326,
     "wof:name":"Pascual Martin Daniel",
     "wof:parent_id":85863601,
     "wof:placetype":"venue",

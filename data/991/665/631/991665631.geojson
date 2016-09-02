@@ -2,6 +2,10 @@
   "id": 991665631,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Verdi, 220 Barcelona Barcelona 08024",
+    "addr:housenumber":"220",
+    "addr:postcode":"08024",
+    "addr:street":"Carrer De Verdi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991665631,
-    "wof:lastmodified":1472563768,
+    "wof:lastmodified":1472770183,
     "wof:name":"Figueroa Maturana Juana",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

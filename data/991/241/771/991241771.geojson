@@ -2,6 +2,10 @@
   "id": 991241771,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Pau, 44 Barcelona Barcelona 08001",
+    "addr:housenumber":"44",
+    "addr:postcode":"08001",
+    "addr:street":"Carrer De Sant Pau",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":991241771,
-    "wof:lastmodified":1472539623,
+    "wof:lastmodified":1472768415,
     "wof:name":"Camprubi Ribalta Maria Falgas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

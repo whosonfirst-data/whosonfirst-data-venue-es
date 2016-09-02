@@ -2,6 +2,10 @@
   "id": 1007902823,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Rubens, 33 Barcelona Barcelona 08023",
+    "addr:housenumber":"33",
+    "addr:postcode":"08023",
+    "addr:street":"Carrer De Rubens",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007902823,
-    "wof:lastmodified":1472590956,
+    "wof:lastmodified":1472767906,
     "wof:name":"Marin Alarcon Martin",
     "wof:parent_id":85863989,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1024477825,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Anselm Clave, 59 Nucli Urba Barcelona 08186",
+    "addr:housenumber":"59;urba",
+    "addr:postcode":"08186",
+    "addr:street":"Carrer De Anselm Clave;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1024477825,
-    "wof:lastmodified":1472640674,
+    "wof:lastmodified":1472769241,
     "wof:name":"Wolnosc S.a.",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",

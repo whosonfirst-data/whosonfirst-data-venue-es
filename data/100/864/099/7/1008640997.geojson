@@ -2,6 +2,10 @@
   "id": 1008640997,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Gran Via, 60 Madrid Madrid 28013",
+    "addr:housenumber":"60",
+    "addr:postcode":"madrid;28013",
+    "addr:street":"Calle De Gran Via",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1008640997,
-    "wof:lastmodified":1472636010,
+    "wof:lastmodified":1472767096,
     "wof:name":"Torron Sl",
     "wof:parent_id":85863667,
     "wof:placetype":"venue",

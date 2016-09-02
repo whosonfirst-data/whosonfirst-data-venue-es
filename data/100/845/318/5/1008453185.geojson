@@ -2,6 +2,10 @@
   "id": 1008453185,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Amistad, 15 Madrid Madrid 28025",
+    "addr:housenumber":"15",
+    "addr:postcode":"madrid;28025",
+    "addr:street":"Calle De Amistad",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008453185,
-    "wof:lastmodified":1472628055,
+    "wof:lastmodified":1472767876,
     "wof:name":"Sanchez Heredia Martin",
     "wof:parent_id":85863765,
     "wof:placetype":"venue",

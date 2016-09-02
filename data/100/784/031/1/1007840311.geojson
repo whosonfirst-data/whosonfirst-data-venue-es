@@ -2,6 +2,10 @@
   "id": 1007840311,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Francisco Requena, 12 Madrid Madrid 28017",
+    "addr:housenumber":"12",
+    "addr:postcode":"madrid;28017",
+    "addr:street":"Calle De Francisco Requena",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007840311,
-    "wof:lastmodified":1472588224,
+    "wof:lastmodified":1472766781,
     "wof:name":"Lopez Mendez Jose",
     "wof:parent_id":85863695,
     "wof:placetype":"venue",

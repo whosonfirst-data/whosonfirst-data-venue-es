@@ -2,6 +2,10 @@
   "id": 1008466477,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Muller, 42 Madrid Madrid 28029",
+    "addr:housenumber":"42",
+    "addr:postcode":"madrid;28029",
+    "addr:street":"Calle De Muller",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008466477,
-    "wof:lastmodified":1472628566,
+    "wof:lastmodified":1472768875,
     "wof:name":"Saneamientos Garry S.a.",
     "wof:parent_id":85863561,
     "wof:placetype":"venue",

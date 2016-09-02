@@ -2,6 +2,10 @@
   "id": 1008605029,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Arizala, 68 Barcelona Barcelona 08028",
+    "addr:housenumber":"68",
+    "addr:postcode":"08028",
+    "addr:street":"Carrer De Arizala",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008605029,
-    "wof:lastmodified":1472634470,
+    "wof:lastmodified":1472768679,
     "wof:name":"Tecnifred S.a.",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008221353,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Casp, 106 Barcelona Barcelona 08010",
+    "addr:housenumber":"106",
+    "addr:postcode":"08010",
+    "addr:street":"Carrer De Casp",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":1008221353,
-    "wof:lastmodified":1472613448,
+    "wof:lastmodified":1472767193,
     "wof:name":"Perez Riera Victor",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

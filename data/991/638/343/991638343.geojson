@@ -2,6 +2,10 @@
   "id": 991638343,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Jorge Juan, 78 Madrid Madrid 28009",
+    "addr:housenumber":"78",
+    "addr:postcode":"madrid;28009",
+    "addr:street":"Calle De Jorge Juan",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991638343,
-    "wof:lastmodified":1472562409,
+    "wof:lastmodified":1472770030,
     "wof:name":"Fernandez Fernandez Dolores Elvira",
     "wof:parent_id":85863677,
     "wof:placetype":"venue",

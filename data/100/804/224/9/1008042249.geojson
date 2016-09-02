@@ -2,6 +2,10 @@
   "id": 1008042249,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Alburquerque, 23 Madrid Madrid 28010",
+    "addr:housenumber":"23",
+    "addr:postcode":"madrid;28010",
+    "addr:street":"Calle De Alburquerque",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008042249,
-    "wof:lastmodified":1472596987,
+    "wof:lastmodified":1472767616,
     "wof:name":"Moreno Blasco Maria Del Rosario",
     "wof:parent_id":85863661,
     "wof:placetype":"venue",

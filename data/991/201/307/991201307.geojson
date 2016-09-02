@@ -2,6 +2,10 @@
   "id": 991201307,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Icaria, 163 Barcelona Barcelona 08005",
+    "addr:housenumber":"163",
+    "addr:postcode":"08005",
+    "addr:street":"Av Icaria",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":991201307,
-    "wof:lastmodified":1472536603,
+    "wof:lastmodified":1472768015,
     "wof:name":"Caixa D'estalvis De Catalunya",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

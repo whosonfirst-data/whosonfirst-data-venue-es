@@ -2,6 +2,10 @@
   "id": 990999613,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Mediterraneo, 50 Madrid Madrid 28007",
+    "addr:housenumber":"50",
+    "addr:postcode":"madrid;28007",
+    "addr:street":"Avda Mediterraneo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990999613,
-    "wof:lastmodified":1472519041,
+    "wof:lastmodified":1472768165,
     "wof:name":"Argabus S. A.",
     "wof:parent_id":85863737,
     "wof:placetype":"venue",

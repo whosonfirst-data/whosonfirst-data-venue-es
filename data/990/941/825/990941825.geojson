@@ -2,6 +2,10 @@
   "id": 990941825,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Maria Aguilo, 125 Barcelona Barcelona 08005",
+    "addr:housenumber":"125",
+    "addr:postcode":"08005",
+    "addr:street":"Carrer De Maria Aguilo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990941825,
-    "wof:lastmodified":1472512650,
+    "wof:lastmodified":1472767767,
     "wof:name":"Almirall Cacho Victor Manuel",
     "wof:parent_id":85799265,
     "wof:placetype":"venue",

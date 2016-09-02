@@ -2,6 +2,10 @@
   "id": 1007909539,
   "type": "Feature",
   "properties": {
+    "addr:full":"Trva San Mateo, 10 Madrid Madrid 28004",
+    "addr:housenumber":"10",
+    "addr:postcode":"madrid;28004",
+    "addr:street":"Trva San Mateo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007909539,
-    "wof:lastmodified":1472591296,
+    "wof:lastmodified":1472769958,
     "wof:name":"Marnosus S.l.",
     "wof:parent_id":85863791,
     "wof:placetype":"venue",

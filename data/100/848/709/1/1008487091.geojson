@@ -2,6 +2,10 @@
   "id": 1008487091,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Pere Costa, 25 Barcelona Barcelona 08024",
+    "addr:housenumber":"25",
+    "addr:postcode":"08024",
+    "addr:street":"Carrer De Pere Costa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1008487091,
-    "wof:lastmodified":1472629422,
+    "wof:lastmodified":1472768945,
     "wof:name":"Sayas Labrid Agustin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

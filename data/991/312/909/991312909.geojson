@@ -2,6 +2,10 @@
   "id": 991312909,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Diputacio, 453 Barcelona Barcelona 08013",
+    "addr:housenumber":"453",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Diputacio",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991312909,
-    "wof:lastmodified":1472543243,
+    "wof:lastmodified":1472769862,
     "wof:name":"Centro Andaluz Comarca De Linares",
     "wof:parent_id":85864013,
     "wof:placetype":"venue",

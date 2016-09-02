@@ -2,6 +2,10 @@
   "id": 991280387,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Clos De Sant Francesc, 42 Barcelona Barcelona 08034",
+    "addr:housenumber":"42",
+    "addr:postcode":"08034",
+    "addr:street":"Carrer De Clos De Sant Francesc",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991280387,
-    "wof:lastmodified":1472541741,
+    "wof:lastmodified":1472769695,
     "wof:name":"Casadesus Clot Adelino",
     "wof:parent_id":85799605,
     "wof:placetype":"venue",

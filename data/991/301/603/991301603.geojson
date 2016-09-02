@@ -2,6 +2,10 @@
   "id": 991301603,
   "type": "Feature",
   "properties": {
+    "addr:full":"John F. Kennedy, 5 S. Joan Despi Barcelona 08970",
+    "addr:housenumber":"5",
+    "addr:postcode":"08970",
+    "addr:street":"John F. Kennedy;S. Joan Despi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991301603,
-    "wof:lastmodified":1472542709,
+    "wof:lastmodified":1472769814,
     "wof:name":"Ca\u00f1adas Garcia Manuel",
     "wof:parent_id":85799591,
     "wof:placetype":"venue",

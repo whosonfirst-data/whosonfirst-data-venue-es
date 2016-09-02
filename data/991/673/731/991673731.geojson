@@ -2,6 +2,10 @@
   "id": 991673731,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Osa Mayor, 44 Madrid Madrid 28023",
+    "addr:housenumber":"44",
+    "addr:postcode":"madrid;28023",
+    "addr:street":"Avda Osa Mayor",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991673731,
-    "wof:lastmodified":1472564157,
+    "wof:lastmodified":1472770299,
     "wof:name":"Florez Perez Severino",
     "wof:parent_id":85799153,
     "wof:placetype":"venue",

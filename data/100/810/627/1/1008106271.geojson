@@ -2,6 +2,10 @@
   "id": 1008106271,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ctra Hospitalet, 35 Almeda Mercader Barcelona 08940",
+    "addr:housenumber":"35",
+    "addr:postcode":"08940",
+    "addr:street":"Ctra Hospitalet;Mercader Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008106271,
-    "wof:lastmodified":1472599786,
+    "wof:lastmodified":1472768783,
     "wof:name":"Nupa S.a.",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",

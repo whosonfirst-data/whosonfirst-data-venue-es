@@ -2,6 +2,10 @@
   "id": 1008703151,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Muntaner, 555 Barcelona Barcelona 08022",
+    "addr:housenumber":"555",
+    "addr:postcode":"08022",
+    "addr:street":"Carrer De Muntaner",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008703151,
-    "wof:lastmodified":1472638672,
+    "wof:lastmodified":1472768059,
     "wof:name":"Velaste Sl",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

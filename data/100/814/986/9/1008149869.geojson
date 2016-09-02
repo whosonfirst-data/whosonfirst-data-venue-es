@@ -2,6 +2,10 @@
   "id": 1008149869,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda San Diego, 63 Madrid Madrid 28053",
+    "addr:housenumber":"63",
+    "addr:postcode":"madrid;28053",
+    "addr:street":"Avda San Diego",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008149869,
-    "wof:lastmodified":1472601833,
+    "wof:lastmodified":1472769376,
     "wof:name":"Padres Terciarios Franciscanos",
     "wof:parent_id":85863729,
     "wof:placetype":"venue",

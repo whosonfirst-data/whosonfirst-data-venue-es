@@ -2,6 +2,10 @@
   "id": 1008629735,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Mallorca, 242 Barcelona Barcelona 08008",
+    "addr:housenumber":"242",
+    "addr:postcode":"08008",
+    "addr:street":"Carrer De Mallorca",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008629735,
-    "wof:lastmodified":1472635538,
+    "wof:lastmodified":1472769380,
     "wof:name":"Tomas Llacay Jose",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

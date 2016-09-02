@@ -2,6 +2,10 @@
   "id": 1007830961,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Monlau, 47 Barcelona Barcelona 08027",
+    "addr:housenumber":"47",
+    "addr:postcode":"08027",
+    "addr:street":"Carrer De Monlau",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007830961,
-    "wof:lastmodified":1472587761,
+    "wof:lastmodified":1472767087,
     "wof:name":"Lopez Casal Maria Del Carmen",
     "wof:parent_id":85864003,
     "wof:placetype":"venue",

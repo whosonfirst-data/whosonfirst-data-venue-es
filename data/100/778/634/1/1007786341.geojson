@@ -2,6 +2,10 @@
   "id": 1007786341,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Valencia, 226 Barcelona Barcelona 08007",
+    "addr:housenumber":"226",
+    "addr:postcode":"08007",
+    "addr:street":"Carrer De Valencia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1007786341,
-    "wof:lastmodified":1472585548,
+    "wof:lastmodified":1472768816,
     "wof:name":"La Peca De Lupe S.l.",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

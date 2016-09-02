@@ -2,6 +2,10 @@
   "id": 991318209,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de La Rambla, 37 Barcelona Barcelona 08002",
+    "addr:housenumber":"37",
+    "addr:postcode":"08002",
+    "addr:street":"Carrer De La Rambla",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991318209,
-    "wof:lastmodified":1472543487,
+    "wof:lastmodified":1472769631,
     "wof:name":"Centro Gallego De Barcelona",
     "wof:parent_id":85864033,
     "wof:placetype":"venue",

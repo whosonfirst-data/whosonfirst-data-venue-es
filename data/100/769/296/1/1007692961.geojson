@@ -2,6 +2,10 @@
   "id": 1007692961,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Mirabel, 43 Madrid Madrid 28044",
+    "addr:housenumber":"43",
+    "addr:postcode":"madrid;28044",
+    "addr:street":"Calle De Mirabel",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1007692961,
-    "wof:lastmodified":1472580639,
+    "wof:lastmodified":1472767926,
     "wof:name":"Instalaciones Climasa S.l.",
     "wof:parent_id":85863783,
     "wof:placetype":"venue",

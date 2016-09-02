@@ -2,6 +2,10 @@
   "id": 1008312457,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rond Ingenioso Hidalgo, 22 Madrid Madrid 28034",
+    "addr:housenumber":"22",
+    "addr:postcode":"madrid;28034",
+    "addr:street":"Rond;Hidalgo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008312457,
-    "wof:lastmodified":1472621883,
+    "wof:lastmodified":1472767683,
     "wof:name":"Ramcitor Sl",
     "wof:parent_id":85799389,
     "wof:placetype":"venue",

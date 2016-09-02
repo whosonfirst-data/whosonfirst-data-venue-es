@@ -2,6 +2,10 @@
   "id": 991492671,
   "type": "Feature",
   "properties": {
+    "addr:full":"C/ Sant Ramon, 298 Cerdanyola Valles Barcelona 08290",
+    "addr:housenumber":"298",
+    "addr:postcode":"08290",
+    "addr:street":"C / Sant Ramon;Valles Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":991492671,
-    "wof:lastmodified":1472554017,
+    "wof:lastmodified":1472770061,
     "wof:name":"Diapa S. A.",
     "wof:parent_id":85799639,
     "wof:placetype":"venue",

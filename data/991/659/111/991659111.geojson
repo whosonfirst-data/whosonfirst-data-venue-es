@@ -2,6 +2,10 @@
   "id": 991659111,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Valencia, 230 Barcelona Barcelona 08007",
+    "addr:housenumber":"230",
+    "addr:postcode":"08007",
+    "addr:street":"Carrer De Valencia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991659111,
-    "wof:lastmodified":1472563444,
+    "wof:lastmodified":1472770005,
     "wof:name":"Ferrer Vidal Lluis",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

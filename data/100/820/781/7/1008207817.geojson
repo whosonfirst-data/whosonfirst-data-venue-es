@@ -2,6 +2,10 @@
   "id": 1008207817,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Riera Alta, 46 Barcelona Barcelona 08001",
+    "addr:housenumber":"46",
+    "addr:postcode":"08001",
+    "addr:street":"Carrer De Riera Alta",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008207817,
-    "wof:lastmodified":1472611309,
+    "wof:lastmodified":1472769105,
     "wof:name":"Perez Ares Maria Carmen",
     "wof:parent_id":85864035,
     "wof:placetype":"venue",

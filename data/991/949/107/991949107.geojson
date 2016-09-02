@@ -2,6 +2,10 @@
   "id": 991949107,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Ciencias Edf Estr Este, 27 Sevilla Sevilla 41020",
+    "addr:housenumber":"27",
+    "addr:postcode":"41020",
+    "addr:street":"Av Ciencias;Estr Este",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991949107,
-    "wof:lastmodified":1472579894,
+    "wof:lastmodified":1472770663,
     "wof:name":"Industrias Alcom S.a.",
     "wof:parent_id":85799535,
     "wof:placetype":"venue",

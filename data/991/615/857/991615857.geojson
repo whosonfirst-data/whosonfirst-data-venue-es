@@ -2,6 +2,10 @@
   "id": 991615857,
   "type": "Feature",
   "properties": {
+    "addr:full":"Via Bellavista, 73 Fontpineda Barcelona 08753",
+    "addr:housenumber":"73",
+    "addr:postcode":"08753",
+    "addr:street":"Via Bellavista;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991615857,
-    "wof:lastmodified":1472560420,
+    "wof:lastmodified":1472770181,
     "wof:name":"F2a Azafatas Sl",
     "wof:parent_id":85864241,
     "wof:placetype":"venue",

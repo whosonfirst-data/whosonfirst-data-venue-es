@@ -2,6 +2,10 @@
   "id": 991577249,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Manuel De Falla, 36 Barcelona Barcelona 08034",
+    "addr:housenumber":"36",
+    "addr:postcode":"08034",
+    "addr:street":"Carrer De Manuel De Falla",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991577249,
-    "wof:lastmodified":1472558573,
+    "wof:lastmodified":1472770035,
     "wof:name":"Escote Romero Maria",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

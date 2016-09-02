@@ -2,6 +2,10 @@
   "id": 1008486095,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Muntaner, 261 Barcelona Barcelona 08021",
+    "addr:housenumber":"261",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De Muntaner",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008486095,
-    "wof:lastmodified":1472629374,
+    "wof:lastmodified":1472768765,
     "wof:name":"Saumell Llado Alvaro",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

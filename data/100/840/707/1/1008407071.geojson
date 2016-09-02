@@ -2,6 +2,10 @@
   "id": 1008407071,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Paris, 132 Barcelona Barcelona 08036",
+    "addr:housenumber":"132",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Paris",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008407071,
-    "wof:lastmodified":1472626099,
+    "wof:lastmodified":1472768977,
     "wof:name":"Roses Castellsaguer Jordi",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

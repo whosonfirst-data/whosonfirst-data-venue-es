@@ -2,6 +2,10 @@
   "id": 1024466043,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Villarroel, 45 Barcelona Barcelona 08011",
+    "addr:housenumber":"45",
+    "addr:postcode":"08011",
+    "addr:street":"Carrer De Villarroel",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1024466043,
-    "wof:lastmodified":1472640175,
+    "wof:lastmodified":1472768664,
     "wof:name":"Villur S. A.",
     "wof:parent_id":85864027,
     "wof:placetype":"venue",

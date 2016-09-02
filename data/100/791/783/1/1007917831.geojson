@@ -2,6 +2,10 @@
   "id": 1007917831,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Rossello, 108 Barcelona Barcelona 08036",
+    "addr:housenumber":"108",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Rossello",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007917831,
-    "wof:lastmodified":1472591659,
+    "wof:lastmodified":1472769294,
     "wof:name":"Martin Exposito Eufemia",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

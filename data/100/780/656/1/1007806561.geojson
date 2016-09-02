@@ -2,6 +2,10 @@
   "id": 1007806561,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Comte D'urgell, 222 Barcelona Barcelona 08036",
+    "addr:housenumber":"222",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Comte D'Urgell",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007806561,
-    "wof:lastmodified":1472586668,
+    "wof:lastmodified":1472769132,
     "wof:name":"Libreria Y Papeleria Barcino S. A.",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

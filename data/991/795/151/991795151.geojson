@@ -2,6 +2,10 @@
   "id": 991795151,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Quart, 123 Valencia Valencia 46008",
+    "addr:housenumber":"123",
+    "addr:postcode":"46008",
+    "addr:street":"Calle De Quart",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991795151,
-    "wof:lastmodified":1472571708,
+    "wof:lastmodified":1472770283,
     "wof:name":"Gimenez Catalua Rafael",
     "wof:parent_id":85864207,
     "wof:placetype":"venue",

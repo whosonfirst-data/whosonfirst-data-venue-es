@@ -2,6 +2,10 @@
   "id": 1007999431,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Madrid, 192 Barcelona Barcelona 08028",
+    "addr:housenumber":"192",
+    "addr:postcode":"08028",
+    "addr:street":"Av Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007999431,
-    "wof:lastmodified":1472595173,
+    "wof:lastmodified":1472769341,
     "wof:name":"Millan Lleopart Jesus",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

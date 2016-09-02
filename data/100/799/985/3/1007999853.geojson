@@ -2,6 +2,10 @@
   "id": 1007999853,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Arago, 416 Barcelona Barcelona 08013",
+    "addr:housenumber":"416",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Arago",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1007999853,
-    "wof:lastmodified":1472595191,
+    "wof:lastmodified":1472769413,
     "wof:name":"Milla Ruiz Albert",
     "wof:parent_id":85864013,
     "wof:placetype":"venue",

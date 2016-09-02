@@ -2,6 +2,10 @@
   "id": 1008641569,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Jaume Casanovas, 126 Prat Llobregat Barcelona 08820",
+    "addr:housenumber":"126",
+    "addr:postcode":"08820",
+    "addr:street":"Carrer De Jaume Casanovas;Llobregat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008641569,
-    "wof:lastmodified":1472636037,
+    "wof:lastmodified":1472767296,
     "wof:name":"Tort Riera Marcelo",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",

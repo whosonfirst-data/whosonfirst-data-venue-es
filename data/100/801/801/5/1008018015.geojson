@@ -2,6 +2,10 @@
   "id": 1008018015,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Juan Sebastian Elcano, 35 Malaga M\u00e1laga 29017",
+    "addr:housenumber":"35",
+    "addr:postcode":"29017",
+    "addr:street":"Avda Juan Sebastian Elcano;Ma\u0301Laga",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1008018015,
-    "wof:lastmodified":1472595939,
+    "wof:lastmodified":1472769102,
     "wof:name":"Molina Rando Diego",
     "wof:parent_id":85863513,
     "wof:placetype":"venue",

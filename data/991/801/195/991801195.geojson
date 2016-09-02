@@ -2,6 +2,10 @@
   "id": 991801195,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Aeronave, 17 Madrid Madrid 28042",
+    "addr:housenumber":"17",
+    "addr:postcode":"madrid;28042",
+    "addr:street":"Calle De Aeronave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":991801195,
-    "wof:lastmodified":1472572016,
+    "wof:lastmodified":1472770343,
     "wof:name":"Glomar-barajas S.l.",
     "wof:parent_id":85863589,
     "wof:placetype":"venue",

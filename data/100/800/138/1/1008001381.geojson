@@ -2,6 +2,10 @@
   "id": 1008001381,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sants, 320 Barcelona Barcelona 08028",
+    "addr:housenumber":"320",
+    "addr:postcode":"08028",
+    "addr:street":"Carrer De Sants",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008001381,
-    "wof:lastmodified":1472595252,
+    "wof:lastmodified":1472767111,
     "wof:name":"Minguez Farre Pedro",
     "wof:parent_id":85799283,
     "wof:placetype":"venue",

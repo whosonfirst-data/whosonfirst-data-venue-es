@@ -2,6 +2,10 @@
   "id": 1008436927,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pl Isabel Villena, 4 Barcelona Barcelona 08042",
+    "addr:housenumber":"4",
+    "addr:postcode":"08042",
+    "addr:street":"Pl;Villena",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008436927,
-    "wof:lastmodified":1472627461,
+    "wof:lastmodified":1472768799,
     "wof:name":"Salat Vila Yoan",
     "wof:parent_id":85799399,
     "wof:placetype":"venue",

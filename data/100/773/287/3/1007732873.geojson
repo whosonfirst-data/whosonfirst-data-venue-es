@@ -2,6 +2,10 @@
   "id": 1007732873,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Guadalajara, 36 Madrid Madrid 28032",
+    "addr:housenumber":"36",
+    "addr:postcode":"madrid;28032",
+    "addr:street":"Avda Guadalajara",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007732873,
-    "wof:lastmodified":1472582625,
+    "wof:lastmodified":1472767693,
     "wof:name":"Jimenez Monge Angel",
     "wof:parent_id":85863705,
     "wof:placetype":"venue",

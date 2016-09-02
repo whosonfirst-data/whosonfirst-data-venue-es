@@ -2,6 +2,10 @@
   "id": 1007970359,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Ayala, 32 Madrid Madrid 28001",
+    "addr:housenumber":"32",
+    "addr:postcode":"madrid;28001",
+    "addr:street":"Calle De Ayala",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007970359,
-    "wof:lastmodified":1472593970,
+    "wof:lastmodified":1472766784,
     "wof:name":"Medina Balsera Alfredo",
     "wof:parent_id":85863675,
     "wof:placetype":"venue",

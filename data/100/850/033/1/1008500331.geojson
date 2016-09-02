@@ -2,6 +2,10 @@
   "id": 1008500331,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Fereluz, 55 Madrid Madrid 28039",
+    "addr:housenumber":"55",
+    "addr:postcode":"madrid;28039",
+    "addr:street":"Calle De Fereluz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008500331,
-    "wof:lastmodified":1472630027,
+    "wof:lastmodified":1472766769,
     "wof:name":"Sercru S. A.",
     "wof:parent_id":85799621,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008278477,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Cristobal Bordiu, 52 Madrid Madrid 28003",
+    "addr:housenumber":"52",
+    "addr:postcode":"madrid;28003",
+    "addr:street":"Calle De Cristobal Bordiu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008278477,
-    "wof:lastmodified":1472617529,
+    "wof:lastmodified":1472769367,
     "wof:name":"Productos Macoesa S.a.",
     "wof:parent_id":85863799,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991422901,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Montcada, 27 Barcelona Barcelona 08003",
+    "addr:housenumber":"27",
+    "addr:postcode":"08003",
+    "addr:street":"Carrer De Montcada",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":991422901,
-    "wof:lastmodified":1472550106,
+    "wof:lastmodified":1472769871,
     "wof:name":"Contrast 27 S.l.",
     "wof:parent_id":85799173,
     "wof:placetype":"venue",

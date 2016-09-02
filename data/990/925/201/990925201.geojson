@@ -2,6 +2,10 @@
   "id": 990925201,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda America, 60 Madrid Madrid 28028",
+    "addr:housenumber":"60",
+    "addr:postcode":"madrid;28028",
+    "addr:street":"Avda America",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990925201,
-    "wof:lastmodified":1472510894,
+    "wof:lastmodified":1472767436,
     "wof:name":"Alcarria 2000 S.a.",
     "wof:parent_id":85799435,
     "wof:placetype":"venue",

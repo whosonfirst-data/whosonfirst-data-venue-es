@@ -2,6 +2,10 @@
   "id": 1024462501,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Doctor Esquerdo, 43 Madrid Madrid 28028",
+    "addr:housenumber":"43",
+    "addr:postcode":"madrid;28028",
+    "addr:street":"Calle De Doctor Esquerdo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1024462501,
-    "wof:lastmodified":1472640009,
+    "wof:lastmodified":1472767622,
     "wof:name":"Villanueva Cavestany Ignacio",
     "wof:parent_id":85863677,
     "wof:placetype":"venue",

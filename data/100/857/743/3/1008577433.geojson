@@ -2,6 +2,10 @@
   "id": 1008577433,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Balmes, 117 Barcelona Barcelona 08008",
+    "addr:housenumber":"117",
+    "addr:postcode":"08008",
+    "addr:street":"Carrer De Balmes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008577433,
-    "wof:lastmodified":1472633274,
+    "wof:lastmodified":1472769140,
     "wof:name":"Syngenta Seeds S.a.",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

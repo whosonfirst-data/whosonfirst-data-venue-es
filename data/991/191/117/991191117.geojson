@@ -2,6 +2,10 @@
   "id": 991191117,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Goya, 82 Madrid Madrid 28009",
+    "addr:housenumber":"82",
+    "addr:postcode":"madrid;28009",
+    "addr:street":"Calle De Goya",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991191117,
-    "wof:lastmodified":1472535805,
+    "wof:lastmodified":1472767892,
     "wof:name":"Caballero Valentin Nuria",
     "wof:parent_id":85863677,
     "wof:placetype":"venue",

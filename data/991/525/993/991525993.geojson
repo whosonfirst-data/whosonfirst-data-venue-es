@@ -2,6 +2,10 @@
   "id": 991525993,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Santa Ana Alta, 17 Madrid Madrid 28034",
+    "addr:housenumber":"17",
+    "addr:postcode":"madrid;28034",
+    "addr:street":"Calle De Santa;Alta",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991525993,
-    "wof:lastmodified":1472555766,
+    "wof:lastmodified":1472770194,
     "wof:name":"Don Tendedero S.l.",
     "wof:parent_id":85863563,
     "wof:placetype":"venue",

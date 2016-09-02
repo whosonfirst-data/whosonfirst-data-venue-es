@@ -2,6 +2,10 @@
   "id": 1008500417,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Muntaner, 393 Barcelona Barcelona 08021",
+    "addr:housenumber":"393",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De Muntaner",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1008500417,
-    "wof:lastmodified":1472630032,
+    "wof:lastmodified":1472766820,
     "wof:name":"Sereijo Pinto Concha",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008040211,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Comte Borrell, 186 Barcelona Barcelona 08029",
+    "addr:housenumber":"186",
+    "addr:postcode":"08029",
+    "addr:street":"Carrer De Comte Borrell",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008040211,
-    "wof:lastmodified":1472596912,
+    "wof:lastmodified":1472766725,
     "wof:name":"Morata Martinez Jesus",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008706021,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Tamarit, 105 Barcelona Barcelona 08015",
+    "addr:housenumber":"105",
+    "addr:postcode":"08015",
+    "addr:street":"Carrer De Tamarit",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008706021,
-    "wof:lastmodified":1472638797,
+    "wof:lastmodified":1472768826,
     "wof:name":"Ventura Torres Yolanda",
     "wof:parent_id":85864037,
     "wof:placetype":"venue",

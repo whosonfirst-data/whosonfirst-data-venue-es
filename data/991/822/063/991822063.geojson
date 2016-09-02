@@ -2,6 +2,10 @@
   "id": 991822063,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Fernan Gonzalez, 73 Madrid Madrid 28009",
+    "addr:housenumber":"73",
+    "addr:postcode":"madrid;28009",
+    "addr:street":"Calle De Fernan Gonzalez",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991822063,
-    "wof:lastmodified":1472573140,
+    "wof:lastmodified":1472770287,
     "wof:name":"Gonzalez De Los Santos Manuel",
     "wof:parent_id":85863679,
     "wof:placetype":"venue",

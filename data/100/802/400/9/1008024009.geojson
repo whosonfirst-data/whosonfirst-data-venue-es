@@ -2,6 +2,10 @@
   "id": 1008024009,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Illescas, 28 Madrid Madrid 28024",
+    "addr:housenumber":"28",
+    "addr:postcode":"madrid;28024",
+    "addr:street":"Calle De Illescas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008024009,
-    "wof:lastmodified":1472596225,
+    "wof:lastmodified":1472768029,
     "wof:name":"Monje Torre Florentino",
     "wof:parent_id":85799479,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008090565,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Atocha, 46 Madrid Madrid 28012",
+    "addr:housenumber":"46",
+    "addr:postcode":"madrid;28012",
+    "addr:street":"Calle De Atocha",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008090565,
-    "wof:lastmodified":1472599110,
+    "wof:lastmodified":1472766869,
     "wof:name":"Nestares Lopez Lourdes",
     "wof:parent_id":85863685,
     "wof:placetype":"venue",

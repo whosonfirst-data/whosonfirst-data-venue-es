@@ -2,6 +2,10 @@
   "id": 1024496725,
   "type": "Feature",
   "properties": {
+    "addr:full":"C/Alqueria de Benlloch 24 Valencia 46014",
+    "addr:housenumber":"24",
+    "addr:postcode":"46014",
+    "addr:street":"C / Alqueria;Benlloch",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1024496725,
-    "wof:lastmodified":1472641479,
+    "wof:lastmodified":1472768786,
     "wof:name":"DOMODESK",
     "wof:parent_id":85864219,
     "wof:placetype":"venue",

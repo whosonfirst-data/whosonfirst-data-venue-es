@@ -2,6 +2,10 @@
   "id": 1007772503,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Arago, 279 Barcelona Barcelona 08007",
+    "addr:housenumber":"279",
+    "addr:postcode":"08007",
+    "addr:street":"Carrer De Arago",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007772503,
-    "wof:lastmodified":1472584875,
+    "wof:lastmodified":1472767788,
     "wof:name":"Labat Regules Gerardo",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

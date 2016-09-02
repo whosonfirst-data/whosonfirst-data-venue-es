@@ -2,6 +2,10 @@
   "id": 991793145,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de San Francisco, 85 Bilbao Vizcaya 48003",
+    "addr:housenumber":"85",
+    "addr:postcode":"48003",
+    "addr:street":"Calle De San Francisco",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991793145,
-    "wof:lastmodified":1472571599,
+    "wof:lastmodified":1472770294,
     "wof:name":"Gil Maeso Agustin",
     "wof:parent_id":85863957,
     "wof:placetype":"venue",

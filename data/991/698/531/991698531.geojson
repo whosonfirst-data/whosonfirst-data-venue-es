@@ -2,6 +2,10 @@
   "id": 991698531,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Fornitura, 12 Madrid Madrid 28037",
+    "addr:housenumber":"12",
+    "addr:postcode":"madrid;28037",
+    "addr:street":"Calle De Fornitura",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991698531,
-    "wof:lastmodified":1472565383,
+    "wof:lastmodified":1472770382,
     "wof:name":"Frupel S.l.",
     "wof:parent_id":85863705,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991201183,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sants, 235 Barcelona Barcelona 08028",
+    "addr:housenumber":"235",
+    "addr:postcode":"08028",
+    "addr:street":"Carrer De Sants",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991201183,
-    "wof:lastmodified":1472536593,
+    "wof:lastmodified":1472767913,
     "wof:name":"Caixa D'estalvis De Catalunya",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

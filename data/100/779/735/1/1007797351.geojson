@@ -2,6 +2,10 @@
   "id": 1007797351,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Artistas, 41 Madrid Madrid 28020",
+    "addr:housenumber":"41",
+    "addr:postcode":"madrid;28020",
+    "addr:street":"Calle De Artistas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007797351,
-    "wof:lastmodified":1472586170,
+    "wof:lastmodified":1472769142,
     "wof:name":"Leal Gomez Jose",
     "wof:parent_id":85799245,
     "wof:placetype":"venue",

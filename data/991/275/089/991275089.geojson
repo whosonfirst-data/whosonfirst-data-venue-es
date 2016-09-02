@@ -2,6 +2,10 @@
   "id": 991275089,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Oporto, 69 Madrid Madrid 28019",
+    "addr:housenumber":"69",
+    "addr:postcode":"madrid;28019",
+    "addr:street":"Avda Oporto",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991275089,
-    "wof:lastmodified":1472541494,
+    "wof:lastmodified":1472769595,
     "wof:name":"Carrilero Huerta Isabel",
     "wof:parent_id":85799217,
     "wof:placetype":"venue",

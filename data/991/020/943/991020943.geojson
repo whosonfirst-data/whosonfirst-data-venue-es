@@ -2,6 +2,10 @@
   "id": 991020943,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Oca, 71 Madrid Madrid 28025",
+    "addr:housenumber":"71",
+    "addr:postcode":"madrid;28025",
+    "addr:street":"Calle De Oca",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991020943,
-    "wof:lastmodified":1472520777,
+    "wof:lastmodified":1472767110,
     "wof:name":"Asenjo Invarato Felix",
     "wof:parent_id":85863765,
     "wof:placetype":"venue",

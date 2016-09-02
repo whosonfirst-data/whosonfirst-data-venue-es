@@ -2,6 +2,10 @@
   "id": 991356673,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Real Madrid, 37 Madrid Madrid 28025",
+    "addr:housenumber":"37",
+    "addr:postcode":"madrid;28025",
+    "addr:street":"Calle De;Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991356673,
-    "wof:lastmodified":1472545591,
+    "wof:lastmodified":1472769847,
     "wof:name":"Coca Dominguez Jose Angel",
     "wof:parent_id":85863819,
     "wof:placetype":"venue",

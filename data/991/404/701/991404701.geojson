@@ -2,6 +2,10 @@
   "id": 991404701,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pl Karl Marx, 1 Barcelona Barcelona 08035",
+    "addr:housenumber":"1",
+    "addr:postcode":"08035",
+    "addr:street":"Pl;Marx",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991404701,
-    "wof:lastmodified":1472549076,
+    "wof:lastmodified":1472769830,
     "wof:name":"Congregacion De Hermanas Hospitalarias De La Santa Cruz",
     "wof:parent_id":85799399,
     "wof:placetype":"venue",

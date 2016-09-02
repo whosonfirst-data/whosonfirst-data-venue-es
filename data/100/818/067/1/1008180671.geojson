@@ -2,6 +2,10 @@
   "id": 1008180671,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Feliu I Codina, 2 Cornella Llobregat Barcelona 08940",
+    "addr:housenumber":"2",
+    "addr:postcode":"08940",
+    "addr:street":"Carrer De Feliu;Codina",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008180671,
-    "wof:lastmodified":1472605319,
+    "wof:lastmodified":1472766945,
     "wof:name":"Parroquia Sant Miquel",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008386515,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Maiquez, 36 Madrid Madrid 28009",
+    "addr:housenumber":"36",
+    "addr:postcode":"madrid;28009",
+    "addr:street":"Calle De Maiquez",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008386515,
-    "wof:lastmodified":1472625106,
+    "wof:lastmodified":1472768806,
     "wof:name":"Rodriguez Perez Maria Dolores",
     "wof:parent_id":85863679,
     "wof:placetype":"venue",

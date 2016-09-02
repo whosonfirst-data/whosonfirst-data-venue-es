@@ -2,6 +2,10 @@
   "id": 1008100487,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Suecia, 65 Madrid Madrid 28022",
+    "addr:housenumber":"65",
+    "addr:postcode":"madrid;28022",
+    "addr:street":"Calle De Suecia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008100487,
-    "wof:lastmodified":1472599547,
+    "wof:lastmodified":1472766833,
     "wof:name":"Noriega Garrido Fernando",
     "wof:parent_id":85863703,
     "wof:placetype":"venue",

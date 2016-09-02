@@ -2,6 +2,10 @@
   "id": 1008478923,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Doctor Esquerdo, 15 Madrid Madrid 28028",
+    "addr:housenumber":"15",
+    "addr:postcode":"madrid;28028",
+    "addr:street":"Calle De Doctor Esquerdo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008478923,
-    "wof:lastmodified":1472629077,
+    "wof:lastmodified":1472769436,
     "wof:name":"Sanz Caldentey Jose Luis",
     "wof:parent_id":85863683,
     "wof:placetype":"venue",

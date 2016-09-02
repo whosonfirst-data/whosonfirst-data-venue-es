@@ -2,6 +2,10 @@
   "id": 991257211,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Aribau, 112 Barcelona Barcelona 08036",
+    "addr:housenumber":"112",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Aribau",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991257211,
-    "wof:lastmodified":1472540403,
+    "wof:lastmodified":1472768302,
     "wof:name":"Cardinal",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

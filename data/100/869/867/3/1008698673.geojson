@@ -2,6 +2,10 @@
   "id": 1008698673,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Valencia, 606 Barcelona Barcelona 08026",
+    "addr:housenumber":"606",
+    "addr:postcode":"08026",
+    "addr:street":"Carrer De Valencia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008698673,
-    "wof:lastmodified":1472638454,
+    "wof:lastmodified":1472769344,
     "wof:name":"Vecino Pedrosa Javier",
     "wof:parent_id":85799265,
     "wof:placetype":"venue",

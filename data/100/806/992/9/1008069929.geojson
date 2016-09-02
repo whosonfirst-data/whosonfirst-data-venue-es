@@ -2,6 +2,10 @@
   "id": 1008069929,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Moratalaz, 151 Madrid Madrid 28030",
+    "addr:housenumber":"151",
+    "addr:postcode":"28030",
+    "addr:street":"Avda Moratalaz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1008069929,
-    "wof:lastmodified":1472598169,
+    "wof:lastmodified":1472769532,
     "wof:name":"Mutua Mmt Seguros",
     "wof:parent_id":85863715,
     "wof:placetype":"venue",

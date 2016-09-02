@@ -2,6 +2,10 @@
   "id": 1008367293,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Clara Campoamor, 25 Madrid Madrid 28025",
+    "addr:housenumber":"25",
+    "addr:postcode":"madrid;28025",
+    "addr:street":"Calle De Clara Campoamor",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1008367293,
-    "wof:lastmodified":1472624260,
+    "wof:lastmodified":1472769160,
     "wof:name":"Robledo Perdiguero Jesus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

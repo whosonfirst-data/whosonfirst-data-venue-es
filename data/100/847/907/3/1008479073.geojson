@@ -2,6 +2,10 @@
   "id": 1008479073,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Leon, 22 Madrid Madrid 28014",
+    "addr:housenumber":"22",
+    "addr:postcode":"madrid;28014",
+    "addr:street":"Calle De Leon",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008479073,
-    "wof:lastmodified":1472629082,
+    "wof:lastmodified":1472769452,
     "wof:name":"Sanz Checa Esteban",
     "wof:parent_id":85863685,
     "wof:placetype":"venue",

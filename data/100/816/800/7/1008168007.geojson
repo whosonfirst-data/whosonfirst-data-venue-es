@@ -2,6 +2,10 @@
   "id": 1008168007,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Don Ramon De La Cruz, 33 Madrid Madrid 28001",
+    "addr:housenumber":"33",
+    "addr:postcode":"madrid;28001",
+    "addr:street":"Calle De Don Ramon De La Cruz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008168007,
-    "wof:lastmodified":1472603667,
+    "wof:lastmodified":1472769235,
     "wof:name":"Parejo Gamir Roberto",
     "wof:parent_id":85863675,
     "wof:placetype":"venue",

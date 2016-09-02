@@ -2,6 +2,10 @@
   "id": 1008668405,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Pio Xii, 61 Madrid Madrid 28016",
+    "addr:housenumber":"61",
+    "addr:postcode":"madrid;28016",
+    "addr:street":"Avda Pio Xii",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008668405,
-    "wof:lastmodified":1472637147,
+    "wof:lastmodified":1472769346,
     "wof:name":"Unicuenta",
     "wof:parent_id":85863595,
     "wof:placetype":"venue",

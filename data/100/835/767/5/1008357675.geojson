@@ -2,6 +2,10 @@
   "id": 1008357675,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Girona, 99 Barcelona Barcelona 08009",
+    "addr:housenumber":"99",
+    "addr:postcode":"08009",
+    "addr:street":"Carrer De Girona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008357675,
-    "wof:lastmodified":1472623833,
+    "wof:lastmodified":1472769063,
     "wof:name":"Riera Guasch Sebastian",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

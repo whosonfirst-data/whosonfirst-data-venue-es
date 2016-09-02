@@ -2,6 +2,10 @@
   "id": 1008655111,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Augusto Figueroa, 14 Madrid Madrid 28004",
+    "addr:housenumber":"14",
+    "addr:postcode":"madrid;28004",
+    "addr:street":"Calle De Augusto Figueroa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1008655111,
-    "wof:lastmodified":1472636605,
+    "wof:lastmodified":1472768566,
     "wof:name":"Tres Precios S.c.v.",
     "wof:parent_id":85863791,
     "wof:placetype":"venue",

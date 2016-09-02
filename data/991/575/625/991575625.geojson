@@ -2,6 +2,10 @@
   "id": 991575625,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Francisco Cabo, 10 Madrid Madrid 28029",
+    "addr:housenumber":"10",
+    "addr:postcode":"madrid;28029",
+    "addr:street":"Calle De Francisco Cabo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991575625,
-    "wof:lastmodified":1472558492,
+    "wof:lastmodified":1472770086,
     "wof:name":"Escobar Martinez Luis",
     "wof:parent_id":85863561,
     "wof:placetype":"venue",

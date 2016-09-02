@@ -2,6 +2,10 @@
   "id": 1008369763,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Maria Cubi, 197 Barcelona Barcelona 08021",
+    "addr:housenumber":"197",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De Maria Cubi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008369763,
-    "wof:lastmodified":1472624353,
+    "wof:lastmodified":1472769540,
     "wof:name":"Roca Teruel Gabriel",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

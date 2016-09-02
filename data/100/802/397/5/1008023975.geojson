@@ -2,6 +2,10 @@
   "id": 1008023975,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Jota, 144 Barcelona Barcelona 08016",
+    "addr:housenumber":"144",
+    "addr:postcode":"08016",
+    "addr:street":"Carrer De Jota",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008023975,
-    "wof:lastmodified":1472596224,
+    "wof:lastmodified":1472768021,
     "wof:name":"Monje Moliner Maria Victoria",
     "wof:parent_id":85799399,
     "wof:placetype":"venue",

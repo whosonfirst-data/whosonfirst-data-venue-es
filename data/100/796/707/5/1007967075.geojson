@@ -2,6 +2,10 @@
   "id": 1007967075,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Maria Rosa, 25 Fatjo Barcelona 08940",
+    "addr:housenumber":"25",
+    "addr:postcode":"08940",
+    "addr:street":"Carrer De Maria Rosa;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007967075,
-    "wof:lastmodified":1472593835,
+    "wof:lastmodified":1472768669,
     "wof:name":"Mecaelectric Arnau S.l.",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",

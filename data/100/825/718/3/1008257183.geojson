@@ -2,6 +2,10 @@
   "id": 1008257183,
   "type": "Feature",
   "properties": {
+    "addr:full":"Plaz Cebada, 15 Madrid Madrid 28005",
+    "addr:housenumber":"15",
+    "addr:postcode":"madrid;28005",
+    "addr:street":"Cebada",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008257183,
-    "wof:lastmodified":1472616407,
+    "wof:lastmodified":1472769044,
     "wof:name":"Polo Avila Buenaventura",
     "wof:parent_id":85863775,
     "wof:placetype":"venue",

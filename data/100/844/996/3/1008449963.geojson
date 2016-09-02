@@ -2,6 +2,10 @@
   "id": 1008449963,
   "type": "Feature",
   "properties": {
+    "addr:full":"C/ Zurbano, 53 Cerdanyola Valles Barcelona 08290",
+    "addr:housenumber":"53",
+    "addr:postcode":"08290",
+    "addr:street":"C / Zurbano;Valles Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008449963,
-    "wof:lastmodified":1472627943,
+    "wof:lastmodified":1472769475,
     "wof:name":"Sanchez Diez Pedro",
     "wof:parent_id":85799639,
     "wof:placetype":"venue",

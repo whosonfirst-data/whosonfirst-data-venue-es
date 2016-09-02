@@ -2,6 +2,10 @@
   "id": 1008651203,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Pi I Margall, 123 Caldes Montbui Barcelona 08140",
+    "addr:housenumber":"123",
+    "addr:postcode":"08140",
+    "addr:street":"Av Pi I Margall;Montbui Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008651203,
-    "wof:lastmodified":1472636455,
+    "wof:lastmodified":1472767180,
     "wof:name":"Transportes Truyols S. A.",
     "wof:parent_id":85799453,
     "wof:placetype":"venue",

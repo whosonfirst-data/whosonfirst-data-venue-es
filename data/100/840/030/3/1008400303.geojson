@@ -2,6 +2,10 @@
   "id": 1008400303,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Hilarion Eslava, 38 Madrid Madrid 28015",
+    "addr:housenumber":"38",
+    "addr:postcode":"madrid;28015",
+    "addr:street":"Calle De Hilarion Eslava",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008400303,
-    "wof:lastmodified":1472625723,
+    "wof:lastmodified":1472766801,
     "wof:name":"Romero Jimenez Paloma",
     "wof:parent_id":85863655,
     "wof:placetype":"venue",

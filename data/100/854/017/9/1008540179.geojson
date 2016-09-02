@@ -2,6 +2,10 @@
   "id": 1008540179,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Hispanidad, 12 Madrid Madrid 28...",
+    "addr:housenumber":"12;28 ...",
+    "addr:postcode":"madrid",
+    "addr:street":"Avda Hispanidad;Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1008540179,
-    "wof:lastmodified":1472631704,
+    "wof:lastmodified":1472766731,
     "wof:name":"Sociedad Estatal Para Las Ense\u00d1anzas Aeronauticas",
     "wof:parent_id":102545773,
     "wof:placetype":"venue",

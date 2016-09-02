@@ -2,6 +2,10 @@
   "id": 1007703469,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Aragon, 30 Valencia Valencia 46...",
+    "addr:housenumber":"30",
+    "addr:postcode":"",
+    "addr:street":"Avda Aragon;Valencia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007703469,
-    "wof:lastmodified":1472581132,
+    "wof:lastmodified":1472768074,
     "wof:name":"International Business Machines S.a.e.",
     "wof:parent_id":85864215,
     "wof:placetype":"venue",

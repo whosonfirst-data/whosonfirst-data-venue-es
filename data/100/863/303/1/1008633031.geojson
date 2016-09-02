@@ -2,6 +2,10 @@
   "id": 1008633031,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Joan, 55 Calella Barcelona 08370",
+    "addr:housenumber":"55",
+    "addr:postcode":"08370",
+    "addr:street":"Carrer De Sant Joan",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008633031,
-    "wof:lastmodified":1472635671,
+    "wof:lastmodified":1472768053,
     "wof:name":"Torne Palomares Jacinto",
     "wof:parent_id":85799549,
     "wof:placetype":"venue",

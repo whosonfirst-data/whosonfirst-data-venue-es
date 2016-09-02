@@ -2,6 +2,10 @@
   "id": 1008148609,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Pau, 29 Caldes Montbui Barcelona 08140",
+    "addr:housenumber":"29",
+    "addr:postcode":"08140",
+    "addr:street":"Carrer De Sant Pau;Montbui Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008148609,
-    "wof:lastmodified":1472601781,
+    "wof:lastmodified":1472769132,
     "wof:name":"Pacor S.a",
     "wof:parent_id":85799453,
     "wof:placetype":"venue",

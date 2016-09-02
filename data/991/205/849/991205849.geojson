@@ -2,6 +2,10 @@
   "id": 991205849,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Maria De Molina, 6 Madrid Madrid 28...",
+    "addr:housenumber":"6;28 ...",
+    "addr:postcode":"",
+    "addr:street":"Calle De Maria De Molina;Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991205849,
-    "wof:lastmodified":1472536961,
+    "wof:lastmodified":1472768225,
     "wof:name":"Caixa D'estalvis I Pensions De Barcelona",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",

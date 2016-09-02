@@ -2,6 +2,10 @@
   "id": 1008657241,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Rossello, 205 Barcelona Barcelona 08008",
+    "addr:housenumber":"205",
+    "addr:postcode":"08008",
+    "addr:street":"Carrer De Rossello",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008657241,
-    "wof:lastmodified":1472636691,
+    "wof:lastmodified":1472769044,
     "wof:name":"Triser S. A.",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

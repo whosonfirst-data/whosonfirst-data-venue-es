@@ -2,6 +2,10 @@
   "id": 1008506827,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Doctor Esteve, 19 Manresa Barcelona 08242",
+    "addr:housenumber":"19",
+    "addr:postcode":"08242",
+    "addr:street":"Carrer De Doctor Esteve",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008506827,
-    "wof:lastmodified":1472630311,
+    "wof:lastmodified":1472769008,
     "wof:name":"Serra Ribera Maria Carmen",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

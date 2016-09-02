@@ -2,6 +2,10 @@
   "id": 1007811037,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Bruc, 30 Barcelona Barcelona 08010",
+    "addr:housenumber":"30",
+    "addr:postcode":"08010",
+    "addr:street":"Carrer De Bruc",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1007811037,
-    "wof:lastmodified":1472586903,
+    "wof:lastmodified":1472767050,
     "wof:name":"Linea Perfil S. A.",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

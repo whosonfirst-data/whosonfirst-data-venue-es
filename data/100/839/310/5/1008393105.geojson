@@ -2,6 +2,10 @@
   "id": 1008393105,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Padua, 100 Barcelona Barcelona 08006",
+    "addr:housenumber":"100",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Padua",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008393105,
-    "wof:lastmodified":1472625452,
+    "wof:lastmodified":1472767986,
     "wof:name":"Roig Huerta Alejandro",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991326785,
   "type": "Feature",
   "properties": {
+    "addr:full":"Salvador Allende, 38 Madrid Madrid 28054",
+    "addr:housenumber":"38",
+    "addr:postcode":"madrid;28054",
+    "addr:street":"Allende",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":991326785,
-    "wof:lastmodified":1472543876,
+    "wof:lastmodified":1472769850,
     "wof:name":"Cerrajero Cerrajero Juan Jose",
     "wof:parent_id":85863785,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008602533,
   "type": "Feature",
   "properties": {
+    "addr:full":"Plaz Ayuntamiento, 17 Valencia Valencia 46...",
+    "addr:housenumber":"17;46 ...",
+    "addr:postcode":"",
+    "addr:street":"Valencia Valencia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008602533,
-    "wof:lastmodified":1472634364,
+    "wof:lastmodified":1472767712,
     "wof:name":"Teatres De La Generalitat Valenciana",
     "wof:parent_id":85864217,
     "wof:placetype":"venue",

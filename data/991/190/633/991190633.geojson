@@ -2,6 +2,10 @@
   "id": 991190633,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Minerva, 20 Madrid Madrid 28032",
+    "addr:housenumber":"20",
+    "addr:postcode":"madrid;28032",
+    "addr:street":"Calle De Minerva",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991190633,
-    "wof:lastmodified":1472535752,
+    "wof:lastmodified":1472768053,
     "wof:name":"Caballero Lopez Emilio",
     "wof:parent_id":85799663,
     "wof:placetype":"venue",

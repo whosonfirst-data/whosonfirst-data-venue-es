@@ -2,6 +2,10 @@
   "id": 1008468379,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pase San Francisco De Sales, 28 Madrid Madrid 28003",
+    "addr:housenumber":"28",
+    "addr:postcode":"madrid;28003",
+    "addr:street":"Francisco De Sales",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008468379,
-    "wof:lastmodified":1472628649,
+    "wof:lastmodified":1472769275,
     "wof:name":"San Juan Arroyo Angel",
     "wof:parent_id":85863653,
     "wof:placetype":"venue",

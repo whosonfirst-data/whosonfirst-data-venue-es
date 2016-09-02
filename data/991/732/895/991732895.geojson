@@ -2,6 +2,10 @@
   "id": 991732895,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Ausias Marc, 67 Barcelona Barcelona 08010",
+    "addr:housenumber":"67",
+    "addr:postcode":"08010",
+    "addr:street":"Carrer De Ausias Marc",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":991732895,
-    "wof:lastmodified":1472567123,
+    "wof:lastmodified":1472770462,
     "wof:name":"Garces Coll Orencio",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

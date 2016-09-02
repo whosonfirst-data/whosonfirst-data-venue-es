@@ -2,6 +2,10 @@
   "id": 1008175003,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Bocangel, 13 Madrid Madrid 28028",
+    "addr:housenumber":"13",
+    "addr:postcode":"madrid;28028",
+    "addr:street":"Calle De Bocangel",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008175003,
-    "wof:lastmodified":1472604600,
+    "wof:lastmodified":1472768478,
     "wof:name":"Parroquia De San Patricio",
     "wof:parent_id":85863683,
     "wof:placetype":"venue",

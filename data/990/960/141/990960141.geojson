@@ -2,6 +2,10 @@
   "id": 990960141,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Joan Torras, 25 Barcelona Barcelona 08030",
+    "addr:housenumber":"25",
+    "addr:postcode":"08030",
+    "addr:street":"Carrer De Joan Torras",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990960141,
-    "wof:lastmodified":1472515848,
+    "wof:lastmodified":1472767577,
     "wof:name":"Alvarez Sanchez Jose Antonio",
     "wof:parent_id":85799559,
     "wof:placetype":"venue",

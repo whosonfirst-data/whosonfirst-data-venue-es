@@ -2,6 +2,10 @@
   "id": 991243015,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pl Pep Ventura, 1 Barcelona Barcelona 08017",
+    "addr:housenumber":"1",
+    "addr:postcode":"08017",
+    "addr:street":"Pl;Ventura",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991243015,
-    "wof:lastmodified":1472539727,
+    "wof:lastmodified":1472768162,
     "wof:name":"Canal Julien Carlos Ignacio",
     "wof:parent_id":85799651,
     "wof:placetype":"venue",

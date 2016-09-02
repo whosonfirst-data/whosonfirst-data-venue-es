@@ -2,6 +2,10 @@
   "id": 1007971451,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Rios Rosas, 30 Madrid Madrid 28003",
+    "addr:housenumber":"30",
+    "addr:postcode":"madrid;28003",
+    "addr:street":"Calle De Rios Rosas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1007971451,
-    "wof:lastmodified":1472594016,
+    "wof:lastmodified":1472767227,
     "wof:name":"Medina Ortiz Alejandro",
     "wof:parent_id":85863649,
     "wof:placetype":"venue",

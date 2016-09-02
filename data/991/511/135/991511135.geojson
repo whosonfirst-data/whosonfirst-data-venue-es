@@ -2,6 +2,10 @@
   "id": 991511135,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Bruc, 113 Manresa Barcelona 08241",
+    "addr:housenumber":"113",
+    "addr:postcode":"08241",
+    "addr:street":"Carrer De Bruc",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":991511135,
-    "wof:lastmodified":1472554941,
+    "wof:lastmodified":1472769921,
     "wof:name":"Dissenys Dimont S.l.",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

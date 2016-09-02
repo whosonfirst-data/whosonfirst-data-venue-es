@@ -2,6 +2,10 @@
   "id": 1007810639,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Emilio Ferrari, 65 Madrid Madrid 28017",
+    "addr:housenumber":"65",
+    "addr:postcode":"madrid;28017",
+    "addr:street":"Calle De Emilio Ferrari",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007810639,
-    "wof:lastmodified":1472586883,
+    "wof:lastmodified":1472766900,
     "wof:name":"Linde Garcia Juan",
     "wof:parent_id":85799257,
     "wof:placetype":"venue",

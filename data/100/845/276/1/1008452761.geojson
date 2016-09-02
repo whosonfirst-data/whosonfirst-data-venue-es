@@ -2,6 +2,10 @@
   "id": 1008452761,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Bosc, 37 Barcelona Barcelona 08017",
+    "addr:housenumber":"37",
+    "addr:postcode":"08017",
+    "addr:street":"Carrer De Bosc",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008452761,
-    "wof:lastmodified":1472628042,
+    "wof:lastmodified":1472767710,
     "wof:name":"Sanchez Gonzalez Pedro",
     "wof:parent_id":85799651,
     "wof:placetype":"venue",

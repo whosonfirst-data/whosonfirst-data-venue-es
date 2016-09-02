@@ -2,6 +2,10 @@
   "id": 991816571,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Reina, 15 Madrid Madrid 28004",
+    "addr:housenumber":"15",
+    "addr:postcode":"madrid;28004",
+    "addr:street":"Calle De Reina",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991816571,
-    "wof:lastmodified":1472572851,
+    "wof:lastmodified":1472770482,
     "wof:name":"Gomez Zuloaga Javier",
     "wof:parent_id":85863791,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008618915,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Badajoz, 69 Barcelona Barcelona 08005",
+    "addr:housenumber":"69",
+    "addr:postcode":"08005",
+    "addr:street":"Carrer De Badajoz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008618915,
-    "wof:lastmodified":1472635086,
+    "wof:lastmodified":1472769449,
     "wof:name":"Tesauro S.a.",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

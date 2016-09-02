@@ -2,6 +2,10 @@
   "id": 1008222289,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Romans, 40 Barcelona Barcelona 08025",
+    "addr:housenumber":"40",
+    "addr:postcode":"08025",
+    "addr:street":"Carrer De Romans",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008222289,
-    "wof:lastmodified":1472613626,
+    "wof:lastmodified":1472767568,
     "wof:name":"Perez Ruiz Jose Luis",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

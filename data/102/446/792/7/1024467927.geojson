@@ -2,6 +2,10 @@
   "id": 1024467927,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Josep Tarradellas, 23 Barcelona Barcelona 08029",
+    "addr:housenumber":"23",
+    "addr:postcode":"08029",
+    "addr:street":"Av Josep Tarradellas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1024467927,
-    "wof:lastmodified":1472640250,
+    "wof:lastmodified":1472769102,
     "wof:name":"Virgili Esteban Victor",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

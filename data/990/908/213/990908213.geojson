@@ -2,6 +2,10 @@
   "id": 990908213,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Tavern, 34 Barcelona Barcelona 08021",
+    "addr:housenumber":"34",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De Tavern",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990908213,
-    "wof:lastmodified":1472509410,
+    "wof:lastmodified":1472767193,
     "wof:name":"Agustin Barral S.a.",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

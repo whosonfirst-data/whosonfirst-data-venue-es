@@ -2,6 +2,10 @@
   "id": 991336349,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Gerardo Diego, 13 Madrid Madrid 28018",
+    "addr:housenumber":"13",
+    "addr:postcode":"madrid;28018",
+    "addr:street":"Calle De Gerardo Diego",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991336349,
-    "wof:lastmodified":1472544357,
+    "wof:lastmodified":1472769701,
     "wof:name":"Choclan Perez Ramon",
     "wof:parent_id":85799645,
     "wof:placetype":"venue",

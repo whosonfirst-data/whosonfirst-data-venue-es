@@ -2,6 +2,10 @@
   "id": 991325663,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda El Ferrol, 32 Madrid Madrid 28029",
+    "addr:housenumber":"32",
+    "addr:postcode":"madrid;28029",
+    "addr:street":"Avda El Ferrol",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991325663,
-    "wof:lastmodified":1472543831,
+    "wof:lastmodified":1472769779,
     "wof:name":"Cerrada Cerrada Julian",
     "wof:parent_id":85863561,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991273939,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Pelayo, 43 Madrid Madrid 28004",
+    "addr:housenumber":"43",
+    "addr:postcode":"madrid;28004",
+    "addr:street":"Calle De Pelayo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991273939,
-    "wof:lastmodified":1472541443,
+    "wof:lastmodified":1472769568,
     "wof:name":"Carreres Fajardo Victoriano",
     "wof:parent_id":85863791,
     "wof:placetype":"venue",

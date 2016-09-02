@@ -2,6 +2,10 @@
   "id": 1008520855,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Mallorca, 214 Barcelona Barcelona 08008",
+    "addr:housenumber":"214",
+    "addr:postcode":"08008",
+    "addr:street":"Carrer De Mallorca",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008520855,
-    "wof:lastmodified":1472630889,
+    "wof:lastmodified":1472767002,
     "wof:name":"Sicsafuturo S.a.",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

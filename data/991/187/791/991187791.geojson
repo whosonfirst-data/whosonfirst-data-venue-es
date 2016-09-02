@@ -2,6 +2,10 @@
   "id": 991187791,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Casanova, 71 Barcelona Barcelona 08011",
+    "addr:housenumber":"71",
+    "addr:postcode":"08011",
+    "addr:street":"Carrer De Casanova",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991187791,
-    "wof:lastmodified":1472535524,
+    "wof:lastmodified":1472768117,
     "wof:name":"Busquet Pont Tomas",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

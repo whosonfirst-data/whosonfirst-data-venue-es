@@ -2,6 +2,10 @@
   "id": 1008467063,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Amposta, 42 Barcelona Barcelona 08004",
+    "addr:housenumber":"42",
+    "addr:postcode":"08004",
+    "addr:street":"Carrer De Amposta",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008467063,
-    "wof:lastmodified":1472628588,
+    "wof:lastmodified":1472769001,
     "wof:name":"Sanfelimon Burriel Fernando",
     "wof:parent_id":85864039,
     "wof:placetype":"venue",

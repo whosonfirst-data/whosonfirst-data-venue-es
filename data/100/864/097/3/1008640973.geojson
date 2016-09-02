@@ -2,6 +2,10 @@
   "id": 1008640973,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Ramon Turro, 100 Barcelona Barcelona 08005",
+    "addr:housenumber":"100",
+    "addr:postcode":"08005",
+    "addr:street":"Carrer De Ramon Turro",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1008640973,
-    "wof:lastmodified":1472636008,
+    "wof:lastmodified":1472767090,
     "wof:name":"Torroja Roca Alberto",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1007803607,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Llull, 203 Barcelona Barcelona 08005",
+    "addr:housenumber":"203",
+    "addr:postcode":"08005",
+    "addr:street":"Carrer De Llull",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1007803607,
-    "wof:lastmodified":1472586522,
+    "wof:lastmodified":1472768282,
     "wof:name":"Leris Casals Alejandro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

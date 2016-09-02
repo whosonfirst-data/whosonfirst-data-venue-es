@@ -2,6 +2,10 @@
   "id": 1008456701,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Cerro De La Alcazaba, 33 Madrid Madrid 28053",
+    "addr:housenumber":"33",
+    "addr:postcode":"madrid;28053",
+    "addr:street":"Calle De Cerro De La Alcazaba",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008456701,
-    "wof:lastmodified":1472628182,
+    "wof:lastmodified":1472768779,
     "wof:name":"Sanchez Miranda Miguel",
     "wof:parent_id":85863729,
     "wof:placetype":"venue",

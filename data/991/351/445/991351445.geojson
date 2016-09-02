@@ -2,6 +2,10 @@
   "id": 991351445,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Llacuna, 170 Barcelona Barcelona 08018",
+    "addr:housenumber":"170",
+    "addr:postcode":"08018",
+    "addr:street":"Carrer De Llacuna",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991351445,
-    "wof:lastmodified":1472545230,
+    "wof:lastmodified":1472769764,
     "wof:name":"Club De Basquet Grup Barna",
     "wof:parent_id":85799265,
     "wof:placetype":"venue",

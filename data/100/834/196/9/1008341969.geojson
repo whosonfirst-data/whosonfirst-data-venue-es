@@ -2,6 +2,10 @@
   "id": 1008341969,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda America, 18 Madrid Madrid 28028",
+    "addr:housenumber":"18",
+    "addr:postcode":"madrid;28028",
+    "addr:street":"Avda America",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1008341969,
-    "wof:lastmodified":1472623153,
+    "wof:lastmodified":1472767377,
     "wof:name":"Repsol Ypf S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

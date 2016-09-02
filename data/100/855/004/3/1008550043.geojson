@@ -2,6 +2,10 @@
   "id": 1008550043,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Aribau, 231 Barcelona Barcelona 08021",
+    "addr:housenumber":"231",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De Aribau",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008550043,
-    "wof:lastmodified":1472632100,
+    "wof:lastmodified":1472766664,
     "wof:name":"Solsona Miro Juan",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

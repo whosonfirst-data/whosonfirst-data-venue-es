@@ -2,6 +2,10 @@
   "id": 1008445161,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Poblados, 70 Madrid Madrid 28044",
+    "addr:housenumber":"70",
+    "addr:postcode":"madrid;28044",
+    "addr:street":"Avda Poblados",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008445161,
-    "wof:lastmodified":1472627764,
+    "wof:lastmodified":1472768579,
     "wof:name":"Sanatorio Esquerdo S. A.",
     "wof:parent_id":85863817,
     "wof:placetype":"venue",

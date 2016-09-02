@@ -2,6 +2,10 @@
   "id": 1007821799,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Madrazo, 33 Barcelona Barcelona 08006",
+    "addr:housenumber":"33",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Madrazo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007821799,
-    "wof:lastmodified":1472587379,
+    "wof:lastmodified":1472767504,
     "wof:name":"Lluch Perez Antonio Maria",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

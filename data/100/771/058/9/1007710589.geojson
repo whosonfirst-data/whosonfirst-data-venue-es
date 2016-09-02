@@ -2,6 +2,10 @@
   "id": 1007710589,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Ciudad De Barcelona, 39 Madrid Madrid 28007",
+    "addr:housenumber":"39",
+    "addr:postcode":"madrid;28007",
+    "addr:street":"Avda Ciudad De Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1007710589,
-    "wof:lastmodified":1472581481,
+    "wof:lastmodified":1472766905,
     "wof:name":"Isaac",
     "wof:parent_id":85863739,
     "wof:placetype":"venue",

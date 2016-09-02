@@ -2,6 +2,10 @@
   "id": 1008120359,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Muntaner, 108 Barcelona Barcelona 08036",
+    "addr:housenumber":"108",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Muntaner",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008120359,
-    "wof:lastmodified":1472600402,
+    "wof:lastmodified":1472766808,
     "wof:name":"Oliva Ferran Josefina",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

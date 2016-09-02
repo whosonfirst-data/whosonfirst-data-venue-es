@@ -2,6 +2,10 @@
   "id": 1008668377,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Hermosilla, 21 Madrid Madrid 28001",
+    "addr:housenumber":"21",
+    "addr:postcode":"madrid;28001",
+    "addr:street":"Calle De Hermosilla",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008668377,
-    "wof:lastmodified":1472637146,
+    "wof:lastmodified":1472769330,
     "wof:name":"Uniconsult",
     "wof:parent_id":85863809,
     "wof:placetype":"venue",

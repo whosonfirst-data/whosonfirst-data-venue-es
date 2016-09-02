@@ -2,6 +2,10 @@
   "id": 1007723019,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Monte Igueldo, 123 Madrid Madrid 28053",
+    "addr:housenumber":"123",
+    "addr:postcode":"28053",
+    "addr:street":"Avda Monte Igueldo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007723019,
-    "wof:lastmodified":1472582106,
+    "wof:lastmodified":1472767808,
     "wof:name":"Javier Bustos Paris S. A.",
     "wof:parent_id":85863729,
     "wof:placetype":"venue",

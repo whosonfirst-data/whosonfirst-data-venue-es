@@ -2,6 +2,10 @@
   "id": 1008383051,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Vicente Carballal, 7 Madrid Madrid 28021",
+    "addr:housenumber":"7",
+    "addr:postcode":"madrid;28021",
+    "addr:street":"Calle De Vicente Carballal",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008383051,
-    "wof:lastmodified":1472624891,
+    "wof:lastmodified":1472767850,
     "wof:name":"Rodriguez Marcos Felix",
     "wof:parent_id":85799667,
     "wof:placetype":"venue",

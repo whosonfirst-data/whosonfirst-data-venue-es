@@ -2,6 +2,10 @@
   "id": 1008295811,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Corsega, 230 Barcelona Barcelona 08036",
+    "addr:housenumber":"230",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Corsega",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008295811,
-    "wof:lastmodified":1472618640,
+    "wof:lastmodified":1472768590,
     "wof:name":"Puig Rubio Montserrat",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008410199,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Verdi, 3 Barcelona Barcelona 08012",
+    "addr:housenumber":"3",
+    "addr:postcode":"08012",
+    "addr:street":"Carrer De Verdi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008410199,
-    "wof:lastmodified":1472626261,
+    "wof:lastmodified":1472766750,
     "wof:name":"Rovira Gustems Marta",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

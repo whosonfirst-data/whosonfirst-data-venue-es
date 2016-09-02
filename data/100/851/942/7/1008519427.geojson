@@ -2,6 +2,10 @@
   "id": 1008519427,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Montserrat, 122 Caldes Montbui Barcelona 08140",
+    "addr:housenumber":"122",
+    "addr:postcode":"08140",
+    "addr:street":"Carrer De Montserrat;Montbui Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":1008519427,
-    "wof:lastmodified":1472630826,
+    "wof:lastmodified":1472769298,
     "wof:name":"Sgi Sistemas S.a.",
     "wof:parent_id":85799453,
     "wof:placetype":"venue",

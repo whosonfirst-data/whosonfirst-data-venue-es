@@ -2,6 +2,10 @@
   "id": 991386619,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pase Habana, 140 Madrid Madrid 28...",
+    "addr:housenumber":"140;28 ...",
+    "addr:postcode":"madrid",
+    "addr:street":"Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991386619,
-    "wof:lastmodified":1472547847,
+    "wof:lastmodified":1472769829,
     "wof:name":"Comisionado Para El Mercado De Tabacos",
     "wof:parent_id":85799237,
     "wof:placetype":"venue",

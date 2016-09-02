@@ -2,6 +2,10 @@
   "id": 1008347413,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Arte, 14 Madrid Madrid 28033",
+    "addr:housenumber":"14",
+    "addr:postcode":"madrid;28033",
+    "addr:street":"Calle De Arte",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008347413,
-    "wof:lastmodified":1472623387,
+    "wof:lastmodified":1472769087,
     "wof:name":"Restaurante Sake S.l.",
     "wof:parent_id":85863567,
     "wof:placetype":"venue",

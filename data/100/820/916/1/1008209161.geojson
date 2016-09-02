@@ -2,6 +2,10 @@
   "id": 1008209161,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Santa Amelia, 53 Barcelona Barcelona 08034",
+    "addr:housenumber":"53",
+    "addr:postcode":"08034",
+    "addr:street":"Carrer De Santa Amelia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008209161,
-    "wof:lastmodified":1472611620,
+    "wof:lastmodified":1472769386,
     "wof:name":"Perez Calvo Carmen",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

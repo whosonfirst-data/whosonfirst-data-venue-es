@@ -2,6 +2,10 @@
   "id": 1007796293,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Doctor Vallejo, 12 Madrid Madrid 28027",
+    "addr:housenumber":"12",
+    "addr:postcode":"madrid;28027",
+    "addr:street":"Calle De Doctor Vallejo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007796293,
-    "wof:lastmodified":1472586115,
+    "wof:lastmodified":1472768851,
     "wof:name":"Lazaro Hernando Irene",
     "wof:parent_id":85863639,
     "wof:placetype":"venue",

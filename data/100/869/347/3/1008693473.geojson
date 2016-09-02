@@ -2,6 +2,10 @@
   "id": 1008693473,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Pi, 5 Barcelona Barcelona 08002",
+    "addr:housenumber":"5",
+    "addr:postcode":"08002",
+    "addr:street":"Carrer De Pi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008693473,
-    "wof:lastmodified":1472638219,
+    "wof:lastmodified":1472768017,
     "wof:name":"Vargas De Mingo Julia",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",

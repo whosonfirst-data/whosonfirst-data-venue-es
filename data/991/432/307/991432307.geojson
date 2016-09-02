@@ -2,6 +2,10 @@
   "id": 991432307,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Lepant, 256 Barcelona Barcelona 08013",
+    "addr:housenumber":"256",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Lepant",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991432307,
-    "wof:lastmodified":1472550645,
+    "wof:lastmodified":1472769657,
     "wof:name":"Corcoles Reina Agustin",
     "wof:parent_id":85864013,
     "wof:placetype":"venue",

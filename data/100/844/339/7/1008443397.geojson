@@ -2,6 +2,10 @@
   "id": 1008443397,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Balmes, 366 Barcelona Barcelona 08006",
+    "addr:housenumber":"366",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Balmes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008443397,
-    "wof:lastmodified":1472627694,
+    "wof:lastmodified":1472768047,
     "wof:name":"Salvat Roig Maria Angeles",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

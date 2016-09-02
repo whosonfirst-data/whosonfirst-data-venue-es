@@ -2,6 +2,10 @@
   "id": 1008352309,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Pau, 39 Sabadell Barcelona 08201",
+    "addr:housenumber":"39",
+    "addr:postcode":"08201",
+    "addr:street":"Carrer De Sant Pau",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008352309,
-    "wof:lastmodified":1472623615,
+    "wof:lastmodified":1472767516,
     "wof:name":"Reynes San Nicolas Isaac",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

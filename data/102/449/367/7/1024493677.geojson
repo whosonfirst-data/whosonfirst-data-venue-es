@@ -2,6 +2,10 @@
   "id": 1024493677,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Ayala, 27 Madrid Madrid 28001",
+    "addr:housenumber":"27",
+    "addr:postcode":"madrid;28001",
+    "addr:street":"Calle De Ayala",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1024493677,
-    "wof:lastmodified":1472641358,
+    "wof:lastmodified":1472768179,
     "wof:name":"Zimmermann Hein Ana Isabel",
     "wof:parent_id":85863675,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991474009,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Santa Eugenia, 12 Madrid Madrid 28031",
+    "addr:housenumber":"12",
+    "addr:postcode":"madrid;28031",
+    "addr:street":"Avda Santa Eugenia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991474009,
-    "wof:lastmodified":1472553023,
+    "wof:lastmodified":1472769834,
     "wof:name":"Decon 86 S. A.",
     "wof:parent_id":85863725,
     "wof:placetype":"venue",

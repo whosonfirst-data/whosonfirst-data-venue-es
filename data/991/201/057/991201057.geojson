@@ -2,6 +2,10 @@
   "id": 991201057,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Girona, 22 Barcelona Barcelona 08010",
+    "addr:housenumber":"22",
+    "addr:postcode":"08010",
+    "addr:street":"Carrer De Girona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":991201057,
-    "wof:lastmodified":1472536585,
+    "wof:lastmodified":1472767886,
     "wof:name":"Caixa D'estalvis De Catalunya",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

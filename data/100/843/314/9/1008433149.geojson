@@ -2,6 +2,10 @@
   "id": 1008433149,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Casp, 78 Barcelona Barcelona 08010",
+    "addr:housenumber":"78",
+    "addr:postcode":"08010",
+    "addr:street":"Carrer De Casp",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008433149,
-    "wof:lastmodified":1472627314,
+    "wof:lastmodified":1472767898,
     "wof:name":"Sagrera Almuzara Gema",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

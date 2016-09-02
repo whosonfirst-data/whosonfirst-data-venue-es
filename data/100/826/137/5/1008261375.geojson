@@ -2,6 +2,10 @@
   "id": 1008261375,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Jaume I, 18 Pineda Mar Barcelona 08397",
+    "addr:housenumber":"18",
+    "addr:postcode":"08397",
+    "addr:street":"Carrer De Jaume I;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008261375,
-    "wof:lastmodified":1472616588,
+    "wof:lastmodified":1472767166,
     "wof:name":"Porqueras Antonin Maria Angeles",
     "wof:parent_id":85799549,
     "wof:placetype":"venue",

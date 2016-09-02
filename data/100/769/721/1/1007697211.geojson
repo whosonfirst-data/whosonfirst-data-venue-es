@@ -2,6 +2,10 @@
   "id": 1007697211,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Corsega, 548 Barcelona Barcelona 08025",
+    "addr:housenumber":"548",
+    "addr:postcode":"08025",
+    "addr:street":"Carrer De Corsega",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007697211,
-    "wof:lastmodified":1472580824,
+    "wof:lastmodified":1472768972,
     "wof:name":"Institut Municipal D'educacio De Barcelona",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991483413,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Oporto, 32 Madrid Madrid 28019",
+    "addr:housenumber":"32",
+    "addr:postcode":"madrid;28019",
+    "addr:street":"Avda Oporto",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991483413,
-    "wof:lastmodified":1472553540,
+    "wof:lastmodified":1472770020,
     "wof:name":"Del Rincon Perez Domingo Carlos",
     "wof:parent_id":85863759,
     "wof:placetype":"venue",

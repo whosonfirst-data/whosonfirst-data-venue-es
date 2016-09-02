@@ -2,6 +2,10 @@
   "id": 1008512485,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de La Rambla, 88 Barcelona Barcelona 08002",
+    "addr:housenumber":"88",
+    "addr:postcode":"08002",
+    "addr:street":"Carrer De La Rambla",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008512485,
-    "wof:lastmodified":1472630541,
+    "wof:lastmodified":1472767651,
     "wof:name":"Servicios De Telemarketing S.a.",
     "wof:parent_id":85864033,
     "wof:placetype":"venue",

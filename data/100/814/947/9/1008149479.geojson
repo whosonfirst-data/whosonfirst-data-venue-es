@@ -2,6 +2,10 @@
   "id": 1008149479,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Pons I Gallarza, 30 Barcelona Barcelona 08030",
+    "addr:housenumber":"30",
+    "addr:postcode":"08030",
+    "addr:street":"Carrer De Pons;Gallarza",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008149479,
-    "wof:lastmodified":1472601818,
+    "wof:lastmodified":1472769290,
     "wof:name":"Padilla Salon Jorge",
     "wof:parent_id":85799559,
     "wof:placetype":"venue",

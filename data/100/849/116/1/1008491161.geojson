@@ -2,6 +2,10 @@
   "id": 1008491161,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Jose Luis De Arrese, 26 Madrid Madrid 28017",
+    "addr:housenumber":"26",
+    "addr:postcode":"madrid;28017",
+    "addr:street":"Calle De Jose Luis De Arrese",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008491161,
-    "wof:lastmodified":1472629596,
+    "wof:lastmodified":1472767221,
     "wof:name":"Sedisa",
     "wof:parent_id":85863695,
     "wof:placetype":"venue",

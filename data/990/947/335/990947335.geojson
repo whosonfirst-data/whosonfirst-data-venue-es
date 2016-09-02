@@ -2,6 +2,10 @@
   "id": 990947335,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Orcasur, 37 Madrid Madrid 28041",
+    "addr:housenumber":"37",
+    "addr:postcode":"madrid;28041",
+    "addr:street":"Avda Orcasur",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990947335,
-    "wof:lastmodified":1472513746,
+    "wof:lastmodified":1472767563,
     "wof:name":"Alonso Sanz Jose Carlos",
     "wof:parent_id":85863749,
     "wof:placetype":"venue",

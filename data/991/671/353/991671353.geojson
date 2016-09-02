@@ -2,6 +2,10 @@
   "id": 991671353,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Cartagena, 297 Barcelona Barcelona 08025",
+    "addr:housenumber":"297",
+    "addr:postcode":"08025",
+    "addr:street":"Carrer De Cartagena",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":991671353,
-    "wof:lastmodified":1472564037,
+    "wof:lastmodified":1472770105,
     "wof:name":"Fleca Del Metro S.l.u.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

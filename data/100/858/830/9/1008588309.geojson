@@ -2,6 +2,10 @@
   "id": 1008588309,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Homer, 26 Barcelona Barcelona 08023",
+    "addr:housenumber":"26",
+    "addr:postcode":"08023",
+    "addr:street":"Carrer De Homer",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008588309,
-    "wof:lastmodified":1472633696,
+    "wof:lastmodified":1472769191,
     "wof:name":"Talleres J. V. Cdad",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

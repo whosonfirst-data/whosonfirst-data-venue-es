@@ -2,6 +2,10 @@
   "id": 1008455749,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Massens, 68 Barcelona Barcelona 08024",
+    "addr:housenumber":"68",
+    "addr:postcode":"08024",
+    "addr:street":"Carrer De Massens",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008455749,
-    "wof:lastmodified":1472628149,
+    "wof:lastmodified":1472768587,
     "wof:name":"Sanchez Martin Tadeo",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008650161,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda General Peron, 32 Madrid Madrid 28020",
+    "addr:housenumber":"32",
+    "addr:postcode":"madrid;28020",
+    "addr:street":"Avda General Peron",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008650161,
-    "wof:lastmodified":1472636418,
+    "wof:lastmodified":1472766747,
     "wof:name":"Transportes Marion S. A.",
     "wof:parent_id":85863621,
     "wof:placetype":"venue",

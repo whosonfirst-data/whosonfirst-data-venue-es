@@ -2,6 +2,10 @@
   "id": 1008121521,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Londres, 67 Barcelona Barcelona 08036",
+    "addr:housenumber":"67",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Londres",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008121521,
-    "wof:lastmodified":1472600454,
+    "wof:lastmodified":1472767337,
     "wof:name":"Olivella Sebastia Nuria",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

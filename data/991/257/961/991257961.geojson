@@ -2,6 +2,10 @@
   "id": 991257961,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Fama, 127 Almeda Mercader Barcelona 08940",
+    "addr:housenumber":"127",
+    "addr:postcode":"08940",
+    "addr:street":"Av Fama;Mercader Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991257961,
-    "wof:lastmodified":1472540447,
+    "wof:lastmodified":1472768514,
     "wof:name":"Card Ticket S.a.",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1007840317,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Roger De Flor, 188 Barcelona Barcelona 08013",
+    "addr:housenumber":"188",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Roger De Flor",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1007840317,
-    "wof:lastmodified":1472588224,
+    "wof:lastmodified":1472766785,
     "wof:name":"Lopez Mendez Jose Luis",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

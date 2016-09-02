@@ -2,6 +2,10 @@
   "id": 991597535,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Elies, 11 Barcelona Barcelona 08006",
+    "addr:housenumber":"11",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Sant Elies",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991597535,
-    "wof:lastmodified":1472559481,
+    "wof:lastmodified":1472770077,
     "wof:name":"Estudi Majoral Associats",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008428113,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Francesc Macia, 54 Sabadell Barcelona 08...",
+    "addr:housenumber":"54;08 ...",
+    "addr:postcode":"",
+    "addr:street":"Av Francesc Macia;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":1008428113,
-    "wof:lastmodified":1472627118,
+    "wof:lastmodified":1472769159,
     "wof:name":"Sabadell Asseguradora S.a.",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

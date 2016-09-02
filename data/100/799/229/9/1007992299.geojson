@@ -2,6 +2,10 @@
   "id": 1007992299,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Dolors Almeda, 12 Almeda Mercader Barcelona 08940",
+    "addr:housenumber":"12",
+    "addr:postcode":"08940",
+    "addr:street":"Carrer De Dolors Almeda;Mercader Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1007992299,
-    "wof:lastmodified":1472594852,
+    "wof:lastmodified":1472767547,
     "wof:name":"Metalurgica Zaes S.l.",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",

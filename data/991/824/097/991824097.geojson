@@ -2,6 +2,10 @@
   "id": 991824097,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Ascao, 60 Madrid Madrid 28017",
+    "addr:housenumber":"60",
+    "addr:postcode":"madrid;28017",
+    "addr:street":"Calle De Ascao",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":991824097,
-    "wof:lastmodified":1472573289,
+    "wof:lastmodified":1472770317,
     "wof:name":"Gonzalez Gadea Juan",
     "wof:parent_id":85863697,
     "wof:placetype":"venue",

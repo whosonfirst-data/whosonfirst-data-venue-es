@@ -2,6 +2,10 @@
   "id": 1008262005,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Muntaner, 401 Barcelona Barcelona 08021",
+    "addr:housenumber":"401",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De Muntaner",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008262005,
-    "wof:lastmodified":1472616616,
+    "wof:lastmodified":1472767498,
     "wof:name":"Porta Jorba Joaquin",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

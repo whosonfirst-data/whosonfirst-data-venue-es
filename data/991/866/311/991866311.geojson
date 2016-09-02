@@ -2,6 +2,10 @@
   "id": 991866311,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Napols, 235 Barcelona Barcelona 08013",
+    "addr:housenumber":"235",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Napols",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991866311,
-    "wof:lastmodified":1472575715,
+    "wof:lastmodified":1472770381,
     "wof:name":"Guilera Mas Francisca",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

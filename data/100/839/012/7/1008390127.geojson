@@ -2,6 +2,10 @@
   "id": 1008390127,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Blasco De Garay, 60 Madrid Madrid 28015",
+    "addr:housenumber":"60",
+    "addr:postcode":"madrid;28015",
+    "addr:street":"Calle De Blasco De Garay",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1008390127,
-    "wof:lastmodified":1472625322,
+    "wof:lastmodified":1472766727,
     "wof:name":"Rodriguez Sanz Amelia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

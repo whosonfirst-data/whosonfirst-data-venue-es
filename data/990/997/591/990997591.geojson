@@ -2,6 +2,10 @@
   "id": 990997591,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Sant Ramon Nonat, 25 Barcelona Barcelona 08028",
+    "addr:housenumber":"25",
+    "addr:postcode":"08028",
+    "addr:street":"Av;Ramon Nonat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990997591,
-    "wof:lastmodified":1472518904,
+    "wof:lastmodified":1472768151,
     "wof:name":"Aregall Ferres Pablo",
     "wof:parent_id":85799283,
     "wof:placetype":"venue",

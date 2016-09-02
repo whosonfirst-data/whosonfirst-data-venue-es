@@ -2,6 +2,10 @@
   "id": 991386611,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Almagro, 31 Madrid Madrid 28...",
+    "addr:housenumber":"31;28 ...",
+    "addr:postcode":"madrid",
+    "addr:street":"Calle De Almagro;Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":991386611,
-    "wof:lastmodified":1472547847,
+    "wof:lastmodified":1472769828,
     "wof:name":"Comisariado Europeo Del Automovil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

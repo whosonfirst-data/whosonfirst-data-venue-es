@@ -2,6 +2,10 @@
   "id": 991372075,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Alcala De Guadaira, 37 Madrid Madrid 28018",
+    "addr:housenumber":"37",
+    "addr:postcode":"madrid;28018",
+    "addr:street":"Calle De Alcala;Guadaira",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991372075,
-    "wof:lastmodified":1472546807,
+    "wof:lastmodified":1472769578,
     "wof:name":"Colimser S.l.",
     "wof:parent_id":85863733,
     "wof:placetype":"venue",

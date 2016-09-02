@@ -2,6 +2,10 @@
   "id": 1008134459,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Bailen, 213 Barcelona Barcelona 08037",
+    "addr:housenumber":"213",
+    "addr:postcode":"08037",
+    "addr:street":"Carrer De Bailen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008134459,
-    "wof:lastmodified":1472601149,
+    "wof:lastmodified":1472768053,
     "wof:name":"Orquin Boada Arturo",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

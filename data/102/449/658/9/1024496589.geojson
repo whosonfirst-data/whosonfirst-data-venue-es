@@ -2,6 +2,10 @@
   "id": 1024496589,
   "type": "Feature",
   "properties": {
+    "addr:full":"Diagonal 579, 7\u00aa Barcelona 08014",
+    "addr:housenumber":"579",
+    "addr:postcode":"08014",
+    "addr:street":"Diagonal;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1024496589,
-    "wof:lastmodified":1472641474,
+    "wof:lastmodified":1472768772,
     "wof:name":"Trovit",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

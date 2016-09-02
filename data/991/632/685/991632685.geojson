@@ -2,6 +2,10 @@
   "id": 991632685,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda San Diego, 39 Madrid Madrid 28053",
+    "addr:housenumber":"39",
+    "addr:postcode":"madrid;28053",
+    "addr:street":"Avda San Diego",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991632685,
-    "wof:lastmodified":1472561881,
+    "wof:lastmodified":1472770194,
     "wof:name":"Fernandez Aguero Angel",
     "wof:parent_id":85863729,
     "wof:placetype":"venue",

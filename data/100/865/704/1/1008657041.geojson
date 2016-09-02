@@ -2,6 +2,10 @@
   "id": 1008657041,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Congres, 91 Barcelona Barcelona 08031",
+    "addr:housenumber":"91",
+    "addr:postcode":"08031",
+    "addr:street":"Carrer De Congres",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1008657041,
-    "wof:lastmodified":1472636685,
+    "wof:lastmodified":1472769025,
     "wof:name":"Triparquet S.l.",
     "wof:parent_id":85799399,
     "wof:placetype":"venue",

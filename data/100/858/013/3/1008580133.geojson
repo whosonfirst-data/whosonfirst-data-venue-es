@@ -2,6 +2,10 @@
   "id": 1008580133,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Tacona, 95 Madrid Madrid 28030",
+    "addr:housenumber":"95",
+    "addr:postcode":"madrid;28030",
+    "addr:street":"Calle De Tacona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008580133,
-    "wof:lastmodified":1472633380,
+    "wof:lastmodified":1472766724,
     "wof:name":"Talavera Gomez Tomas",
     "wof:parent_id":85863715,
     "wof:placetype":"venue",

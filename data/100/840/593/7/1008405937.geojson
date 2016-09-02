@@ -2,6 +2,10 @@
   "id": 1008405937,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Lleida, 35 Caldes Montbui Barcelona 08140",
+    "addr:housenumber":"35",
+    "addr:postcode":"08140",
+    "addr:street":"Carrer De Lleida;Montbui Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008405937,
-    "wof:lastmodified":1472626000,
+    "wof:lastmodified":1472768765,
     "wof:name":"Rosas Marin Maria Carmen",
     "wof:parent_id":85799453,
     "wof:placetype":"venue",

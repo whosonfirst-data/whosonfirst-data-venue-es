@@ -2,6 +2,10 @@
   "id": 1008240977,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Eduard Toda, 12 Barcelona Barcelona 08031",
+    "addr:housenumber":"12",
+    "addr:postcode":"08031",
+    "addr:street":"Carrer De Eduard Toda",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008240977,
-    "wof:lastmodified":1472614523,
+    "wof:lastmodified":1472767024,
     "wof:name":"Pineda Fortuny Francesc",
     "wof:parent_id":85799399,
     "wof:placetype":"venue",

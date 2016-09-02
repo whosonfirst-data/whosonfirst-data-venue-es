@@ -2,6 +2,10 @@
   "id": 1008585683,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Casanova, 83 Barcelona Barcelona 08011",
+    "addr:housenumber":"83",
+    "addr:postcode":"08011",
+    "addr:street":"Carrer De Casanova",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008585683,
-    "wof:lastmodified":1472633594,
+    "wof:lastmodified":1472768660,
     "wof:name":"Talleres Euroauto S.a.",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

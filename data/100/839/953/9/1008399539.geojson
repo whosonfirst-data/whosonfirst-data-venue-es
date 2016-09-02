@@ -2,6 +2,10 @@
   "id": 1008399539,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Lluis, 61 Barcelona Barcelona 08024",
+    "addr:housenumber":"61",
+    "addr:postcode":"08024",
+    "addr:street":"Carrer De Sant Lluis",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008399539,
-    "wof:lastmodified":1472625688,
+    "wof:lastmodified":1472769534,
     "wof:name":"Romero Fernandez Miguel",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

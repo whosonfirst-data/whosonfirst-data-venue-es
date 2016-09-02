@@ -2,6 +2,10 @@
   "id": 991117779,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Algaba, 22 Madrid Madrid 28019",
+    "addr:housenumber":"22",
+    "addr:postcode":"madrid;28019",
+    "addr:street":"Calle De Algaba",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991117779,
-    "wof:lastmodified":1472528180,
+    "wof:lastmodified":1472767485,
     "wof:name":"Barrio Garcia Mariano",
     "wof:parent_id":85863765,
     "wof:placetype":"venue",

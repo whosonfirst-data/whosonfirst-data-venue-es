@@ -2,6 +2,10 @@
   "id": 1008046739,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Mallorca, 550 Barcelona Barcelona 08026",
+    "addr:housenumber":"550",
+    "addr:postcode":"08026",
+    "addr:street":"Carrer De Mallorca",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008046739,
-    "wof:lastmodified":1472597197,
+    "wof:lastmodified":1472768927,
     "wof:name":"Moreno Rivera Francisco Javier",
     "wof:parent_id":85799265,
     "wof:placetype":"venue",

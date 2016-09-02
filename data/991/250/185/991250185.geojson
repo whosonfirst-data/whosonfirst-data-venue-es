@@ -2,6 +2,10 @@
   "id": 991250185,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Arago, 235 Barcelona Barcelona 08007",
+    "addr:housenumber":"235",
+    "addr:postcode":"08007",
+    "addr:street":"Carrer De Arago",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991250185,
-    "wof:lastmodified":1472540092,
+    "wof:lastmodified":1472768221,
     "wof:name":"Canut Balsas Leonor",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

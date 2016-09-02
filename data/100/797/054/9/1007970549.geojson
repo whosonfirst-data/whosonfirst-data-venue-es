@@ -2,6 +2,10 @@
   "id": 1007970549,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Jose Del Hierro, 52 Madrid Madrid 28027",
+    "addr:housenumber":"52",
+    "addr:postcode":"madrid;28027",
+    "addr:street":"Calle De Jose Del Hierro",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007970549,
-    "wof:lastmodified":1472593978,
+    "wof:lastmodified":1472766866,
     "wof:name":"Medina Ca\u00f1estro Enrique",
     "wof:parent_id":85863639,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991198385,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Ruiz, 11 Madrid Madrid 28004",
+    "addr:housenumber":"11",
+    "addr:postcode":"madrid;28004",
+    "addr:street":"Calle De Ruiz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991198385,
-    "wof:lastmodified":1472536368,
+    "wof:lastmodified":1472768005,
     "wof:name":"Cafe Ruiz S.l.",
     "wof:parent_id":85863661,
     "wof:placetype":"venue",

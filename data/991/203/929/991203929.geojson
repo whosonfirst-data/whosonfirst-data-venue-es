@@ -2,6 +2,10 @@
   "id": 991203929,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Balmes, 347 Barcelona Barcelona 08006",
+    "addr:housenumber":"347",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Balmes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991203929,
-    "wof:lastmodified":1472536790,
+    "wof:lastmodified":1472768139,
     "wof:name":"Caixa D'estalvis I Pensions De Barcelona",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

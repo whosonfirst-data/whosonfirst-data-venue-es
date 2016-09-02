@@ -2,6 +2,10 @@
   "id": 1007963311,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ctra Canillas, 19 Madrid Madrid 28043",
+    "addr:housenumber":"19",
+    "addr:postcode":"madrid;28043",
+    "addr:street":"Ctra Canillas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007963311,
-    "wof:lastmodified":1472593689,
+    "wof:lastmodified":1472767666,
     "wof:name":"Mayor Benito Felix",
     "wof:parent_id":85799409,
     "wof:placetype":"venue",

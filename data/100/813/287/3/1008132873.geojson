@@ -2,6 +2,10 @@
   "id": 1008132873,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ctra Esplugues, 212 Fatjo Barcelona 08940",
+    "addr:housenumber":"212",
+    "addr:postcode":"08940",
+    "addr:street":"Ctra Esplugues;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008132873,
-    "wof:lastmodified":1472601079,
+    "wof:lastmodified":1472767461,
     "wof:name":"Oriol Hill Francesc",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",

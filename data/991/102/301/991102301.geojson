@@ -2,6 +2,10 @@
   "id": 991102301,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Santa Engracia, 35 Madrid Madrid 28010",
+    "addr:housenumber":"35",
+    "addr:postcode":"madrid;28010",
+    "addr:street":"Calle De Santa Engracia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991102301,
-    "wof:lastmodified":1472526976,
+    "wof:lastmodified":1472767182,
     "wof:name":"Banco Gallego S.a.",
     "wof:parent_id":85863661,
     "wof:placetype":"venue",

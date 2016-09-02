@@ -2,6 +2,10 @@
   "id": 1008551545,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Girona, 38 Barcelona Barcelona 08010",
+    "addr:housenumber":"38",
+    "addr:postcode":"08010",
+    "addr:street":"Carrer De Girona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008551545,
-    "wof:lastmodified":1472632172,
+    "wof:lastmodified":1472767255,
     "wof:name":"Soms Tamarit Carlos",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

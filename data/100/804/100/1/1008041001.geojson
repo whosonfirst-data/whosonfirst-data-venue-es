@@ -2,6 +2,10 @@
   "id": 1008041001,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Castrojeriz, 22 Madrid Madrid 28025",
+    "addr:housenumber":"22",
+    "addr:postcode":"madrid;28025",
+    "addr:street":"Calle De Castrojeriz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008041001,
-    "wof:lastmodified":1472596941,
+    "wof:lastmodified":1472767067,
     "wof:name":"Morcuende Sanz Gloria",
     "wof:parent_id":85863761,
     "wof:placetype":"venue",

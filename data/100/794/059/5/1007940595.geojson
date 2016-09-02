@@ -2,6 +2,10 @@
   "id": 1007940595,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Gonzalo De Berceo, 37 Madrid Madrid 28017",
+    "addr:housenumber":"37",
+    "addr:postcode":"madrid;28017",
+    "addr:street":"Calle De Gonzalo De Berceo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007940595,
-    "wof:lastmodified":1472592710,
+    "wof:lastmodified":1472766921,
     "wof:name":"Martin Gonzalez Emiliano",
     "wof:parent_id":85863697,
     "wof:placetype":"venue",

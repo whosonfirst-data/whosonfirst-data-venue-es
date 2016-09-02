@@ -2,6 +2,10 @@
   "id": 991581469,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Galileo, 27 Madrid Madrid 28015",
+    "addr:housenumber":"27",
+    "addr:postcode":"madrid;28015",
+    "addr:street":"Calle De Galileo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":991581469,
-    "wof:lastmodified":1472558765,
+    "wof:lastmodified":1472770019,
     "wof:name":"Esmalper S.l.",
     "wof:parent_id":85863659,
     "wof:placetype":"venue",

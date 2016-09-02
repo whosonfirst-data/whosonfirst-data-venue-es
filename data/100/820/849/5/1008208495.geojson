@@ -2,6 +2,10 @@
   "id": 1008208495,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Costa Rica, 20 Madrid Madrid 28016",
+    "addr:housenumber":"20",
+    "addr:postcode":"madrid;28016",
+    "addr:street":"Calle De Costa Rica",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008208495,
-    "wof:lastmodified":1472611458,
+    "wof:lastmodified":1472769258,
     "wof:name":"Perez Benzonana Roger",
     "wof:parent_id":85863599,
     "wof:placetype":"venue",

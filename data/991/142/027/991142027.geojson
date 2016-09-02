@@ -2,6 +2,10 @@
   "id": 991142027,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Muntanya, 119 Barcelona Barcelona 08026",
+    "addr:housenumber":"119",
+    "addr:postcode":"08026",
+    "addr:street":"Carrer De Muntanya",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991142027,
-    "wof:lastmodified":1472530984,
+    "wof:lastmodified":1472767398,
     "wof:name":"Bernabeu Lamoglia Montserrat",
     "wof:parent_id":85864001,
     "wof:placetype":"venue",

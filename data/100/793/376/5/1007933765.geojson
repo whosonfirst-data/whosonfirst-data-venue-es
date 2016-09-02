@@ -2,6 +2,10 @@
   "id": 1007933765,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pablo Ruiz Picasso, 32 Trobajo Camino Le\u00f3n 24009",
+    "addr:housenumber":"32",
+    "addr:postcode":"24009",
+    "addr:street":"Pablo;Picasso;Camino Leo\u0301N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1007933765,
-    "wof:lastmodified":1472592414,
+    "wof:lastmodified":1472768064,
     "wof:name":"Martinez Rodriguez Eduardo",
     "wof:parent_id":102545723,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1007811253,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Balmes, 108 Barcelona Barcelona 08008",
+    "addr:housenumber":"108",
+    "addr:postcode":"08008",
+    "addr:street":"Carrer De Balmes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007811253,
-    "wof:lastmodified":1472586913,
+    "wof:lastmodified":1472767134,
     "wof:name":"Lineta S. A.",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

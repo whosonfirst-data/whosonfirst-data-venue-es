@@ -2,6 +2,10 @@
   "id": 1008154525,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Madrid, 102 Zaragoza Zaragoza 50010",
+    "addr:housenumber":"102",
+    "addr:postcode":"50010",
+    "addr:street":"Avda Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008154525,
-    "wof:lastmodified":1472602047,
+    "wof:lastmodified":1472768473,
     "wof:name":"Pallares Cebrian Manuel",
     "wof:parent_id":85863331,
     "wof:placetype":"venue",

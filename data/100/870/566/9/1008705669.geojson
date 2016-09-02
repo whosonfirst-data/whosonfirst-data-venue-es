@@ -2,6 +2,10 @@
   "id": 1008705669,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Santa Coloma, 76 Barcelona Barcelona 08030",
+    "addr:housenumber":"76",
+    "addr:postcode":"08030",
+    "addr:street":"Carrer De Santa Coloma",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008705669,
-    "wof:lastmodified":1472638782,
+    "wof:lastmodified":1472768710,
     "wof:name":"Ventura Casany Juan",
     "wof:parent_id":85863995,
     "wof:placetype":"venue",

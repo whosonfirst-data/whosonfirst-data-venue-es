@@ -2,6 +2,10 @@
   "id": 1008478531,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Aguaron, 58 Madrid Madrid 28023",
+    "addr:housenumber":"58",
+    "addr:postcode":"madrid;28023",
+    "addr:street":"Calle De Aguaron",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008478531,
-    "wof:lastmodified":1472629056,
+    "wof:lastmodified":1472769406,
     "wof:name":"San Y Sier Sl",
     "wof:parent_id":85799153,
     "wof:placetype":"venue",

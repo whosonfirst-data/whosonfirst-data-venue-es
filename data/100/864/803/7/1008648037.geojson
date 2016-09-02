@@ -2,6 +2,10 @@
   "id": 1008648037,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ptge Busquets, 19 Almeda Mercader Barcelona 08940",
+    "addr:housenumber":"19",
+    "addr:postcode":"08940",
+    "addr:street":"Ptge Busquets;Mercader Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008648037,
-    "wof:lastmodified":1472636318,
+    "wof:lastmodified":1472769307,
     "wof:name":"Transportes Barcelona 93 S.c.c.l",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008232643,
   "type": "Feature",
   "properties": {
+    "addr:full":"Plaz Angel, 13 Madrid Madrid 28012",
+    "addr:housenumber":"13",
+    "addr:postcode":"madrid;28012",
+    "addr:street":"Angel",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008232643,
-    "wof:lastmodified":1472614112,
+    "wof:lastmodified":1472767785,
     "wof:name":"Pe\u00f1a Blaugrana De Madrid",
     "wof:parent_id":85863685,
     "wof:placetype":"venue",

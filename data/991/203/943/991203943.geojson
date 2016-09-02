@@ -2,6 +2,10 @@
   "id": 991203943,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Meridiana, 340 Barcelona Barcelona 08027",
+    "addr:housenumber":"340",
+    "addr:postcode":"08027",
+    "addr:street":"Meridiana",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991203943,
-    "wof:lastmodified":1472536791,
+    "wof:lastmodified":1472768141,
     "wof:name":"Caixa D'estalvis I Pensions De Barcelona",
     "wof:parent_id":85863995,
     "wof:placetype":"venue",

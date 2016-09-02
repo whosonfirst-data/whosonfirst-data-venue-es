@@ -2,6 +2,10 @@
   "id": 1008720389,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de San Gerardo, 37 Madrid Madrid 28035",
+    "addr:housenumber":"37",
+    "addr:postcode":"madrid;28035",
+    "addr:street":"Calle De San Gerardo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008720389,
-    "wof:lastmodified":1472639450,
+    "wof:lastmodified":1472766867,
     "wof:name":"Vicente Gonzalez Jose De",
     "wof:parent_id":85799627,
     "wof:placetype":"venue",

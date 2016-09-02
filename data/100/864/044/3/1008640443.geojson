@@ -2,6 +2,10 @@
   "id": 1008640443,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ctra Sant Joan Despi, 90 Fatjo Barcelona 08940",
+    "addr:housenumber":"90",
+    "addr:postcode":"08940",
+    "addr:street":"Ctra Sant Joan Despi;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008640443,
-    "wof:lastmodified":1472635974,
+    "wof:lastmodified":1472766773,
     "wof:name":"Torres Velarde Francisco",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",

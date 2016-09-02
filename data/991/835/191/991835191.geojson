@@ -2,6 +2,10 @@
   "id": 991835191,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Bilbao, 45 Barcelona Barcelona 08005",
+    "addr:housenumber":"45",
+    "addr:postcode":"08005",
+    "addr:street":"Carrer De Bilbao",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":991835191,
-    "wof:lastmodified":1472573888,
+    "wof:lastmodified":1472770347,
     "wof:name":"Gonzalez Sanchez Alfonso",
     "wof:parent_id":85864011,
     "wof:placetype":"venue",

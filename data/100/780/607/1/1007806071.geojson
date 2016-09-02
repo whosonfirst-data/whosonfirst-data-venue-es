@@ -2,6 +2,10 @@
   "id": 1007806071,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Alberto Alcocer, 12 Madrid Madrid 28036",
+    "addr:housenumber":"12",
+    "addr:postcode":"madrid;28036",
+    "addr:street":"Alberto Alcocer",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007806071,
-    "wof:lastmodified":1472586645,
+    "wof:lastmodified":1472768987,
     "wof:name":"Libreria Fronda C.b.",
     "wof:parent_id":85799237,
     "wof:placetype":"venue",

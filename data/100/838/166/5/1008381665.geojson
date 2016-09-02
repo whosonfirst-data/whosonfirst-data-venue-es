@@ -2,6 +2,10 @@
   "id": 1008381665,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Albufera, 300 Madrid Madrid 28018",
+    "addr:housenumber":"300",
+    "addr:postcode":"28018",
+    "addr:street":"Avda Albufera",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008381665,
-    "wof:lastmodified":1472624828,
+    "wof:lastmodified":1472767243,
     "wof:name":"Rodriguez Jimenez Cristina",
     "wof:parent_id":85799645,
     "wof:placetype":"venue",

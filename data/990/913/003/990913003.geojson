@@ -2,6 +2,10 @@
   "id": 990913003,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Girona, 64 Barcelona Barcelona 08009",
+    "addr:housenumber":"64",
+    "addr:postcode":"08009",
+    "addr:street":"Carrer De Girona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":990913003,
-    "wof:lastmodified":1472509857,
+    "wof:lastmodified":1472767121,
     "wof:name":"Ajuntament De Barcelona",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

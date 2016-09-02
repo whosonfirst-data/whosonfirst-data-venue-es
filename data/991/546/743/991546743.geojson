@@ -2,6 +2,10 @@
   "id": 991546743,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Socrates, 37 Barcelona Barcelona 08030",
+    "addr:housenumber":"37",
+    "addr:postcode":"08030",
+    "addr:street":"Carrer De Socrates",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991546743,
-    "wof:lastmodified":1472556841,
+    "wof:lastmodified":1472770113,
     "wof:name":"Electrica Sant Andreu S.a.",
     "wof:parent_id":85863995,
     "wof:placetype":"venue",

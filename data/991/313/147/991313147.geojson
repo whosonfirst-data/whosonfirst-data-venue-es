@@ -2,6 +2,10 @@
   "id": 991313147,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Calahorra, 17 Madrid Madrid 28032",
+    "addr:housenumber":"17",
+    "addr:postcode":"madrid;28032",
+    "addr:street":"Calle De Calahorra",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991313147,
-    "wof:lastmodified":1472543253,
+    "wof:lastmodified":1472769611,
     "wof:name":"Centro Auditivo Sotone S.l.",
     "wof:parent_id":85863705,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008022285,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Segre, 17 Guix Barcelona 08243",
+    "addr:housenumber":"17",
+    "addr:postcode":"08243",
+    "addr:street":"Carrer De Segre;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008022285,
-    "wof:lastmodified":1472596135,
+    "wof:lastmodified":1472767405,
     "wof:name":"Moncunill Pujol Jaime",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",

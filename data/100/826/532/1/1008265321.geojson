@@ -2,6 +2,10 @@
   "id": 1008265321,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Nou De La Rambla, 81 Barcelona Barcelona 08001",
+    "addr:housenumber":"81",
+    "addr:postcode":"08001",
+    "addr:street":"Carrer De Nou De La Rambla",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008265321,
-    "wof:lastmodified":1472616815,
+    "wof:lastmodified":1472768616,
     "wof:name":"Poveda Segura Juan",
     "wof:parent_id":85864035,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991737523,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Islas Cies, 35 Madrid Madrid 28035",
+    "addr:housenumber":"35",
+    "addr:postcode":"madrid;28035",
+    "addr:street":"Calle De Islas Cies",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":991737523,
-    "wof:lastmodified":1472567345,
+    "wof:lastmodified":1472770369,
     "wof:name":"Garcia Callejo Leonardo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008309287,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Portugal, 12 Logro\u00f1o La Rioja 26001",
+    "addr:housenumber":"12",
+    "addr:postcode":"26001",
+    "addr:street":"Avda Portugal;Rioja",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1008309287,
-    "wof:lastmodified":1472621767,
+    "wof:lastmodified":1472769400,
     "wof:name":"Radio Rioja S.a.",
     "wof:parent_id":102545713,
     "wof:placetype":"venue",

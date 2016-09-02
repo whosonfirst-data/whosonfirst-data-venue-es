@@ -2,6 +2,10 @@
   "id": 1008502865,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Francisco Giner, 56 Barcelona Barcelona 08012",
+    "addr:housenumber":"56",
+    "addr:postcode":"08012",
+    "addr:street":"Carrer De Francisco Giner",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008502865,
-    "wof:lastmodified":1472630145,
+    "wof:lastmodified":1472767820,
     "wof:name":"Serra Crespo Jose",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

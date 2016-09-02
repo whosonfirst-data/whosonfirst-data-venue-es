@@ -2,6 +2,10 @@
   "id": 1008660547,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Goya, 79 Madrid Madrid 28...",
+    "addr:housenumber":"79;28 ...",
+    "addr:postcode":"madrid",
+    "addr:street":"Calle De Goya;Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008660547,
-    "wof:lastmodified":1472636831,
+    "wof:lastmodified":1472766895,
     "wof:name":"Tucana S.a.",
     "wof:parent_id":85863675,
     "wof:placetype":"venue",

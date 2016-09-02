@@ -2,6 +2,10 @@
   "id": 991131089,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Paris, 42 Barcelona Barcelona 08029",
+    "addr:housenumber":"42",
+    "addr:postcode":"08029",
+    "addr:street":"Carrer De Paris",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991131089,
-    "wof:lastmodified":1472529587,
+    "wof:lastmodified":1472767175,
     "wof:name":"Bellido Saballs Santiago",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

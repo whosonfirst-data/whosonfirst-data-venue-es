@@ -2,6 +2,10 @@
   "id": 1008273445,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Juan Bravo, 44 Madrid Madrid 28006",
+    "addr:housenumber":"44",
+    "addr:postcode":"madrid;28006",
+    "addr:street":"Calle De Juan Bravo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008273445,
-    "wof:lastmodified":1472617275,
+    "wof:lastmodified":1472768146,
     "wof:name":"Prieto Morales Irene",
     "wof:parent_id":85863805,
     "wof:placetype":"venue",

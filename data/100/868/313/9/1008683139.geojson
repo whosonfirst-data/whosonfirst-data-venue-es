@@ -2,6 +2,10 @@
   "id": 1008683139,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Alcocer, 28 Madrid Madrid 28041",
+    "addr:housenumber":"28",
+    "addr:postcode":"madrid;28041",
+    "addr:street":"Calle De Alcocer",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008683139,
-    "wof:lastmodified":1472637748,
+    "wof:lastmodified":1472767996,
     "wof:name":"Valencia Manzano Antonia",
     "wof:parent_id":85799667,
     "wof:placetype":"venue",

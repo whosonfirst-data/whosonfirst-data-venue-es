@@ -2,6 +2,10 @@
   "id": 1008327763,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Valencia, 489 Barcelona Barcelona 08013",
+    "addr:housenumber":"489",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Valencia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008327763,
-    "wof:lastmodified":1472622517,
+    "wof:lastmodified":1472769216,
     "wof:name":"Recreativos Electronicos Pris S. A.",
     "wof:parent_id":85864013,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991730973,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Castillejos, 302 Barcelona Barcelona 08025",
+    "addr:housenumber":"302",
+    "addr:postcode":"08025",
+    "addr:street":"Carrer De Castillejos",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991730973,
-    "wof:lastmodified":1472567031,
+    "wof:lastmodified":1472770499,
     "wof:name":"Gapacasa S.l.",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

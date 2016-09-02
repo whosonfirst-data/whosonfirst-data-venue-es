@@ -2,6 +2,10 @@
   "id": 991155027,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av. Casablanca, 1 Prado Rey Madrid 28223",
+    "addr:housenumber":"1",
+    "addr:postcode":"28223",
+    "addr:street":"Av. Casablanca;Rey",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991155027,
-    "wof:lastmodified":1472532540,
+    "wof:lastmodified":1472767493,
     "wof:name":"Blanco Lopez Ines",
     "wof:parent_id":85799153,
     "wof:placetype":"venue",

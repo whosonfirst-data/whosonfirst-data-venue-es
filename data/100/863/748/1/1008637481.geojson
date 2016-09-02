@@ -2,6 +2,10 @@
   "id": 1008637481,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Paris, 201 Barcelona Barcelona 08036",
+    "addr:housenumber":"201",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Paris",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008637481,
-    "wof:lastmodified":1472635856,
+    "wof:lastmodified":1472769196,
     "wof:name":"Torres Codina Carmina",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991933323,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Maisonnave, 9 Alacant Alicante 03...",
+    "addr:housenumber":"9;03 ...",
+    "addr:postcode":"",
+    "addr:street":"Avda Maisonnave;Alicante",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991933323,
-    "wof:lastmodified":1472579099,
+    "wof:lastmodified":1472770647,
     "wof:name":"Ibizalink S.l.u.",
     "wof:parent_id":85799185,
     "wof:placetype":"venue",

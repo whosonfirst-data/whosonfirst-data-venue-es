@@ -2,6 +2,10 @@
   "id": 1008168307,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Consell De Cent, 348 Barcelona Barcelona 08009",
+    "addr:housenumber":"348",
+    "addr:postcode":"08009",
+    "addr:street":"Carrer De Consell De Cent",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008168307,
-    "wof:lastmodified":1472603704,
+    "wof:lastmodified":1472769303,
     "wof:name":"Parera Ribera Andreu",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991586793,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de San Raimundo, 13 Madrid Madrid 28039",
+    "addr:housenumber":"13",
+    "addr:postcode":"madrid;28039",
+    "addr:street":"Calle De San",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991586793,
-    "wof:lastmodified":1472558993,
+    "wof:lastmodified":1472770109,
     "wof:name":"Esposo Martin Jeronimo",
     "wof:parent_id":85799245,
     "wof:placetype":"venue",

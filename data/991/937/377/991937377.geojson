@@ -2,6 +2,10 @@
   "id": 991937377,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Sant Ramon Nonat, 11 Barcelona Barcelona 08028",
+    "addr:housenumber":"11",
+    "addr:postcode":"08028",
+    "addr:street":"Av;Ramon Nonat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991937377,
-    "wof:lastmodified":1472579324,
+    "wof:lastmodified":1472770669,
     "wof:name":"Iglesias Berenguer Juan",
     "wof:parent_id":85799283,
     "wof:placetype":"venue",

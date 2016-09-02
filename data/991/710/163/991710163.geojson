@@ -2,6 +2,10 @@
   "id": 991710163,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Velazquez, 80 Madrid Madrid 28001",
+    "addr:housenumber":"80",
+    "addr:postcode":"madrid;28001",
+    "addr:street":"Calle De Velazquez",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":991710163,
-    "wof:lastmodified":1472565957,
+    "wof:lastmodified":1472770225,
     "wof:name":"Fundacion Seneca",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

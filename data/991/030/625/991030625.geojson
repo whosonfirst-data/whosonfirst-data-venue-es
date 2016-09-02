@@ -2,6 +2,10 @@
   "id": 991030625,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Montera, 34 Madrid Madrid 28013",
+    "addr:housenumber":"34",
+    "addr:postcode":"madrid;28013",
+    "addr:street":"Calle De Montera",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991030625,
-    "wof:lastmodified":1472521499,
+    "wof:lastmodified":1472766875,
     "wof:name":"Asociacion Cultural Federacion De Actores",
     "wof:parent_id":85863791,
     "wof:placetype":"venue",

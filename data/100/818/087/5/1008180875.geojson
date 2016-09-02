@@ -2,6 +2,10 @@
   "id": 1008180875,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda San Luis, 42 Madrid Madrid 28033",
+    "addr:housenumber":"42",
+    "addr:postcode":"madrid;28033",
+    "addr:street":"Avda San Luis",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008180875,
-    "wof:lastmodified":1472605347,
+    "wof:lastmodified":1472767068,
     "wof:name":"Parroquia Virgen Del Castillo",
     "wof:parent_id":85863583,
     "wof:placetype":"venue",

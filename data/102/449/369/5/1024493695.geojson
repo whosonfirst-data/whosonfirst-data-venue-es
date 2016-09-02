@@ -2,6 +2,10 @@
   "id": 1024493695,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Industria, 106 Barriada Nova Barcelona 08420",
+    "addr:housenumber":"106",
+    "addr:postcode":"08420",
+    "addr:street":"Carrer De Industria;Nova Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1024493695,
-    "wof:lastmodified":1472641359,
+    "wof:lastmodified":1472768181,
     "wof:name":"Zincados Industriales Canovelles S. A.",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",

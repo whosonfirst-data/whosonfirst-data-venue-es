@@ -2,6 +2,10 @@
   "id": 1007777567,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Nueva Zelanda, 47 Madrid Madrid 28035",
+    "addr:housenumber":"47",
+    "addr:postcode":"madrid;28035",
+    "addr:street":"Calle De Nueva Zelanda",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007777567,
-    "wof:lastmodified":1472585112,
+    "wof:lastmodified":1472769107,
     "wof:name":"La Despensa S.a.",
     "wof:parent_id":85799627,
     "wof:placetype":"venue",

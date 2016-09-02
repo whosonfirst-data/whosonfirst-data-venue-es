@@ -2,6 +2,10 @@
   "id": 1007727721,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pg Enric Sanchis, 42 Barcelona Barcelona 08030",
+    "addr:housenumber":"42",
+    "addr:postcode":"08030",
+    "addr:street":"Pg Enric Sanchis",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007727721,
-    "wof:lastmodified":1472582348,
+    "wof:lastmodified":1472769205,
     "wof:name":"Jianping Zhang",
     "wof:parent_id":85799559,
     "wof:placetype":"venue",

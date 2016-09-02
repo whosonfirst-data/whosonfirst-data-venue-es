@@ -2,6 +2,10 @@
   "id": 1008298895,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Marconi, 16 Zona Industrial Barcelona 08397",
+    "addr:housenumber":"16",
+    "addr:postcode":"08397",
+    "addr:street":"Carrer De Marconi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008298895,
-    "wof:lastmodified":1472619449,
+    "wof:lastmodified":1472769210,
     "wof:name":"Puntielastic S.a.",
     "wof:parent_id":85799549,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008604667,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Valencia, 524 Barcelona Barcelona 08013",
+    "addr:housenumber":"524",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Valencia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008604667,
-    "wof:lastmodified":1472634457,
+    "wof:lastmodified":1472768560,
     "wof:name":"Tecnic-graf S.l.",
     "wof:parent_id":85864013,
     "wof:placetype":"venue",

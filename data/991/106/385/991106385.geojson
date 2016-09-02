@@ -2,6 +2,10 @@
   "id": 991106385,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Concha Espina, 12 Madrid Madrid 28036",
+    "addr:housenumber":"12",
+    "addr:postcode":"madrid;28036",
+    "addr:street":"Avda Concha Espina",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991106385,
-    "wof:lastmodified":1472527281,
+    "wof:lastmodified":1472767208,
     "wof:name":"Bankinter S.a.",
     "wof:parent_id":85863651,
     "wof:placetype":"venue",

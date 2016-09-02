@@ -2,6 +2,10 @@
   "id": 1008564049,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Francesc Cambo, 14 Barcelona Barcelona 08003",
+    "addr:housenumber":"14",
+    "addr:postcode":"08003",
+    "addr:street":"Av Francesc Cambo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008564049,
-    "wof:lastmodified":1472632726,
+    "wof:lastmodified":1472768171,
     "wof:name":"Suarez Otero Jose Manuel",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",

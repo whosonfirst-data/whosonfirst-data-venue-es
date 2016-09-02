@@ -2,6 +2,10 @@
   "id": 1008711517,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Corsega, 103 Barcelona Barcelona 08029",
+    "addr:housenumber":"103",
+    "addr:postcode":"08029",
+    "addr:street":"Carrer De Corsega",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008711517,
-    "wof:lastmodified":1472639062,
+    "wof:lastmodified":1472767340,
     "wof:name":"Viajes Campulie S. A.",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

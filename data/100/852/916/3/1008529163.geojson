@@ -2,6 +2,10 @@
   "id": 1008529163,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Jose Bergamin, 12 Madrid Madrid 28030",
+    "addr:housenumber":"12",
+    "addr:postcode":"madrid;28030",
+    "addr:street":"Calle De Jose Bergamin",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008529163,
-    "wof:lastmodified":1472631218,
+    "wof:lastmodified":1472769543,
     "wof:name":"Sisteda Consultores S.a.",
     "wof:parent_id":85863715,
     "wof:placetype":"venue",

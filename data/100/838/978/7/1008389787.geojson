@@ -2,6 +2,10 @@
   "id": 1008389787,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Alcala, 85 Madrid Madrid 28009",
+    "addr:housenumber":"85",
+    "addr:postcode":"madrid;28009",
+    "addr:street":"Calle De Alcala",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008389787,
-    "wof:lastmodified":1472625308,
+    "wof:lastmodified":1472769416,
     "wof:name":"Rodriguez Sanchez Maria Del Rosario",
     "wof:parent_id":85863809,
     "wof:placetype":"venue",

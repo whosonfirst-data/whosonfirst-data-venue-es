@@ -2,6 +2,10 @@
   "id": 1008353371,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Valencia, 427 Barcelona Barcelona 08013",
+    "addr:housenumber":"427",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Valencia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008353371,
-    "wof:lastmodified":1472623662,
+    "wof:lastmodified":1472767942,
     "wof:name":"Ria Telecom",
     "wof:parent_id":85864013,
     "wof:placetype":"venue",

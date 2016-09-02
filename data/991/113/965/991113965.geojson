@@ -2,6 +2,10 @@
   "id": 991113965,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Napols, 155 Barcelona Barcelona 08013",
+    "addr:housenumber":"155",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Napols",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":991113965,
-    "wof:lastmodified":1472527887,
+    "wof:lastmodified":1472767473,
     "wof:name":"Baro Sola Catalina",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

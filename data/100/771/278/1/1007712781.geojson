@@ -2,6 +2,10 @@
   "id": 1007712781,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Rafael Fernandez Hijicos, 22 Madrid Madrid 28038",
+    "addr:housenumber":"22",
+    "addr:postcode":"madrid;28038",
+    "addr:street":"Calle De Rafael;Hijicos",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007712781,
-    "wof:lastmodified":1472581596,
+    "wof:lastmodified":1472767791,
     "wof:name":"Iss Facility Services S.a.",
     "wof:parent_id":85863723,
     "wof:placetype":"venue",

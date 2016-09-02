@@ -2,6 +2,10 @@
   "id": 1007969999,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Doctor Espina, 37 Madrid Madrid 28019",
+    "addr:housenumber":"37",
+    "addr:postcode":"madrid;28019",
+    "addr:street":"Calle De Doctor Espina",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007969999,
-    "wof:lastmodified":1472593956,
+    "wof:lastmodified":1472769329,
     "wof:name":"Medicina Oriss.l.",
     "wof:parent_id":85799217,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008098659,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Rossello, 147 Barcelona Barcelona 08036",
+    "addr:housenumber":"147",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Rossello",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008098659,
-    "wof:lastmodified":1472599464,
+    "wof:lastmodified":1472769201,
     "wof:name":"Nogueira Alferez Alberto",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

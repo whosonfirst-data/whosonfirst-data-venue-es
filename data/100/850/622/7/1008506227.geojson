@@ -2,6 +2,10 @@
   "id": 1008506227,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Modesto Lafuente, 78 Madrid Madrid 28003",
+    "addr:housenumber":"78",
+    "addr:postcode":"madrid;28003",
+    "addr:street":"Calle De Modesto Lafuente",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008506227,
-    "wof:lastmodified":1472630289,
+    "wof:lastmodified":1472768901,
     "wof:name":"Serrano Sanchez Juan",
     "wof:parent_id":85863799,
     "wof:placetype":"venue",

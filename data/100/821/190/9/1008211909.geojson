@@ -2,6 +2,10 @@
   "id": 1008211909,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Toreros, 22 Madrid Madrid 28028",
+    "addr:housenumber":"22",
+    "addr:postcode":"madrid;28028",
+    "addr:street":"Avda Toreros",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008211909,
-    "wof:lastmodified":1472612246,
+    "wof:lastmodified":1472767340,
     "wof:name":"Perez Fernandez Emilio",
     "wof:parent_id":85863643,
     "wof:placetype":"venue",

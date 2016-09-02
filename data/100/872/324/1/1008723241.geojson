@@ -2,6 +2,10 @@
   "id": 1008723241,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Isla De Tavira, 24 Madrid Madrid 28035",
+    "addr:housenumber":"24",
+    "addr:postcode":"madrid;28035",
+    "addr:street":"Calle De Isla De Tavira",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008723241,
-    "wof:lastmodified":1472639559,
+    "wof:lastmodified":1472768107,
     "wof:name":"Vidales Blanco Anselmo",
     "wof:parent_id":85863551,
     "wof:placetype":"venue",

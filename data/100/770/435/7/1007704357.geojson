@@ -2,6 +2,10 @@
   "id": 1007704357,
   "type": "Feature",
   "properties": {
+    "addr:full":"Juan De La Cosa, 100 Gijon Asturias 33211",
+    "addr:housenumber":"100",
+    "addr:postcode":"33211",
+    "addr:street":"Juan De La Cosa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007704357,
-    "wof:lastmodified":1472581172,
+    "wof:lastmodified":1472768369,
     "wof:name":"Intgraf Sociedad Cooperativa",
     "wof:parent_id":85799415,
     "wof:placetype":"venue",

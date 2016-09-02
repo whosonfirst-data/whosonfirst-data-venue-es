@@ -2,6 +2,10 @@
   "id": 1008149675,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Paris, 178 Barcelona Barcelona 08036",
+    "addr:housenumber":"178",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Paris",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008149675,
-    "wof:lastmodified":1472601825,
+    "wof:lastmodified":1472769338,
     "wof:name":"Padrell Figuerola Lorenzo",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

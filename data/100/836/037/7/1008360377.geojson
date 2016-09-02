@@ -2,6 +2,10 @@
   "id": 1008360377,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Don Ramon De La Cruz, 36 Madrid Madrid 28001",
+    "addr:housenumber":"36",
+    "addr:postcode":"madrid;28001",
+    "addr:street":"Calle De Don Ramon De La Cruz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008360377,
-    "wof:lastmodified":1472623946,
+    "wof:lastmodified":1472766811,
     "wof:name":"Rio Nison S.l",
     "wof:parent_id":85863675,
     "wof:placetype":"venue",

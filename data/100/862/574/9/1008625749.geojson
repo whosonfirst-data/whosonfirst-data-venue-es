@@ -2,6 +2,10 @@
   "id": 1008625749,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Gran Via, 67 Madrid Madrid 28013",
+    "addr:housenumber":"67",
+    "addr:postcode":"madrid;28013",
+    "addr:street":"Calle De Gran Via",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008625749,
-    "wof:lastmodified":1472635384,
+    "wof:lastmodified":1472768610,
     "wof:name":"Tirado Sanchez Maria Pilar",
     "wof:parent_id":85863667,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1007697223,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Basconia, 48 Barcelona Barcelona 08030",
+    "addr:housenumber":"48",
+    "addr:postcode":"08030",
+    "addr:street":"Carrer De Basconia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007697223,
-    "wof:lastmodified":1472580825,
+    "wof:lastmodified":1472768976,
     "wof:name":"Institut Municipal D'educacio De Barcelona",
     "wof:parent_id":85799559,
     "wof:placetype":"venue",

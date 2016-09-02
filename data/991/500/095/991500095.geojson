@@ -2,6 +2,10 @@
   "id": 991500095,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Pardo, 59 Barcelona Barcelona 08016",
+    "addr:housenumber":"59",
+    "addr:postcode":"08016",
+    "addr:street":"Carrer De Pardo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991500095,
-    "wof:lastmodified":1472554429,
+    "wof:lastmodified":1472769921,
     "wof:name":"Diaz Vallejo Juan Enrique",
     "wof:parent_id":85863995,
     "wof:placetype":"venue",

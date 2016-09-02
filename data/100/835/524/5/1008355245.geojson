@@ -2,6 +2,10 @@
   "id": 1008355245,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Muntaner, 468 Barcelona Barcelona 08006",
+    "addr:housenumber":"468",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Muntaner",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008355245,
-    "wof:lastmodified":1472623734,
+    "wof:lastmodified":1472768522,
     "wof:name":"Ribot Torrella Pere De",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

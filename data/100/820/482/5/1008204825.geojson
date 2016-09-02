@@ -2,6 +2,10 @@
   "id": 1008204825,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Mediterraneo, 30 Madrid Madrid 28007",
+    "addr:housenumber":"30",
+    "addr:postcode":"madrid;28007",
+    "addr:street":"Avda Mediterraneo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008204825,
-    "wof:lastmodified":1472610636,
+    "wof:lastmodified":1472768426,
     "wof:name":"Perea Andreu Pedro",
     "wof:parent_id":85863689,
     "wof:placetype":"venue",

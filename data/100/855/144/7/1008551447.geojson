@@ -2,6 +2,10 @@
   "id": 1008551447,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de San Gerardo, 15 Madrid Madrid 28035",
+    "addr:housenumber":"15",
+    "addr:postcode":"madrid;28035",
+    "addr:street":"Calle De San Gerardo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1008551447,
-    "wof:lastmodified":1472632169,
+    "wof:lastmodified":1472767212,
     "wof:name":"Somoza Gil Angel",
     "wof:parent_id":85799627,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008709177,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Paris, 183 Barcelona Barcelona 08036",
+    "addr:housenumber":"183",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Paris",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008709177,
-    "wof:lastmodified":1472638964,
+    "wof:lastmodified":1472769473,
     "wof:name":"Vernet Yll Ariadna",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991165701,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Roser, 99 Barcelona Barcelona 08004",
+    "addr:housenumber":"99",
+    "addr:postcode":"08004",
+    "addr:street":"Carrer De Roser",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991165701,
-    "wof:lastmodified":1472533782,
+    "wof:lastmodified":1472767758,
     "wof:name":"Bona Voluntat En Accio",
     "wof:parent_id":85864037,
     "wof:placetype":"venue",

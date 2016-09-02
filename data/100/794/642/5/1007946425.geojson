@@ -2,6 +2,10 @@
   "id": 1007946425,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Almazan, 40 Madrid Madrid 28011",
+    "addr:housenumber":"40",
+    "addr:postcode":"madrid;28011",
+    "addr:street":"Calle De Almazan",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007946425,
-    "wof:lastmodified":1472592989,
+    "wof:lastmodified":1472768863,
     "wof:name":"Martin Salvador Serafin",
     "wof:parent_id":85863769,
     "wof:placetype":"venue",

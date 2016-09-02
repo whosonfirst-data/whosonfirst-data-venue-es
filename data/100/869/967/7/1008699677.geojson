@@ -2,6 +2,10 @@
   "id": 1008699677,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Castros (los), 123 Santander Cantabria 39005",
+    "addr:housenumber":"123",
+    "addr:postcode":"39005",
+    "addr:street":"Avda Castros Los",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008699677,
-    "wof:lastmodified":1472638497,
+    "wof:lastmodified":1472769513,
     "wof:name":"Vega Iglesias Julio Angel",
     "wof:parent_id":85799521,
     "wof:placetype":"venue",

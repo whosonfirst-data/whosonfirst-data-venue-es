@@ -2,6 +2,10 @@
   "id": 1008408329,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Romeu, 15 Sabadell Barcelona 08202",
+    "addr:housenumber":"15",
+    "addr:postcode":"08202",
+    "addr:street":"Carrer De Romeu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008408329,
-    "wof:lastmodified":1472626167,
+    "wof:lastmodified":1472769140,
     "wof:name":"Ros Serra Salvador",
     "wof:parent_id":85799453,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991554189,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Pere Mitja, 30 Barcelona Barcelona 08003",
+    "addr:housenumber":"30",
+    "addr:postcode":"08003",
+    "addr:street":"Carrer De Sant;Mitja",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991554189,
-    "wof:lastmodified":1472557270,
+    "wof:lastmodified":1472769944,
     "wof:name":"Elena Castro Ricardo",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",

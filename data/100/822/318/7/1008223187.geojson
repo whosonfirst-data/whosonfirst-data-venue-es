@@ -2,6 +2,10 @@
   "id": 1008223187,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Lloret De Mar, 56 Barcelona Barcelona 08031",
+    "addr:housenumber":"56",
+    "addr:postcode":"08031",
+    "addr:street":"Carrer De Lloret De Mar",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008223187,
-    "wof:lastmodified":1472613687,
+    "wof:lastmodified":1472767935,
     "wof:name":"Perez Segura Juan",
     "wof:parent_id":85799399,
     "wof:placetype":"venue",

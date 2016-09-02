@@ -2,6 +2,10 @@
   "id": 991849513,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Lopez De Hoyos, 9 Madrid Madrid 28006",
+    "addr:housenumber":"9",
+    "addr:postcode":"madrid;28006",
+    "addr:street":"Calle De Lopez De Hoyos",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991849513,
-    "wof:lastmodified":1472574756,
+    "wof:lastmodified":1472770459,
     "wof:name":"Greatways",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",

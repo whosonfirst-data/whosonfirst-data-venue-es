@@ -2,6 +2,10 @@
   "id": 1008153713,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Diana, 2 Can Riera Barcelona 08184",
+    "addr:housenumber":"2",
+    "addr:postcode":"08184",
+    "addr:street":"Carrer De Diana;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008153713,
-    "wof:lastmodified":1472601997,
+    "wof:lastmodified":1472768205,
     "wof:name":"Palau Union S.l.",
     "wof:parent_id":85799453,
     "wof:placetype":"venue",

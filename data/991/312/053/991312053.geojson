@@ -2,6 +2,10 @@
   "id": 991312053,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Galileu, 333 Barcelona Barcelona 08028",
+    "addr:housenumber":"333",
+    "addr:postcode":"08028",
+    "addr:street":"Carrer De Galileu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991312053,
-    "wof:lastmodified":1472543207,
+    "wof:lastmodified":1472769574,
     "wof:name":"Centre D'higiene Mental Les Corts",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

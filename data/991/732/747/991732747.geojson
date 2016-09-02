@@ -2,6 +2,10 @@
   "id": 991732747,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Antoni, 120 Pineda Mar Barcelona 08397",
+    "addr:housenumber":"120",
+    "addr:postcode":"08397",
+    "addr:street":"Carrer De Sant Antoni;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991732747,
-    "wof:lastmodified":1472567117,
+    "wof:lastmodified":1472770415,
     "wof:name":"Garbu S.a.",
     "wof:parent_id":85799549,
     "wof:placetype":"venue",

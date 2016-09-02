@@ -2,6 +2,10 @@
   "id": 1008703201,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Calvet, 30 Barcelona Barcelona 08021",
+    "addr:housenumber":"30",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De Calvet",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008703201,
-    "wof:lastmodified":1472638674,
+    "wof:lastmodified":1472768072,
     "wof:name":"Velayos Balcells Juan",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

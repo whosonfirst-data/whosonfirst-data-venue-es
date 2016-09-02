@@ -2,6 +2,10 @@
   "id": 991554485,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Miguel Hernandez, 82 Hospitalet Llobregat Barcelona 08908",
+    "addr:housenumber":"82",
+    "addr:postcode":"08908",
+    "addr:street":"Carrer De Miguel Hernandez",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991554485,
-    "wof:lastmodified":1472557290,
+    "wof:lastmodified":1472770054,
     "wof:name":"Elephant Channel",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",

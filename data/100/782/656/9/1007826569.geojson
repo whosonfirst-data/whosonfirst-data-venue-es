@@ -2,6 +2,10 @@
   "id": 1007826569,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Juan Ignacio Luca De Tena, 38 Madrid Madrid 28027",
+    "addr:housenumber":"38",
+    "addr:postcode":"madrid;28027",
+    "addr:street":"Calle De Juan Ignacio Luca De Tena",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007826569,
-    "wof:lastmodified":1472587555,
+    "wof:lastmodified":1472768661,
     "wof:name":"Lomas Mariano S.a.",
     "wof:parent_id":85863633,
     "wof:placetype":"venue",

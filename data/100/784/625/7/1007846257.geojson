@@ -2,6 +2,10 @@
   "id": 1007846257,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Enamorats, 123 Barcelona Barcelona 08026",
+    "addr:housenumber":"123",
+    "addr:postcode":"08026",
+    "addr:street":"Carrer De Enamorats",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007846257,
-    "wof:lastmodified":1472588522,
+    "wof:lastmodified":1472768906,
     "wof:name":"Lopez Soler Maria Rosa",
     "wof:parent_id":85799265,
     "wof:placetype":"venue",

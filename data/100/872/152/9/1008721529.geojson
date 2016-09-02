@@ -2,6 +2,10 @@
   "id": 1008721529,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Elies, 37 Barcelona Barcelona 08006",
+    "addr:housenumber":"37",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Sant Elies",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008721529,
-    "wof:lastmodified":1472639496,
+    "wof:lastmodified":1472767336,
     "wof:name":"Vicent Jover Isabel",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

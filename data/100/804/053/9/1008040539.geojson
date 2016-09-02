@@ -2,6 +2,10 @@
   "id": 1008040539,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Girona, 150 Barcelona Barcelona 08037",
+    "addr:housenumber":"150",
+    "addr:postcode":"08037",
+    "addr:street":"Carrer De Girona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008040539,
-    "wof:lastmodified":1472596924,
+    "wof:lastmodified":1472766908,
     "wof:name":"Mora Vila Lluis",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

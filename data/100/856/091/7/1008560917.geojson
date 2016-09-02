@@ -2,6 +2,10 @@
   "id": 1008560917,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Edison, 11 Can More Barcelona 08397",
+    "addr:housenumber":"11",
+    "addr:postcode":"08397",
+    "addr:street":"Carrer De Edison;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008560917,
-    "wof:lastmodified":1472632594,
+    "wof:lastmodified":1472767011,
     "wof:name":"Stil Socks S.l.",
     "wof:parent_id":85799549,
     "wof:placetype":"venue",

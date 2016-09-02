@@ -2,6 +2,10 @@
   "id": 991582409,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Castanys, 29 Barcelona Barcelona 08005",
+    "addr:housenumber":"29",
+    "addr:postcode":"08005",
+    "addr:street":"Carrer De Castanys",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991582409,
-    "wof:lastmodified":1472558803,
+    "wof:lastmodified":1472770068,
     "wof:name":"Espai De Salut",
     "wof:parent_id":85799265,
     "wof:placetype":"venue",

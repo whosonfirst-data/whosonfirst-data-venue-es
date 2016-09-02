@@ -2,6 +2,10 @@
   "id": 1008381359,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Josep, 52 Corro D'avall Barcelona 08520",
+    "addr:housenumber":"52",
+    "addr:postcode":"08520",
+    "addr:street":"Carrer De Sant Josep;D'Avall Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1008381359,
-    "wof:lastmodified":1472624812,
+    "wof:lastmodified":1472767152,
     "wof:name":"Rodriguez Herrero Pedro",
     "wof:parent_id":85799173,
     "wof:placetype":"venue",

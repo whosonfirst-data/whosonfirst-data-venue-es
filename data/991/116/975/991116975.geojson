@@ -2,6 +2,10 @@
   "id": 991116975,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Floridablanca, 37 Barcelona Barcelona 08015",
+    "addr:housenumber":"37",
+    "addr:postcode":"08015",
+    "addr:street":"Carrer De Floridablanca",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":991116975,
-    "wof:lastmodified":1472528124,
+    "wof:lastmodified":1472767486,
     "wof:name":"Bar Restaurante Ecuasucre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

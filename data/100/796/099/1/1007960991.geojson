@@ -2,6 +2,10 @@
   "id": 1007960991,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Torres Miranda, 18 Madrid Madrid 28045",
+    "addr:housenumber":"18",
+    "addr:postcode":"madrid;28045",
+    "addr:street":"Calle De Torres Miranda",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007960991,
-    "wof:lastmodified":1472593592,
+    "wof:lastmodified":1472766953,
     "wof:name":"Maveco De Ediciones S. A.",
     "wof:parent_id":85863745,
     "wof:placetype":"venue",

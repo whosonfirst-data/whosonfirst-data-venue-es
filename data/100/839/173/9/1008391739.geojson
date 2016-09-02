@@ -2,6 +2,10 @@
   "id": 1008391739,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Balmes, 431 Barcelona Barcelona 08022",
+    "addr:housenumber":"431",
+    "addr:postcode":"08022",
+    "addr:street":"Carrer De Balmes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008391739,
-    "wof:lastmodified":1472625397,
+    "wof:lastmodified":1472767493,
     "wof:name":"Rodriguez Villareal C.b.",
     "wof:parent_id":85863989,
     "wof:placetype":"venue",

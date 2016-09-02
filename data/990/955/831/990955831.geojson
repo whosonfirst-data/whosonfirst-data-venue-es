@@ -2,6 +2,10 @@
   "id": 990955831,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Reina Victoria, 13 Madrid Madrid 28003",
+    "addr:housenumber":"13",
+    "addr:postcode":"madrid;28003",
+    "addr:street":"Avda Reina Victoria",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990955831,
-    "wof:lastmodified":1472515360,
+    "wof:lastmodified":1472767918,
     "wof:name":"Alvarez Del Valle Sanchez Fernando",
     "wof:parent_id":85863653,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008300149,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Plato, 17 Barcelona Barcelona 08006",
+    "addr:housenumber":"17",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Plato",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008300149,
-    "wof:lastmodified":1472619899,
+    "wof:lastmodified":1472766686,
     "wof:name":"Puyuelo Sanclemente Miguel",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

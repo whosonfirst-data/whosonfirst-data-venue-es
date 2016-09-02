@@ -2,6 +2,10 @@
   "id": 1008181153,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Sagasta, 7 Madrid Madrid 28004",
+    "addr:housenumber":"7",
+    "addr:postcode":"madrid;28004",
+    "addr:street":"Calle De Sagasta",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008181153,
-    "wof:lastmodified":1472605384,
+    "wof:lastmodified":1472767216,
     "wof:name":"Partido Carlista",
     "wof:parent_id":85863661,
     "wof:placetype":"venue",

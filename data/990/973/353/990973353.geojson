@@ -2,6 +2,10 @@
   "id": 990973353,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Santa Coloma, 86 Barcelona Barcelona 08030",
+    "addr:housenumber":"86",
+    "addr:postcode":"08030",
+    "addr:street":"Carrer De Santa Coloma",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990973353,
-    "wof:lastmodified":1472517109,
+    "wof:lastmodified":1472767949,
     "wof:name":"Andreu Figueras S.a.",
     "wof:parent_id":85799517,
     "wof:placetype":"venue",

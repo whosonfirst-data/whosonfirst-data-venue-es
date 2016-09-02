@@ -2,6 +2,10 @@
   "id": 1007790123,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Torrent Gornal, 28 Hospitalet Llobregat Barcelona 08904",
+    "addr:housenumber":"28",
+    "addr:postcode":"08904",
+    "addr:street":"Av;Gornal",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007790123,
-    "wof:lastmodified":1472585744,
+    "wof:lastmodified":1472766675,
     "wof:name":"Larroza Solares Pedro",
     "wof:parent_id":85799283,
     "wof:placetype":"venue",

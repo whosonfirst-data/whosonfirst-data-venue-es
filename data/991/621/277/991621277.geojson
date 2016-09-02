@@ -2,6 +2,10 @@
   "id": 991621277,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Madrid, 137 Zaragoza Zaragoza 50010",
+    "addr:housenumber":"137",
+    "addr:postcode":"50010",
+    "addr:street":"Avda Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991621277,
-    "wof:lastmodified":1472561373,
+    "wof:lastmodified":1472769998,
     "wof:name":"Farmacia Artal S.c.",
     "wof:parent_id":85863345,
     "wof:placetype":"venue",

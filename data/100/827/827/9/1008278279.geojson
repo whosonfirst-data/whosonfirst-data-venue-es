@@ -2,6 +2,10 @@
   "id": 1008278279,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Joan Riera, 33 Barcelona Barcelona 08042",
+    "addr:housenumber":"33",
+    "addr:postcode":"08042",
+    "addr:street":"Carrer De Joan Riera",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008278279,
-    "wof:lastmodified":1472617516,
+    "wof:lastmodified":1472769360,
     "wof:name":"Productos Grau S. A.",
     "wof:parent_id":85799399,
     "wof:placetype":"venue",

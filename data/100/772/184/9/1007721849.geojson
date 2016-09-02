@@ -2,6 +2,10 @@
   "id": 1007721849,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Llull, 256 Barcelona Barcelona 08005",
+    "addr:housenumber":"256",
+    "addr:postcode":"08005",
+    "addr:street":"Carrer De Llull",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007721849,
-    "wof:lastmodified":1472582052,
+    "wof:lastmodified":1472767363,
     "wof:name":"Jarque Mor Manuel",
     "wof:parent_id":85864011,
     "wof:placetype":"venue",

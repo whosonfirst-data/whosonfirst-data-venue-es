@@ -2,6 +2,10 @@
   "id": 1008215939,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Doctor Ramon Y Cajal, 12 Alacant Alicante 03003",
+    "addr:housenumber":"12",
+    "addr:postcode":"03003",
+    "addr:street":"Avda Doctor Ramon Y Cajal",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1008215939,
-    "wof:lastmodified":1472613157,
+    "wof:lastmodified":1472768699,
     "wof:name":"Perez Llinares Nadal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991044363,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Pau, 24 Barcelona Barcelona 08001",
+    "addr:housenumber":"24",
+    "addr:postcode":"08001",
+    "addr:street":"Carrer De Sant Pau",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991044363,
-    "wof:lastmodified":1472522515,
+    "wof:lastmodified":1472766794,
     "wof:name":"Associacio D'amics Del Liceu",
     "wof:parent_id":85864033,
     "wof:placetype":"venue",

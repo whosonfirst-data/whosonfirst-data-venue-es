@@ -2,6 +2,10 @@
   "id": 1008469515,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Puerto De Santa Maria, 126 Madrid Madrid 28043",
+    "addr:housenumber":"126",
+    "addr:postcode":"28043",
+    "addr:street":"Calle De Puerto De Santa Maria",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008469515,
-    "wof:lastmodified":1472628693,
+    "wof:lastmodified":1472769491,
     "wof:name":"San Mateo Felipe Cirilo",
     "wof:parent_id":85863597,
     "wof:placetype":"venue",

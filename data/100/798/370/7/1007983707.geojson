@@ -2,6 +2,10 @@
   "id": 1007983707,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Enric Morera, 33 Prat Llobregat Barcelona 08820",
+    "addr:housenumber":"33",
+    "addr:postcode":"08820",
+    "addr:street":"Carrer De Enric Morera;Llobregat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007983707,
-    "wof:lastmodified":1472594486,
+    "wof:lastmodified":1472767820,
     "wof:name":"Mercader Garret Montserrat",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991311601,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Copernic, 84 Barcelona Barcelona 08006",
+    "addr:housenumber":"84",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Copernic",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991311601,
-    "wof:lastmodified":1472543189,
+    "wof:lastmodified":1472769763,
     "wof:name":"Centre De Telecomunicaciones De Catalunya",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

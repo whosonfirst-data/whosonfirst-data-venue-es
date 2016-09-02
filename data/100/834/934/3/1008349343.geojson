@@ -2,6 +2,10 @@
   "id": 1008349343,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Tellez, 52 Madrid Madrid 28007",
+    "addr:housenumber":"52",
+    "addr:postcode":"madrid;28007",
+    "addr:street":"Calle De Tellez",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008349343,
-    "wof:lastmodified":1472623493,
+    "wof:lastmodified":1472769516,
     "wof:name":"Revese Digital S.l",
     "wof:parent_id":85799319,
     "wof:placetype":"venue",

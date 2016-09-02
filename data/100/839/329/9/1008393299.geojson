@@ -2,6 +2,10 @@
   "id": 1008393299,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Muntaner, 121 Barcelona Barcelona 08036",
+    "addr:housenumber":"121",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Muntaner",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008393299,
-    "wof:lastmodified":1472625459,
+    "wof:lastmodified":1472768095,
     "wof:name":"Roig Puerta Juan",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

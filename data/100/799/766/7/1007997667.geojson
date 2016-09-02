@@ -2,6 +2,10 @@
   "id": 1007997667,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de San Emilio, 11 Madrid Madrid 28017",
+    "addr:housenumber":"11",
+    "addr:postcode":"madrid;28017",
+    "addr:street":"Calle De San Emilio",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007997667,
-    "wof:lastmodified":1472595099,
+    "wof:lastmodified":1472768981,
     "wof:name":"Miguel Yuste Carlos",
     "wof:parent_id":85863683,
     "wof:placetype":"venue",

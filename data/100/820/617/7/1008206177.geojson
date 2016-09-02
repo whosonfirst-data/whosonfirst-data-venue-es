@@ -2,6 +2,10 @@
   "id": 1008206177,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Barcelona, 66 Manresa Barcelona 08242",
+    "addr:housenumber":"66",
+    "addr:postcode":"08242",
+    "addr:street":"Carrer De Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008206177,
-    "wof:lastmodified":1472610914,
+    "wof:lastmodified":1472768720,
     "wof:name":"Perejil Romero Piedad",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

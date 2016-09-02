@@ -2,6 +2,10 @@
   "id": 1008324515,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Comte Borrell, 123 Barcelona Barcelona 08015",
+    "addr:housenumber":"123",
+    "addr:postcode":"08015",
+    "addr:street":"Carrer De Comte Borrell",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008324515,
-    "wof:lastmodified":1472622364,
+    "wof:lastmodified":1472768481,
     "wof:name":"Rebes Estrada Juan Adolfo",
     "wof:parent_id":85864027,
     "wof:placetype":"venue",

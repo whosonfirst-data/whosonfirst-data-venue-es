@@ -2,6 +2,10 @@
   "id": 991779595,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Aguilera, 53 Alacant Alicante 03...",
+    "addr:housenumber":"53;03 ...",
+    "addr:postcode":"",
+    "addr:street":"Avda Aguilera;Alicante",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991779595,
-    "wof:lastmodified":1472570084,
+    "wof:lastmodified":1472770423,
     "wof:name":"Generalitat Valenciana",
     "wof:parent_id":85864049,
     "wof:placetype":"venue",

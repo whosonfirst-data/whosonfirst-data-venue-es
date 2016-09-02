@@ -2,6 +2,10 @@
   "id": 1007787883,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Doctor Fleming, 24 S. Andreu Barca Barcelona 08740",
+    "addr:housenumber":"24",
+    "addr:postcode":"08740",
+    "addr:street":"Carrer De Doctor Fleming;S. Andreu;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007787883,
-    "wof:lastmodified":1472585629,
+    "wof:lastmodified":1472769052,
     "wof:name":"Lara Llamas Rosa",
     "wof:parent_id":85864241,
     "wof:placetype":"venue",

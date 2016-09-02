@@ -2,6 +2,10 @@
   "id": 1008629153,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Badajoz, 32 Barcelona Barcelona 08005",
+    "addr:housenumber":"32",
+    "addr:postcode":"08005",
+    "addr:street":"Carrer De Badajoz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008629153,
-    "wof:lastmodified":1472635516,
+    "wof:lastmodified":1472769271,
     "wof:name":"Tolran S.a.",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

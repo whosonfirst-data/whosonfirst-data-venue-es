@@ -2,6 +2,10 @@
   "id": 1007702827,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Muntaner, 270 Barcelona Barcelona 08021",
+    "addr:housenumber":"270",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De Muntaner",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1007702827,
-    "wof:lastmodified":1472581106,
+    "wof:lastmodified":1472767793,
     "wof:name":"Inter Legere Gestio S.l.",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

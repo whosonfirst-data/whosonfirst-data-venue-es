@@ -2,6 +2,10 @@
   "id": 991174431,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ctra Mig, 63 Almeda Mercader Barcelona 08940",
+    "addr:housenumber":"63",
+    "addr:postcode":"08940",
+    "addr:street":"Ctra Mig;Mercader Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991174431,
-    "wof:lastmodified":1472534467,
+    "wof:lastmodified":1472767711,
     "wof:name":"B-pack Logistica Express S.l.",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",

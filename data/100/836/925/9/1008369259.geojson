@@ -2,6 +2,10 @@
   "id": 1008369259,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ctra Esplugues, 147 Fatjo Barcelona 08940",
+    "addr:housenumber":"147",
+    "addr:postcode":"08940",
+    "addr:street":"Ctra Esplugues;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008369259,
-    "wof:lastmodified":1472624330,
+    "wof:lastmodified":1472769489,
     "wof:name":"Rocamora Hermanos S.a.",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",

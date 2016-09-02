@@ -2,6 +2,10 @@
   "id": 1008712441,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Cantabria, 51 Madrid Madrid 28...",
+    "addr:housenumber":"51;28 ...",
+    "addr:postcode":"madrid",
+    "addr:street":"Avda Cantabria;Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008712441,
-    "wof:lastmodified":1472639106,
+    "wof:lastmodified":1472767763,
     "wof:name":"Viajes El Corte Ingles S.a.",
     "wof:parent_id":85863589,
     "wof:placetype":"venue",

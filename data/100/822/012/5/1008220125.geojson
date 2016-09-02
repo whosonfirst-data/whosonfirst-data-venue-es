@@ -2,6 +2,10 @@
   "id": 1008220125,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Santa Engracia, 60 Madrid Madrid 28010",
+    "addr:housenumber":"60",
+    "addr:postcode":"madrid;28010",
+    "addr:street":"Calle De Santa Engracia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008220125,
-    "wof:lastmodified":1472613382,
+    "wof:lastmodified":1472766702,
     "wof:name":"Perez Perez Jose Felix",
     "wof:parent_id":85863661,
     "wof:placetype":"venue",

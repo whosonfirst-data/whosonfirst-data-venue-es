@@ -2,6 +2,10 @@
   "id": 1007697165,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Roger De Lluria, 147 Barcelona Barcelona 08037",
+    "addr:housenumber":"147",
+    "addr:postcode":"08037",
+    "addr:street":"Carrer De Roger De Lluria",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007697165,
-    "wof:lastmodified":1472580822,
+    "wof:lastmodified":1472768967,
     "wof:name":"Institut Lluria De Especialidades Medicas",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 990914669,
   "type": "Feature",
   "properties": {
+    "addr:full":"N. Monturiol, 55 Pineda Mar Barcelona 08397",
+    "addr:housenumber":"55",
+    "addr:postcode":"08397",
+    "addr:street":"N. Monturiol;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990914669,
-    "wof:lastmodified":1472509999,
+    "wof:lastmodified":1472767378,
     "wof:name":"Ajuntament De Pineda De Mar",
     "wof:parent_id":85799549,
     "wof:placetype":"venue",

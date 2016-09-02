@@ -2,6 +2,10 @@
   "id": 991844723,
   "type": "Feature",
   "properties": {
+    "addr:full":"Plaz Tres Olivos, 28 Madrid Madrid 28034",
+    "addr:housenumber":"28",
+    "addr:postcode":"madrid;28034",
+    "addr:street":"Plaz;Olivos",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":991844723,
-    "wof:lastmodified":1472574451,
+    "wof:lastmodified":1472770486,
     "wof:name":"Grama S.a.",
     "wof:parent_id":85799389,
     "wof:placetype":"venue",

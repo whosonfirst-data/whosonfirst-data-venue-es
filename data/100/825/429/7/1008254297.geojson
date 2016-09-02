@@ -2,6 +2,10 @@
   "id": 1008254297,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Verdi, 139 Barcelona Barcelona 08012",
+    "addr:housenumber":"139",
+    "addr:postcode":"08012",
+    "addr:street":"Carrer De Verdi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008254297,
-    "wof:lastmodified":1472616248,
+    "wof:lastmodified":1472768369,
     "wof:name":"Plazas Sola Elisenda",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

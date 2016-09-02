@@ -2,6 +2,10 @@
   "id": 991111621,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Mallorca, 492 Barcelona Barcelona 08013",
+    "addr:housenumber":"492",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Mallorca",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991111621,
-    "wof:lastmodified":1472527704,
+    "wof:lastmodified":1472767349,
     "wof:name":"Bardon Martinez Emiliano",
     "wof:parent_id":85864013,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991311495,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Manuel Arnus, 4 Barcelona Barcelona 08035",
+    "addr:housenumber":"4",
+    "addr:postcode":"08035",
+    "addr:street":"Carrer De Manuel Arnus",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991311495,
-    "wof:lastmodified":1472543185,
+    "wof:lastmodified":1472769725,
     "wof:name":"Centre De Telecomunicaciones De Catalunya",
     "wof:parent_id":85863989,
     "wof:placetype":"venue",

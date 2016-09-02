@@ -2,6 +2,10 @@
   "id": 991290811,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Abrantes, 32 Madrid Madrid 28025",
+    "addr:housenumber":"32",
+    "addr:postcode":"madrid;28025",
+    "addr:street":"Avda Abrantes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991290811,
-    "wof:lastmodified":1472542226,
+    "wof:lastmodified":1472769864,
     "wof:name":"Castellanos Sanchez Carlos",
     "wof:parent_id":85863761,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991102943,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Velazquez, 64 Madrid Madrid 28...",
+    "addr:housenumber":"64;28 ...",
+    "addr:postcode":"madrid",
+    "addr:street":"Calle De Velazquez;Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991102943,
-    "wof:lastmodified":1472527020,
+    "wof:lastmodified":1472767468,
     "wof:name":"Banco Popular Espa\u00d1ol S.a.",
     "wof:parent_id":85863675,
     "wof:placetype":"venue",

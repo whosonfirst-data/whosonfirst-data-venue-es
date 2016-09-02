@@ -2,6 +2,10 @@
   "id": 1008358211,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Principe De Vergara, 55 Madrid Madrid 28006",
+    "addr:housenumber":"55",
+    "addr:postcode":"madrid;28006",
+    "addr:street":"Calle De Principe De Vergara",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008358211,
-    "wof:lastmodified":1472623853,
+    "wof:lastmodified":1472769159,
     "wof:name":"Riesgo Cero Gestion",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",

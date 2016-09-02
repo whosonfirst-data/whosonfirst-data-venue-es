@@ -2,6 +2,10 @@
   "id": 1007953253,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Valencia, 430 Barcelona Barcelona 08013",
+    "addr:housenumber":"430",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Valencia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007953253,
-    "wof:lastmodified":1472593277,
+    "wof:lastmodified":1472767981,
     "wof:name":"Masso Vaque Nuria",
     "wof:parent_id":85864013,
     "wof:placetype":"venue",

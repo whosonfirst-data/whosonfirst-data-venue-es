@@ -2,6 +2,10 @@
   "id": 991116807,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Tamarit, 101 Barcelona Barcelona 08015",
+    "addr:housenumber":"101",
+    "addr:postcode":"08015",
+    "addr:street":"Carrer De Tamarit",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991116807,
-    "wof:lastmodified":1472528112,
+    "wof:lastmodified":1472767436,
     "wof:name":"Barrero Morell Saturnina",
     "wof:parent_id":85864037,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 975161085,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Catalunya, 96 Casc Antic Barcelona 08150",
+    "addr:housenumber":"96",
+    "addr:postcode":"08150",
+    "addr:street":"Av Catalunya",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":975161085,
-    "wof:lastmodified":1472507888,
+    "wof:lastmodified":1472766928,
     "wof:name":"Administracio I Finques Isern S.l.",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",

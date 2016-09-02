@@ -2,6 +2,10 @@
   "id": 1008720841,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Doctor Esquerdo, 30 Madrid Madrid 28028",
+    "addr:housenumber":"30",
+    "addr:postcode":"madrid;28028",
+    "addr:street":"Calle De Doctor Esquerdo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008720841,
-    "wof:lastmodified":1472639471,
+    "wof:lastmodified":1472767057,
     "wof:name":"Vicente Muelas Concepcion",
     "wof:parent_id":85863677,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991123513,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Paris, 45 Barcelona Barcelona 08029",
+    "addr:housenumber":"45",
+    "addr:postcode":"08029",
+    "addr:street":"Carrer De Paris",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991123513,
-    "wof:lastmodified":1472528716,
+    "wof:lastmodified":1472767278,
     "wof:name":"Baulida Lloveras Maria Luisa",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008481675,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Elfo, 63 Madrid Madrid 28027",
+    "addr:housenumber":"63",
+    "addr:postcode":"madrid;28027",
+    "addr:street":"Calle De Elfo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008481675,
-    "wof:lastmodified":1472629191,
+    "wof:lastmodified":1472767375,
     "wof:name":"Sarabia Garcia Francisca",
     "wof:parent_id":85799257,
     "wof:placetype":"venue",

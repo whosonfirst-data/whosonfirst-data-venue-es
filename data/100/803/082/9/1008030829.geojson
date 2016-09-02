@@ -2,6 +2,10 @@
   "id": 1008030829,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Galileo, 65 Madrid Madrid 28015",
+    "addr:housenumber":"65",
+    "addr:postcode":"madrid;28015",
+    "addr:street":"Calle De Galileo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1008030829,
-    "wof:lastmodified":1472596518,
+    "wof:lastmodified":1472767032,
     "wof:name":"Montes Benito Andres",
     "wof:parent_id":85863653,
     "wof:placetype":"venue",

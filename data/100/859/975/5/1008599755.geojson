@@ -2,6 +2,10 @@
   "id": 1008599755,
   "type": "Feature",
   "properties": {
+    "addr:full":"C/ Gonzalez, 13 Cerdanyola Valles Barcelona 08290",
+    "addr:housenumber":"13",
+    "addr:postcode":"08290",
+    "addr:street":"C / Gonzalez;Valles Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008599755,
-    "wof:lastmodified":1472634248,
+    "wof:lastmodified":1472769457,
     "wof:name":"Tarraga Garcia Francisco",
     "wof:parent_id":85799639,
     "wof:placetype":"venue",

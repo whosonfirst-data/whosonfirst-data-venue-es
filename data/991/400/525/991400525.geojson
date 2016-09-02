@@ -2,6 +2,10 @@
   "id": 991400525,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Ramon Y Cajal, 17 Madrid Madrid 28016",
+    "addr:housenumber":"17",
+    "addr:postcode":"madrid;28016",
+    "addr:street":"Avda Ramon Y Cajal",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991400525,
-    "wof:lastmodified":1472548810,
+    "wof:lastmodified":1472769777,
     "wof:name":"Con Encanto Cb",
     "wof:parent_id":85863647,
     "wof:placetype":"venue",

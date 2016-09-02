@@ -2,6 +2,10 @@
   "id": 1008183585,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pl Congres Eucaristic, 11 Barcelona Barcelona 08027",
+    "addr:housenumber":"11",
+    "addr:postcode":"08027",
+    "addr:street":"Pl;Eucaristic",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008183585,
-    "wof:lastmodified":1472605676,
+    "wof:lastmodified":1472768099,
     "wof:name":"Pascual Asensio Juan",
     "wof:parent_id":85863995,
     "wof:placetype":"venue",

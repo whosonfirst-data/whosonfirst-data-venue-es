@@ -2,6 +2,10 @@
   "id": 991952209,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Tomas Breton, 62 Madrid Madrid 28...",
+    "addr:housenumber":"62;28 ...",
+    "addr:postcode":"madrid",
+    "addr:street":"Calle De Tomas Breton;Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":991952209,
-    "wof:lastmodified":1472580033,
+    "wof:lastmodified":1472770668,
     "wof:name":"Industrias Y Confecciones S.a.",
     "wof:parent_id":85799161,
     "wof:placetype":"venue",

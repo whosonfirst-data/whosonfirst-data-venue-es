@@ -2,6 +2,10 @@
   "id": 1008369119,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Veguer, 3 Barcelona Barcelona 08002",
+    "addr:housenumber":"3",
+    "addr:postcode":"08002",
+    "addr:street":"Carrer De Veguer",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008369119,
-    "wof:lastmodified":1472624325,
+    "wof:lastmodified":1472769463,
     "wof:name":"Rocamar Control S.l.",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",

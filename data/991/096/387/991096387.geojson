@@ -2,6 +2,10 @@
   "id": 991096387,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Balmes, 305 Barcelona Barcelona 08006",
+    "addr:housenumber":"305",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Balmes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991096387,
-    "wof:lastmodified":1472526520,
+    "wof:lastmodified":1472767224,
     "wof:name":"Balmes 305 S.c.p.",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

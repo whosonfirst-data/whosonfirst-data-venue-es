@@ -2,6 +2,10 @@
   "id": 1008003275,
   "type": "Feature",
   "properties": {
+    "addr:full":"Trav Dalt, 111 Barcelona Barcelona 08024",
+    "addr:housenumber":"111",
+    "addr:postcode":"08024",
+    "addr:street":"Trav Dalt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1008003275,
-    "wof:lastmodified":1472595312,
+    "wof:lastmodified":1472767725,
     "wof:name":"Miquel Golano Perruquers S.l.",
     "wof:parent_id":85863993,
     "wof:placetype":"venue",

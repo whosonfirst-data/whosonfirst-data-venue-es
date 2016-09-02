@@ -2,6 +2,10 @@
   "id": 1008562467,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Garcia De Paredes, 32 Madrid Madrid 28010",
+    "addr:housenumber":"32",
+    "addr:postcode":"madrid;28010",
+    "addr:street":"Calle De Garcia De Paredes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008562467,
-    "wof:lastmodified":1472632662,
+    "wof:lastmodified":1472767509,
     "wof:name":"Suarez Acinas Fatima",
     "wof:parent_id":85863661,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1007798965,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Julio Caro Baroja, 77 Madrid Madrid 28050",
+    "addr:housenumber":"77",
+    "addr:postcode":"madrid;28050",
+    "addr:street":"Calle De Julio Caro Baroja",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1007798965,
-    "wof:lastmodified":1472586267,
+    "wof:lastmodified":1472769543,
     "wof:name":"Lega Aguirre Virginia",
     "wof:parent_id":85863585,
     "wof:placetype":"venue",

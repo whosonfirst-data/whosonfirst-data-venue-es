@@ -2,6 +2,10 @@
   "id": 990984471,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Barcelona, 83 S. Joan Despi Barcelona 08970",
+    "addr:housenumber":"83",
+    "addr:postcode":"08970",
+    "addr:street":"Av Barcelona;S. Joan Despi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990984471,
-    "wof:lastmodified":1472518022,
+    "wof:lastmodified":1472768092,
     "wof:name":"Aparcamientos Despi S.a.",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",

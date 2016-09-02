@@ -2,6 +2,10 @@
   "id": 1008509357,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Ganduxer, 45 Barcelona Barcelona 08021",
+    "addr:housenumber":"45",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De Ganduxer",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008509357,
-    "wof:lastmodified":1472630416,
+    "wof:lastmodified":1472769459,
     "wof:name":"Services & Computer Techniques Inc",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

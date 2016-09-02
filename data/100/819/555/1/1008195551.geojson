@@ -2,6 +2,10 @@
   "id": 1008195551,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Princesa, 58 Barcelona Barcelona 08003",
+    "addr:housenumber":"58",
+    "addr:postcode":"08003",
+    "addr:street":"Carrer De Princesa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008195551,
-    "wof:lastmodified":1472608512,
+    "wof:lastmodified":1472768639,
     "wof:name":"Pedrol Parunella Mariano",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1007702023,
   "type": "Feature",
   "properties": {
+    "addr:full":"Via Laietana, 40 Barcelona Barcelona 08003",
+    "addr:housenumber":"40",
+    "addr:postcode":"08003",
+    "addr:street":"Via Laietana",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1007702023,
-    "wof:lastmodified":1472581073,
+    "wof:lastmodified":1472767404,
     "wof:name":"Intercampo S.a.",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",

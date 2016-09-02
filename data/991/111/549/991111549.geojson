@@ -2,6 +2,10 @@
   "id": 991111549,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Arlaban, 7 Madrid Madrid 28014",
+    "addr:housenumber":"7",
+    "addr:postcode":"madrid;28014",
+    "addr:street":"Calle De Arlaban",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991111549,
-    "wof:lastmodified":1472527699,
+    "wof:lastmodified":1472767297,
     "wof:name":"Bardinet S.a.",
     "wof:parent_id":85863685,
     "wof:placetype":"venue",

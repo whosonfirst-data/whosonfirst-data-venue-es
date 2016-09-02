@@ -2,6 +2,10 @@
   "id": 990916707,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Pere Iv, 42 Barcelona Barcelona 08005",
+    "addr:housenumber":"42",
+    "addr:postcode":"08005",
+    "addr:street":"Carrer De Pere Iv",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":990916707,
-    "wof:lastmodified":1472510166,
+    "wof:lastmodified":1472767448,
     "wof:name":"Aladro Font Armando",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

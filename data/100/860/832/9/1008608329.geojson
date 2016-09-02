@@ -2,6 +2,10 @@
   "id": 1008608329,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Numancia, 18 Barcelona Barcelona 08029",
+    "addr:housenumber":"18",
+    "addr:postcode":"08029",
+    "addr:street":"Carrer De Numancia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008608329,
-    "wof:lastmodified":1472634610,
+    "wof:lastmodified":1472769302,
     "wof:name":"Teixido Riera Enric",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

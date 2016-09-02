@@ -2,6 +2,10 @@
   "id": 991318357,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Rubio I Ors, 195 Cornella Llobregat Barcelona 08940",
+    "addr:housenumber":"195",
+    "addr:postcode":"08940",
+    "addr:street":"Carrer De Rubio;Ors",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991318357,
-    "wof:lastmodified":1472543494,
+    "wof:lastmodified":1472769671,
     "wof:name":"Centro Hipotecario Barcelona S.l",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",

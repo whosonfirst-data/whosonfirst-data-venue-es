@@ -2,6 +2,10 @@
   "id": 991350579,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Casanova, 105 Barcelona Barcelona 08036",
+    "addr:housenumber":"105",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Casanova",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991350579,
-    "wof:lastmodified":1472545166,
+    "wof:lastmodified":1472769787,
     "wof:name":"Closa Castella Jose Luis",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

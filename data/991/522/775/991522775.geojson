@@ -2,6 +2,10 @@
   "id": 991522775,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Sextante, 33 Madrid Madrid 28023",
+    "addr:housenumber":"33",
+    "addr:postcode":"madrid;28023",
+    "addr:street":"Calle De Sextante",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991522775,
-    "wof:lastmodified":1472555571,
+    "wof:lastmodified":1472770063,
     "wof:name":"Dominguez Lopez Horacio",
     "wof:parent_id":85799153,
     "wof:placetype":"venue",

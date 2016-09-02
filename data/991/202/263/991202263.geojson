@@ -2,6 +2,10 @@
   "id": 991202263,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de La Rambla, 44 Barcelona Barcelona 08002",
+    "addr:housenumber":"44",
+    "addr:postcode":"08002",
+    "addr:street":"Carrer De La Rambla",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991202263,
-    "wof:lastmodified":1472536672,
+    "wof:lastmodified":1472767946,
     "wof:name":"Caixa D'estalvis Del Penedes",
     "wof:parent_id":85864033,
     "wof:placetype":"venue",

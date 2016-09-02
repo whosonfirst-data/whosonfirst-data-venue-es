@@ -2,6 +2,10 @@
   "id": 1008022133,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Aribau, 245 Barcelona Barcelona 08021",
+    "addr:housenumber":"245",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De Aribau",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008022133,
-    "wof:lastmodified":1472596127,
+    "wof:lastmodified":1472767373,
     "wof:name":"Monclus Garcia Carme",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991655125,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Aribau, 56 Barcelona Barcelona 08011",
+    "addr:housenumber":"56",
+    "addr:postcode":"08011",
+    "addr:street":"Carrer De Aribau",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991655125,
-    "wof:lastmodified":1472563260,
+    "wof:lastmodified":1472769986,
     "wof:name":"Ferrando Distribuciones S.a.",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

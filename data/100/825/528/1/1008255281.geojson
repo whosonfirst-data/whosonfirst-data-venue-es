@@ -2,6 +2,10 @@
   "id": 1008255281,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av. Valladolid, 53 Madrid Madrid 28008",
+    "addr:housenumber":"53",
+    "addr:postcode":"madrid;28008",
+    "addr:street":"Av. Valladolid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008255281,
-    "wof:lastmodified":1472616306,
+    "wof:lastmodified":1472768593,
     "wof:name":"Poblacion Subiza Casimiro",
     "wof:parent_id":85863669,
     "wof:placetype":"venue",

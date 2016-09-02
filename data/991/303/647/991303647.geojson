@@ -2,6 +2,10 @@
   "id": 991303647,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av. Valladolid, 45 Madrid Madrid 28008",
+    "addr:housenumber":"45",
+    "addr:postcode":"madrid;28008",
+    "addr:street":"Av. Valladolid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991303647,
-    "wof:lastmodified":1472542816,
+    "wof:lastmodified":1472769806,
     "wof:name":"C. De Salamanca S.a.",
     "wof:parent_id":85863669,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008641949,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Gran Via, 31 Madrid Madrid 28013",
+    "addr:housenumber":"31",
+    "addr:postcode":"madrid;28013",
+    "addr:street":"Calle De Gran Via",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008641949,
-    "wof:lastmodified":1472636055,
+    "wof:lastmodified":1472767457,
     "wof:name":"Tostadores Reunidos S.a.",
     "wof:parent_id":85863667,
     "wof:placetype":"venue",

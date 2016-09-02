@@ -2,6 +2,10 @@
   "id": 1007886775,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Francisco Madariaga, 40 Madrid Madrid 28017",
+    "addr:housenumber":"40",
+    "addr:postcode":"madrid;28017",
+    "addr:street":"Calle De Francisco Madariaga",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007886775,
-    "wof:lastmodified":1472590325,
+    "wof:lastmodified":1472768458,
     "wof:name":"Manzano Gonzalez Luis Gregorio",
     "wof:parent_id":85863639,
     "wof:placetype":"venue",

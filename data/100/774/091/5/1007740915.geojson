@@ -2,6 +2,10 @@
   "id": 1007740915,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Ramon Turro, 25 Barcelona Barcelona 08005",
+    "addr:housenumber":"25",
+    "addr:postcode":"08005",
+    "addr:street":"Carrer De Ramon Turro",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1007740915,
-    "wof:lastmodified":1472583168,
+    "wof:lastmodified":1472767026,
     "wof:name":"Jorge Bertran S. A.",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

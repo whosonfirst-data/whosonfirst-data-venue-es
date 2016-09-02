@@ -2,6 +2,10 @@
   "id": 1008142771,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Padilla, 296 Barcelona Barcelona 08025",
+    "addr:housenumber":"296",
+    "addr:postcode":"08025",
+    "addr:street":"Carrer De Padilla",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008142771,
-    "wof:lastmodified":1472601505,
+    "wof:lastmodified":1472767493,
     "wof:name":"Ospina Alvarez Silvia",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

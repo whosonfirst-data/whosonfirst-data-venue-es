@@ -2,6 +2,10 @@
   "id": 1008415007,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Fernandez De La Hoz, 30 Madrid Madrid 28010",
+    "addr:housenumber":"30",
+    "addr:postcode":"madrid;28010",
+    "addr:street":"Calle De Fernandez De La Hoz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008415007,
-    "wof:lastmodified":1472626475,
+    "wof:lastmodified":1472768531,
     "wof:name":"Rubio Perez Francisco Javier",
     "wof:parent_id":85863671,
     "wof:placetype":"venue",

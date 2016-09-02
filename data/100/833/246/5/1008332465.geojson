@@ -2,6 +2,10 @@
   "id": 1008332465,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Londres, 27 Madrid Madrid 28028",
+    "addr:housenumber":"27",
+    "addr:postcode":"madrid;28028",
+    "addr:street":"Calle De Londres",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008332465,
-    "wof:lastmodified":1472622721,
+    "wof:lastmodified":1472767503,
     "wof:name":"Regalado De La Calle Raul",
     "wof:parent_id":85863643,
     "wof:placetype":"venue",

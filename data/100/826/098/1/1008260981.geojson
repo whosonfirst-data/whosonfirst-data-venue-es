@@ -2,6 +2,10 @@
   "id": 1008260981,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Hermanos Gomez, 19 Madrid Madrid 28017",
+    "addr:housenumber":"19",
+    "addr:postcode":"madrid;28017",
+    "addr:street":"Calle De Hermanos Gomez",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008260981,
-    "wof:lastmodified":1472616571,
+    "wof:lastmodified":1472766935,
     "wof:name":"Porcar Requena Jose",
     "wof:parent_id":85799257,
     "wof:placetype":"venue",

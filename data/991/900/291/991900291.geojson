@@ -2,6 +2,10 @@
   "id": 991900291,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Gran Via, 40 Madrid Madrid 28013",
+    "addr:housenumber":"40",
+    "addr:postcode":"madrid;28013",
+    "addr:street":"Calle De Gran Via",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991900291,
-    "wof:lastmodified":1472577535,
+    "wof:lastmodified":1472770579,
     "wof:name":"Hernando De La Cuerda Rafael",
     "wof:parent_id":85863667,
     "wof:placetype":"venue",

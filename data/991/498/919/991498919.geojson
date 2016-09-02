@@ -2,6 +2,10 @@
   "id": 991498919,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Luis Gomez, 13 Madrid Madrid 28025",
+    "addr:housenumber":"13",
+    "addr:postcode":"madrid;28025",
+    "addr:street":"Calle De Luis Gomez",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":991498919,
-    "wof:lastmodified":1472554372,
+    "wof:lastmodified":1472770179,
     "wof:name":"Diaz Robles Antonio",
     "wof:parent_id":85799217,
     "wof:placetype":"venue",

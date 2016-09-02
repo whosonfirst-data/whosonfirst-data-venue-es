@@ -2,6 +2,10 @@
   "id": 991361701,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pase San Francisco De Sales, 42 Madrid Madrid 28003",
+    "addr:housenumber":"42",
+    "addr:postcode":"madrid;28003",
+    "addr:street":"Francisco De Sales",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991361701,
-    "wof:lastmodified":1472545997,
+    "wof:lastmodified":1472769799,
     "wof:name":"Colegio Amor Misericordioso",
     "wof:parent_id":85863653,
     "wof:placetype":"venue",

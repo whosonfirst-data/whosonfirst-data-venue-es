@@ -2,6 +2,10 @@
   "id": 1007762677,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Bruc, 117 Barcelona Barcelona 08009",
+    "addr:housenumber":"117",
+    "addr:postcode":"08009",
+    "addr:street":"Carrer De Bruc",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007762677,
-    "wof:lastmodified":1472584378,
+    "wof:lastmodified":1472767690,
     "wof:name":"Junyent Fonts Ferran",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

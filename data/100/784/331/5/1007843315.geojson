@@ -2,6 +2,10 @@
   "id": 1007843315,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Lopez Puigcerver, 13 Madrid Madrid 28035",
+    "addr:housenumber":"13",
+    "addr:postcode":"madrid;28035",
+    "addr:street":"Calle De;Puigcerver",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007843315,
-    "wof:lastmodified":1472588377,
+    "wof:lastmodified":1472768076,
     "wof:name":"Lopez-puigcerver Blanco Carmen",
     "wof:parent_id":85863605,
     "wof:placetype":"venue",

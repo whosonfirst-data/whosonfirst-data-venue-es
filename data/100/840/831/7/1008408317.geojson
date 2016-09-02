@@ -2,6 +2,10 @@
   "id": 1008408317,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sants, 133 Barcelona Barcelona 08028",
+    "addr:housenumber":"133",
+    "addr:postcode":"08028",
+    "addr:street":"Carrer De Sants",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008408317,
-    "wof:lastmodified":1472626167,
+    "wof:lastmodified":1472769125,
     "wof:name":"Rossell Poch Salvador",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008725927,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Ramon Turro, 131 Barcelona Barcelona 08005",
+    "addr:housenumber":"131",
+    "addr:postcode":"08005",
+    "addr:street":"Carrer De Ramon Turro",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":1008725927,
-    "wof:lastmodified":1472639665,
+    "wof:lastmodified":1472768833,
     "wof:name":"Vidra-foc S. A.",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

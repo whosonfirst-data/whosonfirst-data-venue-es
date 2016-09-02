@@ -2,6 +2,10 @@
   "id": 1008435291,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Andrade, 206 Barcelona Barcelona 08020",
+    "addr:housenumber":"206",
+    "addr:postcode":"08020",
+    "addr:street":"Carrer De Andrade",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008435291,
-    "wof:lastmodified":1472627404,
+    "wof:lastmodified":1472768581,
     "wof:name":"Sala Delgado Ramon",
     "wof:parent_id":85864011,
     "wof:placetype":"venue",

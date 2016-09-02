@@ -2,6 +2,10 @@
   "id": 991721741,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Oporto, 91 Madrid Madrid 28019",
+    "addr:housenumber":"91",
+    "addr:postcode":"madrid;28019",
+    "addr:street":"Avda Oporto",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991721741,
-    "wof:lastmodified":1472566564,
+    "wof:lastmodified":1472770461,
     "wof:name":"Galiauto S. A.",
     "wof:parent_id":85799217,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008467665,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda America, 42 Madrid Madrid 28028",
+    "addr:housenumber":"42",
+    "addr:postcode":"madrid;28028",
+    "addr:street":"Avda America",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008467665,
-    "wof:lastmodified":1472628617,
+    "wof:lastmodified":1472769098,
     "wof:name":"Sanidad Y Tecnologia Alimentaria S.l.",
     "wof:parent_id":85799435,
     "wof:placetype":"venue",

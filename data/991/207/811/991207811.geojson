@@ -2,6 +2,10 @@
   "id": 991207811,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Catalunya, 17 Mas Rampinyo Barcelona 08110",
+    "addr:housenumber":"17",
+    "addr:postcode":"08110",
+    "addr:street":"Av Catalunya",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":991207811,
-    "wof:lastmodified":1472537130,
+    "wof:lastmodified":1472768148,
     "wof:name":"Caixa D'estalvis Sabadell",
     "wof:parent_id":85799639,
     "wof:placetype":"venue",

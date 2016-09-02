@@ -2,6 +2,10 @@
   "id": 991283131,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Juan Duque, 44 Madrid Madrid 28005",
+    "addr:housenumber":"44",
+    "addr:postcode":"madrid;28005",
+    "addr:street":"Calle De Juan Duque",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991283131,
-    "wof:lastmodified":1472541878,
+    "wof:lastmodified":1472769611,
     "wof:name":"Casanova Martinez-pardo Cesar",
     "wof:parent_id":85863775,
     "wof:placetype":"venue",

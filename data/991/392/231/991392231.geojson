@@ -2,6 +2,10 @@
   "id": 991392231,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Cazorla, 91 Madrid Madrid 28053",
+    "addr:housenumber":"91",
+    "addr:postcode":"madrid;28053",
+    "addr:street":"Calle De Cazorla",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":991392231,
-    "wof:lastmodified":1472548252,
+    "wof:lastmodified":1472769625,
     "wof:name":"Comunidad Autonoma De Madrid-centros De Educacion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

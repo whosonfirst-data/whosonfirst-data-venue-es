@@ -2,6 +2,10 @@
   "id": 1007766867,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Londres, 22 Madrid Madrid 28028",
+    "addr:housenumber":"22",
+    "addr:postcode":"madrid;28028",
+    "addr:street":"Calle De Londres",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007766867,
-    "wof:lastmodified":1472584606,
+    "wof:lastmodified":1472768942,
     "wof:name":"Kemira Iberica S.a.",
     "wof:parent_id":85863643,
     "wof:placetype":"venue",

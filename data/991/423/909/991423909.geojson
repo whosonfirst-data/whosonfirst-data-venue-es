@@ -2,6 +2,10 @@
   "id": 991423909,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Cugat, 42 Sabadell Barcelona 08201",
+    "addr:housenumber":"42",
+    "addr:postcode":"08201",
+    "addr:street":"Carrer De Sant Cugat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":991423909,
-    "wof:lastmodified":1472550171,
+    "wof:lastmodified":1472769813,
     "wof:name":"Control Guar Sabadell S.l.",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

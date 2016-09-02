@@ -2,6 +2,10 @@
   "id": 991011949,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Santa Eugenia, 27 Madrid Madrid 28031",
+    "addr:housenumber":"27",
+    "addr:postcode":"madrid;28031",
+    "addr:street":"Avda Santa Eugenia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991011949,
-    "wof:lastmodified":1472520057,
+    "wof:lastmodified":1472767056,
     "wof:name":"Arroba Mijarra Brigida",
     "wof:parent_id":85863725,
     "wof:placetype":"venue",

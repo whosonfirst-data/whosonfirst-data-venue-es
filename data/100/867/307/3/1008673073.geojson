@@ -2,6 +2,10 @@
   "id": 1008673073,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Universidades, 24 Bilbao Vizcaya 48...",
+    "addr:housenumber":"24;48 ...",
+    "addr:postcode":"",
+    "addr:street":"Avda Universidades;Vizcaya",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1008673073,
-    "wof:lastmodified":1472637322,
+    "wof:lastmodified":1472768262,
     "wof:name":"Universidad De Deusto",
     "wof:parent_id":102545753,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1007810043,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Tamarit, 118 Barcelona Barcelona 08015",
+    "addr:housenumber":"118",
+    "addr:postcode":"08015",
+    "addr:street":"Carrer De Tamarit",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007810043,
-    "wof:lastmodified":1472586845,
+    "wof:lastmodified":1472766678,
     "wof:name":"Linares Casero Miguel Angel",
     "wof:parent_id":85864037,
     "wof:placetype":"venue",

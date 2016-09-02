@@ -2,6 +2,10 @@
   "id": 1007791905,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda El Ferrol, 25 Madrid Madrid 28029",
+    "addr:housenumber":"25",
+    "addr:postcode":"madrid;28029",
+    "addr:street":"Avda El Ferrol",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007791905,
-    "wof:lastmodified":1472585851,
+    "wof:lastmodified":1472767359,
     "wof:name":"Las Rejas Cdad.b.",
     "wof:parent_id":85863561,
     "wof:placetype":"venue",

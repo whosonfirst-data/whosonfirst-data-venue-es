@@ -2,6 +2,10 @@
   "id": 991503239,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Mota Del Cuervo, 76 Madrid Madrid 28043",
+    "addr:housenumber":"76",
+    "addr:postcode":"madrid;28043",
+    "addr:street":"Calle De Mota Del Cuervo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991503239,
-    "wof:lastmodified":1472554577,
+    "wof:lastmodified":1472769967,
     "wof:name":"Diez Martinez Evelio",
     "wof:parent_id":85863803,
     "wof:placetype":"venue",

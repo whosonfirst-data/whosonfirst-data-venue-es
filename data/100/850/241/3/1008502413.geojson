@@ -2,6 +2,10 @@
   "id": 1008502413,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Federico Grases, 30 Madrid Madrid 28025",
+    "addr:housenumber":"30",
+    "addr:postcode":"madrid;28025",
+    "addr:street":"Calle De Federico Grases",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008502413,
-    "wof:lastmodified":1472630126,
+    "wof:lastmodified":1472767548,
     "wof:name":"Serpex S.l.",
     "wof:parent_id":85863819,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1007943209,
   "type": "Feature",
   "properties": {
+    "addr:full":"Plaz Tirso De Molina, 18 Madrid Madrid 28012",
+    "addr:housenumber":"18",
+    "addr:postcode":"madrid;28012",
+    "addr:street":"Plaz Tirso De Molina",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1007943209,
-    "wof:lastmodified":1472592831,
+    "wof:lastmodified":1472767970,
     "wof:name":"Martin Martin Santiago",
     "wof:parent_id":85863793,
     "wof:placetype":"venue",

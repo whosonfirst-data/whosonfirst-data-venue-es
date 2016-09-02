@@ -2,6 +2,10 @@
   "id": 990972251,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Artistas, 39 Madrid Madrid 28020",
+    "addr:housenumber":"39",
+    "addr:postcode":"madrid;28020",
+    "addr:street":"Calle De Artistas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990972251,
-    "wof:lastmodified":1472516997,
+    "wof:lastmodified":1472767910,
     "wof:name":"Andres Fuente Mariano",
     "wof:parent_id":85799245,
     "wof:placetype":"venue",

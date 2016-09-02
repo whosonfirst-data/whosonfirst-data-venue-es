@@ -2,6 +2,10 @@
   "id": 1008463645,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Muntaner, 171 Barcelona Barcelona 08036",
+    "addr:housenumber":"171",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Muntaner",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008463645,
-    "wof:lastmodified":1472628454,
+    "wof:lastmodified":1472768068,
     "wof:name":"Sanchez Vico Pedro",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

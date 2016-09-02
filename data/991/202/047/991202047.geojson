@@ -2,6 +2,10 @@
   "id": 991202047,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Moratalaz, 127 Madrid Madrid 28030",
+    "addr:housenumber":"127",
+    "addr:postcode":"28030",
+    "addr:street":"Avda Moratalaz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991202047,
-    "wof:lastmodified":1472536652,
+    "wof:lastmodified":1472767903,
     "wof:name":"Caixa D'estalvis De Catalunya",
     "wof:parent_id":85863715,
     "wof:placetype":"venue",

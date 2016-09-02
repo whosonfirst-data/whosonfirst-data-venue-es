@@ -2,6 +2,10 @@
   "id": 1008314323,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pase Esperanza, 45 Madrid Madrid 28005",
+    "addr:housenumber":"45",
+    "addr:postcode":"madrid;28005",
+    "addr:street":"Esperanza",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008314323,
-    "wof:lastmodified":1472621965,
+    "wof:lastmodified":1472768442,
     "wof:name":"Ramirez Nieto Rafael",
     "wof:parent_id":85863745,
     "wof:placetype":"venue",

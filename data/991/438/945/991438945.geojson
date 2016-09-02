@@ -2,6 +2,10 @@
   "id": 991438945,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Goya, 61 Madrid Madrid 28001",
+    "addr:housenumber":"61",
+    "addr:postcode":"madrid;28001",
+    "addr:street":"Calle De Goya",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":991438945,
-    "wof:lastmodified":1472551041,
+    "wof:lastmodified":1472769848,
     "wof:name":"Cortefiel S.a.",
     "wof:parent_id":85863675,
     "wof:placetype":"venue",

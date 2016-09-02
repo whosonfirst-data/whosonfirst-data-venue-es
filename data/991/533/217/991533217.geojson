@@ -2,6 +2,10 @@
   "id": 991533217,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Casp, 92 Barcelona Barcelona 08010",
+    "addr:housenumber":"92",
+    "addr:postcode":"08010",
+    "addr:street":"Carrer De Casp",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":991533217,
-    "wof:lastmodified":1472556165,
+    "wof:lastmodified":1472769953,
     "wof:name":"Duran Ricart Ricard",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

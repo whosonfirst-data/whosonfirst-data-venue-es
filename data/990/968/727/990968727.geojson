@@ -2,6 +2,10 @@
   "id": 990968727,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Miquel, 119 Masnou Barcelona 08320",
+    "addr:housenumber":"119",
+    "addr:postcode":"08320",
+    "addr:street":"Carrer De Sant Miquel",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":990968727,
-    "wof:lastmodified":1472516665,
+    "wof:lastmodified":1472768023,
     "wof:name":"Anaf S.p.a.",
     "wof:parent_id":85799485,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008462959,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Atocha, 70 Madrid Madrid 28012",
+    "addr:housenumber":"70",
+    "addr:postcode":"madrid;28012",
+    "addr:street":"Calle De Atocha",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008462959,
-    "wof:lastmodified":1472628430,
+    "wof:lastmodified":1472767882,
     "wof:name":"Sanchez Torres Gabriel",
     "wof:parent_id":85863685,
     "wof:placetype":"venue",

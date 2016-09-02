@@ -2,6 +2,10 @@
   "id": 1008192767,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Brescia, 7 Madrid Madrid 28028",
+    "addr:housenumber":"7",
+    "addr:postcode":"madrid;28028",
+    "addr:street":"Calle De Brescia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008192767,
-    "wof:lastmodified":1472607916,
+    "wof:lastmodified":1472767786,
     "wof:name":"Pazos Gerpe Jesus",
     "wof:parent_id":85863683,
     "wof:placetype":"venue",

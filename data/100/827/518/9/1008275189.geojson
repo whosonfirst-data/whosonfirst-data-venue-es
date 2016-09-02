@@ -2,6 +2,10 @@
   "id": 1008275189,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Napols, 131 Barcelona Barcelona 08013",
+    "addr:housenumber":"131",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Napols",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008275189,
-    "wof:lastmodified":1472617351,
+    "wof:lastmodified":1472768581,
     "wof:name":"Prisma Club Travel Agency S.a.",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

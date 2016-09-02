@@ -2,6 +2,10 @@
   "id": 991007805,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Casilla, 31 Casilla Barcelona 08100",
+    "addr:housenumber":"31",
+    "addr:postcode":"08100",
+    "addr:street":"Carrer De Casilla;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991007805,
-    "wof:lastmodified":1472519670,
+    "wof:lastmodified":1472766932,
     "wof:name":"Arpal Marco Carlos",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",

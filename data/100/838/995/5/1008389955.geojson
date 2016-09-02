@@ -2,6 +2,10 @@
   "id": 1008389955,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Marques De Corbera, 42 Madrid Madrid 28017",
+    "addr:housenumber":"42",
+    "addr:postcode":"madrid;28017",
+    "addr:street":"Avda Marques De Corbera",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008389955,
-    "wof:lastmodified":1472625315,
+    "wof:lastmodified":1472769437,
     "wof:name":"Rodriguez Sanjurjo Remedios",
     "wof:parent_id":85863695,
     "wof:placetype":"venue",

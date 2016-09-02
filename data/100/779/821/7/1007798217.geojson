@@ -2,6 +2,10 @@
   "id": 1007798217,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Muntaner, 181 Barcelona Barcelona 08036",
+    "addr:housenumber":"181",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Muntaner",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007798217,
-    "wof:lastmodified":1472586230,
+    "wof:lastmodified":1472769405,
     "wof:name":"Lechuga Garcia Francisco Javier",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

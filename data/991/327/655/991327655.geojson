@@ -2,6 +2,10 @@
   "id": 991327655,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Andrade, 154 Barcelona Barcelona 08020",
+    "addr:housenumber":"154",
+    "addr:postcode":"08020",
+    "addr:street":"Carrer De Andrade",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991327655,
-    "wof:lastmodified":1472543910,
+    "wof:lastmodified":1472769805,
     "wof:name":"Cervantes Perez Jaime",
     "wof:parent_id":85864011,
     "wof:placetype":"venue",

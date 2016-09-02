@@ -2,6 +2,10 @@
   "id": 1007796953,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Los Rosales, 30 Madrid Madrid 28041",
+    "addr:housenumber":"30",
+    "addr:postcode":"madrid;28041",
+    "addr:street":"Avda Los Rosales",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007796953,
-    "wof:lastmodified":1472586151,
+    "wof:lastmodified":1472769026,
     "wof:name":"Laz S. A.",
     "wof:parent_id":85863749,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991675805,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Sagasta, 30 Madrid Madrid 28004",
+    "addr:housenumber":"30",
+    "addr:postcode":"madrid;28004",
+    "addr:street":"Calle De Sagasta",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991675805,
-    "wof:lastmodified":1472564276,
+    "wof:lastmodified":1472770420,
     "wof:name":"Folque De Las Rivas Cb",
     "wof:parent_id":85863671,
     "wof:placetype":"venue",

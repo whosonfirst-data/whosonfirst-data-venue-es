@@ -2,6 +2,10 @@
   "id": 1008357897,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Enric Prat De La Riba, 120 Hospitalet Llobregat Barcelona 08901",
+    "addr:housenumber":"120",
+    "addr:postcode":"08901",
+    "addr:street":"Carrer De Enric Prat De La Riba",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008357897,
-    "wof:lastmodified":1472623842,
+    "wof:lastmodified":1472769102,
     "wof:name":"Riera Puig S.a.",
     "wof:parent_id":85799283,
     "wof:placetype":"venue",

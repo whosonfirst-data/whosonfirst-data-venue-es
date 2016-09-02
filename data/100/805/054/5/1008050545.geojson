@@ -2,6 +2,10 @@
   "id": 1008050545,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Valencia, 567 Barcelona Barcelona 08026",
+    "addr:housenumber":"567",
+    "addr:postcode":"08026",
+    "addr:street":"Carrer De Valencia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008050545,
-    "wof:lastmodified":1472597360,
+    "wof:lastmodified":1472766906,
     "wof:name":"Morraja Queralts Manuel",
     "wof:parent_id":85799265,
     "wof:placetype":"venue",

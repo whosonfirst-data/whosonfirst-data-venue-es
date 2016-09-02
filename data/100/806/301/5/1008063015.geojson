@@ -2,6 +2,10 @@
   "id": 1008063015,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Mallorca, 221 Barcelona Barcelona 08008",
+    "addr:housenumber":"221",
+    "addr:postcode":"08008",
+    "addr:street":"Carrer De Mallorca",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008063015,
-    "wof:lastmodified":1472597867,
+    "wof:lastmodified":1472767850,
     "wof:name":"Mulas Tusell Salvador",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

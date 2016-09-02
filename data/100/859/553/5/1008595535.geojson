@@ -2,6 +2,10 @@
   "id": 1008595535,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Portbou, 40 Barcelona Barcelona 08028",
+    "addr:housenumber":"40",
+    "addr:postcode":"08028",
+    "addr:street":"Carrer De Portbou",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008595535,
-    "wof:lastmodified":1472634055,
+    "wof:lastmodified":1472768646,
     "wof:name":"Tallers Roger S. L.",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

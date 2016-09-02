@@ -2,6 +2,10 @@
   "id": 991811983,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Mare Deu De Montserrat, 143 Barcelona Barcelona 08041",
+    "addr:housenumber":"143",
+    "addr:postcode":"08041",
+    "addr:street":"Av Mare;De Montserrat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991811983,
-    "wof:lastmodified":1472572579,
+    "wof:lastmodified":1472770575,
     "wof:name":"Gomez Martinez Jesus Carlos",
     "wof:parent_id":85863997,
     "wof:placetype":"venue",

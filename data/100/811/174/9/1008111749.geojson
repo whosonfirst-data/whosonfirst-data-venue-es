@@ -2,6 +2,10 @@
   "id": 1008111749,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Telegraf, 56 Barcelona Barcelona 08041",
+    "addr:housenumber":"56",
+    "addr:postcode":"08041",
+    "addr:street":"Carrer De Telegraf",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008111749,
-    "wof:lastmodified":1472600023,
+    "wof:lastmodified":1472767365,
     "wof:name":"Obon Mico Joaquin",
     "wof:parent_id":85863997,
     "wof:placetype":"venue",

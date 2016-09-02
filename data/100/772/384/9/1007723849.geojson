@@ -2,6 +2,10 @@
   "id": 1007723849,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Joan Miro, 294 Sant Agusti Islas Baleares 07015",
+    "addr:housenumber":"294",
+    "addr:postcode":"07015",
+    "addr:street":"Av Joan Miro;Sant Agusti",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1007723849,
-    "wof:lastmodified":1472582148,
+    "wof:lastmodified":1472768175,
     "wof:name":"Jazztel Telecomunicaciones",
     "wof:parent_id":85864109,
     "wof:placetype":"venue",

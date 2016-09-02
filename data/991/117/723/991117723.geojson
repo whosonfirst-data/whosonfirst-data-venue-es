@@ -2,6 +2,10 @@
   "id": 991117723,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Fuentespina, 12 Madrid Madrid 28031",
+    "addr:housenumber":"12",
+    "addr:postcode":"madrid;28031",
+    "addr:street":"Calle De Fuentespina",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":991117723,
-    "wof:lastmodified":1472528176,
+    "wof:lastmodified":1472767453,
     "wof:name":"Barrio De Antonio Pedro",
     "wof:parent_id":85863777,
     "wof:placetype":"venue",

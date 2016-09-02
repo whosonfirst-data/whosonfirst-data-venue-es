@@ -2,6 +2,10 @@
   "id": 1007844641,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Chaparral, 11 Madrid Madrid 28033",
+    "addr:housenumber":"11",
+    "addr:postcode":"madrid;28033",
+    "addr:street":"Calle De Chaparral",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007844641,
-    "wof:lastmodified":1472588434,
+    "wof:lastmodified":1472768520,
     "wof:name":"Lopez Romano Felisa",
     "wof:parent_id":85799409,
     "wof:placetype":"venue",

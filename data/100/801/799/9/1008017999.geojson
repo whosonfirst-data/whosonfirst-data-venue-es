@@ -2,6 +2,10 @@
   "id": 1008017999,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Roger De Flor, 216 Barcelona Barcelona 08013",
+    "addr:housenumber":"216",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Roger De Flor",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008017999,
-    "wof:lastmodified":1472595938,
+    "wof:lastmodified":1472769102,
     "wof:name":"Molina Ramos Eduardo",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

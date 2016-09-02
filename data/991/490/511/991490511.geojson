@@ -2,6 +2,10 @@
   "id": 991490511,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Bailen, 203 Barcelona Barcelona 08037",
+    "addr:housenumber":"203",
+    "addr:postcode":"08037",
+    "addr:street":"Carrer De Bailen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991490511,
-    "wof:lastmodified":1472553886,
+    "wof:lastmodified":1472770016,
     "wof:name":"Deus Estruch Montserrat",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

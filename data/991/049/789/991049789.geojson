@@ -2,6 +2,10 @@
   "id": 991049789,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Hermosilla, 93 Madrid Madrid 28001",
+    "addr:housenumber":"93",
+    "addr:postcode":"madrid;28001",
+    "addr:street":"Calle De Hermosilla",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":991049789,
-    "wof:lastmodified":1472522913,
+    "wof:lastmodified":1472767048,
     "wof:name":"Audifon Euro S.l.",
     "wof:parent_id":85863677,
     "wof:placetype":"venue",

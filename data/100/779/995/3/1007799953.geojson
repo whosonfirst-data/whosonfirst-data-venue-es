@@ -2,6 +2,10 @@
   "id": 1007799953,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Reina, 98 Valencia Valencia 46011",
+    "addr:housenumber":"98",
+    "addr:postcode":"46011",
+    "addr:street":"Calle De Reina",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1007799953,
-    "wof:lastmodified":1472586319,
+    "wof:lastmodified":1472769573,
     "wof:name":"Leiva Anton Heliodoro",
     "wof:parent_id":85799297,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008063399,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Doctor Fourquet, 12 Madrid Madrid 28012",
+    "addr:housenumber":"12",
+    "addr:postcode":"madrid;28012",
+    "addr:street":"Calle De Doctor Fourquet",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1008063399,
-    "wof:lastmodified":1472597890,
+    "wof:lastmodified":1472767996,
     "wof:name":"Muller Schatzel Helga",
     "wof:parent_id":85863793,
     "wof:placetype":"venue",

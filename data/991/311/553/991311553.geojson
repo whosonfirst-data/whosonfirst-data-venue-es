@@ -2,6 +2,10 @@
   "id": 991311553,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Madriguera, 38 Barcelona Barcelona 08033",
+    "addr:housenumber":"38",
+    "addr:postcode":"08033",
+    "addr:street":"Carrer De Madriguera",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991311553,
-    "wof:lastmodified":1472543187,
+    "wof:lastmodified":1472769755,
     "wof:name":"Centre De Telecomunicaciones De Catalunya",
     "wof:parent_id":85799517,
     "wof:placetype":"venue",

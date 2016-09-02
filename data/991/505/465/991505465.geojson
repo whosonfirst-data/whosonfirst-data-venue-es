@@ -2,6 +2,10 @@
   "id": 991505465,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Bruc, 78 Barcelona Barcelona 08009",
+    "addr:housenumber":"78",
+    "addr:postcode":"08009",
+    "addr:street":"Carrer De Bruc",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":991505465,
-    "wof:lastmodified":1472554683,
+    "wof:lastmodified":1472769998,
     "wof:name":"Dinamic Traspas S.l.",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

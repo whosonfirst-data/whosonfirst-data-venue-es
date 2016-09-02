@@ -2,6 +2,10 @@
   "id": 991357871,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Socrates, 104 Barcelona Barcelona 08030",
+    "addr:housenumber":"104",
+    "addr:postcode":"08030",
+    "addr:street":"Carrer De Socrates",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991357871,
-    "wof:lastmodified":1472545659,
+    "wof:lastmodified":1472769838,
     "wof:name":"Coderch Codinachs Andres",
     "wof:parent_id":85863995,
     "wof:placetype":"venue",

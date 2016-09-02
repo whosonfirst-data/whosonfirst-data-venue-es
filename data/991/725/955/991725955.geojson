@@ -2,6 +2,10 @@
   "id": 991725955,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Olivar, 10 Madrid Madrid 28012",
+    "addr:housenumber":"10",
+    "addr:postcode":"madrid;28012",
+    "addr:street":"Calle De Olivar",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991725955,
-    "wof:lastmodified":1472566768,
+    "wof:lastmodified":1472770532,
     "wof:name":"Gallo Jimenez Jose Carlos",
     "wof:parent_id":85863685,
     "wof:placetype":"venue",

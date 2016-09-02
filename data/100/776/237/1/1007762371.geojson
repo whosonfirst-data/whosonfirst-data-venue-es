@@ -2,6 +2,10 @@
   "id": 1007762371,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Brujas, 3 Madrid Madrid 28030",
+    "addr:housenumber":"3",
+    "addr:postcode":"28030",
+    "addr:street":"Calle De Brujas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007762371,
-    "wof:lastmodified":1472584362,
+    "wof:lastmodified":1472767559,
     "wof:name":"Junta De Arrendatarios",
     "wof:parent_id":85863821,
     "wof:placetype":"venue",

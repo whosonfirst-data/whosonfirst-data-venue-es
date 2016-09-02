@@ -2,6 +2,10 @@
   "id": 991811357,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Pedro Laborde, 9 Madrid Madrid 28038",
+    "addr:housenumber":"9",
+    "addr:postcode":"madrid;28038",
+    "addr:street":"Calle De Pedro Laborde",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991811357,
-    "wof:lastmodified":1472572550,
+    "wof:lastmodified":1472770375,
     "wof:name":"Gomez Lopez Victoriano",
     "wof:parent_id":85799645,
     "wof:placetype":"venue",

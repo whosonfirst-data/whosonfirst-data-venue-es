@@ -2,6 +2,10 @@
   "id": 991311791,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Riera De Sant Miquel, 58 Barcelona Barcelona 08006",
+    "addr:housenumber":"58",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Riera De Sant Miquel",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991311791,
-    "wof:lastmodified":1472543196,
+    "wof:lastmodified":1472769861,
     "wof:name":"Centre De Telecomunicaciones De Catalunya",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

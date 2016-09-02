@@ -2,6 +2,10 @@
   "id": 991542165,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Centre, 42 Prat Llobregat Barcelona 08820",
+    "addr:housenumber":"42",
+    "addr:postcode":"08820",
+    "addr:street":"Carrer De;Llobregat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991542165,
-    "wof:lastmodified":1472556613,
+    "wof:lastmodified":1472769961,
     "wof:name":"Egea Liria Baltasar Jose",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",

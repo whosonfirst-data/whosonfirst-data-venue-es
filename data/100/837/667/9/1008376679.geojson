@@ -2,6 +2,10 @@
   "id": 1008376679,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Mallorca, 228 Barcelona Barcelona 08008",
+    "addr:housenumber":"228",
+    "addr:postcode":"08008",
+    "addr:street":"Carrer De Mallorca",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008376679,
-    "wof:lastmodified":1472624634,
+    "wof:lastmodified":1472768931,
     "wof:name":"Rodriguez De La Serna Arturo",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

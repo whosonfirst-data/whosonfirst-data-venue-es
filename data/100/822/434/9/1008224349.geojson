@@ -2,6 +2,10 @@
   "id": 1008224349,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Arganda, 26 Madrid Madrid 28005",
+    "addr:housenumber":"26",
+    "addr:postcode":"madrid;28005",
+    "addr:street":"Calle De Arganda",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008224349,
-    "wof:lastmodified":1472613733,
+    "wof:lastmodified":1472768306,
     "wof:name":"Perez Vergara Vicente",
     "wof:parent_id":85863743,
     "wof:placetype":"venue",

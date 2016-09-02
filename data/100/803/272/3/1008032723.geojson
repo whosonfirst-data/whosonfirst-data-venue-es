@@ -2,6 +2,10 @@
   "id": 1008032723,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Monjo, 11 Barcelona Barcelona 08003",
+    "addr:housenumber":"11",
+    "addr:postcode":"08003",
+    "addr:street":"Carrer De Monjo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1008032723,
-    "wof:lastmodified":1472596598,
+    "wof:lastmodified":1472767782,
     "wof:name":"Montolio Badenes Bernardo",
     "wof:parent_id":85799173,
     "wof:placetype":"venue",

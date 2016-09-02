@@ -2,6 +2,10 @@
   "id": 991312051,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Juan De Garay, 116 Barcelona Barcelona 08027",
+    "addr:housenumber":"116",
+    "addr:postcode":"08027",
+    "addr:street":"Carrer De Juan De Garay",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991312051,
-    "wof:lastmodified":1472543207,
+    "wof:lastmodified":1472769574,
     "wof:name":"Centre De Treballs Visuals",
     "wof:parent_id":85863995,
     "wof:placetype":"venue",

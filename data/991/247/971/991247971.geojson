@@ -2,6 +2,10 @@
   "id": 991247971,
   "type": "Feature",
   "properties": {
+    "addr:full":"Almda S Anton, 25 Cartagena Murcia 30205",
+    "addr:housenumber":"25",
+    "addr:postcode":"30205",
+    "addr:street":"Almda;Anton",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991247971,
-    "wof:lastmodified":1472539993,
+    "wof:lastmodified":1472768568,
     "wof:name":"Canovas Y Solano S.l.",
     "wof:parent_id":85799251,
     "wof:placetype":"venue",

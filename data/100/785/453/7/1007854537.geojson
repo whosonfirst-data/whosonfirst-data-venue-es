@@ -2,6 +2,10 @@
   "id": 1007854537,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Girona, 42 Barcelona Barcelona 08010",
+    "addr:housenumber":"42",
+    "addr:postcode":"08010",
+    "addr:street":"Carrer De Girona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1007854537,
-    "wof:lastmodified":1472588921,
+    "wof:lastmodified":1472768469,
     "wof:name":"Lozano Rius Remei",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

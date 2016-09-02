@@ -2,6 +2,10 @@
   "id": 1008543701,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Galileo, 26 Madrid Madrid 28015",
+    "addr:housenumber":"26",
+    "addr:postcode":"madrid;28015",
+    "addr:street":"Calle De Galileo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008543701,
-    "wof:lastmodified":1472631855,
+    "wof:lastmodified":1472768141,
     "wof:name":"Sogal Sa",
     "wof:parent_id":85863659,
     "wof:placetype":"venue",

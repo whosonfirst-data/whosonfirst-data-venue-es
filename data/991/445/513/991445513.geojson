@@ -2,6 +2,10 @@
   "id": 991445513,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Juan De Mena, 12 Madrid Madrid 28014",
+    "addr:housenumber":"12",
+    "addr:postcode":"madrid;28014",
+    "addr:street":"Calle De Juan;Mena",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991445513,
-    "wof:lastmodified":1472551446,
+    "wof:lastmodified":1472769736,
     "wof:name":"Cotta Cuadra Rafael",
     "wof:parent_id":85863687,
     "wof:placetype":"venue",

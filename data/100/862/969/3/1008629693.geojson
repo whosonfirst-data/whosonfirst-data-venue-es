@@ -2,6 +2,10 @@
   "id": 1008629693,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pase Alameda De Osuna, 74 Madrid Madrid 28042",
+    "addr:housenumber":"74",
+    "addr:postcode":"madrid;28042",
+    "addr:street":"Alameda;Osuna",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008629693,
-    "wof:lastmodified":1472635537,
+    "wof:lastmodified":1472769367,
     "wof:name":"Tomas Hormigo Damaso",
     "wof:parent_id":85863589,
     "wof:placetype":"venue",

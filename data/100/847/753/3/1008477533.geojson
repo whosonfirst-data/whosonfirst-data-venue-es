@@ -2,6 +2,10 @@
   "id": 1008477533,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Fuencarral, 93 Madrid Madrid 28004",
+    "addr:housenumber":"93",
+    "addr:postcode":"madrid;28004",
+    "addr:street":"Calle De Fuencarral",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008477533,
-    "wof:lastmodified":1472629013,
+    "wof:lastmodified":1472769155,
     "wof:name":"Santos Pastor Francisco Javier",
     "wof:parent_id":85863665,
     "wof:placetype":"venue",

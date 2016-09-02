@@ -2,6 +2,10 @@
   "id": 1008327165,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Casanova, 212 Barcelona Barcelona 08036",
+    "addr:housenumber":"212",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Casanova",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008327165,
-    "wof:lastmodified":1472622490,
+    "wof:lastmodified":1472769123,
     "wof:name":"Reclamo Tecnico S. A.",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

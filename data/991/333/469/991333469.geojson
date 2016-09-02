@@ -2,6 +2,10 @@
   "id": 991333469,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Dr. Bertomeu, 38 Pineda Mar Barcelona 08397",
+    "addr:housenumber":"38",
+    "addr:postcode":"08397",
+    "addr:street":"Carrer De Dr. Bertomeu;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991333469,
-    "wof:lastmodified":1472544213,
+    "wof:lastmodified":1472769715,
     "wof:name":"Checa Medina Dolores",
     "wof:parent_id":85799549,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008697809,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Doctor Lozano, 37 Madrid Madrid 28038",
+    "addr:housenumber":"37",
+    "addr:postcode":"madrid;28038",
+    "addr:street":"Calle De Doctor Lozano",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008697809,
-    "wof:lastmodified":1472638420,
+    "wof:lastmodified":1472769224,
     "wof:name":"Vazquez Sanchez Martin",
     "wof:parent_id":85863731,
     "wof:placetype":"venue",

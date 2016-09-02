@@ -2,6 +2,10 @@
   "id": 1008596323,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Bruselas, 75 Madrid Madrid 28028",
+    "addr:housenumber":"75",
+    "addr:postcode":"madrid;28028",
+    "addr:street":"Avda Bruselas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008596323,
-    "wof:lastmodified":1472634089,
+    "wof:lastmodified":1472768802,
     "wof:name":"Tamayo Lopez-machuca Santiago",
     "wof:parent_id":85799435,
     "wof:placetype":"venue",

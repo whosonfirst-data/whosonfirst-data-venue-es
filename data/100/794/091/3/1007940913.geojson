@@ -2,6 +2,10 @@
   "id": 1007940913,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Palma, 34 Madrid Madrid 28004",
+    "addr:housenumber":"34",
+    "addr:postcode":"madrid;28004",
+    "addr:street":"Calle De Palma",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007940913,
-    "wof:lastmodified":1472592733,
+    "wof:lastmodified":1472767058,
     "wof:name":"Martin Guerra Cristina",
     "wof:parent_id":85863665,
     "wof:placetype":"venue",

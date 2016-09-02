@@ -2,6 +2,10 @@
   "id": 991835401,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Josep Fontcuberta, 134 Caldes Montbui Barcelona 08140",
+    "addr:housenumber":"134",
+    "addr:postcode":"08140",
+    "addr:street":"Av Josep Fontcuberta;Montbui Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":991835401,
-    "wof:lastmodified":1472573897,
+    "wof:lastmodified":1472770417,
     "wof:name":"Gonzalez Sanchez Jose Francisco",
     "wof:parent_id":85799453,
     "wof:placetype":"venue",

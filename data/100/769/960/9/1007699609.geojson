@@ -2,6 +2,10 @@
   "id": 1007699609,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Tapineria, 10 Barcelona Barcelona 08002",
+    "addr:housenumber":"10",
+    "addr:postcode":"08002",
+    "addr:street":"Carrer De Tapineria",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007699609,
-    "wof:lastmodified":1472580951,
+    "wof:lastmodified":1472769431,
     "wof:name":"Instituto Medico Farmaceutico",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",

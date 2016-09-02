@@ -2,6 +2,10 @@
   "id": 1007768959,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Mallorca, 200 Barcelona Barcelona 08036",
+    "addr:housenumber":"200",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Mallorca",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007768959,
-    "wof:lastmodified":1472584711,
+    "wof:lastmodified":1472769365,
     "wof:name":"Kirchner Baliu Margarita",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

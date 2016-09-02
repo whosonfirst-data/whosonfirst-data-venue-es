@@ -2,6 +2,10 @@
   "id": 1007953801,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Viladrosa, 150 Barcelona Barcelona 08042",
+    "addr:housenumber":"150",
+    "addr:postcode":"08042",
+    "addr:street":"Carrer De Viladrosa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007953801,
-    "wof:lastmodified":1472593299,
+    "wof:lastmodified":1472768135,
     "wof:name":"Mas Val Martin",
     "wof:parent_id":85799517,
     "wof:placetype":"venue",

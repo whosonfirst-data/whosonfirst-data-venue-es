@@ -2,6 +2,10 @@
   "id": 1008258793,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Rossello, 347 Barcelona Barcelona 08037",
+    "addr:housenumber":"347",
+    "addr:postcode":"08037",
+    "addr:street":"Carrer De Rossello",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008258793,
-    "wof:lastmodified":1472616477,
+    "wof:lastmodified":1472769318,
     "wof:name":"Ponce Gutierrez Javier",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

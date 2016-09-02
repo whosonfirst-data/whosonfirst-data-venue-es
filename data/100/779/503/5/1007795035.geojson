@@ -2,6 +2,10 @@
   "id": 1007795035,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Mediterraneo, 49 Madrid Madrid 28007",
+    "addr:housenumber":"49",
+    "addr:postcode":"madrid;28007",
+    "addr:street":"Avda Mediterraneo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007795035,
-    "wof:lastmodified":1472586031,
+    "wof:lastmodified":1472768486,
     "wof:name":"La Veloz S. A.",
     "wof:parent_id":85863737,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008433879,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Galileo, 78 Madrid Madrid 28015",
+    "addr:housenumber":"78",
+    "addr:postcode":"madrid;28015",
+    "addr:street":"Calle De Galileo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008433879,
-    "wof:lastmodified":1472627343,
+    "wof:lastmodified":1472768222,
     "wof:name":"Sainz Corostola Fernando",
     "wof:parent_id":85863653,
     "wof:placetype":"venue",

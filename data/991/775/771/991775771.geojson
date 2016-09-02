@@ -2,6 +2,10 @@
   "id": 991775771,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sau, 41 Torre-romeu Barcelona 08202",
+    "addr:housenumber":"41",
+    "addr:postcode":"08202",
+    "addr:street":"Carrer De Sau;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991775771,
-    "wof:lastmodified":1472569874,
+    "wof:lastmodified":1472770513,
     "wof:name":"Gavilan Navarrete Carmen",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",

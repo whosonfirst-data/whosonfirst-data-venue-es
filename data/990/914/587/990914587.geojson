@@ -2,6 +2,10 @@
   "id": 990914587,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Sant Ferran, 42 Palma Islas Baleares 07...",
+    "addr:housenumber":"42;07 ...",
+    "addr:postcode":"",
+    "addr:street":"Av Sant Ferran;Islas Baleares",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990914587,
-    "wof:lastmodified":1472509994,
+    "wof:lastmodified":1472767318,
     "wof:name":"Ajuntament De Palma De Mallorca",
     "wof:parent_id":85864103,
     "wof:placetype":"venue",

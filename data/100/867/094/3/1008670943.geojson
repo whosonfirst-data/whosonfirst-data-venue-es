@@ -2,6 +2,10 @@
   "id": 1008670943,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda R. Juan Carlos I, S/n Castilleja Cuesta Sevilla 41950",
+    "addr:housenumber":"s / n",
+    "addr:postcode":"41950",
+    "addr:street":"Avda R. Juan Carlos I;Castilleja Cuesta Sevilla",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1008670943,
-    "wof:lastmodified":1472637235,
+    "wof:lastmodified":1472767083,
     "wof:name":"Union Local Sindical De Autonomos Del Taxi",
     "wof:parent_id":85864123,
     "wof:placetype":"venue",

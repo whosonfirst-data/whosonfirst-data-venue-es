@@ -2,6 +2,10 @@
   "id": 1008399175,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Pau, 30 Barcelona Barcelona 08001",
+    "addr:housenumber":"30",
+    "addr:postcode":"08001",
+    "addr:street":"Carrer De Sant Pau",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008399175,
-    "wof:lastmodified":1472625676,
+    "wof:lastmodified":1472769513,
     "wof:name":"Romero Cuevas Jose Maria",
     "wof:parent_id":85864033,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1007735997,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sardenya, 215 Barcelona Barcelona 08013",
+    "addr:housenumber":"215",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Sardenya",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007735997,
-    "wof:lastmodified":1472582878,
+    "wof:lastmodified":1472768631,
     "wof:name":"Jit S.l-gen",
     "wof:parent_id":85864013,
     "wof:placetype":"venue",

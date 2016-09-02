@@ -2,6 +2,10 @@
   "id": 1008353623,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Ricardo Calvo, 15 Barcelona Barcelona 08022",
+    "addr:housenumber":"15",
+    "addr:postcode":"08022",
+    "addr:street":"Carrer De Ricardo Calvo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008353623,
-    "wof:lastmodified":1472623677,
+    "wof:lastmodified":1472768053,
     "wof:name":"Ribalda Anton Santiago",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

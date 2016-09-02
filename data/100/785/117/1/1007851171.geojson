@@ -2,6 +2,10 @@
   "id": 1007851171,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Martell, 36 Madrid Madrid 28018",
+    "addr:housenumber":"36",
+    "addr:postcode":"madrid;28018",
+    "addr:street":"Calle De Martell",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007851171,
-    "wof:lastmodified":1472588774,
+    "wof:lastmodified":1472767076,
     "wof:name":"Losada Mayo Clarisa",
     "wof:parent_id":85863729,
     "wof:placetype":"venue",

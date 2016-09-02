@@ -2,6 +2,10 @@
   "id": 1008413457,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Arago, 507 Barcelona Barcelona 08013",
+    "addr:housenumber":"507",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Arago",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008413457,
-    "wof:lastmodified":1472626404,
+    "wof:lastmodified":1472768073,
     "wof:name":"Rubio Balsera Tomas",
     "wof:parent_id":85864013,
     "wof:placetype":"venue",

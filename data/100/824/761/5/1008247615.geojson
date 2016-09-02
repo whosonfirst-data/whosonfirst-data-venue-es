@@ -2,6 +2,10 @@
   "id": 1008247615,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sardenya, 385 Barcelona Barcelona 08025",
+    "addr:housenumber":"385",
+    "addr:postcode":"08025",
+    "addr:street":"Carrer De Sardenya",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1008247615,
-    "wof:lastmodified":1472615828,
+    "wof:lastmodified":1472769175,
     "wof:name":"Pizarro Barba Felipe",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

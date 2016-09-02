@@ -2,6 +2,10 @@
   "id": 991586355,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Pons I Gallarza, 105 Barcelona Barcelona 08030",
+    "addr:housenumber":"105",
+    "addr:postcode":"08030",
+    "addr:street":"Carrer De Pons;Gallarza",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991586355,
-    "wof:lastmodified":1472558974,
+    "wof:lastmodified":1472769994,
     "wof:name":"Espi Vicent Francesc Josep",
     "wof:parent_id":85863995,
     "wof:placetype":"venue",

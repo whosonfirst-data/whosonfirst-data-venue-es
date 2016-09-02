@@ -2,6 +2,10 @@
   "id": 1008317811,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Doctor Federico Rubio Y Gali, 75 Madrid Madrid 28040",
+    "addr:housenumber":"75",
+    "addr:postcode":"madrid;28040",
+    "addr:street":"Avda Doctor Federico Rubio Y Gali",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008317811,
-    "wof:lastmodified":1472622109,
+    "wof:lastmodified":1472769223,
     "wof:name":"Ramos Estebanez Jose Antonio",
     "wof:parent_id":85863619,
     "wof:placetype":"venue",

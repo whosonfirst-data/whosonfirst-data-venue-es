@@ -2,6 +2,10 @@
   "id": 991186805,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Montera, 25 Madrid Madrid 28013",
+    "addr:housenumber":"25",
+    "addr:postcode":"madrid;28013",
+    "addr:street":"Calle De Montera",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991186805,
-    "wof:lastmodified":1472535453,
+    "wof:lastmodified":1472768095,
     "wof:name":"Burguera Cervero Jose Luis",
     "wof:parent_id":85863667,
     "wof:placetype":"venue",

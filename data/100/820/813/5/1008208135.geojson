@@ -2,6 +2,10 @@
   "id": 1008208135,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Madrid, 172 Barcelona Barcelona 08028",
+    "addr:housenumber":"172",
+    "addr:postcode":"08028",
+    "addr:street":"Av Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008208135,
-    "wof:lastmodified":1472611377,
+    "wof:lastmodified":1472769185,
     "wof:name":"Perez Baquero Heliodoro",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

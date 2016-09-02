@@ -2,6 +2,10 @@
   "id": 1008551431,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Mascaro, 42 Barcelona Barcelona 08032",
+    "addr:housenumber":"42",
+    "addr:postcode":"08032",
+    "addr:street":"Carrer De Mascaro",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008551431,
-    "wof:lastmodified":1472632168,
+    "wof:lastmodified":1472767210,
     "wof:name":"Somoza Casas Jose",
     "wof:parent_id":85863997,
     "wof:placetype":"venue",

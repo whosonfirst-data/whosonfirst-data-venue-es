@@ -2,6 +2,10 @@
   "id": 975165889,
   "type": "Feature",
   "properties": {
+    "addr:full":"Plaz San Juan De Covas, 19 Alcorcon Madrid 28925",
+    "addr:housenumber":"19",
+    "addr:postcode":"28925",
+    "addr:street":"Plaz;Covas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":975165889,
-    "wof:lastmodified":1472508204,
+    "wof:lastmodified":1472767392,
     "wof:name":"Ageidal",
     "wof:parent_id":85863783,
     "wof:placetype":"venue",

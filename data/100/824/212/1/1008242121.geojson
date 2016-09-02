@@ -2,6 +2,10 @@
   "id": 1008242121,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Providencia, 103 Barcelona Barcelona 08024",
+    "addr:housenumber":"103",
+    "addr:postcode":"08024",
+    "addr:street":"Carrer De Providencia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008242121,
-    "wof:lastmodified":1472614583,
+    "wof:lastmodified":1472767546,
     "wof:name":"Pino Pruna Maria Del Carmen",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

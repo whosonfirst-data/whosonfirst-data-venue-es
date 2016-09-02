@@ -2,6 +2,10 @@
   "id": 1008262669,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Treball, 220 Barcelona Barcelona 08020",
+    "addr:housenumber":"220",
+    "addr:postcode":"08020",
+    "addr:street":"Carrer De Treball",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008262669,
-    "wof:lastmodified":1472616649,
+    "wof:lastmodified":1472767789,
     "wof:name":"Portella Vidal Maria Pilar",
     "wof:parent_id":85864011,
     "wof:placetype":"venue",

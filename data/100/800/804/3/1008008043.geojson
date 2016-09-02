@@ -2,6 +2,10 @@
   "id": 1008008043,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Cedros, 96 Madrid Madrid 28029",
+    "addr:housenumber":"96",
+    "addr:postcode":"madrid;28029",
+    "addr:street":"Calle De Cedros",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008008043,
-    "wof:lastmodified":1472595539,
+    "wof:lastmodified":1472768892,
     "wof:name":"Mirror Arquitectos S L",
     "wof:parent_id":85863559,
     "wof:placetype":"venue",

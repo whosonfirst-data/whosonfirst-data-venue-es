@@ -2,6 +2,10 @@
   "id": 1008433711,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Gutemberg, S/n Getafe Madrid 28...",
+    "addr:housenumber":"s / n;28 ...",
+    "addr:postcode":"",
+    "addr:street":"Calle De Gutemberg;Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":1008433711,
-    "wof:lastmodified":1472627337,
+    "wof:lastmodified":1472768152,
     "wof:name":"Saint-gobain Autover Iberica S.a.",
     "wof:parent_id":85863795,
     "wof:placetype":"venue",

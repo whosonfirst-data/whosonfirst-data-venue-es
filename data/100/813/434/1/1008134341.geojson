@@ -2,6 +2,10 @@
   "id": 1008134341,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Casanova, 101 Barcelona Barcelona 08011",
+    "addr:housenumber":"101",
+    "addr:postcode":"08011",
+    "addr:street":"Carrer De Casanova",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008134341,
-    "wof:lastmodified":1472601145,
+    "wof:lastmodified":1472767983,
     "wof:name":"Orpella S.c.p.",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

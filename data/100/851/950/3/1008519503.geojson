@@ -2,6 +2,10 @@
   "id": 1008519503,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda America, 58 Madrid Madrid 28028",
+    "addr:housenumber":"58",
+    "addr:postcode":"madrid;28028",
+    "addr:street":"Avda America",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1008519503,
-    "wof:lastmodified":1472630829,
+    "wof:lastmodified":1472769325,
     "wof:name":"Sgs Tecnos S.a.",
     "wof:parent_id":85799435,
     "wof:placetype":"venue",

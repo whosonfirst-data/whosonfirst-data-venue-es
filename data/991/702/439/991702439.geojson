@@ -2,6 +2,10 @@
   "id": 991702439,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Celeste, 10 Madrid Madrid 28043",
+    "addr:housenumber":"10",
+    "addr:postcode":"madrid;28043",
+    "addr:street":"Calle De Celeste",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991702439,
-    "wof:lastmodified":1472565575,
+    "wof:lastmodified":1472770282,
     "wof:name":"Fuente Reguero Oscar De La",
     "wof:parent_id":85863597,
     "wof:placetype":"venue",

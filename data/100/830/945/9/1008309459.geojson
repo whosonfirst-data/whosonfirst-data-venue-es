@@ -2,6 +2,10 @@
   "id": 1008309459,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Aguilera, 22 Alacant Alicante 03...",
+    "addr:housenumber":"22;03 ...",
+    "addr:postcode":"",
+    "addr:street":"Avda Aguilera;Alicante",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1008309459,
-    "wof:lastmodified":1472621773,
+    "wof:lastmodified":1472769463,
     "wof:name":"Radio Televisio Valenciana",
     "wof:parent_id":85864049,
     "wof:placetype":"venue",

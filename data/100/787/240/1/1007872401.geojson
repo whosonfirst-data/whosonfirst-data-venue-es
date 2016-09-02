@@ -2,6 +2,10 @@
   "id": 1007872401,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Hermosilla, 22 Madrid Madrid 28001",
+    "addr:housenumber":"22",
+    "addr:postcode":"madrid;28001",
+    "addr:street":"Calle De Hermosilla",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007872401,
-    "wof:lastmodified":1472589782,
+    "wof:lastmodified":1472767598,
     "wof:name":"Maillo Del Valle Africa",
     "wof:parent_id":85863809,
     "wof:placetype":"venue",

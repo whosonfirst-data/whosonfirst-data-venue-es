@@ -2,6 +2,10 @@
   "id": 991539553,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Diputacio, 305 Barcelona Barcelona 08009",
+    "addr:housenumber":"305",
+    "addr:postcode":"08009",
+    "addr:street":"Carrer De Diputacio",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":991539553,
-    "wof:lastmodified":1472556482,
+    "wof:lastmodified":1472770078,
     "wof:name":"Edifil S. A.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

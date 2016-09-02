@@ -2,6 +2,10 @@
   "id": 991813579,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Molina, 35 Madrid Madrid 28029",
+    "addr:housenumber":"35",
+    "addr:postcode":"madrid;28029",
+    "addr:street":"Calle De Molina",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991813579,
-    "wof:lastmodified":1472572666,
+    "wof:lastmodified":1472770446,
     "wof:name":"Gomez Perez Francisco",
     "wof:parent_id":85863561,
     "wof:placetype":"venue",

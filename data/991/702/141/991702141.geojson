@@ -2,6 +2,10 @@
   "id": 991702141,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Uruguay, 18 Madrid Madrid 28016",
+    "addr:housenumber":"18",
+    "addr:postcode":"madrid;28016",
+    "addr:street":"Calle De Uruguay",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991702141,
-    "wof:lastmodified":1472565563,
+    "wof:lastmodified":1472770198,
     "wof:name":"Fuente Gonzalez Casimiro De La",
     "wof:parent_id":85863599,
     "wof:placetype":"venue",

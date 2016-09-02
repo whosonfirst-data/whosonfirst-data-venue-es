@@ -2,6 +2,10 @@
   "id": 1008264017,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Martinez De La Rosa, 14 Barcelona Barcelona 08012",
+    "addr:housenumber":"14",
+    "addr:postcode":"08012",
+    "addr:street":"Carrer De Martinez De La Rosa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008264017,
-    "wof:lastmodified":1472616738,
+    "wof:lastmodified":1472768359,
     "wof:name":"Posa Lafuente Angel",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

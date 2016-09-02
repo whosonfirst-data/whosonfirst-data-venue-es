@@ -2,6 +2,10 @@
   "id": 1007983797,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Arago, 592 Barcelona Barcelona 08026",
+    "addr:housenumber":"592",
+    "addr:postcode":"08026",
+    "addr:street":"Carrer De Arago",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007983797,
-    "wof:lastmodified":1472594489,
+    "wof:lastmodified":1472767838,
     "wof:name":"Mercade Salavert Maria Mercedes",
     "wof:parent_id":85799265,
     "wof:placetype":"venue",

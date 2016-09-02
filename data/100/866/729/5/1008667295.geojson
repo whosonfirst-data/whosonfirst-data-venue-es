@@ -2,6 +2,10 @@
   "id": 1008667295,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Mediterraneo, 44 Madrid Madrid 28007",
+    "addr:housenumber":"44",
+    "addr:postcode":"madrid;28007",
+    "addr:street":"Avda Mediterraneo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008667295,
-    "wof:lastmodified":1472637106,
+    "wof:lastmodified":1472769026,
     "wof:name":"Unicaja",
     "wof:parent_id":85863737,
     "wof:placetype":"venue",

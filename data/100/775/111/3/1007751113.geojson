@@ -2,6 +2,10 @@
   "id": 1007751113,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Peseta, 70 Madrid Madrid 28054",
+    "addr:housenumber":"70",
+    "addr:postcode":"madrid;28054",
+    "addr:street":"Avda Peseta",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1007751113,
-    "wof:lastmodified":1472583722,
+    "wof:lastmodified":1472767095,
     "wof:name":"J.s Business Europe S.l.",
     "wof:parent_id":85863785,
     "wof:placetype":"venue",

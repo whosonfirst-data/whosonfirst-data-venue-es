@@ -2,6 +2,10 @@
   "id": 991540329,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pl Josep Pallach, 16 Barcelona Barcelona 08035",
+    "addr:housenumber":"16",
+    "addr:postcode":"08035",
+    "addr:street":"Pl;Pallach",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":991540329,
-    "wof:lastmodified":1472556519,
+    "wof:lastmodified":1472769984,
     "wof:name":"Editorial Prensa Iberica S.a",
     "wof:parent_id":85799471,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1007850727,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Girona, 115 Barcelona Barcelona 08009",
+    "addr:housenumber":"115",
+    "addr:postcode":"08009",
+    "addr:street":"Carrer De Girona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007850727,
-    "wof:lastmodified":1472588756,
+    "wof:lastmodified":1472766893,
     "wof:name":"Loring Miro Concepcion",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

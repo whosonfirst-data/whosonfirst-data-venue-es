@@ -2,6 +2,10 @@
   "id": 1008110401,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Sor Teresa Prat, 45 Malaga M\u00e1laga 29003",
+    "addr:housenumber":"45",
+    "addr:postcode":"29003",
+    "addr:street":"Avda Sor Teresa Prat;Ma\u0301Laga",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008110401,
-    "wof:lastmodified":1472599970,
+    "wof:lastmodified":1472766796,
     "wof:name":"Obispado De Malaga",
     "wof:parent_id":85863441,
     "wof:placetype":"venue",

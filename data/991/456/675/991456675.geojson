@@ -2,6 +2,10 @@
   "id": 991456675,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Goya, 41 Madrid Madrid 28001",
+    "addr:housenumber":"41",
+    "addr:postcode":"madrid;28001",
+    "addr:street":"Calle De Goya",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":991456675,
-    "wof:lastmodified":1472552044,
+    "wof:lastmodified":1472769737,
     "wof:name":"Cruz Jimenez Concepcion De La",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

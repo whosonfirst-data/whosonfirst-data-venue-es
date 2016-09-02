@@ -2,6 +2,10 @@
   "id": 1007971789,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Camp Arriassa, 85 Barcelona Barcelona 08020",
+    "addr:housenumber":"85",
+    "addr:postcode":"08020",
+    "addr:street":"Carrer De Camp Arriassa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007971789,
-    "wof:lastmodified":1472594029,
+    "wof:lastmodified":1472767351,
     "wof:name":"Medina Salinas Antonio",
     "wof:parent_id":85864011,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008651943,
   "type": "Feature",
   "properties": {
+    "addr:full":"Parc Logistic Zona Franca, 2 Barcelona Barcelona 08040",
+    "addr:housenumber":"2",
+    "addr:postcode":"08040",
+    "addr:street":"Zona Franca",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008651943,
-    "wof:lastmodified":1472636484,
+    "wof:lastmodified":1472767516,
     "wof:name":"Transport Sanitari De Catalunya",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",

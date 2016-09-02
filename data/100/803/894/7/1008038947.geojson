@@ -2,6 +2,10 @@
   "id": 1008038947,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Ponzano, 93 Madrid Madrid 28003",
+    "addr:housenumber":"93",
+    "addr:postcode":"madrid;28003",
+    "addr:street":"Calle De Ponzano",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1008038947,
-    "wof:lastmodified":1472596849,
+    "wof:lastmodified":1472769298,
     "wof:name":"Moran Blanco Enrique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

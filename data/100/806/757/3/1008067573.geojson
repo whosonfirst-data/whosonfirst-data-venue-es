@@ -2,6 +2,10 @@
   "id": 1008067573,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Arago, 416 Barcelona Barcelona 08013",
+    "addr:housenumber":"416",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Arago",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008067573,
-    "wof:lastmodified":1472598063,
+    "wof:lastmodified":1472769033,
     "wof:name":"Murillo Companys Manuel",
     "wof:parent_id":85864013,
     "wof:placetype":"venue",

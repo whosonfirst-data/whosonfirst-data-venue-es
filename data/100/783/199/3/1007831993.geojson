@@ -2,6 +2,10 @@
   "id": 1007831993,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Bustamante, 21 Madrid Madrid 28045",
+    "addr:housenumber":"21",
+    "addr:postcode":"madrid;28045",
+    "addr:street":"Calle De Bustamante",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007831993,
-    "wof:lastmodified":1472587814,
+    "wof:lastmodified":1472767503,
     "wof:name":"Lopez De Andujar Navarro Luis Isidoro",
     "wof:parent_id":85863741,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1007993851,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Llenguadoc, 39 Barcelona Barcelona 08030",
+    "addr:housenumber":"39",
+    "addr:postcode":"08030",
+    "addr:street":"Carrer De Llenguadoc",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007993851,
-    "wof:lastmodified":1472594930,
+    "wof:lastmodified":1472768146,
     "wof:name":"Miatec",
     "wof:parent_id":85863995,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991862297,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Costa, 42 Barcelona Barcelona 08023",
+    "addr:housenumber":"42",
+    "addr:postcode":"08023",
+    "addr:street":"Carrer De Costa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991862297,
-    "wof:lastmodified":1472575489,
+    "wof:lastmodified":1472770419,
     "wof:name":"Guasch Penalba Pedro",
     "wof:parent_id":85863989,
     "wof:placetype":"venue",

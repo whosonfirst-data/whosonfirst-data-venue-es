@@ -2,6 +2,10 @@
   "id": 1008401865,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Sant Ferran, 53 Almeda Mercader Barcelona 08940",
+    "addr:housenumber":"53",
+    "addr:postcode":"08940",
+    "addr:street":"Av Sant Ferran;Mercader Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008401865,
-    "wof:lastmodified":1472625778,
+    "wof:lastmodified":1472767463,
     "wof:name":"Romero Romero Eugenio",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",

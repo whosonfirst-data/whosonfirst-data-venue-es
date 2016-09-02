@@ -2,6 +2,10 @@
   "id": 975160929,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Paris, 195 Barcelona Barcelona 08036",
+    "addr:housenumber":"195",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Paris",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":975160929,
-    "wof:lastmodified":1472507877,
+    "wof:lastmodified":1472767206,
     "wof:name":"Adiss",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

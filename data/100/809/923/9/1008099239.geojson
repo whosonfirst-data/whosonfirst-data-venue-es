@@ -2,6 +2,10 @@
   "id": 1008099239,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Osi, 52 Barcelona Barcelona 08034",
+    "addr:housenumber":"52",
+    "addr:postcode":"08034",
+    "addr:street":"Carrer De Osi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008099239,
-    "wof:lastmodified":1472599487,
+    "wof:lastmodified":1472769249,
     "wof:name":"Noguera Trinxet Rosa Maria",
     "wof:parent_id":85799605,
     "wof:placetype":"venue",

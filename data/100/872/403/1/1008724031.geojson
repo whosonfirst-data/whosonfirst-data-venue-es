@@ -2,6 +2,10 @@
   "id": 1008724031,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Galileu, 88 Barcelona Barcelona 08028",
+    "addr:housenumber":"88",
+    "addr:postcode":"08028",
+    "addr:street":"Carrer De Galileu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008724031,
-    "wof:lastmodified":1472639586,
+    "wof:lastmodified":1472768363,
     "wof:name":"Vidal Morant Manuel",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

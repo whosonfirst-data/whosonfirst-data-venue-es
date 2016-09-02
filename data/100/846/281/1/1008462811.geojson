@@ -2,6 +2,10 @@
   "id": 1008462811,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda El Ferrol, 24 Madrid Madrid 28029",
+    "addr:housenumber":"24",
+    "addr:postcode":"madrid;28029",
+    "addr:street":"Avda El Ferrol",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008462811,
-    "wof:lastmodified":1472628425,
+    "wof:lastmodified":1472767851,
     "wof:name":"Sanchez Teran Lledo Carlos",
     "wof:parent_id":85863561,
     "wof:placetype":"venue",

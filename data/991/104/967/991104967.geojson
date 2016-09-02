@@ -2,6 +2,10 @@
   "id": 991104967,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Vilanova, 1 Manresa Barcelona 08241",
+    "addr:housenumber":"1",
+    "addr:postcode":"08241",
+    "addr:street":"Carrer De Vilanova",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":991104967,
-    "wof:lastmodified":1472527171,
+    "wof:lastmodified":1472767555,
     "wof:name":"Banc Sabadell S.a.",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

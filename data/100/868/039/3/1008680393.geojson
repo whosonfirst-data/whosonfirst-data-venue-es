@@ -2,6 +2,10 @@
   "id": 1008680393,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Casanova, 142 Barcelona Barcelona 08036",
+    "addr:housenumber":"142",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Casanova",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008680393,
-    "wof:lastmodified":1472637647,
+    "wof:lastmodified":1472766839,
     "wof:name":"Vaca Franch Jose",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

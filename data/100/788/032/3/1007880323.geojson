@@ -2,6 +2,10 @@
   "id": 1007880323,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Dr. Bertomeu, 46 Pineda Mar Barcelona 08397",
+    "addr:housenumber":"46",
+    "addr:postcode":"08397",
+    "addr:street":"Carrer De Dr. Bertomeu;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007880323,
-    "wof:lastmodified":1472590089,
+    "wof:lastmodified":1472766719,
     "wof:name":"Manresa Menguez Servando Jesus",
     "wof:parent_id":85799549,
     "wof:placetype":"venue",

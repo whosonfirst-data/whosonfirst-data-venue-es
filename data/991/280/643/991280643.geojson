@@ -2,6 +2,10 @@
   "id": 991280643,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Antoni Maria Claret, 208 Barcelona Barcelona 08025",
+    "addr:housenumber":"208",
+    "addr:postcode":"08025",
+    "addr:street":"Carrer De Sant Antoni Maria Claret",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991280643,
-    "wof:lastmodified":1472541755,
+    "wof:lastmodified":1472769771,
     "wof:name":"Casado Castro Francisco",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

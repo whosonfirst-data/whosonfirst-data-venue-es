@@ -2,6 +2,10 @@
   "id": 991311365,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Quinti, 32 Barcelona Barcelona 08041",
+    "addr:housenumber":"32",
+    "addr:postcode":"08041",
+    "addr:street":"Carrer De Sant Quinti",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991311365,
-    "wof:lastmodified":1472543173,
+    "wof:lastmodified":1472769700,
     "wof:name":"Centre De Telecomunicaciones De Catalunya",
     "wof:parent_id":85864001,
     "wof:placetype":"venue",

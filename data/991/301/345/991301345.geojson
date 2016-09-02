@@ -2,6 +2,10 @@
   "id": 991301345,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Industries, 78 Prat Llobregat Barcelona 08820",
+    "addr:housenumber":"78",
+    "addr:postcode":"08820",
+    "addr:street":"Carrer De Industries;Llobregat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991301345,
-    "wof:lastmodified":1472542698,
+    "wof:lastmodified":1472769697,
     "wof:name":"Cazorla Sanchez Josefa",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",

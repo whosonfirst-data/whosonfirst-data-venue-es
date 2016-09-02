@@ -2,6 +2,10 @@
   "id": 1008648899,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Oriol, 21 Barcelona Barcelona 08042",
+    "addr:housenumber":"21",
+    "addr:postcode":"08042",
+    "addr:street":"Carrer De Oriol",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008648899,
-    "wof:lastmodified":1472636354,
+    "wof:lastmodified":1472769498,
     "wof:name":"Transportes Fegon S.a.",
     "wof:parent_id":85799517,
     "wof:placetype":"venue",

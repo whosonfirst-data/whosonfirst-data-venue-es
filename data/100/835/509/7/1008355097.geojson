@@ -2,6 +2,10 @@
   "id": 1008355097,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Pamplona, 45 Barcelona Barcelona 08005",
+    "addr:housenumber":"45",
+    "addr:postcode":"08005",
+    "addr:street":"Carrer De Pamplona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":1008355097,
-    "wof:lastmodified":1472623729,
+    "wof:lastmodified":1472768524,
     "wof:name":"Rib-loc S. A.",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

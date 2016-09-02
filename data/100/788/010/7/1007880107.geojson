@@ -2,6 +2,10 @@
   "id": 1007880107,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda America, 11 Madrid Madrid 28002",
+    "addr:housenumber":"11",
+    "addr:postcode":"madrid;28002",
+    "addr:street":"Avda America",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007880107,
-    "wof:lastmodified":1472590083,
+    "wof:lastmodified":1472766677,
     "wof:name":"Manpower Team Empresas De Trabajo Temporal",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991498765,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Abrantes, 52 Madrid Madrid 28025",
+    "addr:housenumber":"52",
+    "addr:postcode":"madrid;28025",
+    "addr:street":"Avda Abrantes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991498765,
-    "wof:lastmodified":1472554366,
+    "wof:lastmodified":1472770146,
     "wof:name":"Diaz Ramos Maria Pilar",
     "wof:parent_id":85863761,
     "wof:placetype":"venue",

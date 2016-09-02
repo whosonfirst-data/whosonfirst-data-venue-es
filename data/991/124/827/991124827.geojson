@@ -2,6 +2,10 @@
   "id": 991124827,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Malmoe, 27 Madrid Madrid 28032",
+    "addr:housenumber":"27",
+    "addr:postcode":"madrid;28032",
+    "addr:street":"Calle De Malmoe",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991124827,
-    "wof:lastmodified":1472528839,
+    "wof:lastmodified":1472767441,
     "wof:name":"Bayon Del Rio Fuensanta",
     "wof:parent_id":85863705,
     "wof:placetype":"venue",

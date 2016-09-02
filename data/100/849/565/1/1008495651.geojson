@@ -2,6 +2,10 @@
   "id": 1008495651,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Carlos Marx, 82 Horno De Alcedo Valencia 46026",
+    "addr:housenumber":"82",
+    "addr:postcode":"46026",
+    "addr:street":"Avda Carlos Marx;De Alcedo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008495651,
-    "wof:lastmodified":1472629810,
+    "wof:lastmodified":1472768746,
     "wof:name":"Seindema",
     "wof:parent_id":85864197,
     "wof:placetype":"venue",

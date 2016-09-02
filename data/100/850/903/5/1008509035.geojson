@@ -2,6 +2,10 @@
   "id": 1008509035,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Mallorca, 325 Barcelona Barcelona 08037",
+    "addr:housenumber":"325",
+    "addr:postcode":"08037",
+    "addr:street":"Carrer De Mallorca",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008509035,
-    "wof:lastmodified":1472630401,
+    "wof:lastmodified":1472769405,
     "wof:name":"Servia Figa Josep Miquel",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

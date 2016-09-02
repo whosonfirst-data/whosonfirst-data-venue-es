@@ -2,6 +2,10 @@
   "id": 975156761,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Belgica, 9 Sant Rafel Alicante 03580",
+    "addr:housenumber":"9",
+    "addr:postcode":"03580",
+    "addr:street":"Av Belgica;Sant Rafel Alicante",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":975156761,
-    "wof:lastmodified":1472507569,
+    "wof:lastmodified":1472767003,
     "wof:name":"Acorn S. C.",
     "wof:parent_id":85864069,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1007723059,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Balmes, 200 Barcelona Barcelona 08006",
+    "addr:housenumber":"200",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Balmes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007723059,
-    "wof:lastmodified":1472582112,
+    "wof:lastmodified":1472767815,
     "wof:name":"Javier Coba S C P",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

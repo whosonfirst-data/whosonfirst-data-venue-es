@@ -2,6 +2,10 @@
   "id": 1008138549,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Bruc, 60 Barcelona Barcelona 08009",
+    "addr:housenumber":"60",
+    "addr:postcode":"08009",
+    "addr:street":"Carrer De Bruc",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008138549,
-    "wof:lastmodified":1472601319,
+    "wof:lastmodified":1472769114,
     "wof:name":"Ortiz Font Magdalena",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008257753,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Nacio, 77 Barcelona Barcelona 08026",
+    "addr:housenumber":"77",
+    "addr:postcode":"08026",
+    "addr:street":"Carrer De Nacio",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008257753,
-    "wof:lastmodified":1472616429,
+    "wof:lastmodified":1472769147,
     "wof:name":"Pols Vivancos Eva",
     "wof:parent_id":85864001,
     "wof:placetype":"venue",

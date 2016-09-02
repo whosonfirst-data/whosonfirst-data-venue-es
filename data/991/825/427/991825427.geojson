@@ -2,6 +2,10 @@
   "id": 991825427,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Castello, 91 Madrid Madrid 28006",
+    "addr:housenumber":"91",
+    "addr:postcode":"madrid;28006",
+    "addr:street":"Calle De Castello",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991825427,
-    "wof:lastmodified":1472573370,
+    "wof:lastmodified":1472770393,
     "wof:name":"Gonzalez Gomez Benigno",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",

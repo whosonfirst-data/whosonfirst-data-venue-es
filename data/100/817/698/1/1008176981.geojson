@@ -2,6 +2,10 @@
   "id": 1008176981,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Corsega, 69 Barcelona Barcelona 08029",
+    "addr:housenumber":"69",
+    "addr:postcode":"08029",
+    "addr:street":"Carrer De Corsega",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008176981,
-    "wof:lastmodified":1472604840,
+    "wof:lastmodified":1472768809,
     "wof:name":"Parroquia Maria Mitjancera",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

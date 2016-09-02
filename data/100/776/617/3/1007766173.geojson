@@ -2,6 +2,10 @@
   "id": 1007766173,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Ave Maria, 18 Madrid Madrid 28012",
+    "addr:housenumber":"18",
+    "addr:postcode":"madrid;28012",
+    "addr:street":"Calle De Ave Maria",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007766173,
-    "wof:lastmodified":1472584563,
+    "wof:lastmodified":1472768833,
     "wof:name":"Kasmi Dahab Mohamed",
     "wof:parent_id":85863793,
     "wof:placetype":"venue",

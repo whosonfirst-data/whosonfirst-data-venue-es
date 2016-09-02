@@ -2,6 +2,10 @@
   "id": 991542333,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Alicante, 42 Sant Joan D'alacant Alicante 03550",
+    "addr:housenumber":"42",
+    "addr:postcode":"03550",
+    "addr:street":"Avda Alicante",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":991542333,
-    "wof:lastmodified":1472556624,
+    "wof:lastmodified":1472770012,
     "wof:name":"Egespro S.a.",
     "wof:parent_id":85864045,
     "wof:placetype":"venue",

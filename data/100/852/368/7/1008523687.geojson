@@ -2,6 +2,10 @@
   "id": 1008523687,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Paris, 140 Barcelona Barcelona 08036",
+    "addr:housenumber":"140",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Paris",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008523687,
-    "wof:lastmodified":1472631006,
+    "wof:lastmodified":1472768194,
     "wof:name":"Silguero Martinez Damian",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

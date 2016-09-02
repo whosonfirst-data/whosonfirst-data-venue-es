@@ -2,6 +2,10 @@
   "id": 991833095,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Irlanda, 13 Madrid Madrid 28019",
+    "addr:housenumber":"13",
+    "addr:postcode":"madrid;28019",
+    "addr:street":"Calle De Irlanda",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991833095,
-    "wof:lastmodified":1472573763,
+    "wof:lastmodified":1472770313,
     "wof:name":"Gonzalez Portero Juan Jose",
     "wof:parent_id":85863759,
     "wof:placetype":"venue",

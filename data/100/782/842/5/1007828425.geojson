@@ -2,6 +2,10 @@
   "id": 1007828425,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Cervantes, 34 Madrid Madrid 28014",
+    "addr:housenumber":"34",
+    "addr:postcode":"madrid;28014",
+    "addr:street":"Calle De Cervantes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007828425,
-    "wof:lastmodified":1472587630,
+    "wof:lastmodified":1472769041,
     "wof:name":"Lopez Alonso Lisardo",
     "wof:parent_id":85863685,
     "wof:placetype":"venue",

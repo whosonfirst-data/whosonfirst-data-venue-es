@@ -2,6 +2,10 @@
   "id": 991591383,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Rossello, 280 Barcelona Barcelona 08037",
+    "addr:housenumber":"280",
+    "addr:postcode":"08037",
+    "addr:street":"Carrer De Rossello",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991591383,
-    "wof:lastmodified":1472559209,
+    "wof:lastmodified":1472770008,
     "wof:name":"Esteban Aranda Florencio",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

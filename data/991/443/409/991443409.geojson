@@ -2,6 +2,10 @@
   "id": 991443409,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Arpelles, 20 Pineda Mar Barcelona 08397",
+    "addr:housenumber":"20",
+    "addr:postcode":"08397",
+    "addr:street":"Carrer De Arpelles;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991443409,
-    "wof:lastmodified":1472551318,
+    "wof:lastmodified":1472769722,
     "wof:name":"Costa Ferrer Jorge",
     "wof:parent_id":85799549,
     "wof:placetype":"venue",

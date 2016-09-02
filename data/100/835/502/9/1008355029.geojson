@@ -2,6 +2,10 @@
   "id": 1008355029,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Valencia, 123 Barcelona Barcelona 08011",
+    "addr:housenumber":"123",
+    "addr:postcode":"08011",
+    "addr:street":"Carrer De Valencia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008355029,
-    "wof:lastmodified":1472623726,
+    "wof:lastmodified":1472768507,
     "wof:name":"Ribes Rius Jordi",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

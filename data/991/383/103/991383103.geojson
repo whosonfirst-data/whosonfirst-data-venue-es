@@ -2,6 +2,10 @@
   "id": 991383103,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Carme, 31 Manresa Barcelona 08241",
+    "addr:housenumber":"31",
+    "addr:postcode":"08241",
+    "addr:street":"Carrer De Carme",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":991383103,
-    "wof:lastmodified":1472547605,
+    "wof:lastmodified":1472769601,
     "wof:name":"Comercial Miralles S.l.",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

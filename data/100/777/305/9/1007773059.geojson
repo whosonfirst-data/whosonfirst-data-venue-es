@@ -2,6 +2,10 @@
   "id": 1007773059,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Jacint Verdaguer, 62 S. Joan Despi Barcelona 08970",
+    "addr:housenumber":"62",
+    "addr:postcode":"08970",
+    "addr:street":"Carrer De Jacint Verdaguer;S. Joan Despi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007773059,
-    "wof:lastmodified":1472584906,
+    "wof:lastmodified":1472768066,
     "wof:name":"Laboratori Micro-bios",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",

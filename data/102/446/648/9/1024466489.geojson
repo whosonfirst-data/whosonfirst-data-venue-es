@@ -2,6 +2,10 @@
   "id": 1024466489,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Balmes, 413 Barcelona Barcelona 08022",
+    "addr:housenumber":"413",
+    "addr:postcode":"08022",
+    "addr:street":"Carrer De Balmes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1024466489,
-    "wof:lastmodified":1472640192,
+    "wof:lastmodified":1472768754,
     "wof:name":"Vinaixa Callau Fermin",
     "wof:parent_id":85863989,
     "wof:placetype":"venue",

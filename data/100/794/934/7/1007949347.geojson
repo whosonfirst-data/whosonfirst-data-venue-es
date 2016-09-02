@@ -2,6 +2,10 @@
   "id": 1007949347,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Margenat, 42 Sabadell Barcelona 08206",
+    "addr:housenumber":"42",
+    "addr:postcode":"08206",
+    "addr:street":"Carrer De Margenat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1007949347,
-    "wof:lastmodified":1472593104,
+    "wof:lastmodified":1472769539,
     "wof:name":"Martos Sanz Dolores",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

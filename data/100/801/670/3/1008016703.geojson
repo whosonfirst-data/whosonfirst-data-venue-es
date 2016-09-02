@@ -2,6 +2,10 @@
   "id": 1008016703,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Muntaner, 130 Barcelona Barcelona 08036",
+    "addr:housenumber":"130",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Muntaner",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008016703,
-    "wof:lastmodified":1472595895,
+    "wof:lastmodified":1472768863,
     "wof:name":"Molina Guevara Clemente",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

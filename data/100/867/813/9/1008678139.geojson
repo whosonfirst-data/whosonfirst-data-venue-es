@@ -2,6 +2,10 @@
   "id": 1008678139,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pase Castellana, 91 Madrid Madrid 28046",
+    "addr:housenumber":"91",
+    "addr:postcode":"madrid;28046",
+    "addr:street":"Castellana",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008678139,
-    "wof:lastmodified":1472637545,
+    "wof:lastmodified":1472769052,
     "wof:name":"Urubamba S.a",
     "wof:parent_id":85863621,
     "wof:placetype":"venue",

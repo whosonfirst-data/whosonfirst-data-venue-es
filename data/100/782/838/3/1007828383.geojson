@@ -2,6 +2,10 @@
   "id": 1007828383,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Espinela, 31 Madrid Madrid 28021",
+    "addr:housenumber":"31",
+    "addr:postcode":"madrid;28021",
+    "addr:street":"Avda Espinela",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007828383,
-    "wof:lastmodified":1472587628,
+    "wof:lastmodified":1472769008,
     "wof:name":"Lopez Alonso Concepcion",
     "wof:parent_id":85799667,
     "wof:placetype":"venue",

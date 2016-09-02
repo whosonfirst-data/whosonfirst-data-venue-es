@@ -2,6 +2,10 @@
   "id": 1007821615,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Serrano, 90 Madrid Madrid 28...",
+    "addr:housenumber":"90;28 ...",
+    "addr:postcode":"madrid",
+    "addr:street":"Calle De Serrano;Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007821615,
-    "wof:lastmodified":1472587371,
+    "wof:lastmodified":1472767402,
     "wof:name":"Lloyds Tsb Bank Plc Sucursal En Espa\u00d1a",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",

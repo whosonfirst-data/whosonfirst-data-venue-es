@@ -2,6 +2,10 @@
   "id": 991484899,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Balmes, 432 Barcelona Barcelona 08022",
+    "addr:housenumber":"432",
+    "addr:postcode":"08022",
+    "addr:street":"Carrer De Balmes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991484899,
-    "wof:lastmodified":1472553611,
+    "wof:lastmodified":1472770133,
     "wof:name":"De Miquel Girona Enrique",
     "wof:parent_id":85863989,
     "wof:placetype":"venue",

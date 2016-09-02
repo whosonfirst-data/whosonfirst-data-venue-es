@@ -2,6 +2,10 @@
   "id": 1008265475,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Miquel Angel, 112 Barcelona Barcelona 08028",
+    "addr:housenumber":"112",
+    "addr:postcode":"08028",
+    "addr:street":"Carrer De Miquel Angel",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008265475,
-    "wof:lastmodified":1472616827,
+    "wof:lastmodified":1472768675,
     "wof:name":"Power Pc Barcelona S. L.",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

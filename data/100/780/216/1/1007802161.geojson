@@ -2,6 +2,10 @@
   "id": 1007802161,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Joan Guell, 135 Barcelona Barcelona 08028",
+    "addr:housenumber":"135",
+    "addr:postcode":"08028",
+    "addr:street":"Carrer De Joan Guell",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007802161,
-    "wof:lastmodified":1472586438,
+    "wof:lastmodified":1472767616,
     "wof:name":"Leon Gonzalez Juan Miguel",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

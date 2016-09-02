@@ -2,6 +2,10 @@
   "id": 1008306655,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Caramuel, 40 Madrid Madrid 28011",
+    "addr:housenumber":"40",
+    "addr:postcode":"madrid;28011",
+    "addr:street":"Calle De Caramuel",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008306655,
-    "wof:lastmodified":1472621654,
+    "wof:lastmodified":1472768872,
     "wof:name":"Quironatur Sl",
     "wof:parent_id":85863773,
     "wof:placetype":"venue",

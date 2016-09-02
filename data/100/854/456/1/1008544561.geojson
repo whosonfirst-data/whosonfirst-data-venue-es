@@ -2,6 +2,10 @@
   "id": 1008544561,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Estruc, 12 Barcelona Barcelona 08002",
+    "addr:housenumber":"12",
+    "addr:postcode":"08002",
+    "addr:street":"Carrer De Estruc",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008544561,
-    "wof:lastmodified":1472631887,
+    "wof:lastmodified":1472768389,
     "wof:name":"Sola Muset Rosa",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",

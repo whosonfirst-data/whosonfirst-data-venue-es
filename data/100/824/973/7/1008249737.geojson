@@ -2,6 +2,10 @@
   "id": 1008249737,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Comer\u00c7, 42 Barcelona Barcelona 08003",
+    "addr:housenumber":"42",
+    "addr:postcode":"08003",
+    "addr:street":"Carrer De Comerc\u0327",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008249737,
-    "wof:lastmodified":1472615962,
+    "wof:lastmodified":1472769547,
     "wof:name":"Pla Intergral Del Casc Antic",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",

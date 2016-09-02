@@ -2,6 +2,10 @@
   "id": 1008579569,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Donostiarra, 24 Madrid Madrid 28027",
+    "addr:housenumber":"24",
+    "addr:postcode":"madrid;28027",
+    "addr:street":"Avda Donostiarra",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008579569,
-    "wof:lastmodified":1472633356,
+    "wof:lastmodified":1472769524,
     "wof:name":"Tahonas",
     "wof:parent_id":85863643,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1024473229,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Valencia, 101 Barcelona Barcelona 08011",
+    "addr:housenumber":"101",
+    "addr:postcode":"08011",
+    "addr:street":"Carrer De Valencia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1024473229,
-    "wof:lastmodified":1472640484,
+    "wof:lastmodified":1472768131,
     "wof:name":"Vi\u00f1as Gonzalez Miguel",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

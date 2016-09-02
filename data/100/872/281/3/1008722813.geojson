@@ -2,6 +2,10 @@
   "id": 1008722813,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Rogent, 17 Barcelona Barcelona 08026",
+    "addr:housenumber":"17",
+    "addr:postcode":"08026",
+    "addr:street":"Carrer De Rogent",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008722813,
-    "wof:lastmodified":1472639544,
+    "wof:lastmodified":1472767959,
     "wof:name":"Vidal Ballester Enric",
     "wof:parent_id":85799265,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008401789,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Maria Rosa, 21 Fatjo Barcelona 08940",
+    "addr:housenumber":"21",
+    "addr:postcode":"08940",
+    "addr:street":"Carrer De Maria Rosa;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008401789,
-    "wof:lastmodified":1472625776,
+    "wof:lastmodified":1472767427,
     "wof:name":"Romero Rodriguez Juan Manuel",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",

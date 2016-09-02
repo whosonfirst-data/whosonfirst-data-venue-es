@@ -2,6 +2,10 @@
   "id": 975153761,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Santa Engracia, 93 Madrid Madrid 28010",
+    "addr:housenumber":"93",
+    "addr:postcode":"madrid;28010",
+    "addr:street":"Calle De Santa Engracia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":975153761,
-    "wof:lastmodified":1472507357,
+    "wof:lastmodified":1472767003,
     "wof:name":"Accion De Cobro S.a.",
     "wof:parent_id":85863661,
     "wof:placetype":"venue",

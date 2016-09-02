@@ -2,6 +2,10 @@
   "id": 1008008313,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Alcala, 634 Madrid Madrid 28022",
+    "addr:housenumber":"634",
+    "addr:postcode":"28022",
+    "addr:street":"Calle De Alcala",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008008313,
-    "wof:lastmodified":1472595549,
+    "wof:lastmodified":1472768922,
     "wof:name":"Mision Alianza Evangelica",
     "wof:parent_id":85863625,
     "wof:placetype":"venue",

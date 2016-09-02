@@ -2,6 +2,10 @@
   "id": 990911625,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Valencia, 542 Barcelona Barcelona 08013",
+    "addr:housenumber":"542",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Valencia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990911625,
-    "wof:lastmodified":1472509732,
+    "wof:lastmodified":1472767405,
     "wof:name":"Aixetes I Banys Barrachina S. L.",
     "wof:parent_id":85864013,
     "wof:placetype":"venue",

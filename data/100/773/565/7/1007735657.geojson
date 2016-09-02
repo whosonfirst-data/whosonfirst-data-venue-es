@@ -2,6 +2,10 @@
   "id": 1007735657,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Catalunya, 16 S. Adria Besos Barcelona 08930",
+    "addr:housenumber":"16",
+    "addr:postcode":"08930",
+    "addr:street":"Av Catalunya;S. Adria Besos Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007735657,
-    "wof:lastmodified":1472582851,
+    "wof:lastmodified":1472768562,
     "wof:name":"Jimeno Pastor Montserrat",
     "wof:parent_id":85799179,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008266515,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Casp, 43 Barcelona Barcelona 08010",
+    "addr:housenumber":"43",
+    "addr:postcode":"08010",
+    "addr:street":"Carrer De Casp",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008266515,
-    "wof:lastmodified":1472616874,
+    "wof:lastmodified":1472768931,
     "wof:name":"Pozo Velasco Maria Dolores",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1007852501,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de L'avenir, 47 Barcelona Barcelona 08021",
+    "addr:housenumber":"47",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De L'Avenir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007852501,
-    "wof:lastmodified":1472588833,
+    "wof:lastmodified":1472767689,
     "wof:name":"Lotexpres S.c.p",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

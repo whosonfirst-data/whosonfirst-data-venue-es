@@ -2,6 +2,10 @@
   "id": 991558171,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Clot, 93 Barcelona Barcelona 08018",
+    "addr:housenumber":"93",
+    "addr:postcode":"08018",
+    "addr:street":"Carrer De Clot",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991558171,
-    "wof:lastmodified":1472557507,
+    "wof:lastmodified":1472769982,
     "wof:name":"El Punt Del Clot S.l.",
     "wof:parent_id":85799265,
     "wof:placetype":"venue",

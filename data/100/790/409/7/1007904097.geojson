@@ -2,6 +2,10 @@
   "id": 1007904097,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Pau, 115 Barcelona Barcelona 08001",
+    "addr:housenumber":"115",
+    "addr:postcode":"08001",
+    "addr:street":"Carrer De Sant Pau",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007904097,
-    "wof:lastmodified":1472591027,
+    "wof:lastmodified":1472768347,
     "wof:name":"Marin Hurtado Antonio",
     "wof:parent_id":85864037,
     "wof:placetype":"venue",

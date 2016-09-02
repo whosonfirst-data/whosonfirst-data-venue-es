@@ -2,6 +2,10 @@
   "id": 991803263,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Barcelona, 10 S. Joan Despi Barcelona 08970",
+    "addr:housenumber":"10",
+    "addr:postcode":"08970",
+    "addr:street":"Av Barcelona;Joan",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":991803263,
-    "wof:lastmodified":1472572118,
+    "wof:lastmodified":1472770343,
     "wof:name":"Godall Duch Francesc",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",

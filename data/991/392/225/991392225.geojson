@@ -2,6 +2,10 @@
   "id": 991392225,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Ciudad De Barcelona, 83 Madrid Madrid 28007",
+    "addr:housenumber":"83",
+    "addr:postcode":"madrid;28007",
+    "addr:street":"Avda Ciudad De Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991392225,
-    "wof:lastmodified":1472548251,
+    "wof:lastmodified":1472769622,
     "wof:name":"Comunidad Autonoma De Madrid-centros De Educacion",
     "wof:parent_id":85799491,
     "wof:placetype":"venue",

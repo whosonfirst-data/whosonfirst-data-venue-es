@@ -2,6 +2,10 @@
   "id": 1008250079,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Malats, 30 Barcelona Barcelona 08030",
+    "addr:housenumber":"30",
+    "addr:postcode":"08030",
+    "addr:street":"Carrer De Malats",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008250079,
-    "wof:lastmodified":1472615979,
+    "wof:lastmodified":1472766670,
     "wof:name":"Planas Casas Pedro",
     "wof:parent_id":85799559,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991203785,
   "type": "Feature",
   "properties": {
+    "addr:full":"C/ Sant Ramon, 121 Cerdanyola Valles Barcelona 08290",
+    "addr:housenumber":"121",
+    "addr:postcode":"08290",
+    "addr:street":"C / Sant Ramon;Valles Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":991203785,
-    "wof:lastmodified":1472536776,
+    "wof:lastmodified":1472768098,
     "wof:name":"Caixa D'estalvis I Pensions De Barcelona",
     "wof:parent_id":85799639,
     "wof:placetype":"venue",

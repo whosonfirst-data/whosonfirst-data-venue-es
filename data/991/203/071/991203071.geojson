@@ -2,6 +2,10 @@
   "id": 991203071,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Barcelona, 98 Manresa Barcelona 08242",
+    "addr:housenumber":"98",
+    "addr:postcode":"08242",
+    "addr:street":"Carrer De Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":991203071,
-    "wof:lastmodified":1472536727,
+    "wof:lastmodified":1472767898,
     "wof:name":"Caixa D'estalvis De Manresa",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

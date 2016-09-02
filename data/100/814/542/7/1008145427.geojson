@@ -2,6 +2,10 @@
   "id": 1008145427,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Pensamiento, 23 Madrid Madrid 28020",
+    "addr:housenumber":"23",
+    "addr:postcode":"madrid;28020",
+    "addr:street":"Calle De Pensamiento",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008145427,
-    "wof:lastmodified":1472601637,
+    "wof:lastmodified":1472768406,
     "wof:name":"Output Creative S.l.",
     "wof:parent_id":85863603,
     "wof:placetype":"venue",

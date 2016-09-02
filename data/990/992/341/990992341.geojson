@@ -2,6 +2,10 @@
   "id": 990992341,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de La Rambla, 121 Barcelona Barcelona 08002",
+    "addr:housenumber":"121",
+    "addr:postcode":"08002",
+    "addr:street":"Carrer De La Rambla",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990992341,
-    "wof:lastmodified":1472518521,
+    "wof:lastmodified":1472768009,
     "wof:name":"Aranda Pascual Angel",
     "wof:parent_id":85864011,
     "wof:placetype":"venue",

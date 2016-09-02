@@ -2,6 +2,10 @@
   "id": 991225545,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Camelies, 89 Barcelona Barcelona 08024",
+    "addr:housenumber":"89",
+    "addr:postcode":"08024",
+    "addr:street":"Carrer De Camelies",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991225545,
-    "wof:lastmodified":1472538785,
+    "wof:lastmodified":1472768143,
     "wof:name":"Cala Reguera Antonio",
     "wof:parent_id":85863993,
     "wof:placetype":"venue",

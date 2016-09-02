@@ -2,6 +2,10 @@
   "id": 991702353,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Bartrina, 165 Barcelona Barcelona 08030",
+    "addr:housenumber":"165",
+    "addr:postcode":"08030",
+    "addr:street":"Carrer De Bartrina",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991702353,
-    "wof:lastmodified":1472565572,
+    "wof:lastmodified":1472770259,
     "wof:name":"Fuente Mujica Mariano De La",
     "wof:parent_id":85799517,
     "wof:placetype":"venue",

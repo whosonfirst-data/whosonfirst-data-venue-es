@@ -2,6 +2,10 @@
   "id": 991558217,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Tomas, 10 Barcelona Barcelona 08032",
+    "addr:housenumber":"10",
+    "addr:postcode":"08032",
+    "addr:street":"Carrer De Sant Tomas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991558217,
-    "wof:lastmodified":1472557513,
+    "wof:lastmodified":1472770004,
     "wof:name":"El Quinzet S.c.p.",
     "wof:parent_id":85799399,
     "wof:placetype":"venue",

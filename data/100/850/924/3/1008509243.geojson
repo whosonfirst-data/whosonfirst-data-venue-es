@@ -2,6 +2,10 @@
   "id": 1008509243,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av. Valladolid, 55 Madrid Madrid 28008",
+    "addr:housenumber":"55",
+    "addr:postcode":"madrid;28008",
+    "addr:street":"Av. Valladolid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008509243,
-    "wof:lastmodified":1472630412,
+    "wof:lastmodified":1472769444,
     "wof:name":"Servi Blues S.a.",
     "wof:parent_id":85863669,
     "wof:placetype":"venue",

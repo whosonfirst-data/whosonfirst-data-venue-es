@@ -2,6 +2,10 @@
   "id": 991324075,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Josep Tarradellas, 130 Barcelona Barcelona 08029",
+    "addr:housenumber":"130",
+    "addr:postcode":"08029",
+    "addr:street":"Av Josep Tarradellas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":991324075,
-    "wof:lastmodified":1472543757,
+    "wof:lastmodified":1472769587,
     "wof:name":"Cerdan Grases Merce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

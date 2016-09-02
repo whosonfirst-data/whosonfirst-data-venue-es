@@ -2,6 +2,10 @@
   "id": 991290099,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Roma, 26 Madrid Madrid 28028",
+    "addr:housenumber":"26",
+    "addr:postcode":"madrid;28028",
+    "addr:street":"Calle De Roma",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991290099,
-    "wof:lastmodified":1472542195,
+    "wof:lastmodified":1472769598,
     "wof:name":"Castellana De Electrificacion Industrial S. A.",
     "wof:parent_id":85863683,
     "wof:placetype":"venue",

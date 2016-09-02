@@ -2,6 +2,10 @@
   "id": 1008489165,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Fama, 104 Almeda Mercader Barcelona 08940",
+    "addr:housenumber":"104",
+    "addr:postcode":"08940",
+    "addr:street":"Av Fama;Mercader Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008489165,
-    "wof:lastmodified":1472629511,
+    "wof:lastmodified":1472769305,
     "wof:name":"Sea-cargo S.a. De Transportes Maritimos",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",

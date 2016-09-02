@@ -2,6 +2,10 @@
   "id": 991034707,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Bilbao, 95 Barcelona Barcelona 08005",
+    "addr:housenumber":"95",
+    "addr:postcode":"08005",
+    "addr:street":"Carrer De Bilbao",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991034707,
-    "wof:lastmodified":1472521790,
+    "wof:lastmodified":1472766928,
     "wof:name":"Asociacion De Paralisis Cerebral",
     "wof:parent_id":85799265,
     "wof:placetype":"venue",

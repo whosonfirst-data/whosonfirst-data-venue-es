@@ -2,6 +2,10 @@
   "id": 1008645007,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Eduard Maristany, S/n S. Adria Besos Barcelona 08930",
+    "addr:housenumber":"s",
+    "addr:postcode":"08930",
+    "addr:street":"Av Eduard Maristany;/ N S.;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008645007,
-    "wof:lastmodified":1472636197,
+    "wof:lastmodified":1472768519,
     "wof:name":"Trambesos Ute",
     "wof:parent_id":85799179,
     "wof:placetype":"venue",

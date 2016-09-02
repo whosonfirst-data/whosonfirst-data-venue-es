@@ -2,6 +2,10 @@
   "id": 1008482279,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Bailen, 124 Barcelona Barcelona 08009",
+    "addr:housenumber":"124",
+    "addr:postcode":"08009",
+    "addr:street":"Carrer De Bailen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008482279,
-    "wof:lastmodified":1472629212,
+    "wof:lastmodified":1472767607,
     "wof:name":"Sarda Vidal Francesc Xavier",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

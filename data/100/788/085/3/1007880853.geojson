@@ -2,6 +2,10 @@
   "id": 1007880853,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Barcelona, 14 S. Joan Despi Barcelona 08970",
+    "addr:housenumber":"14",
+    "addr:postcode":"08970",
+    "addr:street":"Av Barcelona;S. Joan Despi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007880853,
-    "wof:lastmodified":1472590103,
+    "wof:lastmodified":1472766828,
     "wof:name":"Mansa Morales Javier",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",

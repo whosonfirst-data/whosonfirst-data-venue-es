@@ -2,6 +2,10 @@
   "id": 1008314797,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Marc Aureli, 5 Barcelona Barcelona 08006",
+    "addr:housenumber":"5",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Marc Aureli",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008314797,
-    "wof:lastmodified":1472621987,
+    "wof:lastmodified":1472768588,
     "wof:name":"Ramirez Sanchez Manuel",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

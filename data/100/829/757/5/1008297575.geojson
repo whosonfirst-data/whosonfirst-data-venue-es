@@ -2,6 +2,10 @@
   "id": 1008297575,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Manipa, 81 Madrid Madrid 28027",
+    "addr:housenumber":"81",
+    "addr:postcode":"madrid;28027",
+    "addr:street":"Calle De Manipa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008297575,
-    "wof:lastmodified":1472618929,
+    "wof:lastmodified":1472768959,
     "wof:name":"Pulido Pozo Luis",
     "wof:parent_id":85863639,
     "wof:placetype":"venue",

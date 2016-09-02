@@ -2,6 +2,10 @@
   "id": 1008420225,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Barcelona, 116 Prat Llobregat Barcelona 08820",
+    "addr:housenumber":"116",
+    "addr:postcode":"08820",
+    "addr:street":"Carrer De Barcelona;Llobregat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008420225,
-    "wof:lastmodified":1472626691,
+    "wof:lastmodified":1472766703,
     "wof:name":"Ruiz Franco Antonio",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",

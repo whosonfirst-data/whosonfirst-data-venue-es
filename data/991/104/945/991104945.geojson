@@ -2,6 +2,10 @@
   "id": 991104945,
   "type": "Feature",
   "properties": {
+    "addr:full":"John F. Kennedy, 5 S. Joan Despi Barcelona 08970",
+    "addr:housenumber":"5",
+    "addr:postcode":"08970",
+    "addr:street":"John F. Kennedy;S. Joan Despi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991104945,
-    "wof:lastmodified":1472527169,
+    "wof:lastmodified":1472767550,
     "wof:name":"Banc Sabadell S.a.",
     "wof:parent_id":85799591,
     "wof:placetype":"venue",

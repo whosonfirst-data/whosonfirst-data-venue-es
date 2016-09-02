@@ -2,6 +2,10 @@
   "id": 990997725,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Antonio Perez, 18 Madrid Madrid 28002",
+    "addr:housenumber":"18",
+    "addr:postcode":"madrid;28002",
+    "addr:street":"Calle De Antonio Perez",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990997725,
-    "wof:lastmodified":1472518913,
+    "wof:lastmodified":1472768187,
     "wof:name":"Arellano Martinez Jose Luis",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",

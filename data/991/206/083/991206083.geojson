@@ -2,6 +2,10 @@
   "id": 991206083,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Clara Del Rey, 60 Madrid Madrid 28002",
+    "addr:housenumber":"60",
+    "addr:postcode":"madrid;28002",
+    "addr:street":"Calle De Clara Del Rey",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":991206083,
-    "wof:lastmodified":1472536980,
+    "wof:lastmodified":1472767920,
     "wof:name":"Caixa D'estalvis I Pensions De Barcelona",
     "wof:parent_id":85799435,
     "wof:placetype":"venue",

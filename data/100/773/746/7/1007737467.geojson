@@ -2,6 +2,10 @@
   "id": 1007737467,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Pablo Neruda, 43 Madrid Madrid 28018",
+    "addr:housenumber":"43",
+    "addr:postcode":"madrid;28018",
+    "addr:street":"Avda Pablo Neruda",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007737467,
-    "wof:lastmodified":1472582965,
+    "wof:lastmodified":1472768959,
     "wof:name":"Joal Sc",
     "wof:parent_id":85863733,
     "wof:placetype":"venue",

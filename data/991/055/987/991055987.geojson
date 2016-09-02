@@ -2,6 +2,10 @@
   "id": 991055987,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Bejar, 45 Ciudad Rodrigo Salamanca 37500",
+    "addr:housenumber":"45",
+    "addr:postcode":"37500",
+    "addr:street":"Avda Bejar",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":991055987,
-    "wof:lastmodified":1472523350,
+    "wof:lastmodified":1472767101,
     "wof:name":"Auto-escuela Ciudad Rodrigo",
     "wof:parent_id":85799165,
     "wof:placetype":"venue",

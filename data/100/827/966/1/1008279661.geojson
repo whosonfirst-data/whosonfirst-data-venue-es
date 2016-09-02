@@ -2,6 +2,10 @@
   "id": 1008279661,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Arago, 261 Barcelona Barcelona 08007",
+    "addr:housenumber":"261",
+    "addr:postcode":"08007",
+    "addr:street":"Carrer De Arago",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008279661,
-    "wof:lastmodified":1472617648,
+    "wof:lastmodified":1472769545,
     "wof:name":"Progetto Moda Sl",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

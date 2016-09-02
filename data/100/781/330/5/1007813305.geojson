@@ -2,6 +2,10 @@
   "id": 1007813305,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de 31 De Desembre, 43 Palma Islas Baleares 07003",
+    "addr:housenumber":"31;43",
+    "addr:postcode":"07003",
+    "addr:street":"Carrer De;Desembre",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1007813305,
-    "wof:lastmodified":1472587017,
+    "wof:lastmodified":1472767986,
     "wof:name":"Llabres Jorda Margarita Eugenia",
     "wof:parent_id":85864091,
     "wof:placetype":"venue",

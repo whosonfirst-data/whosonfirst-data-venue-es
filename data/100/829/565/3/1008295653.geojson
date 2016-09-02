@@ -2,6 +2,10 @@
   "id": 1008295653,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Ventura Rodriguez, 2 Barcelona Barcelona 08035",
+    "addr:housenumber":"2",
+    "addr:postcode":"08035",
+    "addr:street":"Carrer De Ventura Rodriguez",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008295653,
-    "wof:lastmodified":1472618613,
+    "wof:lastmodified":1472768578,
     "wof:name":"Puig Perez Miguel",
     "wof:parent_id":85799471,
     "wof:placetype":"venue",

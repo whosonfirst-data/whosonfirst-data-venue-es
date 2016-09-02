@@ -2,6 +2,10 @@
   "id": 1008090685,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Corsega, 361 Barcelona Barcelona 08037",
+    "addr:housenumber":"361",
+    "addr:postcode":"08037",
+    "addr:street":"Carrer De Corsega",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008090685,
-    "wof:lastmodified":1472599115,
+    "wof:lastmodified":1472766924,
     "wof:name":"Netcom Comunicaciones S. L.",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

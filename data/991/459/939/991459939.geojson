@@ -2,6 +2,10 @@
   "id": 991459939,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Velazquez, 63 Madrid Madrid 28...",
+    "addr:housenumber":"63;28 ...",
+    "addr:postcode":"madrid",
+    "addr:street":"Calle De Velazquez;Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":991459939,
-    "wof:lastmodified":1472552245,
+    "wof:lastmodified":1472769912,
     "wof:name":"Cuatrecasas Abogados Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

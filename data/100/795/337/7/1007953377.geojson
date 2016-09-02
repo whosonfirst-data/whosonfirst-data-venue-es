@@ -2,6 +2,10 @@
   "id": 1007953377,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Laguna, 89 Madrid Madrid 28025",
+    "addr:housenumber":"89",
+    "addr:postcode":"madrid;28025",
+    "addr:street":"Calle De Laguna",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007953377,
-    "wof:lastmodified":1472593282,
+    "wof:lastmodified":1472768019,
     "wof:name":"Master Dis S.l.",
     "wof:parent_id":85863765,
     "wof:placetype":"venue",

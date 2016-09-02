@@ -2,6 +2,10 @@
   "id": 991668237,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Ferran, 53 Barcelona Barcelona 08002",
+    "addr:housenumber":"53",
+    "addr:postcode":"08002",
+    "addr:street":"Carrer De Ferran",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991668237,
-    "wof:lastmodified":1472563888,
+    "wof:lastmodified":1472770046,
     "wof:name":"Fincas Perez S.c.p.",
     "wof:parent_id":85864033,
     "wof:placetype":"venue",

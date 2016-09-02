@@ -2,6 +2,10 @@
   "id": 990971499,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda San Diego, 41 Madrid Madrid 28053",
+    "addr:housenumber":"41",
+    "addr:postcode":"madrid;28053",
+    "addr:street":"Avda San Diego",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990971499,
-    "wof:lastmodified":1472516927,
+    "wof:lastmodified":1472767983,
     "wof:name":"Andrades Garcia Ramona",
     "wof:parent_id":85863729,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008359513,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Aribau, 82 Barcelona Barcelona 08036",
+    "addr:housenumber":"82",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Aribau",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1008359513,
-    "wof:lastmodified":1472623912,
+    "wof:lastmodified":1472769354,
     "wof:name":"Rio Alvarez Emilio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

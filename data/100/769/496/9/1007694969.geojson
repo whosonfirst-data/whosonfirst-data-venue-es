@@ -2,6 +2,10 @@
   "id": 1007694969,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Molina De Segura, 35 Madrid Madrid 28030",
+    "addr:housenumber":"35",
+    "addr:postcode":"madrid;28030",
+    "addr:street":"Calle De Molina;Segura",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007694969,
-    "wof:lastmodified":1472580734,
+    "wof:lastmodified":1472768510,
     "wof:name":"Instalaciones Profesionales Climahogar S.l",
     "wof:parent_id":85863715,
     "wof:placetype":"venue",

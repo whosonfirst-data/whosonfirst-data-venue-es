@@ -2,6 +2,10 @@
   "id": 1008285315,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Orense, 20 Madrid Madrid 28020",
+    "addr:housenumber":"20",
+    "addr:postcode":"madrid;28020",
+    "addr:street":"Calle De Orense",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008285315,
-    "wof:lastmodified":1472618009,
+    "wof:lastmodified":1472768570,
     "wof:name":"Promotec Systems S.a.",
     "wof:parent_id":85863621,
     "wof:placetype":"venue",

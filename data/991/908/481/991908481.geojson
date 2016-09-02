@@ -2,6 +2,10 @@
   "id": 991908481,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Oquendo, 23 Madrid Madrid 28006",
+    "addr:housenumber":"23",
+    "addr:postcode":"madrid;28006",
+    "addr:street":"Calle De Oquendo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991908481,
-    "wof:lastmodified":1472577917,
+    "wof:lastmodified":1472770598,
     "wof:name":"Hidromedia S.a.",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",

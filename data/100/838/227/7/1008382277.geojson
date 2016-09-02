@@ -2,6 +2,10 @@
   "id": 1008382277,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Doctor Federico Rubio Y Gali, 33 Madrid Madrid 28039",
+    "addr:housenumber":"33",
+    "addr:postcode":"madrid;28039",
+    "addr:street":"Avda Doctor Federico Rubio Y Gali",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008382277,
-    "wof:lastmodified":1472624853,
+    "wof:lastmodified":1472767534,
     "wof:name":"Rodriguez Lopez Carlos Salvador",
     "wof:parent_id":85863619,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991033743,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Juan Bravo, 6 Madrid Madrid 28...",
+    "addr:housenumber":"6;28 ...",
+    "addr:postcode":"",
+    "addr:street":"Calle De Juan Bravo;Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991033743,
-    "wof:lastmodified":1472521721,
+    "wof:lastmodified":1472766922,
     "wof:name":"Asociacion De La Prensa De Madrid",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",

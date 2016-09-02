@@ -2,6 +2,10 @@
   "id": 1008231395,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Valencia, 110 Barcelona Barcelona 08015",
+    "addr:housenumber":"110",
+    "addr:postcode":"08015",
+    "addr:street":"Carrer De Valencia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008231395,
-    "wof:lastmodified":1472614058,
+    "wof:lastmodified":1472767245,
     "wof:name":"Petitbo Carrera Consuelo",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

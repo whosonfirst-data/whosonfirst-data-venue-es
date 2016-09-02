@@ -2,6 +2,10 @@
   "id": 1008422521,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Corsega, 230 Barcelona Barcelona 08036",
+    "addr:housenumber":"230",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Corsega",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008422521,
-    "wof:lastmodified":1472626800,
+    "wof:lastmodified":1472767567,
     "wof:name":"Ruiz Martinez Maria Antonia",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

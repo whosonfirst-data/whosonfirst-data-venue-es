@@ -2,6 +2,10 @@
   "id": 1008265813,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda General Peron, 22 Madrid Madrid 28020",
+    "addr:housenumber":"22",
+    "addr:postcode":"madrid;28020",
+    "addr:street":"Avda General Peron",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008265813,
-    "wof:lastmodified":1472616843,
+    "wof:lastmodified":1472768736,
     "wof:name":"Pozas Lopez Onesimo",
     "wof:parent_id":85863621,
     "wof:placetype":"venue",

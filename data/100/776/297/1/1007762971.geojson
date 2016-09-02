@@ -2,6 +2,10 @@
   "id": 1007762971,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Verdi, 69 Barcelona Barcelona 08012",
+    "addr:housenumber":"69",
+    "addr:postcode":"08012",
+    "addr:street":"Carrer De Verdi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007762971,
-    "wof:lastmodified":1472584396,
+    "wof:lastmodified":1472767813,
     "wof:name":"Jurado Dominguez Mariona",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

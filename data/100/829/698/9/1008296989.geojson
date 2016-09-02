@@ -2,6 +2,10 @@
   "id": 1008296989,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carr Sant Bru, 206 Badalona Barcelona 08911",
+    "addr:housenumber":"206",
+    "addr:postcode":"08911",
+    "addr:street":"Carr Sant Bru",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008296989,
-    "wof:lastmodified":1472618785,
+    "wof:lastmodified":1472768830,
     "wof:name":"Pujol Sanchez Juan",
     "wof:parent_id":85799485,
     "wof:placetype":"venue",

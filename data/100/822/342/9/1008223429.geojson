@@ -2,6 +2,10 @@
   "id": 1008223429,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Diputacio, 470 Barcelona Barcelona 08013",
+    "addr:housenumber":"470",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Diputacio",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008223429,
-    "wof:lastmodified":1472613696,
+    "wof:lastmodified":1472768023,
     "wof:name":"Perez Solano Santiago",
     "wof:parent_id":85864013,
     "wof:placetype":"venue",

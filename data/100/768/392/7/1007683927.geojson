@@ -2,6 +2,10 @@
   "id": 1007683927,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Genova, 29 Barcelona Barcelona 08041",
+    "addr:housenumber":"29",
+    "addr:postcode":"08041",
+    "addr:street":"Carrer De Genova",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007683927,
-    "wof:lastmodified":1472580188,
+    "wof:lastmodified":1472767619,
     "wof:name":"Ingemecanica S. L.",
     "wof:parent_id":85863997,
     "wof:placetype":"venue",

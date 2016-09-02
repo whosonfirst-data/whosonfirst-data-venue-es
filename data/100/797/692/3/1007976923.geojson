@@ -2,6 +2,10 @@
   "id": 1007976923,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de San Cipriano, 26 Madrid Madrid 28032",
+    "addr:housenumber":"26",
+    "addr:postcode":"madrid;28032",
+    "addr:street":"Calle De San",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007976923,
-    "wof:lastmodified":1472594249,
+    "wof:lastmodified":1472768842,
     "wof:name":"Mena Romero Jose Luis",
     "wof:parent_id":85799663,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991518599,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Diputacio, 113 Barcelona Barcelona 08015",
+    "addr:housenumber":"113",
+    "addr:postcode":"08015",
+    "addr:street":"Carrer De Diputacio",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991518599,
-    "wof:lastmodified":1472555341,
+    "wof:lastmodified":1472770083,
     "wof:name":"Dolcet S.c.p",
     "wof:parent_id":85864027,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008261643,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Tamarit, 181 Barcelona Barcelona 08011",
+    "addr:housenumber":"181",
+    "addr:postcode":"08011",
+    "addr:street":"Carrer De Tamarit",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008261643,
-    "wof:lastmodified":1472616599,
+    "wof:lastmodified":1472767311,
     "wof:name":"Porras Perez Jose",
     "wof:parent_id":85864027,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008680801,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Padua, 78 Barcelona Barcelona 08006",
+    "addr:housenumber":"78",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Padua",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008680801,
-    "wof:lastmodified":1472637664,
+    "wof:lastmodified":1472767004,
     "wof:name":"Vadillo Gonzalo Maria Merced",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

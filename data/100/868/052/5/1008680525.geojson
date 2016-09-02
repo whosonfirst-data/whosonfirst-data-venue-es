@@ -2,6 +2,10 @@
   "id": 1008680525,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Jeronima Llorente, 35 Madrid Madrid 28039",
+    "addr:housenumber":"35",
+    "addr:postcode":"madrid;28039",
+    "addr:street":"Calle De Jeronima Llorente",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008680525,
-    "wof:lastmodified":1472637653,
+    "wof:lastmodified":1472766900,
     "wof:name":"Vaca Sobrado Elena",
     "wof:parent_id":85863619,
     "wof:placetype":"venue",

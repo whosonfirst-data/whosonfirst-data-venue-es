@@ -2,6 +2,10 @@
   "id": 1007830145,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Catalunya, 18 S. Andreu Barca Barcelona 08740",
+    "addr:housenumber":"18",
+    "addr:postcode":"08740",
+    "addr:street":"Carrer De Catalunya;S. Andreu;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007830145,
-    "wof:lastmodified":1472587722,
+    "wof:lastmodified":1472766747,
     "wof:name":"Lopez Bueno Adela",
     "wof:parent_id":85864241,
     "wof:placetype":"venue",

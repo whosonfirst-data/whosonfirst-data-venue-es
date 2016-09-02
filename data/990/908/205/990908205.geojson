@@ -2,6 +2,10 @@
   "id": 990908205,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de General Diaz Porlier, 25 Madrid Madrid 28001",
+    "addr:housenumber":"25",
+    "addr:postcode":"madrid;28001",
+    "addr:street":"Calle De General Diaz Porlier",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990908205,
-    "wof:lastmodified":1472509409,
+    "wof:lastmodified":1472767190,
     "wof:name":"Agustinas Misioneras-provincia San Agust",
     "wof:parent_id":85863675,
     "wof:placetype":"venue",

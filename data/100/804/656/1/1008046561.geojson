@@ -2,6 +2,10 @@
   "id": 1008046561,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Primavera, 65 Cerdanyola Valles Barcelona 08290",
+    "addr:housenumber":"65",
+    "addr:postcode":"08290",
+    "addr:street":"Av Primavera;Valles Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008046561,
-    "wof:lastmodified":1472597190,
+    "wof:lastmodified":1472768825,
     "wof:name":"Moreno Prieto Rafael",
     "wof:parent_id":85799639,
     "wof:placetype":"venue",

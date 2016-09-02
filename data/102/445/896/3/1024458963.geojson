@@ -2,6 +2,10 @@
   "id": 1024458963,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Miquel Romeu, 123 Hospitalet Llobregat Barcelona 08907",
+    "addr:housenumber":"123",
+    "addr:postcode":"08907",
+    "addr:street":"Carrer De Miquel Romeu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1024458963,
-    "wof:lastmodified":1472639867,
+    "wof:lastmodified":1472766729,
     "wof:name":"Vilarrasa Izquierdo Juan Benito",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1007724453,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Ciudad De Barcelona, 81 Madrid Madrid 28007",
+    "addr:housenumber":"81",
+    "addr:postcode":"madrid;28007",
+    "addr:street":"Avda Ciudad De Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007724453,
-    "wof:lastmodified":1472582173,
+    "wof:lastmodified":1472768403,
     "wof:name":"J.c. Romero",
     "wof:parent_id":85863739,
     "wof:placetype":"venue",

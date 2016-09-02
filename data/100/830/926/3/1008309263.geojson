@@ -2,6 +2,10 @@
   "id": 1008309263,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Juan Ignacio Luca De Tena, 7 Madrid Madrid 28027",
+    "addr:housenumber":"7",
+    "addr:postcode":"madrid;28027",
+    "addr:street":"Calle De Juan Ignacio Luca De Tena",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1008309263,
-    "wof:lastmodified":1472621766,
+    "wof:lastmodified":1472769407,
     "wof:name":"Radio Publi S.l.",
     "wof:parent_id":85863633,
     "wof:placetype":"venue",

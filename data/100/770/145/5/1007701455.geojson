@@ -2,6 +2,10 @@
   "id": 1007701455,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Cartagena, 333 Barcelona Barcelona 08025",
+    "addr:housenumber":"333",
+    "addr:postcode":"08025",
+    "addr:street":"Carrer De Cartagena",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007701455,
-    "wof:lastmodified":1472581046,
+    "wof:lastmodified":1472767214,
     "wof:name":"Integral Electronica Dipolo S. L.",
     "wof:parent_id":85864001,
     "wof:placetype":"venue",

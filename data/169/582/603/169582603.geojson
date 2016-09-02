@@ -2,6 +2,10 @@
   "id": 169582603,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pase Alameda De Osuna, 125 Madrid Madrid 28042",
+    "addr:housenumber":"125",
+    "addr:postcode":"28042",
+    "addr:street":"Alameda;Osuna",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":169582603,
-    "wof:lastmodified":1466245125,
+    "wof:lastmodified":1472766664,
     "wof:name":"Abebe Traing S.l.",
     "wof:parent_id":85863703,
     "wof:placetype":"venue",

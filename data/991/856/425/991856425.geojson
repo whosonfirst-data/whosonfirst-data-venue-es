@@ -2,6 +2,10 @@
   "id": 991856425,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Argumosa, 18 Madrid Madrid 28012",
+    "addr:housenumber":"18",
+    "addr:postcode":"madrid;28012",
+    "addr:street":"Calle De Argumosa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991856425,
-    "wof:lastmodified":1472575162,
+    "wof:lastmodified":1472770463,
     "wof:name":"Grupo Fernandez S.c.",
     "wof:parent_id":85863793,
     "wof:placetype":"venue",

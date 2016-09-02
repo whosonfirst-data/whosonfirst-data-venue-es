@@ -2,6 +2,10 @@
   "id": 1008410099,
   "type": "Feature",
   "properties": {
+    "addr:full":"N. Monturiol, 130 Pineda Mar Barcelona 08397",
+    "addr:housenumber":"130",
+    "addr:postcode":"08397",
+    "addr:street":"N. Monturiol;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008410099,
-    "wof:lastmodified":1472626257,
+    "wof:lastmodified":1472766705,
     "wof:name":"Rovira Casadevall Jaume",
     "wof:parent_id":85799549,
     "wof:placetype":"venue",

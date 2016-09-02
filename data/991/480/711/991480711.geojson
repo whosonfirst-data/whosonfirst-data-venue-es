@@ -2,6 +2,10 @@
   "id": 991480711,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Juan De Mena, 11 Madrid Madrid 28014",
+    "addr:housenumber":"11",
+    "addr:postcode":"madrid;28014",
+    "addr:street":"Calle De Juan;Mena",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991480711,
-    "wof:lastmodified":1472553351,
+    "wof:lastmodified":1472770094,
     "wof:name":"Delgado Galiana Adelina",
     "wof:parent_id":85863687,
     "wof:placetype":"venue",

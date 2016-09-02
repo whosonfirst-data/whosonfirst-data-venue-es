@@ -2,6 +2,10 @@
   "id": 1007953285,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Pompeu Fabra, 2 Barcelona Barcelona 08024",
+    "addr:housenumber":"2",
+    "addr:postcode":"08024",
+    "addr:street":"Av Pompeu Fabra",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007953285,
-    "wof:lastmodified":1472593279,
+    "wof:lastmodified":1472767990,
     "wof:name":"Mas Taberner Marien",
     "wof:parent_id":85863993,
     "wof:placetype":"venue",

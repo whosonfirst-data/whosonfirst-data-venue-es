@@ -2,6 +2,10 @@
   "id": 991942979,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Manuel Maroto, 52 Madrid Madrid 28053",
+    "addr:housenumber":"52",
+    "addr:postcode":"madrid;28053",
+    "addr:street":"Calle De Manuel Maroto",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991942979,
-    "wof:lastmodified":1472579603,
+    "wof:lastmodified":1472770685,
     "wof:name":"Imedio Salinero Juan",
     "wof:parent_id":85863729,
     "wof:placetype":"venue",

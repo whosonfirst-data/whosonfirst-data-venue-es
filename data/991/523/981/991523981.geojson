@@ -2,6 +2,10 @@
   "id": 991523981,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Paris, 93 Barcelona Barcelona 08029",
+    "addr:housenumber":"93",
+    "addr:postcode":"08029",
+    "addr:street":"Carrer De Paris",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991523981,
-    "wof:lastmodified":1472555638,
+    "wof:lastmodified":1472770177,
     "wof:name":"Dominguez Rueda Juan Manuel",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

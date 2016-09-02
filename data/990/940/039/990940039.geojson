@@ -2,6 +2,10 @@
   "id": 990940039,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Silva, 22 Madrid Madrid 28004",
+    "addr:housenumber":"22",
+    "addr:postcode":"madrid;28004",
+    "addr:street":"Calle De Silva",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990940039,
-    "wof:lastmodified":1472512339,
+    "wof:lastmodified":1472767474,
     "wof:name":"Almagro Cortes Antonio",
     "wof:parent_id":85863667,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008222753,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Ricardo Calvo, 4 Barcelona Barcelona 08022",
+    "addr:housenumber":"4",
+    "addr:postcode":"08022",
+    "addr:street":"Carrer De Ricardo Calvo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008222753,
-    "wof:lastmodified":1472613666,
+    "wof:lastmodified":1472767725,
     "wof:name":"Perez Sanchez Manuel",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

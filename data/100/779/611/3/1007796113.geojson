@@ -2,6 +2,10 @@
   "id": 1007796113,
   "type": "Feature",
   "properties": {
+    "addr:full":"Plaz Cascorro, 18 Madrid Madrid 28005",
+    "addr:housenumber":"18",
+    "addr:postcode":"madrid;28005",
+    "addr:street":"Plaz Cascorro",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007796113,
-    "wof:lastmodified":1472586106,
+    "wof:lastmodified":1472768769,
     "wof:name":"Lazaro Catalina Amadeo",
     "wof:parent_id":85863667,
     "wof:placetype":"venue",

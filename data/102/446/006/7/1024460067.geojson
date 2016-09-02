@@ -2,6 +2,10 @@
   "id": 1024460067,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Arago, 420 Barcelona Barcelona 08013",
+    "addr:housenumber":"420",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Arago",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1024460067,
-    "wof:lastmodified":1472639911,
+    "wof:lastmodified":1472766688,
     "wof:name":"Vilella Associats Scp",
     "wof:parent_id":85864013,
     "wof:placetype":"venue",

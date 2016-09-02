@@ -2,6 +2,10 @@
   "id": 1008556559,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Segura, 410 Barcelona Barcelona 08038",
+    "addr:housenumber":"410",
+    "addr:postcode":"08038",
+    "addr:street":"Carrer De Segura",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008556559,
-    "wof:lastmodified":1472632408,
+    "wof:lastmodified":1472768827,
     "wof:name":"Soto Pallares Engracia",
     "wof:parent_id":85799225,
     "wof:placetype":"venue",

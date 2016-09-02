@@ -2,6 +2,10 @@
   "id": 1008318003,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Casanova, 148 Barcelona Barcelona 08036",
+    "addr:housenumber":"148",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Casanova",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008318003,
-    "wof:lastmodified":1472622117,
+    "wof:lastmodified":1472769272,
     "wof:name":"Ramos Garcia Emilio",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991312223,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Jovara, 446 Calella Barcelona 08370",
+    "addr:housenumber":"446",
+    "addr:postcode":"08370",
+    "addr:street":"Carrer De Jovara",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991312223,
-    "wof:lastmodified":1472543213,
+    "wof:lastmodified":1472769623,
     "wof:name":"Centre Fitness Buda",
     "wof:parent_id":85799549,
     "wof:placetype":"venue",

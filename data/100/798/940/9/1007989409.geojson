@@ -2,6 +2,10 @@
   "id": 1007989409,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Bilbao, 12 Manresa Barcelona 08241",
+    "addr:housenumber":"12",
+    "addr:postcode":"08241",
+    "addr:street":"Carrer De Bilbao",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":1007989409,
-    "wof:lastmodified":1472594714,
+    "wof:lastmodified":1472769182,
     "wof:name":"Mesas Ayala Javier",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

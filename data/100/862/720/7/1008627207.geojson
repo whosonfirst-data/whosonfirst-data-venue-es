@@ -2,6 +2,10 @@
   "id": 1008627207,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Josep Tarradellas, 59 Barcelona Barcelona 08029",
+    "addr:housenumber":"59",
+    "addr:postcode":"08029",
+    "addr:street":"Av Josep Tarradellas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008627207,
-    "wof:lastmodified":1472635437,
+    "wof:lastmodified":1472768907,
     "wof:name":"Todoficinas S. A.",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008123293,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Manuel Bertrand, 31 Prat Llobregat Barcelona 08820",
+    "addr:housenumber":"31",
+    "addr:postcode":"08820",
+    "addr:street":"Carrer De Manuel Bertrand;Llobregat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008123293,
-    "wof:lastmodified":1472600595,
+    "wof:lastmodified":1472768141,
     "wof:name":"Olmedo Gaspez Antonio",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",

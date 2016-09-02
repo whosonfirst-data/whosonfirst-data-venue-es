@@ -2,6 +2,10 @@
   "id": 1008690765,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Llacuna, 144 Barcelona Barcelona 08018",
+    "addr:housenumber":"144",
+    "addr:postcode":"08018",
+    "addr:street":"Carrer De Llacuna",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008690765,
-    "wof:lastmodified":1472638104,
+    "wof:lastmodified":1472766989,
     "wof:name":"Valverde Navas Carmen",
     "wof:parent_id":85799265,
     "wof:placetype":"venue",

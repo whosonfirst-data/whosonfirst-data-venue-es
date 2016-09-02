@@ -2,6 +2,10 @@
   "id": 1008258911,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Cartagena, 277 Barcelona Barcelona 08025",
+    "addr:housenumber":"277",
+    "addr:postcode":"08025",
+    "addr:street":"Carrer De Cartagena",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008258911,
-    "wof:lastmodified":1472616481,
+    "wof:lastmodified":1472769380,
     "wof:name":"Ponce Moreno Manuel",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

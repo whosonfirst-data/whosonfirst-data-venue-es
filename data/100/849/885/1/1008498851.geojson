@@ -2,6 +2,10 @@
   "id": 1008498851,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Valladolid, 63 Madrid Madrid 28008",
+    "addr:housenumber":"63",
+    "addr:postcode":"madrid;28008",
+    "addr:street":"Avda Valladolid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008498851,
-    "wof:lastmodified":1472629964,
+    "wof:lastmodified":1472769447,
     "wof:name":"Sente S.a.",
     "wof:parent_id":85863669,
     "wof:placetype":"venue",

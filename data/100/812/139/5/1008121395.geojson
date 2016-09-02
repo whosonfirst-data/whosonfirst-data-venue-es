@@ -2,6 +2,10 @@
   "id": 1008121395,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Llull, 132 Barcelona Barcelona 08005",
+    "addr:housenumber":"132",
+    "addr:postcode":"08005",
+    "addr:street":"Carrer De Llull",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008121395,
-    "wof:lastmodified":1472600449,
+    "wof:lastmodified":1472767275,
     "wof:name":"Olive Granollers Juan",
     "wof:parent_id":85799265,
     "wof:placetype":"venue",

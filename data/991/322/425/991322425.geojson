@@ -2,6 +2,10 @@
   "id": 991322425,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Valencia, 222 Barcelona Barcelona 08011",
+    "addr:housenumber":"222",
+    "addr:postcode":"08011",
+    "addr:street":"Carrer De Valencia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991322425,
-    "wof:lastmodified":1472543687,
+    "wof:lastmodified":1472769742,
     "wof:name":"Cepsiap S.c.p.",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

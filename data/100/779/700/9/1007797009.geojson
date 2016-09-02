@@ -2,6 +2,10 @@
   "id": 1007797009,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Luna, 8 Madrid Madrid 28004",
+    "addr:housenumber":"8",
+    "addr:postcode":"madrid;28004",
+    "addr:street":"Calle De Luna",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007797009,
-    "wof:lastmodified":1472586154,
+    "wof:lastmodified":1472769029,
     "wof:name":"L. Campillos Hermanos S. A.",
     "wof:parent_id":85863667,
     "wof:placetype":"venue",

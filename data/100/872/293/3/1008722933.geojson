@@ -2,6 +2,10 @@
   "id": 1008722933,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Roger De Flor, 219 Barcelona Barcelona 08025",
+    "addr:housenumber":"219",
+    "addr:postcode":"08025",
+    "addr:street":"Carrer De Roger De Flor",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008722933,
-    "wof:lastmodified":1472639549,
+    "wof:lastmodified":1472767998,
     "wof:name":"Vidal Bover Jose",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 975172369,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Girona, 92 Barcelona Barcelona 08009",
+    "addr:housenumber":"92",
+    "addr:postcode":"08009",
+    "addr:street":"Carrer De Girona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":975172369,
-    "wof:lastmodified":1472508746,
+    "wof:lastmodified":1472767134,
     "wof:name":"Agrupacio Del Bergueda",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

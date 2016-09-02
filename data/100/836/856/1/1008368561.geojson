@@ -2,6 +2,10 @@
   "id": 1008368561,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Arago, 83 Barcelona Barcelona 08015",
+    "addr:housenumber":"83",
+    "addr:postcode":"08015",
+    "addr:street":"Carrer De Arago",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008368561,
-    "wof:lastmodified":1472624305,
+    "wof:lastmodified":1472769387,
     "wof:name":"Roca Bosch Juan",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

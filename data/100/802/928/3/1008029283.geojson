@@ -2,6 +2,10 @@
   "id": 1008029283,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Londres, 85 Barcelona Barcelona 08036",
+    "addr:housenumber":"85",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Londres",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1008029283,
-    "wof:lastmodified":1472596458,
+    "wof:lastmodified":1472769271,
     "wof:name":"Montero Alcala Felipe",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

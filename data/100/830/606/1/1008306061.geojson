@@ -2,6 +2,10 @@
   "id": 1008306061,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Clara Schumann, 14 Madrid Madrid 28021",
+    "addr:housenumber":"14",
+    "addr:postcode":"madrid;28021",
+    "addr:street":"Calle De Clara Schumann",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008306061,
-    "wof:lastmodified":1472621622,
+    "wof:lastmodified":1472768743,
     "wof:name":"Quin Telecom S.l.",
     "wof:parent_id":85799667,
     "wof:placetype":"venue",

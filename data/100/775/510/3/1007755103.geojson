@@ -2,6 +2,10 @@
   "id": 1007755103,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Casanova, 48 Barcelona Barcelona 08011",
+    "addr:housenumber":"48",
+    "addr:postcode":"08011",
+    "addr:street":"Carrer De Casanova",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007755103,
-    "wof:lastmodified":1472583978,
+    "wof:lastmodified":1472768547,
     "wof:name":"Juan Ramon Montes Costarrosa",
     "wof:parent_id":85864027,
     "wof:placetype":"venue",

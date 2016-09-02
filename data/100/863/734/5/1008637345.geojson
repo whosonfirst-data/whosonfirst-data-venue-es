@@ -2,6 +2,10 @@
   "id": 1008637345,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Clara Del Rey, 14 Madrid Madrid 28002",
+    "addr:housenumber":"14",
+    "addr:postcode":"madrid;28002",
+    "addr:street":"Calle De Clara Del Rey",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008637345,
-    "wof:lastmodified":1472635851,
+    "wof:lastmodified":1472769154,
     "wof:name":"Torres Carrasco Maria De Los Angeles",
     "wof:parent_id":85863643,
     "wof:placetype":"venue",

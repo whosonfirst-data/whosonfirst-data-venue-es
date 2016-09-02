@@ -2,6 +2,10 @@
   "id": 1008602305,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Roger De Flor, 202 Barcelona Barcelona 08013",
+    "addr:housenumber":"202",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Roger De Flor",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008602305,
-    "wof:lastmodified":1472634354,
+    "wof:lastmodified":1472767599,
     "wof:name":"Teacher's School S.c.p.",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

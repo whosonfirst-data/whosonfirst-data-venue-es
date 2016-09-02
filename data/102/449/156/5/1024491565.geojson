@@ -2,6 +2,10 @@
   "id": 1024491565,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Bravo Murillo, 60 Madrid Madrid 28003",
+    "addr:housenumber":"60",
+    "addr:postcode":"madrid;28003",
+    "addr:street":"Calle De Bravo Murillo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1024491565,
-    "wof:lastmodified":1472641261,
+    "wof:lastmodified":1472767270,
     "wof:name":"Zarzalejo Castillo Angel",
     "wof:parent_id":85863653,
     "wof:placetype":"venue",

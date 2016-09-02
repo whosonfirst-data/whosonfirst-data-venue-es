@@ -2,6 +2,10 @@
   "id": 1007938227,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Ramon Y Cajal, 79 Madrid Madrid 28016",
+    "addr:housenumber":"79",
+    "addr:postcode":"madrid;28016",
+    "addr:street":"Avda Ramon Y Cajal",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007938227,
-    "wof:lastmodified":1472592598,
+    "wof:lastmodified":1472768829,
     "wof:name":"Martinez Varela Jose Luis",
     "wof:parent_id":85863647,
     "wof:placetype":"venue",

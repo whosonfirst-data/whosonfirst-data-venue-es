@@ -2,6 +2,10 @@
   "id": 1008367313,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Ganduxer, 38 Barcelona Barcelona 08021",
+    "addr:housenumber":"38",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De Ganduxer",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1008367313,
-    "wof:lastmodified":1472624261,
+    "wof:lastmodified":1472769146,
     "wof:name":"Robledor S. A.",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

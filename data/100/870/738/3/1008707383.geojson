@@ -2,6 +2,10 @@
   "id": 1008707383,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Orense, 14 Madrid Madrid 28020",
+    "addr:housenumber":"14",
+    "addr:postcode":"madrid;28020",
+    "addr:street":"Calle De Orense",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008707383,
-    "wof:lastmodified":1472638878,
+    "wof:lastmodified":1472769219,
     "wof:name":"Verdasco Ruiz Rafael",
     "wof:parent_id":85863799,
     "wof:placetype":"venue",

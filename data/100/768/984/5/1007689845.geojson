@@ -2,6 +2,10 @@
   "id": 1007689845,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bule Jose Prat, 34 Madrid Madrid 28032",
+    "addr:housenumber":"34",
+    "addr:postcode":"madrid;28032",
+    "addr:street":"Prat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007689845,
-    "wof:lastmodified":1472580500,
+    "wof:lastmodified":1472769348,
     "wof:name":"Inmo Illamar S.l.",
     "wof:parent_id":85863821,
     "wof:placetype":"venue",

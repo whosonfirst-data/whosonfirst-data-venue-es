@@ -2,6 +2,10 @@
   "id": 1008463691,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Gomis, 17 Barcelona Barcelona 08023",
+    "addr:housenumber":"17",
+    "addr:postcode":"08023",
+    "addr:street":"Carrer De Gomis",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008463691,
-    "wof:lastmodified":1472628456,
+    "wof:lastmodified":1472768076,
     "wof:name":"Sanchez Vila Enrique",
     "wof:parent_id":85863989,
     "wof:placetype":"venue",

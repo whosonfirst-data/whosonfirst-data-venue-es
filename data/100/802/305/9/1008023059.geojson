@@ -2,6 +2,10 @@
   "id": 1008023059,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Ramon Turro, 159 Barcelona Barcelona 08005",
+    "addr:housenumber":"159",
+    "addr:postcode":"08005",
+    "addr:street":"Carrer De Ramon Turro",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008023059,
-    "wof:lastmodified":1472596185,
+    "wof:lastmodified":1472767676,
     "wof:name":"Monferrer Alfonso Josefa",
     "wof:parent_id":85799265,
     "wof:placetype":"venue",

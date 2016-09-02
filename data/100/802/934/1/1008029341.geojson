@@ -2,6 +2,10 @@
   "id": 1008029341,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Santa Eugenia, 21 Madrid Madrid 28031",
+    "addr:housenumber":"21",
+    "addr:postcode":"madrid;28031",
+    "addr:street":"Avda Santa Eugenia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008029341,
-    "wof:lastmodified":1472596461,
+    "wof:lastmodified":1472769312,
     "wof:name":"Montero Anton Carmen",
     "wof:parent_id":85863725,
     "wof:placetype":"venue",

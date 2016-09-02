@@ -2,6 +2,10 @@
   "id": 991231309,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Diputacio, 222 Barcelona Barcelona 08011",
+    "addr:housenumber":"222",
+    "addr:postcode":"08011",
+    "addr:street":"Carrer De Diputacio",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991231309,
-    "wof:lastmodified":1472539090,
+    "wof:lastmodified":1472768101,
     "wof:name":"Calvo Diaz Ruben",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

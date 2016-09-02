@@ -2,6 +2,10 @@
   "id": 991420189,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Almagro, 28 Madrid Madrid 28010",
+    "addr:housenumber":"28",
+    "addr:postcode":"madrid;28010",
+    "addr:street":"Calle De Almagro",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991420189,
-    "wof:lastmodified":1472549954,
+    "wof:lastmodified":1472769637,
     "wof:name":"Consulsegur S.a.",
     "wof:parent_id":85863671,
     "wof:placetype":"venue",

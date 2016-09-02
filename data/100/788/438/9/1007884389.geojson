@@ -2,6 +2,10 @@
   "id": 1007884389,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Pere Iv, 98 Barcelona Barcelona 08005",
+    "addr:housenumber":"98",
+    "addr:postcode":"08005",
+    "addr:street":"Carrer De Pere Iv",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":1007884389,
-    "wof:lastmodified":1472590253,
+    "wof:lastmodified":1472767911,
     "wof:name":"Manufacturas Andreu S. A.",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

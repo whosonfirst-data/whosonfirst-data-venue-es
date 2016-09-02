@@ -2,6 +2,10 @@
   "id": 1007939461,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Montserrat, 55 Caldes Montbui Barcelona 08140",
+    "addr:housenumber":"55",
+    "addr:postcode":"08140",
+    "addr:street":"Carrer De Montserrat;Montbui Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1007939461,
-    "wof:lastmodified":1472592665,
+    "wof:lastmodified":1472769051,
     "wof:name":"Martin Forns Jorge",
     "wof:parent_id":85799453,
     "wof:placetype":"venue",

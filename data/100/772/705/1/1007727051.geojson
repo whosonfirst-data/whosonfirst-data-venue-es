@@ -2,6 +2,10 @@
   "id": 1007727051,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Napols, 126 Barcelona Barcelona 08013",
+    "addr:housenumber":"126",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Napols",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1007727051,
-    "wof:lastmodified":1472582314,
+    "wof:lastmodified":1472769012,
     "wof:name":"Jet Servicio S.a.",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

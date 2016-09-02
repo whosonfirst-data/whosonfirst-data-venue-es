@@ -2,6 +2,10 @@
   "id": 1024465229,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Albufera, 33 Madrid Madrid 28038",
+    "addr:housenumber":"33",
+    "addr:postcode":"madrid;28038",
+    "addr:street":"Avda Albufera",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1024465229,
-    "wof:lastmodified":1472640140,
+    "wof:lastmodified":1472768536,
     "wof:name":"Villegas Casasus Maria",
     "wof:parent_id":85863731,
     "wof:placetype":"venue",

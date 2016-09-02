@@ -2,6 +2,10 @@
   "id": 1007697233,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Agramunt, 21 Barcelona Barcelona 08023",
+    "addr:housenumber":"21",
+    "addr:postcode":"08023",
+    "addr:street":"Carrer De Agramunt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007697233,
-    "wof:lastmodified":1472580825,
+    "wof:lastmodified":1472768977,
     "wof:name":"Institut Municipal D'educacio De Barcelona",
     "wof:parent_id":85863989,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991462295,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Alfonso Xiii, 21 Madrid Madrid 28002",
+    "addr:housenumber":"21",
+    "addr:postcode":"madrid;28002",
+    "addr:street":"Avda Alfonso Xiii",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991462295,
-    "wof:lastmodified":1472552363,
+    "wof:lastmodified":1472769687,
     "wof:name":"Cuesta Calleja Juan Manuel",
     "wof:parent_id":85863647,
     "wof:placetype":"venue",

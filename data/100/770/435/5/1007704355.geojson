@@ -2,6 +2,10 @@
   "id": 1007704355,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Septiembre, 24 Madrid Madrid 28022",
+    "addr:housenumber":"24",
+    "addr:postcode":"madrid;28022",
+    "addr:street":"Calle De Septiembre",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1007704355,
-    "wof:lastmodified":1472581172,
+    "wof:lastmodified":1472768368,
     "wof:name":"Inteydec S.a.",
     "wof:parent_id":85863629,
     "wof:placetype":"venue",

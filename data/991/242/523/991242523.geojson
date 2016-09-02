@@ -2,6 +2,10 @@
   "id": 991242523,
   "type": "Feature",
   "properties": {
+    "addr:full":"Via Primavera, 14 Fontpineda Barcelona 08753",
+    "addr:housenumber":"14",
+    "addr:postcode":"08753",
+    "addr:street":"Via Primavera;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991242523,
-    "wof:lastmodified":1472539681,
+    "wof:lastmodified":1472768293,
     "wof:name":"Canal Borrajo Juan Manuel",
     "wof:parent_id":85864241,
     "wof:placetype":"venue",

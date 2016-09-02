@@ -2,6 +2,10 @@
   "id": 1008429135,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Blanco, 30 Barcelona Barcelona 08028",
+    "addr:housenumber":"30",
+    "addr:postcode":"08028",
+    "addr:street":"Carrer De Blanco",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008429135,
-    "wof:lastmodified":1472627158,
+    "wof:lastmodified":1472769290,
     "wof:name":"Sabino Medina Amalia",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

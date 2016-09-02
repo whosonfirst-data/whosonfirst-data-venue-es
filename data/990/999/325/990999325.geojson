@@ -2,6 +2,10 @@
   "id": 990999325,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Jose Del Hierro, 60 Madrid Madrid 28027",
+    "addr:housenumber":"60",
+    "addr:postcode":"madrid;28027",
+    "addr:street":"Calle De Jose Del Hierro",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990999325,
-    "wof:lastmodified":1472519020,
+    "wof:lastmodified":1472768064,
     "wof:name":"Arevalo Garcia Marcelino",
     "wof:parent_id":85863639,
     "wof:placetype":"venue",

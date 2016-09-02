@@ -2,6 +2,10 @@
   "id": 991455557,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Ferraz, 24 Madrid Madrid 28008",
+    "addr:housenumber":"24",
+    "addr:postcode":"madrid;28008",
+    "addr:street":"Calle De Ferraz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991455557,
-    "wof:lastmodified":1472551995,
+    "wof:lastmodified":1472769744,
     "wof:name":"Cruce De Espeja S.a.",
     "wof:parent_id":85863669,
     "wof:placetype":"venue",

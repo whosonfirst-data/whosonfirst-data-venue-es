@@ -2,6 +2,10 @@
   "id": 991870797,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Lleida, 106 Prat Llobregat Barcelona 08820",
+    "addr:housenumber":"106",
+    "addr:postcode":"08820",
+    "addr:street":"Carrer De Lleida;Llobregat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991870797,
-    "wof:lastmodified":1472575951,
+    "wof:lastmodified":1472770620,
     "wof:name":"Gutierrez Calderon Antonio",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",

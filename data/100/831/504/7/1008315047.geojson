@@ -2,6 +2,10 @@
   "id": 1008315047,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda San Diego, 142 Madrid Madrid 28018",
+    "addr:housenumber":"142",
+    "addr:postcode":"28018",
+    "addr:street":"Avda San Diego",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008315047,
-    "wof:lastmodified":1472621995,
+    "wof:lastmodified":1472768622,
     "wof:name":"Ramirez Villajos Basilio",
     "wof:parent_id":85863729,
     "wof:placetype":"venue",

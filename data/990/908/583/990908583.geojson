@@ -2,6 +2,10 @@
   "id": 990908583,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Santalo, 45 Barcelona Barcelona 08021",
+    "addr:housenumber":"45",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De Santalo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990908583,
-    "wof:lastmodified":1472509432,
+    "wof:lastmodified":1472767419,
     "wof:name":"Agusti Rovira Lorna",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

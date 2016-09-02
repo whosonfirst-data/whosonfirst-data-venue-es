@@ -2,6 +2,10 @@
   "id": 1008124977,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Bacardi, 31 Barcelona Barcelona 08028",
+    "addr:housenumber":"31",
+    "addr:postcode":"08028",
+    "addr:street":"Carrer De Bacardi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008124977,
-    "wof:lastmodified":1472600725,
+    "wof:lastmodified":1472768638,
     "wof:name":"Omnium Vit Srll",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

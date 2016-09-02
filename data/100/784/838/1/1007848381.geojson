@@ -2,6 +2,10 @@
   "id": 1007848381,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Albarracin, 37 Madrid Madrid 28...",
+    "addr:housenumber":"37;28 ...",
+    "addr:postcode":"madrid",
+    "addr:street":"Calle De Albarracin;Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1007848381,
-    "wof:lastmodified":1472588625,
+    "wof:lastmodified":1472769375,
     "wof:name":"L'oreal Division Productos De Lujo S.a.",
     "wof:parent_id":85863641,
     "wof:placetype":"venue",

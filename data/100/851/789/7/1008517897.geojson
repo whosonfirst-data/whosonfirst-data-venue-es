@@ -2,6 +2,10 @@
   "id": 1008517897,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pg Maritim, 52 Pineda Mar Barcelona 08397",
+    "addr:housenumber":"52",
+    "addr:postcode":"08397",
+    "addr:street":"Pg Maritim;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008517897,
-    "wof:lastmodified":1472630769,
+    "wof:lastmodified":1472769037,
     "wof:name":"Seukram S.a.",
     "wof:parent_id":85799549,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991151089,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Jovara, 324 Calella Barcelona 08370",
+    "addr:housenumber":"324",
+    "addr:postcode":"08370",
+    "addr:street":"Carrer De Jovara",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991151089,
-    "wof:lastmodified":1472532114,
+    "wof:lastmodified":1472767484,
     "wof:name":"Biosca Bascompte Francisco",
     "wof:parent_id":85799549,
     "wof:placetype":"venue",

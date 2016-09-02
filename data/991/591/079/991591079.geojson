@@ -2,6 +2,10 @@
   "id": 991591079,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Aribau, 105 Barcelona Barcelona 08036",
+    "addr:housenumber":"105",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Aribau",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991591079,
-    "wof:lastmodified":1472559198,
+    "wof:lastmodified":1472769922,
     "wof:name":"Estany Llaudo Jose",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

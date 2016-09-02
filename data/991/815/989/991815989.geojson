@@ -2,6 +2,10 @@
   "id": 991815989,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de San Diego, 24 Madrid Madrid 28038",
+    "addr:housenumber":"24",
+    "addr:postcode":"madrid;28038",
+    "addr:street":"Calle De San Diego",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991815989,
-    "wof:lastmodified":1472572822,
+    "wof:lastmodified":1472770608,
     "wof:name":"Gomez Valdericeda Juan Pedro",
     "wof:parent_id":85799645,
     "wof:placetype":"venue",

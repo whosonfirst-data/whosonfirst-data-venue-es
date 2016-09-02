@@ -2,6 +2,10 @@
   "id": 1008207059,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Jaume Casanovas, 33 Prat Llobregat Barcelona 08820",
+    "addr:housenumber":"33",
+    "addr:postcode":"08820",
+    "addr:street":"Carrer De Jaume Casanovas;Llobregat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008207059,
-    "wof:lastmodified":1472611140,
+    "wof:lastmodified":1472768878,
     "wof:name":"Perez Alba David",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",

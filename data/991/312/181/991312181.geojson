@@ -2,6 +2,10 @@
   "id": 991312181,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Paradis, 12 Barcelona Barcelona 08002",
+    "addr:housenumber":"12",
+    "addr:postcode":"08002",
+    "addr:street":"Carrer De Paradis",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991312181,
-    "wof:lastmodified":1472543212,
+    "wof:lastmodified":1472769608,
     "wof:name":"Centre Excursionista De Catalunya",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",

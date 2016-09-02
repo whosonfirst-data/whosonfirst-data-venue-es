@@ -2,6 +2,10 @@
   "id": 1008003143,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Sant Iscle, 21 Cerdanyola Valles Barcelona 08290",
+    "addr:housenumber":"21",
+    "addr:postcode":"08290",
+    "addr:street":"Av Sant Iscle;Valles Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":1008003143,
-    "wof:lastmodified":1472595307,
+    "wof:lastmodified":1472767690,
     "wof:name":"Miquel Bellmunt Nuria",
     "wof:parent_id":85799639,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008254509,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Puerto De Los Leones, 44 Madrid Madrid 28023",
+    "addr:housenumber":"44",
+    "addr:postcode":"madrid;28023",
+    "addr:street":"Calle De Puerto De Los Leones",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1008254509,
-    "wof:lastmodified":1472616263,
+    "wof:lastmodified":1472768438,
     "wof:name":"P Leones Cuarenta Y Cuatro S L",
     "wof:parent_id":85799153,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991097747,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Pere Iv, 216 Barcelona Barcelona 08005",
+    "addr:housenumber":"216",
+    "addr:postcode":"08005",
+    "addr:street":"Carrer De Pere Iv",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991097747,
-    "wof:lastmodified":1472526618,
+    "wof:lastmodified":1472767356,
     "wof:name":"Banco Bilbao Vizcaya Argentaria S.a.",
     "wof:parent_id":85799265,
     "wof:placetype":"venue",

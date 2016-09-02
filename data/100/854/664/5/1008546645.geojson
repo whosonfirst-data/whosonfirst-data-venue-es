@@ -2,6 +2,10 @@
   "id": 1008546645,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Baluard, 56 Barcelona Barcelona 08003",
+    "addr:housenumber":"56",
+    "addr:postcode":"08003",
+    "addr:street":"Carrer De Baluard",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1008546645,
-    "wof:lastmodified":1472631964,
+    "wof:lastmodified":1472768766,
     "wof:name":"Sole Pla Magin",
     "wof:parent_id":85799173,
     "wof:placetype":"venue",

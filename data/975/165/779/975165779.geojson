@@ -2,6 +2,10 @@
   "id": 975165779,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Padilla, 35 Madrid Madrid 28006",
+    "addr:housenumber":"35",
+    "addr:postcode":"madrid;28006",
+    "addr:street":"Calle De Padilla",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":975165779,
-    "wof:lastmodified":1472508198,
+    "wof:lastmodified":1472767369,
     "wof:name":"A.g.c.d. Sa",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",

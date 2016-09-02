@@ -2,6 +2,10 @@
   "id": 1008128211,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Goya, 75 Madrid Madrid 28001",
+    "addr:housenumber":"75",
+    "addr:postcode":"madrid;28001",
+    "addr:street":"Calle De Goya",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008128211,
-    "wof:lastmodified":1472600883,
+    "wof:lastmodified":1472769209,
     "wof:name":"Optica Santa Lucia S.l.",
     "wof:parent_id":85863675,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008176439,
   "type": "Feature",
   "properties": {
+    "addr:full":"C/ Francesc Layret, 80 Cerdanyola Valles Barcelona 08290",
+    "addr:housenumber":"80",
+    "addr:postcode":"08290",
+    "addr:street":"C / Francesc Layret;Valles Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008176439,
-    "wof:lastmodified":1472604774,
+    "wof:lastmodified":1472768720,
     "wof:name":"Parroquia De Sant Marti",
     "wof:parent_id":85799639,
     "wof:placetype":"venue",

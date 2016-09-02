@@ -2,6 +2,10 @@
   "id": 1007852341,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Oporto, 19 Madrid Madrid 28019",
+    "addr:housenumber":"19",
+    "addr:postcode":"madrid;28019",
+    "addr:street":"Avda Oporto",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007852341,
-    "wof:lastmodified":1472588826,
+    "wof:lastmodified":1472767610,
     "wof:name":"Los Serranos C.b.",
     "wof:parent_id":85863759,
     "wof:placetype":"venue",

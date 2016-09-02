@@ -2,6 +2,10 @@
   "id": 1008240293,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Bruc, 157 Barcelona Barcelona 08037",
+    "addr:housenumber":"157",
+    "addr:postcode":"08037",
+    "addr:street":"Carrer De Bruc",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1008240293,
-    "wof:lastmodified":1472614490,
+    "wof:lastmodified":1472766743,
     "wof:name":"Pimintel Pulido Mariano",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

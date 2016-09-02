@@ -2,6 +2,10 @@
   "id": 991740999,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Cantabria, 39 Madrid Madrid 28042",
+    "addr:housenumber":"39",
+    "addr:postcode":"madrid;28042",
+    "addr:street":"Avda Cantabria",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":991740999,
-    "wof:lastmodified":1472567526,
+    "wof:lastmodified":1472770523,
     "wof:name":"Garcia Del Valle C.d",
     "wof:parent_id":85863589,
     "wof:placetype":"venue",

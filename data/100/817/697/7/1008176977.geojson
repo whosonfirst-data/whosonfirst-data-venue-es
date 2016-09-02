@@ -2,6 +2,10 @@
   "id": 1008176977,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Rafael Alberti, 25 Madrid Madrid 28038",
+    "addr:housenumber":"25",
+    "addr:postcode":"madrid;28038",
+    "addr:street":"Avda Rafael Alberti",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008176977,
-    "wof:lastmodified":1472604839,
+    "wof:lastmodified":1472768821,
     "wof:name":"Parroquia Maria Mediadora",
     "wof:parent_id":85799645,
     "wof:placetype":"venue",

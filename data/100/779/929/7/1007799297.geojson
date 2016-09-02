@@ -2,6 +2,10 @@
   "id": 1007799297,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Cornella, 142 Esplugues Llobregat Barcelona 08950",
+    "addr:housenumber":"142",
+    "addr:postcode":"08950",
+    "addr:street":"Av Cornella",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007799297,
-    "wof:lastmodified":1472586290,
+    "wof:lastmodified":1472769545,
     "wof:name":"Legido Sierra Pedro",
     "wof:parent_id":85799591,
     "wof:placetype":"venue",

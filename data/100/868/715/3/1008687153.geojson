@@ -2,6 +2,10 @@
   "id": 1008687153,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Mao, 24 Barcelona Barcelona 08022",
+    "addr:housenumber":"24",
+    "addr:postcode":"08022",
+    "addr:street":"Carrer De Mao",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008687153,
-    "wof:lastmodified":1472637936,
+    "wof:lastmodified":1472769041,
     "wof:name":"Valle Hernandez Maria Del Carmen",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

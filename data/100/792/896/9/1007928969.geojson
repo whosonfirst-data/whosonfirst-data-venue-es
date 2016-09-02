@@ -2,6 +2,10 @@
   "id": 1007928969,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Julia Nebot, 14 Madrid Madrid 28025",
+    "addr:housenumber":"14",
+    "addr:postcode":"madrid;28025",
+    "addr:street":"Calle De Julia Nebot",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007928969,
-    "wof:lastmodified":1472592187,
+    "wof:lastmodified":1472769227,
     "wof:name":"Martinez Martinez Gregorio",
     "wof:parent_id":85863819,
     "wof:placetype":"venue",

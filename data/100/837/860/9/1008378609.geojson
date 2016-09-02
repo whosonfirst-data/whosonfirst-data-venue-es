@@ -2,6 +2,10 @@
   "id": 1008378609,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pase San Francisco De Sales, 35 Madrid Madrid 28003",
+    "addr:housenumber":"35",
+    "addr:postcode":"madrid;28003",
+    "addr:street":"Francisco De Sales",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008378609,
-    "wof:lastmodified":1472624706,
+    "wof:lastmodified":1472769345,
     "wof:name":"Rodriguez Francos Javier",
     "wof:parent_id":85863653,
     "wof:placetype":"venue",

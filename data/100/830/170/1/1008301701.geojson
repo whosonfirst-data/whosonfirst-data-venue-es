@@ -2,6 +2,10 @@
   "id": 1008301701,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Joan, 42 Sabadell Barcelona 08202",
+    "addr:housenumber":"42",
+    "addr:postcode":"08202",
+    "addr:street":"Carrer De Sant Joan",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008301701,
-    "wof:lastmodified":1472620518,
+    "wof:lastmodified":1472767315,
     "wof:name":"Queralt Nayach Jose Maria",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

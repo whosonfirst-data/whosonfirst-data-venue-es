@@ -2,6 +2,10 @@
   "id": 991020561,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Llull, 121 Barcelona Barcelona 08005",
+    "addr:housenumber":"121",
+    "addr:postcode":"08005",
+    "addr:street":"Carrer De Llull",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991020561,
-    "wof:lastmodified":1472520748,
+    "wof:lastmodified":1472766919,
     "wof:name":"Asein Ingenieros S. L.",
     "wof:parent_id":85799265,
     "wof:placetype":"venue",

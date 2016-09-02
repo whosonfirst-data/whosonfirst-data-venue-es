@@ -2,6 +2,10 @@
   "id": 1008165183,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Llobregos, 18 Barcelona Barcelona 08032",
+    "addr:housenumber":"18",
+    "addr:postcode":"08032",
+    "addr:street":"Carrer De Llobregos",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008165183,
-    "wof:lastmodified":1472603252,
+    "wof:lastmodified":1472768588,
     "wof:name":"Parada Veiga Domingo",
     "wof:parent_id":85799399,
     "wof:placetype":"venue",

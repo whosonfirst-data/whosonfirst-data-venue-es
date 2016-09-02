@@ -2,6 +2,10 @@
   "id": 1008493213,
   "type": "Feature",
   "properties": {
+    "addr:full":"Trav De Gracia, 324 Barcelona Barcelona 08025",
+    "addr:housenumber":"324",
+    "addr:postcode":"08025",
+    "addr:street":"Trav De Gracia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008493213,
-    "wof:lastmodified":1472629692,
+    "wof:lastmodified":1472768111,
     "wof:name":"Segura Gallardo Francisca",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008515947,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Cristobal De Moura, 199 Barcelona Barcelona 08019",
+    "addr:housenumber":"199",
+    "addr:postcode":"08019",
+    "addr:street":"Carrer De Cristobal De Moura",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008515947,
-    "wof:lastmodified":1472630691,
+    "wof:lastmodified":1472768684,
     "wof:name":"Servi Grup Generator S. L.",
     "wof:parent_id":85864011,
     "wof:placetype":"venue",

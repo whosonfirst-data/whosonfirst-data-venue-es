@@ -2,6 +2,10 @@
   "id": 991113161,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Paris, 208 Barcelona Barcelona 08008",
+    "addr:housenumber":"208",
+    "addr:postcode":"08008",
+    "addr:street":"Carrer De Paris",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991113161,
-    "wof:lastmodified":1472527829,
+    "wof:lastmodified":1472767127,
     "wof:name":"Barna Wagen S.a",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

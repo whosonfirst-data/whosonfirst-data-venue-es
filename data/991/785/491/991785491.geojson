@@ -2,6 +2,10 @@
   "id": 991785491,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Pau Casals, 10 Barcelona Barcelona 08021",
+    "addr:housenumber":"10",
+    "addr:postcode":"08021",
+    "addr:street":"Av Pau Casals",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991785491,
-    "wof:lastmodified":1472570670,
+    "wof:lastmodified":1472770397,
     "wof:name":"Gestion De Inmuebles Personalizada",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

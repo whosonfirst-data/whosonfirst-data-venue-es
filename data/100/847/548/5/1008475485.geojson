@@ -2,6 +2,10 @@
   "id": 1008475485,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Menendez Pelayo, 51 Madrid Madrid 28009",
+    "addr:housenumber":"51",
+    "addr:postcode":"madrid;28009",
+    "addr:street":"Avda Menendez Pelayo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008475485,
-    "wof:lastmodified":1472628929,
+    "wof:lastmodified":1472768648,
     "wof:name":"Santias Viada Luis",
     "wof:parent_id":85863687,
     "wof:placetype":"venue",

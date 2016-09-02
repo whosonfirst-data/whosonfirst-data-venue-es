@@ -2,6 +2,10 @@
   "id": 1007922859,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Badajoz, 50 Madrid Madrid 28027",
+    "addr:housenumber":"50",
+    "addr:postcode":"madrid;28027",
+    "addr:street":"Avda Badajoz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007922859,
-    "wof:lastmodified":1472591906,
+    "wof:lastmodified":1472767895,
     "wof:name":"Martinez Espejo Jose Maria",
     "wof:parent_id":85863637,
     "wof:placetype":"venue",

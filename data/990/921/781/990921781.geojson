@@ -2,6 +2,10 @@
   "id": 990921781,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Iglesia, 37 Madrid Madrid 28039",
+    "addr:housenumber":"37",
+    "addr:postcode":"madrid;28039",
+    "addr:street":"Calle De Iglesia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990921781,
-    "wof:lastmodified":1472510610,
+    "wof:lastmodified":1472767517,
     "wof:name":"Alberto Gallego De Belaunde",
     "wof:parent_id":85863759,
     "wof:placetype":"venue",

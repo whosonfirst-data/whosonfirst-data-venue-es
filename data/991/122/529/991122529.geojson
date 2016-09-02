@@ -2,6 +2,10 @@
   "id": 991122529,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Miquel, 35 Manresa Barcelona 08241",
+    "addr:housenumber":"35",
+    "addr:postcode":"08241",
+    "addr:street":"Carrer De Sant Miquel",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":991122529,
-    "wof:lastmodified":1472528620,
+    "wof:lastmodified":1472767351,
     "wof:name":"Bataller Rosa Fermin",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

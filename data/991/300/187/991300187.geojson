@@ -2,6 +2,10 @@
   "id": 991300187,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Mandri, 10 Barcelona Barcelona 08022",
+    "addr:housenumber":"10",
+    "addr:postcode":"08022",
+    "addr:street":"Carrer De Mandri",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991300187,
-    "wof:lastmodified":1472542646,
+    "wof:lastmodified":1472769615,
     "wof:name":"Causape Fontanet Esperanza",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

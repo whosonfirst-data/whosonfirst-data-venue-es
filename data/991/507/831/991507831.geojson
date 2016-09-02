@@ -2,6 +2,10 @@
   "id": 991507831,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Alcala, 38 Madrid Madrid 28...",
+    "addr:housenumber":"38;28 ...",
+    "addr:postcode":"madrid",
+    "addr:street":"Calle De Alcala;Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991507831,
-    "wof:lastmodified":1472554783,
+    "wof:lastmodified":1472770092,
     "wof:name":"Direccion General De Instituciones Penitenciarias",
     "wof:parent_id":85863685,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1007953523,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Vallespir, 171 Barcelona Barcelona 08014",
+    "addr:housenumber":"171",
+    "addr:postcode":"08014",
+    "addr:street":"Carrer De Vallespir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007953523,
-    "wof:lastmodified":1472593288,
+    "wof:lastmodified":1472768080,
     "wof:name":"Master Languages",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

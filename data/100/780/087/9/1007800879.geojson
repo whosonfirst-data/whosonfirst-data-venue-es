@@ -2,6 +2,10 @@
   "id": 1007800879,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Agusti I Mila, 55 Barcelona Barcelona 08030",
+    "addr:housenumber":"55",
+    "addr:postcode":"08030",
+    "addr:street":"Carrer De Agusti;Mila",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007800879,
-    "wof:lastmodified":1472586375,
+    "wof:lastmodified":1472767046,
     "wof:name":"Lence Pardo Manuel",
     "wof:parent_id":85799559,
     "wof:placetype":"venue",

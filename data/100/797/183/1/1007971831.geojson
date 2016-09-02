@@ -2,6 +2,10 @@
   "id": 1007971831,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Portugalete, 25 Madrid Madrid 28017",
+    "addr:housenumber":"25",
+    "addr:postcode":"madrid;28017",
+    "addr:street":"Calle De Portugalete",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007971831,
-    "wof:lastmodified":1472594031,
+    "wof:lastmodified":1472767357,
     "wof:name":"Medina San Nicolas Antonio",
     "wof:parent_id":85863697,
     "wof:placetype":"venue",

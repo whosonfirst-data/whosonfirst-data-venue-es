@@ -2,6 +2,10 @@
   "id": 991143759,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de La Rambla, 126 Barcelona Barcelona 08002",
+    "addr:housenumber":"126",
+    "addr:postcode":"08002",
+    "addr:street":"Carrer De La Rambla",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991143759,
-    "wof:lastmodified":1472531213,
+    "wof:lastmodified":1472767785,
     "wof:name":"Bernaus Gabernet Juan",
     "wof:parent_id":85864035,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008483725,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Balmes, 402 Barcelona Barcelona 08022",
+    "addr:housenumber":"402",
+    "addr:postcode":"08022",
+    "addr:street":"Carrer De Balmes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008483725,
-    "wof:lastmodified":1472629279,
+    "wof:lastmodified":1472768195,
     "wof:name":"Sastre Gil Victoriano",
     "wof:parent_id":85863989,
     "wof:placetype":"venue",

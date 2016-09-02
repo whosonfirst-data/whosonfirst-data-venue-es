@@ -2,6 +2,10 @@
   "id": 1008697807,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Monte De Montjuich, 34 Madrid Madrid 28031",
+    "addr:housenumber":"34",
+    "addr:postcode":"madrid;28031",
+    "addr:street":"Calle De Monte De Montjuich",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008697807,
-    "wof:lastmodified":1472638420,
+    "wof:lastmodified":1472769212,
     "wof:name":"Vazquez Sanchez Mariano",
     "wof:parent_id":85863725,
     "wof:placetype":"venue",

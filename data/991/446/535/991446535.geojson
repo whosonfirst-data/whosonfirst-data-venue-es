@@ -2,6 +2,10 @@
   "id": 991446535,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Orcasur, 37 Madrid Madrid 28041",
+    "addr:housenumber":"37",
+    "addr:postcode":"madrid;28041",
+    "addr:street":"Avda Orcasur",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991446535,
-    "wof:lastmodified":1472551517,
+    "wof:lastmodified":1472769753,
     "wof:name":"Coycom S.a.",
     "wof:parent_id":85863749,
     "wof:placetype":"venue",

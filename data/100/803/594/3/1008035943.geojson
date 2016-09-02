@@ -2,6 +2,10 @@
   "id": 1008035943,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Cinca, 56 Barcelona Barcelona 08030",
+    "addr:housenumber":"56",
+    "addr:postcode":"08030",
+    "addr:street":"Carrer De Cinca",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008035943,
-    "wof:lastmodified":1472596719,
+    "wof:lastmodified":1472768774,
     "wof:name":"Moraleda Moya Jose",
     "wof:parent_id":85799559,
     "wof:placetype":"venue",

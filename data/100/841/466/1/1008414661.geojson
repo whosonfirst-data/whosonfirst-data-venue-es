@@ -2,6 +2,10 @@
   "id": 1008414661,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Carmen, 22 Madrid Madrid 28013",
+    "addr:housenumber":"22",
+    "addr:postcode":"madrid;28013",
+    "addr:street":"Calle De Carmen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008414661,
-    "wof:lastmodified":1472626455,
+    "wof:lastmodified":1472768495,
     "wof:name":"Rubio Martinez S. L.",
     "wof:parent_id":85863667,
     "wof:placetype":"venue",

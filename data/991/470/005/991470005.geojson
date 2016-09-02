@@ -2,6 +2,10 @@
   "id": 991470005,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pl Carme Guasch, 1 Badalona Barcelona 08911",
+    "addr:housenumber":"1",
+    "addr:postcode":"08911",
+    "addr:street":"Pl;Guasch",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":991470005,
-    "wof:lastmodified":1472552819,
+    "wof:lastmodified":1472769576,
     "wof:name":"Dap Maresme S.a.",
     "wof:parent_id":85799485,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991516373,
   "type": "Feature",
   "properties": {
+    "addr:full":"Miguel De Cervantes, 42 Zaragoza Zaragoza 50006",
+    "addr:housenumber":"42",
+    "addr:postcode":"50006",
+    "addr:street":"Miguel;Cervantes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":991516373,
-    "wof:lastmodified":1472555237,
+    "wof:lastmodified":1472769956,
     "wof:name":"Ditransco S.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

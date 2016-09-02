@@ -2,6 +2,10 @@
   "id": 1007990601,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Rogent, 38 Barcelona Barcelona 08026",
+    "addr:housenumber":"38",
+    "addr:postcode":"08026",
+    "addr:street":"Carrer De Rogent",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007990601,
-    "wof:lastmodified":1472594779,
+    "wof:lastmodified":1472766824,
     "wof:name":"Mestres Castells Juan",
     "wof:parent_id":85799265,
     "wof:placetype":"venue",

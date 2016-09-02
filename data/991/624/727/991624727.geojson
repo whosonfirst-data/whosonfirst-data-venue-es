@@ -2,6 +2,10 @@
   "id": 991624727,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Viladomat, 124 Barcelona Barcelona 08015",
+    "addr:housenumber":"124",
+    "addr:postcode":"08015",
+    "addr:street":"Carrer De Viladomat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991624727,
-    "wof:lastmodified":1472561520,
+    "wof:lastmodified":1472770204,
     "wof:name":"Faus Riera Santiago",
     "wof:parent_id":85864027,
     "wof:placetype":"venue",

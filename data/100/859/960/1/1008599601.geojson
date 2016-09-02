@@ -2,6 +2,10 @@
   "id": 1008599601,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Martinez De La Rosa, 26 Barcelona Barcelona 08012",
+    "addr:housenumber":"26",
+    "addr:postcode":"08012",
+    "addr:street":"Carrer De Martinez De La Rosa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008599601,
-    "wof:lastmodified":1472634240,
+    "wof:lastmodified":1472769416,
     "wof:name":"Tarnos S. A.",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1007868803,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Reina Victoria, 40 Madrid Madrid 28003",
+    "addr:housenumber":"40",
+    "addr:postcode":"madrid;28003",
+    "addr:street":"Avda Reina Victoria",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007868803,
-    "wof:lastmodified":1472589615,
+    "wof:lastmodified":1472769294,
     "wof:name":"Madrid Vision S.a.",
     "wof:parent_id":85863653,
     "wof:placetype":"venue",

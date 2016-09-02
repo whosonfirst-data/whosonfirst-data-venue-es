@@ -2,6 +2,10 @@
   "id": 1008099201,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Gabriel Miro, 5 Barcelona Barcelona 08038",
+    "addr:housenumber":"5",
+    "addr:postcode":"08038",
+    "addr:street":"Carrer De Gabriel Miro",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008099201,
-    "wof:lastmodified":1472599486,
+    "wof:lastmodified":1472769262,
     "wof:name":"Nogueras Pan Ignacio",
     "wof:parent_id":85799225,
     "wof:placetype":"venue",

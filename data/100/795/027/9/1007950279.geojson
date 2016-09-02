@@ -2,6 +2,10 @@
   "id": 1007950279,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Freser, 98 Barcelona Barcelona 08026",
+    "addr:housenumber":"98",
+    "addr:postcode":"08026",
+    "addr:street":"Carrer De Freser",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007950279,
-    "wof:lastmodified":1472593141,
+    "wof:lastmodified":1472766760,
     "wof:name":"Masana Panades Jaime",
     "wof:parent_id":85864001,
     "wof:placetype":"venue",

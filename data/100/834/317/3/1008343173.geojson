@@ -2,6 +2,10 @@
   "id": 1008343173,
   "type": "Feature",
   "properties": {
+    "addr:full":"Plaz Padron, 15 Madrid Madrid 28029",
+    "addr:housenumber":"15",
+    "addr:postcode":"madrid;28029",
+    "addr:street":"Plaz Padron",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008343173,
-    "wof:lastmodified":1472623198,
+    "wof:lastmodified":1472767874,
     "wof:name":"Requena Azcarate Santiago",
     "wof:parent_id":85863551,
     "wof:placetype":"venue",

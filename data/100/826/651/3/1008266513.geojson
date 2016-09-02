@@ -2,6 +2,10 @@
   "id": 1008266513,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Monec, 3 Barcelona Barcelona 08003",
+    "addr:housenumber":"3",
+    "addr:postcode":"08003",
+    "addr:street":"Carrer De Monec",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008266513,
-    "wof:lastmodified":1472616874,
+    "wof:lastmodified":1472768921,
     "wof:name":"Pozo Velasco Dolores",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",

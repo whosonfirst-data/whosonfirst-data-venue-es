@@ -2,6 +2,10 @@
   "id": 1008269059,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Arago, 335 Barcelona Barcelona 08009",
+    "addr:housenumber":"335",
+    "addr:postcode":"08009",
+    "addr:street":"Carrer De Arago",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008269059,
-    "wof:lastmodified":1472617043,
+    "wof:lastmodified":1472769448,
     "wof:name":"Prats Puig Monica",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

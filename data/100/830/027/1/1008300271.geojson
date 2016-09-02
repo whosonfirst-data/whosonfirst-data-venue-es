@@ -2,6 +2,10 @@
   "id": 1008300271,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Riera De Sant Miquel, 67 Barcelona Barcelona 08006",
+    "addr:housenumber":"67",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Riera De Sant Miquel",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008300271,
-    "wof:lastmodified":1472619970,
+    "wof:lastmodified":1472766732,
     "wof:name":"Pybus Blackwell David Clare",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

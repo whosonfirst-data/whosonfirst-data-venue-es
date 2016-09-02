@@ -2,6 +2,10 @@
   "id": 1008332799,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Gleva, 42 Barcelona Barcelona 08006",
+    "addr:housenumber":"42",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Gleva",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008332799,
-    "wof:lastmodified":1472622738,
+    "wof:lastmodified":1472767626,
     "wof:name":"Regas Font Inmaculada De",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

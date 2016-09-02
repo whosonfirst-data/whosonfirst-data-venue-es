@@ -2,6 +2,10 @@
   "id": 991523155,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Mayor, 82 Madrid Madrid 28013",
+    "addr:housenumber":"82",
+    "addr:postcode":"madrid;28013",
+    "addr:street":"Calle De Mayor",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991523155,
-    "wof:lastmodified":1472555594,
+    "wof:lastmodified":1472769928,
     "wof:name":"Dominguez Morales Antonia",
     "wof:parent_id":85863747,
     "wof:placetype":"venue",

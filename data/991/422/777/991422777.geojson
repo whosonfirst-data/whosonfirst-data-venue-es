@@ -2,6 +2,10 @@
   "id": 991422777,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Viladomat, 123 Barcelona Barcelona 08015",
+    "addr:housenumber":"123",
+    "addr:postcode":"08015",
+    "addr:street":"Carrer De Viladomat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991422777,
-    "wof:lastmodified":1472550100,
+    "wof:lastmodified":1472769837,
     "wof:name":"Conti Zalacain Pilar",
     "wof:parent_id":85864027,
     "wof:placetype":"venue",

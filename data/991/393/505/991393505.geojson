@@ -2,6 +2,10 @@
   "id": 991393505,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Barcelona, 56 S. Joan Despi Barcelona 08970",
+    "addr:housenumber":"56",
+    "addr:postcode":"08970",
+    "addr:street":"Av Barcelona;S. Joan Despi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991393505,
-    "wof:lastmodified":1472548341,
+    "wof:lastmodified":1472769777,
     "wof:name":"Comunidad De Propietarios Avenida Barcelona",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",

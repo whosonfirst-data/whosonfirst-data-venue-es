@@ -2,6 +2,10 @@
   "id": 1007870439,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Verdi, 78 Barcelona Barcelona 08012",
+    "addr:housenumber":"78",
+    "addr:postcode":"08012",
+    "addr:street":"Carrer De Verdi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007870439,
-    "wof:lastmodified":1472589695,
+    "wof:lastmodified":1472766799,
     "wof:name":"Maga Distribuidora Sl",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

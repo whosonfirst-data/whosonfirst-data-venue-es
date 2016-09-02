@@ -2,6 +2,10 @@
   "id": 1008655021,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Ferran, 6 Barcelona Barcelona 08002",
+    "addr:housenumber":"6",
+    "addr:postcode":"08002",
+    "addr:street":"Carrer De Ferran",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008655021,
-    "wof:lastmodified":1472636601,
+    "wof:lastmodified":1472768572,
     "wof:name":"Tresimpex S.a.",
     "wof:parent_id":85864033,
     "wof:placetype":"venue",

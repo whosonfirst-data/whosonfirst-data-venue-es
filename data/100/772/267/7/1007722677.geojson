@@ -2,6 +2,10 @@
   "id": 1007722677,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Doctor Espina, 17 Madrid Madrid 28019",
+    "addr:housenumber":"17",
+    "addr:postcode":"madrid;28019",
+    "addr:street":"Calle De Doctor Espina",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007722677,
-    "wof:lastmodified":1472582091,
+    "wof:lastmodified":1472767714,
     "wof:name":"Jause S.a.",
     "wof:parent_id":85863759,
     "wof:placetype":"venue",

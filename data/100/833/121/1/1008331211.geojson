@@ -2,6 +2,10 @@
   "id": 1008331211,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Jules Verne, 11 Barcelona Barcelona 08006",
+    "addr:housenumber":"11",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Jules Verne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008331211,
-    "wof:lastmodified":1472622660,
+    "wof:lastmodified":1472767035,
     "wof:name":"Red Service S.c.p.",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

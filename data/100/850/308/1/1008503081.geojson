@@ -2,6 +2,10 @@
   "id": 1008503081,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Galileu, 40 Barcelona Barcelona 08028",
+    "addr:housenumber":"40",
+    "addr:postcode":"08028",
+    "addr:street":"Carrer De Galileu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008503081,
-    "wof:lastmodified":1472630156,
+    "wof:lastmodified":1472767907,
     "wof:name":"Serra Ferrer Clara",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

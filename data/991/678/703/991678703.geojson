@@ -2,6 +2,10 @@
   "id": 991678703,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sants, 125 Barcelona Barcelona 08028",
+    "addr:housenumber":"125",
+    "addr:postcode":"08028",
+    "addr:street":"Carrer De Sants",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991678703,
-    "wof:lastmodified":1472564416,
+    "wof:lastmodified":1472770365,
     "wof:name":"Fontanet Andreu Francisca",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

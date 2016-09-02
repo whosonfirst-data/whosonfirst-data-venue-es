@@ -2,6 +2,10 @@
   "id": 991913393,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ctra Esplugues, 208 Fatjo Barcelona 08940",
+    "addr:housenumber":"208",
+    "addr:postcode":"08940",
+    "addr:street":"Ctra Esplugues;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991913393,
-    "wof:lastmodified":1472578148,
+    "wof:lastmodified":1472770598,
     "wof:name":"Hilse S. A.",
     "wof:parent_id":85799591,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991563773,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Peru, 234 Barcelona Barcelona 08020",
+    "addr:housenumber":"234",
+    "addr:postcode":"08020",
+    "addr:street":"Carrer De Peru",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991563773,
-    "wof:lastmodified":1472557902,
+    "wof:lastmodified":1472770183,
     "wof:name":"Empresas Ramoneda S. A.",
     "wof:parent_id":85864011,
     "wof:placetype":"venue",

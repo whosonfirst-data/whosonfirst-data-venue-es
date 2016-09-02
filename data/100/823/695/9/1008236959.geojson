@@ -2,6 +2,10 @@
   "id": 1008236959,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Galileu, 100 Barcelona Barcelona 08028",
+    "addr:housenumber":"100",
+    "addr:postcode":"08028",
+    "addr:street":"Carrer De Galileu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1008236959,
-    "wof:lastmodified":1472614314,
+    "wof:lastmodified":1472768995,
     "wof:name":"Pi Calzada Jorge Luis",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

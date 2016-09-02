@@ -2,6 +2,10 @@
   "id": 1008478671,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Bruselas, 49 Madrid Madrid 28028",
+    "addr:housenumber":"49",
+    "addr:postcode":"madrid;28028",
+    "addr:street":"Avda Bruselas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008478671,
-    "wof:lastmodified":1472629062,
+    "wof:lastmodified":1472769387,
     "wof:name":"Sanz Alvarez Nieves",
     "wof:parent_id":85863643,
     "wof:placetype":"venue",

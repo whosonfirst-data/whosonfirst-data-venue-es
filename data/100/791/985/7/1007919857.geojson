@@ -2,6 +2,10 @@
   "id": 1007919857,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Napols, 206 Barcelona Barcelona 08013",
+    "addr:housenumber":"206",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Napols",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1007919857,
-    "wof:lastmodified":1472591744,
+    "wof:lastmodified":1472769557,
     "wof:name":"Martinez Bonjoch German",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

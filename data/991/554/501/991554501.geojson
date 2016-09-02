@@ -2,6 +2,10 @@
   "id": 991554501,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Rodriguez San Pedro, 42 Madrid Madrid 28015",
+    "addr:housenumber":"42",
+    "addr:postcode":"madrid;28015",
+    "addr:street":"Calle De Rodriguez San Pedro",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":991554501,
-    "wof:lastmodified":1472557291,
+    "wof:lastmodified":1472770058,
     "wof:name":"El Escultor S.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

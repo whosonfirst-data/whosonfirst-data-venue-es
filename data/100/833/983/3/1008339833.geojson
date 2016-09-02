@@ -2,6 +2,10 @@
   "id": 1008339833,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Victoria, 74 Madrid Madrid 28023",
+    "addr:housenumber":"74",
+    "addr:postcode":"madrid;28023",
+    "addr:street":"Avda Victoria",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":1008339833,
-    "wof:lastmodified":1472623052,
+    "wof:lastmodified":1472769429,
     "wof:name":"Replan S.l.",
     "wof:parent_id":85863657,
     "wof:placetype":"venue",

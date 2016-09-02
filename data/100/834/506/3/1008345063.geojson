@@ -2,6 +2,10 @@
   "id": 1008345063,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Portell, 11 Barcelona Barcelona 08023",
+    "addr:housenumber":"11",
+    "addr:postcode":"08023",
+    "addr:street":"Carrer De Portell",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1008345063,
-    "wof:lastmodified":1472623277,
+    "wof:lastmodified":1472768537,
     "wof:name":"Residencia Mullerat S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

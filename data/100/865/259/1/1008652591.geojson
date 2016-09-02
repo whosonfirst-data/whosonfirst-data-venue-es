@@ -2,6 +2,10 @@
   "id": 1008652591,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Belmonte De Tajo, 55 Madrid Madrid 28019",
+    "addr:housenumber":"55",
+    "addr:postcode":"madrid;28019",
+    "addr:street":"Calle De Belmonte De Tajo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008652591,
-    "wof:lastmodified":1472636513,
+    "wof:lastmodified":1472767744,
     "wof:name":"Trapero Garcia Luis Manuel",
     "wof:parent_id":85863759,
     "wof:placetype":"venue",

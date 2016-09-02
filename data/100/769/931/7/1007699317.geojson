@@ -2,6 +2,10 @@
   "id": 1007699317,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Carabanchel Alto, 19 Madrid Madrid 28044",
+    "addr:housenumber":"19",
+    "addr:postcode":"madrid;28044",
+    "addr:street":"Avda Carabanchel Alto",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007699317,
-    "wof:lastmodified":1472580928,
+    "wof:lastmodified":1472769386,
     "wof:name":"Instituto Farmaceutico Del Ejercito",
     "wof:parent_id":85863781,
     "wof:placetype":"venue",

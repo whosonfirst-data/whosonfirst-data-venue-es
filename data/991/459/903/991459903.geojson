@@ -2,6 +2,10 @@
   "id": 991459903,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Jorge Juan, 42 Madrid Madrid 28001",
+    "addr:housenumber":"42",
+    "addr:postcode":"madrid;28001",
+    "addr:street":"Calle De Jorge Juan",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991459903,
-    "wof:lastmodified":1472552239,
+    "wof:lastmodified":1472769890,
     "wof:name":"Cuarto De Juegos S.l.",
     "wof:parent_id":85863809,
     "wof:placetype":"venue",

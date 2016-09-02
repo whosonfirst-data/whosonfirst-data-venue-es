@@ -2,6 +2,10 @@
   "id": 991298469,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Lepant, 217 Barcelona Barcelona 08013",
+    "addr:housenumber":"217",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Lepant",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991298469,
-    "wof:lastmodified":1472542571,
+    "wof:lastmodified":1472769725,
     "wof:name":"Catalana De Taximetros S.l.",
     "wof:parent_id":85864013,
     "wof:placetype":"venue",

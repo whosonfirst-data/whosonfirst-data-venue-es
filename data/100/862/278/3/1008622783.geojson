@@ -2,6 +2,10 @@
   "id": 1008622783,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Ramon, 13 Caldes Montbui Barcelona 08140",
+    "addr:housenumber":"13",
+    "addr:postcode":"08140",
+    "addr:street":"Carrer De Sant Ramon;Montbui Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008622783,
-    "wof:lastmodified":1472635246,
+    "wof:lastmodified":1472767802,
     "wof:name":"Tibau Valles Rafael",
     "wof:parent_id":85799453,
     "wof:placetype":"venue",

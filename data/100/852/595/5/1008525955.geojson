@@ -2,6 +2,10 @@
   "id": 1008525955,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Quirze, 43 Sabadell Barcelona 08201",
+    "addr:housenumber":"43",
+    "addr:postcode":"08201",
+    "addr:street":"Carrer De Sant Quirze",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008525955,
-    "wof:lastmodified":1472631103,
+    "wof:lastmodified":1472768822,
     "wof:name":"Simon Bernad Juan",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

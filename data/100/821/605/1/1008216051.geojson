@@ -2,6 +2,10 @@
   "id": 1008216051,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Arago, 341 Barcelona Barcelona 08009",
+    "addr:housenumber":"341",
+    "addr:postcode":"08009",
+    "addr:street":"Carrer De Arago",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008216051,
-    "wof:lastmodified":1472613184,
+    "wof:lastmodified":1472768726,
     "wof:name":"Perez Lopez Chantal",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

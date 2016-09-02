@@ -2,6 +2,10 @@
   "id": 991385359,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Gutenberg, 9 Madrid Madrid 28014",
+    "addr:housenumber":"9",
+    "addr:postcode":"madrid;28014",
+    "addr:street":"Calle De Gutenberg",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":991385359,
-    "wof:lastmodified":1472547758,
+    "wof:lastmodified":1472769686,
     "wof:name":"Comercial Vdr S.l.",
     "wof:parent_id":85863739,
     "wof:placetype":"venue",

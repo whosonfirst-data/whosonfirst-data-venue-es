@@ -2,6 +2,10 @@
   "id": 991248979,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Tembleque, 50 Madrid Madrid 28024",
+    "addr:housenumber":"50",
+    "addr:postcode":"madrid;28024",
+    "addr:street":"Calle De Tembleque",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991248979,
-    "wof:lastmodified":1472540034,
+    "wof:lastmodified":1472768509,
     "wof:name":"Cantera San Martin Julio",
     "wof:parent_id":85799479,
     "wof:placetype":"venue",

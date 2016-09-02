@@ -2,6 +2,10 @@
   "id": 1007820871,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Alcala, 508 Madrid Madrid 28027",
+    "addr:housenumber":"508",
+    "addr:postcode":"28027",
+    "addr:street":"Calle De Alcala",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007820871,
-    "wof:lastmodified":1472587336,
+    "wof:lastmodified":1472767089,
     "wof:name":"Llorente Perez Santiago",
     "wof:parent_id":85863641,
     "wof:placetype":"venue",

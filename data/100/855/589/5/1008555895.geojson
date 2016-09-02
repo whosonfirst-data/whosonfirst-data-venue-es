@@ -2,6 +2,10 @@
   "id": 1008555895,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Legalitat, 36 Barcelona Barcelona 08024",
+    "addr:housenumber":"36",
+    "addr:postcode":"08024",
+    "addr:street":"Carrer De Legalitat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008555895,
-    "wof:lastmodified":1472632376,
+    "wof:lastmodified":1472768711,
     "wof:name":"Sotoca Serrano Jesus",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

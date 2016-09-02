@@ -2,6 +2,10 @@
   "id": 1008095583,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Clara Del Rey, 75 Madrid Madrid 28002",
+    "addr:housenumber":"75",
+    "addr:postcode":"madrid;28002",
+    "addr:street":"Calle De Clara Del Rey",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008095583,
-    "wof:lastmodified":1472599327,
+    "wof:lastmodified":1472768647,
     "wof:name":"Nieto Lopez Mariano",
     "wof:parent_id":85799435,
     "wof:placetype":"venue",

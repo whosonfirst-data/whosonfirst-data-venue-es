@@ -2,6 +2,10 @@
   "id": 1008312373,
   "type": "Feature",
   "properties": {
+    "addr:full":"Trav De Gracia, 143 Barcelona Barcelona 08012",
+    "addr:housenumber":"143",
+    "addr:postcode":"08012",
+    "addr:street":"Trav De Gracia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008312373,
-    "wof:lastmodified":1472621879,
+    "wof:lastmodified":1472767637,
     "wof:name":"Rambla Moner Francisco",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

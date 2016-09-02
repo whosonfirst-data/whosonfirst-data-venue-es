@@ -2,6 +2,10 @@
   "id": 1008080457,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de 31 De Desembre, 20 Palma Islas Baleares 07004",
+    "addr:housenumber":"31;20",
+    "addr:postcode":"07004",
+    "addr:street":"Carrer De;Desembre",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008080457,
-    "wof:lastmodified":1472598665,
+    "wof:lastmodified":1472766825,
     "wof:name":"Nattere  Henrica",
     "wof:parent_id":85864097,
     "wof:placetype":"venue",

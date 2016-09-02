@@ -2,6 +2,10 @@
   "id": 991341199,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Diputacio, 280 Barcelona Barcelona 08009",
+    "addr:housenumber":"280",
+    "addr:postcode":"08009",
+    "addr:street":"Carrer De Diputacio",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991341199,
-    "wof:lastmodified":1472544593,
+    "wof:lastmodified":1472769654,
     "wof:name":"Circulo De Comunicacion S. A.",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

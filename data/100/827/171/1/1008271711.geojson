@@ -2,6 +2,10 @@
   "id": 1008271711,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Telegraf, 46 Barcelona Barcelona 08041",
+    "addr:housenumber":"46",
+    "addr:postcode":"08041",
+    "addr:street":"Carrer De Telegraf",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008271711,
-    "wof:lastmodified":1472617183,
+    "wof:lastmodified":1472767413,
     "wof:name":"Prevalia Cgp",
     "wof:parent_id":85863997,
     "wof:placetype":"venue",

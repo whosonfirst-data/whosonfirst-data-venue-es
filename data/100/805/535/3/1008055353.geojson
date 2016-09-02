@@ -2,6 +2,10 @@
   "id": 1008055353,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Estacio, 82 Caldes Montbui Barcelona 08140",
+    "addr:housenumber":"82",
+    "addr:postcode":"08140",
+    "addr:street":"Carrer De Estacio;Montbui Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008055353,
-    "wof:lastmodified":1472597548,
+    "wof:lastmodified":1472768631,
     "wof:name":"Moya Marti Jaime",
     "wof:parent_id":85799453,
     "wof:placetype":"venue",

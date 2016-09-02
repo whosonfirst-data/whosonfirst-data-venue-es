@@ -2,6 +2,10 @@
   "id": 1007696449,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Marti, 130 Barcelona Barcelona 08024",
+    "addr:housenumber":"130",
+    "addr:postcode":"08024",
+    "addr:street":"Carrer De Marti",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1007696449,
-    "wof:lastmodified":1472580791,
+    "wof:lastmodified":1472768813,
     "wof:name":"Instaltruc S.cv.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

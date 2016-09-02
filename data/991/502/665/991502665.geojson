@@ -2,6 +2,10 @@
   "id": 991502665,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Vicente Espinel, 15 Madrid Madrid 28017",
+    "addr:housenumber":"15",
+    "addr:postcode":"madrid;28017",
+    "addr:street":"Calle De Vicente Espinel",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991502665,
-    "wof:lastmodified":1472554553,
+    "wof:lastmodified":1472770081,
     "wof:name":"Diez Escudero Teresa",
     "wof:parent_id":85863639,
     "wof:placetype":"venue",

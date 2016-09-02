@@ -2,6 +2,10 @@
   "id": 1008344537,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Valencia, 176 Barcelona Barcelona 08011",
+    "addr:housenumber":"176",
+    "addr:postcode":"08011",
+    "addr:street":"Carrer De Valencia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008344537,
-    "wof:lastmodified":1472623258,
+    "wof:lastmodified":1472768418,
     "wof:name":"Residencia Geriatrica Palau S.l.",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

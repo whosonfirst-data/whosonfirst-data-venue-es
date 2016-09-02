@@ -2,6 +2,10 @@
   "id": 991201777,
   "type": "Feature",
   "properties": {
+    "addr:full":"John F. Kennedy, 1 S. Joan Despi Barcelona 08970",
+    "addr:housenumber":"1",
+    "addr:postcode":"08970",
+    "addr:street":"John F. Kennedy;S. Joan Despi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":991201777,
-    "wof:lastmodified":1472536633,
+    "wof:lastmodified":1472768209,
     "wof:name":"Caixa D'estalvis De Catalunya",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

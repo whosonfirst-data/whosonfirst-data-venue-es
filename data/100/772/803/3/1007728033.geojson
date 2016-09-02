@@ -2,6 +2,10 @@
   "id": 1007728033,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Bruselas, 39 Madrid Madrid 28028",
+    "addr:housenumber":"39",
+    "addr:postcode":"madrid;28028",
+    "addr:street":"Avda Bruselas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007728033,
-    "wof:lastmodified":1472582370,
+    "wof:lastmodified":1472769196,
     "wof:name":"Jimenez Agudin Carlos",
     "wof:parent_id":85863643,
     "wof:placetype":"venue",

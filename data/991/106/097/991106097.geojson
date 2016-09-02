@@ -2,6 +2,10 @@
   "id": 991106097,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pase Castellana, 42 Madrid Madrid 28046",
+    "addr:housenumber":"42",
+    "addr:postcode":"madrid;28046",
+    "addr:street":"Castellana",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991106097,
-    "wof:lastmodified":1472527260,
+    "wof:lastmodified":1472767106,
     "wof:name":"Banesto Seguros S.a.",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",

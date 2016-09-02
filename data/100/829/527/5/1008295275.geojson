@@ -2,6 +2,10 @@
   "id": 1008295275,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Josep Tarradellas, 126 Barcelona Barcelona 08029",
+    "addr:housenumber":"126",
+    "addr:postcode":"08029",
+    "addr:street":"Av Josep Tarradellas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1008295275,
-    "wof:lastmodified":1472618572,
+    "wof:lastmodified":1472768492,
     "wof:name":"Puig Gabarro Alberto",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

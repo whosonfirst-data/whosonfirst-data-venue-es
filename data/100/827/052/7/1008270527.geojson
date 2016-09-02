@@ -2,6 +2,10 @@
   "id": 1008270527,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Casp, 102 Barcelona Barcelona 08010",
+    "addr:housenumber":"102",
+    "addr:postcode":"08010",
+    "addr:street":"Carrer De Casp",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008270527,
-    "wof:lastmodified":1472617117,
+    "wof:lastmodified":1472766868,
     "wof:name":"Prellezo Vila Francisco Javier",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

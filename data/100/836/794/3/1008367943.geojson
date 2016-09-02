@@ -2,6 +2,10 @@
   "id": 1008367943,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Balmes, 359 Barcelona Barcelona 08006",
+    "addr:housenumber":"359",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Balmes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008367943,
-    "wof:lastmodified":1472624284,
+    "wof:lastmodified":1472769308,
     "wof:name":"Robles Moreno Maria Rosa",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

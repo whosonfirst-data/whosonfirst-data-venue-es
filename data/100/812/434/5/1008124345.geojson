@@ -2,6 +2,10 @@
   "id": 1008124345,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Mallorca, 172 Barcelona Barcelona 08036",
+    "addr:housenumber":"172",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Mallorca",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008124345,
-    "wof:lastmodified":1472600692,
+    "wof:lastmodified":1472768466,
     "wof:name":"Olucha Colomer Antonio",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

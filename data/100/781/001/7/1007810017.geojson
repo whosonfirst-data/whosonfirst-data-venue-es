@@ -2,6 +2,10 @@
   "id": 1007810017,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Ample, 44 Barcelona Barcelona 08002",
+    "addr:housenumber":"44",
+    "addr:postcode":"08002",
+    "addr:street":"Carrer De Ample",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1007810017,
-    "wof:lastmodified":1472586843,
+    "wof:lastmodified":1472766660,
     "wof:name":"Linares Bedmar Pilar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

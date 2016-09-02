@@ -2,6 +2,10 @@
   "id": 1007730505,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Ayala, 117 Madrid Madrid 28009",
+    "addr:housenumber":"117",
+    "addr:postcode":"28009",
+    "addr:street":"Calle De Ayala",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007730505,
-    "wof:lastmodified":1472582510,
+    "wof:lastmodified":1472766831,
     "wof:name":"Jimenez Garcia Irenio",
     "wof:parent_id":85863683,
     "wof:placetype":"venue",

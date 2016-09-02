@@ -2,6 +2,10 @@
   "id": 991825305,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Jose Maurelo, 33 Madrid Madrid 28047",
+    "addr:housenumber":"33",
+    "addr:postcode":"madrid;28047",
+    "addr:street":"Calle De Jose Maurelo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991825305,
-    "wof:lastmodified":1472573363,
+    "wof:lastmodified":1472770348,
     "wof:name":"Gonzalez Gil Manuel",
     "wof:parent_id":85863765,
     "wof:placetype":"venue",

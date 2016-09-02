@@ -2,6 +2,10 @@
   "id": 1008521201,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Homer, 55 Barcelona Barcelona 08023",
+    "addr:housenumber":"55",
+    "addr:postcode":"08023",
+    "addr:street":"Carrer De Homer",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008521201,
-    "wof:lastmodified":1472630906,
+    "wof:lastmodified":1472767149,
     "wof:name":"Siebe Appliance Controls S.a.",
     "wof:parent_id":85863989,
     "wof:placetype":"venue",

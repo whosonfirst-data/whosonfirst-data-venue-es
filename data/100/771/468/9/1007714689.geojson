@@ -2,6 +2,10 @@
   "id": 1007714689,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Santiago De Compostela, 88 Madrid Madrid 28035",
+    "addr:housenumber":"88",
+    "addr:postcode":"madrid;28035",
+    "addr:street":"Calle De Santiago De Compostela",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1007714689,
-    "wof:lastmodified":1472581697,
+    "wof:lastmodified":1472768393,
     "wof:name":"Ivi Madrid S.l.",
     "wof:parent_id":85799627,
     "wof:placetype":"venue",

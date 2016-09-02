@@ -2,6 +2,10 @@
   "id": 1008368981,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Catalunya, 50 Cerdanyola Valles Barcelona 08290",
+    "addr:housenumber":"50",
+    "addr:postcode":"08290",
+    "addr:street":"Av Catalunya;Valles Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008368981,
-    "wof:lastmodified":1472624320,
+    "wof:lastmodified":1472769465,
     "wof:name":"Roca Grau Josep",
     "wof:parent_id":85799639,
     "wof:placetype":"venue",

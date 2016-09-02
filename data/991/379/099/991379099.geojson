@@ -2,6 +2,10 @@
   "id": 991379099,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Llull, 48 Barcelona Barcelona 08005",
+    "addr:housenumber":"48",
+    "addr:postcode":"08005",
+    "addr:street":"Carrer De Llull",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":991379099,
-    "wof:lastmodified":1472547304,
+    "wof:lastmodified":1472769603,
     "wof:name":"Comercial De Estanqueidad S.a.",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

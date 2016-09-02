@@ -2,6 +2,10 @@
   "id": 991546771,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Rocafort, 59 Barcelona Barcelona 08015",
+    "addr:housenumber":"59",
+    "addr:postcode":"08015",
+    "addr:street":"Carrer De Rocafort",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991546771,
-    "wof:lastmodified":1472556842,
+    "wof:lastmodified":1472770120,
     "wof:name":"Electrica Serma S.a.",
     "wof:parent_id":85864027,
     "wof:placetype":"venue",

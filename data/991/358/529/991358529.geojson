@@ -2,6 +2,10 @@
   "id": 991358529,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sardenya, 229 Barcelona Barcelona 08013",
+    "addr:housenumber":"229",
+    "addr:postcode":"08013",
+    "addr:street":"Carrer De Sardenya",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991358529,
-    "wof:lastmodified":1472545703,
+    "wof:lastmodified":1472769719,
     "wof:name":"Coditex S.a.",
     "wof:parent_id":85864013,
     "wof:placetype":"venue",

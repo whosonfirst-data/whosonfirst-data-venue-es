@@ -2,6 +2,10 @@
   "id": 1008311447,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Arago, 632 Barcelona Barcelona 08018",
+    "addr:housenumber":"632",
+    "addr:postcode":"08018",
+    "addr:street":"Carrer De Arago",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008311447,
-    "wof:lastmodified":1472621848,
+    "wof:lastmodified":1472767229,
     "wof:name":"Rais Ocor Jorge",
     "wof:parent_id":85864003,
     "wof:placetype":"venue",

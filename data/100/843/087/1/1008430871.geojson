@@ -2,6 +2,10 @@
   "id": 1008430871,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sants, 49 Barcelona Barcelona 08014",
+    "addr:housenumber":"49",
+    "addr:postcode":"08014",
+    "addr:street":"Carrer De Sants",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008430871,
-    "wof:lastmodified":1472627218,
+    "wof:lastmodified":1472766972,
     "wof:name":"Saenz Rebull Julio",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

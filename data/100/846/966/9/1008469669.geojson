@@ -2,6 +2,10 @@
   "id": 1008469669,
   "type": "Feature",
   "properties": {
+    "addr:full":"Plaz Alonso Martinez, 6 Madrid Madrid 28004",
+    "addr:housenumber":"6",
+    "addr:postcode":"28004",
+    "addr:street":"Plaz;Martinez",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008469669,
-    "wof:lastmodified":1472628699,
+    "wof:lastmodified":1472769517,
     "wof:name":"San Miguel Gonzalez Jose Maria",
     "wof:parent_id":85863671,
     "wof:placetype":"venue",

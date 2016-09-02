@@ -2,6 +2,10 @@
   "id": 991591053,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Catalunya, 43 S. Adria Besos Barcelona 08930",
+    "addr:housenumber":"43",
+    "addr:postcode":"08930",
+    "addr:street":"Av Catalunya;S. Adria Besos Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991591053,
-    "wof:lastmodified":1472559197,
+    "wof:lastmodified":1472769918,
     "wof:name":"Estany Albareda Josefa",
     "wof:parent_id":85799179,
     "wof:placetype":"venue",

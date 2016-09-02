@@ -2,6 +2,10 @@
   "id": 991350701,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Portal Nou, 38 Barcelona Barcelona 08003",
+    "addr:housenumber":"38",
+    "addr:postcode":"08003",
+    "addr:street":"Carrer De Portal Nou",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991350701,
-    "wof:lastmodified":1472545173,
+    "wof:lastmodified":1472769833,
     "wof:name":"Clota Colell Isidro",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",

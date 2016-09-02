@@ -2,6 +2,10 @@
   "id": 991575751,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Montserrat, 51 Pineda Mar Barcelona 08397",
+    "addr:housenumber":"51",
+    "addr:postcode":"08397",
+    "addr:street":"Av Montserrat;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991575751,
-    "wof:lastmodified":1472558502,
+    "wof:lastmodified":1472770139,
     "wof:name":"Escobar Royo Jose",
     "wof:parent_id":85799549,
     "wof:placetype":"venue",

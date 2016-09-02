@@ -2,6 +2,10 @@
   "id": 991840101,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Viladomat, 243 Barcelona Barcelona 08029",
+    "addr:housenumber":"243",
+    "addr:postcode":"08029",
+    "addr:street":"Carrer De Viladomat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991840101,
-    "wof:lastmodified":1472574159,
+    "wof:lastmodified":1472770332,
     "wof:name":"Gotor Pallares Jose",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991291681,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Mallorca, 161 Barcelona Barcelona 08036",
+    "addr:housenumber":"161",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Mallorca",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991291681,
-    "wof:lastmodified":1472542266,
+    "wof:lastmodified":1472769819,
     "wof:name":"Castells Alos Lourdes",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

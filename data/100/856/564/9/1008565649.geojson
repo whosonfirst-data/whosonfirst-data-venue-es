@@ -2,6 +2,10 @@
   "id": 1008565649,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Pi I Margall, 101 Caldes Montbui Barcelona 08140",
+    "addr:housenumber":"101",
+    "addr:postcode":"08140",
+    "addr:street":"Av Pi I Margall;Montbui Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008565649,
-    "wof:lastmodified":1472632787,
+    "wof:lastmodified":1472768580,
     "wof:name":"Subministres Industrials I De Ferreteria Boluda S.l.",
     "wof:parent_id":85799453,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008325189,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Ayala, 156 Madrid Madrid 28009",
+    "addr:housenumber":"156",
+    "addr:postcode":"28009",
+    "addr:street":"Calle De Ayala",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008325189,
-    "wof:lastmodified":1472622396,
+    "wof:lastmodified":1472768652,
     "wof:name":"Recalde Valdes Cristin",
     "wof:parent_id":85863683,
     "wof:placetype":"venue",

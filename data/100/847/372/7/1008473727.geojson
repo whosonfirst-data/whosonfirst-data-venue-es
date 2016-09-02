@@ -2,6 +2,10 @@
   "id": 1008473727,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sepulveda, 129 Barcelona Barcelona 08011",
+    "addr:housenumber":"129",
+    "addr:postcode":"08011",
+    "addr:street":"Carrer De Sepulveda",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008473727,
-    "wof:lastmodified":1472628864,
+    "wof:lastmodified":1472768153,
     "wof:name":"Santandreu Riera Rafael",
     "wof:parent_id":85864027,
     "wof:placetype":"venue",

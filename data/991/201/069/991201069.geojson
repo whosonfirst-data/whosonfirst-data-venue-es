@@ -2,6 +2,10 @@
   "id": 991201069,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Casals I Cubero, 222 Barcelona Barcelona 08042",
+    "addr:housenumber":"222",
+    "addr:postcode":"08042",
+    "addr:street":"Carrer De Casals I Cubero",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991201069,
-    "wof:lastmodified":1472536586,
+    "wof:lastmodified":1472767893,
     "wof:name":"Caixa D'estalvis De Catalunya",
     "wof:parent_id":85799517,
     "wof:placetype":"venue",

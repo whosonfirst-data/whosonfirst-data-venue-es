@@ -2,6 +2,10 @@
   "id": 1008271155,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Rios Rosas, 51 Madrid Madrid 28003",
+    "addr:housenumber":"51",
+    "addr:postcode":"madrid;28003",
+    "addr:street":"Calle De Rios Rosas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008271155,
-    "wof:lastmodified":1472617157,
+    "wof:lastmodified":1472767139,
     "wof:name":"Presa Presa Saul",
     "wof:parent_id":85863649,
     "wof:placetype":"venue",

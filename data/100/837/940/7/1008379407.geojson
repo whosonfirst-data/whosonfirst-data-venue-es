@@ -2,6 +2,10 @@
   "id": 1008379407,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Cuarta, 32 Madrid Madrid 28016",
+    "addr:housenumber":"32",
+    "addr:postcode":"madrid;28016",
+    "addr:street":"Calle De Cuarta",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008379407,
-    "wof:lastmodified":1472624737,
+    "wof:lastmodified":1472769522,
     "wof:name":"Rodriguez Garcia Luis",
     "wof:parent_id":85863599,
     "wof:placetype":"venue",

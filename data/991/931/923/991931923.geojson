@@ -2,6 +2,10 @@
   "id": 991931923,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Barcelona, 99 S. Joan Despi Barcelona 08970",
+    "addr:housenumber":"99",
+    "addr:postcode":"08970",
+    "addr:street":"Av Barcelona;S. Joan Despi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991931923,
-    "wof:lastmodified":1472579024,
+    "wof:lastmodified":1472770650,
     "wof:name":"Iberica De Manipulados Y Cartonajes S.a.",
     "wof:parent_id":85799591,
     "wof:placetype":"venue",

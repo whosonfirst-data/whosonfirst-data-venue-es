@@ -2,6 +2,10 @@
   "id": 1008361785,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Balmes, 334 Barcelona Barcelona 08006",
+    "addr:housenumber":"334",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Balmes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008361785,
-    "wof:lastmodified":1472624011,
+    "wof:lastmodified":1472767417,
     "wof:name":"Ripolles Vicent Juan Vicente",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

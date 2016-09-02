@@ -2,6 +2,10 @@
   "id": 991510997,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Coure, 80 Femades Barcelona 08940",
+    "addr:housenumber":"80",
+    "addr:postcode":"08940",
+    "addr:street":"Carrer De Coure;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991510997,
-    "wof:lastmodified":1472554935,
+    "wof:lastmodified":1472770158,
     "wof:name":"Disprone S. A.",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",

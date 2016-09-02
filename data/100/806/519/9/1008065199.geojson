@@ -2,6 +2,10 @@
   "id": 1008065199,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de El Tato, 22 Madrid Madrid 28043",
+    "addr:housenumber":"22",
+    "addr:postcode":"madrid;28043",
+    "addr:street":"Calle De El Tato",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008065199,
-    "wof:lastmodified":1472597963,
+    "wof:lastmodified":1472768573,
     "wof:name":"Mundispan S.r.l.",
     "wof:parent_id":85799193,
     "wof:placetype":"venue",

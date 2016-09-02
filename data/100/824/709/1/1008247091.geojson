@@ -2,6 +2,10 @@
   "id": 1008247091,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Aribau, 268 Barcelona Barcelona 08006",
+    "addr:housenumber":"268",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Aribau",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008247091,
-    "wof:lastmodified":1472615783,
+    "wof:lastmodified":1472769088,
     "wof:name":"Pitarch Soligo Manuel",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

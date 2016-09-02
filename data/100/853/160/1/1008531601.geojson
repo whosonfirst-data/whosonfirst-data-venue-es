@@ -2,6 +2,10 @@
   "id": 1008531601,
   "type": "Feature",
   "properties": {
+    "addr:full":"G.v. Corts Catalanes, 312 Barcelona Barcelona 08004",
+    "addr:housenumber":"312",
+    "addr:postcode":"08004",
+    "addr:street":"Catalanes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008531601,
-    "wof:lastmodified":1472631322,
+    "wof:lastmodified":1472767159,
     "wof:name":"Sisto Rovira Joaquin",
     "wof:parent_id":85864039,
     "wof:placetype":"venue",

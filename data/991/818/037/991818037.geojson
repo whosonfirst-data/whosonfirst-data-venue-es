@@ -2,6 +2,10 @@
   "id": 991818037,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Aribau, 262 Barcelona Barcelona 08006",
+    "addr:housenumber":"262",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Aribau",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991818037,
-    "wof:lastmodified":1472572928,
+    "wof:lastmodified":1472770280,
     "wof:name":"Gonzalez Alonso Manuela",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

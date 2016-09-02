@@ -2,6 +2,10 @@
   "id": 990916673,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Moratalaz, 78 Madrid Madrid 28030",
+    "addr:housenumber":"78",
+    "addr:postcode":"madrid;28030",
+    "addr:street":"Avda Moratalaz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990916673,
-    "wof:lastmodified":1472510163,
+    "wof:lastmodified":1472767438,
     "wof:name":"Aladiumsoft S. L.",
     "wof:parent_id":85863715,
     "wof:placetype":"venue",

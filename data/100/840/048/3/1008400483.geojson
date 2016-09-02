@@ -2,6 +2,10 @@
   "id": 1008400483,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Urgell, 27 Manresa Barcelona 08241",
+    "addr:housenumber":"27",
+    "addr:postcode":"08241",
+    "addr:street":"Carrer De Urgell",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008400483,
-    "wof:lastmodified":1472625730,
+    "wof:lastmodified":1472766883,
     "wof:name":"Romero Lopez Purificacion",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008196789,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Pere, 16 Sabadell Barcelona 08201",
+    "addr:housenumber":"16",
+    "addr:postcode":"08201",
+    "addr:street":"Carrer De Sant Pere",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008196789,
-    "wof:lastmodified":1472608827,
+    "wof:lastmodified":1472768948,
     "wof:name":"Peig Moner Pedro",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

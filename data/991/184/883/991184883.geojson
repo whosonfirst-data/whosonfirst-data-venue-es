@@ -2,6 +2,10 @@
   "id": 991184883,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Cardenal Cisneros, 23 Madrid Madrid 28010",
+    "addr:housenumber":"23",
+    "addr:postcode":"madrid;28010",
+    "addr:street":"Calle De Cardenal Cisneros",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991184883,
-    "wof:lastmodified":1472535307,
+    "wof:lastmodified":1472768146,
     "wof:name":"Building Invisa S.l.",
     "wof:parent_id":85863661,
     "wof:placetype":"venue",

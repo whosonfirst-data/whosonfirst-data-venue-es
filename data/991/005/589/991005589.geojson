@@ -2,6 +2,10 @@
   "id": 991005589,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Cos, 13 Manresa Barcelona 08241",
+    "addr:housenumber":"13",
+    "addr:postcode":"08241",
+    "addr:street":"Carrer De Cos",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":991005589,
-    "wof:lastmodified":1472519498,
+    "wof:lastmodified":1472766865,
     "wof:name":"Armengol Sanchez Montserrat",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

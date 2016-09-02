@@ -2,6 +2,10 @@
   "id": 1008402123,
   "type": "Feature",
   "properties": {
+    "addr:full":"C/ Sant Antoni, 48 Cerdanyola Valles Barcelona 08290",
+    "addr:housenumber":"48",
+    "addr:postcode":"08290",
+    "addr:street":"C / Sant Antoni;Valles Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":1008402123,
-    "wof:lastmodified":1472625788,
+    "wof:lastmodified":1472767574,
     "wof:name":"Romero Sanchez Elio",
     "wof:parent_id":85799639,
     "wof:placetype":"venue",

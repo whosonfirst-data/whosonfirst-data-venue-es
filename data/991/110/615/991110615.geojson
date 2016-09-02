@@ -2,6 +2,10 @@
   "id": 991110615,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Huelva, 78 Barcelona Barcelona 08020",
+    "addr:housenumber":"78",
+    "addr:postcode":"08020",
+    "addr:street":"Carrer De Huelva",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991110615,
-    "wof:lastmodified":1472527614,
+    "wof:lastmodified":1472767373,
     "wof:name":"Barcia Bordunyas Pilar",
     "wof:parent_id":85864003,
     "wof:placetype":"venue",

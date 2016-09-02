@@ -2,6 +2,10 @@
   "id": 1008444611,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Valencia, 279 Barcelona Barcelona 08009",
+    "addr:housenumber":"279",
+    "addr:postcode":"08009",
+    "addr:street":"Carrer De Valencia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008444611,
-    "wof:lastmodified":1472627741,
+    "wof:lastmodified":1472768460,
     "wof:name":"Sampietro Villacampa Luis",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

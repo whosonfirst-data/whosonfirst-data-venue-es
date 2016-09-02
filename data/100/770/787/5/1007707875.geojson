@@ -2,6 +2,10 @@
   "id": 1007707875,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Pere Mitja, 24 Barcelona Barcelona 08003",
+    "addr:housenumber":"24",
+    "addr:postcode":"08003",
+    "addr:street":"Carrer De Sant;Mitja",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007707875,
-    "wof:lastmodified":1472581353,
+    "wof:lastmodified":1472769251,
     "wof:name":"Iobal  Muzaffar",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",

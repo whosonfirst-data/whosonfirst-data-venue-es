@@ -2,6 +2,10 @@
   "id": 991723189,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Balmes, 55 Pineda Mar Barcelona 08397",
+    "addr:housenumber":"55",
+    "addr:postcode":"08397",
+    "addr:street":"Carrer De Balmes;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991723189,
-    "wof:lastmodified":1472566624,
+    "wof:lastmodified":1472770272,
     "wof:name":"Gallardo Gallardo Francisco",
     "wof:parent_id":85799549,
     "wof:placetype":"venue",

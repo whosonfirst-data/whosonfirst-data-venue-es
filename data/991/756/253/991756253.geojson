@@ -2,6 +2,10 @@
   "id": 991756253,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Sierra Vieja, 67 Madrid Madrid 28031",
+    "addr:housenumber":"67",
+    "addr:postcode":"madrid;28031",
+    "addr:street":"Calle De Sierra Vieja",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991756253,
-    "wof:lastmodified":1472568813,
+    "wof:lastmodified":1472770287,
     "wof:name":"Garcia Naranjo Marcelo",
     "wof:parent_id":85863725,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008251609,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Viladomat, 25 Barcelona Barcelona 08015",
+    "addr:housenumber":"25",
+    "addr:postcode":"08015",
+    "addr:street":"Carrer De Viladomat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008251609,
-    "wof:lastmodified":1472616081,
+    "wof:lastmodified":1472767270,
     "wof:name":"Pla Puerto Sara",
     "wof:parent_id":85864037,
     "wof:placetype":"venue",

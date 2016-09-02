@@ -2,6 +2,10 @@
   "id": 1007740645,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Pons I Gallarza, 67 Barcelona Barcelona 08030",
+    "addr:housenumber":"67",
+    "addr:postcode":"08030",
+    "addr:street":"Carrer De Pons;Gallarza",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007740645,
-    "wof:lastmodified":1472583155,
+    "wof:lastmodified":1472766875,
     "wof:name":"Jordi Bernet Cusso S.c.p.",
     "wof:parent_id":85863995,
     "wof:placetype":"venue",

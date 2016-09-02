@@ -2,6 +2,10 @@
   "id": 991873693,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Sandoval, 23 Madrid Madrid 28010",
+    "addr:housenumber":"23",
+    "addr:postcode":"madrid;28010",
+    "addr:street":"Calle De Sandoval",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991873693,
-    "wof:lastmodified":1472576107,
+    "wof:lastmodified":1472770595,
     "wof:name":"Gutierrez Redondo Emilia",
     "wof:parent_id":85863659,
     "wof:placetype":"venue",

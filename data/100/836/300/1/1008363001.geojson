@@ -2,6 +2,10 @@
   "id": 1008363001,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Laforja, 140 Barcelona Barcelona 08021",
+    "addr:housenumber":"140",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De Laforja",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008363001,
-    "wof:lastmodified":1472624066,
+    "wof:lastmodified":1472767911,
     "wof:name":"Rius Sorribes Jorge",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",

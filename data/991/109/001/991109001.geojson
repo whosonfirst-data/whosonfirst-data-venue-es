@@ -2,6 +2,10 @@
   "id": 991109001,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Oporto, 25 Madrid Madrid 28019",
+    "addr:housenumber":"25",
+    "addr:postcode":"madrid;28019",
+    "addr:street":"Avda Oporto",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991109001,
-    "wof:lastmodified":1472527498,
+    "wof:lastmodified":1472767076,
     "wof:name":"Barbero Garcia Pedro",
     "wof:parent_id":85863759,
     "wof:placetype":"venue",

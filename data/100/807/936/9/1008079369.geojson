@@ -2,6 +2,10 @@
   "id": 1008079369,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Llibertat, 38 Prat Llobregat Barcelona 08820",
+    "addr:housenumber":"38",
+    "addr:postcode":"08820",
+    "addr:street":"Av Llibertat;Llobregat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008079369,
-    "wof:lastmodified":1472598606,
+    "wof:lastmodified":1472769446,
     "wof:name":"Naranjo Paz Francisca",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",

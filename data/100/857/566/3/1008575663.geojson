@@ -2,6 +2,10 @@
   "id": 1008575663,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Maresme, 123 Barcelona Barcelona 08019",
+    "addr:housenumber":"123",
+    "addr:postcode":"08019",
+    "addr:street":"Carrer De Maresme",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008575663,
-    "wof:lastmodified":1472633203,
+    "wof:lastmodified":1472768759,
     "wof:name":"Suris S.a.",
     "wof:parent_id":85864011,
     "wof:placetype":"venue",

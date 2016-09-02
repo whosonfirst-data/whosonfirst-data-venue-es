@@ -2,6 +2,10 @@
   "id": 1008188609,
   "type": "Feature",
   "properties": {
+    "addr:full":"Pl Alfons El Savi, 8 Barcelona Barcelona 08024",
+    "addr:housenumber":"8",
+    "addr:postcode":"08024",
+    "addr:street":"Pl;El Savi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008188609,
-    "wof:lastmodified":1472606941,
+    "wof:lastmodified":1472769307,
     "wof:name":"Patau Espech Christiam",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991291845,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Bailen, 169 Barcelona Barcelona 08037",
+    "addr:housenumber":"169",
+    "addr:postcode":"08037",
+    "addr:street":"Carrer De Bailen",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991291845,
-    "wof:lastmodified":1472542272,
+    "wof:lastmodified":1472769882,
     "wof:name":"Castells Nat Montserrat",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

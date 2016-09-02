@@ -2,6 +2,10 @@
   "id": 1024496143,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Doctor Trueta, 162 Barcelona Barcelona 08005",
+    "addr:housenumber":"162",
+    "addr:postcode":"08005",
+    "addr:street":"Carrer De Doctor Trueta",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1024496143,
-    "wof:lastmodified":1472641455,
+    "wof:lastmodified":1472768667,
     "wof:name":"Zurilla Martinez Elisenda",
     "wof:parent_id":85799265,
     "wof:placetype":"venue",

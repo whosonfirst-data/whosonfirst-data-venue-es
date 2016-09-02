@@ -2,6 +2,10 @@
   "id": 991523027,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Bruselas, 42 Madrid Madrid 28028",
+    "addr:housenumber":"42",
+    "addr:postcode":"madrid;28028",
+    "addr:street":"Avda Bruselas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991523027,
-    "wof:lastmodified":1472555589,
+    "wof:lastmodified":1472769889,
     "wof:name":"Dominguez Martinez Luis",
     "wof:parent_id":85863643,
     "wof:placetype":"venue",

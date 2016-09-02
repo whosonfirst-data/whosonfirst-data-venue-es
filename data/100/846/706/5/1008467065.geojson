@@ -2,6 +2,10 @@
   "id": 1008467065,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Carretes, 60 Barcelona Barcelona 08001",
+    "addr:housenumber":"60",
+    "addr:postcode":"08001",
+    "addr:street":"Carrer De Carretes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008467065,
-    "wof:lastmodified":1472628588,
+    "wof:lastmodified":1472769002,
     "wof:name":"San Felipe Garijo Aranzazu",
     "wof:parent_id":85864035,
     "wof:placetype":"venue",

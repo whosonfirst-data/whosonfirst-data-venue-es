@@ -2,6 +2,10 @@
   "id": 1007811353,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Vinya, 33 Barcelona Barcelona 08041",
+    "addr:housenumber":"33",
+    "addr:postcode":"08041",
+    "addr:street":"Carrer De Vinya",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007811353,
-    "wof:lastmodified":1472586917,
+    "wof:lastmodified":1472767180,
     "wof:name":"Link Comunicaciones S. A.",
     "wof:parent_id":85863997,
     "wof:placetype":"venue",

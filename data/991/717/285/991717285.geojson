@@ -2,6 +2,10 @@
   "id": 991717285,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Diego De Leon, 35 Madrid Madrid 28006",
+    "addr:housenumber":"35",
+    "addr:postcode":"madrid;28006",
+    "addr:street":"Calle De Diego De Leon",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991717285,
-    "wof:lastmodified":1472566343,
+    "wof:lastmodified":1472770256,
     "wof:name":"Gabriel Martinez Milagros",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",

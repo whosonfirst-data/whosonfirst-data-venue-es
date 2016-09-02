@@ -2,6 +2,10 @@
   "id": 1008275287,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Aribau, 233 Barcelona Barcelona 08021",
+    "addr:housenumber":"233",
+    "addr:postcode":"08021",
+    "addr:street":"Carrer De Aribau",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008275287,
-    "wof:lastmodified":1472617357,
+    "wof:lastmodified":1472768631,
     "wof:name":"Priu Urgelles Ana",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

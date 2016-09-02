@@ -2,6 +2,10 @@
   "id": 1008000025,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Pelayo, 14 Madrid Madrid 28004",
+    "addr:housenumber":"14",
+    "addr:postcode":"madrid;28004",
+    "addr:street":"Calle De Pelayo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008000025,
-    "wof:lastmodified":1472595197,
+    "wof:lastmodified":1472766659,
     "wof:name":"Millon Guillen Francisca",
     "wof:parent_id":85863791,
     "wof:placetype":"venue",

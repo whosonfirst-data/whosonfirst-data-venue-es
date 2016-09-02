@@ -2,6 +2,10 @@
   "id": 991391509,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Julio Antonio, 9 Madrid Madrid 28025",
+    "addr:housenumber":"9",
+    "addr:postcode":"madrid;28025",
+    "addr:street":"Calle De Julio Antonio",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991391509,
-    "wof:lastmodified":1472548195,
+    "wof:lastmodified":1472769711,
     "wof:name":"Comunicaciones Munsat S.l.",
     "wof:parent_id":85863761,
     "wof:placetype":"venue",

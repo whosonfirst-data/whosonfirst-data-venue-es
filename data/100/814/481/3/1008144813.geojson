@@ -2,6 +2,10 @@
   "id": 1008144813,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Napols, 352 Barcelona Barcelona 08025",
+    "addr:housenumber":"352",
+    "addr:postcode":"08025",
+    "addr:street":"Carrer De Napols",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008144813,
-    "wof:lastmodified":1472601605,
+    "wof:lastmodified":1472768259,
     "wof:name":"Oter Rodriguez Ramon",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

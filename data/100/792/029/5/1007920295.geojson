@@ -2,6 +2,10 @@
   "id": 1007920295,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Chantada, 33 Madrid Madrid 28029",
+    "addr:housenumber":"33",
+    "addr:postcode":"madrid;28029",
+    "addr:street":"Calle De Chantada",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007920295,
-    "wof:lastmodified":1472591761,
+    "wof:lastmodified":1472766756,
     "wof:name":"Martinez Camino Francisco",
     "wof:parent_id":85799627,
     "wof:placetype":"venue",

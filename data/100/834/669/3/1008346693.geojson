@@ -2,6 +2,10 @@
   "id": 1008346693,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Alcala, 58 Madrid Madrid 28014",
+    "addr:housenumber":"58",
+    "addr:postcode":"madrid;28014",
+    "addr:street":"Calle De Alcala",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1008346693,
-    "wof:lastmodified":1472623356,
+    "wof:lastmodified":1472768960,
     "wof:name":"Restaurante Club 31 S.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

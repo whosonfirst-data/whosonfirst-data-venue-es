@@ -2,6 +2,10 @@
   "id": 991767225,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Pons I Gallarza, 95 Barcelona Barcelona 08030",
+    "addr:housenumber":"95",
+    "addr:postcode":"08030",
+    "addr:street":"Carrer De Pons;Gallarza",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991767225,
-    "wof:lastmodified":1472569440,
+    "wof:lastmodified":1472770285,
     "wof:name":"Garcia Zugasti Francisco Javier",
     "wof:parent_id":85863995,
     "wof:placetype":"venue",

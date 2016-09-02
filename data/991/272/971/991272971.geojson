@@ -2,6 +2,10 @@
   "id": 991272971,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Alberto Aguilera, 62 Madrid Madrid 28015",
+    "addr:housenumber":"62",
+    "addr:postcode":"madrid;28015",
+    "addr:street":"Calle De Alberto Aguilera",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991272971,
-    "wof:lastmodified":1472541399,
+    "wof:lastmodified":1472769465,
     "wof:name":"Carrera Ayuso Enrique",
     "wof:parent_id":85863655,
     "wof:placetype":"venue",

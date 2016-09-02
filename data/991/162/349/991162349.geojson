@@ -2,6 +2,10 @@
   "id": 991162349,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Santa Leonor, 65 Madrid Madrid 28037",
+    "addr:housenumber":"65",
+    "addr:postcode":"madrid;28037",
+    "addr:street":"Calle De Santa Leonor",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991162349,
-    "wof:lastmodified":1472533507,
+    "wof:lastmodified":1472767615,
     "wof:name":"Bodegas Vinartis",
     "wof:parent_id":85863641,
     "wof:placetype":"venue",

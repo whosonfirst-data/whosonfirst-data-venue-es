@@ -2,6 +2,10 @@
   "id": 991519145,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Lagasca, 38 Madrid Madrid 28001",
+    "addr:housenumber":"38",
+    "addr:postcode":"madrid;28001",
+    "addr:street":"Calle De Lagasca",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991519145,
-    "wof:lastmodified":1472555370,
+    "wof:lastmodified":1472769929,
     "wof:name":"Dombriz Garcia Domingo",
     "wof:parent_id":85863809,
     "wof:placetype":"venue",

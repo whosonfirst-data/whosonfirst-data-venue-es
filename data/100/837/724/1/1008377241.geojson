@@ -2,6 +2,10 @@
   "id": 1008377241,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Embajadores, 58 Madrid Madrid 28012",
+    "addr:housenumber":"58",
+    "addr:postcode":"madrid;28012",
+    "addr:street":"Calle De Embajadores",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008377241,
-    "wof:lastmodified":1472624655,
+    "wof:lastmodified":1472769059,
     "wof:name":"Rodriguez Dios Marco Antonio",
     "wof:parent_id":85863793,
     "wof:placetype":"venue",

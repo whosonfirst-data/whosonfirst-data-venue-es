@@ -2,6 +2,10 @@
   "id": 1008400703,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Talgo, 228 Madrid Madrid 28023",
+    "addr:housenumber":"228",
+    "addr:postcode":"28023",
+    "addr:street":"Avda Talgo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008400703,
-    "wof:lastmodified":1472625737,
+    "wof:lastmodified":1472766945,
     "wof:name":"Romero Martinez Javier",
     "wof:parent_id":85799153,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008586001,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Hermandad, 23 Madrid Madrid 28025",
+    "addr:housenumber":"23",
+    "addr:postcode":"madrid;28025",
+    "addr:street":"Calle De Hermandad",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008586001,
-    "wof:lastmodified":1472633604,
+    "wof:lastmodified":1472768746,
     "wof:name":"Talleres F.j.m. C.b.",
     "wof:parent_id":85863761,
     "wof:placetype":"venue",

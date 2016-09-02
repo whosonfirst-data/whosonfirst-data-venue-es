@@ -2,6 +2,10 @@
   "id": 991484871,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Gorrion, 60 Madrid Madrid 28019",
+    "addr:housenumber":"60",
+    "addr:postcode":"madrid;28019",
+    "addr:street":"Calle De Gorrion",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991484871,
-    "wof:lastmodified":1472553610,
+    "wof:lastmodified":1472770127,
     "wof:name":"De Miguel Zacarias Alberto",
     "wof:parent_id":85863763,
     "wof:placetype":"venue",

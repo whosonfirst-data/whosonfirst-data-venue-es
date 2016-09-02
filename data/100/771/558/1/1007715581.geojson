@@ -2,6 +2,10 @@
   "id": 1007715581,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Balmes, 152 Barcelona Barcelona 08008",
+    "addr:housenumber":"152",
+    "addr:postcode":"08008",
+    "addr:street":"Carrer De Balmes",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007715581,
-    "wof:lastmodified":1472581737,
+    "wof:lastmodified":1472768572,
     "wof:name":"Izquierdo Boquera Carlos",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

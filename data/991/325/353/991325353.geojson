@@ -2,6 +2,10 @@
   "id": 991325353,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ctra Barcelona, 137 Cerdanyola Valles Barcelona 08290",
+    "addr:housenumber":"137",
+    "addr:postcode":"08290",
+    "addr:street":"Ctra Barcelona;Valles Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":991325353,
-    "wof:lastmodified":1472543818,
+    "wof:lastmodified":1472769692,
     "wof:name":"Ceriauto S.a.",
     "wof:parent_id":85799639,
     "wof:placetype":"venue",

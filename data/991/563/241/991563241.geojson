@@ -2,6 +2,10 @@
   "id": 991563241,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Daroca, 90 Madrid Madrid 28...",
+    "addr:housenumber":"90;28 ...",
+    "addr:postcode":"madrid",
+    "addr:street":"Avda Daroca;Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991563241,
-    "wof:lastmodified":1472557867,
+    "wof:lastmodified":1472769976,
     "wof:name":"Empresa Mixta De Servicios Funerarios De Madrid S.a.",
     "wof:parent_id":85863695,
     "wof:placetype":"venue",

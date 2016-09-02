@@ -2,6 +2,10 @@
   "id": 1007780459,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Puerto Del Monasterio, 13 Madrid Madrid 28053",
+    "addr:housenumber":"13",
+    "addr:postcode":"madrid;28053",
+    "addr:street":"Calle De Puerto Del Monasterio",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007780459,
-    "wof:lastmodified":1472585247,
+    "wof:lastmodified":1472766818,
     "wof:name":"Laguna Ortiz Angel",
     "wof:parent_id":85799491,
     "wof:placetype":"venue",

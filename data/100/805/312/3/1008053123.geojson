@@ -2,6 +2,10 @@
   "id": 1008053123,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Orovilla, 10 Madrid Madrid 28041",
+    "addr:housenumber":"10",
+    "addr:postcode":"madrid;28041",
+    "addr:street":"Avda Orovilla",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008053123,
-    "wof:lastmodified":1472597457,
+    "wof:lastmodified":1472767986,
     "wof:name":"Motor Sur 2000",
     "wof:parent_id":85863749,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008466957,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Victor Andres Belaunde, 48 Madrid Madrid 28016",
+    "addr:housenumber":"48",
+    "addr:postcode":"madrid;28016",
+    "addr:street":"Calle De Victor Andres Belaunde",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008466957,
-    "wof:lastmodified":1472628585,
+    "wof:lastmodified":1472769008,
     "wof:name":"San Emeterio Pila Eduardo",
     "wof:parent_id":85799237,
     "wof:placetype":"venue",

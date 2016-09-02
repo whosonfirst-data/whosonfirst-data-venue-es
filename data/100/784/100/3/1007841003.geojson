@@ -2,6 +2,10 @@
   "id": 1007841003,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Monte Igueldo, 19 Madrid Madrid 28053",
+    "addr:housenumber":"19",
+    "addr:postcode":"madrid;28053",
+    "addr:street":"Avda Monte Igueldo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007841003,
-    "wof:lastmodified":1472588260,
+    "wof:lastmodified":1472767061,
     "wof:name":"Lopez Moreno Jesus",
     "wof:parent_id":85799491,
     "wof:placetype":"venue",

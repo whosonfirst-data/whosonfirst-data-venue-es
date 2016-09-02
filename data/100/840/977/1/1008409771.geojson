@@ -2,6 +2,10 @@
   "id": 1008409771,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Torrijos, 10 Barcelona Barcelona 08012",
+    "addr:housenumber":"10",
+    "addr:postcode":"08012",
+    "addr:street":"Carrer De Torrijos",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008409771,
-    "wof:lastmodified":1472626237,
+    "wof:lastmodified":1472769433,
     "wof:name":"Roura Pie Montserrat",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

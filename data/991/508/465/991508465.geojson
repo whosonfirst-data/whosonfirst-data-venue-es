@@ -2,6 +2,10 @@
   "id": 991508465,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Luis Claudio, 52 Madrid Madrid 28044",
+    "addr:housenumber":"52",
+    "addr:postcode":"madrid;28044",
+    "addr:street":"Calle De Luis Claudio",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991508465,
-    "wof:lastmodified":1472554813,
+    "wof:lastmodified":1472769972,
     "wof:name":"Direccion Integral De Obras.s.l",
     "wof:parent_id":85863787,
     "wof:placetype":"venue",

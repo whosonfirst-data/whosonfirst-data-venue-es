@@ -2,6 +2,10 @@
   "id": 1008028833,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Llull, 187 Barcelona Barcelona 08005",
+    "addr:housenumber":"187",
+    "addr:postcode":"08005",
+    "addr:street":"Carrer De Llull",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008028833,
-    "wof:lastmodified":1472596435,
+    "wof:lastmodified":1472769232,
     "wof:name":"Montelongo Martin Maria Delia",
     "wof:parent_id":85799265,
     "wof:placetype":"venue",

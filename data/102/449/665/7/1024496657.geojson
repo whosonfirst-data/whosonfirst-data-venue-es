@@ -2,6 +2,10 @@
   "id": 1024496657,
   "type": "Feature",
   "properties": {
+    "addr:full":"Via augusta 456 Barcelona 08012",
+    "addr:housenumber":"456",
+    "addr:postcode":"08012",
+    "addr:street":"Via Augusta",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1024496657,
-    "wof:lastmodified":1472641476,
+    "wof:lastmodified":1472768766,
     "wof:name":"Emarketing & Com",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

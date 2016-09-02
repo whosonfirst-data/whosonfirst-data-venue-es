@@ -2,6 +2,10 @@
   "id": 991693267,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Montera, 14 Madrid Madrid 28013",
+    "addr:housenumber":"14",
+    "addr:postcode":"madrid;28013",
+    "addr:street":"Calle De Montera",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991693267,
-    "wof:lastmodified":1472565151,
+    "wof:lastmodified":1472770270,
     "wof:name":"Fraternidad De Carabineros",
     "wof:parent_id":85863685,
     "wof:placetype":"venue",

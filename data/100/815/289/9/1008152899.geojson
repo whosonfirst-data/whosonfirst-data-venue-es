@@ -2,6 +2,10 @@
   "id": 1008152899,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Rodriguez San Pedro, 62 Madrid Madrid 28015",
+    "addr:housenumber":"62",
+    "addr:postcode":"madrid;28015",
+    "addr:street":"Calle De Rodriguez San Pedro",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008152899,
-    "wof:lastmodified":1472601962,
+    "wof:lastmodified":1472767837,
     "wof:name":"Palacios Perdiguero Alberto",
     "wof:parent_id":85863655,
     "wof:placetype":"venue",

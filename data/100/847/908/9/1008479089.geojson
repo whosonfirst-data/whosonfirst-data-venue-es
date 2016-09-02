@@ -2,6 +2,10 @@
   "id": 1008479089,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Saragossa, 32 Barcelona Barcelona 08006",
+    "addr:housenumber":"32",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Saragossa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008479089,
-    "wof:lastmodified":1472629082,
+    "wof:lastmodified":1472769463,
     "wof:name":"Sanz Cid Alfonso",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

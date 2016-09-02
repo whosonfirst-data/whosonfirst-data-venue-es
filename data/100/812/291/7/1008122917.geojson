@@ -2,6 +2,10 @@
   "id": 1008122917,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Muntaner, 172 Barcelona Barcelona 08036",
+    "addr:housenumber":"172",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Muntaner",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008122917,
-    "wof:lastmodified":1472600552,
+    "wof:lastmodified":1472767967,
     "wof:name":"Oller Montfort Florencio",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",

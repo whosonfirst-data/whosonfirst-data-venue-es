@@ -2,6 +2,10 @@
   "id": 1008705801,
   "type": "Feature",
   "properties": {
+    "addr:full":"C/ Sant Marti, 59 Cerdanyola Valles Barcelona 08290",
+    "addr:housenumber":"59",
+    "addr:postcode":"08290",
+    "addr:street":"C / Sant Marti;Valles Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008705801,
-    "wof:lastmodified":1472638788,
+    "wof:lastmodified":1472768768,
     "wof:name":"Ventura Hernandez S.a.",
     "wof:parent_id":85799639,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991887699,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Naves, 24 Madrid Madrid 28005",
+    "addr:housenumber":"24",
+    "addr:postcode":"madrid;28005",
+    "addr:street":"Calle De Naves",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":991887699,
-    "wof:lastmodified":1472576872,
+    "wof:lastmodified":1472770574,
     "wof:name":"Hermanos Gila S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

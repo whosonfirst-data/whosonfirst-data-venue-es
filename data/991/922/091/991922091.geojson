@@ -2,6 +2,10 @@
   "id": 991922091,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Serrano, 199 Madrid Madrid 28...",
+    "addr:housenumber":"199;28 ...",
+    "addr:postcode":"",
+    "addr:street":"Calle De Serrano;Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991922091,
-    "wof:lastmodified":1472578562,
+    "wof:lastmodified":1472770631,
     "wof:name":"Hospital Infantil San Rafael-orden Hospitalaria San Juan De Dios",
     "wof:parent_id":85863651,
     "wof:placetype":"venue",

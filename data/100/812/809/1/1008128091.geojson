@@ -2,6 +2,10 @@
   "id": 1008128091,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Feijoo, 12 Madrid Madrid 28010",
+    "addr:housenumber":"12",
+    "addr:postcode":"madrid;28010",
+    "addr:street":"Calle De Feijoo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008128091,
-    "wof:lastmodified":1472600878,
+    "wof:lastmodified":1472769153,
     "wof:name":"Optica Quevedo C.b.",
     "wof:parent_id":85863661,
     "wof:placetype":"venue",

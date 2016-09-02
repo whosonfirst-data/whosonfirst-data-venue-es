@@ -2,6 +2,10 @@
   "id": 991038923,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Reina, 33 Madrid Madrid 28004",
+    "addr:housenumber":"33",
+    "addr:postcode":"madrid;28004",
+    "addr:street":"Calle De Reina",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991038923,
-    "wof:lastmodified":1472522110,
+    "wof:lastmodified":1472766967,
     "wof:name":"Asociacion Nacional De Ingenieros Del Icai",
     "wof:parent_id":85863791,
     "wof:placetype":"venue",

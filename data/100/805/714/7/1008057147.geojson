@@ -2,6 +2,10 @@
   "id": 1008057147,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Madrid, 119 Zaragoza Zaragoza 50010",
+    "addr:housenumber":"119",
+    "addr:postcode":"50010",
+    "addr:street":"Avda Madrid",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008057147,
-    "wof:lastmodified":1472597621,
+    "wof:lastmodified":1472768992,
     "wof:name":"M.s. Viajes S.a.",
     "wof:parent_id":85863345,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991109017,
   "type": "Feature",
   "properties": {
+    "addr:full":"Plaz General Vara De Rey, 14 Madrid Madrid 28005",
+    "addr:housenumber":"14",
+    "addr:postcode":"madrid;28005",
+    "addr:street":"Vara;Rey",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991109017,
-    "wof:lastmodified":1472527500,
+    "wof:lastmodified":1472767085,
     "wof:name":"Barbero Gonzalez Antonio",
     "wof:parent_id":85863793,
     "wof:placetype":"venue",

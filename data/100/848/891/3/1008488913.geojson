@@ -2,6 +2,10 @@
   "id": 1008488913,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Coll Del Portell, 25 Barcelona Barcelona 08024",
+    "addr:housenumber":"25",
+    "addr:postcode":"08024",
+    "addr:street":"Av Coll Del Portell",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008488913,
-    "wof:lastmodified":1472629498,
+    "wof:lastmodified":1472769269,
     "wof:name":"Scp Convident",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

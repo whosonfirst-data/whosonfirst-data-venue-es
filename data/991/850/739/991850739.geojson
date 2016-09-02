@@ -2,6 +2,10 @@
   "id": 991850739,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Manoteras, 22 Madrid Madrid 28050",
+    "addr:housenumber":"22",
+    "addr:postcode":"madrid;28050",
+    "addr:street":"Avda Manoteras",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991850739,
-    "wof:lastmodified":1472574839,
+    "wof:lastmodified":1472770525,
     "wof:name":"Gresalba S.a.",
     "wof:parent_id":85863575,
     "wof:placetype":"venue",

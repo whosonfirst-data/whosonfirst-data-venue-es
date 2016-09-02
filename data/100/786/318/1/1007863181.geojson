@@ -2,6 +2,10 @@
   "id": 1007863181,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Toledo, 35 Madrid Madrid 28005",
+    "addr:housenumber":"35",
+    "addr:postcode":"madrid;28005",
+    "addr:street":"Calle De Toledo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1007863181,
-    "wof:lastmodified":1472589377,
+    "wof:lastmodified":1472767962,
     "wof:name":"Mabby Futuro S.l",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008038927,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Jesus Del Gran Poder, 42 Madrid Madrid 28026",
+    "addr:housenumber":"42",
+    "addr:postcode":"madrid;28026",
+    "addr:street":"Calle De Jesus Del Gran Poder",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008038927,
-    "wof:lastmodified":1472596844,
+    "wof:lastmodified":1472769279,
     "wof:name":"Moran Arias Lazaro",
     "wof:parent_id":85863749,
     "wof:placetype":"venue",

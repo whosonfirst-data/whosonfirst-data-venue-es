@@ -2,6 +2,10 @@
   "id": 991357925,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Toledo, 62 Madrid Madrid 28005",
+    "addr:housenumber":"62",
+    "addr:postcode":"madrid;28005",
+    "addr:street":"Calle De Toledo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991357925,
-    "wof:lastmodified":1472545662,
+    "wof:lastmodified":1472769846,
     "wof:name":"Coderque Panadero Antonio",
     "wof:parent_id":85863775,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1008455141,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Maresme, 50 Barcelona Barcelona 08019",
+    "addr:housenumber":"50",
+    "addr:postcode":"08019",
+    "addr:street":"Carrer De Maresme",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008455141,
-    "wof:lastmodified":1472628130,
+    "wof:lastmodified":1472768478,
     "wof:name":"Sanchez Mandiola Manuel",
     "wof:parent_id":85864011,
     "wof:placetype":"venue",

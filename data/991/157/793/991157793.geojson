@@ -2,6 +2,10 @@
   "id": 991157793,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Villarroel, 221 Barcelona Barcelona 08036",
+    "addr:housenumber":"221",
+    "addr:postcode":"08036",
+    "addr:street":"Carrer De Villarroel",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991157793,
-    "wof:lastmodified":1472532863,
+    "wof:lastmodified":1472767801,
     "wof:name":"Blas Garrido Fernando",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",

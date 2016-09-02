@@ -2,6 +2,10 @@
   "id": 991105995,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Serrano Galvache, 20 Madrid Madrid 28033",
+    "addr:housenumber":"20",
+    "addr:postcode":"madrid;28033",
+    "addr:street":"Calle De Serrano Galvache",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991105995,
-    "wof:lastmodified":1472527247,
+    "wof:lastmodified":1472767459,
     "wof:name":"Bande Veiga Beatriz",
     "wof:parent_id":85863567,
     "wof:placetype":"venue",

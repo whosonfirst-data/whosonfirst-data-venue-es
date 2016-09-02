@@ -2,6 +2,10 @@
   "id": 991201937,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Recoletos, 23 Madrid Madrid 28001",
+    "addr:housenumber":"23",
+    "addr:postcode":"madrid;28001",
+    "addr:street":"Calle De Recoletos",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991201937,
-    "wof:lastmodified":1472536645,
+    "wof:lastmodified":1472768259,
     "wof:name":"Caixa D'estalvis De Catalunya",
     "wof:parent_id":85863809,
     "wof:placetype":"venue",

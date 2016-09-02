@@ -2,6 +2,10 @@
   "id": 1008221929,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Ramon Llull, 23 Santa Coloma De Gramenet Barcelona 08923",
+    "addr:housenumber":"23",
+    "addr:postcode":"08923",
+    "addr:street":"Carrer De Ramon Llull",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008221929,
-    "wof:lastmodified":1472613548,
+    "wof:lastmodified":1472767431,
     "wof:name":"Perez Rodriguez Virginio",
     "wof:parent_id":85799559,
     "wof:placetype":"venue",

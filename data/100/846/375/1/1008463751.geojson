@@ -2,6 +2,10 @@
   "id": 1008463751,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de San Bernardo, 35 Madrid Madrid 28015",
+    "addr:housenumber":"35",
+    "addr:postcode":"madrid;28015",
+    "addr:street":"Calle De San Bernardo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008463751,
-    "wof:lastmodified":1472628459,
+    "wof:lastmodified":1472768082,
     "wof:name":"Sanchez Villasante Maria Jesus",
     "wof:parent_id":85863667,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991044159,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Creu Roja, 17 Cerdanyola Valles Barcelona 08290",
+    "addr:housenumber":"17",
+    "addr:postcode":"08290",
+    "addr:street":"Av Creu Roja;Valles Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":991044159,
-    "wof:lastmodified":1472522503,
+    "wof:lastmodified":1472766712,
     "wof:name":"Associacio Catalana Per Al Parkinson",
     "wof:parent_id":85799639,
     "wof:placetype":"venue",

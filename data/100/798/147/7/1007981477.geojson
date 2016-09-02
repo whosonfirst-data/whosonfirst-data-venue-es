@@ -2,6 +2,10 @@
   "id": 1007981477,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Costa, 56 Gijon Asturias 33201",
+    "addr:housenumber":"56",
+    "addr:postcode":"33201",
+    "addr:street":"Avda Costa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007981477,
-    "wof:lastmodified":1472594411,
+    "wof:lastmodified":1472767106,
     "wof:name":"Menendez Rubiera Gonzalo",
     "wof:parent_id":85799415,
     "wof:placetype":"venue",

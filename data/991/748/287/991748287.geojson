@@ -2,6 +2,10 @@
   "id": 991748287,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Ramon Y Cajal, 132 Barcelona Barcelona 08024",
+    "addr:housenumber":"132",
+    "addr:postcode":"08024",
+    "addr:street":"Carrer De Ramon Y Cajal",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991748287,
-    "wof:lastmodified":1472568294,
+    "wof:lastmodified":1472770312,
     "wof:name":"Garcia Guerra Victoria",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

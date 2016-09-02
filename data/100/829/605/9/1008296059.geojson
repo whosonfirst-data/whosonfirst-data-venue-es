@@ -2,6 +2,10 @@
   "id": 1008296059,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Catalunya, 120 Prat Llobregat Barcelona 08820",
+    "addr:housenumber":"120",
+    "addr:postcode":"08820",
+    "addr:street":"Carrer De Catalunya;Llobregat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008296059,
-    "wof:lastmodified":1472618679,
+    "wof:lastmodified":1472768654,
     "wof:name":"Puigvert Ribes Montserrat",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",

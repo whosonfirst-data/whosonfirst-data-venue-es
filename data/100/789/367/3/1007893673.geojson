@@ -2,6 +2,10 @@
   "id": 1007893673,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Villaviciosa, 46 Madrid Madrid 28024",
+    "addr:housenumber":"46",
+    "addr:postcode":"madrid;28024",
+    "addr:street":"Calle De Villaviciosa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007893673,
-    "wof:lastmodified":1472590587,
+    "wof:lastmodified":1472768173,
     "wof:name":"Marconfa Gestion S.l.",
     "wof:parent_id":85863817,
     "wof:placetype":"venue",

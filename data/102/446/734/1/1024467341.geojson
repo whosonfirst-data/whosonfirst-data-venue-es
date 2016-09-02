@@ -2,6 +2,10 @@
   "id": 1024467341,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Alberto Alcocer, 27 Madrid Madrid 28036",
+    "addr:housenumber":"27",
+    "addr:postcode":"madrid;28036",
+    "addr:street":"Alberto Alcocer",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1024467341,
-    "wof:lastmodified":1472640228,
+    "wof:lastmodified":1472768925,
     "wof:name":"Vinuesa Palomo Esperanza",
     "wof:parent_id":85799237,
     "wof:placetype":"venue",

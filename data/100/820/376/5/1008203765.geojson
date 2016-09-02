@@ -2,6 +2,10 @@
   "id": 1008203765,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Ayala, 32 Madrid Madrid 28001",
+    "addr:housenumber":"32",
+    "addr:postcode":"madrid;28001",
+    "addr:street":"Calle De Ayala",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008203765,
-    "wof:lastmodified":1472610398,
+    "wof:lastmodified":1472768115,
     "wof:name":"Perales Navas Almudena",
     "wof:parent_id":85863675,
     "wof:placetype":"venue",

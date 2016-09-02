@@ -2,6 +2,10 @@
   "id": 1008145693,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ctra Terrassa, 125 Sabadell Barcelona 08205",
+    "addr:housenumber":"125",
+    "addr:postcode":"08205",
+    "addr:street":"Ctra Terrassa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008145693,
-    "wof:lastmodified":1472601647,
+    "wof:lastmodified":1472768512,
     "wof:name":"Over Rent S.a.",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

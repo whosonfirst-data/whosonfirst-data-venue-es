@@ -2,6 +2,10 @@
   "id": 991204717,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Pere Iv, 416 Barcelona Barcelona 08019",
+    "addr:housenumber":"416",
+    "addr:postcode":"08019",
+    "addr:street":"Carrer De Pere Iv",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991204717,
-    "wof:lastmodified":1472536858,
+    "wof:lastmodified":1472768153,
     "wof:name":"Caixa D'estalvis I Pensions De Barcelona",
     "wof:parent_id":85864011,
     "wof:placetype":"venue",

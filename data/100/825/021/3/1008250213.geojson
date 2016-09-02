@@ -2,6 +2,10 @@
   "id": 1008250213,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Juan De Sada, 36 Barcelona Barcelona 08028",
+    "addr:housenumber":"36",
+    "addr:postcode":"08028",
+    "addr:street":"Carrer De Juan De Sada",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008250213,
-    "wof:lastmodified":1472615989,
+    "wof:lastmodified":1472766696,
     "wof:name":"Plana Soler Carlos",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

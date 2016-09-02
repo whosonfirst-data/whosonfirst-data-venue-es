@@ -2,6 +2,10 @@
   "id": 1008142609,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Pedro Laborde, 53 Madrid Madrid 28018",
+    "addr:housenumber":"53",
+    "addr:postcode":"madrid;28018",
+    "addr:street":"Calle De Pedro Laborde",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008142609,
-    "wof:lastmodified":1472601495,
+    "wof:lastmodified":1472767410,
     "wof:name":"Osorio Bartol S.l.",
     "wof:parent_id":85863733,
     "wof:placetype":"venue",

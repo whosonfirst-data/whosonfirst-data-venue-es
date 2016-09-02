@@ -2,6 +2,10 @@
   "id": 990913291,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Jaume, 231 Calella Barcelona 08370",
+    "addr:housenumber":"231",
+    "addr:postcode":"08370",
+    "addr:street":"Carrer De Sant Jaume",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990913291,
-    "wof:lastmodified":1472509882,
+    "wof:lastmodified":1472767231,
     "wof:name":"Ajuntament De Calella",
     "wof:parent_id":85799549,
     "wof:placetype":"venue",

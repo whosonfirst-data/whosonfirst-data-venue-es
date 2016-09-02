@@ -2,6 +2,10 @@
   "id": 1008630791,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Plaza De Toros, 15 Madrid Madrid 28025",
+    "addr:housenumber":"15",
+    "addr:postcode":"madrid;28025",
+    "addr:street":"Avda Plaza De Toros",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008630791,
-    "wof:lastmodified":1472635582,
+    "wof:lastmodified":1472766982,
     "wof:name":"Tongal C.b.",
     "wof:parent_id":85863819,
     "wof:placetype":"venue",

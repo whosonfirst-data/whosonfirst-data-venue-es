@@ -2,6 +2,10 @@
   "id": 991197001,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Alberto Alcocer, 22 Madrid Madrid 28036",
+    "addr:housenumber":"22",
+    "addr:postcode":"madrid;28036",
+    "addr:street":"Alberto Alcocer",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991197001,
-    "wof:lastmodified":1472536271,
+    "wof:lastmodified":1472768259,
     "wof:name":"Cadel S. A.",
     "wof:parent_id":85799237,
     "wof:placetype":"venue",

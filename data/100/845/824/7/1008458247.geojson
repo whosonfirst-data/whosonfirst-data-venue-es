@@ -2,6 +2,10 @@
   "id": 1008458247,
   "type": "Feature",
   "properties": {
+    "addr:full":"John F. Kennedy, S/n S. Joan Despi Barcelona 08970",
+    "addr:housenumber":"s",
+    "addr:postcode":"08970",
+    "addr:street":"John F. Kennedy;/ N S. Joan Despi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1008458247,
-    "wof:lastmodified":1472628242,
+    "wof:lastmodified":1472769112,
     "wof:name":"Sanchez-paniagua Millan Avelina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

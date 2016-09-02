@@ -2,6 +2,10 @@
   "id": 1007709799,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Hellin, 99996 Madrid Madrid 28037",
+    "addr:housenumber":"",
+    "addr:postcode":"99996;28037",
+    "addr:street":"Avda Hellin",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007709799,
-    "wof:lastmodified":1472581433,
+    "wof:lastmodified":1472769518,
     "wof:name":"Iris Europea S.a.",
     "wof:parent_id":85863701,
     "wof:placetype":"venue",

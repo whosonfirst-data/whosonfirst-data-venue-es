@@ -2,6 +2,10 @@
   "id": 975157001,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Felipe De Diego, 24 Madrid Madrid 28018",
+    "addr:housenumber":"24",
+    "addr:postcode":"madrid;28018",
+    "addr:street":"Calle De Felipe De Diego",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":975157001,
-    "wof:lastmodified":1472507595,
+    "wof:lastmodified":1472768237,
     "wof:name":"Acosta Jimenez Jose",
     "wof:parent_id":85863733,
     "wof:placetype":"venue",

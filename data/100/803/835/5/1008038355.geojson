@@ -2,6 +2,10 @@
   "id": 1008038355,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Merce, 19 Pineda Mar Barcelona 08397",
+    "addr:housenumber":"19",
+    "addr:postcode":"08397",
+    "addr:street":"Av Merce;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008038355,
-    "wof:lastmodified":1472596815,
+    "wof:lastmodified":1472769175,
     "wof:name":"Moral Exposito Raimundo",
     "wof:parent_id":85799549,
     "wof:placetype":"venue",

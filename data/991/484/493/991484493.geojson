@@ -2,6 +2,10 @@
   "id": 991484493,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ramon Y Cajal, 107 Parque Empresarial Madrid 28230",
+    "addr:housenumber":"107",
+    "addr:postcode":"28230",
+    "addr:street":"Ramon Y Cajal;Parque Empresarial",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991484493,
-    "wof:lastmodified":1472553594,
+    "wof:lastmodified":1472769989,
     "wof:name":"De Madrid Zaragoza Domingo",
     "wof:parent_id":85863667,
     "wof:placetype":"venue",

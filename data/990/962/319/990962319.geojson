@@ -2,6 +2,10 @@
   "id": 990962319,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Miguel Yuste, 50 Madrid Madrid 28037",
+    "addr:housenumber":"50",
+    "addr:postcode":"madrid;28037",
+    "addr:street":"Calle De Miguel Yuste",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990962319,
-    "wof:lastmodified":1472516033,
+    "wof:lastmodified":1472767666,
     "wof:name":"Amadini S.a.",
     "wof:parent_id":85863701,
     "wof:placetype":"venue",

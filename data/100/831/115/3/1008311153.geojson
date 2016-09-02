@@ -2,6 +2,10 @@
   "id": 1008311153,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Joan Blanques, 58 Barcelona Barcelona 08024",
+    "addr:housenumber":"58",
+    "addr:postcode":"08024",
+    "addr:street":"Carrer De Joan Blanques",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008311153,
-    "wof:lastmodified":1472621839,
+    "wof:lastmodified":1472767120,
     "wof:name":"Raig Carvi Jorge",
     "wof:parent_id":85799393,
     "wof:placetype":"venue",

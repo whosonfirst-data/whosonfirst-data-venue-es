@@ -2,6 +2,10 @@
   "id": 1008000959,
   "type": "Feature",
   "properties": {
+    "addr:full":"Cmno Cruces, 13 Madrid Madrid 28044",
+    "addr:housenumber":"13",
+    "addr:postcode":"madrid;28044",
+    "addr:street":"Cmno Cruces",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008000959,
-    "wof:lastmodified":1472595230,
+    "wof:lastmodified":1472767003,
     "wof:name":"Mingo Luque Gemma De",
     "wof:parent_id":85863781,
     "wof:placetype":"venue",

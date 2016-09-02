@@ -2,6 +2,10 @@
   "id": 1007822159,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Berlin, 69 Barcelona Barcelona 08029",
+    "addr:housenumber":"69",
+    "addr:postcode":"08029",
+    "addr:street":"Carrer De Berlin",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1007822159,
-    "wof:lastmodified":1472587396,
+    "wof:lastmodified":1472767612,
     "wof:name":"Llum Electric Querol S.l.",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",

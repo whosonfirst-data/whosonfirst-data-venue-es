@@ -2,6 +2,10 @@
   "id": 991011217,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Lopez Grass, 12 Madrid Madrid 28038",
+    "addr:housenumber":"12",
+    "addr:postcode":"madrid;28038",
+    "addr:street":"Calle De Lopez Grass",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991011217,
-    "wof:lastmodified":1472520001,
+    "wof:lastmodified":1472766768,
     "wof:name":"Arribas Medel Venancio",
     "wof:parent_id":85863731,
     "wof:placetype":"venue",

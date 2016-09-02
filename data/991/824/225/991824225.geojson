@@ -2,6 +2,10 @@
   "id": 991824225,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda San Luis, 52 Madrid Madrid 28033",
+    "addr:housenumber":"52",
+    "addr:postcode":"madrid;28033",
+    "addr:street":"Avda San Luis",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991824225,
-    "wof:lastmodified":1472573295,
+    "wof:lastmodified":1472770370,
     "wof:name":"Gonzalez Gallego Maria Elisa",
     "wof:parent_id":85863567,
     "wof:placetype":"venue",

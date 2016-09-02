@@ -2,6 +2,10 @@
   "id": 1008292181,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Icaria, 192 Barcelona Barcelona 08005",
+    "addr:housenumber":"192",
+    "addr:postcode":"08005",
+    "addr:street":"Av Icaria",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1008292181,
-    "wof:lastmodified":1472618403,
+    "wof:lastmodified":1472767455,
     "wof:name":"Puente De La Vega Armando",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",

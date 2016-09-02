@@ -2,6 +2,10 @@
   "id": 990967691,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Luis I, 31 Madrid Madrid 28031",
+    "addr:housenumber":"31",
+    "addr:postcode":"madrid;28031",
+    "addr:street":"Calle De Luis I",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":990967691,
-    "wof:lastmodified":1472516573,
+    "wof:lastmodified":1472767937,
     "wof:name":"Amovible",
     "wof:parent_id":85863733,
     "wof:placetype":"venue",

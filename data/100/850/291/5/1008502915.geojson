@@ -2,6 +2,10 @@
   "id": 1008502915,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Padilla, 295 Barcelona Barcelona 08025",
+    "addr:housenumber":"295",
+    "addr:postcode":"08025",
+    "addr:street":"Carrer De Padilla",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008502915,
-    "wof:lastmodified":1472630147,
+    "wof:lastmodified":1472767847,
     "wof:name":"Serradell Cabra Armando",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",

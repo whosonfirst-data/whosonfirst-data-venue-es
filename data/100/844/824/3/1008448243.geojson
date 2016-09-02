@@ -2,6 +2,10 @@
   "id": 1008448243,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Rodrigo Caro, 65 Barcelona Barcelona 08042",
+    "addr:housenumber":"65",
+    "addr:postcode":"08042",
+    "addr:street":"Carrer De Rodrigo Caro",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008448243,
-    "wof:lastmodified":1472627885,
+    "wof:lastmodified":1472769141,
     "wof:name":"Sanchez Casa Baltasar",
     "wof:parent_id":85799517,
     "wof:placetype":"venue",

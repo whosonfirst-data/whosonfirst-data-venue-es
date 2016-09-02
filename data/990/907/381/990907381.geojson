@@ -2,6 +2,10 @@
   "id": 990907381,
   "type": "Feature",
   "properties": {
+    "addr:full":"Av Verge Montserrat, 121 Prat Llobregat Barcelona 08820",
+    "addr:housenumber":"121",
+    "addr:postcode":"08820",
+    "addr:street":"Av Verge Montserrat;Llobregat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":990907381,
-    "wof:lastmodified":1472509338,
+    "wof:lastmodified":1472767250,
     "wof:name":"Aguirre Laserna Miguel",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",

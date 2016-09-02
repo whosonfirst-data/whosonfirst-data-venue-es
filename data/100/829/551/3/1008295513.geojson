@@ -2,6 +2,10 @@
   "id": 1008295513,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Muntaner, 378 Barcelona Barcelona 08006",
+    "addr:housenumber":"378",
+    "addr:postcode":"08006",
+    "addr:street":"Carrer De Muntaner",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008295513,
-    "wof:lastmodified":1472618589,
+    "wof:lastmodified":1472768540,
     "wof:name":"Puig Menen Alberto",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",

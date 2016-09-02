@@ -2,6 +2,10 @@
   "id": 1008589499,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Caracas, 14 Barcelona Barcelona 08030",
+    "addr:housenumber":"14",
+    "addr:postcode":"08030",
+    "addr:street":"Carrer De Caracas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008589499,
-    "wof:lastmodified":1472633751,
+    "wof:lastmodified":1472769423,
     "wof:name":"Talleres Mart S. A.",
     "wof:parent_id":85799559,
     "wof:placetype":"venue",

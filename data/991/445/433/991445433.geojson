@@ -2,6 +2,10 @@
   "id": 991445433,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sant Quinti, 120 Barcelona Barcelona 08041",
+    "addr:housenumber":"120",
+    "addr:postcode":"08041",
+    "addr:street":"Carrer De Sant Quinti",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991445433,
-    "wof:lastmodified":1472551442,
+    "wof:lastmodified":1472769700,
     "wof:name":"Cots Carles Agustin",
     "wof:parent_id":85864001,
     "wof:placetype":"venue",

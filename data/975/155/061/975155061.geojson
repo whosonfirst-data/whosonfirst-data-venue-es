@@ -2,6 +2,10 @@
   "id": 975155061,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Sagarra, 42 Pineda Mar Barcelona 08397",
+    "addr:housenumber":"42",
+    "addr:postcode":"08397",
+    "addr:street":"Carrer De Sagarra;Barcelona",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":975155061,
-    "wof:lastmodified":1472507444,
+    "wof:lastmodified":1472766738,
     "wof:name":"Aceituno Cuenca Manuel",
     "wof:parent_id":85799549,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 991154005,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Atocha, 91 Madrid Madrid 28012",
+    "addr:housenumber":"91",
+    "addr:postcode":"madrid;28012",
+    "addr:street":"Calle De Atocha",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991154005,
-    "wof:lastmodified":1472532449,
+    "wof:lastmodified":1472767470,
     "wof:name":"Blanco Crusat Alberto",
     "wof:parent_id":85863793,
     "wof:placetype":"venue",

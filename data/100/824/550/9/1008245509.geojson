@@ -2,6 +2,10 @@
   "id": 1008245509,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avda Albufera, 77 Madrid Madrid 28038",
+    "addr:housenumber":"77",
+    "addr:postcode":"madrid;28038",
+    "addr:street":"Avda Albufera",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008245509,
-    "wof:lastmodified":1472615707,
+    "wof:lastmodified":1472768754,
     "wof:name":"Piqueras Salvador Mariano",
     "wof:parent_id":85863731,
     "wof:placetype":"venue",

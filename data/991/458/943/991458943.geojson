@@ -2,6 +2,10 @@
   "id": 991458943,
   "type": "Feature",
   "properties": {
+    "addr:full":"Calle de Marbella, 54 Madrid Madrid 28034",
+    "addr:housenumber":"54",
+    "addr:postcode":"madrid;28034",
+    "addr:street":"Calle De Marbella",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":991458943,
-    "wof:lastmodified":1472552159,
+    "wof:lastmodified":1472769871,
     "wof:name":"Cuadrado Bueno Alfonso",
     "wof:parent_id":85799465,
     "wof:placetype":"venue",

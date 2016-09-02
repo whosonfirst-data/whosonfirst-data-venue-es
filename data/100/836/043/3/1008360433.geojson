@@ -2,6 +2,10 @@
   "id": 1008360433,
   "type": "Feature",
   "properties": {
+    "addr:full":"Carrer de Rocafort, 249 Barcelona Barcelona 08029",
+    "addr:housenumber":"249",
+    "addr:postcode":"08029",
+    "addr:street":"Carrer De Rocafort",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1008360433,
-    "wof:lastmodified":1472623949,
+    "wof:lastmodified":1472766823,
     "wof:name":"Riopiedras Ediciones",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",
