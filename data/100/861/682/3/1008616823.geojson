@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.9545321465,37.3839759827,-5.9545321465,37.3839759827",
     "geom:latitude":37.383976,
     "geom:longitude":-5.954532,
@@ -24,14 +25,14 @@
     "sg:province":"Sevilla",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85864175,
+        85864177,
         102191581,
         404342947,
         85633129,
         404227361,
         101748225,
         85682841,
-        85864177
+        85864175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
             "localadmin_id":404342947,
             "locality_id":101748225,
             "macroregion_id":404227361,
-            "neighbourhood_id":85864175,
+            "neighbourhood_id":85864177,
             "region_id":85682841,
             "venue_id":1008616823
         },
@@ -57,15 +58,15 @@
             "localadmin_id":404342947,
             "locality_id":101748225,
             "macroregion_id":404227361,
-            "neighbourhood_id":85864177,
+            "neighbourhood_id":85864175,
             "region_id":85682841,
             "venue_id":1008616823
         }
     ],
     "wof:id":1008616823,
-    "wof:lastmodified":1472768954,
+    "wof:lastmodified":1491906871,
     "wof:name":"Teresa Enriquez S.l.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

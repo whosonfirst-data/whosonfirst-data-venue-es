@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.987891,43.300804,-2.987891,43.300804",
     "geom:latitude":43.300804,
     "geom:longitude":-2.987891,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85799675,
+        102191581,
+        404345933,
         85633129,
+        404227393,
         101748387,
         85682879
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"122bb31ecf18aa8a3ae6eb5df0873103",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633129,
+            "localadmin_id":404345933,
             "locality_id":101748387,
+            "macroregion_id":404227393,
             "neighbourhood_id":85799675,
             "region_id":85682879,
             "venue_id":169567541
         }
     ],
     "wof:id":169567541,
-    "wof:lastmodified":1472766685,
+    "wof:lastmodified":1491910899,
     "wof:name":"Abad Crespo Manuel",
     "wof:parent_id":85799675,
     "wof:placetype":"venue",

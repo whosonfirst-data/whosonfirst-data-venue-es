@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.419881,36.738918,-4.419881,36.738918",
     "geom:latitude":36.738918,
     "geom:longitude":-4.419881,
@@ -24,8 +25,8 @@
     "sg:province":"M\u00e1laga",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863495,
         85633129,
+        85863495,
         85682787
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"80569b14dc1d28e762b60f84a6d2f647",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633129,
-            "locality_id":-1,
             "neighbourhood_id":85863495,
             "region_id":85682787,
             "venue_id":169560175
         }
     ],
     "wof:id":169560175,
-    "wof:lastmodified":1472766662,
+    "wof:lastmodified":1491906439,
     "wof:name":"2004 Gesprocon S.l.",
     "wof:parent_id":85863495,
     "wof:placetype":"venue",

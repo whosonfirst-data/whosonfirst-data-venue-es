@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.8818020225,41.6562576294,-0.8818020225,41.6562576294",
     "geom:latitude":41.656258,
     "geom:longitude":-0.881802,
@@ -24,14 +25,14 @@
     "sg:province":"Zaragoza",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863325,
+        85863307,
         102191581,
         404347363,
         85633129,
         404227363,
         101748361,
         85682891,
-        85863307
+        85863325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
             "localadmin_id":404347363,
             "locality_id":101748361,
             "macroregion_id":404227363,
-            "neighbourhood_id":85863325,
+            "neighbourhood_id":85863307,
             "region_id":85682891,
             "venue_id":991941787
         },
@@ -57,15 +58,15 @@
             "localadmin_id":404347363,
             "locality_id":101748361,
             "macroregion_id":404227363,
-            "neighbourhood_id":85863307,
+            "neighbourhood_id":85863325,
             "region_id":85682891,
             "venue_id":991941787
         }
     ],
     "wof:id":991941787,
-    "wof:lastmodified":1472770681,
+    "wof:lastmodified":1491915093,
     "wof:name":"Ilustre Colegio Notarial De Zaragoza",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

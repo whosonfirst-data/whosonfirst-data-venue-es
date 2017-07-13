@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.9600477219,37.3826599121,-5.9600477219,37.3826599121",
     "geom:latitude":37.38266,
     "geom:longitude":-5.960048,
@@ -24,14 +25,14 @@
     "sg:province":"Sevilla",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85864175,
+        85864173,
         102191581,
         404342947,
         85633129,
         404227361,
         101748225,
         85682841,
-        85864173
+        85864175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
             "localadmin_id":404342947,
             "locality_id":101748225,
             "macroregion_id":404227361,
-            "neighbourhood_id":85864175,
+            "neighbourhood_id":85864173,
             "region_id":85682841,
             "venue_id":990939657
         },
@@ -57,15 +58,15 @@
             "localadmin_id":404342947,
             "locality_id":101748225,
             "macroregion_id":404227361,
-            "neighbourhood_id":85864173,
+            "neighbourhood_id":85864175,
             "region_id":85682841,
             "venue_id":990939657
         }
     ],
     "wof:id":990939657,
-    "wof:lastmodified":1472767736,
+    "wof:lastmodified":1491906876,
     "wof:name":"Almacenes Valverde E Hijos S.l.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

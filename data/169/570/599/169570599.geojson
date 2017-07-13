@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.777804,37.867531,-4.777804,37.867531",
     "geom:latitude":37.867531,
     "geom:longitude":-4.777804,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85863871,
+        102191581,
+        404333687,
         85633129,
+        404227361,
         101748233,
         85682697
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"6ef7facd1f2971e1d6216c1a78ddce95",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633129,
+            "localadmin_id":404333687,
             "locality_id":101748233,
+            "macroregion_id":404227361,
             "neighbourhood_id":85863871,
             "region_id":85682697,
             "venue_id":169570599
         }
     ],
     "wof:id":169570599,
-    "wof:lastmodified":1472766685,
+    "wof:lastmodified":1491914529,
     "wof:name":"Abad Marquez Antonio",
     "wof:parent_id":85863871,
     "wof:placetype":"venue",

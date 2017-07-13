@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.7662820816,37.8967971802,-4.7662820816,37.8967971802",
     "geom:latitude":37.896797,
     "geom:longitude":-4.766282,
@@ -24,14 +25,14 @@
     "sg:province":"C\u00f3rdoba",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633129,
+        85863899,
+        85682697,
         85863895,
         102191581,
         404333687,
-        85633129,
         404227361,
-        101748233,
-        85682697,
-        85863899
+        101748233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,6 +43,12 @@
     "wof:geomhash":"8511dac962fb8face3a3855a28539f1f",
     "wof:hierarchy":[
         {
+            "country_id":85633129,
+            "neighbourhood_id":85863899,
+            "region_id":85682697,
+            "venue_id":991433449
+        },
+        {
             "continent_id":102191581,
             "country_id":85633129,
             "localadmin_id":404333687,
@@ -50,18 +57,12 @@
             "neighbourhood_id":85863895,
             "region_id":85682697,
             "venue_id":991433449
-        },
-        {
-            "country_id":85633129,
-            "neighbourhood_id":85863899,
-            "region_id":85682697,
-            "venue_id":991433449
         }
     ],
     "wof:id":991433449,
-    "wof:lastmodified":1472769740,
+    "wof:lastmodified":1491929248,
     "wof:name":"Cordobesa De Limpiezas Y Jardines S.a.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

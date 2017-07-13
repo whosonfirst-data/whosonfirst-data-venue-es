@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.4219512939,36.7351722717,-4.4219512939,36.7351722717",
     "geom:latitude":36.735172,
     "geom:longitude":-4.421951,
@@ -24,14 +25,14 @@
     "sg:province":"M\u00e1laga",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633129,
-        85863495,
-        85682787,
         85863487,
         102191581,
         404339241,
+        85633129,
         404227361,
-        101748185
+        101748185,
+        85682787,
+        85863495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,12 +43,6 @@
     "wof:geomhash":"3046c0f56b1d914f996b4230d27b9b03",
     "wof:hierarchy":[
         {
-            "country_id":85633129,
-            "neighbourhood_id":85863495,
-            "region_id":85682787,
-            "venue_id":991003471
-        },
-        {
             "continent_id":102191581,
             "country_id":85633129,
             "localadmin_id":404339241,
@@ -56,12 +51,18 @@
             "neighbourhood_id":85863487,
             "region_id":85682787,
             "venue_id":991003471
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863495,
+            "region_id":85682787,
+            "venue_id":991003471
         }
     ],
     "wof:id":991003471,
-    "wof:lastmodified":1472766826,
+    "wof:lastmodified":1491906440,
     "wof:name":"Ariza Gomez Francisco",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

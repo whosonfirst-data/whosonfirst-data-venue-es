@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.3837652206,36.7298202515,-4.3837652206,36.7298202515",
     "geom:latitude":36.72982,
     "geom:longitude":-4.383765,
@@ -25,10 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85633129,
-        101748185,
-        85863509,
         85863507,
-        85682787
+        85682787,
+        101748185,
+        85863509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,6 +40,12 @@
     "wof:geomhash":"f4433a310a952640681a837bafa0358c",
     "wof:hierarchy":[
         {
+            "country_id":85633129,
+            "neighbourhood_id":85863507,
+            "region_id":85682787,
+            "venue_id":1007806765
+        },
+        {
             "continent_id":-1,
             "country_id":85633129,
             "county_id":-1,
@@ -46,18 +53,12 @@
             "neighbourhood_id":85863509,
             "region_id":-1,
             "venue_id":1007806765
-        },
-        {
-            "country_id":85633129,
-            "neighbourhood_id":85863507,
-            "region_id":85682787,
-            "venue_id":1007806765
         }
     ],
     "wof:id":1007806765,
-    "wof:lastmodified":1472769186,
+    "wof:lastmodified":1491885730,
     "wof:name":"Liceo Frances De Malaga",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

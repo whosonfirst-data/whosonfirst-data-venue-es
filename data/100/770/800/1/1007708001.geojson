@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.648291111,40.3725700378,-3.648291111,40.3725700378",
     "geom:latitude":40.37257,
     "geom:longitude":-3.648291,
@@ -24,14 +25,14 @@
     "sg:province":"Madrid",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633129,
-        85863779,
-        85682783,
         85863733,
         102191581,
         404338863,
+        85633129,
         404227387,
-        101748283
+        101748283,
+        85682783,
+        85863779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,12 +43,6 @@
     "wof:geomhash":"ad79ce9cd891c2efb263e2f0efb47e46",
     "wof:hierarchy":[
         {
-            "country_id":85633129,
-            "neighbourhood_id":85863779,
-            "region_id":85682783,
-            "venue_id":1007708001
-        },
-        {
             "continent_id":102191581,
             "country_id":85633129,
             "localadmin_id":404338863,
@@ -56,12 +51,18 @@
             "neighbourhood_id":85863733,
             "region_id":85682783,
             "venue_id":1007708001
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863779,
+            "region_id":85682783,
+            "venue_id":1007708001
         }
     ],
     "wof:id":1007708001,
-    "wof:lastmodified":1472769297,
+    "wof:lastmodified":1491910424,
     "wof:name":"Ipagsa Industrial S.l.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

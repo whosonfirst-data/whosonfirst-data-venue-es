@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6802010536,40.4297103882,-3.6802010536,40.4297103882",
     "geom:latitude":40.42971,
     "geom:longitude":-3.680201,
@@ -34,14 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863675,
+        85863673,
         102191581,
         404338863,
         85633129,
         404227387,
         101748283,
         85682783,
-        85863673
+        85863675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +58,7 @@
             "localadmin_id":404338863,
             "locality_id":101748283,
             "macroregion_id":404227387,
-            "neighbourhood_id":85863675,
+            "neighbourhood_id":85863673,
             "region_id":85682783,
             "venue_id":991126491
         },
@@ -67,15 +68,15 @@
             "localadmin_id":404338863,
             "locality_id":101748283,
             "macroregion_id":404227387,
-            "neighbourhood_id":85863673,
+            "neighbourhood_id":85863675,
             "region_id":85682783,
             "venue_id":991126491
         }
     ],
     "wof:id":991126491,
-    "wof:lastmodified":1472767325,
+    "wof:lastmodified":1491930453,
     "wof:name":"B.c.c. Bureau Consulting Comunicacion S.l.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

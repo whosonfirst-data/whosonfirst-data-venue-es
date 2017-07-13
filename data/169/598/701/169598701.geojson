@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.180136,41.406765,2.180136,41.406765",
     "geom:latitude":41.406765,
     "geom:longitude":2.180136,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864013,
+        102191581,
+        404330921,
         85633129,
+        404227379,
         101748323,
         85682663
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"e7cac077700b70f386efe70ff592725c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633129,
+            "localadmin_id":404330921,
             "locality_id":101748323,
+            "macroregion_id":404227379,
             "neighbourhood_id":85864013,
             "region_id":85682663,
             "venue_id":169598701
         }
     ],
     "wof:id":169598701,
-    "wof:lastmodified":1472766659,
+    "wof:lastmodified":1491932872,
     "wof:name":"Abello Mi\u00f1ano Ramon",
     "wof:parent_id":85864013,
     "wof:placetype":"venue",

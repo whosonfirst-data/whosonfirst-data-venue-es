@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1854569912,41.3972167969,2.1854569912,41.3972167969",
     "geom:latitude":41.397217,
     "geom:longitude":2.185457,
@@ -24,14 +25,14 @@
     "sg:province":"Barcelona",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663,
         85864013,
         102191581,
         404330921,
-        85633129,
         404227379,
-        101748323,
-        85682663,
-        85864029
+        101748323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,6 +43,12 @@
     "wof:geomhash":"dd0bc0c043c1b78d994307b9f1bef2c7",
     "wof:hierarchy":[
         {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008299973
+        },
+        {
             "continent_id":102191581,
             "country_id":85633129,
             "localadmin_id":404330921,
@@ -50,18 +57,12 @@
             "neighbourhood_id":85864013,
             "region_id":85682663,
             "venue_id":1008299973
-        },
-        {
-            "country_id":85633129,
-            "neighbourhood_id":85864029,
-            "region_id":85682663,
-            "venue_id":1008299973
         }
     ],
     "wof:id":1008299973,
-    "wof:lastmodified":1472769486,
+    "wof:lastmodified":1491932861,
     "wof:name":"Puyal Casado Margarita",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

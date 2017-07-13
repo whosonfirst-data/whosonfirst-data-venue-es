@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.8952873945,41.6397209167,-0.8952873945,41.6397209167",
     "geom:latitude":41.639721,
     "geom:longitude":-0.895287,
@@ -32,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863365,
+        85863377,
         102191581,
         404347363,
         85633129,
         404227363,
         101748361,
         85682891,
-        85863377
+        85863365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +56,7 @@
             "localadmin_id":404347363,
             "locality_id":101748361,
             "macroregion_id":404227363,
-            "neighbourhood_id":85863365,
+            "neighbourhood_id":85863377,
             "region_id":85682891,
             "venue_id":991338755
         },
@@ -65,15 +66,15 @@
             "localadmin_id":404347363,
             "locality_id":101748361,
             "macroregion_id":404227363,
-            "neighbourhood_id":85863377,
+            "neighbourhood_id":85863365,
             "region_id":85682891,
             "venue_id":991338755
         }
     ],
     "wof:id":991338755,
-    "wof:lastmodified":1472769816,
+    "wof:lastmodified":1491900114,
     "wof:name":"Cid Porte Miguel",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

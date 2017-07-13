@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7116599083,40.4344291687,-3.7116599083,40.4344291687",
     "geom:latitude":40.434429,
     "geom:longitude":-3.71166,
@@ -25,14 +26,14 @@
     "sg:website":"www.2rmotor.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863659,
+        85863655,
         102191581,
         404338863,
         85633129,
         404227387,
         101748283,
         85682783,
-        85863655
+        85863659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +49,7 @@
             "localadmin_id":404338863,
             "locality_id":101748283,
             "macroregion_id":404227387,
-            "neighbourhood_id":85863659,
+            "neighbourhood_id":85863655,
             "region_id":85682783,
             "venue_id":1008660667
         },
@@ -58,15 +59,15 @@
             "localadmin_id":404338863,
             "locality_id":101748283,
             "macroregion_id":404227387,
-            "neighbourhood_id":85863655,
+            "neighbourhood_id":85863659,
             "region_id":85682783,
             "venue_id":1008660667
         }
     ],
     "wof:id":1008660667,
-    "wof:lastmodified":1472766930,
+    "wof:lastmodified":1491922655,
     "wof:name":"Tudecos 30 S.l",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

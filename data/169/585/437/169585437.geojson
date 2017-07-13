@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.953791,43.255875,-2.953791,43.255875",
     "geom:latitude":43.255875,
     "geom:longitude":-2.953791,
@@ -24,8 +25,8 @@
     "sg:province":"Vizcaya",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863937,
         85633129,
+        85863937,
         85682879
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"e9687f25a308827f5f937f4719fccc15",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633129,
-            "locality_id":-1,
             "neighbourhood_id":85863937,
             "region_id":85682879,
             "venue_id":169585437
         }
     ],
     "wof:id":169585437,
-    "wof:lastmodified":1472766658,
+    "wof:lastmodified":1491907298,
     "wof:name":"Abelenda Nieto Manuel Ramon",
     "wof:parent_id":85863937,
     "wof:placetype":"venue",

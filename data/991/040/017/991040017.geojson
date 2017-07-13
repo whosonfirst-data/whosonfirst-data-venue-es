@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.7908539772,37.892780304,-4.7908539772,37.892780304",
     "geom:latitude":37.89278,
     "geom:longitude":-4.790854,
@@ -24,14 +25,14 @@
     "sg:province":"C\u00f3rdoba",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863865,
+        85863893,
         102191581,
         404333687,
         85633129,
         404227361,
         101748233,
         85682697,
-        85863893
+        85863865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
             "localadmin_id":404333687,
             "locality_id":101748233,
             "macroregion_id":404227361,
-            "neighbourhood_id":85863865,
+            "neighbourhood_id":85863893,
             "region_id":85682697,
             "venue_id":991040017
         },
@@ -57,15 +58,15 @@
             "localadmin_id":404333687,
             "locality_id":101748233,
             "macroregion_id":404227361,
-            "neighbourhood_id":85863893,
+            "neighbourhood_id":85863865,
             "region_id":85682697,
             "venue_id":991040017
         }
     ],
     "wof:id":991040017,
-    "wof:lastmodified":1472766657,
+    "wof:lastmodified":1491933335,
     "wof:name":"Asociacion Pro Derechos Humanos De Andalucia",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

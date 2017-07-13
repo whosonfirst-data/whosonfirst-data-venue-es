@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.9554889202,43.272769928,-2.9554889202,43.272769928",
     "geom:latitude":43.27277,
     "geom:longitude":-2.955489,
@@ -25,14 +26,14 @@
     "sg:website":"www.articad.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863943,
+        85863941,
         102191581,
         404345949,
         85633129,
         404227393,
         101748385,
         85682879,
-        85863941
+        85863943
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +49,7 @@
             "localadmin_id":404345949,
             "locality_id":101748385,
             "macroregion_id":404227393,
-            "neighbourhood_id":85863943,
+            "neighbourhood_id":85863941,
             "region_id":85682879,
             "venue_id":991016743
         },
@@ -58,15 +59,15 @@
             "localadmin_id":404345949,
             "locality_id":101748385,
             "macroregion_id":404227393,
-            "neighbourhood_id":85863941,
+            "neighbourhood_id":85863943,
             "region_id":85682879,
             "venue_id":991016743
         }
     ],
     "wof:id":991016743,
-    "wof:lastmodified":1472766879,
+    "wof:lastmodified":1491936399,
     "wof:name":"Articad",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

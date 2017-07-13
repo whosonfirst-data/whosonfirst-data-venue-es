@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.746344,40.384785,-3.746344,40.384785",
     "geom:latitude":40.384785,
     "geom:longitude":-3.746344,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85863819,
+        102191581,
+        404338863,
         85633129,
+        404227387,
         101748283,
         85682783
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"fbf3a9df125f9b90efb9136fef46203e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633129,
+            "localadmin_id":404338863,
             "locality_id":101748283,
+            "macroregion_id":404227387,
             "neighbourhood_id":85863819,
             "region_id":85682783,
             "venue_id":169582215
         }
     ],
     "wof:id":169582215,
-    "wof:lastmodified":1472766655,
+    "wof:lastmodified":1491896210,
     "wof:name":"Abdulghani  Adel Mohammed",
     "wof:parent_id":85863819,
     "wof:placetype":"venue",

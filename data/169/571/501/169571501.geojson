@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.712917,40.438217,-3.712917,40.438217",
     "geom:latitude":40.438217,
     "geom:longitude":-3.712917,
@@ -24,11 +25,14 @@
     "sg:province":"Madrid",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863653,
+        85863655,
+        102191581,
+        404338863,
         85633129,
+        404227387,
         101748283,
         85682783,
-        85863655
+        85863653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,26 +42,30 @@
     "wof:geomhash":"dbdbca35a69c5d75b8c79815ccb71ce3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633129,
+            "localadmin_id":404338863,
             "locality_id":101748283,
-            "neighbourhood_id":85863653,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863655,
             "region_id":85682783,
             "venue_id":169571501
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633129,
+            "localadmin_id":404338863,
             "locality_id":101748283,
-            "neighbourhood_id":85863655,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863653,
             "region_id":85682783,
             "venue_id":169571501
         }
     ],
     "wof:id":169571501,
-    "wof:lastmodified":1472766671,
+    "wof:lastmodified":1491922664,
     "wof:name":"Abad Picazo Francisco David",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

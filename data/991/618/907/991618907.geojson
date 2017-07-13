@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6831400394,40.4066467285,-3.6831400394,40.4066467285",
     "geom:latitude":40.406647,
     "geom:longitude":-3.68314,
@@ -24,14 +25,14 @@
     "sg:province":"Madrid",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863739,
+        85863741,
         102191581,
         404338863,
         85633129,
         404227387,
         101748283,
         85682783,
-        85863741
+        85863739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
             "localadmin_id":404338863,
             "locality_id":101748283,
             "macroregion_id":404227387,
-            "neighbourhood_id":85863739,
+            "neighbourhood_id":85863741,
             "region_id":85682783,
             "venue_id":991618907
         },
@@ -57,15 +58,15 @@
             "localadmin_id":404338863,
             "locality_id":101748283,
             "macroregion_id":404227387,
-            "neighbourhood_id":85863741,
+            "neighbourhood_id":85863739,
             "region_id":85682783,
             "venue_id":991618907
         }
     ],
     "wof:id":991618907,
-    "wof:lastmodified":1472770254,
+    "wof:lastmodified":1491900747,
     "wof:name":"Fajaro Lopez Teresa",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.9813947678,37.4107627869,-5.9813947678,37.4107627869",
     "geom:latitude":37.410763,
     "geom:longitude":-5.981395,
@@ -24,14 +25,14 @@
     "sg:province":"Sevilla",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85864139,
+        85864137,
         102191581,
         404342947,
         85633129,
         404227361,
         101748225,
         85682841,
-        85864137
+        85864139
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
             "localadmin_id":404342947,
             "locality_id":101748225,
             "macroregion_id":404227361,
-            "neighbourhood_id":85864139,
+            "neighbourhood_id":85864137,
             "region_id":85682841,
             "venue_id":991658887
         },
@@ -57,15 +58,15 @@
             "localadmin_id":404342947,
             "locality_id":101748225,
             "macroregion_id":404227361,
-            "neighbourhood_id":85864137,
+            "neighbourhood_id":85864139,
             "region_id":85682841,
             "venue_id":991658887
         }
     ],
     "wof:id":991658887,
-    "wof:lastmodified":1472770239,
+    "wof:lastmodified":1491901307,
     "wof:name":"Ferrer Santizo Joaquin",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

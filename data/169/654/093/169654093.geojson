@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.707132,40.393654,-3.707132,40.393654",
     "geom:latitude":40.393654,
     "geom:longitude":-3.707132,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85863751,
+        102191581,
+        404338863,
         85633129,
+        404227387,
         101748283,
         85682783
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"37aa455c6897d9a53546fdb1b8d365b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633129,
+            "localadmin_id":404338863,
             "locality_id":101748283,
+            "macroregion_id":404227387,
             "neighbourhood_id":85863751,
             "region_id":85682783,
             "venue_id":169654093
         }
     ],
     "wof:id":169654093,
-    "wof:lastmodified":1472768244,
+    "wof:lastmodified":1491899806,
     "wof:name":"Abuin Garcia Alberto",
     "wof:parent_id":85863751,
     "wof:placetype":"venue",

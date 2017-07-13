@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.3941121101,36.7264938354,-4.3941121101,36.7264938354",
     "geom:latitude":36.726494,
     "geom:longitude":-4.394112,
@@ -24,14 +25,14 @@
     "sg:province":"M\u00e1laga",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633129,
-        101748185,
-        85863509,
         85863503,
         102191581,
         404339241,
+        85633129,
         404227361,
-        85682787
+        101748185,
+        85682787,
+        85863509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +43,6 @@
     "wof:geomhash":"841de64eded47cf976f35a2d4e405b10",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633129,
-            "county_id":-1,
-            "locality_id":101748185,
-            "neighbourhood_id":85863509,
-            "region_id":-1,
-            "venue_id":1008255767
-        },
-        {
             "continent_id":102191581,
             "country_id":85633129,
             "localadmin_id":404339241,
@@ -59,12 +51,21 @@
             "neighbourhood_id":85863503,
             "region_id":85682787,
             "venue_id":1008255767
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748185,
+            "neighbourhood_id":85863509,
+            "region_id":-1,
+            "venue_id":1008255767
         }
     ],
     "wof:id":1008255767,
-    "wof:lastmodified":1472768653,
+    "wof:lastmodified":1491885732,
     "wof:name":"Poggio Freuller Tomas",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

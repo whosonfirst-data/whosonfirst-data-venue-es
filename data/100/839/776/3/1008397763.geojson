@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.9455962181,43.2488555908,-2.9455962181,43.2488555908",
     "geom:latitude":43.248856,
     "geom:longitude":-2.945596,
@@ -24,14 +25,14 @@
     "sg:province":"Vizcaya",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633129,
-        85863947,
-        85682879,
         85863927,
         102191581,
         404345949,
+        85633129,
         404227393,
-        101748385
+        101748385,
+        85682879,
+        85863947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,12 +43,6 @@
     "wof:geomhash":"322efd02e67c35fb1c5d7cf5406b2fcf",
     "wof:hierarchy":[
         {
-            "country_id":85633129,
-            "neighbourhood_id":85863947,
-            "region_id":85682879,
-            "venue_id":1008397763
-        },
-        {
             "continent_id":102191581,
             "country_id":85633129,
             "localadmin_id":404345949,
@@ -56,12 +51,18 @@
             "neighbourhood_id":85863927,
             "region_id":85682879,
             "venue_id":1008397763
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863947,
+            "region_id":85682879,
+            "venue_id":1008397763
         }
     ],
     "wof:id":1008397763,
-    "wof:lastmodified":1472769233,
+    "wof:lastmodified":1491924665,
     "wof:name":"Roma\u00f1a Fernandez Juan Luis",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

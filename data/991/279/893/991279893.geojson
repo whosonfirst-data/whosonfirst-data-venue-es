@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6842598915,40.4302024841,-3.6842598915,40.4302024841",
     "geom:latitude":40.430202,
     "geom:longitude":-3.68426,
@@ -25,14 +26,14 @@
     "sg:website":"www.damiani.it",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863675,
+        85863673,
         102191581,
         404338863,
         85633129,
         404227387,
         101748283,
         85682783,
-        85863673
+        85863675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +49,7 @@
             "localadmin_id":404338863,
             "locality_id":101748283,
             "macroregion_id":404227387,
-            "neighbourhood_id":85863675,
+            "neighbourhood_id":85863673,
             "region_id":85682783,
             "venue_id":991279893
         },
@@ -58,15 +59,15 @@
             "localadmin_id":404338863,
             "locality_id":101748283,
             "macroregion_id":404227387,
-            "neighbourhood_id":85863673,
+            "neighbourhood_id":85863675,
             "region_id":85682783,
             "venue_id":991279893
         }
     ],
     "wof:id":991279893,
-    "wof:lastmodified":1472769947,
+    "wof:lastmodified":1491930481,
     "wof:name":"Casa Damiani Espa\u00f1a S.l.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

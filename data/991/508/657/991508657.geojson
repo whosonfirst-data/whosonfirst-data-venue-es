@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.8622689843,41.6453857422,-0.8622689843,41.6453857422",
     "geom:latitude":41.645386,
     "geom:longitude":-0.862269,
@@ -24,14 +25,14 @@
     "sg:province":"Zaragoza",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633129,
-        85863353,
-        85682891,
         85863355,
         102191581,
         404347363,
+        85633129,
         404227363,
-        101748361
+        101748361,
+        85682891,
+        85863353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,12 +43,6 @@
     "wof:geomhash":"6781b13b10ee3fef2aed03e0b9d65d39",
     "wof:hierarchy":[
         {
-            "country_id":85633129,
-            "neighbourhood_id":85863353,
-            "region_id":85682891,
-            "venue_id":991508657
-        },
-        {
             "continent_id":102191581,
             "country_id":85633129,
             "localadmin_id":404347363,
@@ -56,12 +51,18 @@
             "neighbourhood_id":85863355,
             "region_id":85682891,
             "venue_id":991508657
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863353,
+            "region_id":85682891,
+            "venue_id":991508657
         }
     ],
     "wof:id":991508657,
-    "wof:lastmodified":1472770050,
+    "wof:lastmodified":1491938416,
     "wof:name":"Dirocal S. L.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

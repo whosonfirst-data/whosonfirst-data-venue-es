@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.88501,41.668213,-0.88501,41.668213",
     "geom:latitude":41.668213,
     "geom:longitude":-0.88501,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85863309,
+        102191581,
+        404347363,
         85633129,
+        404227363,
         101748361,
         85682891
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"568cf0eaf93bc8889291dfa19edbe3a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633129,
+            "localadmin_id":404347363,
             "locality_id":101748361,
+            "macroregion_id":404227363,
             "neighbourhood_id":85863309,
             "region_id":85682891,
             "venue_id":169566935
         }
     ],
     "wof:id":169566935,
-    "wof:lastmodified":1472766747,
+    "wof:lastmodified":1491902273,
     "wof:name":"Abad Anzano Evelia",
     "wof:parent_id":85863309,
     "wof:placetype":"venue",

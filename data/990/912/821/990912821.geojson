@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1770060062,41.3827209473,2.1770060062,41.3827209473",
     "geom:latitude":41.382721,
     "geom:longitude":2.177006,
@@ -25,14 +26,14 @@
     "sg:website":"www.bcn.es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85864033,
+        85799447,
         102191581,
         404330921,
         85633129,
         404227379,
         101748323,
         85682663,
-        85799447
+        85864033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +49,7 @@
             "localadmin_id":404330921,
             "locality_id":101748323,
             "macroregion_id":404227379,
-            "neighbourhood_id":85864033,
+            "neighbourhood_id":85799447,
             "region_id":85682663,
             "venue_id":990912821
         },
@@ -58,15 +59,15 @@
             "localadmin_id":404330921,
             "locality_id":101748323,
             "macroregion_id":404227379,
-            "neighbourhood_id":85799447,
+            "neighbourhood_id":85864033,
             "region_id":85682663,
             "venue_id":990912821
         }
     ],
     "wof:id":990912821,
-    "wof:lastmodified":1472767444,
+    "wof:lastmodified":1491905882,
     "wof:name":"Ajuntament De Barcelona",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

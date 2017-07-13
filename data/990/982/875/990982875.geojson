@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.4169341922,39.470664978,-0.4169341922,39.470664978",
     "geom:latitude":39.470665,
     "geom:longitude":-0.416934,
@@ -24,14 +25,14 @@
     "sg:province":"Valencia",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633129,
+        85799211,
+        85682867,
         85864219,
         102191581,
         404345047,
-        85633129,
         404227381,
-        101753691,
-        85682867,
-        85799211
+        101753691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,6 +43,12 @@
     "wof:geomhash":"2f3927c84d6e3da3dc05c94d1c166ff4",
     "wof:hierarchy":[
         {
+            "country_id":85633129,
+            "neighbourhood_id":85799211,
+            "region_id":85682867,
+            "venue_id":990982875
+        },
+        {
             "continent_id":102191581,
             "country_id":85633129,
             "localadmin_id":404345047,
@@ -50,18 +57,12 @@
             "neighbourhood_id":85864219,
             "region_id":85682867,
             "venue_id":990982875
-        },
-        {
-            "country_id":85633129,
-            "neighbourhood_id":85799211,
-            "region_id":85682867,
-            "venue_id":990982875
         }
     ],
     "wof:id":990982875,
-    "wof:lastmodified":1472768171,
+    "wof:lastmodified":1491931491,
     "wof:name":"Antonio Y Miguel Tomas Sierra C.b.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

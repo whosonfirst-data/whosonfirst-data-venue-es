@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.960374,43.276138,-2.960374,43.276138",
     "geom:latitude":43.276138,
     "geom:longitude":-2.960374,
@@ -26,7 +27,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85863941,
+        102191581,
+        404345949,
         85633129,
+        404227393,
         101748385,
         85682879
     ],
@@ -38,16 +42,18 @@
     "wof:geomhash":"7189fb25f9e917503a24e5cc14a7ecfa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633129,
+            "localadmin_id":404345949,
             "locality_id":101748385,
+            "macroregion_id":404227393,
             "neighbourhood_id":85863941,
             "region_id":85682879,
             "venue_id":169606685
         }
     ],
     "wof:id":169606685,
-    "wof:lastmodified":1472766761,
+    "wof:lastmodified":1491936395,
     "wof:name":"A.b. Grupo Asesor Industrial S.l.",
     "wof:parent_id":85863941,
     "wof:placetype":"venue",

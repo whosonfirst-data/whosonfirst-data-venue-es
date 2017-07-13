@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.776673317,37.8853492737,-4.776673317,37.8853492737",
     "geom:latitude":37.885349,
     "geom:longitude":-4.776673,
@@ -24,14 +25,14 @@
     "sg:province":"C\u00f3rdoba",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863895,
+        85863901,
         102191581,
         404333687,
         85633129,
         404227361,
         101748233,
         85682697,
-        85863901
+        85863895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
             "localadmin_id":404333687,
             "locality_id":101748233,
             "macroregion_id":404227361,
-            "neighbourhood_id":85863895,
+            "neighbourhood_id":85863901,
             "region_id":85682697,
             "venue_id":991446235
         },
@@ -57,15 +58,15 @@
             "localadmin_id":404333687,
             "locality_id":101748233,
             "macroregion_id":404227361,
-            "neighbourhood_id":85863901,
+            "neighbourhood_id":85863895,
             "region_id":85682697,
             "venue_id":991446235
         }
     ],
     "wof:id":991446235,
-    "wof:lastmodified":1472769635,
+    "wof:lastmodified":1491929277,
     "wof:name":"Cover Medicacion S.l.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

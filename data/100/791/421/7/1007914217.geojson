@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1036729813,41.3523292542,2.1036729813,41.3523292542",
     "geom:latitude":41.352329,
     "geom:longitude":2.103673,
@@ -24,16 +25,16 @@
     "sg:province":"Barcelona",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85799585,
+        85799283,
         102191581,
-        404330921,
+        404331105,
         85633129,
         404227379,
-        101748323,
+        101748333,
         85682663,
-        85799283,
-        404331105,
-        101748333
+        85799585,
+        404330921,
+        101748323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,28 +47,28 @@
         {
             "continent_id":102191581,
             "country_id":85633129,
-            "localadmin_id":404330921,
-            "locality_id":101748323,
-            "macroregion_id":404227379,
-            "neighbourhood_id":85799585,
-            "region_id":85682663,
-            "venue_id":1007914217
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633129,
             "localadmin_id":404331105,
             "locality_id":101748333,
             "macroregion_id":404227379,
             "neighbourhood_id":85799283,
             "region_id":85682663,
             "venue_id":1007914217
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330921,
+            "locality_id":101748323,
+            "macroregion_id":404227379,
+            "neighbourhood_id":85799585,
+            "region_id":85682663,
+            "venue_id":1007914217
         }
     ],
     "wof:id":1007914217,
-    "wof:lastmodified":1472768451,
+    "wof:lastmodified":1491885748,
     "wof:name":"Marti Izquierdo Jordi",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

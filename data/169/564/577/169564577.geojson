@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.11769,41.353878,2.11769,41.353878",
     "geom:latitude":41.353878,
     "geom:longitude":2.11769,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85799585,
+        102191581,
+        404330921,
         85633129,
+        404227379,
         101748323,
         85682663
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"38cd5a37903aceec5e873438a06d08a3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633129,
+            "localadmin_id":404330921,
             "locality_id":101748323,
+            "macroregion_id":404227379,
             "neighbourhood_id":85799585,
             "region_id":85682663,
             "venue_id":169564577
         }
     ],
     "wof:id":169564577,
-    "wof:lastmodified":1472766724,
+    "wof:lastmodified":1491885815,
     "wof:name":"A.a.a.b. Radio Taxi Barcelona Asociacion Autotaxis Area Barcelona",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",

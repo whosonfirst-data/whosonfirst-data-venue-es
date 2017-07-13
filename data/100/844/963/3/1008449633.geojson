@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6259748936,40.4305000305,-3.6259748936,40.4305000305",
     "geom:latitude":40.4305,
     "geom:longitude":-3.625975,
@@ -24,14 +25,14 @@
     "sg:province":"Madrid",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863641,
+        85863701,
         102191581,
         404338863,
         85633129,
         404227387,
         101748283,
         85682783,
-        85863701
+        85863641
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
             "localadmin_id":404338863,
             "locality_id":101748283,
             "macroregion_id":404227387,
-            "neighbourhood_id":85863641,
+            "neighbourhood_id":85863701,
             "region_id":85682783,
             "venue_id":1008449633
         },
@@ -57,15 +58,15 @@
             "localadmin_id":404338863,
             "locality_id":101748283,
             "macroregion_id":404227387,
-            "neighbourhood_id":85863701,
+            "neighbourhood_id":85863641,
             "region_id":85682783,
             "venue_id":1008449633
         }
     ],
     "wof:id":1008449633,
-    "wof:lastmodified":1472769393,
+    "wof:lastmodified":1491923007,
     "wof:name":"Sanchez Del Real Maria Jesus",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

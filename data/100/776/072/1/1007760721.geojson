@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.4259147644,36.7390403748,-4.4259147644,36.7390403748",
     "geom:latitude":36.73904,
     "geom:longitude":-4.425915,
@@ -24,14 +25,14 @@
     "sg:province":"M\u00e1laga",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633129,
+        85863495,
+        85682787,
         85863487,
         102191581,
         404339241,
-        85633129,
         404227361,
-        101748185,
-        85682787,
-        85863495
+        101748185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,6 +43,12 @@
     "wof:geomhash":"9dc6f68d4c2b297a28c3e47c90913a62",
     "wof:hierarchy":[
         {
+            "country_id":85633129,
+            "neighbourhood_id":85863495,
+            "region_id":85682787,
+            "venue_id":1007760721
+        },
+        {
             "continent_id":102191581,
             "country_id":85633129,
             "localadmin_id":404339241,
@@ -50,18 +57,12 @@
             "neighbourhood_id":85863487,
             "region_id":85682787,
             "venue_id":1007760721
-        },
-        {
-            "country_id":85633129,
-            "neighbourhood_id":85863495,
-            "region_id":85682787,
-            "venue_id":1007760721
         }
     ],
     "wof:id":1007760721,
-    "wof:lastmodified":1472766893,
+    "wof:lastmodified":1491906445,
     "wof:name":"Junta De Andalucia",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

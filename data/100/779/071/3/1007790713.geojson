@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.7762870789,37.8711471558,-4.7762870789,37.8711471558",
     "geom:latitude":37.871147,
     "geom:longitude":-4.776287,
@@ -24,14 +25,14 @@
     "sg:province":"C\u00f3rdoba",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633129,
+        85863875,
+        85682697,
         85863871,
         102191581,
         404333687,
-        85633129,
         404227361,
-        101748233,
-        85682697,
-        85863875
+        101748233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,6 +43,12 @@
     "wof:geomhash":"a5b70868566b7bf0595139d25e6a54e1",
     "wof:hierarchy":[
         {
+            "country_id":85633129,
+            "neighbourhood_id":85863875,
+            "region_id":85682697,
+            "venue_id":1007790713
+        },
+        {
             "continent_id":102191581,
             "country_id":85633129,
             "localadmin_id":404333687,
@@ -50,18 +57,12 @@
             "neighbourhood_id":85863871,
             "region_id":85682697,
             "venue_id":1007790713
-        },
-        {
-            "country_id":85633129,
-            "neighbourhood_id":85863875,
-            "region_id":85682697,
-            "venue_id":1007790713
         }
     ],
     "wof:id":1007790713,
-    "wof:lastmodified":1472766936,
+    "wof:lastmodified":1491914529,
     "wof:name":"Lasarte Leon Manuel",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

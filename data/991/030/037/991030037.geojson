@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6133189201,40.4300575256,-3.6133189201,40.4300575256",
     "geom:latitude":40.430058,
     "geom:longitude":-3.613319,
@@ -24,14 +25,14 @@
     "sg:province":"Madrid",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863705,
+        85863701,
         102191581,
         404338863,
         85633129,
         404227387,
         101748283,
         85682783,
-        85863701
+        85863705
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
             "localadmin_id":404338863,
             "locality_id":101748283,
             "macroregion_id":404227387,
-            "neighbourhood_id":85863705,
+            "neighbourhood_id":85863701,
             "region_id":85682783,
             "venue_id":991030037
         },
@@ -57,15 +58,15 @@
             "localadmin_id":404338863,
             "locality_id":101748283,
             "macroregion_id":404227387,
-            "neighbourhood_id":85863701,
+            "neighbourhood_id":85863705,
             "region_id":85682783,
             "venue_id":991030037
         }
     ],
     "wof:id":991030037,
-    "wof:lastmodified":1472766674,
+    "wof:lastmodified":1491923005,
     "wof:name":"Asociacion Comunidad De Promocion Familiar Nazaret",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

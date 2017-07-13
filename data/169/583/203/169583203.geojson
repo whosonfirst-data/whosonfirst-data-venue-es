@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.878752,41.655415,-0.878752,41.655415",
     "geom:latitude":41.655415,
     "geom:longitude":-0.878752,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85863325,
+        102191581,
+        404347363,
         85633129,
+        404227363,
         101748361,
         85682891
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"3862e0e06e3295714170a8f0a67a66cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633129,
+            "localadmin_id":404347363,
             "locality_id":101748361,
+            "macroregion_id":404227363,
             "neighbourhood_id":85863325,
             "region_id":85682891,
             "venue_id":169583203
         }
     ],
     "wof:id":169583203,
-    "wof:lastmodified":1472766657,
+    "wof:lastmodified":1491915086,
     "wof:name":"Abecom Servicios Exteriores S.l.",
     "wof:parent_id":85863325,
     "wof:placetype":"venue",

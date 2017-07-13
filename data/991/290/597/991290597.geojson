@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.9903068542,37.4008674622,-5.9903068542,37.4008674622",
     "geom:latitude":37.400867,
     "geom:longitude":-5.990307,
@@ -24,14 +25,14 @@
     "sg:province":"Sevilla",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85864137,
+        85864155,
         102191581,
         404342947,
         85633129,
         404227361,
         101748225,
         85682841,
-        85864155
+        85864137
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
             "localadmin_id":404342947,
             "locality_id":101748225,
             "macroregion_id":404227361,
-            "neighbourhood_id":85864137,
+            "neighbourhood_id":85864155,
             "region_id":85682841,
             "venue_id":991290597
         },
@@ -57,15 +58,15 @@
             "localadmin_id":404342947,
             "locality_id":101748225,
             "macroregion_id":404227361,
-            "neighbourhood_id":85864155,
+            "neighbourhood_id":85864137,
             "region_id":85682841,
             "venue_id":991290597
         }
     ],
     "wof:id":991290597,
-    "wof:lastmodified":1472769775,
+    "wof:lastmodified":1491922996,
     "wof:name":"Castellanos Beato Carmen",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

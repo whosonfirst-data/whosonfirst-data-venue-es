@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.735904932,40.4056396484,-3.735904932,40.4056396484",
     "geom:latitude":40.40564,
     "geom:longitude":-3.735905,
@@ -24,16 +25,16 @@
     "sg:province":"Madrid",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863767,
+        85863811,
         102191581,
-        404338863,
+        404338935,
         85633129,
         404227387,
-        101748283,
+        101753753,
         85682783,
-        85863811,
-        404338935,
-        101753753
+        85863767,
+        404338863,
+        101748283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,28 +47,28 @@
         {
             "continent_id":102191581,
             "country_id":85633129,
-            "localadmin_id":404338863,
-            "locality_id":101748283,
-            "macroregion_id":404227387,
-            "neighbourhood_id":85863767,
-            "region_id":85682783,
-            "venue_id":1008523333
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633129,
             "localadmin_id":404338935,
             "locality_id":101753753,
             "macroregion_id":404227387,
             "neighbourhood_id":85863811,
             "region_id":85682783,
             "venue_id":1008523333
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404338863,
+            "locality_id":101748283,
+            "macroregion_id":404227387,
+            "neighbourhood_id":85863767,
+            "region_id":85682783,
+            "venue_id":1008523333
         }
     ],
     "wof:id":1008523333,
-    "wof:lastmodified":1472768056,
+    "wof:lastmodified":1491903117,
     "wof:name":"Siguero Hernandez Alberto",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

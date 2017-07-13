@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.953414917,43.2733688354,-2.953414917,43.2733688354",
     "geom:latitude":43.273369,
     "geom:longitude":-2.953415,
@@ -24,14 +25,14 @@
     "sg:province":"Vizcaya",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863943,
+        85863941,
         102191581,
         404345949,
         85633129,
         404227393,
         101748385,
         85682879,
-        85863941
+        85863943
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
             "localadmin_id":404345949,
             "locality_id":101748385,
             "macroregion_id":404227393,
-            "neighbourhood_id":85863943,
+            "neighbourhood_id":85863941,
             "region_id":85682879,
             "venue_id":990983959
         },
@@ -57,15 +58,15 @@
             "localadmin_id":404345949,
             "locality_id":101748385,
             "macroregion_id":404227393,
-            "neighbourhood_id":85863941,
+            "neighbourhood_id":85863943,
             "region_id":85682879,
             "venue_id":990983959
         }
     ],
     "wof:id":990983959,
-    "wof:lastmodified":1472768279,
+    "wof:lastmodified":1491936397,
     "wof:name":"Anzola Arrese Rafael",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

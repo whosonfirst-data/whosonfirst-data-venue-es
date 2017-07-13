@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.402671,39.479511,-0.402671,39.479511",
     "geom:latitude":39.479511,
     "geom:longitude":-0.402671,
@@ -24,8 +25,8 @@
     "sg:province":"Valencia",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85799211,
         85633129,
+        85799211,
         85682867
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"fe20aff1e535dfd384b4d79600c13b10",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633129,
-            "locality_id":-1,
             "neighbourhood_id":85799211,
             "region_id":85682867,
             "venue_id":169579507
         }
     ],
     "wof:id":169579507,
-    "wof:lastmodified":1472766682,
+    "wof:lastmodified":1491931492,
     "wof:name":"Abbott Laboratories S.a.",
     "wof:parent_id":85799211,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6748809814,40.4824562073,-3.6748809814,40.4824562073",
     "geom:latitude":40.482456,
     "geom:longitude":-3.674881,
@@ -24,14 +25,14 @@
     "sg:province":"Madrid",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863567,
+        85863565,
         102191581,
         404338863,
         85633129,
         404227387,
         101748283,
         85682783,
-        85863565
+        85863567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
             "localadmin_id":404338863,
             "locality_id":101748283,
             "macroregion_id":404227387,
-            "neighbourhood_id":85863567,
+            "neighbourhood_id":85863565,
             "region_id":85682783,
             "venue_id":1008286655
         },
@@ -57,15 +58,15 @@
             "localadmin_id":404338863,
             "locality_id":101748283,
             "macroregion_id":404227387,
-            "neighbourhood_id":85863565,
+            "neighbourhood_id":85863567,
             "region_id":85682783,
             "venue_id":1008286655
         }
     ],
     "wof:id":1008286655,
-    "wof:lastmodified":1472768880,
+    "wof:lastmodified":1491886099,
     "wof:name":"Propiedades Industriales S.l.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

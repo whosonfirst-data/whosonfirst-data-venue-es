@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6358850002,40.4720916748,-3.6358850002,40.4720916748",
     "geom:latitude":40.472092,
     "geom:longitude":-3.635885,
@@ -25,14 +26,14 @@
     "sg:website":"www.callandplay.es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633129,
+        85863581,
+        85682783,
         85863583,
         102191581,
         404338863,
-        85633129,
         404227387,
-        101748283,
-        85682783,
-        85863581
+        101748283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,6 +44,12 @@
     "wof:geomhash":"6a2fefb4bcb0f426747b866ad2cadc3e",
     "wof:hierarchy":[
         {
+            "country_id":85633129,
+            "neighbourhood_id":85863581,
+            "region_id":85682783,
+            "venue_id":991228613
+        },
+        {
             "continent_id":102191581,
             "country_id":85633129,
             "localadmin_id":404338863,
@@ -51,18 +58,12 @@
             "neighbourhood_id":85863583,
             "region_id":85682783,
             "venue_id":991228613
-        },
-        {
-            "country_id":85633129,
-            "neighbourhood_id":85863581,
-            "region_id":85682783,
-            "venue_id":991228613
         }
     ],
     "wof:id":991228613,
-    "wof:lastmodified":1472768205,
+    "wof:lastmodified":1491924516,
     "wof:name":"Call And Play S.l.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

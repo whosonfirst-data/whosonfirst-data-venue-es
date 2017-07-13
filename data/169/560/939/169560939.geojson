@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.770453,37.883381,-4.770453,37.883381",
     "geom:latitude":37.883381,
     "geom:longitude":-4.770453,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85863873,
+        102191581,
+        404333687,
         85633129,
+        404227361,
         101748233,
         85682697
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"deefd781326955cfbf455edb7db6cee3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633129,
+            "localadmin_id":404333687,
             "locality_id":101748233,
+            "macroregion_id":404227361,
             "neighbourhood_id":85863873,
             "region_id":85682697,
             "venue_id":169560939
         }
     ],
     "wof:id":169560939,
-    "wof:lastmodified":1472766726,
+    "wof:lastmodified":1491921471,
     "wof:name":"2 Arquitectas, S.c.",
     "wof:parent_id":85863873,
     "wof:placetype":"venue",

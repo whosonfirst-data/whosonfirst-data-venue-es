@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.941004,43.263626,-2.941004,43.263626",
     "geom:latitude":43.263626,
     "geom:longitude":-2.941004,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85863925,
+        102191581,
+        404345949,
         85633129,
+        404227393,
         101748385,
         85682879
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"461fdfbfbf1993add0a78002a6d3e006",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633129,
+            "localadmin_id":404345949,
             "locality_id":101748385,
+            "macroregion_id":404227393,
             "neighbourhood_id":85863925,
             "region_id":85682879,
             "venue_id":169570945
         }
     ],
     "wof:id":169570945,
-    "wof:lastmodified":1472766698,
+    "wof:lastmodified":1491901831,
     "wof:name":"Abad Merino Maria Del Carmen",
     "wof:parent_id":85863925,
     "wof:placetype":"venue",

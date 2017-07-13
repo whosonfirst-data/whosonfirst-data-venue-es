@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.679671,40.426151,-3.679671,40.426151",
     "geom:latitude":40.426151,
     "geom:longitude":-3.679671,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85863675,
+        102191581,
+        404338863,
         85633129,
+        404227387,
         101748283,
         85682783
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"a2fd36e960543072ebe1744b45aeca0a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633129,
+            "localadmin_id":404338863,
             "locality_id":101748283,
+            "macroregion_id":404227387,
             "neighbourhood_id":85863675,
             "region_id":85682783,
             "venue_id":169567545
         }
     ],
     "wof:id":169567545,
-    "wof:lastmodified":1472766696,
+    "wof:lastmodified":1491930470,
     "wof:name":"Abad Cruz Manuel",
     "wof:parent_id":85863675,
     "wof:placetype":"venue",

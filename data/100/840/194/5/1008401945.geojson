@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7138330936,40.4304504395,-3.7138330936,40.4304504395",
     "geom:latitude":40.43045,
     "geom:longitude":-3.713833,
@@ -24,14 +25,14 @@
     "sg:province":"Madrid",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863659,
+        85863655,
         102191581,
         404338863,
         85633129,
         404227387,
         101748283,
         85682783,
-        85863655
+        85863659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
             "localadmin_id":404338863,
             "locality_id":101748283,
             "macroregion_id":404227387,
-            "neighbourhood_id":85863659,
+            "neighbourhood_id":85863655,
             "region_id":85682783,
             "venue_id":1008401945
         },
@@ -57,15 +58,15 @@
             "localadmin_id":404338863,
             "locality_id":101748283,
             "macroregion_id":404227387,
-            "neighbourhood_id":85863655,
+            "neighbourhood_id":85863659,
             "region_id":85682783,
             "venue_id":1008401945
         }
     ],
     "wof:id":1008401945,
-    "wof:lastmodified":1472767506,
+    "wof:lastmodified":1491922688,
     "wof:name":"Romero Rubio Elia Blanca",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

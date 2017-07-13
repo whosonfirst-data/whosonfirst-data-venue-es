@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6820340157,40.4249687195,-3.6820340157,40.4249687195",
     "geom:latitude":40.424969,
     "geom:longitude":-3.682034,
@@ -25,14 +26,14 @@
     "sg:website":"www.aires.es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863809,
+        85863675,
         102191581,
         404338863,
         85633129,
         404227387,
         101748283,
         85682783,
-        85863675
+        85863809
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +49,7 @@
             "localadmin_id":404338863,
             "locality_id":101748283,
             "macroregion_id":404227387,
-            "neighbourhood_id":85863809,
+            "neighbourhood_id":85863675,
             "region_id":85682783,
             "venue_id":1008271553
         },
@@ -58,15 +59,15 @@
             "localadmin_id":404338863,
             "locality_id":101748283,
             "macroregion_id":404227387,
-            "neighbourhood_id":85863675,
+            "neighbourhood_id":85863809,
             "region_id":85682783,
             "venue_id":1008271553
         }
     ],
     "wof:id":1008271553,
-    "wof:lastmodified":1472767341,
+    "wof:lastmodified":1491930467,
     "wof:name":"Pretec Global S.l.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.4262552261,36.7559814453,-4.4262552261,36.7559814453",
     "geom:latitude":36.755981,
     "geom:longitude":-4.426255,
@@ -25,9 +26,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85633129,
-        85863495,
+        85863477,
         85682787,
-        85863477
+        85863495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,21 +40,21 @@
     "wof:hierarchy":[
         {
             "country_id":85633129,
-            "neighbourhood_id":85863495,
+            "neighbourhood_id":85863477,
             "region_id":85682787,
             "venue_id":991626373
         },
         {
             "country_id":85633129,
-            "neighbourhood_id":85863477,
+            "neighbourhood_id":85863495,
             "region_id":85682787,
             "venue_id":991626373
         }
     ],
     "wof:id":991626373,
-    "wof:lastmodified":1472770066,
+    "wof:lastmodified":1491906442,
     "wof:name":"Federacion Andaluza De Voleibol",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

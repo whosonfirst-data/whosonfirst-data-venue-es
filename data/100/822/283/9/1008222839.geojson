@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.4219741821,36.7356796265,-4.4219741821,36.7356796265",
     "geom:latitude":36.73568,
     "geom:longitude":-4.421974,
@@ -24,14 +25,14 @@
     "sg:province":"M\u00e1laga",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633129,
-        85863495,
-        85682787,
         85863487,
         102191581,
         404339241,
+        85633129,
         404227361,
-        101748185
+        101748185,
+        85682787,
+        85863495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,12 +43,6 @@
     "wof:geomhash":"5e493f0fff5e7105498a8303ddd98d04",
     "wof:hierarchy":[
         {
-            "country_id":85633129,
-            "neighbourhood_id":85863495,
-            "region_id":85682787,
-            "venue_id":1008222839
-        },
-        {
             "continent_id":102191581,
             "country_id":85633129,
             "localadmin_id":404339241,
@@ -56,12 +51,18 @@
             "neighbourhood_id":85863487,
             "region_id":85682787,
             "venue_id":1008222839
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863495,
+            "region_id":85682787,
+            "venue_id":1008222839
         }
     ],
     "wof:id":1008222839,
-    "wof:lastmodified":1472767784,
+    "wof:lastmodified":1491906439,
     "wof:name":"Perez Sanchez Remedios",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

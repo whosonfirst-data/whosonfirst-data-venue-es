@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6358640194,40.4722099304,-3.6358640194,40.4722099304",
     "geom:latitude":40.47221,
     "geom:longitude":-3.635864,
@@ -24,14 +25,14 @@
     "sg:province":"Madrid",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633129,
+        85863581,
+        85682783,
         85863583,
         102191581,
         404338863,
-        85633129,
         404227387,
-        101748283,
-        85682783,
-        85863581
+        101748283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,6 +43,12 @@
     "wof:geomhash":"4aa46bea298b7ea7f63eaa15d61d5178",
     "wof:hierarchy":[
         {
+            "country_id":85633129,
+            "neighbourhood_id":85863581,
+            "region_id":85682783,
+            "venue_id":991191083
+        },
+        {
             "continent_id":102191581,
             "country_id":85633129,
             "localadmin_id":404338863,
@@ -50,18 +57,12 @@
             "neighbourhood_id":85863583,
             "region_id":85682783,
             "venue_id":991191083
-        },
-        {
-            "country_id":85633129,
-            "neighbourhood_id":85863581,
-            "region_id":85682783,
-            "venue_id":991191083
         }
     ],
     "wof:id":991191083,
-    "wof:lastmodified":1472767865,
+    "wof:lastmodified":1491924514,
     "wof:name":"Caballero Torres Jose Ricardo",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

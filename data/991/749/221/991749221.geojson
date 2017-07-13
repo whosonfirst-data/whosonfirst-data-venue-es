@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.7629780769,37.8974304199,-4.7629780769,37.8974304199",
     "geom:latitude":37.89743,
     "geom:longitude":-4.762978,
@@ -24,14 +25,14 @@
     "sg:province":"C\u00f3rdoba",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633129,
+        85863899,
+        85682697,
         85863895,
         102191581,
         404333687,
-        85633129,
         404227361,
-        101748233,
-        85682697,
-        85863899
+        101748233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,6 +43,12 @@
     "wof:geomhash":"8bdc170bb99ceffd3a9a5ed30e98942c",
     "wof:hierarchy":[
         {
+            "country_id":85633129,
+            "neighbourhood_id":85863899,
+            "region_id":85682697,
+            "venue_id":991749221
+        },
+        {
             "continent_id":102191581,
             "country_id":85633129,
             "localadmin_id":404333687,
@@ -50,18 +57,12 @@
             "neighbourhood_id":85863895,
             "region_id":85682697,
             "venue_id":991749221
-        },
-        {
-            "country_id":85633129,
-            "neighbourhood_id":85863899,
-            "region_id":85682697,
-            "venue_id":991749221
         }
     ],
     "wof:id":991749221,
-    "wof:lastmodified":1472770304,
+    "wof:lastmodified":1491929265,
     "wof:name":"Garcia Herrero Maria Araceli",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

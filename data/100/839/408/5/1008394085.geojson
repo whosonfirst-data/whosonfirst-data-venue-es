@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.9592890739,37.390789032,-5.9592890739,37.390789032",
     "geom:latitude":37.390789,
     "geom:longitude":-5.959289,
@@ -29,14 +30,14 @@
     "sg:province":"Sevilla",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85864157,
+        85864175,
         102191581,
         404342947,
         85633129,
         404227361,
         101748225,
         85682841,
-        85864175
+        85864157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +53,7 @@
             "localadmin_id":404342947,
             "locality_id":101748225,
             "macroregion_id":404227361,
-            "neighbourhood_id":85864157,
+            "neighbourhood_id":85864175,
             "region_id":85682841,
             "venue_id":1008394085
         },
@@ -62,15 +63,15 @@
             "localadmin_id":404342947,
             "locality_id":101748225,
             "macroregion_id":404227361,
-            "neighbourhood_id":85864175,
+            "neighbourhood_id":85864157,
             "region_id":85682841,
             "venue_id":1008394085
         }
     ],
     "wof:id":1008394085,
-    "wof:lastmodified":1472768364,
+    "wof:lastmodified":1491906874,
     "wof:name":"Rojas Millan Jose",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

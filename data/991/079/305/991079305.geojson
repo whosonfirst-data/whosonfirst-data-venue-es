@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.4306697845,36.7098350525,-4.4306697845,36.7098350525",
     "geom:latitude":36.709835,
     "geom:longitude":-4.43067,
@@ -24,14 +25,14 @@
     "sg:province":"M\u00e1laga",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633129,
+        101748185,
+        85863541,
         85863493,
         102191581,
         404339241,
-        85633129,
         404227361,
-        101748185,
-        85682787,
-        85863541
+        85682787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,6 +43,15 @@
     "wof:geomhash":"f1eb989636569bb075a0635617d8bc78",
     "wof:hierarchy":[
         {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748185,
+            "neighbourhood_id":85863541,
+            "region_id":-1,
+            "venue_id":991079305
+        },
+        {
             "continent_id":102191581,
             "country_id":85633129,
             "localadmin_id":404339241,
@@ -50,21 +60,12 @@
             "neighbourhood_id":85863493,
             "region_id":85682787,
             "venue_id":991079305
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633129,
-            "county_id":-1,
-            "locality_id":101748185,
-            "neighbourhood_id":85863541,
-            "region_id":-1,
-            "venue_id":991079305
         }
     ],
     "wof:id":991079305,
-    "wof:lastmodified":1472766924,
+    "wof:lastmodified":1491936533,
     "wof:name":"Ayuntamiento De Malaga",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

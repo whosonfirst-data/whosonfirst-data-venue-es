@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.678291,40.429783,-3.678291,40.429783",
     "geom:latitude":40.429783,
     "geom:longitude":-3.678291,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85863673,
+        102191581,
+        404338863,
         85633129,
+        404227387,
         101748283,
         85682783,
         85863675
@@ -38,26 +42,30 @@
     "wof:geomhash":"b0578eaa55af12cb67779dee13f139ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633129,
+            "localadmin_id":404338863,
             "locality_id":101748283,
+            "macroregion_id":404227387,
             "neighbourhood_id":85863673,
             "region_id":85682783,
             "venue_id":169645651
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633129,
+            "localadmin_id":404338863,
             "locality_id":101748283,
+            "macroregion_id":404227387,
             "neighbourhood_id":85863675,
             "region_id":85682783,
             "venue_id":169645651
         }
     ],
     "wof:id":169645651,
-    "wof:lastmodified":1472767087,
+    "wof:lastmodified":1491930453,
     "wof:name":"Abrines Alcala Alfredo Antonio",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

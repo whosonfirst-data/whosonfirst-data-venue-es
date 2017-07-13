@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.7636752129,37.8969955444,-4.7636752129,37.8969955444",
     "geom:latitude":37.896996,
     "geom:longitude":-4.763675,
@@ -24,14 +25,14 @@
     "sg:province":"C\u00f3rdoba",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633129,
+        85863899,
+        85682697,
         85863895,
         102191581,
         404333687,
-        85633129,
         404227361,
-        101748233,
-        85682697,
-        85863899
+        101748233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,6 +43,12 @@
     "wof:geomhash":"9d3a89209846d774d4d286a10c71bb9b",
     "wof:hierarchy":[
         {
+            "country_id":85633129,
+            "neighbourhood_id":85863899,
+            "region_id":85682697,
+            "venue_id":991950709
+        },
+        {
             "continent_id":102191581,
             "country_id":85633129,
             "localadmin_id":404333687,
@@ -50,18 +57,12 @@
             "neighbourhood_id":85863895,
             "region_id":85682697,
             "venue_id":991950709
-        },
-        {
-            "country_id":85633129,
-            "neighbourhood_id":85863899,
-            "region_id":85682697,
-            "venue_id":991950709
         }
     ],
     "wof:id":991950709,
-    "wof:lastmodified":1472770685,
+    "wof:lastmodified":1491929242,
     "wof:name":"Industrias Juno S.a.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

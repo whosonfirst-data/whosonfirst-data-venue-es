@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6639509201,40.4341163635,-3.6639509201,40.4341163635",
     "geom:latitude":40.434116,
     "geom:longitude":-3.663951,
@@ -24,14 +25,14 @@
     "sg:province":"Madrid",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863683,
+        85863643,
         102191581,
         404338863,
         85633129,
         404227387,
         101748283,
         85682783,
-        85863643
+        85863683
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
             "localadmin_id":404338863,
             "locality_id":101748283,
             "macroregion_id":404227387,
-            "neighbourhood_id":85863683,
+            "neighbourhood_id":85863643,
             "region_id":85682783,
             "venue_id":1008467251
         },
@@ -57,15 +58,15 @@
             "localadmin_id":404338863,
             "locality_id":101748283,
             "macroregion_id":404227387,
-            "neighbourhood_id":85863643,
+            "neighbourhood_id":85863683,
             "region_id":85682783,
             "venue_id":1008467251
         }
     ],
     "wof:id":1008467251,
-    "wof:lastmodified":1472769021,
+    "wof:lastmodified":1491921555,
     "wof:name":"San Frutos Alonso Abilio",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

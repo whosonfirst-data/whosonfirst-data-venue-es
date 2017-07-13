@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1843180656,41.3971977234,2.1843180656,41.3971977234",
     "geom:latitude":41.397198,
     "geom:longitude":2.184318,
@@ -24,14 +25,14 @@
     "sg:province":"Barcelona",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663,
         85864013,
         102191581,
         404330921,
-        85633129,
         404227379,
-        101748323,
-        85682663,
-        85864029
+        101748323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,6 +43,12 @@
     "wof:geomhash":"d13a1e93c306e5f4495a5233b63e2e4a",
     "wof:hierarchy":[
         {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1008360301
+        },
+        {
             "continent_id":102191581,
             "country_id":85633129,
             "localadmin_id":404330921,
@@ -50,18 +57,12 @@
             "neighbourhood_id":85864013,
             "region_id":85682663,
             "venue_id":1008360301
-        },
-        {
-            "country_id":85633129,
-            "neighbourhood_id":85864029,
-            "region_id":85682663,
-            "venue_id":1008360301
         }
     ],
     "wof:id":1008360301,
-    "wof:lastmodified":1472766790,
+    "wof:lastmodified":1491932868,
     "wof:name":"Rio Martinez Juan Jose",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

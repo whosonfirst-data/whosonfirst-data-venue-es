@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.9643380642,43.2710990906,-2.9643380642,43.2710990906",
     "geom:latitude":43.271099,
     "geom:longitude":-2.964338,
@@ -25,16 +26,16 @@
     "sg:website":"www.propol.es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863983,
+        85863941,
         102191581,
-        404346149,
+        404345949,
         85633129,
         404227393,
-        101850537,
+        101748385,
         85682879,
-        85863941,
-        404345949,
-        101748385
+        85863983,
+        404346149,
+        101850537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,28 +48,28 @@
         {
             "continent_id":102191581,
             "country_id":85633129,
-            "localadmin_id":404346149,
-            "locality_id":101850537,
-            "macroregion_id":404227393,
-            "neighbourhood_id":85863983,
-            "region_id":85682879,
-            "venue_id":1008278949
-        },
-        {
-            "continent_id":102191581,
-            "country_id":85633129,
             "localadmin_id":404345949,
             "locality_id":101748385,
             "macroregion_id":404227393,
             "neighbourhood_id":85863941,
             "region_id":85682879,
             "venue_id":1008278949
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404346149,
+            "locality_id":101850537,
+            "macroregion_id":404227393,
+            "neighbourhood_id":85863983,
+            "region_id":85682879,
+            "venue_id":1008278949
         }
     ],
     "wof:id":1008278949,
-    "wof:lastmodified":1472769455,
+    "wof:lastmodified":1491936391,
     "wof:name":"Productos Vulcanizados S.a.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

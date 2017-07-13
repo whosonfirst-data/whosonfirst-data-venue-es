@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.7678642273,37.8967132568,-4.7678642273,37.8967132568",
     "geom:latitude":37.896713,
     "geom:longitude":-4.767864,
@@ -24,14 +25,14 @@
     "sg:province":"C\u00f3rdoba",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633129,
+        85863899,
+        85682697,
         85863895,
         102191581,
         404333687,
-        85633129,
         404227361,
-        101748233,
-        85682697,
-        85863899
+        101748233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,6 +43,12 @@
     "wof:geomhash":"fb497bc370942f8a9a45f65ce24b132b",
     "wof:hierarchy":[
         {
+            "country_id":85633129,
+            "neighbourhood_id":85863899,
+            "region_id":85682697,
+            "venue_id":990985951
+        },
+        {
             "continent_id":102191581,
             "country_id":85633129,
             "localadmin_id":404333687,
@@ -50,18 +57,12 @@
             "neighbourhood_id":85863895,
             "region_id":85682697,
             "venue_id":990985951
-        },
-        {
-            "country_id":85633129,
-            "neighbourhood_id":85863899,
-            "region_id":85682697,
-            "venue_id":990985951
         }
     ],
     "wof:id":990985951,
-    "wof:lastmodified":1472768214,
+    "wof:lastmodified":1491929250,
     "wof:name":"Aperfosa",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6779949665,40.4298820496,-3.6779949665,40.4298820496",
     "geom:latitude":40.429882,
     "geom:longitude":-3.677995,
@@ -24,14 +25,14 @@
     "sg:province":"Madrid",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863675,
+        85863673,
         102191581,
         404338863,
         85633129,
         404227387,
         101748283,
         85682783,
-        85863673
+        85863675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
             "localadmin_id":404338863,
             "locality_id":101748283,
             "macroregion_id":404227387,
-            "neighbourhood_id":85863675,
+            "neighbourhood_id":85863673,
             "region_id":85682783,
             "venue_id":991273647
         },
@@ -57,15 +58,15 @@
             "localadmin_id":404338863,
             "locality_id":101748283,
             "macroregion_id":404227387,
-            "neighbourhood_id":85863673,
+            "neighbourhood_id":85863675,
             "region_id":85682783,
             "venue_id":991273647
         }
     ],
     "wof:id":991273647,
-    "wof:lastmodified":1472769563,
+    "wof:lastmodified":1491930470,
     "wof:name":"Carreras Gamazo Jose",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

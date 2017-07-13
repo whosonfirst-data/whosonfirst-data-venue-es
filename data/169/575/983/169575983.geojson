@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.68289,40.451145,-3.68289,40.451145",
     "geom:latitude":40.451145,
     "geom:longitude":-3.68289,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85863651,
+        102191581,
+        404338863,
         85633129,
+        404227387,
         101748283,
         85682783
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"c519870ecf2c31f6df62c43c0597a90c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633129,
+            "localadmin_id":404338863,
             "locality_id":101748283,
+            "macroregion_id":404227387,
             "neighbourhood_id":85863651,
             "region_id":85682783,
             "venue_id":169575983
         }
     ],
     "wof:id":169575983,
-    "wof:lastmodified":1472766753,
+    "wof:lastmodified":1491918047,
     "wof:name":"Aba N.v.",
     "wof:parent_id":85863651,
     "wof:placetype":"venue",

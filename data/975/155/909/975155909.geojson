@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.4192271233,36.7191390991,-4.4192271233,36.7191390991",
     "geom:latitude":36.719139,
     "geom:longitude":-4.419227,
@@ -24,14 +25,14 @@
     "sg:province":"M\u00e1laga",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863491,
+        85863505,
         102191581,
         404339241,
         85633129,
         404227361,
         101748185,
         85682787,
-        85863505
+        85863491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
             "localadmin_id":404339241,
             "locality_id":101748185,
             "macroregion_id":404227361,
-            "neighbourhood_id":85863491,
+            "neighbourhood_id":85863505,
             "region_id":85682787,
             "venue_id":975155909
         },
@@ -57,15 +58,15 @@
             "localadmin_id":404339241,
             "locality_id":101748185,
             "macroregion_id":404227361,
-            "neighbourhood_id":85863505,
+            "neighbourhood_id":85863491,
             "region_id":85682787,
             "venue_id":975155909
         }
     ],
     "wof:id":975155909,
-    "wof:lastmodified":1472767127,
+    "wof:lastmodified":1491914666,
     "wof:name":"Acg Gestion S.l.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

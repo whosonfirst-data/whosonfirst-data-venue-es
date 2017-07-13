@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.154882,41.427025,2.154882,41.427025",
     "geom:latitude":41.427025,
     "geom:longitude":2.154882,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85799399,
+        102191581,
+        404330921,
         85633129,
+        404227379,
         101748323,
         85682663
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"1ae2b8db357d5f00ab1a693d7758aae0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633129,
+            "localadmin_id":404330921,
             "locality_id":101748323,
+            "macroregion_id":404227379,
             "neighbourhood_id":85799399,
             "region_id":85682663,
             "venue_id":169655531
         }
     ],
     "wof:id":169655531,
-    "wof:lastmodified":1472767094,
+    "wof:lastmodified":1491903741,
     "wof:name":"Abuja Nieto Maria Jose",
     "wof:parent_id":85799399,
     "wof:placetype":"venue",

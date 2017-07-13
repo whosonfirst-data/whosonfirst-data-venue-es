@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.421686,36.722767,-4.421686,36.722767",
     "geom:latitude":36.722767,
     "geom:longitude":-4.421686,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85863505,
+        102191581,
+        404339241,
         85633129,
+        404227361,
         101748185,
         85682787
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"e080cea5c4ffc5e87d5eb96bef5db02a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633129,
+            "localadmin_id":404339241,
             "locality_id":101748185,
+            "macroregion_id":404227361,
             "neighbourhood_id":85863505,
             "region_id":85682787,
             "venue_id":169579453
         }
     ],
     "wof:id":169579453,
-    "wof:lastmodified":1472766669,
+    "wof:lastmodified":1491914660,
     "wof:name":"Abbott Laboratories S.a.",
     "wof:parent_id":85863505,
     "wof:placetype":"venue",

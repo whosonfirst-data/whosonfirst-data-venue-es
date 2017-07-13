@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.629401,40.478489,-3.629401,40.478489",
     "geom:latitude":40.478489,
     "geom:longitude":-3.629401,
@@ -24,8 +25,8 @@
     "sg:province":"Madrid",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863581,
         85633129,
+        85863581,
         85682783
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"29a9e5b6852d37562d1b5aa46a54fe2d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633129,
-            "locality_id":-1,
             "neighbourhood_id":85863581,
             "region_id":85682783,
             "venue_id":169559203
         }
     ],
     "wof:id":169559203,
-    "wof:lastmodified":1472766651,
+    "wof:lastmodified":1491924519,
     "wof:name":"1969 El A\u00d1o Que Cambio El Rock S.l.",
     "wof:parent_id":85863581,
     "wof:placetype":"venue",

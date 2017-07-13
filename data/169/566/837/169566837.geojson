@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.126224,41.365463,2.126224,41.365463",
     "geom:latitude":41.365463,
     "geom:longitude":2.126224,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85799585,
+        102191581,
+        404330921,
         85633129,
+        404227379,
         101748323,
         85682663
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"99d19b1b1d3c6358539e0d3452d6d84a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633129,
+            "localadmin_id":404330921,
             "locality_id":101748323,
+            "macroregion_id":404227379,
             "neighbourhood_id":85799585,
             "region_id":85682663,
             "venue_id":169566837
         }
     ],
     "wof:id":169566837,
-    "wof:lastmodified":1472766743,
+    "wof:lastmodified":1491885774,
     "wof:name":"Abad Alonso Maria Cristina",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",

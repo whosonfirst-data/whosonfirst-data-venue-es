@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6639070511,40.4795455933,-3.6639070511,40.4795455933",
     "geom:latitude":40.479546,
     "geom:longitude":-3.663907,
@@ -24,14 +25,14 @@
     "sg:province":"Madrid",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863567,
+        85863579,
         102191581,
         404338863,
         85633129,
         404227387,
         101748283,
         85682783,
-        85863579
+        85863567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
             "localadmin_id":404338863,
             "locality_id":101748283,
             "macroregion_id":404227387,
-            "neighbourhood_id":85863567,
+            "neighbourhood_id":85863579,
             "region_id":85682783,
             "venue_id":991771933
         },
@@ -57,15 +58,15 @@
             "localadmin_id":404338863,
             "locality_id":101748283,
             "macroregion_id":404227387,
-            "neighbourhood_id":85863579,
+            "neighbourhood_id":85863567,
             "region_id":85682783,
             "venue_id":991771933
         }
     ],
     "wof:id":991771933,
-    "wof:lastmodified":1472770581,
+    "wof:lastmodified":1491886097,
     "wof:name":"Garrote Garcia Alberto",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

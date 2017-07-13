@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.9761271477,37.3589706421,-5.9761271477,37.3589706421",
     "geom:latitude":37.358971,
     "geom:longitude":-5.976127,
@@ -24,14 +25,14 @@
     "sg:province":"Sevilla",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633129,
+        85864193,
+        85682841,
         85864189,
         102191581,
         404342947,
-        85633129,
         404227361,
-        101748225,
-        85682841,
-        85864193
+        101748225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,6 +43,12 @@
     "wof:geomhash":"ae8d59214d65b7b1619d852433e556a3",
     "wof:hierarchy":[
         {
+            "country_id":85633129,
+            "neighbourhood_id":85864193,
+            "region_id":85682841,
+            "venue_id":991097149
+        },
+        {
             "continent_id":102191581,
             "country_id":85633129,
             "localadmin_id":404342947,
@@ -50,18 +57,12 @@
             "neighbourhood_id":85864189,
             "region_id":85682841,
             "venue_id":991097149
-        },
-        {
-            "country_id":85633129,
-            "neighbourhood_id":85864193,
-            "region_id":85682841,
-            "venue_id":991097149
         }
     ],
     "wof:id":991097149,
-    "wof:lastmodified":1472767088,
+    "wof:lastmodified":1491933968,
     "wof:name":"Bamiseco S.l.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

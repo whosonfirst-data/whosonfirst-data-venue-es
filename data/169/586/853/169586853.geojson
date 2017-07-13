@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.660672,40.41058,-3.660672,40.41058",
     "geom:latitude":40.41058,
     "geom:longitude":-3.660672,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85863693,
+        102191581,
+        404338863,
         85633129,
+        404227387,
         101748283,
         85682783
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"56aea29137f8db2ba4e26ba36fdb4fe5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633129,
+            "localadmin_id":404338863,
             "locality_id":101748283,
+            "macroregion_id":404227387,
             "neighbourhood_id":85863693,
             "region_id":85682783,
             "venue_id":169586853
         }
     ],
     "wof:id":169586853,
-    "wof:lastmodified":1472766665,
+    "wof:lastmodified":1491918268,
     "wof:name":"Abella Gavela Blanca",
     "wof:parent_id":85863693,
     "wof:placetype":"venue",

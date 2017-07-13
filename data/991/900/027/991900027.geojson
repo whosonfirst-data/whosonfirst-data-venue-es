@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.3662891388,36.7223320007,-4.3662891388,36.7223320007",
     "geom:latitude":36.722332,
     "geom:longitude":-4.366289,
@@ -25,10 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85633129,
-        85863517,
-        85682787,
         101748185,
-        85863513
+        85863513,
+        85863517,
+        85682787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,12 +40,6 @@
     "wof:geomhash":"16740e7b2ac6c62f5525513165a89f2a",
     "wof:hierarchy":[
         {
-            "country_id":85633129,
-            "neighbourhood_id":85863517,
-            "region_id":85682787,
-            "venue_id":991900027
-        },
-        {
             "continent_id":-1,
             "country_id":85633129,
             "county_id":-1,
@@ -52,12 +47,18 @@
             "neighbourhood_id":85863513,
             "region_id":-1,
             "venue_id":991900027
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863517,
+            "region_id":85682787,
+            "venue_id":991900027
         }
     ],
     "wof:id":991900027,
-    "wof:lastmodified":1472770506,
+    "wof:lastmodified":1491916698,
     "wof:name":"Hernandez Wert Manuel",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

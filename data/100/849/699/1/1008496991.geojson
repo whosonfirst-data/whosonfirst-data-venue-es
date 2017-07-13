@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.4275660515,36.713092804,-4.4275660515,36.713092804",
     "geom:latitude":36.713093,
     "geom:longitude":-4.427566,
@@ -24,14 +25,14 @@
     "sg:province":"M\u00e1laga",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633129,
+        101748185,
+        85863541,
         85863493,
         102191581,
         404339241,
-        85633129,
         404227361,
-        101748185,
-        85682787,
-        85863541
+        85682787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,6 +43,15 @@
     "wof:geomhash":"f7df1d4726c958bae9ff0c660b0918b7",
     "wof:hierarchy":[
         {
+            "continent_id":-1,
+            "country_id":85633129,
+            "county_id":-1,
+            "locality_id":101748185,
+            "neighbourhood_id":85863541,
+            "region_id":-1,
+            "venue_id":1008496991
+        },
+        {
             "continent_id":102191581,
             "country_id":85633129,
             "localadmin_id":404339241,
@@ -50,21 +60,12 @@
             "neighbourhood_id":85863493,
             "region_id":85682787,
             "venue_id":1008496991
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633129,
-            "county_id":-1,
-            "locality_id":101748185,
-            "neighbourhood_id":85863541,
-            "region_id":-1,
-            "venue_id":1008496991
         }
     ],
     "wof:id":1008496991,
-    "wof:lastmodified":1472769078,
+    "wof:lastmodified":1491936541,
     "wof:name":"Semagescon S.l.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

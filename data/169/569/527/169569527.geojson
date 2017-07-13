@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.880673,41.655872,-0.880673,41.655872",
     "geom:latitude":41.655872,
     "geom:longitude":-0.880673,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85863325,
+        102191581,
+        404347363,
         85633129,
+        404227363,
         101748361,
         85682891
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"10b693b57d3b66d929382879174a5fe0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633129,
+            "localadmin_id":404347363,
             "locality_id":101748361,
+            "macroregion_id":404227363,
             "neighbourhood_id":85863325,
             "region_id":85682891,
             "venue_id":169569527
         }
     ],
     "wof:id":169569527,
-    "wof:lastmodified":1472766672,
+    "wof:lastmodified":1491915099,
     "wof:name":"Abadia Samatan Miguel",
     "wof:parent_id":85863325,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.681575,40.424717,-3.681575,40.424717",
     "geom:latitude":40.424717,
     "geom:longitude":-3.681575,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85863675,
+        102191581,
+        404338863,
         85633129,
+        404227387,
         101748283,
         85682783
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"23f0efb4f7d9faf9c79cc87ef3ba9ddc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633129,
+            "localadmin_id":404338863,
             "locality_id":101748283,
+            "macroregion_id":404227387,
             "neighbourhood_id":85863675,
             "region_id":85682783,
             "venue_id":169570135
         }
     ],
     "wof:id":169570135,
-    "wof:lastmodified":1472766659,
+    "wof:lastmodified":1491930469,
     "wof:name":"Abad Lara Maria Luisa",
     "wof:parent_id":85863675,
     "wof:placetype":"venue",

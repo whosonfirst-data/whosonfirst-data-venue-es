@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.884416,41.668835,-0.884416,41.668835",
     "geom:latitude":41.668835,
     "geom:longitude":-0.884416,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85863309,
+        102191581,
+        404347363,
         85633129,
+        404227363,
         101748361,
         85682891
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"b00d5be5bee19727a2752242f38f5f90",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633129,
+            "localadmin_id":404347363,
             "locality_id":101748361,
+            "macroregion_id":404227363,
             "neighbourhood_id":85863309,
             "region_id":85682891,
             "venue_id":169658211
         }
     ],
     "wof:id":169658211,
-    "wof:lastmodified":1472767099,
+    "wof:lastmodified":1491902275,
     "wof:name":"Abz S.c.",
     "wof:parent_id":85863309,
     "wof:placetype":"venue",

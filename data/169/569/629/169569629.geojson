@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.828313,41.651855,-0.828313,41.651855",
     "geom:latitude":41.651855,
     "geom:longitude":-0.828313,
@@ -24,8 +25,8 @@
     "sg:province":"Zaragoza",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863327,
         85633129,
+        85863327,
         85682891
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"43fb9236bf85a99a9a8b7b9ca25b1900",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633129,
-            "locality_id":-1,
             "neighbourhood_id":85863327,
             "region_id":85682891,
             "venue_id":169569629
         }
     ],
     "wof:id":169569629,
-    "wof:lastmodified":1472766682,
+    "wof:lastmodified":1491907539,
     "wof:name":"Abadia Seral Francisco Angel",
     "wof:parent_id":85863327,
     "wof:placetype":"venue",

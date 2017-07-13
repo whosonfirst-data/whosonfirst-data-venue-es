@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.4166980088,39.470161438,-0.4166980088,39.470161438",
     "geom:latitude":39.470161,
     "geom:longitude":-0.416698,
@@ -24,14 +25,14 @@
     "sg:province":"Valencia",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633129,
+        85799211,
+        85682867,
         85864219,
         102191581,
         404345047,
-        85633129,
         404227381,
-        101753691,
-        85682867,
-        85799211
+        101753691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,6 +43,12 @@
     "wof:geomhash":"b2521e2f3a1b61dc812d594174446e5b",
     "wof:hierarchy":[
         {
+            "country_id":85633129,
+            "neighbourhood_id":85799211,
+            "region_id":85682867,
+            "venue_id":1008491559
+        },
+        {
             "continent_id":102191581,
             "country_id":85633129,
             "localadmin_id":404345047,
@@ -50,18 +57,12 @@
             "neighbourhood_id":85864219,
             "region_id":85682867,
             "venue_id":1008491559
-        },
-        {
-            "country_id":85633129,
-            "neighbourhood_id":85799211,
-            "region_id":85682867,
-            "venue_id":1008491559
         }
     ],
     "wof:id":1008491559,
-    "wof:lastmodified":1472767354,
+    "wof:lastmodified":1491931495,
     "wof:name":"Segametal S.l.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1742730141,41.3994636536,2.1742730141,41.3994636536",
     "geom:latitude":41.399464,
     "geom:longitude":2.174273,
@@ -24,14 +25,14 @@
     "sg:province":"Barcelona",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633129,
+        85864029,
+        85682663,
         85864013,
         102191581,
         404330921,
-        85633129,
         404227379,
-        101748323,
-        85682663,
-        85864029
+        101748323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,6 +43,12 @@
     "wof:geomhash":"df6180576bc7e5529f8a663a6b41503c",
     "wof:hierarchy":[
         {
+            "country_id":85633129,
+            "neighbourhood_id":85864029,
+            "region_id":85682663,
+            "venue_id":1007919857
+        },
+        {
             "continent_id":102191581,
             "country_id":85633129,
             "localadmin_id":404330921,
@@ -50,18 +57,12 @@
             "neighbourhood_id":85864013,
             "region_id":85682663,
             "venue_id":1007919857
-        },
-        {
-            "country_id":85633129,
-            "neighbourhood_id":85864029,
-            "region_id":85682663,
-            "venue_id":1007919857
         }
     ],
     "wof:id":1007919857,
-    "wof:lastmodified":1472769557,
+    "wof:lastmodified":1491932855,
     "wof:name":"Martinez Bonjoch German",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

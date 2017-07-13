@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7143640518,40.4278678894,-3.7143640518,40.4278678894",
     "geom:latitude":40.427868,
     "geom:longitude":-3.714364,
@@ -24,14 +25,14 @@
     "sg:province":"Madrid",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863659,
+        85863669,
         102191581,
         404338863,
         85633129,
         404227387,
         101748283,
         85682783,
-        85863669
+        85863659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
             "localadmin_id":404338863,
             "locality_id":101748283,
             "macroregion_id":404227387,
-            "neighbourhood_id":85863659,
+            "neighbourhood_id":85863669,
             "region_id":85682783,
             "venue_id":1008256649
         },
@@ -57,15 +58,15 @@
             "localadmin_id":404338863,
             "locality_id":101748283,
             "macroregion_id":404227387,
-            "neighbourhood_id":85863669,
+            "neighbourhood_id":85863659,
             "region_id":85682783,
             "venue_id":1008256649
         }
     ],
     "wof:id":1008256649,
-    "wof:lastmodified":1472768912,
+    "wof:lastmodified":1491885045,
     "wof:name":"Polin Asesores S.l.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

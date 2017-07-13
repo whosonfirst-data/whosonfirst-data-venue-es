@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.66602,40.431801,-3.66602,40.431801",
     "geom:latitude":40.431801,
     "geom:longitude":-3.66602,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85863683,
+        102191581,
+        404338863,
         85633129,
+        404227387,
         101748283,
         85682783
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"b59c0f2181233f4eb531f5854ef97679",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633129,
+            "localadmin_id":404338863,
             "locality_id":101748283,
+            "macroregion_id":404227387,
             "neighbourhood_id":85863683,
             "region_id":85682783,
             "venue_id":169559033
         }
     ],
     "wof:id":169559033,
-    "wof:lastmodified":1472768226,
+    "wof:lastmodified":1491921545,
     "wof:name":"18000 Revoluciones S.l.",
     "wof:parent_id":85863683,
     "wof:placetype":"venue",

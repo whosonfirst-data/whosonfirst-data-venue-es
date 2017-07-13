@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.9780964851,37.3789749146,-5.9780964851,37.3789749146",
     "geom:latitude":37.378975,
     "geom:longitude":-5.978096,
@@ -24,14 +25,14 @@
     "sg:province":"Sevilla",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85864171,
+        85864179,
         102191581,
         404342947,
         85633129,
         404227361,
         101748225,
         85682841,
-        85864179
+        85864171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
             "localadmin_id":404342947,
             "locality_id":101748225,
             "macroregion_id":404227361,
-            "neighbourhood_id":85864171,
+            "neighbourhood_id":85864179,
             "region_id":85682841,
             "venue_id":1008257191
         },
@@ -57,15 +58,15 @@
             "localadmin_id":404342947,
             "locality_id":101748225,
             "macroregion_id":404227361,
-            "neighbourhood_id":85864179,
+            "neighbourhood_id":85864171,
             "region_id":85682841,
             "venue_id":1008257191
         }
     ],
     "wof:id":1008257191,
-    "wof:lastmodified":1472769045,
+    "wof:lastmodified":1491915692,
     "wof:name":"Polo Bay S.l.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

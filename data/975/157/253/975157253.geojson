@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.8618273139,41.6472740173,-0.8618273139,41.6472740173",
     "geom:latitude":41.647274,
     "geom:longitude":-0.861827,
@@ -25,9 +26,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85633129,
-        85863327,
+        85863353,
         85682891,
-        85863353
+        85863327
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,21 +40,21 @@
     "wof:hierarchy":[
         {
             "country_id":85633129,
-            "neighbourhood_id":85863327,
+            "neighbourhood_id":85863353,
             "region_id":85682891,
             "venue_id":975157253
         },
         {
             "country_id":85633129,
-            "neighbourhood_id":85863353,
+            "neighbourhood_id":85863327,
             "region_id":85682891,
             "venue_id":975157253
         }
     ],
     "wof:id":975157253,
-    "wof:lastmodified":1472766799,
+    "wof:lastmodified":1491907546,
     "wof:name":"Acosta Torres Emilio",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.677994,40.406193,-3.677994,40.406193",
     "geom:latitude":40.406193,
     "geom:longitude":-3.677994,
@@ -26,7 +27,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85863739,
+        102191581,
+        404338863,
         85633129,
+        404227387,
         101748283,
         85682783
     ],
@@ -38,16 +42,18 @@
     "wof:geomhash":"466680920e22de545e42093f826d7fa2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633129,
+            "localadmin_id":404338863,
             "locality_id":101748283,
+            "macroregion_id":404227387,
             "neighbourhood_id":85863739,
             "region_id":85682783,
             "venue_id":169644085
         }
     ],
     "wof:id":169644085,
-    "wof:lastmodified":1472767070,
+    "wof:lastmodified":1491900746,
     "wof:name":"Abril S.a.",
     "wof:parent_id":85863739,
     "wof:placetype":"venue",

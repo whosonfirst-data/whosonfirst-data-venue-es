@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7176420689,40.4218177795,-3.7176420689,40.4218177795",
     "geom:latitude":40.421818,
     "geom:longitude":-3.717642,
@@ -24,14 +25,14 @@
     "sg:province":"Madrid",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863669,
+        85863747,
         102191581,
         404338863,
         85633129,
         404227387,
         101748283,
         85682783,
-        85863747
+        85863669
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
             "localadmin_id":404338863,
             "locality_id":101748283,
             "macroregion_id":404227387,
-            "neighbourhood_id":85863669,
+            "neighbourhood_id":85863747,
             "region_id":85682783,
             "venue_id":1008251941
         },
@@ -57,15 +58,15 @@
             "localadmin_id":404338863,
             "locality_id":101748283,
             "macroregion_id":404227387,
-            "neighbourhood_id":85863747,
+            "neighbourhood_id":85863669,
             "region_id":85682783,
             "venue_id":1008251941
         }
     ],
     "wof:id":1008251941,
-    "wof:lastmodified":1472767391,
+    "wof:lastmodified":1491885048,
     "wof:name":"Plaster Iberica S.l.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

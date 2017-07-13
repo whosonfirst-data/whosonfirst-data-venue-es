@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.9706540108,37.387550354,-5.9706540108,37.387550354",
     "geom:latitude":37.38755,
     "geom:longitude":-5.970654,
@@ -24,14 +25,14 @@
     "sg:province":"Sevilla",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85864161,
+        85864159,
         102191581,
         404342947,
         85633129,
         404227361,
         101748225,
         85682841,
-        85864159
+        85864161
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
             "localadmin_id":404342947,
             "locality_id":101748225,
             "macroregion_id":404227361,
-            "neighbourhood_id":85864161,
+            "neighbourhood_id":85864159,
             "region_id":85682841,
             "venue_id":991273099
         },
@@ -57,15 +58,15 @@
             "localadmin_id":404342947,
             "locality_id":101748225,
             "macroregion_id":404227361,
-            "neighbourhood_id":85864159,
+            "neighbourhood_id":85864161,
             "region_id":85682841,
             "venue_id":991273099
         }
     ],
     "wof:id":991273099,
-    "wof:lastmodified":1472769527,
+    "wof:lastmodified":1491893735,
     "wof:name":"Carrera Estepa Maria De Las Mercedes",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

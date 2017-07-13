@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.41900599,39.4704856873,-0.41900599,39.4704856873",
     "geom:latitude":39.470486,
     "geom:longitude":-0.419006,
@@ -24,14 +25,14 @@
     "sg:province":"Valencia",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633129,
+        85799211,
+        85682867,
         85864219,
         102191581,
         404345047,
-        85633129,
         404227381,
-        101753691,
-        85682867,
-        85799211
+        101753691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,6 +43,12 @@
     "wof:geomhash":"d82eb8d290cac76df27dd1ef8efbb947",
     "wof:hierarchy":[
         {
+            "country_id":85633129,
+            "neighbourhood_id":85799211,
+            "region_id":85682867,
+            "venue_id":991643459
+        },
+        {
             "continent_id":102191581,
             "country_id":85633129,
             "localadmin_id":404345047,
@@ -50,18 +57,12 @@
             "neighbourhood_id":85864219,
             "region_id":85682867,
             "venue_id":991643459
-        },
-        {
-            "country_id":85633129,
-            "neighbourhood_id":85799211,
-            "region_id":85682867,
-            "venue_id":991643459
         }
     ],
     "wof:id":991643459,
-    "wof:lastmodified":1472770115,
+    "wof:lastmodified":1491931487,
     "wof:name":"Fernandez Lopez Benjamin",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.942374,43.260124,-2.942374,43.260124",
     "geom:latitude":43.260124,
     "geom:longitude":-2.942374,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85863925,
+        102191581,
+        404345949,
         85633129,
+        404227393,
         101748385,
         85682879
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"07f250ed6d5b9eb6871178facef9633c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633129,
+            "localadmin_id":404345949,
             "locality_id":101748385,
+            "macroregion_id":404227393,
             "neighbourhood_id":85863925,
             "region_id":85682879,
             "venue_id":169570561
         }
     ],
     "wof:id":169570561,
-    "wof:lastmodified":1472766683,
+    "wof:lastmodified":1491901858,
     "wof:name":"Abad Marcos Isabel",
     "wof:parent_id":85863925,
     "wof:placetype":"venue",

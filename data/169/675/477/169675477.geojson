@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.76079,37.894104,-4.76079,37.894104",
     "geom:latitude":37.894104,
     "geom:longitude":-4.76079,
@@ -26,7 +27,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85863895,
+        102191581,
+        404333687,
         85633129,
+        404227361,
         101748233,
         85682697
     ],
@@ -38,16 +42,18 @@
     "wof:geomhash":"bab567963c8f8a05a8e7ad1ad49a5c2e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633129,
+            "localadmin_id":404333687,
             "locality_id":101748233,
+            "macroregion_id":404227361,
             "neighbourhood_id":85863895,
             "region_id":85682697,
             "venue_id":169675477
         }
     ],
     "wof:id":169675477,
-    "wof:lastmodified":1472767144,
+    "wof:lastmodified":1491929257,
     "wof:name":"Academia Salamanca Sl",
     "wof:parent_id":85863895,
     "wof:placetype":"venue",

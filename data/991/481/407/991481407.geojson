@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.8708108068,41.6491928101,-0.8708108068,41.6491928101",
     "geom:latitude":41.649193,
     "geom:longitude":-0.870811,
@@ -25,14 +26,14 @@
     "sg:website":"www.inveszar.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863349,
+        85863329,
         102191581,
         404347363,
         85633129,
         404227363,
         101748361,
         85682891,
-        85863329
+        85863349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +49,7 @@
             "localadmin_id":404347363,
             "locality_id":101748361,
             "macroregion_id":404227363,
-            "neighbourhood_id":85863349,
+            "neighbourhood_id":85863329,
             "region_id":85682891,
             "venue_id":991481407
         },
@@ -58,15 +59,15 @@
             "localadmin_id":404347363,
             "locality_id":101748361,
             "macroregion_id":404227363,
-            "neighbourhood_id":85863329,
+            "neighbourhood_id":85863349,
             "region_id":85682891,
             "venue_id":991481407
         }
     ],
     "wof:id":991481407,
-    "wof:lastmodified":1472769928,
+    "wof:lastmodified":1491887634,
     "wof:name":"Delgado Molina Vicente",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

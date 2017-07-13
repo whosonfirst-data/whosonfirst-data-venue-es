@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.876566,41.656349,-0.876566,41.656349",
     "geom:latitude":41.656349,
     "geom:longitude":-0.876566,
@@ -26,7 +27,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85863325,
+        102191581,
+        404347363,
         85633129,
+        404227363,
         101748361,
         85682891
     ],
@@ -38,16 +42,18 @@
     "wof:geomhash":"566ec059d6c6e778fb9a4ca613b495aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633129,
+            "localadmin_id":404347363,
             "locality_id":101748361,
+            "macroregion_id":404227363,
             "neighbourhood_id":85863325,
             "region_id":85682891,
             "venue_id":169685647
         }
     ],
     "wof:id":169685647,
-    "wof:lastmodified":1472767325,
+    "wof:lastmodified":1491915083,
     "wof:name":"Agromonegros S.a.",
     "wof:parent_id":85863325,
     "wof:placetype":"venue",

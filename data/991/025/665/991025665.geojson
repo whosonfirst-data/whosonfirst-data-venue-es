@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.7794456482,37.8726005554,-4.7794456482,37.8726005554",
     "geom:latitude":37.872601,
     "geom:longitude":-4.779446,
@@ -24,14 +25,14 @@
     "sg:province":"C\u00f3rdoba",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633129,
+        85863875,
+        85682697,
         85863871,
         102191581,
         404333687,
-        85633129,
         404227361,
-        101748233,
-        85682697,
-        85863875
+        101748233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,6 +43,12 @@
     "wof:geomhash":"25755d5fb2597acc3dc2cc5e2275ccdd",
     "wof:hierarchy":[
         {
+            "country_id":85633129,
+            "neighbourhood_id":85863875,
+            "region_id":85682697,
+            "venue_id":991025665
+        },
+        {
             "continent_id":102191581,
             "country_id":85633129,
             "localadmin_id":404333687,
@@ -50,18 +57,12 @@
             "neighbourhood_id":85863871,
             "region_id":85682697,
             "venue_id":991025665
-        },
-        {
-            "country_id":85633129,
-            "neighbourhood_id":85863875,
-            "region_id":85682697,
-            "venue_id":991025665
         }
     ],
     "wof:id":991025665,
-    "wof:lastmodified":1472766885,
+    "wof:lastmodified":1491914527,
     "wof:name":"Asesoria Sicilia Olloqui S.%",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

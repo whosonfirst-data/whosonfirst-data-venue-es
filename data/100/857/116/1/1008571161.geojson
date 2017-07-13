@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.9455890656,43.2487411499,-2.9455890656,43.2487411499",
     "geom:latitude":43.248741,
     "geom:longitude":-2.945589,
@@ -24,14 +25,14 @@
     "sg:province":"Vizcaya",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633129,
-        85863947,
-        85682879,
         85863927,
         102191581,
         404345949,
+        85633129,
         404227393,
-        101748385
+        101748385,
+        85682879,
+        85863947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,12 +43,6 @@
     "wof:geomhash":"3923f34dbcf4c5a00a35a2bdbf3d33df",
     "wof:hierarchy":[
         {
-            "country_id":85633129,
-            "neighbourhood_id":85863947,
-            "region_id":85682879,
-            "venue_id":1008571161
-        },
-        {
             "continent_id":102191581,
             "country_id":85633129,
             "localadmin_id":404345949,
@@ -56,12 +51,18 @@
             "neighbourhood_id":85863927,
             "region_id":85682879,
             "venue_id":1008571161
+        },
+        {
+            "country_id":85633129,
+            "neighbourhood_id":85863947,
+            "region_id":85682879,
+            "venue_id":1008571161
         }
     ],
     "wof:id":1008571161,
-    "wof:lastmodified":1472767175,
+    "wof:lastmodified":1491924664,
     "wof:name":"Suminor Nervion S.l.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

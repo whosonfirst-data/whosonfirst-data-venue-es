@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.4448652267,36.7163543701,-4.4448652267,36.7163543701",
     "geom:latitude":36.716354,
     "geom:longitude":-4.444865,
@@ -24,14 +25,14 @@
     "sg:province":"M\u00e1laga",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863445,
+        85863459,
         102191581,
         404339241,
         85633129,
         404227361,
         101748185,
         85682787,
-        85863459
+        85863445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
             "localadmin_id":404339241,
             "locality_id":101748185,
             "macroregion_id":404227361,
-            "neighbourhood_id":85863445,
+            "neighbourhood_id":85863459,
             "region_id":85682787,
             "venue_id":990924511
         },
@@ -57,15 +58,15 @@
             "localadmin_id":404339241,
             "locality_id":101748185,
             "macroregion_id":404227361,
-            "neighbourhood_id":85863459,
+            "neighbourhood_id":85863445,
             "region_id":85682787,
             "venue_id":990924511
         }
     ],
     "wof:id":990924511,
-    "wof:lastmodified":1472767609,
+    "wof:lastmodified":1491921478,
     "wof:name":"Alcantara Cruzado Ana",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

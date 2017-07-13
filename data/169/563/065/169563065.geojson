@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.890133,41.671772,-0.890133,41.671772",
     "geom:latitude":41.671772,
     "geom:longitude":-0.890133,
@@ -25,7 +26,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85863309,
+        102191581,
+        404347363,
         85633129,
+        404227363,
         101748361,
         85682891
     ],
@@ -37,16 +41,18 @@
     "wof:geomhash":"773c623a4207f86d653f78e0d72901ee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633129,
+            "localadmin_id":404347363,
             "locality_id":101748361,
+            "macroregion_id":404227363,
             "neighbourhood_id":85863309,
             "region_id":85682891,
             "venue_id":169563065
         }
     ],
     "wof:id":169563065,
-    "wof:lastmodified":1472766668,
+    "wof:lastmodified":1491902281,
     "wof:name":"5 A Sec Espa\u00d1a Sa",
     "wof:parent_id":85863309,
     "wof:placetype":"venue",

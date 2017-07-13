@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6363248825,40.47423172,-3.6363248825,40.47423172",
     "geom:latitude":40.474232,
     "geom:longitude":-3.636325,
@@ -24,14 +25,14 @@
     "sg:province":"Madrid",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633129,
+        85863581,
+        85682783,
         85863583,
         102191581,
         404338863,
-        85633129,
         404227387,
-        101748283,
-        85682783,
-        85863581
+        101748283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,6 +43,12 @@
     "wof:geomhash":"24daf800d0dc02b11ed423dcbcb52f3e",
     "wof:hierarchy":[
         {
+            "country_id":85633129,
+            "neighbourhood_id":85863581,
+            "region_id":85682783,
+            "venue_id":991836365
+        },
+        {
             "continent_id":102191581,
             "country_id":85633129,
             "localadmin_id":404338863,
@@ -50,18 +57,12 @@
             "neighbourhood_id":85863583,
             "region_id":85682783,
             "venue_id":991836365
-        },
-        {
-            "country_id":85633129,
-            "neighbourhood_id":85863581,
-            "region_id":85682783,
-            "venue_id":991836365
         }
     ],
     "wof:id":991836365,
-    "wof:lastmodified":1472770418,
+    "wof:lastmodified":1491924518,
     "wof:name":"Gonzalez Tarin Juan Carlos",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

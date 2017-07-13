@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.398973,39.48465,-0.398973,39.48465",
     "geom:latitude":39.48465,
     "geom:longitude":-0.398973,
@@ -24,8 +25,8 @@
     "sg:province":"Valencia",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85799211,
         85633129,
+        85799211,
         85682867
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"4beaacbf0d36625be04ea59a114c20cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633129,
-            "locality_id":-1,
             "neighbourhood_id":85799211,
             "region_id":85682867,
             "venue_id":169579259
         }
     ],
     "wof:id":169579259,
-    "wof:lastmodified":1472766663,
+    "wof:lastmodified":1491931477,
     "wof:name":"Abba Style S.l.",
     "wof:parent_id":85799211,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1585760117,41.4248085022,2.1585760117,41.4248085022",
     "geom:latitude":41.424809,
     "geom:longitude":2.158576,
@@ -25,14 +26,14 @@
     "sg:website":"www.caprabo.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863991,
+        85799399,
         102191581,
         404330921,
         85633129,
         404227379,
         101748323,
         85682663,
-        85799399
+        85863991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +49,7 @@
             "localadmin_id":404330921,
             "locality_id":101748323,
             "macroregion_id":404227379,
-            "neighbourhood_id":85863991,
+            "neighbourhood_id":85799399,
             "region_id":85682663,
             "venue_id":991252081
         },
@@ -58,15 +59,15 @@
             "localadmin_id":404330921,
             "locality_id":101748323,
             "macroregion_id":404227379,
-            "neighbourhood_id":85799399,
+            "neighbourhood_id":85863991,
             "region_id":85682663,
             "venue_id":991252081
         }
     ],
     "wof:id":991252081,
-    "wof:lastmodified":1472768215,
+    "wof:lastmodified":1491903792,
     "wof:name":"Caprabo S.a.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

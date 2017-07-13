@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.9368350506,43.2613487244,-2.9368350506,43.2613487244",
     "geom:latitude":43.261349,
     "geom:longitude":-2.936835,
@@ -24,14 +25,14 @@
     "sg:province":"Vizcaya",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863925,
+        85863957,
         102191581,
         404345949,
         85633129,
         404227393,
         101748385,
         85682879,
-        85863957
+        85863925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
             "localadmin_id":404345949,
             "locality_id":101748385,
             "macroregion_id":404227393,
-            "neighbourhood_id":85863925,
+            "neighbourhood_id":85863957,
             "region_id":85682879,
             "venue_id":1008122219
         },
@@ -57,15 +58,15 @@
             "localadmin_id":404345949,
             "locality_id":101748385,
             "macroregion_id":404227393,
-            "neighbourhood_id":85863957,
+            "neighbourhood_id":85863925,
             "region_id":85682879,
             "venue_id":1008122219
         }
     ],
     "wof:id":1008122219,
-    "wof:lastmodified":1472767623,
+    "wof:lastmodified":1491901839,
     "wof:name":"Oliver Lostao Francisco Javier",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],

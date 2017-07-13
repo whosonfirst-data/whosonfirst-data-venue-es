@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.834903,41.667469,-0.834903,41.667469",
     "geom:latitude":41.667469,
     "geom:longitude":-0.834903,
@@ -24,8 +25,8 @@
     "sg:province":"Zaragoza",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863327,
         85633129,
+        85863327,
         85682891
     ],
     "wof:breaches":[],
@@ -36,16 +37,14 @@
     "wof:geomhash":"759c0a56d32a79afb93278cbc4119259",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633129,
-            "locality_id":-1,
             "neighbourhood_id":85863327,
             "region_id":85682891,
             "venue_id":169569723
         }
     ],
     "wof:id":169569723,
-    "wof:lastmodified":1472766685,
+    "wof:lastmodified":1491907540,
     "wof:name":"Abadia Soriano Jose Ramon",
     "wof:parent_id":85863327,
     "wof:placetype":"venue",
