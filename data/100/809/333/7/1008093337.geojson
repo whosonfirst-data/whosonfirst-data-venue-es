@@ -7,13 +7,16 @@
     "addr:postcode":"28002",
     "addr:street":"Calle De Principe De Vergara",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.67867589,40.4391746521,-3.67867589,40.4391746521",
     "geom:latitude":40.439175,
     "geom:longitude":-3.678676,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Principe De Vergara, 112",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472599233,
-    "wof:geomhash":"48664344cf414cac973ced061bf1c82b",
+    "wof:geomhash":"b14e9995f7538811e598fd7bdeaf5370",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +56,17 @@
         }
     ],
     "wof:id":1008093337,
-    "wof:lastmodified":1472768031,
+    "wof:lastmodified":1510942652,
     "wof:name":"New Tandem Ett S.a.",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1008093341
+    ],
+    "wof:supersedes":[
+        1008093335
+    ],
     "wof:tags":[]
 },
   "bbox": [

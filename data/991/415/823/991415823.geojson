@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1472210884,41.3931159973,2.1472210884,41.3931159973",
     "geom:latitude":41.393116,
     "geom:longitude":2.147221,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Av Diagonal, 463",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472549718,
-    "wof:geomhash":"b0d05c287af016f61fd915bcbe92553a",
+    "wof:geomhash":"4a4614ab9aef5751a5e523cacfc5bb62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":991415823,
-    "wof:lastmodified":1472769851,
+    "wof:lastmodified":1510942416,
     "wof:name":"Construcciones Sarria 2000 S.a.",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991415821
+    ],
     "wof:tags":[]
 },
   "bbox": [

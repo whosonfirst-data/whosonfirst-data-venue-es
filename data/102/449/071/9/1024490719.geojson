@@ -7,13 +7,16 @@
     "addr:postcode":"41950",
     "addr:street":"Cno Tomares;Castilleja Cuesta Sevilla",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-6.0458288193,37.3869400024,-6.0458288193,37.3869400024",
     "geom:latitude":37.38694,
     "geom:longitude":-6.045829,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Cno Tomares, S/n",
     "sg:city":"Castilleja Cuesta",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472641223,
-    "wof:geomhash":"fcbac90a254b08e9a0622e1abaeeaaf6",
+    "wof:geomhash":"e667f3079e2826b860bab5eb779d3933",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":1024490719,
-    "wof:lastmodified":1472766906,
+    "wof:lastmodified":1510942261,
     "wof:name":"Zara Home Espa\u00d1a S.a.",
     "wof:parent_id":85864123,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1024490737
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

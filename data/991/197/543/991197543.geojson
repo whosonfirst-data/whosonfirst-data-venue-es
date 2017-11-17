@@ -7,13 +7,16 @@
     "addr:postcode":"11011",
     "addr:street":"Calle De Algeciras",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-6.2664961815,36.4964408875,-6.2664961815,36.4964408875",
     "geom:latitude":36.496441,
     "geom:longitude":-6.266496,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Algeciras, S/n",
     "sg:city":"Cadiz",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472536309,
-    "wof:geomhash":"e99a894a893763a26b8389d7fdab9e9c",
+    "wof:geomhash":"a6c5f7a3f1591a0cb9f9aee757cfbd82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":991197543,
-    "wof:lastmodified":1472768108,
+    "wof:lastmodified":1510943220,
     "wof:name":"Cadiz Motor Sport S.a.u.",
     "wof:parent_id":85799573,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991197545
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

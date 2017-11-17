@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-6.0015931129,37.378162384,-6.0015931129,37.378162384",
     "geom:latitude":37.378162,
     "geom:longitude":-6.001593,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avda Republica Argentina, 24",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472628340,
-    "wof:geomhash":"71ca3c063621b9b891c3dfdcc8b18c99",
+    "wof:geomhash":"4791926781eba24bc771eaafabafe208",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1008460499,
-    "wof:lastmodified":1472766867,
+    "wof:lastmodified":1510944103,
     "wof:name":"Sanchez Romero Jose Manuel",
     "wof:parent_id":85864129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008460497
+    ],
     "wof:tags":[]
 },
   "bbox": [

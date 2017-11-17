@@ -7,6 +7,7 @@
     "addr:postcode":"35010",
     "addr:street":"Calle De Pizarro",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-15.441159,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Calle de Pizarro, 1",
     "sg:city":"Palmas De Gran Canaria",
     "sg:classifiers":[],
@@ -36,12 +37,14 @@
     "wof:geomhash":"94c37bc5f09fe76c81862c54ade09d20",
     "wof:hierarchy":[],
     "wof:id":991801923,
-    "wof:lastmodified":1510876423,
+    "wof:lastmodified":1510942925,
     "wof:name":"Gobierno De Canarias",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991801929
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

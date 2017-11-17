@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7048397064,40.431968689,-3.7048397064,40.431968689",
     "geom:latitude":40.431969,
     "geom:longitude":-3.70484,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de San Bernardo, 122",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472632525,
-    "wof:geomhash":"913f3c4c68d7a7f6bc50384415eb71f8",
+    "wof:geomhash":"67cb1b94a62c0e5974847020b3e270ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1008559141,
-    "wof:lastmodified":1472769322,
+    "wof:lastmodified":1510941299,
     "wof:name":"Spril Norte S.l.",
     "wof:parent_id":85863661,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008559137
+    ],
     "wof:tags":[]
 },
   "bbox": [

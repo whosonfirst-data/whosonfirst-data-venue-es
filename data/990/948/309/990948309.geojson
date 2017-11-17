@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.9318771362,37.4069862366,-5.9318771362,37.4069862366",
     "geom:latitude":37.406986,
     "geom:longitude":-5.931877,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Innovacion, S/n",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472513964,
-    "wof:geomhash":"1ebb04cec0d27ea0712190035e89cedc",
+    "wof:geomhash":"0580bc0de5301f8875cd5e48590c324b",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,13 +46,15 @@
         }
     ],
     "wof:id":990948309,
-    "wof:lastmodified":1472767619,
+    "wof:lastmodified":1510942633,
     "wof:name":"Alphacan Espa\u00d1a S.a.",
     "wof:parent_id":85799527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        990948307
+    ],
     "wof:tags":[]
 },
   "bbox": [

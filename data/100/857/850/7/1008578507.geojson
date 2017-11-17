@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28037",
     "addr:street":"Calle De Albasanz",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6322610378,40.4357681274,-3.6322610378,40.4357681274",
     "geom:latitude":40.435768,
     "geom:longitude":-3.632261,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Albasanz, 14",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472633320,
-    "wof:geomhash":"6e7b097e2a2e5df974952c7439856d18",
+    "wof:geomhash":"7c51260c712330863c097a51b8bcc469",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1008578507,
-    "wof:lastmodified":1472769406,
+    "wof:lastmodified":1510942687,
     "wof:name":"Tableros Y Puentes S.a.",
     "wof:parent_id":85863641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008578509
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

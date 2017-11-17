@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28001",
     "addr:street":"Calle De Claudio Coello",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.686160326,40.4283294678,-3.686160326,40.4283294678",
     "geom:latitude":40.428329,
     "geom:longitude":-3.68616,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Claudio Coello, 65",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472541652,
-    "wof:geomhash":"d79e801be8f5ade6c5cb076c5b888c23",
+    "wof:geomhash":"b292f7eb04371151bb0937f6f916e815",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991278421,
-    "wof:lastmodified":1472769729,
+    "wof:lastmodified":1510941308,
     "wof:name":"Cartomania S. A.",
     "wof:parent_id":85863809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991278425
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

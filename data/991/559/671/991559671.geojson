@@ -7,13 +7,16 @@
     "addr:postcode":"48014",
     "addr:street":"Avda Madariaga",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.9439508915,43.2711486816,-2.9439508915,43.2711486816",
     "geom:latitude":43.271149,
     "geom:longitude":-2.943951,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avda Madariaga, 1",
     "sg:city":"Bilbao",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472557633,
-    "wof:geomhash":"24461b8e849719a3a991c72433570b5f",
+    "wof:geomhash":"3f980d00dd009832d196a5ea9ff76cac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991559671,
-    "wof:lastmodified":1472770116,
+    "wof:lastmodified":1510943012,
     "wof:name":"Elyo Iberica Servicios Energeticos S.a.",
     "wof:parent_id":85863943,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991559675
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

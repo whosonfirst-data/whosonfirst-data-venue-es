@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6990458965,40.4171714783,-3.6990458965,40.4171714783",
     "geom:latitude":40.417171,
     "geom:longitude":-3.699046,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Arlaban, 7",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472527699,
-    "wof:geomhash":"1e4336d85df2a88b658d3a1dadb4ccaa",
+    "wof:geomhash":"0e604f443f062543fee9c2cd9e6caceb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":991111551,
-    "wof:lastmodified":1472767299,
+    "wof:lastmodified":1510942102,
     "wof:name":"Bardinet S. A.",
     "wof:parent_id":85863685,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991111549
+    ],
     "wof:tags":[]
 },
   "bbox": [

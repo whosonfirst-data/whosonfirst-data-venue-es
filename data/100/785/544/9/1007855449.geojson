@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7105967999,40.3407516479,-3.7105967999,40.3407516479",
     "geom:latitude":40.340752,
     "geom:longitude":-3.710597,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Valle De Tobalina, 58",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472588973,
-    "wof:geomhash":"6bbf7248330879f7782e435a98fba0d0",
+    "wof:geomhash":"6ff21885c7ea2cc99e6db7a0e078b278",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":1007855449,
-    "wof:lastmodified":1472768628,
+    "wof:lastmodified":1510944166,
     "wof:name":"Lubricantes Internacionales Vitess S.a.",
     "wof:parent_id":85799667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1007855447
+    ],
     "wof:tags":[]
 },
   "bbox": [

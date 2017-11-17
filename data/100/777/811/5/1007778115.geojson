@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.5457680225,40.42578125,-3.5457680225,40.42578125",
     "geom:latitude":40.425781,
     "geom:longitude":-3.545768,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Mejico, 12",
     "sg:city":"Coslada",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472585141,
-    "wof:geomhash":"d0ab6cf996a4f25fa8f117e8db7a7c43",
+    "wof:geomhash":"e984819044ca18ad4fd281ed2b63f505",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,13 +46,15 @@
         }
     ],
     "wof:id":1007778115,
-    "wof:lastmodified":1472769265,
+    "wof:lastmodified":1510942878,
     "wof:name":"La Espiga Dorada S. A.",
     "wof:parent_id":85863631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1007778113
+    ],
     "wof:tags":[]
 },
   "bbox": [

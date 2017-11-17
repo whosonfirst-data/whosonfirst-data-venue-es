@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.8717639446,40.4534339905,-3.8717639446,40.4534339905",
     "geom:latitude":40.453434,
     "geom:longitude":-3.871764,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Fresa, S/n",
     "sg:city":"Majadahonda",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472589353,
-    "wof:geomhash":"44ed05a3c693c18a460d662806de9998",
+    "wof:geomhash":"012017b312880a70f261c664ddeaa5d5",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -45,13 +47,15 @@
         }
     ],
     "wof:id":1007862621,
-    "wof:lastmodified":1472767787,
+    "wof:lastmodified":1510942476,
     "wof:name":"Luz Luminus S.a.",
     "wof:parent_id":85863657,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1007862619
+    ],
     "wof:tags":[]
 },
   "bbox": [

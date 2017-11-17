@@ -7,13 +7,16 @@
     "addr:postcode":"08039",
     "addr:street":"Moll Espanya",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1832149029,41.3768348694,2.1832149029,41.3768348694",
     "geom:latitude":41.376835,
     "geom:longitude":2.183215,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Moll Espanya, S/n",
     "sg:city":"Barcelona",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472547987,
-    "wof:geomhash":"4cd86632b76ff28bffcebff189820735",
+    "wof:geomhash":"413692b9491bb85da5fbea08c56a0051",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":991388665,
-    "wof:lastmodified":1472769797,
+    "wof:lastmodified":1510944042,
     "wof:name":"Compa\u00f1ia De Iniciativas Y Espectaculos S.a.",
     "wof:parent_id":85864033,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991388667
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "salas",

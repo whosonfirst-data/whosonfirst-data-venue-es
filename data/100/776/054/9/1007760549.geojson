@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.4463591576,36.7186088562,-4.4463591576,36.7186088562",
     "geom:latitude":36.718609,
     "geom:longitude":-4.446359,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Virgen De La Esperanza, S/n",
     "sg:city":"Malaga",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472584273,
-    "wof:geomhash":"f22a67ab8c84d63ae401d15f12ca8a3b",
+    "wof:geomhash":"2cce24bea8dfd2a48c22a90209ff000d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1007760549,
-    "wof:lastmodified":1472766841,
+    "wof:lastmodified":1510943684,
     "wof:name":"Junta De Andalucia",
     "wof:parent_id":85863459,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1007760543
+    ],
     "wof:tags":[]
 },
   "bbox": [

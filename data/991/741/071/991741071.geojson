@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28014",
     "addr:street":"Calle De Alcala",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6990365982,40.4178848267,-3.6990365982,40.4178848267",
     "geom:latitude":40.417885,
     "geom:longitude":-3.699037,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Alcala, 20",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472567529,
-    "wof:geomhash":"aabbaccd2651c9e85690815d4961e057",
+    "wof:geomhash":"d2ee196696ae88e0884e2d940c32681a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991741071,
-    "wof:lastmodified":1472770233,
+    "wof:lastmodified":1510942887,
     "wof:name":"Garcia De Oteyza Van Den Brule Jorge",
     "wof:parent_id":85863685,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991741073
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7138841152,40.4493026733,-3.7138841152,40.4493026733",
     "geom:latitude":40.449303,
     "geom:longitude":-3.713884,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Almansa, 101",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472535013,
-    "wof:geomhash":"8c8de99ed43c9369bad920542f6cdf79",
+    "wof:geomhash":"9884ca3a638405e5b4c7b6277a44540b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":991181553,
-    "wof:lastmodified":1472768025,
+    "wof:lastmodified":1510943692,
     "wof:name":"Bt Espa\u00d1a Compa\u00d1ia De Servicios Globales De Telecomunicaciones S.a.u.",
     "wof:parent_id":85863619,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991181505
+    ],
     "wof:tags":[]
 },
   "bbox": [

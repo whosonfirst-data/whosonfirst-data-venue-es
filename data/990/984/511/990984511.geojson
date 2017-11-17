@@ -7,13 +7,16 @@
     "addr:postcode":"41001",
     "addr:street":"Calle De Mendez Nun\u0303Ez",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.9968266487,37.3905334473,-5.9968266487,37.3905334473",
     "geom:latitude":37.390533,
     "geom:longitude":-5.996827,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Mendez Nu\u00d1ez, 1",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472518025,
-    "wof:geomhash":"0b06cbfaa9ce95161ed58d4f25036d8e",
+    "wof:geomhash":"14af1626aaf361a1038c9341261013dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":990984511,
-    "wof:lastmodified":1472768117,
+    "wof:lastmodified":1510943220,
     "wof:name":"Aparcamientos Magdalena S.a.",
     "wof:parent_id":85864155,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        990984513
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"08018",
     "addr:street":"Carrer De Espronceda",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1991360188,41.4097175598,2.1991360188,41.4097175598",
     "geom:latitude":41.409718,
     "geom:longitude":2.199136,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Carrer de Espronceda, 180",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472637617,
-    "wof:geomhash":"2e31b32a31312d26aa482785a65e71d9",
+    "wof:geomhash":"092f081ce69e778bf4d5cd3de626c8a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,15 @@
         }
     ],
     "wof:id":1008679657,
-    "wof:lastmodified":1472769421,
+    "wof:lastmodified":1510943430,
     "wof:name":"Utiltall S. A.",
     "wof:parent_id":85799265,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008679659,
+        1008679661
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

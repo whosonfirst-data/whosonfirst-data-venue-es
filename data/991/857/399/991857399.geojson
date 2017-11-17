@@ -7,6 +7,7 @@
     "addr:postcode":"madrid;28001",
     "addr:street":"Calle De Lagasca",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-3.684651,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Lagasca, 88",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -41,7 +43,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472575212,
-    "wof:geomhash":"09fbd035c620507ae01901822e7b7117",
+    "wof:geomhash":"a47b7aa85e54ed8b143e1985088d6ccd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,12 +67,14 @@
         }
     ],
     "wof:id":991857399,
-    "wof:lastmodified":1491930460,
+    "wof:lastmodified":1510941810,
     "wof:name":"Grupo K-arc S.a.u.",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991857401
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

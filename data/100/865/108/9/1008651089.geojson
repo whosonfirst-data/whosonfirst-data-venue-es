@@ -7,13 +7,16 @@
     "addr:postcode":"48002",
     "addr:street":"Calle De Gordoniz",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.9454913139,43.2535324097,-2.9454913139,43.2535324097",
     "geom:latitude":43.253532,
     "geom:longitude":-2.945491,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Gordoniz, 44",
     "sg:city":"Bilbao",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472636451,
-    "wof:geomhash":"5bf3a075cfa7726ef339949c73e8f655",
+    "wof:geomhash":"a460805d0d8077b243f1aa3bcf58a306",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":1008651089,
-    "wof:lastmodified":1472767126,
+    "wof:lastmodified":1510942825,
     "wof:name":"Transportes S. Urrutia S.a.",
     "wof:parent_id":85863927,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008651091
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"33003",
     "addr:street":"Calle De San Francisco",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-5.846631,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Calle de San Francisco, 8",
     "sg:city":"Oviedo",
     "sg:classifiers":[],
@@ -37,12 +38,14 @@
     "wof:geomhash":"5d1d9d33a7ebfe35a86751b7cd72c7a1",
     "wof:hierarchy":[],
     "wof:id":1008716017,
-    "wof:lastmodified":1510875005,
+    "wof:lastmodified":1510943713,
     "wof:name":"Viajes Marsans S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008716057
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

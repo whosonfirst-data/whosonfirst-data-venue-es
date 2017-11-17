@@ -7,13 +7,16 @@
     "addr:postcode":"18001",
     "addr:street":"Avda Andalucia De S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6231584549,37.1929168701,-3.6231584549,37.1929168701",
     "geom:latitude":37.192917,
     "geom:longitude":-3.623158,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avda Andalucia (de), S/n",
     "sg:city":"Granada",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472508266,
-    "wof:geomhash":"c97d4776bd87db7bc9a47e8c12b5e32f",
+    "wof:geomhash":"3847b9e9d7d83efa82d8b664fbf72685",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":975166899,
-    "wof:lastmodified":1472767381,
+    "wof:lastmodified":1510942467,
     "wof:name":"Agencia Provincial De La Energia",
     "wof:parent_id":85863831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        975166901
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

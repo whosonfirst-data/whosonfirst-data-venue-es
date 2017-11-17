@@ -7,13 +7,16 @@
     "addr:postcode":"08037",
     "addr:street":"Carrer De Pau Claris",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.163351059,41.3954086304,2.163351059,41.3954086304",
     "geom:latitude":41.395409,
     "geom:longitude":2.163351,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Carrer de Pau Claris, 165",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472561576,
-    "wof:geomhash":"627b94bad38fa6e2b232077032473105",
+    "wof:geomhash":"e7cdbc6825f402124095f5b763295251",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991626035,
-    "wof:lastmodified":1472769939,
+    "wof:lastmodified":1510941459,
     "wof:name":"Federacio De Cooperatives D'habitatges De Catalunya",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991626037
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.70332551,40.4793395996,-3.70332551,40.4793395996",
     "geom:latitude":40.47934,
     "geom:longitude":-3.703326,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avda Monforte De Lemos, S/n",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472641037,
-    "wof:geomhash":"db58d01dcb37c6e7476d26604f4adba5",
+    "wof:geomhash":"77d4abbc3dc0d8abec63a0407b0b7df9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1024486599,
-    "wof:lastmodified":1472768753,
+    "wof:lastmodified":1510941835,
     "wof:name":"Zafan Iberica S.l.",
     "wof:parent_id":85863551,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1024486597
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7002141476,40.4176063538,-3.7002141476,40.4176063538",
     "geom:latitude":40.417606,
     "geom:longitude":-3.700214,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Alcala, 14",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472526906,
-    "wof:geomhash":"fdab12c259d03b7dba2f803fa39d9237",
+    "wof:geomhash":"65f0565168f16a3a1c0ab6366e9ffd17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":991101269,
-    "wof:lastmodified":1472767125,
+    "wof:lastmodified":1510943702,
     "wof:name":"Banco Espa\u00f1ol De Credito S.a.",
     "wof:parent_id":85863685,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991101265
+    ],
     "wof:tags":[]
 },
   "bbox": [

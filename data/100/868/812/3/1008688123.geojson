@@ -7,13 +7,16 @@
     "addr:postcode":"48009",
     "addr:street":"Mazarredo",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.9317979813,43.2676925659,-2.9317979813,43.2676925659",
     "geom:latitude":43.267693,
     "geom:longitude":-2.931798,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Alam Mazarredo, 47",
     "sg:city":"Bilbao",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472637988,
-    "wof:geomhash":"d4ab7b4ab870a3ed3a432715e21d000c",
+    "wof:geomhash":"de2fcd7f31afb97659b2411ba09eec7c",
     "wof:hierarchy":[
         {
             "campus_id":102545753,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":1008688123,
-    "wof:lastmodified":1472769223,
+    "wof:lastmodified":1510941887,
     "wof:name":"Valles Barea Maria De Las Nieves",
     "wof:parent_id":102545753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008688125
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

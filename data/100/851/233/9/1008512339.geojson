@@ -7,13 +7,16 @@
     "addr:postcode":"48510",
     "addr:street":"Ctra San Vicente;Trapaga",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.0064940453,43.298740387,-3.0064940453,43.298740387",
     "geom:latitude":43.29874,
     "geom:longitude":-3.006494,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ctra San Vicente, S/n",
     "sg:city":"Valle Trapaga",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472630535,
-    "wof:geomhash":"20806fbe6337c3377244f0bbeb787e7f",
+    "wof:geomhash":"290ec6d3de8413cb1a2c04b3bc329e41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1008512339,
-    "wof:lastmodified":1472767613,
+    "wof:lastmodified":1510943777,
     "wof:name":"Servicios De Mantenimiento Herca S.a.",
     "wof:parent_id":85799675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008512341
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

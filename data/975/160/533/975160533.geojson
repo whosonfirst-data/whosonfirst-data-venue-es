@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7023077011,40.4420547485,-3.7023077011,40.4420547485",
     "geom:latitude":40.442055,
     "geom:longitude":-3.702308,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Rios Rosas, 11",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472507849,
-    "wof:geomhash":"2e91ee4f511ce98234133c20961feae1",
+    "wof:geomhash":"75de431774293b1b8d0ca82cf5b7a3cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":975160533,
-    "wof:lastmodified":1472767063,
+    "wof:lastmodified":1510943506,
     "wof:name":"Adhe Iberica S.a.",
     "wof:parent_id":85863653,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        975160531
+    ],
     "wof:tags":[]
 },
   "bbox": [

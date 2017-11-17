@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7058765888,40.4198570251,-3.7058765888,40.4198570251",
     "geom:latitude":40.419857,
     "geom:longitude":-3.705877,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Plaz Callao, 4",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472521827,
-    "wof:geomhash":"baf29fd2fc0be406f1a3e4cb5e172ae6",
+    "wof:geomhash":"a91c61f2d57909e135d9f77ae145eab7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":991035253,
-    "wof:lastmodified":1472766724,
+    "wof:lastmodified":1510943424,
     "wof:name":"Asociacion De Revistas De Informacion",
     "wof:parent_id":85863667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991035251
+    ],
     "wof:tags":[]
 },
   "bbox": [

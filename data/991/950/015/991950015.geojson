@@ -7,13 +7,16 @@
     "addr:postcode":"46003",
     "addr:street":"Calle De Universidad",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.3726429939,39.4713783264,-0.3726429939,39.4713783264",
     "geom:latitude":39.471378,
     "geom:longitude":-0.372643,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Universidad, 4",
     "sg:city":"Valencia",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472579930,
-    "wof:geomhash":"798fb2cc421850a1a2daae8f53f04bf0",
+    "wof:geomhash":"71d2ab44fcdd71369b252415e30a7d7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":991950015,
-    "wof:lastmodified":1472770665,
+    "wof:lastmodified":1510942371,
     "wof:name":"Industrias Del Curtido S.a.",
     "wof:parent_id":85864217,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991950017
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

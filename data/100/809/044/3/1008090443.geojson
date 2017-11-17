@@ -7,13 +7,16 @@
     "addr:postcode":"48902",
     "addr:street":"Avda Miranda",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.9934709072,43.2985916138,-2.9934709072,43.2985916138",
     "geom:latitude":43.298592,
     "geom:longitude":-2.993471,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avda Miranda, 3",
     "sg:city":"San Vicente De Barakaldo",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472599105,
-    "wof:geomhash":"9d9c2c1a1551f0d26b5157be7632f59a",
+    "wof:geomhash":"6b0e05046133736d54b527c2aa0659e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1008090443,
-    "wof:lastmodified":1472766818,
+    "wof:lastmodified":1510943400,
     "wof:name":"Nervion Montajes Y Mantenimientos S.l.",
     "wof:parent_id":85799675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008090445
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

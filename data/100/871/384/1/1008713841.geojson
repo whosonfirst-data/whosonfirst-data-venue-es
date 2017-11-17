@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6987295151,40.4204292297,-3.6987295151,40.4204292297",
     "geom:latitude":40.420429,
     "geom:longitude":-3.69873,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Infantas, 30",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472639176,
-    "wof:geomhash":"f5dd92b9383c863cbf095bb95393532d",
+    "wof:geomhash":"13aa7e48738e9b9a30b3f2ffc0b6d10f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":1008713841,
-    "wof:lastmodified":1472768325,
+    "wof:lastmodified":1510942565,
     "wof:name":"Viajes Halcon S.a.",
     "wof:parent_id":85863791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008713839
+    ],
     "wof:tags":[]
 },
   "bbox": [

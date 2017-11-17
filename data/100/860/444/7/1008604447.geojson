@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7067530155,40.432723999,-3.7067530155,40.432723999",
     "geom:latitude":40.432724,
     "geom:longitude":-3.706753,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Arapiles, 13",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472634443,
-    "wof:geomhash":"957e18ffd9011c3e03d992f7ab486b7c",
+    "wof:geomhash":"0e177cbfd33764363079e96111fd5461",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":1008604447,
-    "wof:lastmodified":1472768538,
+    "wof:lastmodified":1510942505,
     "wof:name":"Tecnicas Reunidas S.a.",
     "wof:parent_id":85863661,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008604445
+    ],
     "wof:tags":[]
 },
   "bbox": [

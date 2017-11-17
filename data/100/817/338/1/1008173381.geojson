@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6871240139,40.4458312988,-3.6871240139,40.4458312988",
     "geom:latitude":40.445831,
     "geom:longitude":-3.687124,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Calle de Joaquin Costa, 10",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -34,11 +36,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":290715227,
         "sg:id":"SG_7AaiuxOxLb42N9MawLE09g_40.445831_-3.687124@1306269618"
     },
     "wof:country":"ES",
     "wof:created":1472604356,
-    "wof:geomhash":"1daffbf0382db951b84a524c8f5ed659",
+    "wof:geomhash":"0151b144fcebf3532b4b7623bcefe31c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1008173381,
-    "wof:lastmodified":1472768082,
+    "wof:lastmodified":1510943696,
     "wof:name":"Parroquia De San Agustin",
     "wof:parent_id":85863651,
     "wof:placetype":"venue",

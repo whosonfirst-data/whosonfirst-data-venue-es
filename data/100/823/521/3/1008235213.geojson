@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6779568195,40.4572944641,-3.6779568195,40.4572944641",
     "geom:latitude":40.457294,
     "geom:longitude":-3.677957,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Bolivia, 9",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472614237,
-    "wof:geomhash":"f0ce6c98bfd0b49e5e60e2e8f1745ef7",
+    "wof:geomhash":"0d08a3ea2b80b650076d0da6fc8610ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":1008235213,
-    "wof:lastmodified":1472768604,
+    "wof:lastmodified":1510943423,
     "wof:name":"Pe\u00f1as Gredos S.l.",
     "wof:parent_id":85799237,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008235211
+    ],
     "wof:tags":[]
 },
   "bbox": [

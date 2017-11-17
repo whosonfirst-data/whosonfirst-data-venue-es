@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Calle De Victor Pradera;La Rioja",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-2.447614,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Calle de Victor Pradera, 2",
     "sg:city":"Logro\u00f1o",
     "sg:classifiers":[],
@@ -55,13 +56,19 @@
         }
     ],
     "wof:id":975161363,
-    "wof:lastmodified":1510696805,
+    "wof:lastmodified":1510941992,
     "wof:name":"Administracion De Justicia",
     "wof:parent_id":102545713,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        975161365
+    ],
+    "wof:supersedes":[
+        975161337,
+        975161335,
+        975161361
+    ],
     "wof:tags":[]
 },
   "bbox": [

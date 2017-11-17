@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.6265869141,39.5660629272,2.6265869141,39.5660629272",
     "geom:latitude":39.566063,
     "geom:longitude":2.626587,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Av Joan Miro, 20",
     "sg:city":"Palma",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472553938,
-    "wof:geomhash":"753742c3af72ef0f60a88765b4623f4a",
+    "wof:geomhash":"ab9317bf70d1d3048c5f2538fccff44e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,13 +50,15 @@
         }
     ],
     "wof:id":991491539,
-    "wof:lastmodified":1472770036,
+    "wof:lastmodified":1510941698,
     "wof:name":"De Zabala Sarria Ignacio",
     "wof:parent_id":85864109,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991491537
+    ],
     "wof:tags":[]
 },
   "bbox": [

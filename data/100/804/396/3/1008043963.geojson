@@ -7,13 +7,16 @@
     "addr:postcode":"28223",
     "addr:street":"S / N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.8049790859,40.4216499329,-3.8049790859,40.4216499329",
     "geom:latitude":40.42165,
     "geom:longitude":-3.804979,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Pase Club Deportivo (del), S/n",
     "sg:city":"Humera-somosaguas-prado Del Rey",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472597062,
-    "wof:geomhash":"77318c5f41758b5b885dd14f22a4e16f",
+    "wof:geomhash":"e5dd52d085e0dc944355446087f4d84e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1008043963,
-    "wof:lastmodified":1472768289,
+    "wof:lastmodified":1510943467,
     "wof:name":"Moreno Garcia Ribera S.a.",
     "wof:parent_id":85863801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008043979
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

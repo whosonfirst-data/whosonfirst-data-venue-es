@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.9694439769,37.6158447266,-0.9694439769,37.6158447266",
     "geom:latitude":37.615845,
     "geom:longitude":-0.969444,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avda Bruselas, S/n",
     "sg:city":"Torreciega",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472587060,
-    "wof:geomhash":"bc893c5a1c2671d18e21402b05c62dbe",
+    "wof:geomhash":"34e25b189e59e0c5ae0d0c63e54d9749",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1007814093,
-    "wof:lastmodified":1472768280,
+    "wof:lastmodified":1510941208,
     "wof:name":"Llamas Parquet S.a.",
     "wof:parent_id":85799251,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1007814091
+    ],
     "wof:tags":[]
 },
   "bbox": [

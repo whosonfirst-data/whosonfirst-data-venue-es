@@ -7,13 +7,16 @@
     "addr:postcode":"08420",
     "addr:street":"Carrer De Barcelona;Nova Barcelona",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.2780098915,41.6220703125,2.2780098915,41.6220703125",
     "geom:latitude":41.62207,
     "geom:longitude":2.27801,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Carrer de Barcelona, 102",
     "sg:city":"Barriada Nova",
     "sg:classifiers":[],
@@ -31,16 +34,20 @@
     },
     "wof:country":"ES",
     "wof:created":1472597432,
-    "wof:geomhash":"74f689dd60203dc0fe0c8d91cc154290",
+    "wof:geomhash":"a3cc9e2d151da1f930a483bbed51f48f",
     "wof:hierarchy":[],
     "wof:id":1008052449,
-    "wof:lastmodified":1472767674,
+    "wof:lastmodified":1510942844,
     "wof:name":"Motoplastic S. A.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1008052453
+    ],
+    "wof:supersedes":[
+        1008052447
+    ],
     "wof:tags":[]
 },
   "bbox": [

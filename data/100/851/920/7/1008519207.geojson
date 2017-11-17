@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1919360161,41.3934631348,2.1919360161,41.3934631348",
     "geom:latitude":41.393463,
     "geom:longitude":2.191936,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Carrer de Llull, 48",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472630819,
-    "wof:geomhash":"c1f2496862712e0088eeee95d2fb7517",
+    "wof:geomhash":"83b85eaeb0426fad3b1be7861f16f01b",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,13 +46,15 @@
         }
     ],
     "wof:id":1008519207,
-    "wof:lastmodified":1472769285,
+    "wof:lastmodified":1510942071,
     "wof:name":"Se\u00f1alizaciones Y Suministros S. A.",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008519205
+    ],
     "wof:tags":[]
 },
   "bbox": [

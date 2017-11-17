@@ -7,6 +7,7 @@
     "addr:postcode":"45007",
     "addr:street":"Avda Rio Boladiez;Poligono Sta M. De Benquerencia",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-3.933808,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Avda Rio Boladiez, S/n",
     "sg:city":"Poligono Sta M. De Benquerencia",
     "sg:classifiers":[],
@@ -37,13 +38,18 @@
     "wof:geomhash":"29dd2c03f9c4cb54866f8185e28c4fc5",
     "wof:hierarchy":[],
     "wof:id":991438973,
-    "wof:lastmodified":1510874747,
+    "wof:lastmodified":1510941900,
     "wof:name":"Cortefiel S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        991438989
+    ],
+    "wof:supersedes":[
+        991438967,
+        991438971
+    ],
     "wof:tags":[]
 },
   "bbox": [

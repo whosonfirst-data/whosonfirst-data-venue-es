@@ -7,13 +7,16 @@
     "addr:postcode":"14013",
     "addr:street":"Calle De Motril S / N;Co\u0301Rdoba",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.7775440216,37.8632583618,-4.7775440216,37.8632583618",
     "geom:latitude":37.863258,
     "geom:longitude":-4.777544,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Motril, S/n",
     "sg:city":"Cordoba",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472584229,
-    "wof:geomhash":"2885a33fb38c13a2d390271161ba144e",
+    "wof:geomhash":"3d98b1e81f150af18b1f707b25c63127",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1007759603,
-    "wof:lastmodified":1472769457,
+    "wof:lastmodified":1510942861,
     "wof:name":"Junta De Andalucia",
     "wof:parent_id":85863871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1007759605
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

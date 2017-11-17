@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28001",
     "addr:street":"Calle De Ayala",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6845047474,40.4277496338,-3.6845047474,40.4277496338",
     "geom:latitude":40.42775,
     "geom:longitude":-3.684505,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Ayala, 27",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472581880,
-    "wof:geomhash":"a6a9d5f73d4a736a889227e237a9ebb4",
+    "wof:geomhash":"18f14ecffdee43c2ff513671518c4cbb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1007718373,
-    "wof:lastmodified":1472769227,
+    "wof:lastmodified":1510944197,
     "wof:name":"Jaime Gallo S.a.",
     "wof:parent_id":85863675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1007718375
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

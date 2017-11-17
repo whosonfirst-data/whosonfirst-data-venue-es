@@ -7,13 +7,16 @@
     "addr:postcode":"48005",
     "addr:street":"Calle De Arenal",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.9241740704,43.2593193054,-2.9241740704,43.2593193054",
     "geom:latitude":43.259319,
     "geom:longitude":-2.924174,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Arenal, 5",
     "sg:city":"Bilbao",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472630648,
-    "wof:geomhash":"b669b536ed471b3b4a71109180bca630",
+    "wof:geomhash":"cb2b90b3f6e42b5b8b870283c7cbce77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1008514815,
-    "wof:lastmodified":1472768487,
+    "wof:lastmodified":1510943363,
     "wof:name":"Servicios Urbanos Mantenimiento Y Aparcamientos S.a.",
     "wof:parent_id":85863961,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008514817
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

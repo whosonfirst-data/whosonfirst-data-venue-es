@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.641576767,40.4362831116,-3.641576767,40.4362831116",
     "geom:latitude":40.436283,
     "geom:longitude":-3.641577,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Alcala, 391",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472632625,
-    "wof:geomhash":"363f206abfb0c4e51258e5c69181a456",
+    "wof:geomhash":"1eff7fd01c61c42f03de719715bdbed5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":1008561601,
-    "wof:lastmodified":1472767282,
+    "wof:lastmodified":1510942303,
     "wof:name":"Stradivarius Espa\u00f1a S.a.",
     "wof:parent_id":85863639,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008561599
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.6622231007,39.5785293579,2.6622231007,39.5785293579",
     "geom:latitude":39.578529,
     "geom:longitude":2.662223,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Carrer de Marques Fontsanta, 86",
     "sg:city":"Palma",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472536823,
-    "wof:geomhash":"7786c07e3e74768ac3aa14c3daff6452",
+    "wof:geomhash":"79556d1f7c426324c26b65eb3454bfb1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":991204279,
-    "wof:lastmodified":1472768009,
+    "wof:lastmodified":1510943080,
     "wof:name":"Caixa D'estalvis I Pensions De Barcelona",
     "wof:parent_id":85864089,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991204231
+    ],
     "wof:tags":[]
 },
   "bbox": [

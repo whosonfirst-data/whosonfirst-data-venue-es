@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6804330349,40.4241027832,-3.6804330349,40.4241027832",
     "geom:latitude":40.424103,
     "geom:longitude":-3.680433,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Principe De Vergara, 13",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472549958,
-    "wof:geomhash":"f810f0c50cd549f32165ec8482256792",
+    "wof:geomhash":"cbb3a6b5ea4387ab4d414be590430f0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":991420259,
-    "wof:lastmodified":1472769656,
+    "wof:lastmodified":1510942850,
     "wof:name":"Consulta Y Seleccion S. A.",
     "wof:parent_id":85863675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991420257
+    ],
     "wof:tags":[]
 },
   "bbox": [

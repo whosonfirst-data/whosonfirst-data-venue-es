@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.8756539822,41.6333770752,-0.8756539822,41.6333770752",
     "geom:latitude":41.633377,
     "geom:longitude":-0.875654,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Zaragoza La Vieja, 2",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472566528,
-    "wof:geomhash":"4552296e19e4cfb6a4fe362c51733748",
+    "wof:geomhash":"e91312a2398a9065d590d3c6d0f5a50e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":991721171,
-    "wof:lastmodified":1472770265,
+    "wof:lastmodified":1510943151,
     "wof:name":"Galerias Primero S.a.",
     "wof:parent_id":85863383,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991721165
+    ],
     "wof:tags":[]
 },
   "bbox": [

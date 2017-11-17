@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.9784770012,41.4735145569,1.9784770012,41.4735145569",
     "geom:latitude":41.473515,
     "geom:longitude":1.978477,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Carrer de Mecanica, 4",
     "sg:city":"Polingons Industrials Santa Rita-agripina",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472558571,
-    "wof:geomhash":"a650e03b26526784062c475f84c679d2",
+    "wof:geomhash":"60217311a7d7383545598b0d83ea776b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":991577189,
-    "wof:lastmodified":1472770006,
+    "wof:lastmodified":1510943870,
     "wof:name":"Escorxador Gremial De Catalunya S. A.",
     "wof:parent_id":85864241,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991577185
+    ],
     "wof:tags":[]
 },
   "bbox": [

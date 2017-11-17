@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.441868782,36.714050293,-4.441868782,36.714050293",
     "geom:latitude":36.71405,
     "geom:longitude":-4.441869,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Conde De Guadalhorce, S/n",
     "sg:city":"Malaga",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472525174,
-    "wof:geomhash":"02332e9ca475ee8f9e4096ffd4651899",
+    "wof:geomhash":"7c6db7f765d493ac9bb9bdd9579b3a34",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":991079351,
-    "wof:lastmodified":1472766938,
+    "wof:lastmodified":1510944155,
     "wof:name":"Ayuntamiento De Malaga",
     "wof:parent_id":85863445,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991079303
+    ],
     "wof:tags":[]
 },
   "bbox": [

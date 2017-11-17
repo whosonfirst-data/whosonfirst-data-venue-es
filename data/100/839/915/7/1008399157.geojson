@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1716721058,41.3887023926,2.1716721058,41.3887023926",
     "geom:latitude":41.388702,
     "geom:longitude":2.171672,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Rond Sant Pere, 17",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472625675,
-    "wof:geomhash":"24e4e2ba64ad4afcc25fb10a7c50a46d",
+    "wof:geomhash":"078e036641bbe94cee3797909bc1c44d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1008399157,
-    "wof:lastmodified":1472769497,
+    "wof:lastmodified":1510941684,
     "wof:name":"Romero Cruz Jose Antonio",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008399155
+    ],
     "wof:tags":[]
 },
   "bbox": [

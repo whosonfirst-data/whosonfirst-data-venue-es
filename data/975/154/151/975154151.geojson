@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28020",
     "addr:street":"Calle De Orense",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.694272995,40.4598197937,-3.694272995,40.4598197937",
     "geom:latitude":40.45982,
     "geom:longitude":-3.694273,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Orense, 81",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472507384,
-    "wof:geomhash":"ff25b1cec54c012ca3b64b657fe3abf0",
+    "wof:geomhash":"600594a7b0baa5a8bb737bfa382135c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":975154151,
-    "wof:lastmodified":1472766787,
+    "wof:lastmodified":1510941657,
     "wof:name":"Ace Consultores De Idiomas S.a.",
     "wof:parent_id":85863603,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        975154153
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

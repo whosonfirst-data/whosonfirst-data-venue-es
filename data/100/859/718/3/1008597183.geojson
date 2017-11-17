@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28021",
     "addr:street":"Calle De San Erasmo",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7064712048,40.3334083557,-3.7064712048,40.3334083557",
     "geom:latitude":40.333408,
     "geom:longitude":-3.706471,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de San Erasmo, 42",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472634122,
-    "wof:geomhash":"e857d950193c14ea68608ea7d27e89e6",
+    "wof:geomhash":"2acd7d091fb5d32271ba860f9087540f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1008597183,
-    "wof:lastmodified":1472768973,
+    "wof:lastmodified":1510942008,
     "wof:name":"Tantra S.l.",
     "wof:parent_id":85799667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008597189
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

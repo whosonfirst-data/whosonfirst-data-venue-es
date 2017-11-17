@@ -7,13 +7,16 @@
     "addr:postcode":"08013",
     "addr:street":"Carrer De Valencia",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1789610386,41.4044303894,2.1789610386,41.4044303894",
     "geom:latitude":41.40443,
     "geom:longitude":2.178961,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Carrer de Valencia, 492",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472509374,
-    "wof:geomhash":"6522401e7259f4ccc0b7293634994e3e",
+    "wof:geomhash":"b64f1664ad0fb82b54101521c1d85011",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":990907885,
-    "wof:lastmodified":1472767450,
+    "wof:lastmodified":1510944010,
     "wof:name":"Agullo Oltra Correduria De Seguros S.a.",
     "wof:parent_id":85864013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        990907889
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

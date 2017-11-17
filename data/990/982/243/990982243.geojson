@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6863200665,40.426864624,-3.6863200665,40.426864624",
     "geom:latitude":40.426865,
     "geom:longitude":-3.68632,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Claudio Coello, 46",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472517858,
-    "wof:geomhash":"e9dbf6d4b38cc6a67229b3047c246f8d",
+    "wof:geomhash":"b0af89d79a33d3759c0c39451adf5898",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":990982243,
-    "wof:lastmodified":1472767942,
+    "wof:lastmodified":1510943029,
     "wof:name":"Antonio Pernas S. A.",
     "wof:parent_id":85863809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        990982241
+    ],
     "wof:tags":[]
 },
   "bbox": [

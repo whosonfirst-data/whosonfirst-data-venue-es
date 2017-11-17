@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6872270107,40.4253196716,-3.6872270107,40.4253196716",
     "geom:latitude":40.42532,
     "geom:longitude":-3.687227,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Goya, 6",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472511367,
-    "wof:geomhash":"9c09d690681e88c066437ba6b9fa20d5",
+    "wof:geomhash":"0915d524b89a9d5c5751b1bf5b8748f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":990931387,
-    "wof:lastmodified":1472767616,
+    "wof:lastmodified":1510941693,
     "wof:name":"Alfaro Moreno Hilario",
     "wof:parent_id":85863809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        990931381
+    ],
     "wof:tags":[]
 },
   "bbox": [

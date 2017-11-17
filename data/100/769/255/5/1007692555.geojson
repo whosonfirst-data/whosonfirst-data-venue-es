@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28020",
     "addr:street":"Avda General Peron",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6916680336,40.4520454407,-3.6916680336,40.4520454407",
     "geom:latitude":40.452045,
     "geom:longitude":-3.691668,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avda General Peron, 40",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472580621,
-    "wof:geomhash":"34459a9ae0edba7a45b73c2197dab3bc",
+    "wof:geomhash":"9e1947377a9ca8ac48797e12141e4465",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":1007692555,
-    "wof:lastmodified":1472767766,
+    "wof:lastmodified":1510943068,
     "wof:name":"Instabuk S.l.",
     "wof:parent_id":85863621,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1007692557
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

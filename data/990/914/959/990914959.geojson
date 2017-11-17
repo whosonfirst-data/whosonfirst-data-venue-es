@@ -7,13 +7,16 @@
     "addr:postcode":"43570",
     "addr:street":"Pl Alcalde Cid I Cid De L '",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.4928140938,40.714466095,0.4928140938,40.714466095",
     "geom:latitude":40.714466,
     "geom:longitude":0.492814,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Pl Alcalde Cid I Cid (de L'), 1",
     "sg:city":"Santa Barbara",
     "sg:classifiers":[],
@@ -31,16 +34,20 @@
     },
     "wof:country":"ES",
     "wof:created":1472510021,
-    "wof:geomhash":"275669947d1a01b9e3afc57f3c690652",
+    "wof:geomhash":"2df3aa8ceb730f34c6407d76ad07a2d2",
     "wof:hierarchy":[],
     "wof:id":990914959,
-    "wof:lastmodified":1472767486,
+    "wof:lastmodified":1510942018,
     "wof:name":"Ajuntament De Santa Barbara",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        990914959
+    ],
+    "wof:supersedes":[
+        990914959
+    ],
     "wof:tags":[]
 },
   "bbox": [

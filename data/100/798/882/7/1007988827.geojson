@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6970305443,40.441783905,-3.6970305443,40.441783905",
     "geom:latitude":40.441784,
     "geom:longitude":-3.697031,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Rios Rosas, 44",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472594689,
-    "wof:geomhash":"d3b04be9458721a5270d58bf3cdce9ce",
+    "wof:geomhash":"aa959cf5aa30e72bb688a55dd9d8cffc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1007988827,
-    "wof:lastmodified":1472769081,
+    "wof:lastmodified":1510941865,
     "wof:name":"Mertri S.a.",
     "wof:parent_id":85863649,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1007988825
+    ],
     "wof:tags":[]
 },
   "bbox": [

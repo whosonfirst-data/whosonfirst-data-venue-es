@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.4893333018,38.3455085754,-0.4893333018,38.3455085754",
     "geom:latitude":38.345509,
     "geom:longitude":-0.489333,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Medico Pascual Perez, 44",
     "sg:city":"Alacant",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472522778,
-    "wof:geomhash":"23799b9f18751841498d05541f877f4a",
+    "wof:geomhash":"7db9c4ad3ade592e4c9f746b9a4e9939",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":991047857,
-    "wof:lastmodified":1472766935,
+    "wof:lastmodified":1510943451,
     "wof:name":"Athena Dapa Atlantida S.a.",
     "wof:parent_id":85864055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991047855
+    ],
     "wof:tags":[]
 },
   "bbox": [

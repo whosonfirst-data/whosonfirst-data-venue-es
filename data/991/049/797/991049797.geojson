@@ -7,13 +7,16 @@
     "addr:postcode":"28006",
     "addr:street":"Calle De Conde De Pen\u0303Alver",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6757040024,40.4248352051,-3.6757040024,40.4248352051",
     "geom:latitude":40.424835,
     "geom:longitude":-3.675704,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Conde De Pe\u00d1alver, 2",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472522914,
-    "wof:geomhash":"6c6038c752796a32f638b74651585e13",
+    "wof:geomhash":"8daab0b35efa797d07d32dbeefb8ab13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":991049797,
-    "wof:lastmodified":1472767050,
+    "wof:lastmodified":1510943583,
     "wof:name":"Audifon Iberica S.l.",
     "wof:parent_id":85863677,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991049803
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"41018",
     "addr:street":"Calle De Luis De Morales",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.9728064537,37.3849868774,-5.9728064537,37.3849868774",
     "geom:latitude":37.384987,
     "geom:longitude":-5.972806,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Luis De Morales, S/n",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472641200,
-    "wof:geomhash":"8d2dfcddd1ad55ad6c2c5218d46b0e28",
+    "wof:geomhash":"7b7096f55ad9f424cd02b76cc702fa48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":1024490185,
-    "wof:lastmodified":1472766750,
+    "wof:lastmodified":1510942315,
     "wof:name":"Zara Espa\u00f1a S.a.",
     "wof:parent_id":85864161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1024490217
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

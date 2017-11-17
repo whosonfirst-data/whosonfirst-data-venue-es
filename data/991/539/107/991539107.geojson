@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28001",
     "addr:street":"Calle De Serrano",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6876740456,40.4272155762,-3.6876740456,40.4272155762",
     "geom:latitude":40.427216,
     "geom:longitude":-3.687674,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Serrano, 29",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472556454,
-    "wof:geomhash":"4de421c541f2d590aa63a34f8c6e4ae8",
+    "wof:geomhash":"a2847cb0853915b9c3442ff066e5554b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":991539107,
-    "wof:lastmodified":1472769917,
+    "wof:lastmodified":1510943936,
     "wof:name":"Edicomsa International Inc S.a.",
     "wof:parent_id":85863809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991539109
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.933743,43.2572822571,-2.933743,43.2572822571",
     "geom:latitude":43.257282,
     "geom:longitude":-2.933743,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Hurtado De Amezaga, 27",
     "sg:city":"Bilbao",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472599576,
-    "wof:geomhash":"2f89431d7f477e9d7b25989abf8f34dc",
+    "wof:geomhash":"2862aea9f42ed156f40f7ca95c30c990",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1008101255,
-    "wof:lastmodified":1472767162,
+    "wof:lastmodified":1510942892,
     "wof:name":"Norybai Agencia De Transportes S.a.",
     "wof:parent_id":85863957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008101253
+    ],
     "wof:tags":[]
 },
   "bbox": [

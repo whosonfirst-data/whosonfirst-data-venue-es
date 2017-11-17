@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.4344491959,36.7136077881,-4.4344491959,36.7136077881",
     "geom:latitude":36.713608,
     "geom:longitude":-4.434449,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Mauricio Moro Pareto, 2",
     "sg:city":"Malaga",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472603859,
-    "wof:geomhash":"7d773c60ba1ba169f290113d64928c28",
+    "wof:geomhash":"2f8944c23bdc2d022aac5a1989557a7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1008169537,
-    "wof:lastmodified":1472769523,
+    "wof:lastmodified":1510943904,
     "wof:name":"Parque Malaga S.a.",
     "wof:parent_id":85863493,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008169535
+    ],
     "wof:tags":[]
 },
   "bbox": [

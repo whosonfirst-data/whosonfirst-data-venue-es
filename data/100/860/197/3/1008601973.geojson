@@ -7,13 +7,16 @@
     "addr:postcode":"48001",
     "addr:street":"Calle De San Vicente",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.9277210236,43.2642745972,-2.9277210236,43.2642745972",
     "geom:latitude":43.264275,
     "geom:longitude":-2.927721,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de San Vicente, 8",
     "sg:city":"Bilbao",
     "sg:classifiers":[],
@@ -40,7 +43,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472634336,
-    "wof:geomhash":"6718cd07f88f243519f2bf4cbf2839ef",
+    "wof:geomhash":"0146e877def1daffc7f5b226d10925f1",
     "wof:hierarchy":[
         {
             "campus_id":102545753,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":1008601973,
-    "wof:lastmodified":1472767463,
+    "wof:lastmodified":1510942602,
     "wof:name":"Tci Cortes Xxi S.a.u.",
     "wof:parent_id":102545753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008601975
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

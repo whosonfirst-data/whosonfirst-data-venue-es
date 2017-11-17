@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.9682888985,37.3696060181,-5.9682888985,37.3696060181",
     "geom:latitude":37.369606,
     "geom:longitude":-5.968289,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Tamarguillo, S/n",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472639206,
-    "wof:geomhash":"abd54e054f3ca6ecf99581565b8c07a5",
+    "wof:geomhash":"8fc337da3904541165cbbc5d3fb99381",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":1008714467,
-    "wof:lastmodified":1472768517,
+    "wof:lastmodified":1510943224,
     "wof:name":"Viajes Halcon S.a.",
     "wof:parent_id":85864187,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008714419
+    ],
     "wof:tags":[]
 },
   "bbox": [

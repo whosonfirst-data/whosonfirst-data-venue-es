@@ -7,13 +7,16 @@
     "addr:postcode":"46910",
     "addr:street":"Avda Albufera;/ N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.3895339966,39.4232254028,-0.3895339966,39.4232254028",
     "geom:latitude":39.423225,
     "geom:longitude":-0.389534,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avda Albufera, S/n",
     "sg:city":"Alfafar",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472553794,
-    "wof:geomhash":"db5f61b2b815acac502cfcaa03922b9f",
+    "wof:geomhash":"df363920c238d05dcb97df6bb8b0eb05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991488693,
-    "wof:lastmodified":1472770071,
+    "wof:lastmodified":1510943286,
     "wof:name":"Desarrollo Y Expansion Del Mueble S.a.",
     "wof:parent_id":85864197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991488695
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

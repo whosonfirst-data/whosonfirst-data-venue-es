@@ -7,6 +7,7 @@
     "addr:postcode":"35509",
     "addr:street":"Calle De Chimidas",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-13.585592,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Calle de Chimidas, 20",
     "sg:city":"Playa Honda",
     "sg:classifiers":[],
@@ -37,12 +38,14 @@
     "wof:geomhash":"226e63030501cf8a5b0c88d166050921",
     "wof:hierarchy":[],
     "wof:id":991439057,
-    "wof:lastmodified":1510874746,
+    "wof:lastmodified":1510942522,
     "wof:name":"Cortefiel S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991439053
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

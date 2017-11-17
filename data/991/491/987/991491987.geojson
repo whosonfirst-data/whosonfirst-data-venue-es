@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6721019745,40.442276001,-3.6721019745,40.442276001",
     "geom:latitude":40.442276,
     "geom:longitude":-3.672102,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Juan Bautista De Toledo, 31",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472553963,
-    "wof:geomhash":"2757a3ad70c807c925059c52bb680d14",
+    "wof:geomhash":"feb22f49c9c4039f6ed3836c168de998",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":991491987,
-    "wof:lastmodified":1472770162,
+    "wof:lastmodified":1510941244,
     "wof:name":"Diafragma S.a.",
     "wof:parent_id":85799435,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991491961
+    ],
     "wof:tags":[]
 },
   "bbox": [

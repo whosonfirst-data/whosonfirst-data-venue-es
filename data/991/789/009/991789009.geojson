@@ -7,13 +7,16 @@
     "addr:postcode":"48009",
     "addr:street":"Calle De Colon De Larreategui",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.9324774742,43.2635574341,-2.9324774742,43.2635574341",
     "geom:latitude":43.263557,
     "geom:longitude":-2.932477,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Colon De Larreategui, 26",
     "sg:city":"Bilbao",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472571368,
-    "wof:geomhash":"99407d23b16b6ebec79dd051b3c61592",
+    "wof:geomhash":"be1c1a9ce0cc70bc922cda93aa5a9491",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991789009,
-    "wof:lastmodified":1472770246,
+    "wof:lastmodified":1510941649,
     "wof:name":"Gestoria Pilar Gurruchaga S.l.",
     "wof:parent_id":85863923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991789013
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

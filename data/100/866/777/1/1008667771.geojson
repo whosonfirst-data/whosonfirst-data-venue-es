@@ -7,13 +7,16 @@
     "addr:postcode":"29010",
     "addr:street":"Calle De Maestro Pablo Luna;Ma\u0301Laga",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.4427270889,36.7252807617,-4.4427270889,36.7252807617",
     "geom:latitude":36.725281,
     "geom:longitude":-4.442727,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Maestro Pablo Luna, 8",
     "sg:city":"Malaga",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472637124,
-    "wof:geomhash":"62e4e387631d3a322f8795560929597c",
+    "wof:geomhash":"7c5b22be91e15be689b166361d8d31b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1008667771,
-    "wof:lastmodified":1472769144,
+    "wof:lastmodified":1510942210,
     "wof:name":"Unicaja",
     "wof:parent_id":85863455,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008667847
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

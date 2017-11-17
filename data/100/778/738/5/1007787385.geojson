@@ -7,6 +7,7 @@
     "addr:postcode":"29679",
     "addr:street":"Benahavis Ma\u0301Laga",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-5.046274,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Las Terrazas, 7",
     "sg:city":"Benahavis",
     "sg:classifiers":[],
@@ -36,12 +37,14 @@
     "wof:geomhash":"8ef0cd08e6a509da36ec7f7c158ce8f2",
     "wof:hierarchy":[],
     "wof:id":1007787385,
-    "wof:lastmodified":1510604918,
+    "wof:lastmodified":1510941752,
     "wof:name":"La Quinta Administracion S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1007787391
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

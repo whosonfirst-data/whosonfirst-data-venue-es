@@ -7,13 +7,16 @@
     "addr:postcode":"28820",
     "addr:street":"Avda Espan\u0303A De",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.5616996288,40.4209861755,-3.5616996288,40.4209861755",
     "geom:latitude":40.420986,
     "geom:longitude":-3.5617,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avda Espa\u00d1a (de), 23",
     "sg:city":"Coslada",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472570042,
-    "wof:geomhash":"b2e79aa0feb2ce49daabfe3d33bc4dab",
+    "wof:geomhash":"58d16ed4c56eae42526e607782ecbcdf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991778811,
-    "wof:lastmodified":1472770468,
+    "wof:lastmodified":1510943897,
     "wof:name":"General Cofisa S.l.",
     "wof:parent_id":85863711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991778813
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

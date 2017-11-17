@@ -7,13 +7,16 @@
     "addr:postcode":"03003",
     "addr:street":"Avda Maisonnave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.4914610088,38.3433303833,-0.4914610088,38.3433303833",
     "geom:latitude":38.34333,
     "geom:longitude":-0.491461,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avda Maisonnave, 33",
     "sg:city":"Alacant",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472586550,
-    "wof:geomhash":"4d9cb5ba95c6bef51e3c2986221162a9",
+    "wof:geomhash":"86d19f5855f1b93f258f72d007255a9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1007804189,
-    "wof:lastmodified":1472768430,
+    "wof:lastmodified":1510943255,
     "wof:name":"Leste S.a.",
     "wof:parent_id":85799185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1007804193
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

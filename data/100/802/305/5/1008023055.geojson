@@ -7,13 +7,16 @@
     "addr:postcode":"46007",
     "addr:street":"Calle De Historiador Diago",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.3847455084,39.467086792,-0.3847455084,39.467086792",
     "geom:latitude":39.467087,
     "geom:longitude":-0.384746,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Historiador Diago, 14",
     "sg:city":"Valencia",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472596185,
-    "wof:geomhash":"74d13fa68c4fa6d8136064efcc0da2ae",
+    "wof:geomhash":"cee0cb98c0eb75704cd68693d438670d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1008023055,
-    "wof:lastmodified":1472767675,
+    "wof:lastmodified":1510942604,
     "wof:name":"Monferre Correduria De Seguros S.l.",
     "wof:parent_id":85864207,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008023057
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

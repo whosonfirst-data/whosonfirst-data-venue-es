@@ -7,13 +7,16 @@
     "addr:postcode":"08013",
     "addr:street":"Carrer De Sardenya",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1774926186,41.4002304077,2.1774926186,41.4002304077",
     "geom:latitude":41.40023,
     "geom:longitude":2.177493,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Carrer de Sardenya, 229",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472512405,
-    "wof:geomhash":"dc3f991a73ad1416457f41dda863daad",
+    "wof:geomhash":"9e3ebddf02cfeec6f2241ff8083097a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":990940457,
-    "wof:lastmodified":1472767616,
+    "wof:lastmodified":1510942955,
     "wof:name":"Almaquim S.a.",
     "wof:parent_id":85864013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        990940459
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"29008",
     "addr:street":"Plaz Uncibay;Ma\u0301Laga",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.4227104187,36.7235832214,-4.4227104187,36.7235832214",
     "geom:latitude":36.723583,
     "geom:longitude":-4.42271,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Plaz Uncibay, 8",
     "sg:city":"Malaga",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472524213,
-    "wof:geomhash":"d4a4880037b6df1e6a679c604bfdb3be",
+    "wof:geomhash":"9a7a4c54cea95a7b0f5def4e521cf99a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991066721,
-    "wof:lastmodified":1472766986,
+    "wof:lastmodified":1510943880,
     "wof:name":"Auxiliar De Informacion Y Cobros S. A.",
     "wof:parent_id":85863491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991066723
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6751272678,40.3911819458,-3.6751272678,40.3911819458",
     "geom:latitude":40.391182,
     "geom:longitude":-3.675127,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Mendez Alvaro, S/n",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472523196,
-    "wof:geomhash":"ed2dded4a189a251419b6d3fa7cf06fc",
+    "wof:geomhash":"205c146339fb614e4c150e5b1d086842",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":991053839,
-    "wof:lastmodified":1472767015,
+    "wof:lastmodified":1510941801,
     "wof:name":"Autocares Samar S.a.",
     "wof:parent_id":85863729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991053833
+    ],
     "wof:tags":[]
 },
   "bbox": [

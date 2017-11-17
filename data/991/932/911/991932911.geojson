@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-6.0018129349,37.3876953125,-6.0018129349,37.3876953125",
     "geom:latitude":37.387695,
     "geom:longitude":-6.001813,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Polig Ind Nuevo Calonge, S/n",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472579072,
-    "wof:geomhash":"47bf430fbe48a751a16dc27424d79f41",
+    "wof:geomhash":"4432479e7067f4a71d856367096720d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,16 @@
         }
     ],
     "wof:id":991932911,
-    "wof:lastmodified":1472770659,
+    "wof:lastmodified":1510941753,
     "wof:name":"Ibersilva Servicios S.a.u.",
     "wof:parent_id":85799631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991932905,
+        991932907
+    ],
     "wof:tags":[]
 },
   "bbox": [

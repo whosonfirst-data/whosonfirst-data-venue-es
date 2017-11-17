@@ -7,13 +7,16 @@
     "addr:postcode":"28006",
     "addr:street":"Calle De Juan Bravo",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6861641407,40.4330368042,-3.6861641407,40.4330368042",
     "geom:latitude":40.433037,
     "geom:longitude":-3.686164,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Juan Bravo, 1",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472516107,
-    "wof:geomhash":"c5596e002e52d59cd1ba71c75a1e7697",
+    "wof:geomhash":"09d8aca97c5fadabcd3691298b2ef589",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":990963203,
-    "wof:lastmodified":1472767642,
+    "wof:lastmodified":1510942340,
     "wof:name":"Amara Estilo S.a.",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        990963205
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

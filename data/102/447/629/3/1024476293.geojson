@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28013",
     "addr:street":"Calle De Gran Via",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7037320137,40.4200973511,-3.7037320137,40.4200973511",
     "geom:latitude":40.420097,
     "geom:longitude":-3.703732,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Gran Via, 31",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472640607,
-    "wof:geomhash":"2c6db584a5c99b4ace902e9b7b9404b9",
+    "wof:geomhash":"3c9963c84293a64987b1e609b7e7d873",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":1024476293,
-    "wof:lastmodified":1472768924,
+    "wof:lastmodified":1510942333,
     "wof:name":"Webcasting International S. L.",
     "wof:parent_id":85863667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1024476295
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

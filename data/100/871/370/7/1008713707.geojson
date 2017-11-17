@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.6522250175,39.5796661377,2.6522250175,39.5796661377",
     "geom:latitude":39.579666,
     "geom:longitude":2.652225,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Carrer de 31 De Desembre, 21",
     "sg:city":"Palma",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472639170,
-    "wof:geomhash":"07c8239af1dd2968f47af9b42fa49e22",
+    "wof:geomhash":"6ae8b99ca84eab5197254cb03485d188",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":1008713707,
-    "wof:lastmodified":1472768278,
+    "wof:lastmodified":1510941721,
     "wof:name":"Viajes Halcon S.a.",
     "wof:parent_id":85864097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008713705
+    ],
     "wof:tags":[]
 },
   "bbox": [

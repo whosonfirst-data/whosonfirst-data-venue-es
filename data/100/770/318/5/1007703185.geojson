@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1649160385,41.3861541748,2.1649160385,41.3861541748",
     "geom:latitude":41.386154,
     "geom:longitude":2.164916,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Pl Universitat, 3",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472581120,
-    "wof:geomhash":"800a564b991dfa6ae2e2720d842e9f38",
+    "wof:geomhash":"0de3e643046ce293d494cb3f2422761a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,16 @@
         }
     ],
     "wof:id":1007703185,
-    "wof:lastmodified":1472767933,
+    "wof:lastmodified":1510943897,
     "wof:name":"Internacional Base Economica S.l.",
     "wof:parent_id":85864035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1007703181,
+        1007703183
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28020",
     "addr:street":"Calle De Orense",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6941230297,40.4595794678,-3.6941230297,40.4595794678",
     "geom:latitude":40.459579,
     "geom:longitude":-3.694123,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Orense, 58",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472548027,
-    "wof:geomhash":"891a41f8810665293eb2e4bc8695fd68",
+    "wof:geomhash":"305667b4786c3ecee74c09d6b47f26a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,15 @@
         }
     ],
     "wof:id":991389189,
-    "wof:lastmodified":1472769620,
+    "wof:lastmodified":1510943095,
     "wof:name":"Compa\u00f1ia General De Imagen Y Dise\u00f1o S.a.",
     "wof:parent_id":85863603,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991389191,
+        991389193
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

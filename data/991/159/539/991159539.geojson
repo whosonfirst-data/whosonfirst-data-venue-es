@@ -7,13 +7,16 @@
     "addr:postcode":"07010",
     "addr:street":"Calle De Jose Alemany Vich",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.6448509693,39.5817108154,2.6448509693,39.5817108154",
     "geom:latitude":39.581711,
     "geom:longitude":2.644851,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Jose Alemany Vich, 6",
     "sg:city":"Palma",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472533144,
-    "wof:geomhash":"3c1d920f161832dcf46514584e261659",
+    "wof:geomhash":"c23e072620dd67f9cf862af432c29554",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991159539,
-    "wof:lastmodified":1472767753,
+    "wof:lastmodified":1510942702,
     "wof:name":"Blue Air S.l.",
     "wof:parent_id":85864099,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991159541
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

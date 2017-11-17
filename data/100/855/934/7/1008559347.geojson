@@ -7,13 +7,16 @@
     "addr:postcode":"48930",
     "addr:street":"Avda Zugatzarte",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.0068490505,43.3258285522,-3.0068490505,43.3258285522",
     "geom:latitude":43.325829,
     "geom:longitude":-3.006849,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avda Zugatzarte, 8",
     "sg:city":"Arenas -areeta",
     "sg:classifiers":[],
@@ -30,16 +33,20 @@
     },
     "wof:country":"ES",
     "wof:created":1472632533,
-    "wof:geomhash":"69e29b10113a46aa825c88e6ce09db42",
+    "wof:geomhash":"4230ece5d01d47b038c962455a4188f0",
     "wof:hierarchy":[],
     "wof:id":1008559347,
-    "wof:lastmodified":1472769390,
+    "wof:lastmodified":1510942589,
     "wof:name":"S. Q. S. Software Quality Sistems S. A.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1008559349
+    ],
+    "wof:supersedes":[
+        1008559345
+    ],
     "wof:tags":[]
 },
   "bbox": [

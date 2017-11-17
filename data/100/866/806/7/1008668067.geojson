@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.4228048325,36.7188644409,-4.4228048325,36.7188644409",
     "geom:latitude":36.718864,
     "geom:longitude":-4.422805,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Alarcon Lujan, 4",
     "sg:city":"Malaga",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472637135,
-    "wof:geomhash":"01ddff18fa7b63ccdb8bbe9229806dac",
+    "wof:geomhash":"73c52277356086bc8869c777dc2d9682",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1008668067,
-    "wof:lastmodified":1472769263,
+    "wof:lastmodified":1510943536,
     "wof:name":"Unicaja",
     "wof:parent_id":85863491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008668065
+    ],
     "wof:tags":[]
 },
   "bbox": [

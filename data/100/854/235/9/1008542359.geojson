@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6594979763,40.5175857544,-3.6594979763,40.5175857544",
     "geom:latitude":40.517586,
     "geom:longitude":-3.659498,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avda Europa (de), 10",
     "sg:city":"Alcobendas",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472631798,
-    "wof:geomhash":"5fe5939393d3dd034510481fabad3a7c",
+    "wof:geomhash":"f04aebc97d7990d499bd862553d39732",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,13 +46,15 @@
         }
     ],
     "wof:id":1008542359,
-    "wof:lastmodified":1472767538,
+    "wof:lastmodified":1510942680,
     "wof:name":"Sociedad Textil Lonia S.a.",
     "wof:parent_id":85799389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008542351
+    ],
     "wof:tags":[]
 },
   "bbox": [

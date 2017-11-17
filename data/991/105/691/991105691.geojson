@@ -7,13 +7,16 @@
     "addr:postcode":"",
     "addr:street":"Calle De Jovellanos;Asturias",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.6623678207,43.5415382385,-5.6623678207,43.5415382385",
     "geom:latitude":43.541538,
     "geom:longitude":-5.662368,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Jovellanos, 8",
     "sg:city":"Gijon",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472527223,
-    "wof:geomhash":"4129ea938668cabbd78feac373a9e30c",
+    "wof:geomhash":"61007b265880c9c9d24e5a1cb939b6a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991105691,
-    "wof:lastmodified":1472767332,
+    "wof:lastmodified":1510942015,
     "wof:name":"Banc Sabadell S.a.",
     "wof:parent_id":85799415,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991105705
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

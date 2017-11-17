@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28020",
     "addr:street":"Calle De Orense",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6955590248,40.4483299255,-3.6955590248,40.4483299255",
     "geom:latitude":40.44833,
     "geom:longitude":-3.695559,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Orense, 11",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472561505,
-    "wof:geomhash":"be2b979627f677a5be8c07715ae39348",
+    "wof:geomhash":"0a993fbb9fbc12cb9705f0973f867fab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":991624315,
-    "wof:lastmodified":1472770047,
+    "wof:lastmodified":1510943100,
     "wof:name":"Faster Iberica S.a.",
     "wof:parent_id":85863799,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991624317
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

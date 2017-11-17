@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6777660847,40.4545440674,-3.6777660847,40.4545440674",
     "geom:latitude":40.454544,
     "geom:longitude":-3.677766,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Serrano, 240",
     "sg:city":"Madrid",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472558130,
-    "wof:geomhash":"7626d54d9ab12960da0357286b6fa7fb",
+    "wof:geomhash":"0ec44b130e64290f94bb206c099e835d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":991568697,
-    "wof:lastmodified":1472770092,
+    "wof:lastmodified":1510943227,
     "wof:name":"Entidad Nacional De Acreditacion E.n.a.c.",
     "wof:parent_id":85799237,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991568695
+    ],
     "wof:tags":[
         "organismos",
         "control"

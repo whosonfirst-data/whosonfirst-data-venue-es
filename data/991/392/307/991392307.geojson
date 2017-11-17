@@ -7,6 +7,7 @@
     "addr:postcode":"28830",
     "addr:street":"Calle De Nazario;De S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-3.529159,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Calle de Nazario Calonge (de), S/n",
     "sg:city":"San Fernando De Henares",
     "sg:classifiers":[],
@@ -47,12 +48,14 @@
         }
     ],
     "wof:id":991392307,
-    "wof:lastmodified":1510875160,
+    "wof:lastmodified":1510943308,
     "wof:name":"Comunidad Autonoma De Madrid-centros De Educacion",
     "wof:parent_id":85863709,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991392321
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

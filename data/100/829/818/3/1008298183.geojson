@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7032163143,40.4154701233,-3.7032163143,40.4154701233",
     "geom:latitude":40.41547,
     "geom:longitude":-3.703216,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Carretas, 23",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472619212,
-    "wof:geomhash":"74e538c3159b76287fd04b3fd2d91ff1",
+    "wof:geomhash":"55a25142428f4dc5be5a16ade3794cc3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":1008298183,
-    "wof:lastmodified":1472769102,
+    "wof:lastmodified":1510943369,
     "wof:name":"Pull & Bear Espa\u00f1a S.a.",
     "wof:parent_id":85863685,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008298169
+    ],
     "wof:tags":[]
 },
   "bbox": [

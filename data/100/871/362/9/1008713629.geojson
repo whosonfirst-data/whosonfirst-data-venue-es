@@ -7,6 +7,7 @@
     "addr:postcode":"09006",
     "addr:street":"Avda Castilla Y Leon S / N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-3.682689,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Avda Castilla Y Leon, S/n",
     "sg:city":"Burgos",
     "sg:classifiers":[],
@@ -37,12 +38,14 @@
     "wof:geomhash":"ee34b40d14a0606db627f18cf49016df",
     "wof:hierarchy":[],
     "wof:id":1008713629,
-    "wof:lastmodified":1510877421,
+    "wof:lastmodified":1510941549,
     "wof:name":"Viajes Halcon S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008713681
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"01006",
     "addr:street":"Calle De Herminio Madinaveitia",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-2.670111,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Calle de Herminio Madinaveitia, 8",
     "sg:city":"Vitoria-gasteiz",
     "sg:classifiers":[],
@@ -36,12 +37,14 @@
     "wof:geomhash":"2e821e2818a46dbeca05922095bd80af",
     "wof:hierarchy":[],
     "wof:id":991572265,
-    "wof:lastmodified":1510697381,
+    "wof:lastmodified":1510941746,
     "wof:name":"Eroski Sociedad Cooperativa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991572281
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

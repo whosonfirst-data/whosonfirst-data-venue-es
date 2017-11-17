@@ -7,13 +7,16 @@
     "addr:postcode":"08241",
     "addr:street":"",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.829069972,41.7212295532,1.829069972,41.7212295532",
     "geom:latitude":41.72123,
     "geom:longitude":1.82907,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Disseminat Plana Pont Nou, S/n",
     "sg:city":"Manresa",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472616067,
-    "wof:geomhash":"223b810f04a34e3b77de7f0ca31b4b38",
+    "wof:geomhash":"7f0ce41d0cd0568485706de4ffd13aa3",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":1008251291,
-    "wof:lastmodified":1472767128,
+    "wof:lastmodified":1510943380,
     "wof:name":"Planta Intercomarcal Del Reciclatge S.a.",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008251293
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

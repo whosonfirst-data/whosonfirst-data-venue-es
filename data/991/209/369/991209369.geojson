@@ -7,6 +7,7 @@
     "addr:postcode":"45600",
     "addr:street":"Calle De Gabriel Alonso De Herrera",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-4.832629,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Calle de Gabriel Alonso De Herrera, 2",
     "sg:city":"Talavera Reina",
     "sg:classifiers":[],
@@ -36,12 +37,14 @@
     "wof:geomhash":"0f77d27f75125af254ea3c7ec95711d7",
     "wof:hierarchy":[],
     "wof:id":991209369,
-    "wof:lastmodified":1510877505,
+    "wof:lastmodified":1510943112,
     "wof:name":"Caja De Ahorros De Castilla La Mancha",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991209367
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

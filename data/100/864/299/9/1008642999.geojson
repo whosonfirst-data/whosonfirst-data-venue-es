@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28006",
     "addr:street":"Calle De Serrano",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6867864132,40.4318161011,-3.6867864132,40.4318161011",
     "geom:latitude":40.431816,
     "geom:longitude":-3.686786,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Serrano, 86",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472636100,
-    "wof:geomhash":"3d9a77adf55b789f65878df273ece54d",
+    "wof:geomhash":"a41c52a0f683d6d1f470fe70a8a1cda3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":1008642999,
-    "wof:lastmodified":1472767831,
+    "wof:lastmodified":1510941187,
     "wof:name":"Tous Joyeros Madrid S. A.",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008643007
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28014",
     "addr:street":"Calle De Alfonso Xii",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6889448166,40.4137039185,-3.6889448166,40.4137039185",
     "geom:latitude":40.413704,
     "geom:longitude":-3.688945,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Alfonso Xii, 36",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472550015,
-    "wof:geomhash":"103741626525c078e8af5862e69c7b4d",
+    "wof:geomhash":"1280c4a22ef35557b4ca7e434e968349",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,15 @@
         }
     ],
     "wof:id":991421313,
-    "wof:lastmodified":1472769661,
+    "wof:lastmodified":1510941457,
     "wof:name":"Consultoria Y Mediacion Corporativa S.a.",
     "wof:parent_id":85863687,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991421311,
+        991421315
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

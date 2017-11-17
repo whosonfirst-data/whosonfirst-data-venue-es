@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6867916584,40.4582824707,-3.6867916584,40.4582824707",
     "geom:latitude":40.458282,
     "geom:longitude":-3.686792,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Juan Ramon Jimenez, 8",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472514053,
-    "wof:geomhash":"bc9c37e4411d232124f97ffc9ecee708",
+    "wof:geomhash":"c14e0f4eae49840513617577eb41ed4e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":990948731,
-    "wof:lastmodified":1472767765,
+    "wof:lastmodified":1510941927,
     "wof:name":"Alquileres Arbe S.l.",
     "wof:parent_id":85799237,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        990948729
+    ],
     "wof:tags":[]
 },
   "bbox": [

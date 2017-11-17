@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28013",
     "addr:street":"Calle De Gran Via",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.705302,40.420211792,-3.705302,40.420211792",
     "geom:latitude":40.420212,
     "geom:longitude":-3.705302,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Gran Via, 39",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472640956,
-    "wof:geomhash":"7957aa289fcc1c349f5b08ab39cd1d71",
+    "wof:geomhash":"52ff9269374c2f0ab9a533caece137b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1024484707,
-    "wof:lastmodified":1472768387,
+    "wof:lastmodified":1510942188,
     "wof:name":"Yorga S. A.",
     "wof:parent_id":85863667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1024484709
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

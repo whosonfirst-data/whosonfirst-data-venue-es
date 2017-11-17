@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6966166496,40.4299545288,-3.6966166496,40.4299545288",
     "geom:latitude":40.429955,
     "geom:longitude":-3.696617,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Santa Engracia, 15",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472522121,
-    "wof:geomhash":"ba12bc164e14f19595ae54ca73bf99b2",
+    "wof:geomhash":"e4128a22412d48c00a0aac6fbc3f6a78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":991039101,
-    "wof:lastmodified":1472766687,
+    "wof:lastmodified":1510942977,
     "wof:name":"Asociacion Nuestra Se\u00d1ora Salus Imfirmorum Diodecis De Madrid",
     "wof:parent_id":85863671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991039099
+    ],
     "wof:tags":[]
 },
   "bbox": [

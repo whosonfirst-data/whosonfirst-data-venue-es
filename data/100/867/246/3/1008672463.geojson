@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6873309612,40.4266281128,-3.6873309612,40.4266281128",
     "geom:latitude":40.426628,
     "geom:longitude":-3.687331,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Hermosilla, 11",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472637297,
-    "wof:geomhash":"9f04e8ac4135fa4bbd1e4132cd57790c",
+    "wof:geomhash":"b238df9a586d8df69fc7ab59fe3016f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":1008672463,
-    "wof:lastmodified":1472767715,
+    "wof:lastmodified":1510942947,
     "wof:name":"United European Car Carriers Iberica S.a.",
     "wof:parent_id":85863809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008672461
+    ],
     "wof:tags":[]
 },
   "bbox": [

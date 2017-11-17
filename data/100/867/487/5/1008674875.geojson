@@ -7,6 +7,7 @@
     "addr:postcode":"24009",
     "addr:street":"Cmno Vilecha;/ N Leo\u0301N Leo\u0301N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-5.609439,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Cmno Vilecha, S/n",
     "sg:city":"Le\u00f3n",
     "sg:classifiers":[],
@@ -53,12 +54,14 @@
         }
     ],
     "wof:id":1008674875,
-    "wof:lastmodified":1510875035,
+    "wof:lastmodified":1510942038,
     "wof:name":"Urbaser S.a.",
     "wof:parent_id":102545723,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008674877
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

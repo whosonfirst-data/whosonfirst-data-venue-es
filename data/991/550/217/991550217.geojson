@@ -7,13 +7,16 @@
     "addr:postcode":"03002",
     "addr:street":"Avda Denia",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.4728539884,38.3510055542,-0.4728539884,38.3510055542",
     "geom:latitude":38.351006,
     "geom:longitude":-0.472854,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avda Denia, S/n",
     "sg:city":"Alacant",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472557047,
-    "wof:geomhash":"dcad0152b412dc28023f6991844fd901",
+    "wof:geomhash":"34c9a936cecc17366a0a0e1e498e0daf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":991550217,
-    "wof:lastmodified":1472769943,
+    "wof:lastmodified":1510942677,
     "wof:name":"Electrodomesticos Menaje Del Hogar S.a.",
     "wof:parent_id":85864057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991550225
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

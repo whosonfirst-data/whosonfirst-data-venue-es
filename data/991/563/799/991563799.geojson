@@ -7,13 +7,16 @@
     "addr:postcode":"18009",
     "addr:street":"Calle De Puerta Real De Espan\u0303A",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.5528790951,37.1624031067,-3.5528790951,37.1624031067",
     "geom:latitude":37.162403,
     "geom:longitude":-3.552879,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Puerta Real De Espa\u00d1a, 1",
     "sg:city":"Granada",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472557903,
-    "wof:geomhash":"5bf784da5480e43917e74b85296fad36",
+    "wof:geomhash":"7fe33249d2cdb6de0ec3ea2d92fbe7ef",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":991563799,
-    "wof:lastmodified":1472770188,
+    "wof:lastmodified":1510943731,
     "wof:name":"Empresas Robles S.l.",
     "wof:parent_id":85863829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991563801
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"28053",
     "addr:street":"Calle De Martinez De La Riva",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6677999496,40.3952331543,-3.6677999496,40.3952331543",
     "geom:latitude":40.395233,
     "geom:longitude":-3.6678,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Martinez De La Riva, 4",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472625789,
-    "wof:geomhash":"6f3cbdfb96df0e37388b936fc8b554c0",
+    "wof:geomhash":"e7030d8a888e4d47c3d7ed9e622d4055",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1008402141,
-    "wof:lastmodified":1472767584,
+    "wof:lastmodified":1510942746,
     "wof:name":"Romero Sanchez Gloria",
     "wof:parent_id":85799491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008402143
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"08007",
     "addr:street":"Rbla Catalunya",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1668679714,41.3888778687,2.1668679714,41.3888778687",
     "geom:latitude":41.388878,
     "geom:longitude":2.166868,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Rbla Catalunya, 18",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472549490,
-    "wof:geomhash":"c77d07cb9123f4375ac89ada0e91c1e6",
+    "wof:geomhash":"29dd31e0fca8b18100094c4f48473829",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +55,17 @@
         }
     ],
     "wof:id":991411789,
-    "wof:lastmodified":1472769770,
+    "wof:lastmodified":1510941756,
     "wof:name":"Construcciones Inmobiliarias Pelayo S. A.",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        991411791
+    ],
+    "wof:supersedes":[
+        991411787
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28020",
     "addr:street":"Calle De Orense",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6942605972,40.4595985413,-3.6942605972,40.4595985413",
     "geom:latitude":40.459599,
     "geom:longitude":-3.694261,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Orense, 58",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472598145,
-    "wof:geomhash":"05ab938498a4a874b280f5c647839ae6",
+    "wof:geomhash":"0b00daa6929a9830bce0e34bd4350d4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1008069285,
-    "wof:lastmodified":1472769436,
+    "wof:lastmodified":1510941769,
     "wof:name":"Mutua De Riesgo Maritimo",
     "wof:parent_id":85863603,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008069289
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

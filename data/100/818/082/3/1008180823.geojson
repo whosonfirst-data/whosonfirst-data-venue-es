@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6726489067,40.4183044434,-3.6726489067,40.4183044434",
     "geom:latitude":40.418304,
     "geom:longitude":-3.672649,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Calle de Ibiza, 43",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -34,11 +36,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":473157553,
         "sg:id":"SG_6mgeKM3qDv9gSgZms8yji4_40.418304_-3.672649@1306269619"
     },
     "wof:country":"ES",
     "wof:created":1472605341,
-    "wof:geomhash":"4d7fb31c3c38285ccf8daf9a464947af",
+    "wof:geomhash":"298a3218777703e112b41734793e3d4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1008180823,
-    "wof:lastmodified":1472767034,
+    "wof:lastmodified":1510943155,
     "wof:name":"Parroquia San Vicente Ferrer",
     "wof:parent_id":85863679,
     "wof:placetype":"venue",

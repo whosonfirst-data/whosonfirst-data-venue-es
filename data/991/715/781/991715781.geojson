@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6828670502,40.4373016357,-3.6828670502,40.4373016357",
     "geom:latitude":40.437302,
     "geom:longitude":-3.682867,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Velazquez, 126",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472566246,
-    "wof:geomhash":"12a0597cb4b8223638ffe715ddf9ab8f",
+    "wof:geomhash":"9da73c1748bd713e9ba266bcc14d825e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":991715781,
-    "wof:lastmodified":1472770408,
+    "wof:lastmodified":1510943626,
     "wof:name":"Gabinet De Imatge I Comunicacio S.l.",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991715779
+    ],
     "wof:tags":[]
 },
   "bbox": [

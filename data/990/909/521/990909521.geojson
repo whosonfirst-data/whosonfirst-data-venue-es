@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6288189888,40.4337158203,-3.6288189888,40.4337158203",
     "geom:latitude":40.433716,
     "geom:longitude":-3.628819,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Santa Leonor, 61",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472509509,
-    "wof:geomhash":"5ac08c694dc761254531b170bec4ab06",
+    "wof:geomhash":"12087908a88b611dca3ef9c075d16bc5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":990909521,
-    "wof:lastmodified":1472767332,
+    "wof:lastmodified":1510943874,
     "wof:name":"Aigle S.a.",
     "wof:parent_id":85863641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        990909519
+    ],
     "wof:tags":[]
 },
   "bbox": [

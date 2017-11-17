@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6322760582,40.4304275513,-3.6322760582,40.4304275513",
     "geom:latitude":40.430428,
     "geom:longitude":-3.632276,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Hermanos Garcia Noblejas, 45",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472563502,
-    "wof:geomhash":"20e4deef38e399bd5e92caef965c2139",
+    "wof:geomhash":"97ad182c39503127a4414d3f0e37bf0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":991660321,
-    "wof:lastmodified":1472770094,
+    "wof:lastmodified":1510941572,
     "wof:name":"Ferreteria Industrial Rubio S.a.",
     "wof:parent_id":85863641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991660319
+    ],
     "wof:tags":[]
 },
   "bbox": [

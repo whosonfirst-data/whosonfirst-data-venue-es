@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.8106911182,43.4621391296,-3.8106911182,43.4621391296",
     "geom:latitude":43.462139,
     "geom:longitude":-3.810691,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Amos De Escalante, 4",
     "sg:city":"Santander",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472638172,
-    "wof:geomhash":"c12bb0f3abd313c02d6145b3726e3c64",
+    "wof:geomhash":"8d0e025fa6bfa1a4a336b60c849ff4b3",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,13 +46,15 @@
         }
     ],
     "wof:id":1008692309,
-    "wof:lastmodified":1472767581,
+    "wof:lastmodified":1510943315,
     "wof:name":"Vara Garcia Yolanda",
     "wof:parent_id":85799303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008692305
+    ],
     "wof:tags":[]
 },
   "bbox": [

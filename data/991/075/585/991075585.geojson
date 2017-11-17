@@ -7,13 +7,16 @@
     "addr:postcode":"46470",
     "addr:street":"Calle De Esteban Paluzie",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.4039700031,39.4019203186,-0.4039700031,39.4019203186",
     "geom:latitude":39.40192,
     "geom:longitude":-0.40397,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Esteban Paluzie, 2",
     "sg:city":"Catarroja",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472524912,
-    "wof:geomhash":"0ea04014e47060194e69824530c52727",
+    "wof:geomhash":"62884012111609b684890a056b53e840",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991075585,
-    "wof:lastmodified":1472766885,
+    "wof:lastmodified":1510941800,
     "wof:name":"Ayuntamiento De Catarroja",
     "wof:parent_id":85864197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991075593
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

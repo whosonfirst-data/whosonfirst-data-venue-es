@@ -7,13 +7,16 @@
     "addr:postcode":"41018",
     "addr:street":"Avda San Francisco Javier",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.974960804,37.3787727356,-5.974960804,37.3787727356",
     "geom:latitude":37.378773,
     "geom:longitude":-5.974961,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avda San Francisco Javier, 22",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472616754,
-    "wof:geomhash":"1b93ac38c55d6767a9840acf84b58761",
+    "wof:geomhash":"f389548b082de2128cc3f6d0f2bf751e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1008264397,
-    "wof:lastmodified":1472768391,
+    "wof:lastmodified":1510941550,
     "wof:name":"Postigo Obras Y Servicios S.a.",
     "wof:parent_id":85864171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008264399
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

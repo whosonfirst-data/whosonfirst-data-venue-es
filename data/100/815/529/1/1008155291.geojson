@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.6974449158,39.5513114929,2.6974449158,39.5513114929",
     "geom:latitude":39.551311,
     "geom:longitude":2.697445,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Mercapalma, S/n",
     "sg:city":"Coll Rabassa",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472602148,
-    "wof:geomhash":"ef03367e80c65280664ce8b95e90e5ec",
+    "wof:geomhash":"b3b47c5f1b22c1db52d0e1889ed36714",
     "wof:hierarchy":[
         {
             "campus_id":102545705,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":1008155291,
-    "wof:lastmodified":1472768621,
+    "wof:lastmodified":1510941426,
     "wof:name":"Palmafruit S.a.",
     "wof:parent_id":102545705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008155289
+    ],
     "wof:tags":[]
 },
   "bbox": [

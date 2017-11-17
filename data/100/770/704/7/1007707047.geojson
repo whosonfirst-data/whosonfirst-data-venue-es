@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7078669071,40.4200668335,-3.7078669071,40.4200668335",
     "geom:latitude":40.420067,
     "geom:longitude":-3.707867,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Jacometrezo, 15",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472581310,
-    "wof:geomhash":"6a1b260a6b18ec22142b8b1bb479bea0",
+    "wof:geomhash":"59220b4272d12a1274e2d99e77bf00f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":1007707047,
-    "wof:lastmodified":1472769104,
+    "wof:lastmodified":1510942632,
     "wof:name":"Inversiones Y Servicios Insersa S.a.",
     "wof:parent_id":85863667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1007707045
+    ],
     "wof:tags":[]
 },
   "bbox": [

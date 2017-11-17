@@ -7,6 +7,7 @@
     "addr:postcode":"35010",
     "addr:street":"Calle De Amapola;/ N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-15.453719,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Calle de Amapola, S/n",
     "sg:city":"Palmas De Gran Canaria",
     "sg:classifiers":[],
@@ -36,12 +37,14 @@
     "wof:geomhash":"8ecc637a2c3f51d1a942bdcef3297a3d",
     "wof:hierarchy":[],
     "wof:id":991801825,
-    "wof:lastmodified":1510876423,
+    "wof:lastmodified":1510942330,
     "wof:name":"Gobierno De Canarias",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991801829
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

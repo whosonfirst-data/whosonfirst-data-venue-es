@@ -7,13 +7,16 @@
     "addr:postcode":"08015",
     "addr:street":"Carrer De Viladomat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.152361393,41.3834648132,2.152361393,41.3834648132",
     "geom:latitude":41.383465,
     "geom:longitude":2.152361,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Carrer de Viladomat, 174",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472522392,
-    "wof:geomhash":"e3bbf13708fa45cee31b529cf6ac2278",
+    "wof:geomhash":"a22a330e3601afd06f4c1ff9d4fd61d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":991042675,
-    "wof:lastmodified":1472766943,
+    "wof:lastmodified":1510944105,
     "wof:name":"Asovac Catalunya",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991042679
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

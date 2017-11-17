@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6926488876,40.4282722473,-3.6926488876,40.4282722473",
     "geom:latitude":40.428272,
     "geom:longitude":-3.692649,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Fernando El Santo, 15",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472524206,
-    "wof:geomhash":"16c0359725d22e0c4b0922ceab7467c4",
+    "wof:geomhash":"1acd2888bf3f394ded4d2d55a7bd9d69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":991066611,
-    "wof:lastmodified":1472766952,
+    "wof:lastmodified":1510943238,
     "wof:name":"Auxadi Contable S. A.",
     "wof:parent_id":85863671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991066609
+    ],
     "wof:tags":[]
 },
   "bbox": [

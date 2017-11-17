@@ -7,13 +7,16 @@
     "addr:postcode":"28700",
     "addr:street":"Avda Fuente Nueva De La 8",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6142530441,40.5484771729,-3.6142530441,40.5484771729",
     "geom:latitude":40.548477,
     "geom:longitude":-3.614253,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avda Fuente Nueva (de La), 8",
     "sg:city":"San Sebastian De Los Reyes",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472571856,
-    "wof:geomhash":"efd4257ffad6f18a65cdc24ef9a31fa4",
+    "wof:geomhash":"4ff5bbf4073efd1186fb3564206543b9",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":991798087,
-    "wof:lastmodified":1472770292,
+    "wof:lastmodified":1510942893,
     "wof:name":"Ginger House S.l.",
     "wof:parent_id":85863585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991798089
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7116770744,40.4245452881,-3.7116770744,40.4245452881",
     "geom:latitude":40.424545,
     "geom:longitude":-3.711677,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Princesa, 2",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472584643,
-    "wof:geomhash":"be240a0c94c08c2fd228948380ba7681",
+    "wof:geomhash":"0709d236d990798ee2683dac2e7038c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1007767569,
-    "wof:lastmodified":1472769079,
+    "wof:lastmodified":1510942690,
     "wof:name":"Key Mare Promotores S.l.",
     "wof:parent_id":85863667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1007767567
+    ],
     "wof:tags":[]
 },
   "bbox": [

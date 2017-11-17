@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28016",
     "addr:street":"Calle De Bolivia",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6779568195,40.4572944641,-3.6779568195,40.4572944641",
     "geom:latitude":40.457294,
     "geom:longitude":-3.677957,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Bolivia, 9",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472625060,
-    "wof:geomhash":"f0ce6c98bfd0b49e5e60e2e8f1745ef7",
+    "wof:geomhash":"0d08a3ea2b80b650076d0da6fc8610ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1008385735,
-    "wof:lastmodified":1472768658,
+    "wof:lastmodified":1510941287,
     "wof:name":"Rodriguez Otero Santiago",
     "wof:parent_id":85799237,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008385737
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

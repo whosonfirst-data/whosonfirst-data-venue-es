@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6807415485,40.4376144409,-3.6807415485,40.4376144409",
     "geom:latitude":40.437614,
     "geom:longitude":-3.680742,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Maria De Molina, 37",
     "sg:city":"Madrid",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472525734,
-    "wof:geomhash":"470da179e4b7e9dfdf06a520dac7f9ff",
+    "wof:geomhash":"65875fa9dbfecde3ba2dbbf2b114a2fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":991086483,
-    "wof:lastmodified":1472767213,
+    "wof:lastmodified":1510942217,
     "wof:name":"Azertia Tecnologias De La Informacion S.a.",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991086479
+    ],
     "wof:tags":[
         "organismos",
         "control"

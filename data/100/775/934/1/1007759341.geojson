@@ -7,13 +7,16 @@
     "addr:postcode":"48180",
     "addr:street":"Avda Larrondo Beheko Etorbidea;/ N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.932158947,43.3143386841,-2.932158947,43.3143386841",
     "geom:latitude":43.314339,
     "geom:longitude":-2.932159,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avda Larrondo Beheko Etorbidea, S/n",
     "sg:city":"Elotxelerri",
     "sg:classifiers":[],
@@ -40,7 +43,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472584219,
-    "wof:geomhash":"8d4209712a870b5ebe02150513157289",
+    "wof:geomhash":"7a5c84f37842b934988c90a24be7d34c",
     "wof:hierarchy":[
         {
             "campus_id":102545753,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":1007759341,
-    "wof:lastmodified":1472769443,
+    "wof:lastmodified":1510941354,
     "wof:name":"Jungheinrich De Espa\u00f1a S. A.",
     "wof:parent_id":102545753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1007759345
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"48009",
     "addr:street":"Calle De Ajuriaguerra Juan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.9338581562,43.2658576965,-2.9338581562,43.2658576965",
     "geom:latitude":43.265858,
     "geom:longitude":-2.933858,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Ajuriaguerra Juan, 19",
     "sg:city":"Bilbao",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472554894,
-    "wof:geomhash":"cb75ad1c6a6e314a6a289cc907afb4c3",
+    "wof:geomhash":"30d0bc7ee6df3a8478fe673dcf113108",
     "wof:hierarchy":[
         {
             "campus_id":102545753,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":991510215,
-    "wof:lastmodified":1472769943,
+    "wof:lastmodified":1510943841,
     "wof:name":"Dise\u00f1o Y Textura S.a.",
     "wof:parent_id":102545753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991510217
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

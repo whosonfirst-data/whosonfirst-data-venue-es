@@ -7,13 +7,16 @@
     "addr:postcode":"08013",
     "addr:street":"Carrer De Sardenya",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.177241087,41.4002571106,2.177241087,41.4002571106",
     "geom:latitude":41.400257,
     "geom:longitude":2.177241,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Carrer de Sardenya, 229",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472545703,
-    "wof:geomhash":"14f3a4d8a0eab6b99e1083ab458e57ab",
+    "wof:geomhash":"1b71ce3318f337e3f004874706966e2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991358529,
-    "wof:lastmodified":1472769719,
+    "wof:lastmodified":1510942713,
     "wof:name":"Coditex S.a.",
     "wof:parent_id":85864013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991358531
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

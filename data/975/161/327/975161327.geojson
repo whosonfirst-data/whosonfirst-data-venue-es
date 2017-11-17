@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Calle De Breton De Los Herreros;La Rioja",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-2.447744,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Calle de Breton De Los Herreros, 5",
     "sg:city":"Logro\u00f1o",
     "sg:classifiers":[],
@@ -55,13 +56,24 @@
         }
     ],
     "wof:id":975161327,
-    "wof:lastmodified":1510696805,
+    "wof:lastmodified":1510941947,
     "wof:name":"Administracion De Justicia",
     "wof:parent_id":102545713,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        975161329,
+        975161333,
+        975161343,
+        975161345,
+        975161359
+    ],
+    "wof:supersedes":[
+        975161323,
+        975161317,
+        975161315,
+        975161311
+    ],
     "wof:tags":[]
 },
   "bbox": [

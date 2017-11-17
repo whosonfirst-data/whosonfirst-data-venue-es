@@ -7,13 +7,16 @@
     "addr:postcode":"14013",
     "addr:street":"Calle De Ingeniero Torres Quevedo;Co\u0301Rdoba",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.7928767204,37.852722168,-4.7928767204,37.852722168",
     "geom:latitude":37.852722,
     "geom:longitude":-4.792877,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Ingeniero Torres Quevedo, S/n",
     "sg:city":"Cordoba",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472517345,
-    "wof:geomhash":"af6b517179ac39359667e58024c3dd0b",
+    "wof:geomhash":"a25bcedbb9f343d9d5e01002c9dc945a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":990975539,
-    "wof:lastmodified":1472768016,
+    "wof:lastmodified":1510943016,
     "wof:name":"Angel Marin S.l.",
     "wof:parent_id":85863857,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        990975541
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

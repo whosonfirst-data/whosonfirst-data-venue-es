@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6369860172,40.4036941528,-3.6369860172,40.4036941528",
     "geom:latitude":40.403694,
     "geom:longitude":-3.636986,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Calle de Luis De Hoyos Sainz, 84",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -34,11 +36,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":145327067,
         "sg:id":"SG_3T5nBF8Ux4ykHvZoMz03HP_40.403694_-3.636986@1306269476"
     },
     "wof:country":"ES",
     "wof:created":1472546603,
-    "wof:geomhash":"96923f1a7784405871a3b7c442d877c6",
+    "wof:geomhash":"1b506e87de8dc9284b4437aabdc770eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":991368857,
-    "wof:lastmodified":1472769949,
+    "wof:lastmodified":1510942837,
     "wof:name":"Colegio Publico Pio Baroja",
     "wof:parent_id":85863715,
     "wof:placetype":"venue",

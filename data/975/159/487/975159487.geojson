@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-6.0016188622,37.3780250549,-6.0016188622,37.3780250549",
     "geom:latitude":37.378025,
     "geom:longitude":-6.001619,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avda Republica Argentina, 24",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472507777,
-    "wof:geomhash":"988aefb8bd11bc25fa8e4b033e82661b",
+    "wof:geomhash":"3c2b3d9194c89dc4e0c29061e24d6aaa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":975159487,
-    "wof:lastmodified":1472766987,
+    "wof:lastmodified":1510943214,
     "wof:name":"Adctt Empresa De Trabajo Temporal S.a.",
     "wof:parent_id":85864129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        975159485
+    ],
     "wof:tags":[]
 },
   "bbox": [

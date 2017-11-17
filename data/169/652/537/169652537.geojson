@@ -7,13 +7,16 @@
     "addr:postcode":"33191",
     "addr:street":"Industrial S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.917634,43.359673,-5.917634,43.359673",
     "geom:latitude":43.359673,
     "geom:longitude":-5.917634,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Poligono Industrial, S/n",
     "sg:city":"San Claudio",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
         "sg:id":"SG_4DfyoU5LHnW8Lx4ehd89fM_43.359673_-5.917634@1306269411"
     },
     "wof:country":"ES",
-    "wof:geomhash":"1527c2894fa9c0772937b480df00ec93",
+    "wof:geomhash":"338b29f153f330dbae8f06630df20e1e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,13 +47,17 @@
         }
     ],
     "wof:id":169652537,
-    "wof:lastmodified":1472767085,
+    "wof:lastmodified":1510943752,
     "wof:name":"Abs Tecnologias Del Agua S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        169652575
+    ],
+    "wof:supersedes":[
+        169652425
+    ],
     "wof:tags":[]
 },
   "bbox": [

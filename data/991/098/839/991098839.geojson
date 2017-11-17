@@ -7,6 +7,7 @@
     "addr:postcode":"47003",
     "addr:street":"Calle De Esteban Garcia Chico",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-4.727141,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Calle de Esteban Garcia Chico, 12",
     "sg:city":"Valladolid",
     "sg:classifiers":[],
@@ -36,12 +37,14 @@
     "wof:geomhash":"06097262d862f494ed100e37357b0ee3",
     "wof:hierarchy":[],
     "wof:id":991098839,
-    "wof:lastmodified":1510697799,
+    "wof:lastmodified":1510941475,
     "wof:name":"Banco De Castilla",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991098843
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

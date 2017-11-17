@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28033",
     "addr:street":"Calle De Via De Los Poblados",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6309940815,40.4718589783,-3.6309940815,40.4718589783",
     "geom:latitude":40.471859,
     "geom:longitude":-3.630994,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Via De Los Poblados, 10",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472601669,
-    "wof:geomhash":"7369c57bd2b0900740092a1a6e94a6e8",
+    "wof:geomhash":"12fb4ff2a567c9c0f40d3e5481eaa51a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1008146225,
-    "wof:lastmodified":1472768619,
+    "wof:lastmodified":1510943820,
     "wof:name":"Oxoid S.a.",
     "wof:parent_id":85799409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008146227
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

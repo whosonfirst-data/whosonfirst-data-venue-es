@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.9704885483,37.3874816895,-5.9704885483,37.3874816895",
     "geom:latitude":37.387482,
     "geom:longitude":-5.970489,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Luis Montoto, 107",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472520759,
-    "wof:geomhash":"0c2c2e47ec7b354bd58701433ea5f086",
+    "wof:geomhash":"b8593a990ab6fd337c4bde1b763905e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":991020675,
-    "wof:lastmodified":1472766981,
+    "wof:lastmodified":1510942110,
     "wof:name":"Asemas-mutua De Seguros A Prima Fija",
     "wof:parent_id":85864159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991020673
+    ],
     "wof:tags":[]
 },
   "bbox": [

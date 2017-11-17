@@ -7,6 +7,7 @@
     "addr:postcode":"30007",
     "addr:street":"Calle De Molina;Segura",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-1.114239,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Calle de Molina De Segura, S/n",
     "sg:city":"Paz",
     "sg:classifiers":[],
@@ -37,12 +38,14 @@
     "wof:geomhash":"d73779d63b3dea609b971144cc1a5060",
     "wof:hierarchy":[],
     "wof:id":1008716023,
-    "wof:lastmodified":1510875004,
+    "wof:lastmodified":1510943553,
     "wof:name":"Viajes Marsans S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008716029
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"08970",
     "addr:street":"Carrer De Francesc Cambo;S. Joan Despi",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":2.072715,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Carrer de Francesc Cambo, 2",
     "sg:city":"S. Joan Despi",
     "sg:classifiers":[],
@@ -55,12 +56,14 @@
         }
     ],
     "wof:id":1008494727,
-    "wof:lastmodified":1510696732,
+    "wof:lastmodified":1510943398,
     "wof:name":"Seguros Catalana Occidente S.a. De Seguros Y Reaseguros",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008494731
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

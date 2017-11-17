@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.9957141876,37.3908843994,-5.9957141876,37.3908843994",
     "geom:latitude":37.390884,
     "geom:longitude":-5.995714,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Rioja, 13",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -40,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472614402,
-    "wof:geomhash":"69582834112467e578f811ce9efe0ad3",
+    "wof:geomhash":"e6678cdbda5f8bf85f50fe56aefb2e0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,13 +66,15 @@
         }
     ],
     "wof:id":1008238595,
-    "wof:lastmodified":1472769314,
+    "wof:lastmodified":1510942577,
     "wof:name":"Piel Internacional S. A.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008238593
+    ],
     "wof:tags":[]
 },
   "bbox": [

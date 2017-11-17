@@ -7,6 +7,7 @@
     "addr:postcode":"08403",
     "addr:street":"Av Sant Julia",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":2.273404,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Av Sant Julia, 239",
     "sg:city":"Granollers",
     "sg:classifiers":[],
@@ -36,12 +37,14 @@
     "wof:geomhash":"700b4a354f6006eded544e6aac268694",
     "wof:hierarchy":[],
     "wof:id":991726355,
-    "wof:lastmodified":1510699743,
+    "wof:lastmodified":1510941187,
     "wof:name":"Galpgest Petrogal Estaciones De Servicio S.l.u.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991726369
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

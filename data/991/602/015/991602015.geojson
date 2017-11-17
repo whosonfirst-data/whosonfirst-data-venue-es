@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28001",
     "addr:street":"Calle De Claudio Coello",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6869606972,40.4225845337,-3.6869606972,40.4225845337",
     "geom:latitude":40.422585,
     "geom:longitude":-3.686961,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Claudio Coello, 18",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472559678,
-    "wof:geomhash":"fe5a0af1a9cd7983c6c1b238e4781714",
+    "wof:geomhash":"33bb9150660c329ff9f6685539f88133",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991602015,
-    "wof:lastmodified":1472769920,
+    "wof:lastmodified":1510942895,
     "wof:name":"Eurocom Corporate & Pr S.a.",
     "wof:parent_id":85863809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991602017
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

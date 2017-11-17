@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.712816,40.340839386,-3.712816,40.340839386",
     "geom:latitude":40.340839,
     "geom:longitude":-3.712816,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Valle De Tobalina, 52",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472511745,
-    "wof:geomhash":"c5d7aac85c3b7bd4e1df95e5e58894c7",
+    "wof:geomhash":"e37e1ecb756ec489e54ac5e2cc0a16c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":990936601,
-    "wof:lastmodified":1472767716,
+    "wof:lastmodified":1510941662,
     "wof:name":"Alje Limpiezas Y Suministros S.l.",
     "wof:parent_id":85799667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        990936599
+    ],
     "wof:tags":[]
 },
   "bbox": [

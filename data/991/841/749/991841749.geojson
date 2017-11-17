@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.8708869815,41.6758537292,-0.8708869815,41.6758537292",
     "geom:latitude":41.675854,
     "geom:longitude":-0.870887,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de San Juan De La Pe\u00d1a, 182",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472574242,
-    "wof:geomhash":"75116746c14d0d2cd4174074d68e53a6",
+    "wof:geomhash":"c519260cafa3908a71ba312f3aafa593",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,13 +46,15 @@
         }
     ],
     "wof:id":991841749,
-    "wof:lastmodified":1472770504,
+    "wof:lastmodified":1510942384,
     "wof:name":"Gracia Goez S.c.",
     "wof:parent_id":85863293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991841747
+    ],
     "wof:tags":[]
 },
   "bbox": [

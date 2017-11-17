@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1486101151,41.4935913086,2.1486101151,41.4935913086",
     "geom:latitude":41.493591,
     "geom:longitude":2.14861,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Av Creu Roja, 1",
     "sg:city":"Cerdanyola Valles",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472618177,
-    "wof:geomhash":"e341150d133957b6e59f785a62cd12c3",
+    "wof:geomhash":"e47b56d011dbaba2df25c9cdaddaeb8a",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,13 +46,15 @@
         }
     ],
     "wof:id":1008288347,
-    "wof:lastmodified":1472769304,
+    "wof:lastmodified":1510944015,
     "wof:name":"Proyecto De Informatica Portatil S.l.",
     "wof:parent_id":85799639,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008288345
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.8102889061,43.4581642151,-3.8102889061,43.4581642151",
     "geom:latitude":43.458164,
     "geom:longitude":-3.810289,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Plaz Estaciones, S/n",
     "sg:city":"Santander",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472559080,
-    "wof:geomhash":"1add8118af8a5dbfd49838b51dcf971a",
+    "wof:geomhash":"eb0f17a52617eddbfcec5757ba2cdbb5",
     "wof:hierarchy":[
         {
             "campus_id":102545823,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":991588655,
-    "wof:lastmodified":1472770148,
+    "wof:lastmodified":1510943415,
     "wof:name":"Estacion De Lineas Regulares S.a.",
     "wof:parent_id":102545823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991588651
+    ],
     "wof:tags":[]
 },
   "bbox": [

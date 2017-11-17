@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6935503483,40.404548645,-3.6935503483,40.404548645",
     "geom:latitude":40.404549,
     "geom:longitude":-3.69355,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Pase Delicias, 30",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472507945,
-    "wof:geomhash":"ff74444b1aedfb325f87ba7290ec7bb7",
+    "wof:geomhash":"9826c7dcc9fd69549139c9f081005f00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":975161829,
-    "wof:lastmodified":1472767258,
+    "wof:lastmodified":1510941554,
     "wof:name":"Administracion Y Gestion De Edificios Y Comunidades S.l.",
     "wof:parent_id":85863741,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        975161827
+    ],
     "wof:tags":[]
 },
   "bbox": [

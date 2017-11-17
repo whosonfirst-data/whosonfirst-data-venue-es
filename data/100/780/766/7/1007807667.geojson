@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6830780506,40.4672164917,-3.6830780506,40.4672164917",
     "geom:latitude":40.467216,
     "geom:longitude":-3.683078,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Calle de Mateo Inurria, 26",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -35,11 +37,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":3590409292,
         "sg:id":"SG_4CLKigEWNbM72GYjU4wlkq_40.467216_-3.683078@1306269571"
     },
     "wof:country":"ES",
     "wof:created":1472586723,
-    "wof:geomhash":"2babc5eb9e182927bf49487304ffa16e",
+    "wof:geomhash":"35366771a952ec0c1c82b9c77dbc6b9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1007807667,
-    "wof:lastmodified":1472769391,
+    "wof:lastmodified":1510943093,
     "wof:name":"Liga Nacional De Futbol Sala",
     "wof:parent_id":85863601,
     "wof:placetype":"venue",

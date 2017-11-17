@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.6679787636,39.5714225769,2.6679787636,39.5714225769",
     "geom:latitude":39.571423,
     "geom:longitude":2.667979,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Carrer de Manacor, 99",
     "sg:city":"Palma",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472516450,
-    "wof:geomhash":"da46427eb0161e191247e70c7bd5beee",
+    "wof:geomhash":"dfd9d2b8a628f693d576e4019273c7ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,13 +71,15 @@
         }
     ],
     "wof:id":990966547,
-    "wof:lastmodified":1472767813,
+    "wof:lastmodified":1510942526,
     "wof:name":"Amipal S. A.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        990966543
+    ],
     "wof:tags":[
         "locale",
         "de",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6356139183,37.1961364746,-3.6356139183,37.1961364746",
     "geom:latitude":37.196136,
     "geom:longitude":-3.635614,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Pol Ind Mercagranada, S/n",
     "sg:city":"Granada",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472555172,
-    "wof:geomhash":"e6efa15da8426e25fb5646f6148c7f73",
+    "wof:geomhash":"5e3ca34ee6e60c8f4caf1f6f14d8e401",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,13 +46,15 @@
         }
     ],
     "wof:id":991515145,
-    "wof:lastmodified":1472769910,
+    "wof:lastmodified":1510943445,
     "wof:name":"Distribuidora Granadina De Automocion S.a.",
     "wof:parent_id":85863831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991515143
+    ],
     "wof:tags":[]
 },
   "bbox": [

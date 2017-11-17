@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.5990400314,37.1677589417,-3.5990400314,37.1677589417",
     "geom:latitude":37.167759,
     "geom:longitude":-3.59904,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de San Anton, 72",
     "sg:city":"Granada",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472549668,
-    "wof:geomhash":"55de8fb7e9c2f5619237f01f9ceeee47",
+    "wof:geomhash":"980e2c37e53e1c40f55805b66ea84397",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,13 +46,15 @@
         }
     ],
     "wof:id":991414941,
-    "wof:lastmodified":1472769932,
+    "wof:lastmodified":1510943306,
     "wof:name":"Construcciones Porman S.a.",
     "wof:parent_id":85863847,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991414939
+    ],
     "wof:tags":[]
 },
   "bbox": [

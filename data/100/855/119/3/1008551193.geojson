@@ -7,13 +7,16 @@
     "addr:postcode":"48160",
     "addr:street":"Calle De Larrauri Kalea",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.8787610531,43.2920761108,-2.8787610531,43.2920761108",
     "geom:latitude":43.292076,
     "geom:longitude":-2.878761,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Larrauri Kalea, 1",
     "sg:city":"Arteaga Derio",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472632158,
-    "wof:geomhash":"57d3bc7694313362160df93fa42f8298",
+    "wof:geomhash":"b21240035854615f42978beb588540f3",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":1008551193,
-    "wof:lastmodified":1472767112,
+    "wof:lastmodified":1510942491,
     "wof:name":"Somfy Espa\u00f1a S.a.",
     "wof:parent_id":85863973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008551195
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

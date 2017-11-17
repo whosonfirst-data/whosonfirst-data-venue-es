@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.8720738888,40.4754638672,-3.8720738888,40.4754638672",
     "geom:latitude":40.475464,
     "geom:longitude":-3.872074,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avda Reyes Catolicos, 6",
     "sg:city":"Majadahonda",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472535233,
-    "wof:geomhash":"9ab096befc18de6a7facd2ba688d2af9",
+    "wof:geomhash":"f6283dd56b8f1340b0e0b8dbcc9d16c8",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,13 +46,15 @@
         }
     ],
     "wof:id":991184161,
-    "wof:lastmodified":1472767888,
+    "wof:lastmodified":1510941697,
     "wof:name":"Bufete Bottlander Y Rincon S.l.",
     "wof:parent_id":85863657,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991184159
+    ],
     "wof:tags":[]
 },
   "bbox": [

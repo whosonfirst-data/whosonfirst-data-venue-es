@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28003",
     "addr:street":"Calle De Cea Bermudez",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7071185112,40.4387893677,-3.7071185112,40.4387893677",
     "geom:latitude":40.438789,
     "geom:longitude":-3.707119,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Cea Bermudez, 10",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472541540,
-    "wof:geomhash":"558d0b9c56cf479163f6ef1672972ef7",
+    "wof:geomhash":"c2a4c102d0e700efb32c305d661b6e2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991276135,
-    "wof:lastmodified":1472769593,
+    "wof:lastmodified":1510941279,
     "wof:name":"Carrion De Agustin Melesio",
     "wof:parent_id":85863653,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991276139
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-6.0579481125,37.3518562317,-6.0579481125,37.3518562317",
     "geom:latitude":37.351856,
     "geom:longitude":-6.057948,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Exposicion, 6",
     "sg:city":"Mairena Aljarafe",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472579004,
-    "wof:geomhash":"3c9a7f00eda054901cc9670532cecd7a",
+    "wof:geomhash":"f14cfc7e3166bfdaf1463bafec643804",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":991931433,
-    "wof:lastmodified":1472770643,
+    "wof:lastmodified":1510942426,
     "wof:name":"Iber Elco S.a.",
     "wof:parent_id":85864135,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991931431
+    ],
     "wof:tags":[]
 },
   "bbox": [

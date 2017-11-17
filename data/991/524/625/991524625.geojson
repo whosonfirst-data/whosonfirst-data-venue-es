@@ -7,13 +7,16 @@
     "addr:postcode":"28700",
     "addr:street":"Avda Fuente Nueva De La",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6121480465,40.547618866,-3.6121480465,40.547618866",
     "geom:latitude":40.547619,
     "geom:longitude":-3.612148,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avda Fuente Nueva (de La), 14",
     "sg:city":"San Sebastian De Los Reyes",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472555666,
-    "wof:geomhash":"0fc6cb1b4e67c5a9d13789a283a6ae02",
+    "wof:geomhash":"fbb6c973ace095d45be4c32210bb920c",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":991524625,
-    "wof:lastmodified":1472770097,
+    "wof:lastmodified":1510942055,
     "wof:name":"Domino Amjet Iberica S.a.",
     "wof:parent_id":85863585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991524629
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

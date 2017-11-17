@@ -7,6 +7,7 @@
     "addr:postcode":"29600",
     "addr:street":"Comercial;Ma\u0301Laga",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-4.883301,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"La Ca\u00f1ada-ctro Comercial, 58",
     "sg:city":"Marbella",
     "sg:classifiers":[],
@@ -37,13 +38,18 @@
     "wof:geomhash":"67d9960fabe6affc761abea8ab216ec0",
     "wof:hierarchy":[],
     "wof:id":991438879,
-    "wof:lastmodified":1510874745,
+    "wof:lastmodified":1510941346,
     "wof:name":"Cortefiel S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        991438899
+    ],
+    "wof:supersedes":[
+        991438849,
+        991438869
+    ],
     "wof:tags":[]
 },
   "bbox": [

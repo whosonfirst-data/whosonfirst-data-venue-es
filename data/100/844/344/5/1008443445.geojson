@@ -7,13 +7,16 @@
     "addr:postcode":"41016",
     "addr:street":"Pino S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.9262089729,37.3770637512,-5.9262089729,37.3770637512",
     "geom:latitude":37.377064,
     "geom:longitude":-5.926209,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Pol Ind El Pino, S/n",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472627696,
-    "wof:geomhash":"37dc1d71443c6a013643883329189bcd",
+    "wof:geomhash":"d16d5d8975bd462be9174288897cb915",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":1008443445,
-    "wof:lastmodified":1472768071,
+    "wof:lastmodified":1510941972,
     "wof:name":"Salvesen Logistica S.a.",
     "wof:parent_id":85799429,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008443447
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

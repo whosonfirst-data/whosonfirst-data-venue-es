@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.4183969498,36.7356567383,-4.4183969498,36.7356567383",
     "geom:latitude":36.735657,
     "geom:longitude":-4.418397,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Obispo Salvador De Los Reyes, 5",
     "sg:city":"Malaga",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472630518,
-    "wof:geomhash":"998e6904ef646cab034edd10bbc15b9f",
+    "wof:geomhash":"993f0c2500cdf08a0cb4f607df28d5e9",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,13 +46,15 @@
         }
     ],
     "wof:id":1008511901,
-    "wof:lastmodified":1472767477,
+    "wof:lastmodified":1510944159,
     "wof:name":"Servicios Contenedores Higienicos Sanita",
     "wof:parent_id":85863495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008511899
+    ],
     "wof:tags":[]
 },
   "bbox": [

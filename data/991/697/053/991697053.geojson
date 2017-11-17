@@ -7,13 +7,16 @@
     "addr:postcode":"08020",
     "addr:street":"Carrer De Santander",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.2019441128,41.4272117615,2.2019441128,41.4272117615",
     "geom:latitude":41.427212,
     "geom:longitude":2.201944,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Carrer de Santander, 42",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472565318,
-    "wof:geomhash":"51bd5f850e1599ea1af464077e2fffd3",
+    "wof:geomhash":"491d25118685d508373c7ef797cb6481",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991697053,
-    "wof:lastmodified":1472770195,
+    "wof:lastmodified":1510942222,
     "wof:name":"Friogas S.a.",
     "wof:parent_id":85864011,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991697055
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

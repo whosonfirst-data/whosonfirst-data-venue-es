@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6862840652,40.4283828735,-3.6862840652,40.4283828735",
     "geom:latitude":40.428383,
     "geom:longitude":-3.686284,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Claudio Coello, 65",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472636100,
-    "wof:geomhash":"16723cdad5714311e2964d09387b9f33",
+    "wof:geomhash":"d31ab7d8e21947cce46e2cbb3d4c6fa9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":1008642997,
-    "wof:lastmodified":1472767831,
+    "wof:lastmodified":1510944159,
     "wof:name":"Tous Joyeros Madrid S.a.",
     "wof:parent_id":85863809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008642995
+    ],
     "wof:tags":[]
 },
   "bbox": [

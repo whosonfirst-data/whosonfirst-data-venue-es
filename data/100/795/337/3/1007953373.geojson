@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28039",
     "addr:street":"Calle De Francos Rodriguez",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7033400536,40.4547653198,-3.7033400536,40.4547653198",
     "geom:latitude":40.454765,
     "geom:longitude":-3.70334,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Francos Rodriguez, 10",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472593282,
-    "wof:geomhash":"506d28b9d62efaf6b0807c74111d208f",
+    "wof:geomhash":"5f89abaec0d5ebe29996275941a43ab8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1007953373,
-    "wof:lastmodified":1472768019,
+    "wof:lastmodified":1510942714,
     "wof:name":"Master Dis S.l.",
     "wof:parent_id":85863621,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1007953387
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

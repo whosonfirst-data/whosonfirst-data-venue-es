@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.8906949759,41.6568832397,-0.8906949759,41.6568832397",
     "geom:latitude":41.656883,
     "geom:longitude":-0.890695,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Calle de Santa Ines, 8",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -34,11 +36,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":1797732545,
         "sg:id":"SG_7D2TpSpqYAlX31gIyEjSFg_41.656883_-0.890695@1306269664"
     },
     "wof:country":"ES",
     "wof:created":1472630733,
-    "wof:geomhash":"a4927cf555649d07f6dccbf20d67cd7b",
+    "wof:geomhash":"659df97733369a0e7e92833d54be7905",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1008516995,
-    "wof:lastmodified":1472768859,
+    "wof:lastmodified":1510943348,
     "wof:name":"Servoelectrico Cinematografo Sl",
     "wof:parent_id":85863323,
     "wof:placetype":"venue",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6441969872,40.374256134,-3.6441969872,40.374256134",
     "geom:latitude":40.374256,
     "geom:longitude":-3.644197,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Cmno Hormigueras, 124",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472564965,
-    "wof:geomhash":"ce05ad0d4512f65dc0b3dc98e86b181d",
+    "wof:geomhash":"0d74901aefa4b29b90299fa8659015fe",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,13 +46,15 @@
         }
     ],
     "wof:id":991689463,
-    "wof:lastmodified":1472770298,
+    "wof:lastmodified":1510943940,
     "wof:name":"Francisco De Lucas E Hijos S.a.",
     "wof:parent_id":85863779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991689461
+    ],
     "wof:tags":[]
 },
   "bbox": [

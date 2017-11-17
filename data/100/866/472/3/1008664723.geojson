@@ -7,13 +7,16 @@
     "addr:postcode":"41012",
     "addr:street":"Avda Reino Unido",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.976749897,37.3466300964,-5.976749897,37.3466300964",
     "geom:latitude":37.34663,
     "geom:longitude":-5.97675,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avda Reino Unido, 1",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472636999,
-    "wof:geomhash":"f44431e0fcbd0d41009214ae5be70797",
+    "wof:geomhash":"c999b5c4d5f70a5e097355d291c8670b",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":1008664723,
-    "wof:lastmodified":1472768553,
+    "wof:lastmodified":1510941654,
     "wof:name":"Udama S.a.",
     "wof:parent_id":85864195,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008664743
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

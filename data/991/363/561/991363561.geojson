@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6808269024,40.4652023315,-3.6808269024,40.4652023315",
     "geom:latitude":40.465202,
     "geom:longitude":-3.680827,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Calle de Menendez Pidal, 35",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -34,11 +36,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":383255310,
         "sg:id":"SG_7gPOFF1uJjnuOWKUCRC8yI_40.465202_-3.680827@1306269476"
     },
     "wof:country":"ES",
     "wof:created":1472546151,
-    "wof:geomhash":"a2dd2b90baccbd399d268a730e287600",
+    "wof:geomhash":"fb9a6b578fad895507be3d7acb519160",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":991363561,
-    "wof:lastmodified":1472769767,
+    "wof:lastmodified":1510943604,
     "wof:name":"Colegio Mayor Castilla",
     "wof:parent_id":85863601,
     "wof:placetype":"venue",

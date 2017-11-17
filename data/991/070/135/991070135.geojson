@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28034",
     "addr:street":"Calle De Antonio De Cabezon",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.68364048,40.5016365051,-3.68364048,40.5016365051",
     "geom:latitude":40.501637,
     "geom:longitude":-3.68364,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Antonio De Cabezon, 83",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472524487,
-    "wof:geomhash":"db5772d49eb0a65efb668fce32e2950d",
+    "wof:geomhash":"4e92fba20e95574d7aebc4ba0eed1a25",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":991070135,
-    "wof:lastmodified":1472766731,
+    "wof:lastmodified":1510942698,
     "wof:name":"Axflow S. A.",
     "wof:parent_id":85799389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991070137
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

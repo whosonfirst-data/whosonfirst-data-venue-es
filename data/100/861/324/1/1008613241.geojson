@@ -7,13 +7,16 @@
     "addr:postcode":"28914",
     "addr:street":"Calle De Trigo Del",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7820279598,40.3274497986,-3.7820279598,40.3274497986",
     "geom:latitude":40.32745,
     "geom:longitude":-3.782028,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Trigo (del), 54",
     "sg:city":"Leganes",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472634841,
-    "wof:geomhash":"11822bb500644ef3acd05d6d20efcc2d",
+    "wof:geomhash":"0bc9e0cfee2bb4d5d1ba298e4dcd28ae",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":1008613241,
-    "wof:lastmodified":1472767951,
+    "wof:lastmodified":1510943500,
     "wof:name":"Teletrix Instalaciones S.l.",
     "wof:parent_id":85863785,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008613243
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

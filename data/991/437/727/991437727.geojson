@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28020",
     "addr:street":"Calle De Capitan Haya",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6924910545,40.455871582,-3.6924910545,40.455871582",
     "geom:latitude":40.455872,
     "geom:longitude":-3.692491,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Capitan Haya, 9",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472550944,
-    "wof:geomhash":"f4fe03b569e8283004220e15e4ec3392",
+    "wof:geomhash":"269c772b23d195c582fbff007afa239d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":991437727,
-    "wof:lastmodified":1472769899,
+    "wof:lastmodified":1510943273,
     "wof:name":"Correduria De Seguros De Madrid S.a",
     "wof:parent_id":85863621,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991437729
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

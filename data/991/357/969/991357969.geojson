@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6216089725,40.4380226135,-3.6216089725,40.4380226135",
     "geom:latitude":40.438023,
     "geom:longitude":-3.621609,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de San Romualdo, 26",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472545664,
-    "wof:geomhash":"f830e2174f7a1d21e0bda5e469a8f7d1",
+    "wof:geomhash":"cd94b797e5416ff543cfe6f15bbae6a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":991357969,
-    "wof:lastmodified":1472769870,
+    "wof:lastmodified":1510942836,
     "wof:name":"Code Seguridad S.a.",
     "wof:parent_id":85863701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991357967
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28037",
     "addr:street":"Beato",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6257369518,40.4386940002,-3.6257369518,40.4386940002",
     "geom:latitude":40.438694,
     "geom:longitude":-3.625737,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Valentin Beato, 24",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472519546,
-    "wof:geomhash":"477b9e17302e996606899cb2dbbbe5eb",
+    "wof:geomhash":"242ae21964f4989d63ed5f85d2b9a966",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":991006271,
-    "wof:lastmodified":1472766738,
+    "wof:lastmodified":1510941670,
     "wof:name":"A R M Online S. L.",
     "wof:parent_id":85863641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991006273
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28020",
     "addr:street":"Calle De Orense",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.695264101,40.4494514465,-3.695264101,40.4494514465",
     "geom:latitude":40.449451,
     "geom:longitude":-3.695264,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Orense, 14",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472641223,
-    "wof:geomhash":"0125a1b618303c44b0bc5641cb5c0422",
+    "wof:geomhash":"9dfad1a9700ab3011d111f7fd0a274c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":1024490711,
-    "wof:lastmodified":1472766904,
+    "wof:lastmodified":1510942114,
     "wof:name":"Zara Home Espa\u00d1a S.a.",
     "wof:parent_id":85863621,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1024490713
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

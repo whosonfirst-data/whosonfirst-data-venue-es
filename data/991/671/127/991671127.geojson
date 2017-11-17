@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6513390541,40.5145759583,-3.6513390541,40.5145759583",
     "geom:latitude":40.514576,
     "geom:longitude":-3.651339,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Estafeta, 2",
     "sg:city":"Alcobendas",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472564029,
-    "wof:geomhash":"63190d4c0b76faaf77911cc9cf8e034f",
+    "wof:geomhash":"5ac3cc01e89a6a9d3a5fb0f5cb54eeca",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,13 +46,15 @@
         }
     ],
     "wof:id":991671127,
-    "wof:lastmodified":1472770022,
+    "wof:lastmodified":1510941966,
     "wof:name":"Flanigan S.a.",
     "wof:parent_id":85799389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991671125
+    ],
     "wof:tags":[]
 },
   "bbox": [

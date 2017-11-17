@@ -7,13 +7,16 @@
     "addr:postcode":"41018",
     "addr:street":"Avda San Francisco Javier",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.9746484756,37.3791542053,-5.9746484756,37.3791542053",
     "geom:latitude":37.379154,
     "geom:longitude":-5.974648,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avda San Francisco Javier, 22",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472521946,
-    "wof:geomhash":"0c599745f091ac86e5972ae4f1e45836",
+    "wof:geomhash":"cd5e24e5b8197fe569f4f3caf16b9a50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991036731,
-    "wof:lastmodified":1472766955,
+    "wof:lastmodified":1510943370,
     "wof:name":"Asociacion Espa\u00f1ola De Direccion De Personal",
     "wof:parent_id":85864171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991036733
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

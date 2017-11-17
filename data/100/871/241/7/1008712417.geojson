@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.5993859768,37.1694641113,-3.5993859768,37.1694641113",
     "geom:latitude":37.169464,
     "geom:longitude":-3.599386,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de San Anton, 67",
     "sg:city":"Granada",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472639105,
-    "wof:geomhash":"4f6552477aa960021e045733cdac026b",
+    "wof:geomhash":"5fdb1be5816899dccb71054b3db942c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":1008712417,
-    "wof:lastmodified":1472767752,
+    "wof:lastmodified":1510942723,
     "wof:name":"Viajes El Corte Ingles S.a.",
     "wof:parent_id":85863845,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008712415
+    ],
     "wof:tags":[]
 },
   "bbox": [

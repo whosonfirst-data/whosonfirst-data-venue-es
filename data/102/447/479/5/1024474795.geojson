@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6799991131,40.4291114807,-3.6799991131,40.4291114807",
     "geom:latitude":40.429111,
     "geom:longitude":-3.679999,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Principe De Vergara, 43",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472640547,
-    "wof:geomhash":"bf57ca18e6a3890351c53645c3f093e0",
+    "wof:geomhash":"09913efec646c0b3ca0aff2b9e8c847b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":1024474795,
-    "wof:lastmodified":1472768613,
+    "wof:lastmodified":1510942158,
     "wof:name":"Vtv Muebles Y Complementos S.l.",
     "wof:parent_id":85863675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1024474793
+    ],
     "wof:tags":[]
 },
   "bbox": [

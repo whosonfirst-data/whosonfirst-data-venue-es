@@ -7,13 +7,16 @@
     "addr:postcode":"48970",
     "addr:street":"Zabalandi",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.8870439529,43.2375488281,-2.8870439529,43.2375488281",
     "geom:latitude":43.237549,
     "geom:longitude":-2.887044,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Barr Zabalandi, 22",
     "sg:city":"Urbi",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472636123,
-    "wof:geomhash":"c98444865d650d28a0b4bfcef330a223",
+    "wof:geomhash":"6b072d5f69878f3f53e4347038a811c6",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":1008643539,
-    "wof:lastmodified":1472768041,
+    "wof:lastmodified":1510941342,
     "wof:name":"Toys R Us S.a.",
     "wof:parent_id":85799203,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008643541
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

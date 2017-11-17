@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.9392540455,43.2621498108,-2.9392540455,43.2621498108",
     "geom:latitude":43.26215,
     "geom:longitude":-2.939254,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Garcia Rivero Maestro, 8",
     "sg:city":"Bilbao",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472619243,
-    "wof:geomhash":"f4ffff90640fcfde857fd02c8b23ff34",
+    "wof:geomhash":"d6e8c3be6276fe91c641c0786bbf44ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":1008298293,
-    "wof:lastmodified":1472769079,
+    "wof:lastmodified":1510944013,
     "wof:name":"Pull & Bear Espa\u00f1a S.a.",
     "wof:parent_id":85863925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008298281
+    ],
     "wof:tags":[]
 },
   "bbox": [

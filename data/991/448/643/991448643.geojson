@@ -7,13 +7,16 @@
     "addr:postcode":"08917",
     "addr:street":"Carr Holanda",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.2230000496,41.458984375,2.2230000496,41.458984375",
     "geom:latitude":41.458984,
     "geom:longitude":2.223,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Carr Holanda, S/n",
     "sg:city":"Badalona",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472551634,
-    "wof:geomhash":"4e7ebd5f8ec01ed26c7e07f0771e2f7a",
+    "wof:geomhash":"5f60dcd3346563b520f08fb9ef393537",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991448643,
-    "wof:lastmodified":1472769758,
+    "wof:lastmodified":1510942538,
     "wof:name":"Creaciones Y Exclusivas Jp S.l.",
     "wof:parent_id":85799179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991448645
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

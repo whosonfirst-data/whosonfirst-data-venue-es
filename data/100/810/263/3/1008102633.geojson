@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28004",
     "addr:street":"Calle De Churruca",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7012867928,40.4284896851,-3.7012867928,40.4284896851",
     "geom:latitude":40.42849,
     "geom:longitude":-3.701287,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Churruca, 18",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472599633,
-    "wof:geomhash":"fe807b5c8c61c0736ddeae2eb77b04bc",
+    "wof:geomhash":"9e4809f6da587e9b69ef6225b0e70a07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +56,17 @@
         }
     ],
     "wof:id":1008102633,
-    "wof:lastmodified":1472767750,
+    "wof:lastmodified":1510942289,
     "wof:name":"Novasan S.a.",
     "wof:parent_id":85863665,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1008102635
+    ],
+    "wof:supersedes":[
+        1008102629
+    ],
     "wof:tags":[]
 },
   "bbox": [

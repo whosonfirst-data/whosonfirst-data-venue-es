@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6938109398,40.4616851807,-3.6938109398,40.4616851807",
     "geom:latitude":40.461685,
     "geom:longitude":-3.693811,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Orense, 68",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472640199,
-    "wof:geomhash":"577a911515cb7dc0dca14297904727d5",
+    "wof:geomhash":"f47edb37c8499a3d65ca279781576dbd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1024466689,
-    "wof:lastmodified":1472768810,
+    "wof:lastmodified":1510943553,
     "wof:name":"Vinci Park Espa\u00f1a S.a.",
     "wof:parent_id":85863603,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1024466681
+    ],
     "wof:tags":[]
 },
   "bbox": [

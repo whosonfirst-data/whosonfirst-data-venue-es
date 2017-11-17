@@ -7,6 +7,7 @@
     "addr:postcode":"28770",
     "addr:street":"Calle De Molino De Viento Del S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-3.77312,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Calle de Molino De Viento (del), S/n",
     "sg:city":"Colmenar Viejo",
     "sg:classifiers":[],
@@ -36,12 +37,14 @@
     "wof:geomhash":"3a0c7c831819d4d5d42e20022512a671",
     "wof:hierarchy":[],
     "wof:id":1008494755,
-    "wof:lastmodified":1510696732,
+    "wof:lastmodified":1510943565,
     "wof:name":"Seguros Catalana Occidente S.a. De Seguros Y Reaseguros",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008494761
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.3895339966,39.4232254028,-0.3895339966,39.4232254028",
     "geom:latitude":39.423225,
     "geom:longitude":-0.389534,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avda Albufera, S/n",
     "sg:city":"Alfafar",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472535068,
-    "wof:geomhash":"db5f61b2b815acac502cfcaa03922b9f",
+    "wof:geomhash":"df363920c238d05dcb97df6bb8b0eb05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":991182057,
-    "wof:lastmodified":1472767779,
+    "wof:lastmodified":1510943861,
     "wof:name":"Bt Espa\u00d1a Compa\u00d1ia De Servicios Globales De Telecomunicaciones S.a.u.",
     "wof:parent_id":85864197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991182053
+    ],
     "wof:tags":[]
 },
   "bbox": [

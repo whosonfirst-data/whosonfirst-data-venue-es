@@ -7,13 +7,16 @@
     "addr:postcode":"48013",
     "addr:street":"Calle De Diaz De Haro Maria",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.9458360672,43.2619171143,-2.9458360672,43.2619171143",
     "geom:latitude":43.261917,
     "geom:longitude":-2.945836,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Diaz De Haro Maria, 10",
     "sg:city":"Bilbao",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472518425,
-    "wof:geomhash":"b10f381a4df49651ad28b5c07e6e9a6c",
+    "wof:geomhash":"cc2fcd943eec4ac9c2393a3a99d79ea2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":990990947,
-    "wof:lastmodified":1472768149,
+    "wof:lastmodified":1510944077,
     "wof:name":"Aralde S. A.",
     "wof:parent_id":85863925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        990990949
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

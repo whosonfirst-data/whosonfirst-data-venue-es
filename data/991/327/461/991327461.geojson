@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6946299076,40.4582252502,-3.6946299076,40.4582252502",
     "geom:latitude":40.458225,
     "geom:longitude":-3.69463,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Orense, 69",
     "sg:city":"Madrid",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472543903,
-    "wof:geomhash":"1a990cf81134694f8a15f262ca7656d6",
+    "wof:geomhash":"e57e199241eacb329dc774a2b873c6e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":991327461,
-    "wof:lastmodified":1472769754,
+    "wof:lastmodified":1510942483,
     "wof:name":"Certum Control Tecnico De La Edificacion S.a.",
     "wof:parent_id":85863603,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991327445
+    ],
     "wof:tags":[
         "organismos",
         "control"

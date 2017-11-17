@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6120142937,40.5476875305,-3.6120142937,40.5476875305",
     "geom:latitude":40.547688,
     "geom:longitude":-3.612014,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avda Fuente Nueva (de La), 14",
     "sg:city":"San Sebastian De Los Reyes",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472516304,
-    "wof:geomhash":"60d501c8c83481e3201d35579f3f0186",
+    "wof:geomhash":"fe6ba8f1f19876fa05dce951a849e977",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,13 +46,15 @@
         }
     ],
     "wof:id":990965177,
-    "wof:lastmodified":1472767705,
+    "wof:lastmodified":1510944144,
     "wof:name":"Amelia Arant S.l.",
     "wof:parent_id":85863585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        990965175
+    ],
     "wof:tags":[]
 },
   "bbox": [

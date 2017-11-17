@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6123359203,40.547668457,-3.6123359203,40.547668457",
     "geom:latitude":40.547668,
     "geom:longitude":-3.612336,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avda Fuente Nueva (de La), 12",
     "sg:city":"San Sebastian De Los Reyes",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472533466,
-    "wof:geomhash":"517dd88daf668adfade04633867e9ba6",
+    "wof:geomhash":"67722f2984c242e658ced3a97d5b52b4",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -45,13 +47,15 @@
         }
     ],
     "wof:id":991161861,
-    "wof:lastmodified":1472767888,
+    "wof:lastmodified":1510942683,
     "wof:name":"Bodegas Martinez Lacuesta S.a.",
     "wof:parent_id":85863585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991161859
+    ],
     "wof:tags":[]
 },
   "bbox": [

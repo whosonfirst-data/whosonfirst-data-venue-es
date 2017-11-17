@@ -7,13 +7,16 @@
     "addr:postcode":"31110",
     "addr:street":"/ N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.6356370449,42.7540054321,-1.6356370449,42.7540054321",
     "geom:latitude":42.754005,
     "geom:longitude":-1.635637,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Poli Mocholi, S/n",
     "sg:city":"Noain",
     "sg:classifiers":[],
@@ -30,16 +33,20 @@
     },
     "wof:country":"ES",
     "wof:created":1472576323,
-    "wof:geomhash":"367cd630ca9f8b30ff27b111c86e070e",
+    "wof:geomhash":"90b8e28ff4b4920fd83a721a2af31427",
     "wof:hierarchy":[],
     "wof:id":991877745,
-    "wof:lastmodified":1472770616,
+    "wof:lastmodified":1510941902,
     "wof:name":"Harivasa 2000 S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        991877747
+    ],
+    "wof:supersedes":[
+        991877743
+    ],
     "wof:tags":[]
 },
   "bbox": [

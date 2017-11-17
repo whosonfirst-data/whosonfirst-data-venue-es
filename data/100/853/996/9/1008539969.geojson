@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7033801079,40.4151992798,-3.7033801079,40.4151992798",
     "geom:latitude":40.415199,
     "geom:longitude":-3.70338,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Carretas, 14",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472631695,
-    "wof:geomhash":"900b64e35ef342743897bbe8abda3532",
+    "wof:geomhash":"f06397d6bd5532e37d2588e884192af2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1008539969,
-    "wof:lastmodified":1472769403,
+    "wof:lastmodified":1510944155,
     "wof:name":"Sociedad Espa\u00f1ola De Musicologia",
     "wof:parent_id":85863685,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008539967
+    ],
     "wof:tags":[]
 },
   "bbox": [

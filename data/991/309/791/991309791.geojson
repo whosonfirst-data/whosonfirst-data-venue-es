@@ -7,13 +7,16 @@
     "addr:postcode":"08001",
     "addr:street":"Carrer De Tallers",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1663489342,41.3848495483,2.1663489342,41.3848495483",
     "geom:latitude":41.38485,
     "geom:longitude":2.166349,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Carrer de Tallers, 77",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472543096,
-    "wof:geomhash":"c873f1f04f95d37043cf625afeec1f40",
+    "wof:geomhash":"1f0cc137a0c641b5f344623217f94fbc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":991309791,
-    "wof:lastmodified":1472769812,
+    "wof:lastmodified":1510941420,
     "wof:name":"Central Autocontable S.a.",
     "wof:parent_id":85864035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991309793
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

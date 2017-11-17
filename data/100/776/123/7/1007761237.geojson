@@ -7,13 +7,16 @@
     "addr:postcode":"41005",
     "addr:street":"Calle De Martin De Gainza",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.9635567665,37.3793296814,-5.9635567665,37.3793296814",
     "geom:latitude":37.37933,
     "geom:longitude":-5.963557,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Martin De Gainza, S/n",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472584307,
-    "wof:geomhash":"1215900089e3147814851a0afaae2efb",
+    "wof:geomhash":"59a94981c8525a5b6b6e2d5974f47639",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +55,17 @@
         }
     ],
     "wof:id":1007761237,
-    "wof:lastmodified":1472767122,
+    "wof:lastmodified":1510941695,
     "wof:name":"Junta De Andalucia",
     "wof:parent_id":85864173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1007761241
+    ],
+    "wof:supersedes":[
+        1007761233
+    ],
     "wof:tags":[]
 },
   "bbox": [

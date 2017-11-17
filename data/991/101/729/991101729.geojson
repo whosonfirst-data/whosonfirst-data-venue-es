@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.4357690811,36.7214698792,-4.4357690811,36.7214698792",
     "geom:latitude":36.72147,
     "geom:longitude":-4.435769,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Martinez Maldonado, 79",
     "sg:city":"Malaga",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472526937,
-    "wof:geomhash":"0446216659310ae1c8d96dbfa7b71b3d",
+    "wof:geomhash":"a1cbf1dde6e1d6ea77d4e9907c69aca2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":991101729,
-    "wof:lastmodified":1472767266,
+    "wof:lastmodified":1510943305,
     "wof:name":"Banco Espa\u00f1ol De Credito S.a.",
     "wof:parent_id":85863451,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991101705
+    ],
     "wof:tags":[]
 },
   "bbox": [

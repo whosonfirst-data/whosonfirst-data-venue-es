@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28020",
     "addr:street":"Avda Brasil",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6939296722,40.4567604065,-3.6939296722,40.4567604065",
     "geom:latitude":40.45676,
     "geom:longitude":-3.69393,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avda Brasil, 17",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472515007,
-    "wof:geomhash":"ada076202722fd8c2e4536a422580aa5",
+    "wof:geomhash":"a3b5d0c09292f219226b8a5cf7745527",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":990953457,
-    "wof:lastmodified":1472767700,
+    "wof:lastmodified":1510943447,
     "wof:name":"Aluna Comunicacion Integral S.l.",
     "wof:parent_id":85863621,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        990953459
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

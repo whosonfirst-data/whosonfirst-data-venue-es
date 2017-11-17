@@ -7,13 +7,16 @@
     "addr:postcode":"50004",
     "addr:street":"Calle De Madre Rafols",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.8873410225,41.6526184082,-0.8873410225,41.6526184082",
     "geom:latitude":41.652618,
     "geom:longitude":-0.887341,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Madre Rafols, 2",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472549407,
-    "wof:geomhash":"ccf82afba5cbd4d7bc2ebff44f7337d4",
+    "wof:geomhash":"a9f2619a6b8baa3fdcf9906d3c2e8a1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991410379,
-    "wof:lastmodified":1472769703,
+    "wof:lastmodified":1510943011,
     "wof:name":"Construcciones Enrique De Luis S.a.",
     "wof:parent_id":85863323,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991410383
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

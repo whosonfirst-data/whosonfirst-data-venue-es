@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28015",
     "addr:street":"Calle De San Bernardo",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7074298859,40.4228744507,-3.7074298859,40.4228744507",
     "geom:latitude":40.422874,
     "geom:longitude":-3.70743,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de San Bernardo, 20",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472570539,
-    "wof:geomhash":"14280ad09075558f1c3402b1e80b232c",
+    "wof:geomhash":"05bd664745e66cdb26271704b90a165f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991784749,
-    "wof:lastmodified":1472770480,
+    "wof:lastmodified":1510943257,
     "wof:name":"Gestincor Consultores S.a.",
     "wof:parent_id":85863667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991784751
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

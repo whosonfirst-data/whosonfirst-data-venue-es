@@ -7,13 +7,16 @@
     "addr:postcode":"14002",
     "addr:street":"Calle De Claudio Marcelo;Co\u0301Rdoba",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.7767567635,37.8844642639,-4.7767567635,37.8844642639",
     "geom:latitude":37.884464,
     "geom:longitude":-4.776757,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Claudio Marcelo, 7",
     "sg:city":"Cordoba",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472639271,
-    "wof:geomhash":"cb03b1a2163d7efc86ec58c2c0797797",
+    "wof:geomhash":"c668709876e2b8afac178f24a104f4c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":1008715965,
-    "wof:lastmodified":1472768808,
+    "wof:lastmodified":1510943366,
     "wof:name":"Viajes Marsans S.a.",
     "wof:parent_id":85863901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008715999
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

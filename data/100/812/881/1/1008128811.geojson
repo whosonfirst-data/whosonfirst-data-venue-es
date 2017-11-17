@@ -7,13 +7,16 @@
     "addr:postcode":"08006",
     "addr:street":"Av Diagonal",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1534030437,41.3953132629,2.1534030437,41.3953132629",
     "geom:latitude":41.395313,
     "geom:longitude":2.153403,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Av Diagonal, 512",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472600908,
-    "wof:geomhash":"71a0fc741d556f86358958d856066520",
+    "wof:geomhash":"a5c4986b4e4b595685ece1d7a6a6d195",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":1008128811,
-    "wof:lastmodified":1472769300,
+    "wof:lastmodified":1510941404,
     "wof:name":"Optimedia S.a.",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008128813
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

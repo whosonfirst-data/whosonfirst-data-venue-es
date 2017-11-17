@@ -7,6 +7,7 @@
     "addr:postcode":"08013",
     "addr:street":"Carrer De Napols",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":2.177489,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Carrer de Napols, 146",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -48,12 +49,14 @@
         }
     ],
     "wof:id":991203843,
-    "wof:lastmodified":1510875222,
+    "wof:lastmodified":1510942813,
     "wof:name":"Caixa D'estalvis I Pensions De Barcelona",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991203959
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

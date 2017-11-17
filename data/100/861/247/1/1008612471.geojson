@@ -7,6 +7,7 @@
     "addr:postcode":"41005",
     "addr:street":"Calle De Benito Mas Y Prat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-5.970752,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Calle de Benito Mas Y Prat, 1",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -67,12 +68,14 @@
         }
     ],
     "wof:id":1008612471,
-    "wof:lastmodified":1510697792,
+    "wof:lastmodified":1510942086,
     "wof:name":"Teleinformatica Y Comunicaciones S.a.",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008612475
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

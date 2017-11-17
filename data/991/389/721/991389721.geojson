@@ -7,13 +7,16 @@
     "addr:postcode":"48011",
     "addr:street":"Lopez De Haro D. Diego",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.9434769154,43.2647438049,-2.9434769154,43.2647438049",
     "geom:latitude":43.264744,
     "geom:longitude":-2.943477,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"G.v. Lopez De Haro D. Diego, 81",
     "sg:city":"Bilbao",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472548062,
-    "wof:geomhash":"011b0cb216ab50348641702fdbc2f4e2",
+    "wof:geomhash":"c140ad500891cdf91be8e9cd1bd93d31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991389721,
-    "wof:lastmodified":1472769795,
+    "wof:lastmodified":1510944010,
     "wof:name":"Compa\u00f1ia Vasca De Ingenieria S. L.",
     "wof:parent_id":85863925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991389723
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

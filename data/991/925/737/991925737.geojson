@@ -7,13 +7,16 @@
     "addr:postcode":"07012",
     "addr:street":"Av Jaume Iii",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.6433150768,39.5723114014,2.6433150768,39.5723114014",
     "geom:latitude":39.572311,
     "geom:longitude":2.643315,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Av Jaume Iii, 21",
     "sg:city":"Palma",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472578725,
-    "wof:geomhash":"ab31eef85c2b8543553b3c411dd43f27",
+    "wof:geomhash":"a8eed12af330a18ef3f878b451a8d235",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991925737,
-    "wof:lastmodified":1472770653,
+    "wof:lastmodified":1510941511,
     "wof:name":"Huelva Televison Informacion S.a.",
     "wof:parent_id":85864117,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991925741
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

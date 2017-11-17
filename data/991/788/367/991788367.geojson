@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28001",
     "addr:street":"Calle De Goya",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.683868885,40.4250526428,-3.683868885,40.4250526428",
     "geom:latitude":40.425053,
     "geom:longitude":-3.683869,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Goya, 18",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472571334,
-    "wof:geomhash":"c08edc15fdc816165b9622a24314b2d8",
+    "wof:geomhash":"6a3586cba8dbe187b0dd2c7320518dd3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991788367,
-    "wof:lastmodified":1472770376,
+    "wof:lastmodified":1510942595,
     "wof:name":"Gestoria Administrativa Francisco Mu\u00f1oz S.l.",
     "wof:parent_id":85863809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991788369
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.9161170125,41.6541824341,-0.9161170125,41.6541824341",
     "geom:latitude":41.654182,
     "geom:longitude":-0.916117,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Ramiro I De Aragon, 22",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472637369,
-    "wof:geomhash":"7166220bd6f67e266c8ba4493c410e44",
+    "wof:geomhash":"339e924b334d959f9a0dbc95bf5cc77e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1008674335,
-    "wof:lastmodified":1472768380,
+    "wof:lastmodified":1510941827,
     "wof:name":"Urbanizadora Bartolome S.l.",
     "wof:parent_id":85863331,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008674333
+    ],
     "wof:tags":[]
 },
   "bbox": [

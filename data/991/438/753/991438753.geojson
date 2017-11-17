@@ -7,6 +7,7 @@
     "addr:postcode":"15006",
     "addr:street":"Calle De Ramon Y Cajal;/ N Corun\u0303A La Corun\u0303A",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-8.403334,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Calle de Ramon Y Cajal, S/n",
     "sg:city":"Coru\u00d1a",
     "sg:classifiers":[],
@@ -36,12 +37,14 @@
     "wof:geomhash":"04a5a00087033672df3f04d754fd7485",
     "wof:hierarchy":[],
     "wof:id":991438753,
-    "wof:lastmodified":1510874747,
+    "wof:lastmodified":1510943741,
     "wof:name":"Cortefiel S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991438787
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

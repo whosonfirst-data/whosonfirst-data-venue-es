@@ -7,13 +7,16 @@
     "addr:postcode":"08027",
     "addr:street":"Meridiana",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1857953072,41.4263916016,2.1857953072,41.4263916016",
     "geom:latitude":41.426392,
     "geom:longitude":2.185795,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Av Meridiana, 350",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472509613,
-    "wof:geomhash":"cd048fb5301ae0f08909a0c6989ddb3b",
+    "wof:geomhash":"85fbe6c69805a6c55ce355833654245b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":990910509,
-    "wof:lastmodified":1472767342,
+    "wof:lastmodified":1510941217,
     "wof:name":"Airlan S.a.",
     "wof:parent_id":85863995,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        990910511
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

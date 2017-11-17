@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1475379467,41.3958053589,2.1475379467,41.3958053589",
     "geom:latitude":41.395805,
     "geom:longitude":2.147538,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Carrer de Muntaner, 270",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472630841,
-    "wof:geomhash":"4e71d14651527761a1c649bf4a04ace9",
+    "wof:geomhash":"2cf798e967c6bfc43d313ab7a08fcd63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":1008519801,
-    "wof:lastmodified":1472769412,
+    "wof:lastmodified":1510942521,
     "wof:name":"Sheffield Centre S.a.",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008519797
+    ],
     "wof:tags":[]
 },
   "bbox": [

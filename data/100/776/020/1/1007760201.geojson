@@ -7,13 +7,16 @@
     "addr:postcode":"11011",
     "addr:street":"Calle De Nueva De Puntales",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-6.2668190002,36.5067253113,-6.2668190002,36.5067253113",
     "geom:latitude":36.506725,
     "geom:longitude":-6.266819,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Nueva De Puntales, S/n",
     "sg:city":"Cadiz",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472584256,
-    "wof:geomhash":"7bffa45de015f02f1ddfe2d1ad542aa3",
+    "wof:geomhash":"350191f500c2e1cb75be11ec0bd95a11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1007760201,
-    "wof:lastmodified":1472766711,
+    "wof:lastmodified":1510942208,
     "wof:name":"Junta De Andalucia",
     "wof:parent_id":85799573,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1007760281
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

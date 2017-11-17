@@ -7,13 +7,16 @@
     "addr:postcode":"50001",
     "addr:street":"Calle De San Miguel",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.8815550208,41.6511611938,-0.8815550208,41.6511611938",
     "geom:latitude":41.651161,
     "geom:longitude":-0.881555,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de San Miguel, 2",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472639230,
-    "wof:geomhash":"c7827e2fedd6aa756231ceb86bd6c090",
+    "wof:geomhash":"43d0d3a03d0ad474f83f4946c58a5592",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":1008715001,
-    "wof:lastmodified":1472768627,
+    "wof:lastmodified":1510943841,
     "wof:name":"Viajes Iberia S.a.",
     "wof:parent_id":85863361,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008715075
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"46950",
     "addr:street":"Acc.;Ind.;Salud S / N Pol. Ind.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.4308939874,39.4657897949,-0.4308939874,39.4657897949",
     "geom:latitude":39.46579,
     "geom:longitude":-0.430894,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Cno. Acc. Pol. Ind. Vgen. Salud, S/n",
     "sg:city":"Pol. Ind. Vgen. Salud",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472566023,
-    "wof:geomhash":"79549140376746a1845a46fec8b9b166",
+    "wof:geomhash":"ef6cb2e3a1fc69ebfa34df0b9355ea96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":991711589,
-    "wof:lastmodified":1472770381,
+    "wof:lastmodified":1510941811,
     "wof:name":"Fundicion Sas S. L.",
     "wof:parent_id":85864219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991711591
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "en",

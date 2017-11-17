@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6270520687,40.4350585938,-3.6270520687,40.4350585938",
     "geom:latitude":40.435059,
     "geom:longitude":-3.627052,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Julian Camarillo, 26",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472634463,
-    "wof:geomhash":"7748d30090f147c3bf8acb27506d8e94",
+    "wof:geomhash":"2eb6ff106a1a5e6466e523790d8a5c0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1008604829,
-    "wof:lastmodified":1472768611,
+    "wof:lastmodified":1510941760,
     "wof:name":"Tecnicos De Impresion Y Marcaje S.l.",
     "wof:parent_id":85863641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008604825
+    ],
     "wof:tags":[]
 },
   "bbox": [

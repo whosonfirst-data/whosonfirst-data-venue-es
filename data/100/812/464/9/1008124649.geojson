@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.875235796,40.5000686646,-3.875235796,40.5000686646",
     "geom:latitude":40.500069,
     "geom:longitude":-3.875236,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Colquide, 6",
     "sg:city":"Rozas De Madrid",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472600705,
-    "wof:geomhash":"6e444674489f2ff968aa26e7b0e9a61a",
+    "wof:geomhash":"d01e711ad4ee0f80bbbf05966eba4084",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,13 +46,15 @@
         }
     ],
     "wof:id":1008124649,
-    "wof:lastmodified":1472768544,
+    "wof:lastmodified":1510943856,
     "wof:name":"Ombuds Seguridad S.a.",
     "wof:parent_id":85863613,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008124647
+    ],
     "wof:tags":[]
 },
   "bbox": [

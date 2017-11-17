@@ -7,13 +7,16 @@
     "addr:postcode":"48008",
     "addr:street":"Calle De Rodriguez Arias",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.934969902,43.2619743347,-2.934969902,43.2619743347",
     "geom:latitude":43.261974,
     "geom:longitude":-2.93497,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Rodriguez Arias, 6",
     "sg:city":"Bilbao",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472571988,
-    "wof:geomhash":"7c011b93937a15fe499250522ff8f371",
+    "wof:geomhash":"1d27e932a769a415ea10dcf51de9deae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":991800661,
-    "wof:lastmodified":1472770481,
+    "wof:lastmodified":1510943727,
     "wof:name":"Global Dominion Access S.a.",
     "wof:parent_id":85863957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991800663
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

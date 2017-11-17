@@ -7,13 +7,16 @@
     "addr:postcode":"28006",
     "addr:street":"Calle De Conde De Pen\u0303Alver",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6757104397,40.4252243042,-3.6757104397,40.4252243042",
     "geom:latitude":40.425224,
     "geom:longitude":-3.67571,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Conde De Pe\u00d1alver, 5",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472619212,
-    "wof:geomhash":"a276fbac7cf28632fe6fdfe51d11fe5d",
+    "wof:geomhash":"d3e4459c506a264f02d65c9a4f48b937",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":1008298181,
-    "wof:lastmodified":1472769102,
+    "wof:lastmodified":1510943566,
     "wof:name":"Pull & Bear Espa\u00f1a S.a.",
     "wof:parent_id":85863677,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008298217
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

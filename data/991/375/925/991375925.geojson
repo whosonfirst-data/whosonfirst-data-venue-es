@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1878778934,41.4147796631,2.1878778934,41.4147796631",
     "geom:latitude":41.41478,
     "geom:longitude":2.187878,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Carrer de Navas De Tolosa, 270",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472547083,
-    "wof:geomhash":"4190f0ed90214b8cb86fda56898bd6b7",
+    "wof:geomhash":"51cde51e78e03e46829ec7dfe67671f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":991375925,
-    "wof:lastmodified":1472769874,
+    "wof:lastmodified":1510942748,
     "wof:name":"Comaher Import-export S.l.",
     "wof:parent_id":85864003,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991375927
+    ],
     "wof:tags":[]
 },
   "bbox": [

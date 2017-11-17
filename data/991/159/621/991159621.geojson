@@ -7,13 +7,16 @@
     "addr:postcode":"07181",
     "addr:street":"/ N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.5657799244,39.5388221741,2.5657799244,39.5388221741",
     "geom:latitude":39.538822,
     "geom:longitude":2.56578,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Pto. Punta Portals, S/n",
     "sg:city":"Portals Nous",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472533149,
-    "wof:geomhash":"c155d1055c81e27ed1fc8a78a2b6d4e8",
+    "wof:geomhash":"9c05eeca710d594bd11186760eae5eea",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":991159621,
-    "wof:lastmodified":1472767789,
+    "wof:lastmodified":1510943175,
     "wof:name":"Blue Marin Baby Sl",
     "wof:parent_id":85864085,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991159625
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

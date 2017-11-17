@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28001",
     "addr:street":"Calle De Nun\u0303Ez De Balboa",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6829369068,40.4253730774,-3.6829369068,40.4253730774",
     "geom:latitude":40.425373,
     "geom:longitude":-3.682937,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Nu\u00d1ez De Balboa, 35",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472634933,
-    "wof:geomhash":"3dbcfff68fd689e52533778cf3628e8c",
+    "wof:geomhash":"d46c47bfaaa38055ddb1d5289dc6cc9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1008614991,
-    "wof:lastmodified":1472768544,
+    "wof:lastmodified":1510941640,
     "wof:name":"Tempur Pedic Espana S.a.",
     "wof:parent_id":85863675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008614993
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

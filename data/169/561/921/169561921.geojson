@@ -7,13 +7,16 @@
     "addr:postcode":"29600",
     "addr:street":"Avda Ricardo Soriano;Ma\u0301Laga",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.891402,36.510479,-4.891402,36.510479",
     "geom:latitude":36.510479,
     "geom:longitude":-4.891402,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avda Ricardo Soriano, 36",
     "sg:city":"Marbella",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_5Ol5WxXpL2rlUfJI8T8k2L_36.510479_-4.891402@1306269410"
     },
     "wof:country":"ES",
-    "wof:geomhash":"2d9a96836b4715e04c8bc9d6e608885b",
+    "wof:geomhash":"58051afa27033c4da76f6f43db60d148",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -46,12 +49,14 @@
         }
     ],
     "wof:id":169561921,
-    "wof:lastmodified":1472766763,
+    "wof:lastmodified":1510941670,
     "wof:name":"3b Andalucia S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        169561939
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

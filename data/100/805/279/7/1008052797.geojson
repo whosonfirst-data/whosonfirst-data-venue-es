@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7022669315,40.4384384155,-3.7022669315,40.4384384155",
     "geom:latitude":40.438438,
     "geom:longitude":-3.702267,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Jose Abascal, 2",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472597445,
-    "wof:geomhash":"e7ca387ad45abc6c7cdc2a6f6edf18dc",
+    "wof:geomhash":"1d259c7776dc881c0ca3d0892729616f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,13 +65,15 @@
         }
     ],
     "wof:id":1008052797,
-    "wof:lastmodified":1472767848,
+    "wof:lastmodified":1510941896,
     "wof:name":"Motor Gamboa S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008052793
+    ],
     "wof:tags":[]
 },
   "bbox": [

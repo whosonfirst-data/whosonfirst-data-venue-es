@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6950469017,40.4500007629,-3.6950469017,40.4500007629",
     "geom:latitude":40.450001,
     "geom:longitude":-3.695047,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Orense, 18",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472542016,
-    "wof:geomhash":"ff54462dc029261390811a67108495ba",
+    "wof:geomhash":"f8295019b3a551c0cc48dad89732f44b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":991285817,
-    "wof:lastmodified":1472769862,
+    "wof:lastmodified":1510944009,
     "wof:name":"Casas Y Locales S.a.",
     "wof:parent_id":85863621,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991285811
+    ],
     "wof:tags":[]
 },
   "bbox": [

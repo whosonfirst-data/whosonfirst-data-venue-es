@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.8774580956,43.2388687134,-2.8774580956,43.2388687134",
     "geom:latitude":43.238869,
     "geom:longitude":-2.877458,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avda Cervantes, 59",
     "sg:city":"Arizgoiti",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472602807,
-    "wof:geomhash":"5476aab34910849c78bf6120e1b88c36",
+    "wof:geomhash":"7f4693cc7f9a40d4001c18e71d69dca5",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -45,13 +47,15 @@
         }
     ],
     "wof:id":1008160955,
-    "wof:lastmodified":1472767001,
+    "wof:lastmodified":1510944171,
     "wof:name":"Panasonic Electric Works Espa\u00d1a S.a.",
     "wof:parent_id":85799203,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008160953
+    ],
     "wof:tags":[]
 },
   "bbox": [

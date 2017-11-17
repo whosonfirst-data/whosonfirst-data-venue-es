@@ -7,6 +7,7 @@
     "addr:postcode":"35008",
     "addr:street":"Santa Catalina;/ N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-15.427922,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Muel Santa Catalina, S/n",
     "sg:city":"Palmas De Gran Canaria",
     "sg:classifiers":[],
@@ -37,13 +38,17 @@
     "wof:geomhash":"4b768011873e1dad7275df9ed7886ee7",
     "wof:hierarchy":[],
     "wof:id":991439041,
-    "wof:lastmodified":1510874747,
+    "wof:lastmodified":1510942537,
     "wof:name":"Cortefiel S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        991439067
+    ],
+    "wof:supersedes":[
+        991439035
+    ],
     "wof:tags":[]
 },
   "bbox": [

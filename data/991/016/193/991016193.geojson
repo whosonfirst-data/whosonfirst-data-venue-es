@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6142530441,40.5484771729,-3.6142530441,40.5484771729",
     "geom:latitude":40.548477,
     "geom:longitude":-3.614253,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avda Fuente Nueva (de La), 8",
     "sg:city":"San Sebastian De Los Reyes",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472520430,
-    "wof:geomhash":"efd4257ffad6f18a65cdc24ef9a31fa4",
+    "wof:geomhash":"4ff5bbf4073efd1186fb3564206543b9",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,13 +46,15 @@
         }
     ],
     "wof:id":991016193,
-    "wof:lastmodified":1472768141,
+    "wof:lastmodified":1510943937,
     "wof:name":"Artes Graficas Geminis C.b.",
     "wof:parent_id":85863585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991016191
+    ],
     "wof:tags":[]
 },
   "bbox": [

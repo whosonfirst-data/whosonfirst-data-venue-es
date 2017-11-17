@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28001",
     "addr:street":"Calle De Velazquez",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6838531494,40.4283332825,-3.6838531494,40.4283332825",
     "geom:latitude":40.428333,
     "geom:longitude":-3.683853,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Velazquez, 64",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472522108,
-    "wof:geomhash":"de164f72c35163e38418e8fa92935ba9",
+    "wof:geomhash":"8148aa88c66eb14ab4f78f97db51a2d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991038889,
-    "wof:lastmodified":1472766953,
+    "wof:lastmodified":1510941409,
     "wof:name":"Asociacion Nacional De Entidades De Fina",
     "wof:parent_id":85863675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991038891
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

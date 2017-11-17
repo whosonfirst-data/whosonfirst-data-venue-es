@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6916723251,40.4626655579,-3.6916723251,40.4626655579",
     "geom:latitude":40.462666,
     "geom:longitude":-3.691672,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Capitan Haya, 56",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472598171,
-    "wof:geomhash":"d6dce81de6dcda2c0593c66e59a01d5e",
+    "wof:geomhash":"a7668abb8edb4504cc2f8f82d1e9b617",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1008069999,
-    "wof:lastmodified":1472769555,
+    "wof:lastmodified":1510942957,
     "wof:name":"Mutua Reddis Matt Mutua De Accidentes De Trabajo Y Enfermedades Profesionales De La Seguridad Social",
     "wof:parent_id":85863603,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008070001
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7959418297,43.4646377563,-3.7959418297,43.4646377563",
     "geom:latitude":43.464638,
     "geom:longitude":-3.795942,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Andres Del Rio, 7",
     "sg:city":"Santander",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472632525,
-    "wof:geomhash":"f6c962d9a6dfe57ec3f069186d5c8d1d",
+    "wof:geomhash":"5d2dabd5635585166d80ed3de0f48882",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -45,13 +47,15 @@
         }
     ],
     "wof:id":1008559147,
-    "wof:lastmodified":1472769334,
+    "wof:lastmodified":1510941331,
     "wof:name":"Spril Norte S.l.",
     "wof:parent_id":85799303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008559145
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6208629608,40.4191017151,-3.6208629608,40.4191017151",
     "geom:latitude":40.419102,
     "geom:longitude":-3.620863,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avda Guadalajara, 2",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472531332,
-    "wof:geomhash":"af984e743388c3fc7ccdedf9cd0c97fc",
+    "wof:geomhash":"251b0509cd2085259cbed3bf27e1bd11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":991144889,
-    "wof:lastmodified":1472767815,
+    "wof:lastmodified":1510941957,
     "wof:name":"Bershka Bsr Espa\u00f1a S.a.",
     "wof:parent_id":85863705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991144887
+    ],
     "wof:tags":[]
 },
   "bbox": [

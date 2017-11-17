@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6578779221,40.4298744202,-3.6578779221,40.4298744202",
     "geom:latitude":40.429874,
     "geom:longitude":-3.657878,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Calle de Ricardo Ortiz, 1",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -34,11 +36,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":320657575,
         "sg:id":"SG_6LxHwqpJ9UbYVRFDpiTZ7K_40.429874_-3.657878@1306269618"
     },
     "wof:country":"ES",
     "wof:created":1472604247,
-    "wof:geomhash":"55e2645056fc69351c65b0c4c2c3d10b",
+    "wof:geomhash":"80c3e8ecfea07a2b283990bbfea2b63a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1008172603,
-    "wof:lastmodified":1472767753,
+    "wof:lastmodified":1510941545,
     "wof:name":"Parroquia Del Espiritu Santo",
     "wof:parent_id":85863683,
     "wof:placetype":"venue",

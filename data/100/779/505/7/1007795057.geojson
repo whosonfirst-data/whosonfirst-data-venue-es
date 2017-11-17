@@ -7,13 +7,16 @@
     "addr:postcode":"18210",
     "addr:street":"Avda Andalucia S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6276469231,37.2251625061,-3.6276469231,37.2251625061",
     "geom:latitude":37.225163,
     "geom:longitude":-3.627647,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avda Andalucia, S/n",
     "sg:city":"Peligros",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472586038,
-    "wof:geomhash":"a1ef6894a513c98b9ea3e44f3a92126d",
+    "wof:geomhash":"7e7b929545ef0cd0c9749b5745c25bbd",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":1007795057,
-    "wof:lastmodified":1472768488,
+    "wof:lastmodified":1510943175,
     "wof:name":"La Veneciana Betica S.a.",
     "wof:parent_id":85863831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1007795059
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

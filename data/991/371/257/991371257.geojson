@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.8748040199,41.6537818909,-0.8748040199,41.6537818909",
     "geom:latitude":41.653782,
     "geom:longitude":-0.874804,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Calle de San Vicente De Paul, 31",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -34,11 +36,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:relation":6973834,
         "sg:id":"SG_6bvDhqgnsDQ0Vh4gR0ZLaE_41.653782_-0.874804@1306269477"
     },
     "wof:country":"ES",
     "wof:created":1472546755,
-    "wof:geomhash":"1a0b945d7c8e0b7aa38f4eaae2843407",
+    "wof:geomhash":"b369a97cfdef79a86611ccca040ac77d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":991371257,
-    "wof:lastmodified":1472769630,
+    "wof:lastmodified":1510943543,
     "wof:name":"Colegio San Vicente De Paul",
     "wof:parent_id":85863325,
     "wof:placetype":"venue",

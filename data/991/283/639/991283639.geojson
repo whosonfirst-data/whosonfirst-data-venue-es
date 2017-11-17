@@ -7,13 +7,16 @@
     "addr:postcode":"39002",
     "addr:street":"Calle De Calvo Sotelo",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.8086149693,43.4614028931,-3.8086149693,43.4614028931",
     "geom:latitude":43.461403,
     "geom:longitude":-3.808615,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Calvo Sotelo, 5",
     "sg:city":"Santander",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472541900,
-    "wof:geomhash":"e24d54766ff8ead72adb1e63199b5504",
+    "wof:geomhash":"c52c23eb7130232fef77091b05758673",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":991283639,
-    "wof:lastmodified":1472769800,
+    "wof:lastmodified":1510941497,
     "wof:name":"Casanueva Bedia S. A.",
     "wof:parent_id":85799303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991283645
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

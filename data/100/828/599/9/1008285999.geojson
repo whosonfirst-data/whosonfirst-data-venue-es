@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28001",
     "addr:street":"Calle De Velazquez",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6839950085,40.4288749695,-3.6839950085,40.4288749695",
     "geom:latitude":40.428875,
     "geom:longitude":-3.683995,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Velazquez, 59",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472618049,
-    "wof:geomhash":"bec8eb08fd4ce4a2beb17dc5de14b84e",
+    "wof:geomhash":"e88b6d1ea9d040a6df0e4cf5c65b4a79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1008285999,
-    "wof:lastmodified":1472768743,
+    "wof:lastmodified":1510942127,
     "wof:name":"Promotoras Inmobiliarias Agrupadas S. A.",
     "wof:parent_id":85863675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008286001
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

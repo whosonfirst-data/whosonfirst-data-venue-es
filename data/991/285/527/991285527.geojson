@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.8656790257,41.6588401794,-0.8656790257,41.6588401794",
     "geom:latitude":41.65884,
     "geom:longitude":-0.865679,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Calle de Fuendejalon, 5",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -34,11 +36,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":1792299668,
         "sg:id":"SG_0VhRiyMrPwBqkWLUlulTJx_41.658840_-0.865679@1306269465"
     },
     "wof:country":"ES",
     "wof:created":1472542003,
-    "wof:geomhash":"8a571f2ea4ffcd89689c21a2c908199e",
+    "wof:geomhash":"206e294648881ad295f5d5b1449c0ca9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":991285527,
-    "wof:lastmodified":1472769758,
+    "wof:lastmodified":1510943925,
     "wof:name":"Casas Reig Enrique",
     "wof:parent_id":85863325,
     "wof:placetype":"venue",

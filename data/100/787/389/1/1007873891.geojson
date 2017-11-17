@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28016",
     "addr:street":"Alberto Alcocer",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6775848866,40.4584197998,-3.6775848866,40.4584197998",
     "geom:latitude":40.45842,
     "geom:longitude":-3.677585,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avda Alberto Alcocer, 46",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472589847,
-    "wof:geomhash":"df039d2ef010a044cd4a2ccd2d9947df",
+    "wof:geomhash":"c2a05446296c164d319464278645276a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1007873891,
-    "wof:lastmodified":1472768215,
+    "wof:lastmodified":1510943838,
     "wof:name":"Malasyan Airline System Berhard Sucursal En Espa\u00f1a",
     "wof:parent_id":85799237,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1007873893
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

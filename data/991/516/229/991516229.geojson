@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28013",
     "addr:street":"Calle De Montera",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7023749352,40.4187316895,-3.7023749352,40.4187316895",
     "geom:latitude":40.418732,
     "geom:longitude":-3.702375,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Montera, 33",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -40,7 +43,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472555230,
-    "wof:geomhash":"01c7262e4949459605f1f8e01a4f1c3e",
+    "wof:geomhash":"def3a75e36ea62219f3a3191f490059c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,12 +67,14 @@
         }
     ],
     "wof:id":991516229,
-    "wof:lastmodified":1472769932,
+    "wof:lastmodified":1510943458,
     "wof:name":"Disven 2003 Sl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991516235
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

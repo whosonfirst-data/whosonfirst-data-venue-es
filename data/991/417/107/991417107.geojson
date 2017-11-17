@@ -7,13 +7,16 @@
     "addr:postcode":"24412",
     "addr:street":"Industrial S / N Caban\u0303As Raras Leo\u0301N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-6.6369829178,42.6198806763,-6.6369829178,42.6198806763",
     "geom:latitude":42.619881,
     "geom:longitude":-6.636983,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Poligono Industrial, S/n",
     "sg:city":"Caba\u00f1as Raras",
     "sg:classifiers":[],
@@ -30,16 +33,20 @@
     },
     "wof:country":"ES",
     "wof:created":1472549789,
-    "wof:geomhash":"5efb104c367464a046ed3e4544a57d30",
+    "wof:geomhash":"18dc7f5f95c9dd7dfb1116db7175a561",
     "wof:hierarchy":[],
     "wof:id":991417107,
-    "wof:lastmodified":1472769602,
+    "wof:lastmodified":1510941930,
     "wof:name":"Construcciones Y Montajes Del Noroeste S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        991417109
+    ],
+    "wof:supersedes":[
+        991417105
+    ],
     "wof:tags":[]
 },
   "bbox": [

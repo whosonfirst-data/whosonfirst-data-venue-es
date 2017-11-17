@@ -7,13 +7,16 @@
     "addr:postcode":"28022",
     "addr:street":"Avda Aragon",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.5592060089,40.4490013123,-3.5592060089,40.4490013123",
     "geom:latitude":40.449001,
     "geom:longitude":-3.559206,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avda Aragon, 398",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472578988,
-    "wof:geomhash":"5020c849e0c8f8adf8298f92209c74bf",
+    "wof:geomhash":"63ced54359adadfdafee4693dddc75a3",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":991931073,
-    "wof:lastmodified":1472770635,
+    "wof:lastmodified":1510943310,
     "wof:name":"Iberangus Internacional S.l.",
     "wof:parent_id":85863629,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991931075
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

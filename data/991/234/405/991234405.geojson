@@ -7,13 +7,16 @@
     "addr:postcode":"29005",
     "addr:street":"Calle De Nueva;Ma\u0301Laga",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.4229340553,36.7199249268,-4.4229340553,36.7199249268",
     "geom:latitude":36.719925,
     "geom:longitude":-4.422934,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Nueva, 28",
     "sg:city":"Malaga",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472539249,
-    "wof:geomhash":"5c4d53af5df5344dc7436843c32cc453",
+    "wof:geomhash":"5d5c64ffedc76493d6d1bd1b1d91789b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991234405,
-    "wof:lastmodified":1472768169,
+    "wof:lastmodified":1510941569,
     "wof:name":"Calzados Syma S. A.",
     "wof:parent_id":85863491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991234407
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

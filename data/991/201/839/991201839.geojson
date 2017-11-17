@@ -7,6 +7,7 @@
     "addr:postcode":"17230",
     "addr:street":"Av Catalunya;/ N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":3.121036,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Av Catalunya, S/n",
     "sg:city":"Sant Joan De Palamos",
     "sg:classifiers":[],
@@ -36,12 +37,14 @@
     "wof:geomhash":"1617bd786ae993894117c5376dffb4ad",
     "wof:hierarchy":[],
     "wof:id":991201839,
-    "wof:lastmodified":1510874648,
+    "wof:lastmodified":1510942165,
     "wof:name":"Caixa D'estalvis De Catalunya",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991201841
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

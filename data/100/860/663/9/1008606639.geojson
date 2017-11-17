@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6915669441,40.4638748169,-3.6915669441,40.4638748169",
     "geom:latitude":40.463875,
     "geom:longitude":-3.691567,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Capitan Haya, 55",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472634538,
-    "wof:geomhash":"01208d00d0485636ee8baee5021fb10c",
+    "wof:geomhash":"ae776a43eb2489bad269a4cc1dafdff5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,16 @@
         }
     ],
     "wof:id":1008606639,
-    "wof:lastmodified":1472769022,
+    "wof:lastmodified":1510943583,
     "wof:name":"Tecnologia Y Consulting S.a.",
     "wof:parent_id":85863603,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008606637,
+        1008606635
+    ],
     "wof:tags":[]
 },
   "bbox": [

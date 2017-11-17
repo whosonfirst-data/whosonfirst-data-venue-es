@@ -7,13 +7,16 @@
     "addr:postcode":"08005",
     "addr:street":"Carrer De Llull",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.198059082,41.3977584839,2.198059082,41.3977584839",
     "geom:latitude":41.397758,
     "geom:longitude":2.198059,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Carrer de Llull, 130",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472579129,
-    "wof:geomhash":"d4431a4e48571f228053603bbc2435c3",
+    "wof:geomhash":"a0c3a229f70bc311949524598af24361",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991933847,
-    "wof:lastmodified":1472770658,
+    "wof:lastmodified":1510943710,
     "wof:name":"Icaria Iniciatives Socials S. A. L.",
     "wof:parent_id":85799265,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991933845
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

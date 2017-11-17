@@ -7,6 +7,7 @@
     "addr:postcode":"26006",
     "addr:street":"Rioja",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-2.403699,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Poli Cantabria, S/n",
     "sg:city":"Logro\u00f1o",
     "sg:classifiers":[],
@@ -36,12 +37,14 @@
     "wof:geomhash":"196d7d4f8945680a1f564208d9c0b147",
     "wof:hierarchy":[],
     "wof:id":1008163601,
-    "wof:lastmodified":1510874221,
+    "wof:lastmodified":1510941918,
     "wof:name":"Panrico S.l.u.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008163603
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

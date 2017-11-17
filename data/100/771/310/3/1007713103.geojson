@@ -7,13 +7,16 @@
     "addr:postcode":"08003",
     "addr:street":"Via Laietana",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1795530319,41.3831596375,2.1795530319,41.3831596375",
     "geom:latitude":41.38316,
     "geom:longitude":2.179553,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Laietana, 15",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472581615,
-    "wof:geomhash":"30fb04c060ac0d0d8049602c35d7c730",
+    "wof:geomhash":"00e072a1767538760301231a6c9ab33f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":1007713103,
-    "wof:lastmodified":1472767941,
+    "wof:lastmodified":1510943046,
     "wof:name":"Italmar 3000 S.l.",
     "wof:parent_id":85799173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1007713105
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

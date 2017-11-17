@@ -7,6 +7,7 @@
     "addr:postcode":"38320",
     "addr:street":"Cuesta-Taco S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-16.288013,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Cuesta-taco, S/n",
     "sg:city":"La Cuesta",
     "sg:classifiers":[],
@@ -36,12 +37,14 @@
     "wof:geomhash":"a821fef4ba3fa24a5f5c123fb3b3a4cb",
     "wof:hierarchy":[],
     "wof:id":991802491,
-    "wof:lastmodified":1510876425,
+    "wof:lastmodified":1510943516,
     "wof:name":"Gobierno De Canarias",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991802495
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

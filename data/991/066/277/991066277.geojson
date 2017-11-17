@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1824519634,41.3946228027,2.1824519634,41.3946228027",
     "geom:latitude":41.394623,
     "geom:longitude":2.182452,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Carrer de Ali Bei, 80",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472524182,
-    "wof:geomhash":"96bf712e84cf63b3ce18cc78d2c271cd",
+    "wof:geomhash":"3c0b13374406e3cb7d4f663aa4885374",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,13 +46,15 @@
         }
     ],
     "wof:id":991066277,
-    "wof:lastmodified":1472766817,
+    "wof:lastmodified":1510941281,
     "wof:name":"Auto Transportes Saiz Tour S.a.",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991066269
+    ],
     "wof:tags":[]
 },
   "bbox": [

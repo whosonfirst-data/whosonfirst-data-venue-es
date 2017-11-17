@@ -7,13 +7,16 @@
     "addr:postcode":"33211",
     "addr:street":"Poligono Industrial De Roces;/ N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.6863942146,43.5233383179,-5.6863942146,43.5233383179",
     "geom:latitude":43.523338,
     "geom:longitude":-5.686394,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Luga Poligono Industrial De Roces, S/n",
     "sg:city":"Gijon",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472586345,
-    "wof:geomhash":"171f8d7f648cfa7a2b91574f2fd726d8",
+    "wof:geomhash":"4fc5af26f56be3ad48b9b82b552d8a56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":1007800269,
-    "wof:lastmodified":1472766766,
+    "wof:lastmodified":1510943687,
     "wof:name":"Lejia Las Palomas S.a.",
     "wof:parent_id":85799415,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1007800271
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

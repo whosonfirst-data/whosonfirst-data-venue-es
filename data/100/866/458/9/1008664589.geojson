@@ -7,13 +7,16 @@
     "addr:postcode":"50004",
     "addr:street":"Avda Independencia",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.8832430243,41.649974823,-0.8832430243,41.649974823",
     "geom:latitude":41.649975,
     "geom:longitude":-0.883243,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avda Independencia, 24",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472636994,
-    "wof:geomhash":"3f5916eb3cc8d611ee91b6857151a951",
+    "wof:geomhash":"1c787810e7b877e1216d649463851138",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1008664589,
-    "wof:lastmodified":1472768513,
+    "wof:lastmodified":1510943724,
     "wof:name":"Ucl Arquitectos S.c.",
     "wof:parent_id":85863361,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008664591
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

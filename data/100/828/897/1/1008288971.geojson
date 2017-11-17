@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6051189899,37.1205368042,-3.6051189899,37.1205368042",
     "geom:latitude":37.120537,
     "geom:longitude":-3.605119,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Pol Tecnol Armilla Ogijares, S/n",
     "sg:city":"Ogijares",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472618214,
-    "wof:geomhash":"f897364b5b498cfb0246497abadb7457",
+    "wof:geomhash":"345d1feccf0faec4404a7368ae51ffc3",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -45,13 +47,15 @@
         }
     ],
     "wof:id":1008288971,
-    "wof:lastmodified":1472769423,
+    "wof:lastmodified":1510941816,
     "wof:name":"Proyectos E Instalaciones S.l.",
     "wof:parent_id":85863839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008288969
+    ],
     "wof:tags":[]
 },
   "bbox": [

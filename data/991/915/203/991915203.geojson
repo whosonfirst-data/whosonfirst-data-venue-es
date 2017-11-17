@@ -7,13 +7,16 @@
     "addr:postcode":"03015",
     "addr:street":"Avda Antonio Ramos Carratala",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.4619489908,38.369178772,-0.4619489908,38.369178772",
     "geom:latitude":38.369179,
     "geom:longitude":-0.461949,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avda Antonio Ramos Carratala, S/n",
     "sg:city":"Alacant",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472578235,
-    "wof:geomhash":"2bb3d9c6d9a9c12bbee134d02e8e1f95",
+    "wof:geomhash":"56eeaf2e6a0792e57dd5ea67fe16b389",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":991915203,
-    "wof:lastmodified":1472770581,
+    "wof:lastmodified":1510942945,
     "wof:name":"Hispania Retail Properties S.l.",
     "wof:parent_id":85864073,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991915205
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

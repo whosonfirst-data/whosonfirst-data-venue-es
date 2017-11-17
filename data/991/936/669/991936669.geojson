@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6860589981,40.4419059753,-3.6860589981,40.4419059753",
     "geom:latitude":40.441906,
     "geom:longitude":-3.686059,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Calle de Serrano, 125",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -34,11 +36,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":280538326,
         "sg:id":"SG_3l4WkdRoeg9nCjRGeSLbCc_40.441906_-3.686059@1306269552"
     },
     "wof:country":"ES",
     "wof:created":1472579292,
-    "wof:geomhash":"7cb7793efd7e32184b2b2cddc20f58de",
+    "wof:geomhash":"f591947fbd1530003007dc49c3b15b4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":991936669,
-    "wof:lastmodified":1472770682,
+    "wof:lastmodified":1510943810,
     "wof:name":"Iglesia Espiritu Santo",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-6.0018000603,37.3777313232,-6.0018000603,37.3777313232",
     "geom:latitude":37.377731,
     "geom:longitude":-6.0018,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avda Republica Argentina, 25",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472637935,
-    "wof:geomhash":"cf33c411b9bb0fb145b16ce4e0b43007",
+    "wof:geomhash":"71ba8d57e36d2fb135844f1a66fb4176",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":1008687133,
-    "wof:lastmodified":1472769041,
+    "wof:lastmodified":1510941971,
     "wof:name":"Vallehermoso Division Promocion S.a.",
     "wof:parent_id":85864129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008687131
+    ],
     "wof:tags":[]
 },
   "bbox": [

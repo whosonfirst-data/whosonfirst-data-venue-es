@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28019",
     "addr:street":"Calle De Belmonte De Tajo",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7201960087,40.3897743225,-3.7201960087,40.3897743225",
     "geom:latitude":40.389774,
     "geom:longitude":-3.720196,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Belmonte De Tajo, 76",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472582915,
-    "wof:geomhash":"b090acdb32996ee2a94d8023e2b59787",
+    "wof:geomhash":"9cc757062514ba1464fffb58d2d6d0c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":1007736635,
-    "wof:lastmodified":1472768807,
+    "wof:lastmodified":1510944156,
     "wof:name":"J.l.precision S.a.",
     "wof:parent_id":85863759,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1007736637
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

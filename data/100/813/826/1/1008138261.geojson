@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.9260060787,43.2605514526,-2.9260060787,43.2605514526",
     "geom:latitude":43.260551,
     "geom:longitude":-2.926006,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Navarra, 1",
     "sg:city":"Bilbao",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472601307,
-    "wof:geomhash":"130475b8defc267871fa2aac6ae317e1",
+    "wof:geomhash":"eca849cd5a15a753a65f59415355fb13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1008138261,
-    "wof:lastmodified":1472769070,
+    "wof:lastmodified":1510942173,
     "wof:name":"Ortiz De Arti\u00f1ano Y Compa\u00f1ia Representaciones De Bolsa S.r.c.",
     "wof:parent_id":85863961,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008138259
+    ],
     "wof:tags":[]
 },
   "bbox": [

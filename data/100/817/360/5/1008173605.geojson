@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7154169083,40.3728713989,-3.7154169083,40.3728713989",
     "geom:latitude":40.372871,
     "geom:longitude":-3.715417,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Calle de Guetaria, 1",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -34,11 +36,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":445475335,
         "sg:id":"SG_4uTMumITTvBBn4ydF1ZabH_40.372871_-3.715417@1306269618"
     },
     "wof:country":"ES",
     "wof:created":1472604408,
-    "wof:geomhash":"384126e9bd84c5658144246dfea35ccf",
+    "wof:geomhash":"780ad65b39a1afe63e6f01af1709bf01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1008173605,
-    "wof:lastmodified":1472768134,
+    "wof:lastmodified":1510942342,
     "wof:name":"Parroquia De San Bartolome",
     "wof:parent_id":85863757,
     "wof:placetype":"venue",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.706471,40.333408,-3.706471,40.333408",
     "geom:latitude":40.333408,
     "geom:longitude":-3.706471,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de San Erasmo, 42",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
         "sg:id":"SG_26QHMfdRDrS4JCm3jl4Faw_40.333408_-3.706471@1306269411"
     },
     "wof:country":"ES",
-    "wof:geomhash":"9ab271196219668fd47f5f664dc70c13",
+    "wof:geomhash":"003e74b97eef5bec5b90e6f78432b751",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -46,13 +48,15 @@
         }
     ],
     "wof:id":169579765,
-    "wof:lastmodified":1472766697,
+    "wof:lastmodified":1510941794,
     "wof:name":"Abc Felix Calleja S.l.",
     "wof:parent_id":85799667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        169579757
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6742250919,40.391204834,-3.6742250919,40.391204834",
     "geom:latitude":40.391205,
     "geom:longitude":-3.674225,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Mendez Alvaro, 84",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472590200,
-    "wof:geomhash":"40dd47951fa5163720b5dd76f684ba58",
+    "wof:geomhash":"7ae0cf841aba04563e2df4e5e0231482",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1007883291,
-    "wof:lastmodified":1472767544,
+    "wof:lastmodified":1510943430,
     "wof:name":"Manuel Gonzalez Blazquez S.a.",
     "wof:parent_id":85863729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1007883289
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"50006",
     "addr:street":"Calle De Gran Via",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.8873903751,41.6462097168,-0.8873903751,41.6462097168",
     "geom:latitude":41.64621,
     "geom:longitude":-0.88739,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Gran Via, 11",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472583452,
-    "wof:geomhash":"da6d82c0694310c42913bcb8fb28cd39",
+    "wof:geomhash":"4a930bcfb857b0094cbebb5d89850bdf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1007745843,
-    "wof:lastmodified":1472768663,
+    "wof:lastmodified":1510941525,
     "wof:name":"Jose Maria Garcia E Ignacio Garcia Y Cia S.c.",
     "wof:parent_id":85863341,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1007745845
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

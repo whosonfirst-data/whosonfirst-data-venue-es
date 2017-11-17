@@ -7,13 +7,16 @@
     "addr:postcode":"28046",
     "addr:street":"Castellana",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6908209324,40.4568595886,-3.6908209324,40.4568595886",
     "geom:latitude":40.45686,
     "geom:longitude":-3.690821,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Pase Castellana, 115",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472636126,
-    "wof:geomhash":"fcfb100445c914bff2bba63d896d6f64",
+    "wof:geomhash":"a0185bc59028413f1dea65d374c51c27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":1008643619,
-    "wof:lastmodified":1472768058,
+    "wof:lastmodified":1510941838,
     "wof:name":"Tpp Factory Telecomunications S.l.",
     "wof:parent_id":85863621,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008643621
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

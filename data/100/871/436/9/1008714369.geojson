@@ -7,13 +7,16 @@
     "addr:postcode":"48008",
     "addr:street":"Calle De Hurtado De Amezaga",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.9309868813,43.2588653564,-2.9309868813,43.2588653564",
     "geom:latitude":43.258865,
     "geom:longitude":-2.930987,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Hurtado De Amezaga, 1",
     "sg:city":"Bilbao",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472639203,
-    "wof:geomhash":"05748b2fd4c624a62388af08ba1d398d",
+    "wof:geomhash":"ecef83ced2dd0f16fef67314088b70d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":1008714369,
-    "wof:lastmodified":1472768491,
+    "wof:lastmodified":1510942679,
     "wof:name":"Viajes Halcon S.a.",
     "wof:parent_id":85863957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008714373
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

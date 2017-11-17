@@ -7,13 +7,16 @@
     "addr:postcode":"28013",
     "addr:street":"Calle De Hileras",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7081520557,40.4169235229,-3.7081520557,40.4169235229",
     "geom:latitude":40.416924,
     "geom:longitude":-3.708152,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Hileras, 4",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472601983,
-    "wof:geomhash":"c3b5a0c64418e42cfbe7516f8d612b8b",
+    "wof:geomhash":"d4b21f62e39a1b39968fb0c6d7b424da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":1008153377,
-    "wof:lastmodified":1472768073,
+    "wof:lastmodified":1510942119,
     "wof:name":"Palatinotours S.l.",
     "wof:parent_id":85863747,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008153379
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

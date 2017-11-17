@@ -7,13 +7,16 @@
     "addr:postcode":"41016",
     "addr:street":"Pino S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.9171977043,37.3816986084,-5.9171977043,37.3816986084",
     "geom:latitude":37.381699,
     "geom:longitude":-5.917198,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Pol Ind El Pino, S/n",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472507511,
-    "wof:geomhash":"d347cc658cad59526b6c96bda0c8dc34",
+    "wof:geomhash":"1c2a6d583a489b26ac9007bbcd41ad26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,15 @@
         }
     ],
     "wof:id":975156137,
-    "wof:lastmodified":1472766777,
+    "wof:lastmodified":1510942459,
     "wof:name":"Acieroid S.a.",
     "wof:parent_id":85799535,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        975156139,
+        975156141
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

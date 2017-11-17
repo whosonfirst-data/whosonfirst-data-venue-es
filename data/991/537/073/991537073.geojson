@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.9776940346,37.3797416687,-5.9776940346,37.3797416687",
     "geom:latitude":37.379742,
     "geom:longitude":-5.977694,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Balbino Marron, S/n",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472556355,
-    "wof:geomhash":"70d5c4e6b90d996caaed7c3542f78976",
+    "wof:geomhash":"47f39970870f0d0e4eda8d90ea17f7a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":991537073,
-    "wof:lastmodified":1472769896,
+    "wof:lastmodified":1510943565,
     "wof:name":"Ecoem S.a.",
     "wof:parent_id":85864171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991537071
+    ],
     "wof:tags":[]
 },
   "bbox": [

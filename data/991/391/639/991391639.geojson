@@ -7,13 +7,16 @@
     "addr:postcode":"48001",
     "addr:street":"Calle De Iban\u0303Ez De Bilbao",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.9256339073,43.262714386,-2.9256339073,43.262714386",
     "geom:latitude":43.262714,
     "geom:longitude":-2.925634,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Iba\u00d1ez De Bilbao, 3",
     "sg:city":"Bilbao",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472548207,
-    "wof:geomhash":"3d869dcc9e9206e0ee02e97bcb73ed36",
+    "wof:geomhash":"813ad9599178921f6fc4cd8888217cda",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991391639,
-    "wof:lastmodified":1472769746,
+    "wof:lastmodified":1510941440,
     "wof:name":"Comunicacion Marketing Deimos S. L.",
     "wof:parent_id":85863961,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991391641
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

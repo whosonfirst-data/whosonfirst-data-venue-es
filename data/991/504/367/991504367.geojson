@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6955831051,40.4233207703,-3.6955831051,40.4233207703",
     "geom:latitude":40.423321,
     "geom:longitude":-3.695583,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Barquillo, 33",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472554634,
-    "wof:geomhash":"ed08274a7c197f47ad61795816c5f831",
+    "wof:geomhash":"410421f13a160769a601d8e9477eac7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":991504367,
-    "wof:lastmodified":1472769949,
+    "wof:lastmodified":1510942536,
     "wof:name":"Digital Audimagem Bq S.l.",
     "wof:parent_id":85863791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991504365
+    ],
     "wof:tags":[]
 },
   "bbox": [

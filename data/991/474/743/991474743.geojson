@@ -7,13 +7,16 @@
     "addr:postcode":"48450",
     "addr:street":"Ctra Bilbao-Galdakao",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.8930881023,43.2473907471,-2.8930881023,43.2473907471",
     "geom:latitude":43.247391,
     "geom:longitude":-2.893088,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ctra Bilbao-galdakao, 6",
     "sg:city":"Doneztebe",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472553053,
-    "wof:geomhash":"b81d6006fd50b16903e187a9f1e1d0ad",
+    "wof:geomhash":"5314716db06e3ab487f324245c505909",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":991474743,
-    "wof:lastmodified":1472770073,
+    "wof:lastmodified":1510942539,
     "wof:name":"Decoraciones Y Construcciones Alur S.l.",
     "wof:parent_id":85799203,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991474745
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

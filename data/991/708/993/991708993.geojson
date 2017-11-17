@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28003",
     "addr:street":"Calle De Rios Rosas",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6954650879,40.4415893555,-3.6954650879,40.4415893555",
     "geom:latitude":40.441589,
     "geom:longitude":-3.695465,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Rios Rosas, 54",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472565903,
-    "wof:geomhash":"7e6b7e2066e70f20d4940235507488c2",
+    "wof:geomhash":"99db6e38ba230a30550bdae5b4015fe6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991708993,
-    "wof:lastmodified":1472770460,
+    "wof:lastmodified":1510941746,
     "wof:name":"Fundacion Para El Fomento De La Innovaci",
     "wof:parent_id":85863649,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991708995
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

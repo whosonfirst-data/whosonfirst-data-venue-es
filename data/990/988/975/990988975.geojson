@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.927587986,43.2670516968,-2.927587986,43.2670516968",
     "geom:latitude":43.267052,
     "geom:longitude":-2.927588,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Pase Campo Volantin, 24",
     "sg:city":"Bilbao",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472518315,
-    "wof:geomhash":"602cb3263aed68945794145bb980b424",
+    "wof:geomhash":"6343a515ab276f5fc07e14bf924fd3da",
     "wof:hierarchy":[
         {
             "campus_id":102545753,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":990988975,
-    "wof:lastmodified":1472768208,
+    "wof:lastmodified":1510942763,
     "wof:name":"Aqualia Gestion Integral Del Agua S.a.",
     "wof:parent_id":102545753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        990988943
+    ],
     "wof:tags":[]
 },
   "bbox": [

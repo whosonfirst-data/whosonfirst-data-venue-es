@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.5776789188,40.4744758606,-3.5776789188,40.4744758606",
     "geom:latitude":40.474476,
     "geom:longitude":-3.577679,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Calle de Orion, 2",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -31,11 +33,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":27841210,
         "sg:id":"SG_63Il8B3jqhFS5c3kAlmeWQ_40.474476_-3.577679@1306269619"
     },
     "wof:country":"ES",
     "wof:created":1472605190,
-    "wof:geomhash":"37db57d8d693706a75e4fb4d8736e46e",
+    "wof:geomhash":"ff68c24c63f33b54710b6df82f4f0842",
     "wof:hierarchy":[
         {
             "campus_id":102545773,
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":1008179759,
-    "wof:lastmodified":1472769429,
+    "wof:lastmodified":1510941545,
     "wof:name":"Parroquia San Pedro Apostol",
     "wof:parent_id":102545773,
     "wof:placetype":"venue",

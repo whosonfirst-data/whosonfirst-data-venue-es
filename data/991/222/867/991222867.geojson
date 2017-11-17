@@ -7,13 +7,16 @@
     "addr:postcode":"",
     "addr:street":"Calle De Murillo;Sevilla",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.9975190163,37.3908996582,-5.9975190163,37.3908996582",
     "geom:latitude":37.3909,
     "geom:longitude":-5.997519,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Murillo, 2",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472538644,
-    "wof:geomhash":"366e618f0d8fdac81ddcb60a0a2abb77",
+    "wof:geomhash":"048fac00b7c277208b808dd374b673bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991222867,
-    "wof:lastmodified":1472768227,
+    "wof:lastmodified":1510943779,
     "wof:name":"Caja Rural Del Sur Sociedad Cooperativa",
     "wof:parent_id":85864155,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991223039
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

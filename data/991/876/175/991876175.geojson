@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.684030056,40.4284286499,-3.684030056,40.4284286499",
     "geom:latitude":40.428429,
     "geom:longitude":-3.68403,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Velazquez, 55",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472576238,
-    "wof:geomhash":"1d92e2978cc10cd40ca7113ce859e4a4",
+    "wof:geomhash":"3d90303bd5e60c16c073149505cc4b89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":991876175,
-    "wof:lastmodified":1472770540,
+    "wof:lastmodified":1510941866,
     "wof:name":"Habitus Textil S.l.",
     "wof:parent_id":85863675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991876173
+    ],
     "wof:tags":[]
 },
   "bbox": [

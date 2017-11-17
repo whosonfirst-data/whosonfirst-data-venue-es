@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1712982655,41.4021377563,2.1712982655,41.4021377563",
     "geom:latitude":41.402138,
     "geom:longitude":2.171298,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Carrer de Proven\u00c7a, 385",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472509769,
-    "wof:geomhash":"065189ea370a3f1e366c1734f1295045",
+    "wof:geomhash":"14bf526e03eebecf4d88ab844cccb271",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":990912077,
-    "wof:lastmodified":1472767156,
+    "wof:lastmodified":1510943831,
     "wof:name":"A.j. Ingenieria S.l.",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        990912075
+    ],
     "wof:tags":[]
 },
   "bbox": [

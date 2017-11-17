@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28001",
     "addr:street":"Calle De Jorge Juan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6835858822,40.4236221313,-3.6835858822,40.4236221313",
     "geom:latitude":40.423622,
     "geom:longitude":-3.683586,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Jorge Juan, 30",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472556408,
-    "wof:geomhash":"5162b0a6db9741020dda4b245db1182f",
+    "wof:geomhash":"8260b2787bd4355cdcf257b7b1a91e80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":991538121,
-    "wof:lastmodified":1472769920,
+    "wof:lastmodified":1510941244,
     "wof:name":"Edaf Ediciones Y Distribuciones S. A.",
     "wof:parent_id":85863809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991538123
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

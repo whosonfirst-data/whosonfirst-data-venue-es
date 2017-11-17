@@ -7,6 +7,7 @@
     "addr:postcode":"35500",
     "addr:street":"Ctra Marmoles De Los S / N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-13.543644,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Ctra Marmoles (de Los), S/n",
     "sg:city":"Arrecife",
     "sg:classifiers":[],
@@ -36,13 +37,17 @@
     "wof:geomhash":"15363f5bba9d8ead8c98d86c5b429cbf",
     "wof:hierarchy":[],
     "wof:id":991802383,
-    "wof:lastmodified":1510876425,
+    "wof:lastmodified":1510943072,
     "wof:name":"Gobierno De Canarias",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        991802381
+    ],
+    "wof:supersedes":[
+        991802379
+    ],
     "wof:tags":[]
 },
   "bbox": [

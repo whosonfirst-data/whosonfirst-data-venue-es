@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7018558979,40.3360176086,-3.7018558979,40.3360176086",
     "geom:latitude":40.336018,
     "geom:longitude":-3.701856,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Resina, 22",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472507988,
-    "wof:geomhash":"8e4329bd5a2bac4c4bc62ceeb31af89d",
+    "wof:geomhash":"8614e696bf84999822164520c0fdf117",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":975162547,
-    "wof:lastmodified":1472767194,
+    "wof:lastmodified":1510941554,
     "wof:name":"Adr-98 S.l.",
     "wof:parent_id":85799667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        975162545
+    ],
     "wof:tags":[]
 },
   "bbox": [

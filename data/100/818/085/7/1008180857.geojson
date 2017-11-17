@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6423590183,40.4623565674,-3.6423590183,40.4623565674",
     "geom:latitude":40.462357,
     "geom:longitude":-3.642359,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Calle de Calanda, 28",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -34,11 +36,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":259883019,
         "sg:id":"SG_1kwSYXwjQpdCA0atsM0WXm_40.462357_-3.642359@1306269619"
     },
     "wof:country":"ES",
     "wof:created":1472605345,
-    "wof:geomhash":"a4dd0aa9d983f2ee74e531f605ee2741",
+    "wof:geomhash":"931aa07a684880d2019a459f966ce7a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1008180857,
-    "wof:lastmodified":1472767065,
+    "wof:lastmodified":1510941711,
     "wof:name":"Parroquia Virgen De La Nueva",
     "wof:parent_id":85799409,
     "wof:placetype":"venue",

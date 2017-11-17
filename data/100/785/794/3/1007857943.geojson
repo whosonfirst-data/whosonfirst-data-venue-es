@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28001",
     "addr:street":"Calle De Goya",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6875319481,40.4255104065,-3.6875319481,40.4255104065",
     "geom:latitude":40.42551,
     "geom:longitude":-3.687532,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Goya, 15",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472589094,
-    "wof:geomhash":"1f8af063f6bfab86f28cab34ab03f8f0",
+    "wof:geomhash":"3e1aeb22b45f9e5de3c5531137b99dbb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":1007857943,
-    "wof:lastmodified":1472769195,
+    "wof:lastmodified":1510943736,
     "wof:name":"Luis Batalla S.a.",
     "wof:parent_id":85863809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1007857945
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

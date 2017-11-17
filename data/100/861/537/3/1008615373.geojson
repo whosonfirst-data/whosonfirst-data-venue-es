@@ -7,13 +7,16 @@
     "addr:postcode":"28109",
     "addr:street":"Calle De Azalea De La 1",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6503260136,40.5188751221,-3.6503260136,40.5188751221",
     "geom:latitude":40.518875,
     "geom:longitude":-3.650326,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Azalea (de La), 1",
     "sg:city":"Alcobendas",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472634947,
-    "wof:geomhash":"2b53b10e489c0c7d6459f0075506002f",
+    "wof:geomhash":"ce743ba2a3cae1a31837b5059d898acb",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":1008615373,
-    "wof:lastmodified":1472768670,
+    "wof:lastmodified":1510943780,
     "wof:name":"Tencate Geosyntihetics Iberia S:l",
     "wof:parent_id":85799389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008615377
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

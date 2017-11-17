@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28003",
     "addr:street":"Calle De Cristobal Bordiu",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.702958107,40.4432106018,-3.702958107,40.4432106018",
     "geom:latitude":40.443211,
     "geom:longitude":-3.702958,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Cristobal Bordiu, 10",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472547727,
-    "wof:geomhash":"894e7885c84a907fbbb65b1e4ea45e4e",
+    "wof:geomhash":"09450015434486b3fb09ffa444eaacfb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991384881,
-    "wof:lastmodified":1472769857,
+    "wof:lastmodified":1510943691,
     "wof:name":"Comercial Superma S.a.",
     "wof:parent_id":85863653,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991384883
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

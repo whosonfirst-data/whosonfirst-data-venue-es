@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6261680126,40.4397468567,-3.6261680126,40.4397468567",
     "geom:latitude":40.439747,
     "geom:longitude":-3.626168,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Valentin Beato, 11",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472516202,
-    "wof:geomhash":"ec571f94674e8389a1bc09dfbcad2f02",
+    "wof:geomhash":"6bc5273eddb6e24806b86ac6d11d57f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":990964241,
-    "wof:lastmodified":1472767684,
+    "wof:lastmodified":1510942024,
     "wof:name":"Ambiente Grafico S.l.",
     "wof:parent_id":85863641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        990964239
+    ],
     "wof:tags":[]
 },
   "bbox": [

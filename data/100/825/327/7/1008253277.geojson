@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6445939541,40.3756713867,-3.6445939541,40.3756713867",
     "geom:latitude":40.375671,
     "geom:longitude":-3.644594,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Luis I, S/n",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472616196,
-    "wof:geomhash":"9e8f958172a21bdd4746e3d8beaa385a",
+    "wof:geomhash":"4d23208e2e198b130646b25150f36be3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1008253277,
-    "wof:lastmodified":1472767918,
+    "wof:lastmodified":1510943110,
     "wof:name":"Plato 600 S.a",
     "wof:parent_id":85863733,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008253275
+    ],
     "wof:tags":[]
 },
   "bbox": [

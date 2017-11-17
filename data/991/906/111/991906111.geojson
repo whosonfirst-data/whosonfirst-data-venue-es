@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1357500553,41.3902015686,2.1357500553,41.3902015686",
     "geom:latitude":41.390202,
     "geom:longitude":2.13575,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Av Diagonal, 557",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472577809,
-    "wof:geomhash":"3448863fd3deaa7eddca29feff72f091",
+    "wof:geomhash":"89e65fcdca02857c7e1cd5ce9b4c379b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":991906111,
-    "wof:lastmodified":1472770541,
+    "wof:lastmodified":1510941722,
     "wof:name":"Herzig Trends S.l.",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991906109
+    ],
     "wof:tags":[]
 },
   "bbox": [

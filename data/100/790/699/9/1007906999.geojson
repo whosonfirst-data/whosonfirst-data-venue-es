@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28001",
     "addr:street":"Calle De Goya",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.680836916,40.4251785278,-3.680836916,40.4251785278",
     "geom:latitude":40.425179,
     "geom:longitude":-3.680837,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Goya, 59",
     "sg:city":"Madrid",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472591175,
-    "wof:geomhash":"23fb8686d557b1f18bf4f099c39e1de2",
+    "wof:geomhash":"fc8fb8dd2e00b95f1fecf98f705afb3d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,12 +65,15 @@
         }
     ],
     "wof:id":1007906999,
-    "wof:lastmodified":1472769084,
+    "wof:lastmodified":1510943977,
     "wof:name":"Marketing Comunicaciones Y Estudios Turisticos S.a.",
     "wof:parent_id":85863675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1007907001,
+        1007907005
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mercado",

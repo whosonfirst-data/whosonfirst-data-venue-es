@@ -7,13 +7,16 @@
     "addr:postcode":"08021",
     "addr:street":"Carrer De Muntaner",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1474430561,41.3954963684,2.1474430561,41.3954963684",
     "geom:latitude":41.395496,
     "geom:longitude":2.147443,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Carrer de Muntaner, 265",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472596039,
-    "wof:geomhash":"b4bb187b5f7b3e558d5340d7daddba20",
+    "wof:geomhash":"84260c295581ce4294edf594d7eea4a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1008020149,
-    "wof:lastmodified":1472766710,
+    "wof:lastmodified":1510943600,
     "wof:name":"Moli Vell S.l.",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008020157
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

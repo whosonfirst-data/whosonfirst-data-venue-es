@@ -7,13 +7,16 @@
     "addr:postcode":"08015",
     "addr:street":"Carrer De Viladomat",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1524329185,41.3835487366,2.1524329185,41.3835487366",
     "geom:latitude":41.383549,
     "geom:longitude":2.152433,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Carrer de Viladomat, 174",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472561572,
-    "wof:geomhash":"7616257464397b6f94fd1d2aa5320d70",
+    "wof:geomhash":"d1445a60549ab4412d5432c9c2848c00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":991625937,
-    "wof:lastmodified":1472770237,
+    "wof:lastmodified":1510943765,
     "wof:name":"Federacio Catalana D'empresaris Instaladors De Telecomunicacions",
     "wof:parent_id":85864021,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991625939
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

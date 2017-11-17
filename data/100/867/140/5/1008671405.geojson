@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7032530308,40.4200668335,-3.7032530308,40.4200668335",
     "geom:latitude":40.420067,
     "geom:longitude":-3.703253,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Gran Via, 29",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472637252,
-    "wof:geomhash":"f3936ae91a82d39802a2e6527e9f0c28",
+    "wof:geomhash":"0bb14393e07371ef2b7e75c6dee46059",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":1008671405,
-    "wof:lastmodified":1472767271,
+    "wof:lastmodified":1510942621,
     "wof:name":"Union Relojera Suiza S. A.",
     "wof:parent_id":85863667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008671403
+    ],
     "wof:tags":[]
 },
   "bbox": [

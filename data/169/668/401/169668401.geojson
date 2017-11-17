@@ -7,13 +7,16 @@
     "addr:postcode":"20500",
     "addr:street":"Araba Etorbidea;Guipu\u0300Zcoa",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.495092,43.057049,-2.495092,43.057049",
     "geom:latitude":43.057049,
     "geom:longitude":-2.495092,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Araba Etorbidea, 3",
     "sg:city":"Arrasate",
     "sg:classifiers":[],
@@ -32,7 +35,7 @@
         "sg:id":"SG_4kVP39frFhJlpm75as7geh_43.057049_-2.495092@1306269411"
     },
     "wof:country":"ES",
-    "wof:geomhash":"f91c69c371ebeed2c225a67ccb054740",
+    "wof:geomhash":"622830ef0dd4d8a0444fefda37b01240",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":169668401,
-    "wof:lastmodified":1472767113,
+    "wof:lastmodified":1510943763,
     "wof:name":"Academia Bastida S.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        169668435
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

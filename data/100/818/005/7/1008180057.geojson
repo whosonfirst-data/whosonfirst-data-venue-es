@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1646630764,41.374332428,2.1646630764,41.374332428",
     "geom:latitude":41.374332,
     "geom:longitude":2.164663,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Carrer de Tapioles, 10",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -34,11 +36,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":215873439,
         "sg:id":"SG_5wsWKhVEAzs7SyKmztzajn_41.374332_2.164663@1306269619"
     },
     "wof:country":"ES",
     "wof:created":1472605224,
-    "wof:geomhash":"249fc0cd9cb6b9172c08c78e4fef310d",
+    "wof:geomhash":"fc0490cfa9f6ab50848c6ecd85c94a21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1008180057,
-    "wof:lastmodified":1472766667,
+    "wof:lastmodified":1510943012,
     "wof:name":"Parroquia Santa Madrona",
     "wof:parent_id":85864037,
     "wof:placetype":"venue",

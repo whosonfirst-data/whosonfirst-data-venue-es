@@ -7,13 +7,16 @@
     "addr:postcode":"08014",
     "addr:street":"Carrer De Constitucio",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1373341084,41.3698310852,2.1373341084,41.3698310852",
     "geom:latitude":41.369831,
     "geom:longitude":2.137334,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Carrer de Constitucio, 19",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472633592,
-    "wof:geomhash":"8c656e82fe4d5b97752fa351500ca243",
+    "wof:geomhash":"afcb3a2f04dc04e53f8fdfbe1b07584a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1008585655,
-    "wof:lastmodified":1472768671,
+    "wof:lastmodified":1510941319,
     "wof:name":"Talleres Estor S. A.",
     "wof:parent_id":85799585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008585659
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

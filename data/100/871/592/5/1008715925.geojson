@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6769249439,40.4561195374,-3.6769249439,40.4561195374",
     "geom:latitude":40.45612,
     "geom:longitude":-3.676925,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Principe De Vergara, 254",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472639269,
-    "wof:geomhash":"65998c8e91c36603eccfb80c3766d2eb",
+    "wof:geomhash":"373e95d6c1807dd1413533963f292d5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":1008715925,
-    "wof:lastmodified":1472768807,
+    "wof:lastmodified":1510942933,
     "wof:name":"Viajes Marsans S.a.",
     "wof:parent_id":85863599,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008715917
+    ],
     "wof:tags":[]
 },
   "bbox": [

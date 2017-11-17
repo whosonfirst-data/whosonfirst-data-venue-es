@@ -7,13 +7,16 @@
     "addr:postcode":"28006",
     "addr:street":"Calle De Conde De Pen\u0303Alver",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6758639812,40.4252357483,-3.6758639812,40.4252357483",
     "geom:latitude":40.425236,
     "geom:longitude":-3.675864,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Conde De Pe\u00d1alver, 5",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472551038,
-    "wof:geomhash":"26c234b65d94f2a715cecf49d237fd7b",
+    "wof:geomhash":"63a0b4f9e53200fc95c9a6202f6336e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991438905,
-    "wof:lastmodified":1472769827,
+    "wof:lastmodified":1510941502,
     "wof:name":"Cortefiel S.a.",
     "wof:parent_id":85863677,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991438923
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

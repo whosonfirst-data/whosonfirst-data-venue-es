@@ -7,13 +7,16 @@
     "addr:postcode":"07800",
     "addr:street":"Av Santa Eularia;Riu S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.4346599579,38.9107551575,1.4346599579,38.9107551575",
     "geom:latitude":38.910755,
     "geom:longitude":1.43466,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Av Santa Eularia Des Riu, S/n",
     "sg:city":"Eivissa",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472559743,
-    "wof:geomhash":"122de8abed4757a5d7b908b1d8434db7",
+    "wof:geomhash":"19f2ed68c561908e9b1a9b97f81b6a65",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":991603343,
-    "wof:lastmodified":1472770042,
+    "wof:lastmodified":1510941879,
     "wof:name":"Eurolineas Maritimas S.a.l.",
     "wof:parent_id":85864231,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991603357
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

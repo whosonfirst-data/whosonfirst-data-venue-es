@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.5320630074,40.4383850098,-3.5320630074,40.4383850098",
     "geom:latitude":40.438385,
     "geom:longitude":-3.532063,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avda San Pablo (de), 31",
     "sg:city":"Coslada",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472631269,
-    "wof:geomhash":"b607b56418a24c03ffc6a6f03d26f398",
+    "wof:geomhash":"0e038aeb16a078553e136f3b1dff4026",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,13 +46,15 @@
         }
     ],
     "wof:id":1008530273,
-    "wof:lastmodified":1472766760,
+    "wof:lastmodified":1510944185,
     "wof:name":"Sistemas Automatismos Y Cuadros Electricos S.a.",
     "wof:parent_id":85863709,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008530269
+    ],
     "wof:tags":[]
 },
   "bbox": [

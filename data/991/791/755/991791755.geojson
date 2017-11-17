@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28001",
     "addr:street":"Calle De Velazquez",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6841840744,40.4265899658,-3.6841840744,40.4265899658",
     "geom:latitude":40.42659,
     "geom:longitude":-3.684184,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Velazquez, 41",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472571507,
-    "wof:geomhash":"80fd492be07dc3bebcbe6230aac7f2c0",
+    "wof:geomhash":"808e8718e2bb917cbd2c8adb8765f30e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991791755,
-    "wof:lastmodified":1472770468,
+    "wof:lastmodified":1510941357,
     "wof:name":"Gil De Biedma Villalonga Teresa",
     "wof:parent_id":85863675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991791757
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6804711819,40.4386062622,-3.6804711819,40.4386062622",
     "geom:latitude":40.438606,
     "geom:longitude":-3.680471,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Castello, 128",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472580889,
-    "wof:geomhash":"4b1f110ff0a0ea94dde9b6220e47a15f",
+    "wof:geomhash":"de827f244b0f9cb3691291738b19feec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":1007698619,
-    "wof:lastmodified":1472769289,
+    "wof:lastmodified":1510941231,
     "wof:name":"Instituto De Estudios Economicos",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1007698615
+    ],
     "wof:tags":[]
 },
   "bbox": [

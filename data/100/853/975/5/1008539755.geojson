@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28006",
     "addr:street":"Calle De Principe De Vergara",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6795649529,40.4331474304,-3.6795649529,40.4331474304",
     "geom:latitude":40.433147,
     "geom:longitude":-3.679565,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Principe De Vergara, 57",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472631686,
-    "wof:geomhash":"4852a132a5679f419235345781efb0f7",
+    "wof:geomhash":"1ba58c723052a637d1cacf17482f9863",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1008539755,
-    "wof:lastmodified":1472769371,
+    "wof:lastmodified":1510942948,
     "wof:name":"Sociedad Espanola De Geriatria Y Gerontologia",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008539759
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

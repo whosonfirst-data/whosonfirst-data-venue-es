@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28006",
     "addr:street":"Calle De Principe De Vergara",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6795370579,40.4317321777,-3.6795370579,40.4317321777",
     "geom:latitude":40.431732,
     "geom:longitude":-3.679537,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Principe De Vergara, 56",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472595240,
-    "wof:geomhash":"edb609c326ae7f5b44782e4de6e48567",
+    "wof:geomhash":"164d6c7f2227b0fe2e57044004f1bb68",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":1008001115,
-    "wof:lastmodified":1472767053,
+    "wof:lastmodified":1510941368,
     "wof:name":"Mingot Martinez De Velasco Teresa",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008001119
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

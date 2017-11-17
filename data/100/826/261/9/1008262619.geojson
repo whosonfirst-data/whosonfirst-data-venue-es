@@ -7,13 +7,16 @@
     "addr:postcode":"36202",
     "addr:street":"/ N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-8.7320985794,42.2364654541,-8.7320985794,42.2364654541",
     "geom:latitude":42.236465,
     "geom:longitude":-8.732099,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Praz Porto Pesqueiro-lonxa, S/n",
     "sg:city":"Vigo",
     "sg:classifiers":[],
@@ -30,16 +33,22 @@
     },
     "wof:country":"ES",
     "wof:created":1472616647,
-    "wof:geomhash":"058c6ce540a1ab51f3bc2f445392736f",
+    "wof:geomhash":"691f69303852d82e4df04b16ff8cc55a",
     "wof:hierarchy":[],
     "wof:id":1008262619,
-    "wof:lastmodified":1472767771,
+    "wof:lastmodified":1510942945,
     "wof:name":"Portel Eixo Atlantico S.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1008262621,
+        1008262627
+    ],
+    "wof:supersedes":[
+        1008262617,
+        1008262615
+    ],
     "wof:tags":[]
 },
   "bbox": [

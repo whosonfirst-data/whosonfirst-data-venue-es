@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28010",
     "addr:street":"Calle De Alonso Cano",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6981101036,40.4360198975,-3.6981101036,40.4360198975",
     "geom:latitude":40.43602,
     "geom:longitude":-3.69811,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Alonso Cano, 9",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472640038,
-    "wof:geomhash":"92dbb2ea2735e2c0936f55898142a42b",
+    "wof:geomhash":"37cbd2ad0ae4efe5cd8b5cb0d0c1371c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1024463071,
-    "wof:lastmodified":1472767875,
+    "wof:lastmodified":1510942172,
     "wof:name":"Villanueva Vigil De Qui\u00f1ones Maria Luisa",
     "wof:parent_id":85863661,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1024463073
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

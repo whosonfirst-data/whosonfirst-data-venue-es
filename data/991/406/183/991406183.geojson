@@ -7,13 +7,16 @@
     "addr:postcode":"33290",
     "addr:street":"Musel;/ N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.7190551758,43.5478096008,-5.7190551758,43.5478096008",
     "geom:latitude":43.54781,
     "geom:longitude":-5.719055,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Barr Musel, S/n",
     "sg:city":"Gijon",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472549155,
-    "wof:geomhash":"6ea34d32eae2dab26c4ed452b4ad55bf",
+    "wof:geomhash":"daee314fc809d92ffc707ca547f69693",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":991406183,
-    "wof:lastmodified":1472769620,
+    "wof:lastmodified":1510944080,
     "wof:name":"Conservas Agromar S. A.",
     "wof:parent_id":85799415,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991406185
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

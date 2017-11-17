@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7041199207,40.4203071594,-3.7041199207,40.4203071594",
     "geom:latitude":40.420307,
     "geom:longitude":-3.70412,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Gran Via, 34",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472641193,
-    "wof:geomhash":"a035101b6ebfafe34f2b1d493493951d",
+    "wof:geomhash":"c577c4e6f5219d83a4722023aa5d80ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":1024490029,
-    "wof:lastmodified":1472766661,
+    "wof:lastmodified":1510944125,
     "wof:name":"Zara Espa\u00f1a S.a.",
     "wof:parent_id":85863667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1024490023
+    ],
     "wof:tags":[]
 },
   "bbox": [

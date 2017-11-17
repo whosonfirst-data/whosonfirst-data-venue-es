@@ -7,6 +7,7 @@
     "addr:postcode":"33012",
     "addr:street":"Calle De Vazquez De Mella",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-5.865794,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Calle de Vazquez De Mella, 59",
     "sg:city":"Oviedo",
     "sg:classifiers":[],
@@ -37,12 +38,14 @@
     "wof:geomhash":"30514851b68c71a28d4a9b3fac0c7967",
     "wof:hierarchy":[],
     "wof:id":991220741,
-    "wof:lastmodified":1510693757,
+    "wof:lastmodified":1510942615,
     "wof:name":"Caja Rural De Asturias",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991220781
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.5637528896,40.4263114929,-3.5637528896,40.4263114929",
     "geom:latitude":40.426311,
     "geom:longitude":-3.563753,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avda Constitucion (de La), 47",
     "sg:city":"Coslada",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472524945,
-    "wof:geomhash":"39dabcd82fed7b71265dbf34578a5231",
+    "wof:geomhash":"61b260bc012b1cadc3e74bf34ebc9a65",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,13 +46,16 @@
         }
     ],
     "wof:id":991076089,
-    "wof:lastmodified":1472766782,
+    "wof:lastmodified":1510941888,
     "wof:name":"Ayuntamiento De Coslada",
     "wof:parent_id":85863629,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991076081,
+        991076075
+    ],
     "wof:tags":[]
 },
   "bbox": [

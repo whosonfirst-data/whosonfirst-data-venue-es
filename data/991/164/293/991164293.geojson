@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.9462680817,43.2608642578,-2.9462680817,43.2608642578",
     "geom:latitude":43.260864,
     "geom:longitude":-2.946268,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Bolivar Simon, 27",
     "sg:city":"Bilbao",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472533668,
-    "wof:geomhash":"ddf48353111c1a3ba362423945dd6ec0",
+    "wof:geomhash":"8fea21a7e23d574277ac5d01708eeed1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":991164293,
-    "wof:lastmodified":1472767663,
+    "wof:lastmodified":1510941558,
     "wof:name":"Bolivar S.l.",
     "wof:parent_id":85863925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991164291
+    ],
     "wof:tags":[]
 },
   "bbox": [

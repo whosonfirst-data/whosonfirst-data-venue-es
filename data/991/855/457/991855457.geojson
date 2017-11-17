@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6519436836,40.4502105713,-3.6519436836,40.4502105713",
     "geom:latitude":40.450211,
     "geom:longitude":-3.651944,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Arturo Soria, 105",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472575105,
-    "wof:geomhash":"32acb0b4c3717e779999261d1ec9b724",
+    "wof:geomhash":"2c571458ee0369d4c0e5d373cb7e3108",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":991855457,
-    "wof:lastmodified":1472770476,
+    "wof:lastmodified":1510942605,
     "wof:name":"Grupo De Urgencias Traumatologicas S.l.",
     "wof:parent_id":85799193,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991855455
+    ],
     "wof:tags":[]
 },
   "bbox": [

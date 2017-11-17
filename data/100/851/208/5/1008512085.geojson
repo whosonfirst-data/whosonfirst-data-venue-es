@@ -7,13 +7,16 @@
     "addr:postcode":"48001",
     "addr:street":"Calle De Berastegui",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.9283308983,43.2617950439,-2.9283308983,43.2617950439",
     "geom:latitude":43.261795,
     "geom:longitude":-2.928331,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Berastegui, 1",
     "sg:city":"Bilbao",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472630526,
-    "wof:geomhash":"b30963e1762cc9d7fd2cf7bfd5f5250a",
+    "wof:geomhash":"338675e6e4213c3ef04cc06cb2dfd1da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1008512085,
-    "wof:lastmodified":1472767511,
+    "wof:lastmodified":1510942334,
     "wof:name":"Servicios De Defensa Juridica Del Norte",
     "wof:parent_id":85863957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008512087
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

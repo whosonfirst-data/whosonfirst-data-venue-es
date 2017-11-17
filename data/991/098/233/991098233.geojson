@@ -7,6 +7,7 @@
     "addr:postcode":"11160",
     "addr:street":"Avda Generalisimo",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-5.920549,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Avda Generalisimo, S/n",
     "sg:city":"Barbate",
     "sg:classifiers":[],
@@ -37,12 +38,14 @@
     "wof:geomhash":"77349c45b13e5dbba639c1a8dbc52f7c",
     "wof:hierarchy":[],
     "wof:id":991098233,
-    "wof:lastmodified":1510695310,
+    "wof:lastmodified":1510944110,
     "wof:name":"Banco De Andalucia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991098269
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

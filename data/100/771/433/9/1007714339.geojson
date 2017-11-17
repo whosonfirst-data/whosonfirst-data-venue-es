@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.6523220539,39.5734214783,2.6523220539,39.5734214783",
     "geom:latitude":39.573421,
     "geom:longitude":2.652322,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Carrer de Sant Miquel, 30",
     "sg:city":"Palma",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472581676,
-    "wof:geomhash":"dfd530170db98023b0833218a98b34f9",
+    "wof:geomhash":"9e72a5ea004180f3658da46d2fe7ae18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":1007714339,
-    "wof:lastmodified":1472768321,
+    "wof:lastmodified":1510941473,
     "wof:name":"Ius S.l.",
     "wof:parent_id":85864097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1007714337
+    ],
     "wof:tags":[]
 },
   "bbox": [

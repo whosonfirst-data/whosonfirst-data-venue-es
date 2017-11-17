@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7032389641,40.4811096191,-3.7032389641,40.4811096191",
     "geom:latitude":40.48111,
     "geom:longitude":-3.703239,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Calle de Finisterre, 60",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -34,11 +36,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":27599884,
         "sg:id":"SG_5ZhNNPPFVO9ev13sY8w65g_40.481110_-3.703239@1306269552"
     },
     "wof:country":"ES",
     "wof:created":1472579236,
-    "wof:geomhash":"d86f21fc5ba2873e99fed6f43cfd08dc",
+    "wof:geomhash":"a7e0592deade525fcc9f06e9b0fe9cb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":991935773,
-    "wof:lastmodified":1472770668,
+    "wof:lastmodified":1510942657,
     "wof:name":"I.e.s. Principe Felipe",
     "wof:parent_id":85863551,
     "wof:placetype":"venue",

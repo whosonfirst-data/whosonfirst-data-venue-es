@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6506590843,40.5374717712,-3.6506590843,40.5374717712",
     "geom:latitude":40.537472,
     "geom:longitude":-3.650659,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Valgrande (de), 14",
     "sg:city":"Alcobendas",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472595645,
-    "wof:geomhash":"47e28c45b9201ed57c2bbdab9822dc0f",
+    "wof:geomhash":"561849793c6b7b76ff8ff21f49f21636",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -45,13 +47,15 @@
         }
     ],
     "wof:id":1008010559,
-    "wof:lastmodified":1472766864,
+    "wof:lastmodified":1510944074,
     "wof:name":"Mobel Park S.a.",
     "wof:parent_id":85799389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008010555
+    ],
     "wof:tags":[]
 },
   "bbox": [

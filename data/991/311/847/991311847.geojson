@@ -7,13 +7,16 @@
     "addr:postcode":"08930",
     "addr:street":"Carrer De Olimpica S / N S.;Barcelona",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.2249600887,41.4247398376,2.2249600887,41.4247398376",
     "geom:latitude":41.42474,
     "geom:longitude":2.22496,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Carrer de Olimpica, S/n",
     "sg:city":"S. Adria Besos",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472543198,
-    "wof:geomhash":"89cebcd0e275ddb0f559b9449750fb45",
+    "wof:geomhash":"6b2de55f7e1b4c3e70e91c9dfbf7ca07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991311847,
-    "wof:lastmodified":1472769878,
+    "wof:lastmodified":1510941432,
     "wof:name":"Centre De Telecomunicaciones De Catalunya",
     "wof:parent_id":85799179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991311857
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

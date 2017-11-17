@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.0699698925,41.3564910889,2.0699698925,41.3564910889",
     "geom:latitude":41.356491,
     "geom:longitude":2.06997,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Carrer de General Prim, 3",
     "sg:city":"Cornella Llobregat",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472576182,
-    "wof:geomhash":"dd0d747bc87cc079252790e10d472286",
+    "wof:geomhash":"2727354a0e61c1e63a1376e68488c06b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":991875037,
-    "wof:lastmodified":1472770478,
+    "wof:lastmodified":1510944004,
     "wof:name":"Guzman Laez Y Tabernero Abogados Asociado S.cv.p.",
     "wof:parent_id":85799381,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991875035
+    ],
     "wof:tags":[]
 },
   "bbox": [

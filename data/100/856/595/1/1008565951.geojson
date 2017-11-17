@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28001",
     "addr:street":"Calle De Ayala",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6857879162,40.4277877808,-3.6857879162,40.4277877808",
     "geom:latitude":40.427788,
     "geom:longitude":-3.685788,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Ayala, 28",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472632799,
-    "wof:geomhash":"f283e9854f9a9c7f8aba8cbafbe31125",
+    "wof:geomhash":"2838feab188c5cbf7eeafd0af0374070",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1008565951,
-    "wof:lastmodified":1472768640,
+    "wof:lastmodified":1510943715,
     "wof:name":"Sucesores De Antonio Lopez C.b.",
     "wof:parent_id":85863675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008565953
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

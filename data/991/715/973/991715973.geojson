@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.9460270405,43.2717628479,-2.9460270405,43.2717628479",
     "geom:latitude":43.271763,
     "geom:longitude":-2.946027,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avda Aguirre Lehendakari, 11",
     "sg:city":"Bilbao",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472566264,
-    "wof:geomhash":"3ee5d5029a1e8d030232c51710c30180",
+    "wof:geomhash":"b11dcd4cdfa4999c405342ffc257bc4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":991715973,
-    "wof:lastmodified":1472770469,
+    "wof:lastmodified":1510941767,
     "wof:name":"Gabinete De Asesores Financieros S. A.",
     "wof:parent_id":85863943,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991715971
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6935870647,40.4549217224,-3.6935870647,40.4549217224",
     "geom:latitude":40.454922,
     "geom:longitude":-3.693587,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Pedro Teixeira, 8",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472570282,
-    "wof:geomhash":"025b49b4f083b303bb090475fc2f3b77",
+    "wof:geomhash":"881414fa9e0806077f4ca2693ca99a83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":991782389,
-    "wof:lastmodified":1472770334,
+    "wof:lastmodified":1510941404,
     "wof:name":"Germanischer Lloyd Espa\u00f1a S. L.",
     "wof:parent_id":85863621,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991782385
+    ],
     "wof:tags":[]
 },
   "bbox": [

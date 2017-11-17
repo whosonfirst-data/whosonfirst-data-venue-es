@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7046489716,40.4674415588,-3.7046489716,40.4674415588",
     "geom:latitude":40.467442,
     "geom:longitude":-3.704649,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Calle de Pedro Medrano, 3",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -34,11 +36,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":4462906812,
         "sg:id":"SG_6np0U9OrOZHvjX4T45MoHw_40.467442_-3.704649@1306269634"
     },
     "wof:country":"ES",
     "wof:created":1472618405,
-    "wof:geomhash":"8a1bbea9e5e5f6bfac575c0aefedd531",
+    "wof:geomhash":"839db74be1bedcee9355d72267f499c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1008292231,
-    "wof:lastmodified":1472767469,
+    "wof:lastmodified":1510942597,
     "wof:name":"Puente Familiar Con Cuba",
     "wof:parent_id":85863561,
     "wof:placetype":"venue",

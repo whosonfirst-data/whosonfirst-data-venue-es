@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6377539635,40.4627380371,-3.6377539635,40.4627380371",
     "geom:latitude":40.462738,
     "geom:longitude":-3.637754,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Silvano, 77",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472558201,
-    "wof:geomhash":"9df3f110034495dfbb4e7f0760b2f6ba",
+    "wof:geomhash":"911e483fa2c6ea6d5646f79197bcfb48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":991570355,
-    "wof:lastmodified":1472770018,
+    "wof:lastmodified":1510941318,
     "wof:name":"Equipamientos Deportivos Y De Ocio S.a.",
     "wof:parent_id":85799409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991570353
+    ],
     "wof:tags":[]
 },
   "bbox": [

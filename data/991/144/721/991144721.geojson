@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-6.0566887856,37.3854942322,-6.0566887856,37.3854942322",
     "geom:latitude":37.385494,
     "geom:longitude":-6.056689,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Cno Tomares, S/n",
     "sg:city":"Castilleja Cuesta",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472531320,
-    "wof:geomhash":"9bc5b6cd7b2d8f25b28381f6f82862a0",
+    "wof:geomhash":"d6c1be34afe77291f1b46e1586fa93d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":991144721,
-    "wof:lastmodified":1472767753,
+    "wof:lastmodified":1510943944,
     "wof:name":"Bershka Bsr Espa\u00d1a S.a.",
     "wof:parent_id":85864123,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991144717
+    ],
     "wof:tags":[]
 },
   "bbox": [

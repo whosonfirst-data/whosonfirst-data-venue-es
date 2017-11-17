@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28015",
     "addr:street":"Calle De San Bernardo",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7100069523,40.4250946045,-3.7100069523,40.4250946045",
     "geom:latitude":40.425095,
     "geom:longitude":-3.710007,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de San Bernardo, 8",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472639071,
-    "wof:geomhash":"87eba9f5f2843d38827299da26ea08c5",
+    "wof:geomhash":"72771bffac787c299eb3eb888071a92a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":1008711737,
-    "wof:lastmodified":1472767456,
+    "wof:lastmodified":1510941651,
     "wof:name":"Viajes Chinamar S. A.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008711739
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

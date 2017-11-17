@@ -7,13 +7,16 @@
     "addr:postcode":"08008",
     "addr:street":"Carrer De Mallorca",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1589229107,41.3909111023,2.1589229107,41.3909111023",
     "geom:latitude":41.390911,
     "geom:longitude":2.158923,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Carrer de Mallorca, 214",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472529059,
-    "wof:geomhash":"73cd3d784eed122a9261694f1c037d9c",
+    "wof:geomhash":"8e11e74a9cef1eef6cd2f409766c2766",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991126605,
-    "wof:lastmodified":1472767368,
+    "wof:lastmodified":1510942539,
     "wof:name":"Bcn Consultores En Desarrollo De Recursos Humanos S.l.",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991126607
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

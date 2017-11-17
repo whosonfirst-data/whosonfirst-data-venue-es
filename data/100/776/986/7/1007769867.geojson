@@ -7,13 +7,16 @@
     "addr:postcode":"41007",
     "addr:street":"Avda Kansas City",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.9727392197,37.3882408142,-5.9727392197,37.3882408142",
     "geom:latitude":37.388241,
     "geom:longitude":-5.972739,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avda Kansas City, 9",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472584750,
-    "wof:geomhash":"e8e0b6f491e772029b787e703ee3db45",
+    "wof:geomhash":"61db34a6f1a6d2ff2328f24869fc363b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":1007769867,
-    "wof:lastmodified":1472769503,
+    "wof:lastmodified":1510941414,
     "wof:name":"Kodak S.a.",
     "wof:parent_id":85864161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1007769869
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

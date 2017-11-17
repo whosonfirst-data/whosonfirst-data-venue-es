@@ -7,6 +7,7 @@
     "addr:postcode":"04006",
     "addr:street":"Calle De Valle Inclan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-2.449086,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Calle de Valle Inclan, 18",
     "sg:city":"Almeria",
     "sg:classifiers":[],
@@ -36,12 +37,14 @@
     "wof:geomhash":"69737f7845dbba0a083abebd337eb33f",
     "wof:hierarchy":[],
     "wof:id":1008666897,
-    "wof:lastmodified":1510874639,
+    "wof:lastmodified":1510942325,
     "wof:name":"Unicaja",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008666899
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

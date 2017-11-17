@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28013",
     "addr:street":"Calle De Gran Via",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7086009979,40.4219436646,-3.7086009979,40.4219436646",
     "geom:latitude":40.421944,
     "geom:longitude":-3.708601,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Gran Via, 62",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472564546,
-    "wof:geomhash":"96d6622f3646ee694ba1f72faeb8df85",
+    "wof:geomhash":"efb5b45ae0b765d35487cd157915c4ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991681581,
-    "wof:lastmodified":1472770324,
+    "wof:lastmodified":1510942637,
     "wof:name":"Formacion Y Prevencion Tecnicos Asociados S.a.",
     "wof:parent_id":85863667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991681583
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

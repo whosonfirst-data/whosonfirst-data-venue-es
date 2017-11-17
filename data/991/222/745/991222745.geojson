@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Calle De Plus Ultra;Huelva",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-6.953411,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Calle de Plus Ultra, 2",
     "sg:city":"Huelva",
     "sg:classifiers":[],
@@ -36,12 +37,14 @@
     "wof:geomhash":"8d8d861fd228b9b3271d106d79fed3e1",
     "wof:hierarchy":[],
     "wof:id":991222745,
-    "wof:lastmodified":1510874764,
+    "wof:lastmodified":1510942394,
     "wof:name":"Caja Rural Del Sur Sociedad Cooperativa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991222761
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

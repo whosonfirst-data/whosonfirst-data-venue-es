@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28026",
     "addr:street":"Avda Cordoba",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.698182106,40.3852615356,-3.698182106,40.3852615356",
     "geom:latitude":40.385262,
     "geom:longitude":-3.698182,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avda Cordoba, 15",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472630017,
-    "wof:geomhash":"c11f8bd150a9a8a35afa56a5a52858b0",
+    "wof:geomhash":"5b128bffaefb318efcaa32b6d6e4c87f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1008500055,
-    "wof:lastmodified":1472766670,
+    "wof:lastmodified":1510944124,
     "wof:name":"Sercal S.a. Ingenieros Consultores",
     "wof:parent_id":85863749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008500059
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

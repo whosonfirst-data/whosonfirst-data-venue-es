@@ -7,13 +7,16 @@
     "addr:postcode":"08025",
     "addr:street":"Carrer De Corsega",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.172426939,41.4062538147,2.172426939,41.4062538147",
     "geom:latitude":41.406254,
     "geom:longitude":2.172427,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Carrer de Corsega, 534",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472553626,
-    "wof:geomhash":"fae8d14eb4f479443fdb030ad8746121",
+    "wof:geomhash":"1cae36d7ae0b0a57219de365773bac52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991485239,
-    "wof:lastmodified":1472769934,
+    "wof:lastmodified":1510943980,
     "wof:name":"Denia I Valls S.c.p.",
     "wof:parent_id":85863999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991485241
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

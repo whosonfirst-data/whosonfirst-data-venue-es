@@ -7,13 +7,16 @@
     "addr:postcode":"48170",
     "addr:street":"Torrelarragoiti Poligonoa",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.8633139133,43.280834198,-2.8633139133,43.280834198",
     "geom:latitude":43.280834,
     "geom:longitude":-2.863314,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Torrelarragoiti Poligonoa, S/n",
     "sg:city":"Arteaga",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472572888,
-    "wof:geomhash":"ccf65be72f198da8d7bf25a23ca99655",
+    "wof:geomhash":"8da209ac7db289d64c3e3f1af664abdb",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":991817341,
-    "wof:lastmodified":1472770373,
+    "wof:lastmodified":1510941371,
     "wof:name":"Gonvador S.l.",
     "wof:parent_id":85863973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991817347
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "confiter\u00cdas",

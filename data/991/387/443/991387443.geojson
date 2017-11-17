@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28020",
     "addr:street":"Calle De Orense",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6952719688,40.4514923096,-3.6952719688,40.4514923096",
     "geom:latitude":40.451492,
     "geom:longitude":-3.695272,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Orense, 25",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472547901,
-    "wof:geomhash":"e776bd9a090ad6cbbdef204de1b80ab1",
+    "wof:geomhash":"ccf1a5ebef290f913f54dd8c2e7dd53a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":991387443,
-    "wof:lastmodified":1472769697,
+    "wof:lastmodified":1510943662,
     "wof:name":"Compagnie Maritime D'affretement Compagnie Generale Maritime Iberica S.a.",
     "wof:parent_id":85863621,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991387445
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

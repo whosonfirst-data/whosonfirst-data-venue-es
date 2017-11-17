@@ -7,6 +7,7 @@
     "addr:postcode":"11100",
     "addr:street":"/ N S. Fernando Ca\u0301Diz",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-6.196739,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Comercio (cc Bahia Sur), S/n",
     "sg:city":"S. Fernando",
     "sg:classifiers":[],
@@ -37,12 +38,14 @@
     "wof:geomhash":"e8c0ec2ddffd9becacc2ec03054bee0e",
     "wof:hierarchy":[],
     "wof:id":991435151,
-    "wof:lastmodified":1510695855,
+    "wof:lastmodified":1510943254,
     "wof:name":"Coronel Tapioca S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991435153
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

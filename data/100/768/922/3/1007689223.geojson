@@ -7,13 +7,16 @@
     "addr:postcode":"07001",
     "addr:street":"Carrer De Unio",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.6480100155,39.571472168,2.6480100155,39.571472168",
     "geom:latitude":39.571472,
     "geom:longitude":2.64801,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Carrer de Unio, 2",
     "sg:city":"Palma",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472580469,
-    "wof:geomhash":"90f2a9db8ede3aa4c69e340ebe53c73c",
+    "wof:geomhash":"f96a1c967f9f48e64eff008c48cf8b77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":1007689223,
-    "wof:lastmodified":1472769238,
+    "wof:lastmodified":1510943369,
     "wof:name":"Inmobiliaria Urbis S.a.",
     "wof:parent_id":85864097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1007689229
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

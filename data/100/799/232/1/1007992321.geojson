@@ -7,13 +7,16 @@
     "addr:postcode":"28700",
     "addr:street":"Avda Fuente Nueva De La",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6123359203,40.547668457,-3.6123359203,40.547668457",
     "geom:latitude":40.547668,
     "geom:longitude":-3.612336,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avda Fuente Nueva (de La), 12",
     "sg:city":"San Sebastian De Los Reyes",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472594853,
-    "wof:geomhash":"517dd88daf668adfade04633867e9ba6",
+    "wof:geomhash":"67722f2984c242e658ced3a97d5b52b4",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":1007992321,
-    "wof:lastmodified":1472767550,
+    "wof:lastmodified":1510942456,
     "wof:name":"Metal Work Iberica S.a.",
     "wof:parent_id":85863585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1007992325
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

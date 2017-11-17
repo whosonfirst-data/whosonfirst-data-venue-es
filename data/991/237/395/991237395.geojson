@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.8130640984,40.4562187195,-3.8130640984,40.4562187195",
     "geom:latitude":40.456219,
     "geom:longitude":-3.813064,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Joaquin Turina, 2",
     "sg:city":"Pozuelo De Alarcon",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472539377,
-    "wof:geomhash":"802a29387e99a85eb4679be91a73637e",
+    "wof:geomhash":"4939c387b09d53ab8d68101fc3210a04",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -45,13 +47,15 @@
         }
     ],
     "wof:id":991237395,
-    "wof:lastmodified":1472768213,
+    "wof:lastmodified":1510942669,
     "wof:name":"C.a.metropolitan S.a.",
     "wof:parent_id":85863657,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991237393
+    ],
     "wof:tags":[]
 },
   "bbox": [

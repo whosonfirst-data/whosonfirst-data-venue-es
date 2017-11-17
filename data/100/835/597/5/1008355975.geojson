@@ -7,13 +7,16 @@
     "addr:postcode":"28003",
     "addr:street":"Calle De Jose Abascal",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7018508911,40.4384155273,-3.7018508911,40.4384155273",
     "geom:latitude":40.438416,
     "geom:longitude":-3.701851,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Jose Abascal, 4",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472623767,
-    "wof:geomhash":"934fba667d3e5e6cf9a7299041ad5a14",
+    "wof:geomhash":"7e6f25a9184de45e3aa694e2f61c17ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1008355975,
-    "wof:lastmodified":1472768667,
+    "wof:lastmodified":1510942565,
     "wof:name":"Richemont Iberia S.l.",
     "wof:parent_id":85863661,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008355983
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

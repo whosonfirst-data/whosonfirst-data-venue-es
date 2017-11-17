@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28003",
     "addr:street":"Calle De Agustin De Betancourt",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6951956749,40.4444313049,-3.6951956749,40.4444313049",
     "geom:latitude":40.444431,
     "geom:longitude":-3.695196,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Agustin De Betancourt, 17",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472521766,
-    "wof:geomhash":"b695bcae3f8f06d33018cc6f3b59e9b4",
+    "wof:geomhash":"834c0506edc88ad42a7804aa0a4b70bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991034327,
-    "wof:lastmodified":1472766768,
+    "wof:lastmodified":1510943629,
     "wof:name":"Asociacion De Mujeres Y Familias De Ambito Rural",
     "wof:parent_id":85863799,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991034331
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

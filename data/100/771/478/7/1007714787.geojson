@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.9767341614,37.3472900391,-5.9767341614,37.3472900391",
     "geom:latitude":37.34729,
     "geom:longitude":-5.976734,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avda Reino Unido, S/n",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472581701,
-    "wof:geomhash":"1eb76e5eaec9ee5e27c9080bca18351b",
+    "wof:geomhash":"136d2cbbf5dafb40d86653a447141660",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -45,13 +47,15 @@
         }
     ],
     "wof:id":1007714787,
-    "wof:lastmodified":1472768411,
+    "wof:lastmodified":1510941184,
     "wof:name":"Iwan 21 Networks S L Consultoria",
     "wof:parent_id":85864195,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1007714785
+    ],
     "wof:tags":[]
 },
   "bbox": [

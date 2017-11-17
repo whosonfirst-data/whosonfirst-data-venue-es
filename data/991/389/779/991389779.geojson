@@ -7,13 +7,16 @@
     "addr:postcode":"39011",
     "addr:street":"/ N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.862869978,43.4475975037,-3.862869978,43.4475975037",
     "geom:latitude":43.447598,
     "geom:longitude":-3.86287,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Mercados Centrales, S/n",
     "sg:city":"Pe\u00d1acastillo",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472548077,
-    "wof:geomhash":"4f9e3840164e5d4c386fb372d6228070",
+    "wof:geomhash":"a02a20c9ddb50f29f0f427170ff75ab4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991389779,
-    "wof:lastmodified":1472769806,
+    "wof:lastmodified":1510944120,
     "wof:name":"Compesca S.a.",
     "wof:parent_id":85799521,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991389781
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

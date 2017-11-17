@@ -7,13 +7,16 @@
     "addr:postcode":"48008",
     "addr:street":"Calle De Bertendona",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.931391,43.259979,-2.931391,43.259979",
     "geom:latitude":43.259979,
     "geom:longitude":-2.931391,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Bertendona, 4",
     "sg:city":"Bilbao",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_240QeIpj59Wvz2VtQtpfwA_43.259979_-2.931391@1306269411"
     },
     "wof:country":"ES",
-    "wof:geomhash":"0450542d4d03ecb668d0dc7da839e679",
+    "wof:geomhash":"ef5c39e5f24f8e53ecd9b2cd7f76cfb7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":169656923,
-    "wof:lastmodified":1472767096,
+    "wof:lastmodified":1510941696,
     "wof:name":"Abx Logistics Espa\u00d1a S.a.",
     "wof:parent_id":85863957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        169657019
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

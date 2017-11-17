@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.8633139133,43.280834198,-2.8633139133,43.280834198",
     "geom:latitude":43.280834,
     "geom:longitude":-2.863314,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Ugaldeguren I Poligonoa, S/n",
     "sg:city":"Aranoltza",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472544496,
-    "wof:geomhash":"ccf65be72f198da8d7bf25a23ca99655",
+    "wof:geomhash":"8da209ac7db289d64c3e3f1af664abdb",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,13 +46,15 @@
         }
     ],
     "wof:id":991339013,
-    "wof:lastmodified":1472769569,
+    "wof:lastmodified":1510942857,
     "wof:name":"Cierres Metalicos Lomen S.a.",
     "wof:parent_id":85863973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991339009
+    ],
     "wof:tags":[]
 },
   "bbox": [

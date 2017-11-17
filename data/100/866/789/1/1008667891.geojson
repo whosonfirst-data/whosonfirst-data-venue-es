@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.4156031609,36.7326469421,-4.4156031609,36.7326469421",
     "geom:latitude":36.732647,
     "geom:longitude":-4.415603,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Cristo De La Epidemia, 95",
     "sg:city":"Malaga",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472637129,
-    "wof:geomhash":"3993e14f1fdcefafa16fae4a1a5ce7f6",
+    "wof:geomhash":"db7240a0ceca1d72928dc62904a0dbab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":1008667891,
-    "wof:lastmodified":1472769181,
+    "wof:lastmodified":1510942517,
     "wof:name":"Unicaja",
     "wof:parent_id":85863497,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008667887
+    ],
     "wof:tags":[]
 },
   "bbox": [

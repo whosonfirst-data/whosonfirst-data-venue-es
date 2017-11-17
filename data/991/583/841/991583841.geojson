@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28015",
     "addr:street":"Calle De Bravo Murillo",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.704282999,40.4366874695,-3.704282999,40.4366874695",
     "geom:latitude":40.436687,
     "geom:longitude":-3.704283,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Bravo Murillo, 28",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472558863,
-    "wof:geomhash":"db23008b02b889d688d145eb49b97921",
+    "wof:geomhash":"b229859f90073b170ce12d55d6c12b6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":991583841,
-    "wof:lastmodified":1472770205,
+    "wof:lastmodified":1510944121,
     "wof:name":"Espectarama S.a.",
     "wof:parent_id":85863653,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991583843
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"08008",
     "addr:street":"Carrer De Balmes",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1573839188,41.3930702209,2.1573839188,41.3930702209",
     "geom:latitude":41.39307,
     "geom:longitude":2.157384,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Carrer de Balmes, 129",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472587189,
-    "wof:geomhash":"c1899cef1be9a3f2b061d8ba0f344612",
+    "wof:geomhash":"c486ca62f763106daba0db17f3026b97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1007817737,
-    "wof:lastmodified":1472768832,
+    "wof:lastmodified":1510943254,
     "wof:name":"Llibreria Anglesa S.l",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1007817743
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

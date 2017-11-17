@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28023",
     "addr:street":"Avda Europa",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7867569923,40.4455947876,-3.7867569923,40.4455947876",
     "geom:latitude":40.445595,
     "geom:longitude":-3.786757,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avda Europa, 34",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472511304,
-    "wof:geomhash":"86f7f7bd4df1858994c12ac675197cb5",
+    "wof:geomhash":"24c372dc5d5b36c9246914a81996025b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":990930585,
-    "wof:lastmodified":1472767635,
+    "wof:lastmodified":1510943685,
     "wof:name":"Alexandra Plata S.l.",
     "wof:parent_id":85799153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        990930587
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

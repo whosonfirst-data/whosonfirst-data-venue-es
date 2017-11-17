@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28005",
     "addr:street":"Cebada",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7094779015,40.4105453491,-3.7094779015,40.4105453491",
     "geom:latitude":40.410545,
     "geom:longitude":-3.709478,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Plaz Cebada, 15",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472562994,
-    "wof:geomhash":"43881773f797bbfc531147da3de4fd8a",
+    "wof:geomhash":"9aa7bf614b08a5354fca2e1eef20b5c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991649887,
-    "wof:lastmodified":1472770180,
+    "wof:lastmodified":1510942403,
     "wof:name":"Fernandez Roldan Manuel",
     "wof:parent_id":85863775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991649885
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1974329948,41.3870849609,2.1974329948,41.3870849609",
     "geom:latitude":41.387085,
     "geom:longitude":2.197433,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Carrer de Marina, 16",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472629921,
-    "wof:geomhash":"c49260166559973d47dff54fd792b41a",
+    "wof:geomhash":"c4e15ac94bf60059e8260c055164b123",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":1008498031,
-    "wof:lastmodified":1472769215,
+    "wof:lastmodified":1510941955,
     "wof:name":"Senda Ambiental S. A.",
     "wof:parent_id":85799173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008498029
+    ],
     "wof:tags":[]
 },
   "bbox": [

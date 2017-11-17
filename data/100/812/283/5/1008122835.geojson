@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1313180923,41.3907699585,2.1313180923,41.3907699585",
     "geom:latitude":41.39077,
     "geom:longitude":2.131318,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Carrer de Numancia, 185",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472600543,
-    "wof:geomhash":"1cdb6d20959e3c6efb05df6491170ad6",
+    "wof:geomhash":"1ca2d9041626268c2561108a48ae3f2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":1008122835,
-    "wof:lastmodified":1472767896,
+    "wof:lastmodified":1510942365,
     "wof:name":"Oller Associats Corredoria D'assegurances S.a.",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008122833
+    ],
     "wof:tags":[]
 },
   "bbox": [

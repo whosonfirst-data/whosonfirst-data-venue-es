@@ -7,13 +7,16 @@
     "addr:postcode":"14006",
     "addr:street":"Avda Gran Capitan Del;Co\u0301Rdoba",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.7832012177,37.8930664062,-4.7832012177,37.8930664062",
     "geom:latitude":37.893066,
     "geom:longitude":-4.783201,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avda Gran Capitan (del), 46",
     "sg:city":"Cordoba",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472539549,
-    "wof:geomhash":"3db9eadea3371de8e6fd6e8a895c961b",
+    "wof:geomhash":"89b948512cbaf3ac07b8f7c919527295",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991240665,
-    "wof:lastmodified":1472768328,
+    "wof:lastmodified":1510941821,
     "wof:name":"Campos Gomez Y De La Torre C.b.",
     "wof:parent_id":85863891,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991240667
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

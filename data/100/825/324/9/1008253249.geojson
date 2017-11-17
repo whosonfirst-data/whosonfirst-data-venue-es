@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7080249786,40.4204483032,-3.7080249786,40.4204483032",
     "geom:latitude":40.420448,
     "geom:longitude":-3.708025,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Silva, 2",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472616194,
-    "wof:geomhash":"c65ca6cfb3933c4be3d0a944b0617a3c",
+    "wof:geomhash":"492956f963c55936b14a98a7fa0ce6de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":1008253249,
-    "wof:lastmodified":1472767898,
+    "wof:lastmodified":1510942950,
     "wof:name":"Platinum Travel S.a.",
     "wof:parent_id":85863667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008253247
+    ],
     "wof:tags":[]
 },
   "bbox": [

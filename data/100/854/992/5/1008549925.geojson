@@ -7,13 +7,16 @@
     "addr:postcode":"07011",
     "addr:street":"Pg Mallorca",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.6435439587,39.5751495361,2.6435439587,39.5751495361",
     "geom:latitude":39.57515,
     "geom:longitude":2.643544,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Pg Mallorca, 17",
     "sg:city":"Palma",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472632095,
-    "wof:geomhash":"0ca270a31eae555d27eb4ba592eff85f",
+    "wof:geomhash":"667ec554e4cbfce67be2fe42766b2556",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1008549925,
-    "wof:lastmodified":1472769466,
+    "wof:lastmodified":1510944105,
     "wof:name":"Solsegur S. A.",
     "wof:parent_id":85864097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008549929
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.9964289665,37.3909835815,-5.9964289665,37.3909835815",
     "geom:latitude":37.390984,
     "geom:longitude":-5.996429,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Rioja, 25",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472631130,
-    "wof:geomhash":"6aacc8373bdf21bbf39c5e2eddd929c7",
+    "wof:geomhash":"36896bcce685e20de6d77813d6aac008",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1008526695,
-    "wof:lastmodified":1472768988,
+    "wof:lastmodified":1510941644,
     "wof:name":"Simorra Tiendas S.a.",
     "wof:parent_id":85864155,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008526693
+    ],
     "wof:tags":[]
 },
   "bbox": [

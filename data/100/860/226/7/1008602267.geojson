@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28013",
     "addr:street":"Calle De Montera",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7019109726,40.4191513062,-3.7019109726,40.4191513062",
     "geom:latitude":40.419151,
     "geom:longitude":-3.701911,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Montera, 34",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472634353,
-    "wof:geomhash":"7b3b8c49807be01be8fb4ddb41c84457",
+    "wof:geomhash":"4baceee043ed42665ec0efd2d63656f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":1008602267,
-    "wof:lastmodified":1472767575,
+    "wof:lastmodified":1510941355,
     "wof:name":"Teabla S.a.",
     "wof:parent_id":85863791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008602277
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

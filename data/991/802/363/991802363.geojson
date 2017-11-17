@@ -7,6 +7,7 @@
     "addr:postcode":"35012",
     "addr:street":"Calle De Alferez Provisional",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-15.446427,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Calle de Alferez Provisional, 129",
     "sg:city":"Palmas De Gran Canaria",
     "sg:classifiers":[],
@@ -36,12 +37,14 @@
     "wof:geomhash":"43ec477726e6c9a83c1d8b860d7f1801",
     "wof:hierarchy":[],
     "wof:id":991802363,
-    "wof:lastmodified":1510876424,
+    "wof:lastmodified":1510942982,
     "wof:name":"Gobierno De Canarias",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991802365
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

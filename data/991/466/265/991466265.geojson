@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28043",
     "addr:street":"Calle De Arturo Soria",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6508660316,40.448764801,-3.6508660316,40.448764801",
     "geom:latitude":40.448765,
     "geom:longitude":-3.650866,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Arturo Soria, 99",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472552596,
-    "wof:geomhash":"320ae930615254debf57c397293a9895",
+    "wof:geomhash":"354ddd059c0bbb8eaee4c3639c0d7152",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":991466265,
-    "wof:lastmodified":1472769654,
+    "wof:lastmodified":1510943339,
     "wof:name":"Cuzco Motor S.a.",
     "wof:parent_id":85799193,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991466267
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

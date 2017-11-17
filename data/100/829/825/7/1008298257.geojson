@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.4201588631,36.7183189392,-4.4201588631,36.7183189392",
     "geom:latitude":36.718319,
     "geom:longitude":-4.420159,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Centro Comercial Larios Center, S/n",
     "sg:city":"Malaga",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472619240,
-    "wof:geomhash":"adf3f14a5c11947055b153f97bc42a13",
+    "wof:geomhash":"9d7ced8a24f71c75602d66db5f1c63ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":1008298257,
-    "wof:lastmodified":1472769107,
+    "wof:lastmodified":1510943804,
     "wof:name":"Pull & Bear Espa\u00f1a S.a.",
     "wof:parent_id":85863491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008298247
+    ],
     "wof:tags":[]
 },
   "bbox": [

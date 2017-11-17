@@ -7,13 +7,16 @@
     "addr:postcode":"08003",
     "addr:street":"Via Laietana",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1773486137,41.385055542,2.1773486137,41.385055542",
     "geom:latitude":41.385056,
     "geom:longitude":2.177349,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Laietana, 32",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472521998,
-    "wof:geomhash":"3d1602b9f22da90adc243b31df39fcd5",
+    "wof:geomhash":"fbac0a19552e1cb3ac0ee717f8dbef0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991037329,
-    "wof:lastmodified":1472766806,
+    "wof:lastmodified":1510944048,
     "wof:name":"Asociacion Gabinete Tecnico Comercial",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991037333
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

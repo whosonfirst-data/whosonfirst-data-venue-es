@@ -7,13 +7,16 @@
     "addr:postcode":"18005",
     "addr:street":"Calle De Acera Del Darro",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.5985016823,37.1709899902,-3.5985016823,37.1709899902",
     "geom:latitude":37.17099,
     "geom:longitude":-3.598502,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Acera Del Darro, 54",
     "sg:city":"Granada",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472536922,
-    "wof:geomhash":"c6574f4be87e56f413b2dfbdf3dc26b4",
+    "wof:geomhash":"5f87eb028e849a2707ff1d79e28d6154",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":991205419,
-    "wof:lastmodified":1472768048,
+    "wof:lastmodified":1510943936,
     "wof:name":"Caixa D'estalvis I Pensions De Barcelona",
     "wof:parent_id":85863845,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991205421
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

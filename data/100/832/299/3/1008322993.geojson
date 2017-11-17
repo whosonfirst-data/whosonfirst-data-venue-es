@@ -7,13 +7,16 @@
     "addr:postcode":"08006",
     "addr:street":"Carrer De Tuset",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1528499126,41.3954925537,2.1528499126,41.3954925537",
     "geom:latitude":41.395493,
     "geom:longitude":2.15285,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Carrer de Tuset, 8",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472622294,
-    "wof:geomhash":"0a744d2058b0d4390136d58190516262",
+    "wof:geomhash":"5db89b9e6ddeea4e892f6155ba88601a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1008322993,
-    "wof:lastmodified":1472767981,
+    "wof:lastmodified":1510941689,
     "wof:name":"R.c.k. S.a.",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008322995
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

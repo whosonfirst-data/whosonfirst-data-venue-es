@@ -7,13 +7,16 @@
     "addr:postcode":"08915",
     "addr:street":"Avgd Conflent",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.240240097,41.465045929,2.240240097,41.465045929",
     "geom:latitude":41.465046,
     "geom:longitude":2.24024,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avgd Conflent, S/n",
     "sg:city":"Badalona",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472545650,
-    "wof:geomhash":"d90d100ef1c2b5fd336864afde31171f",
+    "wof:geomhash":"75569858c05ad73afbe8877c9b459d65",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":991357723,
-    "wof:lastmodified":1472769813,
+    "wof:lastmodified":1510942584,
     "wof:name":"Codan S.a.",
     "wof:parent_id":85799485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991357725
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

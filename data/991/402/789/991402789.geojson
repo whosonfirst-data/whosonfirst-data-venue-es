@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6816558838,40.4365234375,-3.6816558838,40.4365234375",
     "geom:latitude":40.436523,
     "geom:longitude":-3.681656,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Nu\u00d1ez De Balboa, 114",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472548964,
-    "wof:geomhash":"458e40ddbcf3c6b23fcb6412cc4225cd",
+    "wof:geomhash":"d69e597f7afb50fb0b7b918c4c8afb01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":991402789,
-    "wof:lastmodified":1472769764,
+    "wof:lastmodified":1510942237,
     "wof:name":"Confederacion Espa\u00f1ola De Empresarios De Estaciones De Servicio S.",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991402773
+    ],
     "wof:tags":[]
 },
   "bbox": [

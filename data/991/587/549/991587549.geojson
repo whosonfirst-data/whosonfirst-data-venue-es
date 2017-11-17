@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1378250122,41.3903427124,2.1378250122,41.3903427124",
     "geom:latitude":41.390343,
     "geom:longitude":2.137825,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Carrer de Enten\u00c7a, 332",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472559030,
-    "wof:geomhash":"1037b2b1894f9e298c889e24c8eb2187",
+    "wof:geomhash":"d61b1188d0983751bed1bd8a10cdc38d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":991587549,
-    "wof:lastmodified":1472770099,
+    "wof:lastmodified":1510942986,
     "wof:name":"Essal Gestion S.l.",
     "wof:parent_id":85799597,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991587547
+    ],
     "wof:tags":[]
 },
   "bbox": [

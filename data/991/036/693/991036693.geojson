@@ -7,13 +7,16 @@
     "addr:postcode":"28033",
     "addr:street":"Calle De Condado De Trevin\u0303O",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6710348129,40.4776687622,-3.6710348129,40.4776687622",
     "geom:latitude":40.477669,
     "geom:longitude":-3.671035,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Condado De Trevi\u00d1o, 2",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472521943,
-    "wof:geomhash":"26218621889777d0b3019bff794e9239",
+    "wof:geomhash":"7ddc850885bb8582a70863b256722466",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991036693,
-    "wof:lastmodified":1472766943,
+    "wof:lastmodified":1510943158,
     "wof:name":"Asociacion Espa\u00f1ola De Biopatologia Medica",
     "wof:parent_id":85863567,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991036695
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

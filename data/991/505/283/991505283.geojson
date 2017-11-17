@@ -7,13 +7,16 @@
     "addr:postcode":"33209",
     "addr:street":"Calle De Rio De;S / N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.6639389992,43.5266647339,-5.6639389992,43.5266647339",
     "geom:latitude":43.526665,
     "geom:longitude":-5.663939,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Rio De Oro, S/n",
     "sg:city":"Gijon",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472554671,
-    "wof:geomhash":"c44ecb337653143524a2fe478363dd1d",
+    "wof:geomhash":"c2bd041fd0046761a4e4656158755299",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":991505283,
-    "wof:lastmodified":1472769946,
+    "wof:lastmodified":1510943996,
     "wof:name":"Dimodes S.a.",
     "wof:parent_id":85799415,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991505285
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

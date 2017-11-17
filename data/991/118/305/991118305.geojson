@@ -7,13 +7,16 @@
     "addr:postcode":"50001",
     "addr:street":"Calle De Coso",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.8787890077,41.6514396667,-0.8787890077,41.6514396667",
     "geom:latitude":41.65144,
     "geom:longitude":-0.878789,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Coso, 67",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472528218,
-    "wof:geomhash":"f4ec01801aba8074d26c8d79732d2775",
+    "wof:geomhash":"b95ecec704835488a4ecc860f481789f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991118305,
-    "wof:lastmodified":1472767206,
+    "wof:lastmodified":1510943858,
     "wof:name":"Barrios & Pelles S.l.",
     "wof:parent_id":85863349,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991118307
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

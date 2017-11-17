@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.9596791267,37.3278617859,-5.9596791267,37.3278617859",
     "geom:latitude":37.327862,
     "geom:longitude":-5.959679,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Pol Ind Palmera, S/n",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472595010,
-    "wof:geomhash":"c3960b7fd860dc163df277716ca239f7",
+    "wof:geomhash":"8db2081ed3552274bfd2fe2817f16278",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,13 +46,15 @@
         }
     ],
     "wof:id":1007995721,
-    "wof:lastmodified":1472768573,
+    "wof:lastmodified":1510941397,
     "wof:name":"Miguel Angel Palomo S.a.",
     "wof:parent_id":85864195,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1007995717
+    ],
     "wof:tags":[]
 },
   "bbox": [

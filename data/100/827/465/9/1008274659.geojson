@@ -7,6 +7,7 @@
     "addr:postcode":"33005",
     "addr:street":"Calle De Coronel Aranda",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-5.855883,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Calle de Coronel Aranda, S/n",
     "sg:city":"Oviedo",
     "sg:classifiers":[],
@@ -36,13 +37,19 @@
     "wof:geomhash":"62d645b00197808553fa28a99157b1f8",
     "wof:hierarchy":[],
     "wof:id":1008274659,
-    "wof:lastmodified":1510699994,
+    "wof:lastmodified":1510943989,
     "wof:name":"Principado De Asturias",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1008274753,
+        1008274829,
+        1008274703
+    ],
+    "wof:supersedes":[
+        1008274649
+    ],
     "wof:tags":[]
 },
   "bbox": [

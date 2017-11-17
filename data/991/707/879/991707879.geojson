@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7081520557,40.4169235229,-3.7081520557,40.4169235229",
     "geom:latitude":40.416924,
     "geom:longitude":-3.708152,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Hileras, 4",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472565838,
-    "wof:geomhash":"c3b5a0c64418e42cfbe7516f8d612b8b",
+    "wof:geomhash":"d4b21f62e39a1b39968fb0c6d7b424da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":991707879,
-    "wof:lastmodified":1472770443,
+    "wof:lastmodified":1510941587,
     "wof:name":"Fundacion Iberoamericana Para La Gestion De La Calidad",
     "wof:parent_id":85863747,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991707877
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.7796831131,37.885509491,-4.7796831131,37.885509491",
     "geom:latitude":37.885509,
     "geom:longitude":-4.779683,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de San Alvaro, 8",
     "sg:city":"Cordoba",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472566686,
-    "wof:geomhash":"6162c16e923882f7737613ce8dbe6386",
+    "wof:geomhash":"9e8310346e08ada98c16763b3c31fd73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":991724407,
-    "wof:lastmodified":1472770334,
+    "wof:lastmodified":1510941457,
     "wof:name":"Gallego Diaz Servicio Inmobiliario S.l.",
     "wof:parent_id":85863901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991724405
+    ],
     "wof:tags":[]
 },
   "bbox": [

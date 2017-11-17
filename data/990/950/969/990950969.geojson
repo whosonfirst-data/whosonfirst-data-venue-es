@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6286475658,40.4345855713,-3.6286475658,40.4345855713",
     "geom:latitude":40.434586,
     "geom:longitude":-3.628648,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Julian Camarillo, 29",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472514597,
-    "wof:geomhash":"3bd063a9fdd56aabdddb5e2853b3f645",
+    "wof:geomhash":"028c4aaabda5ba130848bb1e15b06860",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":990950969,
-    "wof:lastmodified":1472767905,
+    "wof:lastmodified":1510942028,
     "wof:name":"Altran C.i.s S.a.u",
     "wof:parent_id":85863641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        990950965
+    ],
     "wof:tags":[]
 },
   "bbox": [

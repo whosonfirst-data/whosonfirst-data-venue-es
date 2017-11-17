@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6625430584,40.4867019653,-3.6625430584,40.4867019653",
     "geom:latitude":40.486702,
     "geom:longitude":-3.662543,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avda Fuente De La Mora, 2",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472578148,
-    "wof:geomhash":"1c39f9c559569ed63cf05f7833ed05fd",
+    "wof:geomhash":"bd3bd3cfe380d6e6fc7f0a335175f85e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":991913403,
-    "wof:lastmodified":1472770598,
+    "wof:lastmodified":1510943884,
     "wof:name":"Hilti Espa\u00d1ola S.a.",
     "wof:parent_id":85863575,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991913401
+    ],
     "wof:tags":[]
 },
   "bbox": [

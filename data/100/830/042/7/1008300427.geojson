@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28013",
     "addr:street":"Calle De Gran Via",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.710111618,40.4228477478,-3.710111618,40.4228477478",
     "geom:latitude":40.422848,
     "geom:longitude":-3.710112,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Gran Via, 67",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472620044,
-    "wof:geomhash":"94fcc6f344512bebc409e412f1804a88",
+    "wof:geomhash":"e7581ec431aaaa012be529f842a4bdca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1008300427,
-    "wof:lastmodified":1472766827,
+    "wof:lastmodified":1510943349,
     "wof:name":"Pyxis S.l.",
     "wof:parent_id":85863667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008300431
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

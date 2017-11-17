@@ -7,13 +7,16 @@
     "addr:postcode":"08003",
     "addr:street":"Via Laietana",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1774599552,41.3851470947,2.1774599552,41.3851470947",
     "geom:latitude":41.385147,
     "geom:longitude":2.17746,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Via Laietana, 32",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472539432,
-    "wof:geomhash":"7189624ae196279fde2c2934d76c5e1f",
+    "wof:geomhash":"7e231a1b7a31e467cf90910e16c43881",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991238399,
-    "wof:lastmodified":1472768268,
+    "wof:lastmodified":1510941930,
     "wof:name":"Campa\u00f1a De Proteccion Ocular",
     "wof:parent_id":85799447,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991238401
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

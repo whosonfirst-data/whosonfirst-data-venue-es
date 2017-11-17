@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.8802909851,41.6507263184,-0.8802909851,41.6507263184",
     "geom:latitude":41.650726,
     "geom:longitude":-0.880291,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de San Miguel, 12",
     "sg:city":"Zaragoza",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472580457,
-    "wof:geomhash":"814c45e747466eca662d22f77566e587",
+    "wof:geomhash":"053b403d80a2ed8d9e3ff1509ae98e5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1007688901,
-    "wof:lastmodified":1472769134,
+    "wof:lastmodified":1510941474,
     "wof:name":"Inmobiliaria Roberto Machin S.l.",
     "wof:parent_id":85863361,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1007688899
+    ],
     "wof:tags":[]
 },
   "bbox": [

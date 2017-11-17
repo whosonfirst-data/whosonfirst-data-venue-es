@@ -7,6 +7,7 @@
     "addr:postcode":"15003",
     "addr:street":"Calle De San Andres;Corun\u0303A",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-8.403604,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Calle de San Andres, 82",
     "sg:city":"Coru\u00d1a",
     "sg:classifiers":[],
@@ -37,12 +38,14 @@
     "wof:geomhash":"6c4dc46931fe512ddd8968e2e9ac397a",
     "wof:hierarchy":[],
     "wof:id":1008713969,
-    "wof:lastmodified":1510877420,
+    "wof:lastmodified":1510943342,
     "wof:name":"Viajes Halcon S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008713971
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

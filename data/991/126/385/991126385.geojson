@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28009",
     "addr:street":"Avda Menendez Pelayo",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6764230728,40.4122047424,-3.6764230728,40.4122047424",
     "geom:latitude":40.412205,
     "geom:longitude":-3.676423,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avda Menendez Pelayo, 67",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472529034,
-    "wof:geomhash":"487c17132b9af5d88087a78ebaea8d23",
+    "wof:geomhash":"5fe10e8a06f5251278f16d6b9ada88d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991126385,
-    "wof:lastmodified":1472767310,
+    "wof:lastmodified":1510944181,
     "wof:name":"Bb & J Consult S.a.",
     "wof:parent_id":85863689,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991126387
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"48903",
     "addr:street":"Calle De Kareaga",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.0026290417,43.2843818665,-3.0026290417,43.2843818665",
     "geom:latitude":43.284382,
     "geom:longitude":-3.002629,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Kareaga, S/n",
     "sg:city":"San Vicente De Barakaldo",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472633612,
-    "wof:geomhash":"f4ab31c6d99c6091312ad5c9ebb71356",
+    "wof:geomhash":"0f6a0908752a8920f9ede251e96aeceb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1008586217,
-    "wof:lastmodified":1472768824,
+    "wof:lastmodified":1510941498,
     "wof:name":"Talleres Galaferr S.a.",
     "wof:parent_id":85799675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008586219
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

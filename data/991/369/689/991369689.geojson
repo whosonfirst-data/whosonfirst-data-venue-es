@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6492519379,40.3962020874,-3.6492519379,40.3962020874",
     "geom:latitude":40.396202,
     "geom:longitude":-3.649252,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Calle de Mohernando, 1",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -34,11 +36,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":289775688,
         "sg:id":"SG_54SfQkfWFwaOm9z7ezfKUl_40.396202_-3.649252@1306269476"
     },
     "wof:country":"ES",
     "wof:created":1472546656,
-    "wof:geomhash":"29a609c3819eb2136ebb61892d022216",
+    "wof:geomhash":"4c412037494adb0b56705c0e595a38c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":991369689,
-    "wof:lastmodified":1472769824,
+    "wof:lastmodified":1510943871,
     "wof:name":"Colegio Publico Virgen Del Cerro",
     "wof:parent_id":85863721,
     "wof:placetype":"venue",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1643321514,41.3948745728,2.1643321514,41.3948745728",
     "geom:latitude":41.394875,
     "geom:longitude":2.164332,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Carrer de Pau Claris, 162",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472521715,
-    "wof:geomhash":"acb4a5aa518212496e7ef349c0568075",
+    "wof:geomhash":"e9f011240d0cc96123abc140f3b6783a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":991033673,
-    "wof:lastmodified":1472766893,
+    "wof:lastmodified":1510941481,
     "wof:name":"Asociacion De Jugadores De Baloncesto",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991033671
+    ],
     "wof:tags":[]
 },
   "bbox": [

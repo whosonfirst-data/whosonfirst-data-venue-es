@@ -7,13 +7,16 @@
     "addr:postcode":"41007",
     "addr:street":"Calle De Luis Montoto",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.9702367783,37.387550354,-5.9702367783,37.387550354",
     "geom:latitude":37.38755,
     "geom:longitude":-5.970237,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Luis Montoto, 107",
     "sg:city":"Sevilla",
     "sg:classifiers":[
@@ -50,7 +53,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472599112,
-    "wof:geomhash":"76a48e3f4a52248e6f45033b509dd1a1",
+    "wof:geomhash":"a516fcbfe56c37a811a1ed3cc35bc2e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,12 +67,14 @@
         }
     ],
     "wof:id":1008090599,
-    "wof:lastmodified":1472766880,
+    "wof:lastmodified":1510941227,
     "wof:name":"Nestle Espa\u00f1a S.a.",
     "wof:parent_id":85864159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008090601
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "confiter\u00cdas",

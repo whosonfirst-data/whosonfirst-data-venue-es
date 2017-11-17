@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28004",
     "addr:street":"Calle De Barquillo",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.695841074,40.4215316772,-3.695841074,40.4215316772",
     "geom:latitude":40.421532,
     "geom:longitude":-3.695841,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Barquillo, 15",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472639324,
-    "wof:geomhash":"ef7b06135d1f1c922905f92a829a427a",
+    "wof:geomhash":"7b85c9bac9814cc98b040a0f8b650174",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1008717343,
-    "wof:lastmodified":1472769147,
+    "wof:lastmodified":1510942649,
     "wof:name":"Viajes Transtur S.a.",
     "wof:parent_id":85863791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008717347
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

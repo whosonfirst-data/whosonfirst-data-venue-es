@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28003",
     "addr:street":"Calle De Ponzano",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6992704868,40.4400062561,-3.6992704868,40.4400062561",
     "geom:latitude":40.440006,
     "geom:longitude":-3.69927,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Ponzano, 39",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472586972,
-    "wof:geomhash":"b22bba7ef8d55e1c4d9a7c37ae46e326",
+    "wof:geomhash":"13824e25c00d203ec455c459d0619b62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1007812401,
-    "wof:lastmodified":1472767546,
+    "wof:lastmodified":1510943240,
     "wof:name":"Littelfuse B.v. Oficina De Representacion En Espa\u00f1a",
     "wof:parent_id":85863649,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1007812403
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

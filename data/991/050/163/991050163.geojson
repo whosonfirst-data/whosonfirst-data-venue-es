@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6166512966,40.4635276794,-3.6166512966,40.4635276794",
     "geom:latitude":40.463528,
     "geom:longitude":-3.616651,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avda Partenon, 10",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472522936,
-    "wof:geomhash":"8ecac7681223dc6108cf1fbf4f3824e0",
+    "wof:geomhash":"37ae20531ebaa04932699bdee57eb467",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":991050163,
-    "wof:lastmodified":1472766730,
+    "wof:lastmodified":1510942992,
     "wof:name":"Audiovisuales Y Telecomunicacion S.a.",
     "wof:parent_id":85863803,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991050161
+    ],
     "wof:tags":[]
 },
   "bbox": [

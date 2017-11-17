@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6908459663,40.4281921387,-3.6908459663,40.4281921387",
     "geom:latitude":40.428192,
     "geom:longitude":-3.690846,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Fernando El Santo, 25",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472630824,
-    "wof:geomhash":"f05a3104ab139467ee68f3d61102dec8",
+    "wof:geomhash":"9a7db8a11dec1b5c8b040e89504ccb3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":1008519353,
-    "wof:lastmodified":1472769288,
+    "wof:lastmodified":1510942912,
     "wof:name":"Sfitaroma S.a.",
     "wof:parent_id":85863671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008519351
+    ],
     "wof:tags":[]
 },
   "bbox": [

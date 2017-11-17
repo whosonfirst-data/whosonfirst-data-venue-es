@@ -7,13 +7,16 @@
     "addr:postcode":"41005",
     "addr:street":"Avda San Francisco Javier S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.9732937813,37.3819160461,-5.9732937813,37.3819160461",
     "geom:latitude":37.381916,
     "geom:longitude":-5.973294,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avda San Francisco Javier, S/n",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472537080,
-    "wof:geomhash":"923b631c8835c87a8bf0ec063494752f",
+    "wof:geomhash":"2086b20f7d179ecdb605bf5288b982e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":991207231,
-    "wof:lastmodified":1472767965,
+    "wof:lastmodified":1510942904,
     "wof:name":"Caixa D'estalvis I Pensions De Barcelona",
     "wof:parent_id":85864173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991207235
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

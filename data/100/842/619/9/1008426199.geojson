@@ -7,13 +7,16 @@
     "addr:postcode":"08010",
     "addr:street":"Pl Urquinaona",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1731050014,41.389629364,2.1731050014,41.389629364",
     "geom:latitude":41.389629,
     "geom:longitude":2.173105,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Pl Urquinaona, 6",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472626977,
-    "wof:geomhash":"8914235a8c86c6ac0aba567550f03313",
+    "wof:geomhash":"bb72f4bc6c6131b9f7578d6d31932d0c",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":1008426199,
-    "wof:lastmodified":1472768727,
+    "wof:lastmodified":1510942601,
     "wof:name":"Rumbo America S.l.",
     "wof:parent_id":85864029,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008426201
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

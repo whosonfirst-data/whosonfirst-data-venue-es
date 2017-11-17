@@ -7,13 +7,16 @@
     "addr:postcode":"48010",
     "addr:street":"Alam Urquijo",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.9351429939,43.2599639893,-2.9351429939,43.2599639893",
     "geom:latitude":43.259964,
     "geom:longitude":-2.935143,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Alam Urquijo, 28",
     "sg:city":"Bilbao",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472556646,
-    "wof:geomhash":"46d9956f22e56ba157c3e979e2e2d8b1",
+    "wof:geomhash":"9f660d033c6d4245842f9e484013847f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991542647,
-    "wof:lastmodified":1472770108,
+    "wof:lastmodified":1510942001,
     "wof:name":"Eguia Ingenieros S.c.",
     "wof:parent_id":85863957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991542649
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

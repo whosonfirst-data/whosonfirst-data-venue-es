@@ -7,13 +7,16 @@
     "addr:postcode":"30380",
     "addr:street":"",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.7281540036,37.6686553955,-0.7281540036,37.6686553955",
     "geom:latitude":37.668655,
     "geom:longitude":-0.728154,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Urb Zambra I-ii, 5",
     "sg:city":"Manga Mar Menor",
     "sg:classifiers":[],
@@ -30,16 +33,20 @@
     },
     "wof:country":"ES",
     "wof:created":1472569331,
-    "wof:geomhash":"3dae8763a03f169d6be538b1af0664f4",
+    "wof:geomhash":"ed9176fc91a7fcd6a6eb8fb882ca1eb2",
     "wof:hierarchy":[],
     "wof:id":991765183,
-    "wof:lastmodified":1472770283,
+    "wof:lastmodified":1510942878,
     "wof:name":"Garcia Toledo Jose Garcia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        991765183
+    ],
+    "wof:supersedes":[
+        991765183
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.9953188896,37.3939208984,-5.9953188896,37.3939208984",
     "geom:latitude":37.393921,
     "geom:longitude":-5.995319,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Trajano, 2",
     "sg:city":"Sevilla",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472543779,
-    "wof:geomhash":"053e4732e9ed3384fe64807e10d8abb9",
+    "wof:geomhash":"a2d75fa23e01d1327461e372d3363cb6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":991324587,
-    "wof:lastmodified":1472769805,
+    "wof:lastmodified":1510943684,
     "wof:name":"Cereales Sevilla S.cooperativa Andaluza",
     "wof:parent_id":85864155,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991324585
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"18015",
     "addr:street":"Avda Andalucia De S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6259539127,37.1940231323,-3.6259539127,37.1940231323",
     "geom:latitude":37.194023,
     "geom:longitude":-3.625954,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avda Andalucia (de), S/n",
     "sg:city":"Granada",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472557079,
-    "wof:geomhash":"b4351db8b0490905e866c35dd6397332",
+    "wof:geomhash":"99ec7e23fd6d4f2dc56b9edb4c1a33d9",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":991550879,
-    "wof:lastmodified":1472770175,
+    "wof:lastmodified":1510943207,
     "wof:name":"Electrofil Andalucia S.a.",
     "wof:parent_id":85863831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991550885
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

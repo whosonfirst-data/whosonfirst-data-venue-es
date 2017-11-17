@@ -7,13 +7,16 @@
     "addr:postcode":"39600",
     "addr:street":"",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.8458189964,43.4184341431,-3.8458189964,43.4184341431",
     "geom:latitude":43.418434,
     "geom:longitude":-3.845819,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Poli Camargo, S/n",
     "sg:city":"Malia\u00d1o",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472632920,
-    "wof:geomhash":"a3f0ec43809901109704736509c7983b",
+    "wof:geomhash":"891c8708ece90bcd5f38f91a59ae4232",
     "wof:hierarchy":[
         {
             "campus_id":102545823,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":1008568785,
-    "wof:lastmodified":1472769155,
+    "wof:lastmodified":1510942411,
     "wof:name":"Suministros De Articulos Para La Decoracion",
     "wof:parent_id":102545823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008568787
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

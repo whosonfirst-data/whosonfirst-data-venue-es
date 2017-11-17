@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6405899525,40.5355644226,-3.6405899525,40.5355644226",
     "geom:latitude":40.535564,
     "geom:longitude":-3.64059,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avda Industria (de La), 2",
     "sg:city":"Alcobendas",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472631687,
-    "wof:geomhash":"7e2c920f19657146693576fd0b9ebec8",
+    "wof:geomhash":"07c92c80bf10f1cd6ee1dd41e22e6352",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -44,13 +46,15 @@
         }
     ],
     "wof:id":1008539777,
-    "wof:lastmodified":1472769373,
+    "wof:lastmodified":1510943045,
     "wof:name":"Sociedad Espa\u00d1ola Del Acumulador Tudor S.a.",
     "wof:parent_id":85799389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008539769
+    ],
     "wof:tags":[]
 },
   "bbox": [

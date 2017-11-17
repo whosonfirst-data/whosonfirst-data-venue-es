@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28006",
     "addr:street":"Calle De General Pardin\u0303As",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6777029037,40.4340324402,-3.6777029037,40.4340324402",
     "geom:latitude":40.434032,
     "geom:longitude":-3.677703,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de General Pardi\u00d1as, 96",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472540189,
-    "wof:geomhash":"c94aa931dc11556201356c2a659d5544",
+    "wof:geomhash":"f2e0a9390d9e9ed37852104b3806bce7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":991252493,
-    "wof:lastmodified":1472768388,
+    "wof:lastmodified":1510943713,
     "wof:name":"Caprabo S.a.",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991252495
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

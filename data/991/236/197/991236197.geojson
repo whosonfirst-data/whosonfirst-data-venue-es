@@ -7,13 +7,16 @@
     "addr:postcode":"",
     "addr:street":"Carr Jaume I;Girona",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.8196520805,41.9833221436,2.8196520805,41.9833221436",
     "geom:latitude":41.983322,
     "geom:longitude":2.819652,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Carr Jaume I, 46",
     "sg:city":"Girona",
     "sg:classifiers":[],
@@ -30,16 +33,20 @@
     },
     "wof:country":"ES",
     "wof:created":1472539332,
-    "wof:geomhash":"69d64bcff566745d0b98f53371e295d6",
+    "wof:geomhash":"ea3092dc47f488d492eb894088eb31bf",
     "wof:hierarchy":[],
     "wof:id":991236197,
-    "wof:lastmodified":1472768137,
+    "wof:lastmodified":1510942302,
     "wof:name":"Camara Oficial De Comercio Industria Y Navegacion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        991236201
+    ],
+    "wof:supersedes":[
+        991236189
+    ],
     "wof:tags":[]
 },
   "bbox": [

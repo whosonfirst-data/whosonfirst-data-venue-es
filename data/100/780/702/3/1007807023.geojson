@@ -7,13 +7,16 @@
     "addr:postcode":"1 madrid;28013",
     "addr:street":"",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7060871124,40.4197807312,-3.7060871124,40.4197807312",
     "geom:latitude":40.419781,
     "geom:longitude":-3.706087,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Plaz Callao, 1",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472586693,
-    "wof:geomhash":"15c2741b77cc7761f3e06b6860b1c717",
+    "wof:geomhash":"0f561869e8a00eb1def8b3d63db75e5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1007807023,
-    "wof:lastmodified":1472769256,
+    "wof:lastmodified":1510941537,
     "wof:name":"L.i.c.t.o.r. Abogados",
     "wof:parent_id":85863667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1007807025
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

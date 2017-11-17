@@ -7,13 +7,16 @@
     "addr:postcode":"08006",
     "addr:street":"Av Diagonal",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1526670456,41.3951301575,2.1526670456,41.3951301575",
     "geom:latitude":41.39513,
     "geom:longitude":2.152667,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Av Diagonal, 520",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472585207,
-    "wof:geomhash":"6bddabee6754d35345e573575b025ca1",
+    "wof:geomhash":"b9854481361419c6e8add91a7f45bae9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1007779613,
-    "wof:lastmodified":1472769551,
+    "wof:lastmodified":1510942601,
     "wof:name":"La Gloria Producciones S.a.",
     "wof:parent_id":85864017,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1007779615
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"07008",
     "addr:street":"Carrer De Pare Jeroni Boscan",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":2.674884,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Carrer de Pare Jeroni Boscan, 24",
     "sg:city":"Palma",
     "sg:classifiers":[],
@@ -55,12 +56,14 @@
         }
     ],
     "wof:id":991097321,
-    "wof:lastmodified":1510693908,
+    "wof:lastmodified":1510941356,
     "wof:name":"Banca March S.a.",
     "wof:parent_id":85864089,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991097353
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

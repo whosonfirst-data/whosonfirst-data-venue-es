@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6960794926,40.4492835999,-3.6960794926,40.4492835999",
     "geom:latitude":40.449284,
     "geom:longitude":-3.696079,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Basilica, 17",
     "sg:city":"Madrid",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472557366,
-    "wof:geomhash":"36f34340690aa83a226789e29a28bf0f",
+    "wof:geomhash":"b39f209e25bbd2135dcbb61c7d2ac105",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,13 +76,15 @@
         }
     ],
     "wof:id":991555845,
-    "wof:lastmodified":1472770170,
+    "wof:lastmodified":1510944106,
     "wof:name":"Elipse Servicios De Marketing S.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991555843
+    ],
     "wof:tags":[
         "asesor\u00cda",
         "en",

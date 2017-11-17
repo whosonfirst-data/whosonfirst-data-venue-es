@@ -7,6 +7,7 @@
     "addr:postcode":"31013",
     "addr:street":"/ N Irun\u0303A Navarra",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-97.782249,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"A Pol Ind Comarca I (agustinos), S/n",
     "sg:city":"Iru\u00f1a",
     "sg:classifiers":[],
@@ -36,12 +37,14 @@
     "wof:geomhash":"6bd77d61f137a2efe790128111e98a9c",
     "wof:hierarchy":[],
     "wof:id":991572429,
-    "wof:lastmodified":1510697382,
+    "wof:lastmodified":1510942561,
     "wof:name":"Eroski Sociedad Cooperativa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991572441
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

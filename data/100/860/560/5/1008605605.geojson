@@ -7,13 +7,16 @@
     "addr:postcode":"08006",
     "addr:street":"Carrer De Sant Elies",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1441729069,41.4008483887,2.1441729069,41.4008483887",
     "geom:latitude":41.400848,
     "geom:longitude":2.144173,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Carrer de Sant Elies, 29",
     "sg:city":"Barcelona",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472634498,
-    "wof:geomhash":"4731df528ccc4de6f9ccd58c97bad82f",
+    "wof:geomhash":"59ad40f67fda215125734e2d28706d64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":1008605605,
-    "wof:lastmodified":1472768816,
+    "wof:lastmodified":1510943379,
     "wof:name":"Tecno-auto Marketing S.l.",
     "wof:parent_id":85799611,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008605607
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "asesor\u00cda",

@@ -7,6 +7,7 @@
     "addr:postcode":"28008",
     "addr:street":"",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-3.721274,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Pase Florida, S/n",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -56,12 +57,15 @@
         }
     ],
     "wof:id":1008715907,
-    "wof:lastmodified":1510875004,
+    "wof:lastmodified":1510943296,
     "wof:name":"Viajes Marsans S.a.",
     "wof:parent_id":85863669,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008715919,
+        1008715985
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

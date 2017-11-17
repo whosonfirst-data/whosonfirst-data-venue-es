@@ -7,6 +7,7 @@
     "addr:postcode":"01140",
     "addr:street":"Gorbeia;A\u0301Lava",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-2.71023,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Parque Comercial Del Gorbeia, 1",
     "sg:city":"Etxabarri Ibi\u00f1a",
     "sg:classifiers":[],
@@ -37,12 +38,14 @@
     "wof:geomhash":"ee699c810a0d13a591435c8f2172643d",
     "wof:hierarchy":[],
     "wof:id":991438665,
-    "wof:lastmodified":1510874745,
+    "wof:lastmodified":1510943108,
     "wof:name":"Cortefiel S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991438679
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

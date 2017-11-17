@@ -7,13 +7,16 @@
     "addr:postcode":"46003",
     "addr:street":"Calle De Avellanas",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.374206394,39.4746589661,-0.374206394,39.4746589661",
     "geom:latitude":39.474659,
     "geom:longitude":-0.374206,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Avellanas, 14",
     "sg:city":"Valencia",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472561667,
-    "wof:geomhash":"88009b98018ef96f49c0eaab1a328748",
+    "wof:geomhash":"112abca3c4d0e732afda3120ce58bf8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":991627971,
-    "wof:lastmodified":1472770267,
+    "wof:lastmodified":1510941390,
     "wof:name":"Federacion Hipica Comunidad Valenciana",
     "wof:parent_id":85864217,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991627973
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

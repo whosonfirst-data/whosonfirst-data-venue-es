@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6889019012,40.4256782532,-3.6889019012,40.4256782532",
     "geom:latitude":40.425678,
     "geom:longitude":-3.688902,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Goya, 5",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472558752,
-    "wof:geomhash":"0ecdc30b391bac1999fed6f4e441a729",
+    "wof:geomhash":"7c059eadacb1f16a840c09bcbe7ec270",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":991581113,
-    "wof:lastmodified":1472769924,
+    "wof:lastmodified":1510943657,
     "wof:name":"Esgueva S. A.",
     "wof:parent_id":85863809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991581109
+    ],
     "wof:tags":[]
 },
   "bbox": [

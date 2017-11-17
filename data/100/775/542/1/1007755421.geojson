@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7007451057,40.4286460876,-3.7007451057,40.4286460876",
     "geom:latitude":40.428646,
     "geom:longitude":-3.700745,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Sagasta, 8",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472583995,
-    "wof:geomhash":"7aa79c88222438f9d127d269ee43cef8",
+    "wof:geomhash":"e77aad0eccffb3acb2806838c748ff61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":1007755421,
-    "wof:lastmodified":1472768625,
+    "wof:lastmodified":1510942282,
     "wof:name":"Juan Solano O\u00f1a S L",
     "wof:parent_id":85863665,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1007755419
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"28021",
     "addr:street":"Avda Marconi",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.695168972,40.3340301514,-3.695168972,40.3340301514",
     "geom:latitude":40.33403,
     "geom:longitude":-3.695169,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Avda Marconi, S/n",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472631359,
-    "wof:geomhash":"d993dca8e1ad40d9fd6ac127784c0e0e",
+    "wof:geomhash":"1979be0a8c368b526998ab0032d1724d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1008532481,
-    "wof:lastmodified":1472767616,
+    "wof:lastmodified":1510942378,
     "wof:name":"Slind Parts S.a.",
     "wof:parent_id":85799667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1008532483
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

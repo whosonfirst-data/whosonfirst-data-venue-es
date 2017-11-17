@@ -7,13 +7,16 @@
     "addr:postcode":"33394",
     "addr:street":"/ N Bernueces Asturias",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.7123498917,43.5202293396,-5.7123498917,43.5202293396",
     "geom:latitude":43.520229,
     "geom:longitude":-5.71235,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Castiello-urb. El Condomio, S/n",
     "sg:city":"Bernueces",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472546034,
-    "wof:geomhash":"76b7a2f13c5237948046a7ef535a2429",
+    "wof:geomhash":"ebb313113213cb19a3c33ab3d0293f86",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991362139,
-    "wof:lastmodified":1472769626,
+    "wof:lastmodified":1510943162,
     "wof:name":"Colegio De Castiello",
     "wof:parent_id":85799415,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991362143
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

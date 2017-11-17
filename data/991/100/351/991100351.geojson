@@ -7,13 +7,16 @@
     "addr:postcode":"08026",
     "addr:street":"Carrer De Independencia",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1820240021,41.4090156555,2.1820240021,41.4090156555",
     "geom:latitude":41.409016,
     "geom:longitude":2.182024,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Carrer de Independencia, 296",
     "sg:city":"Barcelona",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472526840,
-    "wof:geomhash":"03fbe0939ba6ce275b9cfb79b4452de3",
+    "wof:geomhash":"114f70c5e1834ad4d68bc76718ebf015",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":991100351,
-    "wof:lastmodified":1472767200,
+    "wof:lastmodified":1510943688,
     "wof:name":"Banco Espa\u00f1ol De Credito S.a.",
     "wof:parent_id":85799265,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991100357
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

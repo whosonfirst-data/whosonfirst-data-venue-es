@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.7011590004,40.4213294983,-3.7011590004,40.4213294983",
     "geom:latitude":40.421329,
     "geom:longitude":-3.701159,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Fuencarral, 21",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472631337,
-    "wof:geomhash":"c73d05b8af77bccec6c0b74a1bdfdcf0",
+    "wof:geomhash":"282429d73b1d405fb708c8c4b674e998",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":1008532029,
-    "wof:lastmodified":1472767423,
+    "wof:lastmodified":1510942692,
     "wof:name":"Sixty Spain Retail S. L.",
     "wof:parent_id":85863791,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008532021
+    ],
     "wof:tags":[]
 },
   "bbox": [

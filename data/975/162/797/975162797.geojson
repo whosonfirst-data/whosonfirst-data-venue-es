@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.0825603008,41.3530311584,2.0825603008,41.3530311584",
     "geom:latitude":41.353031,
     "geom:longitude":2.08256,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Pg Ferrocarrils Catalans, 117",
     "sg:city":"Cornella Llobregat",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472508006,
-    "wof:geomhash":"5bf94cb141776aead52f7d8176b3c581",
+    "wof:geomhash":"55af8be0287fe5a23eec22c7c28df9c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":975162797,
-    "wof:lastmodified":1472767332,
+    "wof:lastmodified":1510943024,
     "wof:name":"Adria Phone S.l.",
     "wof:parent_id":85799283,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        975162795
+    ],
     "wof:tags":[]
 },
   "bbox": [

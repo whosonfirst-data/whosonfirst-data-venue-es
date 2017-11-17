@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.713912487,40.3389892578,-3.713912487,40.3389892578",
     "geom:latitude":40.338989,
     "geom:longitude":-3.713912,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Calle de Ciudad De Frias, 24",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472597510,
-    "wof:geomhash":"c86d1ca17b43250c875170729f1499e8",
+    "wof:geomhash":"2afd52e9b0d0107ef5d9529917229c76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":1008054367,
-    "wof:lastmodified":1472768388,
+    "wof:lastmodified":1510942344,
     "wof:name":"Movilfrit Espa\u00d1ola S.a.",
     "wof:parent_id":85799667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1008054365
+    ],
     "wof:tags":[]
 },
   "bbox": [

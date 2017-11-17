@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6783480644,40.4372749329,-3.6783480644,40.4372749329",
     "geom:latitude":40.437275,
     "geom:longitude":-3.678348,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"Calle de Maria De Molina, 64",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -34,11 +36,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":993571073,
         "sg:id":"SG_27u2KvGbNvUoU8dqOgVIR2_40.437275_-3.678348@1306269456"
     },
     "wof:country":"ES",
     "wof:created":1472538255,
-    "wof:geomhash":"aee0132d0d0b33f30154944839694784",
+    "wof:geomhash":"f13a02ec8244ed55b0aa20969ba97017",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":991216561,
-    "wof:lastmodified":1472768149,
+    "wof:lastmodified":1510941987,
     "wof:name":"Caja De Ingenieros",
     "wof:parent_id":85863673,
     "wof:placetype":"venue",

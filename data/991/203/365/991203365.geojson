@@ -7,6 +7,7 @@
     "addr:postcode":"43570",
     "addr:street":"Pl Alcalde Cid I Cid De L '",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":0.49246,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Pl Alcalde Cid I Cid (de L'), 7",
     "sg:city":"Santa Barbara",
     "sg:classifiers":[],
@@ -36,13 +37,17 @@
     "wof:geomhash":"57d0e2d9e4b716e31e4f79a9ff055924",
     "wof:hierarchy":[],
     "wof:id":991203365,
-    "wof:lastmodified":1510697646,
+    "wof:lastmodified":1510942260,
     "wof:name":"Caixa D'estalvis De Tarragona",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        991203365
+    ],
+    "wof:supersedes":[
+        991203365
+    ],
     "wof:tags":[]
 },
   "bbox": [

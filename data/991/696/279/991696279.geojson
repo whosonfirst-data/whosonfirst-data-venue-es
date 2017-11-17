@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.9210519791,43.2983283997,-2.9210519791,43.2983283997",
     "geom:latitude":43.298328,
     "geom:longitude":-2.921052,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avda Txori Erri, 46",
     "sg:city":"Basozabal",
     "sg:classifiers":[],
@@ -40,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472565287,
-    "wof:geomhash":"fe21a703dd06b7333e9da534aafc1f05",
+    "wof:geomhash":"48a55204472ebbd35e3ee1bffafdf6f8",
     "wof:hierarchy":[
         {
             "campus_id":102545753,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":991696279,
-    "wof:lastmodified":1472770225,
+    "wof:lastmodified":1510943421,
     "wof:name":"Frigicoll S.a.",
     "wof:parent_id":102545753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        991696271
+    ],
     "wof:tags":[]
 },
   "bbox": [

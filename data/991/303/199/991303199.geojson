@@ -7,13 +7,16 @@
     "addr:postcode":"33203",
     "addr:street":"Calle De Ezcurdia",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-5.6393370628,43.5343208313,-5.6393370628,43.5343208313",
     "geom:latitude":43.534321,
     "geom:longitude":-5.639337,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Ezcurdia, 194",
     "sg:city":"Gijon",
     "sg:classifiers":[],
@@ -39,7 +42,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472542791,
-    "wof:geomhash":"f8bad13252444770a5852de454457cef",
+    "wof:geomhash":"2c16efe24e2fb4a37fe1c288be9ef1f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":991303199,
-    "wof:lastmodified":1472769644,
+    "wof:lastmodified":1510943207,
     "wof:name":"Cbs Outdoor Spain S.a.",
     "wof:parent_id":85799415,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        991303201
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

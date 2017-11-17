@@ -7,13 +7,16 @@
     "addr:postcode":"madrid;28021",
     "addr:street":"Calle De Resina",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.6974871159,40.3361778259,-3.6974871159,40.3361778259",
     "geom:latitude":40.336178,
     "geom:longitude":-3.697487,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Calle de Resina, 22",
     "sg:city":"Madrid",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472594536,
-    "wof:geomhash":"8160ee0dc588dc62eaeff3adcfbead4b",
+    "wof:geomhash":"9ac3b31c2ae2addd2c5672a19bb16e94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":1007985383,
-    "wof:lastmodified":1472768299,
+    "wof:lastmodified":1510943442,
     "wof:name":"Mercambios S. L.",
     "wof:parent_id":85799667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1007985385
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

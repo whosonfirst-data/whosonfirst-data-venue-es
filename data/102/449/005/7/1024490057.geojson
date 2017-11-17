@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.655831337,40.5184745789,-3.655831337,40.5184745789",
     "geom:latitude":40.518475,
     "geom:longitude":-3.655831,
     "iso:country":"ES",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Avda Europa (de), 15",
     "sg:city":"Alcobendas",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"ES",
     "wof:created":1472641194,
-    "wof:geomhash":"666d14ded83d6bbde41143ab7d37f7c6",
+    "wof:geomhash":"f976a819f2650b550cc4779a78a9784f",
     "wof:hierarchy":[
         {
             "country_id":85633129,
@@ -45,13 +47,15 @@
         }
     ],
     "wof:id":1024490057,
-    "wof:lastmodified":1472766680,
+    "wof:lastmodified":1510941298,
     "wof:name":"Zara Espa\u00f1a S.a.",
     "wof:parent_id":85799389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-es",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1024490049
+    ],
     "wof:tags":[]
 },
   "bbox": [
